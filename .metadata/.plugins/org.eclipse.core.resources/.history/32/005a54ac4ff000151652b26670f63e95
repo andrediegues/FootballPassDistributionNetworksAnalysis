@@ -1,0 +1,54 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.URL;
+import java.net.URLConnection;
+import java.util.Scanner;
+
+
+public class DataExtractor {
+
+	/**
+	 * @param args
+	 * @throws IOException 
+	 */
+	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
+		Scanner in = new Scanner(System.in);
+		System.out.println("Introduce the URL from which you want to download all .pdf files:");
+		URL url = new URL(in.next());
+		System.out.println("Introduce a name for the html file to be saved (dont need to insert the '.html' extension):");
+		String filename = in.next();
+		String path = "/home/andre/" + filename + ".txt";
+		File file = new File(path);
+		if(!file.exists()){
+			file.createNewFile();
+		}
+		URLConnection connection = url.openConnection();
+		
+		BufferedReader br = new BufferedReader(new InputStreamReader(connection.getInputStream()));
+		FileWriter fw = new FileWriter(file.getAbsoluteFile());
+		BufferedWriter bw = new BufferedWriter(fw);
+		String line;
+		
+		while((line = br.readLine()) != null){
+			
+			if(line.contains("tpd.pdf")){
+			
+				int lastIndex = line.lastIndexOf("tpd.pdf");
+				int firstIndex = lastIndex - 28;
+		
+				bw.write("www.uefa.org" + line.substring(firstIndex, lastIndex + 7));
+				bw.append('\n');		
+			}
+		}
+		bw.close();
+		br.close();
+		
+		System.out.println("Done");
+	}
+
+}

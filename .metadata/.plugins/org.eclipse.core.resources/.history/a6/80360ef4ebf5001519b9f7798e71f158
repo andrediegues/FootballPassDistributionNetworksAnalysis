@@ -1,0 +1,9 @@
+package interpretation;
+
+import java.util.LinkedList;
+
+public class Team {
+	String name;
+	LinkedList<String> player;
+	int goalsScored;
+}

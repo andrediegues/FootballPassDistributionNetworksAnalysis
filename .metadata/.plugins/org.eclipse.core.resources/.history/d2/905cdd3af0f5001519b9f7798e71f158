@@ -1,0 +1,12 @@
+package interpretation;
+
+public class Pass {
+	Player origin;
+	Player destiny;
+	int value;
+	String type;
+	boolean completed;
+	Pass(Player o, Player d, int v){
+		
+	}
+}

@@ -1,0 +1,10 @@
+package interpretation;
+
+import java.util.LinkedList;
+
+public class Team {
+	String name;
+	LinkedList<Player> player;
+	int goalsScored;
+	Graph passDistro;
+}

@@ -1,0 +1,18 @@
+package interpretation;
+
+public class Player {
+	Team team;
+	String name;
+	int teamNumber;
+	int timePlayed;
+	int longPassesCompleted;
+	int longPassesAttempted;
+	int mediumPassesCompleted;
+	int mediumPassesAttempted;
+	int shortPassesCompleted;
+	int shortPassesAttempted;
+	int totalPassesCompleted;
+	int totalPassesAttempted;
+	int accuracy;
+	
+}

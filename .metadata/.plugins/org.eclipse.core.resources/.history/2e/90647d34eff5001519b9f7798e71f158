@@ -1,0 +1,8 @@
+package interpretation;
+
+public class Player {
+	Team team;
+	String name;
+	int teamNumber;
+	
+}
