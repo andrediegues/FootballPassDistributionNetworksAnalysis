@@ -43,14 +43,14 @@ public class DataExtractor {
 				for(int i = 0; i < line.length()-7; i++){
 					if(line.substring(i, i+7).equals("tpd.pdf")){
 						String urlPdf = "www.uefa.org" + line.substring(i - 28, i + 7);
-						String command = "wget " + urlPdf;
+						String command = "wget -P /home/andre/Documents/Uefa/ " + urlPdf;
 						Process p = Runtime.getRuntime().exec(command);
 						p.waitFor();
 						String pdfname = urlPdf.substring(32);
-						Process q = Runtime.getRuntime().exec("pdftotext " + pdfname);
+						Process q = Runtime.getRuntime().exec("pdftotext /home/andre/Documents/Uefa/" + pdfname);
 						q.waitFor();
 						//System.out.println(q.exitValue());	
-						bw.write(pdfname);
+						bw.write(pdfname.substring(0, 11) + ".txt");
 						bw.append("\n");
 					}
 				}
