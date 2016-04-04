@@ -1,8 +1,14 @@
 package interpretation;
 
 public class Match {
-	Team visited;
-	Team visiting;
-	int score;
-	
+	Team home;
+	Team away;
+	Season season;
+	int scoreHome;
+	int scoreAway;
+	Player[] homePositionsToPlayer;
+	Player[] awayPositionsToPlayer;
+	char[][] homeAdjacencyMatrix;
+	char[][] awayAdjacencyMatrix;
+	int numberOfMatches = 0;
 }
