@@ -16,13 +16,13 @@ public class Player {
 	int totalPassesCompleted;
 	int totalPassesAttempted;
 	int accuracy;
-	int numberOfPlayers = 0;
+	static int numberOfPlayers = 0;
 	
 	Player(Team t, String n, Season s, int tn, int tp, int lpc, int lpa, int mpc, int mpa, int spc, int spa, int tpc, int tpa, int a){
 		id++;
 		team = t;
 		name = n;
-		playedFor = new boolean[t.numberOfTeams][s.numberOfSeasons];
+		playedFor = new boolean[Team.numberOfTeams][Season.numberOfSeasons];
 		teamNumber = tn;
 		timePlayed = tp;
 		longPassesCompleted = lpc;
@@ -35,8 +35,5 @@ public class Player {
 		totalPassesAttempted = tpa;
 		accuracy = a;
 		numberOfPlayers++;
-	}
-	public int getNumberOfPlayers(){
-		return numberOfPlayers;
 	}
 }
