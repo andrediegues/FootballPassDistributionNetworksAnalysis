@@ -21,7 +21,7 @@ public class DataOrganizer {
 		}
 	}
 	public static void getFilesPath(int i, int j) throws IOException{
-		String path = "/home/andre/IIC/Uefa/games" + i + j + ".txt";
+		String path = "/home/andre/workspace/IIC/Uefa/games" + i + j + ".txt";
 		File file = new File(path);
 		BufferedReader br = new BufferedReader(new FileReader(file));
 		String line;

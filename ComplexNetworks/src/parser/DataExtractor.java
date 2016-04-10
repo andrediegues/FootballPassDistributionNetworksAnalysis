@@ -30,7 +30,7 @@ public class DataExtractor {
 				if(j == 0) continue;
 				// saving the name of each .pdf to a file
 				String filename = "games"+i+j;
-				String path = "/home/andre/IIC/Uefa/" + filename;
+				String path = "/home/andre/workspace/IIC/Uefa/" + filename;
 				File file = new File(path + ".txt");
 				// creates a file if doesn't exists
 				if(!file.exists()){
@@ -59,11 +59,11 @@ public class DataExtractor {
 				for(int i = 0; i < line.length()-7; i++){
 					if(line.substring(i, i+7).equals("tpd.pdf")){
 						String urlPdf = "www.uefa.org" + line.substring(i - 28, i + 7);
-						String command = "wget -P /home/andre/IIC/Uefa/ " + urlPdf;
+						String command = "wget -P /home/andre/workspace/IIC/Uefa/ " + urlPdf;
 						Process p = Runtime.getRuntime().exec(command);
 						p.waitFor();
 						String pdfname = urlPdf.substring(32);
-						Process q = Runtime.getRuntime().exec("pdftotext -raw /home/andre/IIC/Uefa/" + pdfname);
+						Process q = Runtime.getRuntime().exec("pdftotext -raw /home/andre/workspace/IIC/Uefa/" + pdfname);
 						q.waitFor();
 						//System.out.println(q.exitValue());	
 						bw.write(pdfname.substring(0, 11) + ".txt");

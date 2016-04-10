@@ -1,0 +1,389 @@
+Juventus win 1 - 0 on aggregate
+Quarter-finals 2nd leg - Wednesday 22 April 2015
+Stade Louis II - Monaco
+Passing Distribution
+00:17:19CET
+23 Apr 2015
+UEFA Media Information
+TP: Time played PA: Passes attempted PC: Passes completed %: Passing success percentage
+AS Monaco FC Juventus
+0 - 0
+1 2 5 2 - - - 1 3 1 - - -
+3 - 2 11 15 3 5 2 2 2 - - -
+1 4 9 3 2 5 12 - - 7 1 - -
+8 4 12 3 1 - 3 4 12 2 - - -
+- 12 7 5 6 2 6 3 3 6 1 - 1
+- 10 4 3 9 5 3 2 1 1 1 - -
+- 3 5 - 1 6 2 - - 3 - - -
+- 4 10 2 8 3 1 5 3 5 2 - -
+- - 7 - 3 2 2 4 - 1 1 - -
+4 11 2 4 3 1 - - 3 3 1 - -
+1 3 8 6 2 4 5 2 4 3 - - -
+- 1 - - 1 - - 1 1 - - - -
+- - - - 1 - - - - - - 1 -
+- - - - - - 1 - - - - - -
+1
+2
+3
+5
+8
+15
+17
+22
+23
+24
+28
+9
+12
+18
+95'06"
+95'06"
+95'06"
+95'06"
+95'06"
+95'06"
+87'50"
+95'06"
+76'19"
+95'06"
+46'01"
+49'05"
+7'16"
+18'47"
+3
+3
+4
+15
+4
+5
+1
+2
+0
+9
+4
+1
+0
+0
+10
+7
+6
+18
+6
+5
+1
+3
+1
+10
+6
+1
+0
+0
+12
+27
+23
+30
+29
+16
+6
+27
+10
+19
+30
+2
+1
+1
+12
+31
+29
+30
+32
+18
+7
+32
+10
+19
+32
+5
+1
+1
+0
+15
+17
+4
+19
+18
+13
+14
+10
+4
+4
+1
+1
+0
+0
+19
+21
+4
+23
+21
+14
+18
+10
+4
+5
+5
+2
+1
+15
+45
+44
+49
+52
+39
+20
+43
+20
+32
+38
+4
+2
+1
+22
+57
+56
+52
+61
+44
+22
+53
+21
+33
+43
+11
+3
+2
+68%
+79%
+79%
+94%
+85%
+89%
+91%
+81%
+95%
+97%
+88%
+36%
+67%
+50%
+Total passes received: 17 53 57 36 47 40 24 38 25 27 31 8 0 1 404 480 84%
+51 74 233 259 120 147
+1 2 3 5 8 15 17 22 23 24 28 9 12 18 PC PA PC PA PC PA PC PA %
+Long Medium Short Total
+TP
+To
+From
+4 - - - 1 1 4 4 1 - 2 - -
+1 1 1 2 - 4 8 7 - 7 1 1 -
+- 2 2 3 3 1 3 1 9 - 3 - -
+- - 2 1 1 - 3 2 2 2 - - -
+- 1 8 2 1 1 4 5 2 3 - - 1
+1 - 3 1 1 5 5 2 5 - - - -
+1 6 2 3 2 1 2 4 4 - - - 1
+- 5 5 5 13 5 2 3 - 4 - 1 1
+1 10 - 4 9 1 5 3 1 7 1 - -
+- - 5 3 3 1 - 5 - - - - 3
+1 3 3 2 - - 2 2 6 - 1 - -
+- - 1 - 3 - - 1 2 2 1 - -
+- 1 - - - - - - - - - - -
+- - - - 1 1 - 1 - 4 - 1 -
+1
+3
+8
+9
+10
+15
+19
+21
+23
+26
+33
+14
+20
+37
+95'06"
+95'06"
+95'06"
+69'12"
+95'06"
+95'06"
+95'06"
+95'06"
+77'44"
+95'06"
+91'01"
+25'54"
+4'05"
+17'22"
+7
+2
+1
+0
+1
+1
+7
+4
+3
+0
+0
+0
+0
+0
+11
+3
+2
+0
+1
+2
+9
+9
+6
+0
+0
+0
+0
+0
+10
+20
+18
+8
+19
+16
+15
+29
+30
+13
+12
+6
+1
+4
+10
+23
+21
+10
+23
+19
+18
+33
+33
+17
+14
+7
+1
+4
+0
+11
+8
+5
+8
+6
+4
+11
+9
+7
+8
+4
+0
+4
+0
+11
+11
+14
+11
+7
+5
+17
+12
+8
+9
+5
+0
+5
+17
+33
+27
+13
+28
+23
+26
+44
+42
+20
+20
+10
+1
+8
+21
+37
+34
+24
+35
+28
+32
+59
+51
+25
+23
+12
+1
+9
+81%
+89%
+79%
+54%
+80%
+82%
+81%
+75%
+82%
+80%
+87%
+83%
+100%
+89%
+Total passes received: 5 32 30 23 38 15 21 41 36 30 24 9 2 6 312 391 80%
+26 43 201 233 85 115
+1 3 8 9 10 15 19 21 23 26 33 14 20 37 PC PA PC PA PC PA PC PA %
+Long Medium Short Total
+TP
+To
+From
+Danijel Subašić
+Fabinho
+Layvin Kurzawa
+Aymen Abdennour
+João Moutinho
+Bernardo Silva
+Ferreira-Carrasco
+Geoffrey Kondogbia
+Anthony Martial
+Andrea Raggi
+Jérémy Toulalan
+Dimitar Berbatov
+Matheus Carvalho
+Valère Germain
+Gianluigi Buffon
+Giorgio Chiellini
+Claudio Marchisio
+Álvaro Morata
+Carlos Tévez
+Andrea Barzagli
+Leonardo Bonucci
+Andrea Pirlo
+Arturo Vidal
+Stephan Lichtsteiner
+Patrice Evra
+Fernando Llorente
+Simone Padoin
+Roberto Pereyra
+
