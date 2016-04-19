@@ -6,6 +6,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.Reader;
+import java.util.LinkedList;
 
 public class DataOrganizer {
 	public static void main(String[] args) throws IOException{
@@ -32,25 +33,63 @@ public class DataOrganizer {
 		File file2 = new File("/home/andre/workspace/IIC/ParsedFiles/" + filename);
 		BufferedReader br = new BufferedReader(new FileReader(file));
 		String line;
+		int n = 0;
+		int max = 0;
+		LinkedList<String> matrix = new LinkedList<String>();
 		while( (line = br.readLine()) != null){
 			if(isWeekDay(line) && isMonth(line)){
+				n = 0;
 				String weekday = getWeekDay(line);
 				int i = line.indexOf(weekday);
 				//escrever data para novo ficheiro a partir do index i
 			}
-			else if(isTeams(line))
+			else if(isTeams(line)){
 				//escrever para o novo ficheiro a funcao getmatchTeams
+				n = 0;
 				getTeams(line);
+			}
 			else if(isScore(line)){
 				//escrever o retorno da funcao getScore para o novo ficheiro
+				n = 0;
 				getScore(line);
-			}/*
+			}
 			else if(isTeamValues(line)){
 				//write team values to new file
-				getTeamValues(line);
-			}*/
+				if(n != max){
+					//write max and teamMatrix in new file
+					int[][] teamMatrix = buildTeam(matrix, max);
+					max = n = 0;
+				}
+				n++;
+				if(max < n) max = n;
+				matrix.add(line);
+			}
 		}
 		br.close();
+	}
+	
+	private static int[][] buildTeam(LinkedList<String> matrix, int n) {
+		String line;
+		int[][] teamMatrix = new int[n][n];
+		for(int i = 0; i < n; i++){
+			for(int j = 0; j < n; j++){
+				line = matrix.removeFirst();
+				for(int k = 0; k < line.length(); k++){
+					if(line.charAt(k) == '-' || i == j)
+						teamMatrix[i][j] = 0;
+					else if(line.charAt(k) == ' ')
+						continue;
+					else
+					teamMatrix[i][j] = line.charAt(k); 
+				}
+			}
+		}
+		return teamMatrix;
+	}
+	public static boolean isTeamValues(String s){
+		if(s.contains("-"))
+			return true;
+		return false;
 	}
 	
 	public static boolean isTeams(String s) throws IOException{
