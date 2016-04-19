@@ -1,6 +1,7 @@
 package interpretation;
 
 public class Match {
+	int id;
 	Team home;
 	Team away;
 	Season season;
