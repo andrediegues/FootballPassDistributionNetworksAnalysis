@@ -14,12 +14,13 @@ public class DataOrganizer {
 		int nMax = 2017;
 		int mMin = -2;
 		int mMax = 14;
-		for(int i = nMin; i < nMax; i++){
-			for(int j = mMin; j < mMax; j++){
+		/*for(int i = nMin; i < nMax; i++){
+			//for(int j = mMin; j < mMax; j++){
 				if(j == 0) continue;
 				getFilesPath(i, j);
-			}
-		}
+	}	
+		}*/
+		getFilesPath(2013,-1);
 	}
 	public static void getFilesPath(int i, int j) throws IOException{
 		String filename = "/home/andre/workspace/IIC/Uefa/games" + i + j + ".txt"; 
@@ -28,6 +29,7 @@ public class DataOrganizer {
 		String s;
 		while((s = br.readLine()) != null){
 			String path = "/home/andre/workspace/IIC/Uefa/" + s;
+			System.out.println("parsing " + s);
 			parse(path, s);
 		}
 		br.close();
@@ -57,16 +59,23 @@ public class DataOrganizer {
 		int count = 0;
 		LinkedList<String> matrix = new LinkedList<String>();
 		while( (line = br.readLine()) != null){
-			if(line.equals(""));
+			if(line.isEmpty())
+				continue;
+			
+				//System.out.println("|" + line + "|");
 			if(isWeekDay(line) && isMonth(line)){
+				//System.out.println("is week da");
 				n = 0;
 				String weekday = "";
 				weekday = getWeekDay(line);
+				//System.out.println(line);
 				int i = line.indexOf(weekday);
+				//System.out.println(i);
 				//escrever data para novo ficheiro a partir do index i
 				writeToParsedFile(line.substring(i), bw);
 			}
 			else if(isTeams(line)){
+				//System.out.println("isteams");
 				//escrever para o novo ficheiro a funcao getmatchTeams
 				n = 0;
 				writeToParsedFile(getTeams(line), bw);
@@ -79,19 +88,60 @@ public class DataOrganizer {
 			else if(isTeamValues(line)){
 				//write team values to new file
 				b = true;
-				if(n != max){
+					
+				/*System.out.println("n: " + n + "max: " + max);
+				//System.out.println(line);
 					//write max and teamMatrix in new file
-					m = max;
-					int[][] teamMatrix = buildTeam(matrix, max);
 					writeToParsedFile(max, bw);
-					writeToParsedFile(teamMatrix, max, bw);
+					m = max;
+					String s = matrix.removeFirst();
+					for(int i = 0; i < s.length(); i++)
+						if(i == n)
+							bw.write('0');
+						else{
+							if(s.charAt(i) == '-')
+								bw.write('0');
+							else
+								bw.write(s.charAt(i));
+						}
+					bw.append('\n');
 					max = n = 0;
 				}
 				n++;
-				if(max < n) max = n;
+				if(max < n) max = n;*/
 				matrix.add(line);
 			}
+			else if(!isTeamValues(line) && !matrix.isEmpty()){
+				int size = matrix.size();
+				System.out.println("| "+ size);
+				writeToParsedFile(size, bw);
+				int[][] teamMatrix = new int[size][size];
+				for(int i = 0; i < size; i++)
+					for(int j = 0; j < size; j++)
+						if(i == j)
+							teamMatrix[i][j] = 0;
+			
+				for(int i = 0; i < size; i++){
+						String s = matrix.removeFirst();
+					for(int j = 0; j < size; j++){
+						for(int k = 0; k < s.length(); k++)
+							if(s.charAt(k) == '-')
+								teamMatrix[i][j] = 0;
+							else if(s.charAt(k) == ' ') 
+								continue;
+							else
+								teamMatrix[i][j] = s.charAt(k);
+						}
+					}
+				
+				for(int i = 0; i < size; i++){
+					for(int j = 0; j < size; j++)
+						bw.write(teamMatrix[i][j] + " ");
+					bw.append('\n');
+				}
+			}
 			else if(Character.isDigit(line.charAt(0)) && b){
+				n = 0;
 				if(!hometeam || index != 0){
 					hometeam = true;
 					playerNumbersH = new int[m];
@@ -118,6 +168,7 @@ public class DataOrganizer {
 				}
 			}
 			else if(line.contains("'") && line.contains("\"")){
+				n = 0;
 				if(!hometeam || index != 0){
 					hometeam = true;
 					timePlayedH = new int[m];
@@ -142,9 +193,12 @@ public class DataOrganizer {
 					}
 				}
 			}
-			else if(line.equals("From"))
+			else if(line.equals("From")){
+				n = 0;
 				count++;
+			}
 			else if(count == 2){
+				n = 0;
 				playerNameH = new String[nrH];
 				playerNameA = new String[m];
 				if(index < nrH)
@@ -152,7 +206,7 @@ public class DataOrganizer {
 				else if(index2 < m)
 					playerNameA[index2] = line;
 			}
-		}
+		}/*
 		writeToParsedFile(nrH, bw);
 		for(int i = 0; i < nrH; i++){
 			bw.write(playerNumbersH[i] + " ");
@@ -164,9 +218,10 @@ public class DataOrganizer {
 			bw.write(playerNumbersA[i] + " ");
 			bw.write(playerNameA[i] + " ");
 			writeToParsedFile(timePlayedA[i], bw);
-		}
+		}*/
 		br.close();
 		bw.close();
+		
 	}
 	
 	private static void writeToParsedFile(String s, BufferedWriter bw) throws IOException{
@@ -191,7 +246,9 @@ public class DataOrganizer {
 		int[][] teamMatrix = new int[n][n];
 		for(int i = 0; i < n; i++){
 			for(int j = 0; j < n; j++){
-				line = matrix.removeFirst();
+				if(!matrix.isEmpty())
+					line = matrix.removeFirst();
+				else continue;
 				for(int k = 0; k < line.length(); k++){
 					if(line.charAt(k) == '-' || i == j)
 						teamMatrix[i][j] = 0;
@@ -205,8 +262,13 @@ public class DataOrganizer {
 		return teamMatrix;
 	}
 	public static boolean isTeamValues(String s){
-		if(s.contains("-"))
+		if(s.length() <= 29 && s.contains("-")){
+			for(int i = 0; i < s.length(); i++){
+				if(Character.isAlphabetic(s.charAt(i)))
+					return false;
+			}
 			return true;
+		}
 		return false;
 	}
 	
@@ -218,7 +280,8 @@ public class DataOrganizer {
 		BufferedReader br = new BufferedReader(new FileReader(file));
 		String line;
 		while((line = br.readLine()) != null){
-			if(s.contains(line) && (s.charAt(0) == line.charAt(0))){
+			//System.out.println("|" + s + "|" + line + "|" + s.contains(line));
+			if(s.contains(line) && (s.charAt(0) == line.charAt(0) && !home)){
 				home = true;
 			}
 			else if(s.contains(line)){
@@ -237,7 +300,7 @@ public class DataOrganizer {
 		BufferedReader br = new BufferedReader(new FileReader(file));
 		String line;
 		while((line = br.readLine()) != null){
-			if(s.contains(line) && s.charAt(0) == line.charAt(0)){
+			if(s.contains(line) && s.indexOf(line) == 0){
 				home = line;
 			}
 			else if(s.contains(line)){
@@ -249,7 +312,8 @@ public class DataOrganizer {
 	}
 	
 	public static boolean isScore(String s){
-		if(Character.isDigit(s.charAt(0)) && Character.isDigit(s.charAt(4)) && s.length() == 4){
+		//System.out.println("isScore |"+ s + "|");
+		if(s.length() == 5 && Character.isDigit(s.charAt(0)) && Character.isDigit(s.charAt(4)) ){
 			return true;
 		}
 		return false;
@@ -273,19 +337,19 @@ public class DataOrganizer {
 				s.contains("Sunday"));
 	}
 	public static String getWeekDay(String s){
-		if(s.equals("Monday"))
+		if(s.contains("Monday"))
 			return "Monday";
-		else if(s.equals("Tuesday"))
+		else if(s.contains("Tuesday"))
 			return "Tuesday";
-		else if(s.equals("Wednesday"))
+		else if(s.contains("Wednesday"))
 			return "Wednesday";
-		else if(s.equals("Thursday"))
+		else if(s.contains("Thursday"))
 			return "Thursday";
-		else if(s.equals("Friday"))
+		else if(s.contains("Friday"))
 			return "Friday";
-		else if(s.equals("Saturday"))
+		else if(s.contains("Saturday"))
 			return "Saturday";
-		else if(s.equals("Sunday"))
+		else if(s.contains("Sunday"))
 			return "Sunday";
 		return "";
 	}
