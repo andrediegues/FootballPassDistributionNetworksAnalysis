@@ -7,6 +7,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.LinkedList;
+import java.util.Scanner;
 
 public class DataOrganizer {
 	public static void main(String[] args) throws IOException{
@@ -15,10 +16,10 @@ public class DataOrganizer {
 		int mMin = -2;
 		int mMax = 14;
 		/*for(int i = nMin; i < nMax; i++){
-			//for(int j = mMin; j < mMax; j++){
+			for(int j = mMin; j < mMax; j++){
 				if(j == 0) continue;
 				getFilesPath(i, j);
-	}	
+			}	
 		}*/
 		getFilesPath(2013,-1);
 	}
@@ -88,56 +89,33 @@ public class DataOrganizer {
 			else if(isTeamValues(line)){
 				//write team values to new file
 				b = true;
-					
-				/*System.out.println("n: " + n + "max: " + max);
-				//System.out.println(line);
-					//write max and teamMatrix in new file
-					writeToParsedFile(max, bw);
-					m = max;
-					String s = matrix.removeFirst();
-					for(int i = 0; i < s.length(); i++)
-						if(i == n)
-							bw.write('0');
-						else{
-							if(s.charAt(i) == '-')
-								bw.write('0');
-							else
-								bw.write(s.charAt(i));
-						}
-					bw.append('\n');
-					max = n = 0;
-				}
-				n++;
-				if(max < n) max = n;*/
 				matrix.add(line);
 			}
 			else if(!isTeamValues(line) && !matrix.isEmpty()){
-				int size = matrix.size();
-				System.out.println("| "+ size);
-				writeToParsedFile(size, bw);
+				Integer size = matrix.size();
+				//System.out.println("| "+ size);
+				bw.append(size.toString());
+				bw.append('\n');
 				int[][] teamMatrix = new int[size][size];
-				for(int i = 0; i < size; i++)
-					for(int j = 0; j < size; j++)
-						if(i == j)
-							teamMatrix[i][j] = 0;
-			
 				for(int i = 0; i < size; i++){
-						String s = matrix.removeFirst();
-					for(int j = 0; j < size; j++){
-						for(int k = 0; k < s.length(); k++)
-							if(s.charAt(k) == '-')
-								teamMatrix[i][j] = 0;
-							else if(s.charAt(k) == ' ') 
-								continue;
-							else
-								teamMatrix[i][j] = s.charAt(k);
-						}
+					String s = matrix.removeFirst();
+					//System.out.println(i + "!" + s);
+					Scanner in = new Scanner(s);
+					for(int j = 0; j < size; j++) {
+						if (i == j) continue;
+						String aux = in.next();
+						if(aux.equals("-"))
+							teamMatrix[i][j] = 0;
+						else
+							teamMatrix[i][j] = Integer.parseInt(aux);
 					}
+					in.close();
+				}	
 				
 				for(int i = 0; i < size; i++){
 					for(int j = 0; j < size; j++)
-						bw.write(teamMatrix[i][j] + " ");
-					bw.append('\n');
+						bw.append(teamMatrix[i][j] + " ");
+					bw.append('\n');				
 				}
 			}
 			else if(Character.isDigit(line.charAt(0)) && b){
@@ -206,9 +184,11 @@ public class DataOrganizer {
 				else if(index2 < m)
 					playerNameA[index2] = line;
 			}
-		}/*
-		writeToParsedFile(nrH, bw);
-		for(int i = 0; i < nrH; i++){
+		}
+		//writeToParsedFile(nrH, bw);
+		System.out.println(nrH + " " + m);
+
+		/*for(int i = 0; i < nrH; i++){
 			bw.write(playerNumbersH[i] + " ");
 			bw.write(playerNameH[i] + " ");
 			writeToParsedFile(timePlayedH[i], bw);
@@ -262,11 +242,20 @@ public class DataOrganizer {
 		return teamMatrix;
 	}
 	public static boolean isTeamValues(String s){
-		if(s.length() <= 29 && s.contains("-")){
-			for(int i = 0; i < s.length(); i++){
-				if(Character.isAlphabetic(s.charAt(i)))
-					return false;
+		Scanner in = new Scanner(s);
+		String c;
+		int i = 0;
+		while(in.hasNext()){
+			c = in.next();
+
+			//System.out.println(c);
+			i++;
+			if(!isNumeric(c) && !c.equals("-")){
+				return false;
 			}
+		}
+		if(i > 9 && i < 14){
+			//System.out.println("entrei " + s);
 			return true;
 		}
 		return false;
@@ -368,6 +357,8 @@ public class DataOrganizer {
 				s.contains("November") ||
 				s.contains("December"));		
 	}
-	
+	public static boolean isNumeric(String s) {  
+	    return s.matches("[-+]?\\d*\\.?\\d+");  
+	}
 	
 }
