@@ -1,0 +1,118 @@
+Tuesday 18 August 2015
+1
+0
+14
+0 2 2 1 3 0 2 1 0 8 1 0 0 2 
+5 0 5 4 0 3 2 1 3 5 2 0 0 1 
+2 4 0 4 0 2 0 0 1 1 3 0 3 1 
+0 2 0 0 3 0 4 3 0 1 1 0 4 2 
+0 1 1 1 0 1 0 1 0 0 1 0 0 0 
+1 0 0 3 0 0 1 2 0 3 0 0 3 0 
+3 0 2 5 2 2 0 3 2 1 6 0 0 1 
+2 6 2 2 0 2 7 0 3 3 2 1 1 1 
+0 3 2 5 2 1 3 3 0 0 2 0 1 0 
+5 8 1 1 0 2 7 1 2 0 0 0 0 1 
+0 0 3 2 0 2 0 5 1 1 0 0 1 0 
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+0 0 0 1 0 0 0 0 0 0 1 0 0 0 
+0 0 1 2 0 0 0 0 0 0 2 0 2 0 
+99
+3
+8
+10
+11
+16
+19
+20
+23
+33
+87
+6
+14
+21
+96'56"
+89'13"
+96'56"
+96'56"
+46'00"
+96'56"
+96'56"
+96'56"
+53'17"
+96'56"
+96'56"
+7'43"
+50'56"
+43'39"
+14
+0 2 1 0 0 0 4 0 0 0 1 0 0 0 
+2 0 2 0 1 0 1 6 1 1 1 2 0 0 
+2 3 0 0 2 2 2 0 1 1 1 0 0 0 
+0 0 0 0 1 0 1 1 1 2 0 0 0 0 
+0 0 0 0 0 5 5 1 1 1 3 4 0 0 
+0 0 1 1 3 0 3 1 4 0 4 4 0 0 
+0 1 1 2 3 4 0 0 5 3 5 3 2 0 
+3 1 1 0 2 2 1 0 1 9 9 2 0 0 
+3 3 0 1 1 4 4 0 0 2 5 2 0 0 
+2 1 0 1 2 3 7 3 6 0 3 4 0 0 
+1 1 0 0 1 1 3 5 2 5 0 2 0 0 
+0 0 0 0 2 1 2 2 0 3 2 0 0 0 
+0 0 0 0 0 0 1 0 1 0 1 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1
+4
+5
+7
+8
+10
+11
+13
+18
+23
+38
+14
+19
+27
+96'56"
+96'56"
+96'56"
+46'00"
+96'56"
+84'35"
+94'34"
+96'56"
+96'56"
+96'56"
+96'56"
+50'56"
+12'20"
+2'22"
+Etrit Berisha
+Stefan de Vrij
+Dušan Basta
+Felipe Anderson
+Miroslav Klose
+Marco Parolo
+Senad Lulić
+Lucas Biglia
+Ogenyi Onazi
+Maurício
+Antonio Candreva
+Santiago Gentiletti
+Keita
+Milinković-Savić
+Bernd Leno
+Jonathan Tah
+Papadopoulos
+Son Heung-Min
+Lars Bender
+Hakan Çalhanoğlu
+Stefan Kiessling
+Roberto Hilbert
+Wendell
+Christoph Kramer
+Karim Bellarabi
+Admir Mehmedi
+Julian Brandt
+Robbie Kruse
+

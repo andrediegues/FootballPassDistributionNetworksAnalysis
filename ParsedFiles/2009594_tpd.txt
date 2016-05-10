@@ -1,0 +1,118 @@
+Tuesday 12 March 2013
+2
+3
+14
+0 2 1 1 2 2 3 0 3 1 2 0 1 0 
+3 0 2 2 3 2 7 0 2 3 2 0 0 0 
+0 1 0 1 3 4 1 9 1 2 7 0 4 0 
+0 2 3 0 4 0 3 3 2 1 4 0 0 0 
+0 2 2 11 0 0 9 6 1 1 1 1 1 2 
+0 0 6 1 0 0 0 3 0 2 2 0 1 0 
+1 4 1 2 14 2 0 3 3 1 2 0 1 0 
+0 2 7 3 8 1 3 0 0 0 3 0 4 0 
+2 7 3 2 1 1 2 3 0 0 3 1 5 0 
+0 2 2 1 2 0 1 2 1 0 1 0 0 0 
+0 0 11 3 2 5 2 6 6 0 0 0 2 0 
+0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+1 2 8 2 1 1 1 7 4 0 3 1 0 0 
+1 2 0 0 1 0 0 0 0 0 1 1 0 0 
+34
+4
+9
+12
+17
+20
+22
+31
+32
+33
+35
+19
+23
+29
+98'09"
+98'09"
+98'09"
+87'11"
+98'09"
+87'05"
+98'09"
+98'09"
+98'09"
+47'22"
+98'09"
+11'04"
+50'47"
+10'58"
+14
+0 3 1 0 6 10 3 0 1 0 0 0 0 1 
+1 0 1 6 1 2 2 7 3 5 5 0 0 0 
+0 3 0 5 6 4 1 5 2 1 0 0 1 1 
+0 8 5 0 0 5 1 2 1 4 2 1 0 0 
+0 2 8 2 0 4 2 1 2 2 0 0 0 3 
+1 2 3 1 4 0 0 2 1 1 2 0 0 3 
+0 0 7 2 1 0 0 0 1 4 1 0 0 0 
+1 7 5 1 0 2 0 0 1 1 3 0 0 0 
+0 1 2 0 0 2 1 1 0 1 2 0 0 0 
+10 4 1 0 3 2 1 3 1 0 2 0 0 0 
+0 5 3 4 0 2 0 3 3 1 0 0 0 0 
+0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+0 1 0 0 1 3 0 0 1 0 0 0 0 0 
+25
+4
+8
+10
+11
+12
+13
+14
+17
+26
+27
+5
+19
+53
+98'09"
+98'09"
+98'09"
+98'09"
+98'09"
+98'09"
+98'09"
+71'56"
+87'41"
+81'03"
+98'09"
+17'06"
+10'28"
+26'13"
+Timo Hildebrand
+Benedikt Höwedes
+Michel Bastos
+Marco Höger
+Jefferson Farfán
+Teemu Pukki
+Atsuto Uchida
+Julian Draxler
+Joel Matip
+Roman Neustädter
+Sead Kolasinac
+Chinedu Obasi
+Christian Fuchs
+Max Meyer
+Fernando Muslera
+Hamit Altıntop
+Selçuk İnan
+Felipe Melo
+Albert Riera
+Didier Drogba
+Dany Nounkeu
+Wesley Sneijder
+Burak Yılmaz
+Semih Kaya
+Emmanuel Eboué
+Gökhan Zan
+Umut Bulut
+Nordin Amrabat
+
