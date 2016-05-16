@@ -1,7 +1,6 @@
 package interpretation;
 
-public class Match {
-	int id;
+public class Match { 
 	Team home;
 	Team away;
 	Season season;
@@ -13,10 +12,9 @@ public class Match {
 	char[][] awayAdjacencyMatrix;
 	static int numberOfMatches = 0;
 	
-	public Match(Team h, Team a, Season season, MatchScore score, MatchDate d, Player[] hptp, Player[] aptp, char[][] ham, char[][] aam){
+	public Match(Team h, Team a, MatchScore score, MatchDate d, Player[] hptp, Player[] aptp, char[][] ham, char[][] aam){
 		home = h;
 		away = a;
-		this.season = season;
 		this.score = score;
 		date = d;
 		homePositionsToPlayer = hptp;
@@ -45,9 +43,9 @@ class MatchScore {
 	int homeScore;
 	int awayScore;
 	
-	MatchScore(String s){
-		homeScore = s.charAt(0);
-		awayScore = s.charAt(4);
+	MatchScore(int h, int a){
+		homeScore = h;
+		awayScore = a;
 	}	
 }
 

@@ -5,16 +5,21 @@ import java.util.LinkedList;
 public class Team {
 	String name;
 	String country;
-	boolean[][] players;
+	boolean[][] players = new boolean[Player.numberOfPlayers][Season.numberOfSeasons];
 	LinkedList<Match> matches;
+	int id = -1;
 	static int numberOfTeams = 0;
 	
 	Team(String n){
+		id++;
+		numberOfTeams++;
 		name = n;
 		country = getCountry(n);
-		players = new boolean[Player.numberOfPlayers][Season.numberOfSeasons];
 		matches = new LinkedList<Match>();
-		numberOfTeams++;
+	}
+	
+	public void addTeamPlayerInSeason(Player p, Season s){
+		players[p.id][s.index] = true;
 	}
 	
 	public void addMatch(Match m){
