@@ -36,7 +36,7 @@ public class Team {
 		return null;
 	}
 	public String toString(){
-		return name + " " + season + "\n";
+		return name;
 	}
 }
 enum Country{
