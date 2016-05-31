@@ -1,21 +1,25 @@
 package interpretation;
 
 public class Player {
-	int id = -1;
+	//int id = -1;
 	Team team;
 	int teamNumber;
 	String name;
-	int totalTimePlayed;
-	boolean[][] playedFor = new boolean[Team.numberOfTeams][Season.numberOfSeasons];
-	static int numberOfPlayers = 0;
+	int totalTimePlayed = 0;
+	//boolean[][] playedFor = new boolean[Team.numberOfTeams][Season.numberOfSeasons];
+	//static int numberOfPlayers = 0;
 	
 	Player(Team t, Season s, int tn, String n, int ttp){
-		id++;
+		//id++;
 		team = t;
 		teamNumber = tn;
 		name = n;
-		totalTimePlayed = ttp;
-		playedFor[t.id][s.index] = true;
-		numberOfPlayers++;
+		totalTimePlayed += ttp;
+		//playedFor[t.id][s.index] = true;
+		//numberOfPlayers++;
+	}
+	
+	public String toString(){
+		return name + " " + teamNumber + " " + totalTimePlayed + " " + team.name;
 	}
 }

@@ -5,30 +5,38 @@ import java.util.LinkedList;
 public class Team {
 	String name;
 	String country;
-	boolean[][] players = new boolean[Player.numberOfPlayers][Season.numberOfSeasons];
+	Season season;
+	//boolean[][] players = new boolean[Player.numberOfPlayers][Season.numberOfSeasons];
 	LinkedList<Match> matches;
-	int id = -1;
-	static int numberOfTeams = 0;
+	LinkedList<Player> players;
 	
-	Team(String n){
-		id++;
-		numberOfTeams++;
+	Team(String n, Season s){
 		name = n;
-		country = getCountry(n);
+		//country = getCountry(n);
+		season = s;
 		matches = new LinkedList<Match>();
+		players = new LinkedList<Player>();
 	}
 	
 	public void addTeamPlayerInSeason(Player p, Season s){
-		players[p.id][s.index] = true;
+		//players[p.id][s.index] = true;
+		if(season == s && !players.contains(p)){
+			players.addFirst(p);
+		}
 	}
 	
-	public void addMatch(Match m){
-		this.matches.add(m);
+	public void addMatch(Match m, Season s){
+		if(season == s){
+			matches.addFirst(m);
+		}
 	}
 	
 	//falta implementar
 	public String getCountry(String team){
 		return null;
+	}
+	public String toString(){
+		return name + " " + season + "\n";
 	}
 }
 enum Country{

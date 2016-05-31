@@ -8,11 +8,11 @@ public class Match {
 	MatchDate date;
 	Player[] homePositionsToPlayer;
 	Player[] awayPositionsToPlayer;
-	char[][] homeAdjacencyMatrix;
-	char[][] awayAdjacencyMatrix;
-	static int numberOfMatches = 0;
+	int[][] homeAdjacencyMatrix;
+	int[][] awayAdjacencyMatrix;
+	//static int numberOfMatches = 0;
 	
-	public Match(Team h, Team a, MatchScore score, MatchDate d, Player[] hptp, Player[] aptp, char[][] ham, char[][] aam){
+	public Match(Team h, Team a, MatchScore score, MatchDate d, Player[] hptp, Player[] aptp, int[][] ham, int[][] aam){
 		home = h;
 		away = a;
 		this.score = score;
@@ -21,7 +21,11 @@ public class Match {
 		awayPositionsToPlayer = aptp;
 		homeAdjacencyMatrix = ham;
 		awayAdjacencyMatrix = aam;
-		numberOfMatches++;
+		//numberOfMatches++;
+	}
+	
+	public String toString(){
+		return date + "\n" + home + " vs " + away + " -> " + score.homeScore + "-" + score.awayScore + "\n";
 	}
 }
 
