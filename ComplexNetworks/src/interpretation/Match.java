@@ -27,6 +27,17 @@ public class Match {
 	public String toString(){
 		return date + "\n" + home + " vs " + away + " -> " + score.homeScore + "-" + score.awayScore + "\n";
 	}
+	
+	public void readAllPasses(int[][] matrix, Player[] players){
+		for(int i = 0; i < players.length; i++){
+			for(int j = 0; j < players.length; j++){
+				/*if(matrix[i][j] == 0){
+					continue;
+				}*/
+				players[i].addPass(players[j], matrix[i][j]);
+			}
+		}
+	}
 }
 
 class MatchDate {
