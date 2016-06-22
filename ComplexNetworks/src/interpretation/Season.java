@@ -18,11 +18,13 @@ public class Season {
 	
 	public void addTeamToSeason(Team t){
 		if(teams.isEmpty()){
-			System.out.println("entrei");
+			//System.out.println("entrei");
 			teams.addFirst(t);
+			//System.out.println("|| " + teams.size() + " " + t.toString());
 		}
 		else if(!teams.contains(t)){
 			teams.addFirst(t);
+			//System.out.println("|| " + teams.size() + " " + t.toString());
 		}
 	}
 	

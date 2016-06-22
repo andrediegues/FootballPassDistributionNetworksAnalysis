@@ -3,6 +3,7 @@ package interpretation;
 import java.util.LinkedList;
 
 public class Team {
+	int id = -1;
 	String name;
 	String country;
 	Season season;
@@ -11,6 +12,7 @@ public class Team {
 	LinkedList<Player> players;
 	
 	Team(String n, Season s){
+		id++;
 		name = n;
 		//country = getCountry(n);
 		season = s;
@@ -35,8 +37,11 @@ public class Team {
 	public String getCountry(String team){
 		return null;
 	}
+	public int getID(){
+		return this.id;
+	}
 	public String toString(){
-		return name;
+		return "ID: " + id + "\nName: " + name + "\nSeason: " + season + "\nNo. Players: " + players.size() + "\nNo. Matches: " + matches.size();
 	}
 }
 enum Country{

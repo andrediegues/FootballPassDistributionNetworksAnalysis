@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 public class DataOrganizer {
 	public static void main(String[] args) throws IOException{
-		int nMin = 2013;
+		/*int nMin = 2013;
 		int nMax = 2017;
 		int mMin = -2;
 		int mMax = 14;
@@ -20,16 +20,18 @@ public class DataOrganizer {
 				if(j == 0) continue;
 				getFilesPath(i, j);
 			}	
-		}
-		//getFilesPath(2013,-1);
+		}*/
+		getFilesPath(2013,1);
 	}
 	public static void getFilesPath(int i, int j) throws IOException{
-		String filename = "/home/andre/workspace/IIC/Uefa/games" + i + j + ".txt"; 
+	//	String filename = "/home/andre/workspace/IIC/Uefa/games" + i + j + ".txt";
+		String filename = "/home/andre/workspace/IIC/ParsedFiles/failedteams.txt";
 		File f = new File(filename);
 		BufferedReader br = new BufferedReader(new FileReader(f));
-		String s;
+		String s;// = "2009499_tpd.txt";
 		while((s = br.readLine()) != null){
 			String path = "/home/andre/workspace/IIC/Uefa/" + s;
+			//String path = "/home/andre/workspace/IIC/Uefa/2009499_tpd.txt";
 			System.out.println("parsing " + s);
 			parse(path, s);
 		}
@@ -38,7 +40,8 @@ public class DataOrganizer {
 	//to do
 	public static void parse(String filePath, String filename) throws IOException{
 		File file = new File(filePath);
-		File file2 = new File("/home/andre/workspace/IIC/ParsedFiles/" + filename);
+		//File file2 = new File("/home/andre/workspace/IIC/ParsedFiles/" + filename);
+		File file2 = new File("/home/andre/workspace/IIC/ParsedFiles/2011870_tpd.txt");
 		BufferedReader br = new BufferedReader(new FileReader(file));
 		FileWriter fw = new FileWriter(file2.getAbsoluteFile());
 		BufferedWriter bw = new BufferedWriter(fw);
@@ -64,7 +67,7 @@ public class DataOrganizer {
 		while( (line = br.readLine()) != null){
 			if(line.isEmpty())
 				continue;
-			
+			//System.out.println("# " + line);
 			if(isWeekDay(line) && isMonth(line)){
 
 				//System.out.println("#date " + line);
@@ -154,7 +157,7 @@ public class DataOrganizer {
 					}
 				}
 			}
-			else if(line.contains("'") && line.contains("\"")){
+			else if(line.contains("\"")){
 				n = 0;	
 				//System.out.println("# " + line);
 				timePlayedH = new String[nrH];
@@ -279,9 +282,12 @@ public class DataOrganizer {
 		while((line = br.readLine()) != null){
 			if(s.contains(line) && s.indexOf(line) == 0){
 				home = line;
+				System.out.println("|" + s + "|" + home + "|");
+
 			}
 			else if(s.contains(line)){
 				away = line;
+				System.out.println("|" + s + "|" + away + "|");
 			}
 		}
 		br.close();

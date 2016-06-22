@@ -52,6 +52,10 @@ class MatchDate {
 		month = m;
 		year = y;
 	}
+	
+	public String toString(){
+		return weekday + ", " + day + " " + month + " " + year; 
+	}
 }
 
 class MatchScore {
@@ -61,6 +65,10 @@ class MatchScore {
 	MatchScore(int h, int a){
 		homeScore = h;
 		awayScore = a;
-	}	
+	}
+	
+	public String toString(){
+		return homeScore + " - " + awayScore; 
+	}
 }
 
