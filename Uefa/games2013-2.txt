@@ -1,10 +1,4 @@
-2009474_tpd.txt
-2009468_tpd.txt
-2009469_tpd.txt
-2009477_tpd.txt
-2009476_tpd.txt
 2009473_tpd.txt
-2009472_tpd.txt
 2009475_tpd.txt
 2009471_tpd.txt
 2009470_tpd.txt

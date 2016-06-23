@@ -1,0 +1,367 @@
+"Iker Casillas","Raphaël Varane",11
+"Iker Casillas","Pepe",12
+"Iker Casillas","Sami Khedira",3
+"Iker Casillas","Cristiano Ronaldo",6
+"Iker Casillas","Marcelo",5
+"Iker Casillas","Xabi Alonso",11
+"Iker Casillas","Michael Essien",8
+"Iker Casillas","Álvaro Arbeloa",1
+"Iker Casillas","Ángel Di María",4
+"Iker Casillas","Mesut Özil",2
+"Iker Casillas","Luka Modrić",4
+"Iker Casillas","Sergio Ramos",12
+"Iker Casillas","José Callejón",2
+"Iker Casillas","Fábio Coentrão",1
+"Raphaël Varane","Iker Casillas",11
+"Raphaël Varane","Pepe",26
+"Raphaël Varane","Sami Khedira",16
+"Raphaël Varane","Cristiano Ronaldo",11
+"Raphaël Varane","Marcelo",4
+"Raphaël Varane","Xabi Alonso",29
+"Raphaël Varane","Michael Essien",12
+"Raphaël Varane","Álvaro Arbeloa",25
+"Raphaël Varane","Gonzalo Higuaín",4
+"Raphaël Varane","Ángel Di María",17
+"Raphaël Varane","Karim Benzema",4
+"Raphaël Varane","Mesut Özil",21
+"Raphaël Varane","Luka Modrić",25
+"Raphaël Varane","Sergio Ramos",71
+"Raphaël Varane","Kaká",5
+"Raphaël Varane","José Callejón",1
+"Raphaël Varane","Fábio Coentrão",6
+"Raphaël Varane","Antonio Adán",2
+"Raphaël Varane","Ricardo Carvalho",1
+"Raphaël Varane","Nacho",5
+"Raphaël Varane","Álvaro Morata",1
+"Raphaël Varane","Diego López",12
+"Pepe","Iker Casillas",13
+"Pepe","Raphaël Varane",39
+"Pepe","Sami Khedira",13
+"Pepe","Cristiano Ronaldo",18
+"Pepe","Marcelo",11
+"Pepe","Xabi Alonso",41
+"Pepe","Michael Essien",26
+"Pepe","Álvaro Arbeloa",20
+"Pepe","Gonzalo Higuaín",3
+"Pepe","Ángel Di María",11
+"Pepe","Karim Benzema",4
+"Pepe","Mesut Özil",11
+"Pepe","Luka Modrić",14
+"Pepe","Sergio Ramos",16
+"Pepe","Kaká",7
+"Pepe","José Callejón",8
+"Pepe","Fábio Coentrão",11
+"Pepe","Antonio Adán",4
+"Pepe","Ricardo Carvalho",3
+"Pepe","Nacho",1
+"Pepe","Jose Rodriguez",1
+"Pepe","Diego López",3
+"Sami Khedira","Raphaël Varane",15
+"Sami Khedira","Pepe",17
+"Sami Khedira","Cristiano Ronaldo",20
+"Sami Khedira","Marcelo",2
+"Sami Khedira","Xabi Alonso",20
+"Sami Khedira","Michael Essien",10
+"Sami Khedira","Álvaro Arbeloa",20
+"Sami Khedira","Gonzalo Higuaín",9
+"Sami Khedira","Ángel Di María",34
+"Sami Khedira","Karim Benzema",4
+"Sami Khedira","Mesut Özil",25
+"Sami Khedira","Luka Modrić",14
+"Sami Khedira","Sergio Ramos",15
+"Sami Khedira","Kaká",9
+"Sami Khedira","José Callejón",1
+"Sami Khedira","Fábio Coentrão",12
+"Sami Khedira","Antonio Adán",1
+"Sami Khedira","Ricardo Carvalho",4
+"Sami Khedira","Nacho",1
+"Sami Khedira","Jose Rodriguez",2
+"Sami Khedira","Diego López",3
+"Cristiano Ronaldo","Raphaël Varane",3
+"Cristiano Ronaldo","Pepe",4
+"Cristiano Ronaldo","Sami Khedira",16
+"Cristiano Ronaldo","Marcelo",12
+"Cristiano Ronaldo","Xabi Alonso",40
+"Cristiano Ronaldo","Michael Essien",26
+"Cristiano Ronaldo","Álvaro Arbeloa",15
+"Cristiano Ronaldo","Gonzalo Higuaín",5
+"Cristiano Ronaldo","Ángel Di María",21
+"Cristiano Ronaldo","Karim Benzema",20
+"Cristiano Ronaldo","Mesut Özil",30
+"Cristiano Ronaldo","Luka Modrić",23
+"Cristiano Ronaldo","Sergio Ramos",17
+"Cristiano Ronaldo","Kaká",16
+"Cristiano Ronaldo","José Callejón",8
+"Cristiano Ronaldo","Fábio Coentrão",28
+"Cristiano Ronaldo","Ricardo Carvalho",2
+"Cristiano Ronaldo","Nacho",3
+"Cristiano Ronaldo","Diego López",1
+"Marcelo","Iker Casillas",1
+"Marcelo","Raphaël Varane",1
+"Marcelo","Pepe",8
+"Marcelo","Sami Khedira",3
+"Marcelo","Cristiano Ronaldo",24
+"Marcelo","Xabi Alonso",10
+"Marcelo","Michael Essien",8
+"Marcelo","Álvaro Arbeloa",2
+"Marcelo","Ángel Di María",7
+"Marcelo","Karim Benzema",6
+"Marcelo","Mesut Özil",4
+"Marcelo","Luka Modrić",1
+"Marcelo","Sergio Ramos",9
+"Marcelo","Kaká",3
+"Xabi Alonso","Raphaël Varane",37
+"Xabi Alonso","Pepe",49
+"Xabi Alonso","Sami Khedira",27
+"Xabi Alonso","Cristiano Ronaldo",48
+"Xabi Alonso","Marcelo",17
+"Xabi Alonso","Michael Essien",28
+"Xabi Alonso","Álvaro Arbeloa",31
+"Xabi Alonso","Gonzalo Higuaín",9
+"Xabi Alonso","Ángel Di María",35
+"Xabi Alonso","Karim Benzema",12
+"Xabi Alonso","Mesut Özil",37
+"Xabi Alonso","Luka Modrić",35
+"Xabi Alonso","Sergio Ramos",54
+"Xabi Alonso","Kaká",8
+"Xabi Alonso","José Callejón",8
+"Xabi Alonso","Fábio Coentrão",31
+"Xabi Alonso","Diego López",1
+"Michael Essien","Iker Casillas",2
+"Michael Essien","Raphaël Varane",17
+"Michael Essien","Pepe",23
+"Michael Essien","Sami Khedira",4
+"Michael Essien","Cristiano Ronaldo",23
+"Michael Essien","Marcelo",8
+"Michael Essien","Xabi Alonso",39
+"Michael Essien","Álvaro Arbeloa",14
+"Michael Essien","Gonzalo Higuaín",10
+"Michael Essien","Ángel Di María",22
+"Michael Essien","Karim Benzema",7
+"Michael Essien","Mesut Özil",20
+"Michael Essien","Luka Modrić",15
+"Michael Essien","Sergio Ramos",18
+"Michael Essien","Kaká",5
+"Michael Essien","José Callejón",4
+"Michael Essien","Diego López",2
+"Álvaro Arbeloa","Iker Casillas",7
+"Álvaro Arbeloa","Raphaël Varane",13
+"Álvaro Arbeloa","Pepe",22
+"Álvaro Arbeloa","Sami Khedira",21
+"Álvaro Arbeloa","Cristiano Ronaldo",23
+"Álvaro Arbeloa","Marcelo",3
+"Álvaro Arbeloa","Xabi Alonso",26
+"Álvaro Arbeloa","Michael Essien",11
+"Álvaro Arbeloa","Gonzalo Higuaín",10
+"Álvaro Arbeloa","Ángel Di María",35
+"Álvaro Arbeloa","Karim Benzema",3
+"Álvaro Arbeloa","Mesut Özil",14
+"Álvaro Arbeloa","Luka Modrić",9
+"Álvaro Arbeloa","Sergio Ramos",10
+"Álvaro Arbeloa","Kaká",2
+"Álvaro Arbeloa","José Callejón",4
+"Gonzalo Higuaín","Raphaël Varane",4
+"Gonzalo Higuaín","Pepe",1
+"Gonzalo Higuaín","Sami Khedira",3
+"Gonzalo Higuaín","Cristiano Ronaldo",10
+"Gonzalo Higuaín","Marcelo",2
+"Gonzalo Higuaín","Xabi Alonso",11
+"Gonzalo Higuaín","Michael Essien",8
+"Gonzalo Higuaín","Álvaro Arbeloa",1
+"Gonzalo Higuaín","Ángel Di María",12
+"Gonzalo Higuaín","Mesut Özil",11
+"Gonzalo Higuaín","Luka Modrić",5
+"Gonzalo Higuaín","Sergio Ramos",1
+"Gonzalo Higuaín","Kaká",2
+"Gonzalo Higuaín","Fábio Coentrão",1
+"Ángel Di María","Iker Casillas",1
+"Ángel Di María","Raphaël Varane",9
+"Ángel Di María","Pepe",10
+"Ángel Di María","Sami Khedira",16
+"Ángel Di María","Cristiano Ronaldo",34
+"Ángel Di María","Marcelo",1
+"Ángel Di María","Xabi Alonso",17
+"Ángel Di María","Michael Essien",10
+"Ángel Di María","Álvaro Arbeloa",20
+"Ángel Di María","Gonzalo Higuaín",17
+"Ángel Di María","Karim Benzema",12
+"Ángel Di María","Mesut Özil",29
+"Ángel Di María","Luka Modrić",10
+"Ángel Di María","Sergio Ramos",30
+"Ángel Di María","Kaká",7
+"Ángel Di María","José Callejón",5
+"Ángel Di María","Fábio Coentrão",9
+"Ángel Di María","Diego López",1
+"Karim Benzema","Raphaël Varane",2
+"Karim Benzema","Pepe",2
+"Karim Benzema","Sami Khedira",7
+"Karim Benzema","Cristiano Ronaldo",29
+"Karim Benzema","Marcelo",5
+"Karim Benzema","Xabi Alonso",7
+"Karim Benzema","Michael Essien",2
+"Karim Benzema","Álvaro Arbeloa",1
+"Karim Benzema","Ángel Di María",8
+"Karim Benzema","Mesut Özil",23
+"Karim Benzema","Luka Modrić",17
+"Karim Benzema","Sergio Ramos",5
+"Karim Benzema","Kaká",7
+"Karim Benzema","José Callejón",1
+"Karim Benzema","Fábio Coentrão",3
+"Karim Benzema","Ricardo Carvalho",1
+"Karim Benzema","Nacho",1
+"Mesut Özil","Raphaël Varane",8
+"Mesut Özil","Pepe",6
+"Mesut Özil","Sami Khedira",32
+"Mesut Özil","Cristiano Ronaldo",40
+"Mesut Özil","Marcelo",3
+"Mesut Özil","Xabi Alonso",24
+"Mesut Özil","Michael Essien",12
+"Mesut Özil","Álvaro Arbeloa",11
+"Mesut Özil","Gonzalo Higuaín",10
+"Mesut Özil","Ángel Di María",42
+"Mesut Özil","Karim Benzema",28
+"Mesut Özil","Luka Modrić",19
+"Mesut Özil","Sergio Ramos",32
+"Mesut Özil","Kaká",8
+"Mesut Özil","Fábio Coentrão",17
+"Luka Modrić","Raphaël Varane",13
+"Luka Modrić","Pepe",11
+"Luka Modrić","Sami Khedira",18
+"Luka Modrić","Cristiano Ronaldo",32
+"Luka Modrić","Xabi Alonso",33
+"Luka Modrić","Michael Essien",22
+"Luka Modrić","Álvaro Arbeloa",5
+"Luka Modrić","Gonzalo Higuaín",9
+"Luka Modrić","Ángel Di María",26
+"Luka Modrić","Karim Benzema",7
+"Luka Modrić","Mesut Özil",28
+"Luka Modrić","Sergio Ramos",27
+"Luka Modrić","Kaká",8
+"Luka Modrić","José Callejón",3
+"Luka Modrić","Fábio Coentrão",19
+"Luka Modrić","Ricardo Carvalho",2
+"Luka Modrić","Nacho",3
+"Luka Modrić","Álvaro Morata",1
+"Luka Modrić","Jose Rodriguez",1
+"Luka Modrić","Diego López",2
+"Sergio Ramos","Iker Casillas",5
+"Sergio Ramos","Pepe",29
+"Sergio Ramos","Cristiano Ronaldo",28
+"Sergio Ramos","Kaká",4
+"Sergio Ramos","Karim Benzema",8
+"Sergio Ramos","Marcelo",19
+"Sergio Ramos","Xabi Alonso",53
+"Sergio Ramos","Michael Essien",19
+"Sergio Ramos","Álvaro Arbeloa",9
+"Sergio Ramos","José Callejón",1
+"Sergio Ramos","Sami Khedira",21
+"Sergio Ramos","Mesut Özil",48
+"Sergio Ramos","Ángel Di María",53
+"Sergio Ramos","Raphaël Varane",45
+"Sergio Ramos","Luka Modrić",37
+"Sergio Ramos","Gonzalo Higuaín",12
+"Sergio Ramos","Fábio Coentrão",25
+"Sergio Ramos","Raúl Albiol",1
+"Sergio Ramos","Diego López",7
+"Kaká","Pepe",1
+"Kaká","Sergio Ramos",4
+"Kaká","Cristiano Ronaldo",17
+"Kaká","Karim Benzema",13
+"Kaká","Marcelo",3
+"Kaká","Xabi Alonso",5
+"Kaká","Michael Essien",5
+"Kaká","Álvaro Arbeloa",1
+"Kaká","José Callejón",7
+"Kaká","Sami Khedira",12
+"Kaká","Mesut Özil",3
+"Kaká","Ángel Di María",8
+"Kaká","Raphaël Varane",1
+"Kaká","Luka Modrić",3
+"Kaká","Fábio Coentrão",4
+"Kaká","Nacho",2
+"José Callejón","Pepe",5
+"José Callejón","Sergio Ramos",1
+"José Callejón","Cristiano Ronaldo",5
+"José Callejón","Kaká",4
+"José Callejón","Karim Benzema",4
+"José Callejón","Xabi Alonso",10
+"José Callejón","Michael Essien",6
+"José Callejón","Álvaro Arbeloa",7
+"José Callejón","Mesut Özil",1
+"José Callejón","Ángel Di María",6
+"José Callejón","Raphaël Varane",3
+"José Callejón","Luka Modrić",1
+"José Callejón","Fábio Coentrão",1
+"José Callejón","Antonio Adán",1
+"José Callejón","Nacho",3
+"Fábio Coentrão","Iker Casillas",1
+"Fábio Coentrão","Pepe",8
+"Fábio Coentrão","Sergio Ramos",19
+"Fábio Coentrão","Sami Khedira",11
+"Fábio Coentrão","Cristiano Ronaldo",53
+"Fábio Coentrão","Karim Benzema",10
+"Fábio Coentrão","Xabi Alonso",28
+"Fábio Coentrão","Luka Modrić",21
+"Fábio Coentrão","Ángel Di María",9
+"Fábio Coentrão","Raphaël Varane",4
+"Fábio Coentrão","José Callejón",4
+"Fábio Coentrão","Kaká",4
+"Fábio Coentrão","Ricardo Carvalho",1
+"Fábio Coentrão","Diego López",3
+"Fábio Coentrão","Mesut Özil",20
+"Fábio Coentrão","Gonzalo Higuaín",7
+"Fábio Coentrão","Michael Essien",1
+"Raúl Albiol","Sergio Ramos",1
+"Raúl Albiol","Cristiano Ronaldo",1
+"Antonio Adán","Raphaël Varane",1
+"Antonio Adán","Sami Khedira",3
+"Antonio Adán","Cristiano Ronaldo",5
+"Antonio Adán","Kaká",1
+"Antonio Adán","Karim Benzema",2
+"Antonio Adán","Ricardo Carvalho",2
+"Antonio Adán","José Callejón",1
+"Antonio Adán","Nacho",3
+"Antonio Adán","Pepe",1
+"Ricardo Carvalho","Antonio Adán",4
+"Ricardo Carvalho","Raphaël Varane",1
+"Ricardo Carvalho","Fábio Coentrão",3
+"Ricardo Carvalho","Sami Khedira",2
+"Ricardo Carvalho","Cristiano Ronaldo",4
+"Ricardo Carvalho","Kaká",1
+"Ricardo Carvalho","Karim Benzema",1
+"Ricardo Carvalho","Luka Modrić",2
+"Ricardo Carvalho","Nacho",4
+"Ricardo Carvalho","Pepe",3
+"Ricardo Carvalho","Jose Rodriguez",1
+"Nacho","Antonio Adán",4
+"Nacho","Raphaël Varane",3
+"Nacho","Sami Khedira",3
+"Nacho","Kaká",5
+"Nacho","Karim Benzema",2
+"Nacho","Ricardo Carvalho",7
+"Nacho","Luka Modrić",3
+"Nacho","José Callejón",3
+"Nacho","Pepe",1
+"Nacho","Jose Rodriguez",1
+"Álvaro Morata","Cristiano Ronaldo",1
+"Álvaro Morata","Luka Modrić",1
+"Álvaro Morata","José Callejón",1
+"Jose Rodriguez","Raphaël Varane",1
+"Jose Rodriguez","Sami Khedira",1
+"Jose Rodriguez","Ricardo Carvalho",2
+"Jose Rodriguez","Luka Modrić",1
+"Jose Rodriguez","Álvaro Morata",1
+"Diego López","Raphaël Varane",11
+"Diego López","Sergio Ramos",17
+"Diego López","Fábio Coentrão",7
+"Diego López","Sami Khedira",5
+"Diego López","Cristiano Ronaldo",9
+"Diego López","Karim Benzema",1
+"Diego López","Mesut Özil",9
+"Diego López","Xabi Alonso",8
+"Diego López","Ángel Di María",3
+"Diego López","Pepe",3
+"Diego López","Luka Modrić",2
+"Diego López","Gonzalo Higuaín",4
+"Diego López","Kaká",1
+"Diego López","Michael Essien",3

@@ -1,0 +1,155 @@
+"Rui Patrício","Jefferson",2
+"Rui Patrício","Islam Slimani",2
+"Rui Patrício","Paulo Oliveira",9
+"Rui Patrício","João Mário",4
+"Rui Patrício","Teófilo Gutiérrez",1
+"Rui Patrício","Bryan Ruiz",1
+"Rui Patrício","Adrien Silva",7
+"Rui Patrício","Naldo",12
+"Rui Patrício","Jonathan Silva",3
+"Jefferson","Rui Patrício",1
+"Jefferson","Islam Slimani",4
+"Jefferson","João Mário",12
+"Jefferson","André Carrillo",5
+"Jefferson","Teófilo Gutiérrez",4
+"Jefferson","Bryan Ruiz",10
+"Jefferson","Adrien Silva",5
+"Jefferson","Naldo",5
+"Jefferson","Alberto Aquilani",5
+"Jefferson","Carlos Mané",5
+"Jefferson","Gelson Martins",2
+"Islam Slimani","Jefferson",3
+"Islam Slimani","Paulo Oliveira",3
+"Islam Slimani","João Mário",6
+"Islam Slimani","André Carrillo",7
+"Islam Slimani","Teófilo Gutiérrez",1
+"Islam Slimani","Bryan Ruiz",4
+"Islam Slimani","João Pereira",4
+"Islam Slimani","Adrien Silva",4
+"Islam Slimani","Jonathan Silva",1
+"Paulo Oliveira","Rui Patrício",4
+"Paulo Oliveira","Jefferson",3
+"Paulo Oliveira","João Mário",11
+"Paulo Oliveira","André Carrillo",10
+"Paulo Oliveira","Teófilo Gutiérrez",3
+"Paulo Oliveira","Bryan Ruiz",3
+"Paulo Oliveira","João Pereira",11
+"Paulo Oliveira","Adrien Silva",13
+"Paulo Oliveira","Naldo",8
+"Paulo Oliveira","Alberto Aquilani",4
+"Paulo Oliveira","Jonathan Silva",1
+"João Mário","Jefferson",7
+"João Mário","Islam Slimani",5
+"João Mário","Paulo Oliveira",7
+"João Mário","André Carrillo",15
+"João Mário","Teófilo Gutiérrez",9
+"João Mário","Bryan Ruiz",18
+"João Mário","João Pereira",9
+"João Mário","Adrien Silva",27
+"João Mário","Naldo",3
+"João Mário","Alberto Aquilani",11
+"João Mário","Carlos Mané",2
+"João Mário","Jonathan Silva",6
+"André Carrillo","Jefferson",6
+"André Carrillo","Islam Slimani",6
+"André Carrillo","Paulo Oliveira",6
+"André Carrillo","João Mário",11
+"André Carrillo","Teófilo Gutiérrez",1
+"André Carrillo","Bryan Ruiz",7
+"André Carrillo","João Pereira",20
+"André Carrillo","Adrien Silva",13
+"André Carrillo","Naldo",1
+"André Carrillo","Alberto Aquilani",12
+"André Carrillo","Gelson Martins",4
+"André Carrillo","Jonathan Silva",1
+"André Carrillo","Fredy Montero",1
+"Teófilo Gutiérrez","Jefferson",1
+"Teófilo Gutiérrez","Islam Slimani",2
+"Teófilo Gutiérrez","João Mário",10
+"Teófilo Gutiérrez","André Carrillo",6
+"Teófilo Gutiérrez","Bryan Ruiz",8
+"Teófilo Gutiérrez","João Pereira",3
+"Teófilo Gutiérrez","Adrien Silva",4
+"Teófilo Gutiérrez","Naldo",1
+"Teófilo Gutiérrez","Alberto Aquilani",6
+"Teófilo Gutiérrez","Jonathan Silva",1
+"Bryan Ruiz","Jefferson",7
+"Bryan Ruiz","Islam Slimani",4
+"Bryan Ruiz","João Mário",11
+"Bryan Ruiz","André Carrillo",3
+"Bryan Ruiz","Teófilo Gutiérrez",12
+"Bryan Ruiz","João Pereira",2
+"Bryan Ruiz","Adrien Silva",12
+"Bryan Ruiz","Naldo",4
+"Bryan Ruiz","Alberto Aquilani",4
+"Bryan Ruiz","Jonathan Silva",5
+"João Pereira","Rui Patrício",1
+"João Pereira","Islam Slimani",4
+"João Pereira","Paulo Oliveira",7
+"João Pereira","João Mário",6
+"João Pereira","André Carrillo",32
+"João Pereira","Teófilo Gutiérrez",8
+"João Pereira","Bryan Ruiz",2
+"João Pereira","Adrien Silva",11
+"João Pereira","Naldo",1
+"João Pereira","Alberto Aquilani",4
+"João Pereira","Gelson Martins",1
+"Adrien Silva","Rui Patrício",3
+"Adrien Silva","Jefferson",6
+"Adrien Silva","Islam Slimani",5
+"Adrien Silva","Paulo Oliveira",8
+"Adrien Silva","João Mário",18
+"Adrien Silva","André Carrillo",28
+"Adrien Silva","Teófilo Gutiérrez",6
+"Adrien Silva","Bryan Ruiz",16
+"Adrien Silva","João Pereira",22
+"Adrien Silva","Naldo",8
+"Adrien Silva","Alberto Aquilani",12
+"Adrien Silva","Carlos Mané",1
+"Adrien Silva","Jonathan Silva",5
+"Naldo","Rui Patrício",4
+"Naldo","Jefferson",13
+"Naldo","Islam Slimani",1
+"Naldo","Paulo Oliveira",8
+"Naldo","João Mário",16
+"Naldo","André Carrillo",1
+"Naldo","Teófilo Gutiérrez",3
+"Naldo","Bryan Ruiz",5
+"Naldo","João Pereira",1
+"Naldo","Adrien Silva",14
+"Naldo","Alberto Aquilani",5
+"Naldo","Carlos Mané",1
+"Naldo","Jonathan Silva",9
+"Alberto Aquilani","Jefferson",3
+"Alberto Aquilani","Islam Slimani",2
+"Alberto Aquilani","Paulo Oliveira",5
+"Alberto Aquilani","João Mário",7
+"Alberto Aquilani","André Carrillo",15
+"Alberto Aquilani","Teófilo Gutiérrez",8
+"Alberto Aquilani","Bryan Ruiz",4
+"Alberto Aquilani","João Pereira",7
+"Alberto Aquilani","Adrien Silva",10
+"Alberto Aquilani","Naldo",3
+"Alberto Aquilani","Carlos Mané",2
+"Alberto Aquilani","Gelson Martins",1
+"Alberto Aquilani","Jonathan Silva",2
+"Carlos Mané","Jefferson",4
+"Carlos Mané","André Carrillo",1
+"Carlos Mané","Adrien Silva",1
+"Carlos Mané","Naldo",1
+"Carlos Mané","Alberto Aquilani",1
+"Gelson Martins","Jefferson",1
+"Gelson Martins","João Pereira",1
+"Gelson Martins","Adrien Silva",1
+"Gelson Martins","Naldo",1
+"Gelson Martins","Alberto Aquilani",1
+"Gelson Martins","Carlos Mané",1
+"Jonathan Silva","Rui Patrício",2
+"Jonathan Silva","Alberto Aquilani",2
+"Jonathan Silva","João Mário",10
+"Jonathan Silva","André Carrillo",1
+"Jonathan Silva","Teófilo Gutiérrez",2
+"Jonathan Silva","Bryan Ruiz",7
+"Jonathan Silva","Adrien Silva",2
+"Jonathan Silva","Naldo",3
+"Jonathan Silva","Carlos Mané",1

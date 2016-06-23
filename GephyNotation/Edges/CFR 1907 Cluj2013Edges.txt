@@ -1,0 +1,236 @@
+"Mário Felgueiras","Ivo Pinto",7
+"Mário Felgueiras","Gabriel Mureşan",6
+"Mário Felgueiras","Pantelis Kapetanos",9
+"Mário Felgueiras","Rafael Bastos",4
+"Mário Felgueiras","Cadú",3
+"Mário Felgueiras","Ionuţ Rada",4
+"Mário Felgueiras","Camora",3
+"Mário Felgueiras","Modou Sougou",15
+"Mário Felgueiras","Viorel Nicoară",3
+"Mário Felgueiras","Nicolas Godemèche",1
+"Mário Felgueiras","Rui Pedro",3
+"Mário Felgueiras","László Sepsi",2
+"Mário Felgueiras","Saša Bjelanović",3
+"Mário Felgueiras","Luís Alberto",5
+"Mário Felgueiras","Felice Piccolo",3
+"Mário Felgueiras","Vasile Maftei",1
+"Ivo Pinto","Mário Felgueiras",9
+"Ivo Pinto","Gabriel Mureşan",18
+"Ivo Pinto","Pantelis Kapetanos",5
+"Ivo Pinto","Diogo Valente",1
+"Ivo Pinto","Rafael Bastos",16
+"Ivo Pinto","Cadú",11
+"Ivo Pinto","Ionuţ Rada",2
+"Ivo Pinto","Camora",5
+"Ivo Pinto","Modou Sougou",25
+"Ivo Pinto","Viorel Nicoară",1
+"Ivo Pinto","Nicolas Godemèche",5
+"Ivo Pinto","Rui Pedro",6
+"Ivo Pinto","László Sepsi",1
+"Ivo Pinto","Matías Aguirregaray",9
+"Ivo Pinto","Luís Alberto",9
+"Ivo Pinto","Felice Piccolo",1
+"Ivo Pinto","Vasile Maftei",1
+"Bakary Sare","Ivo Pinto",5
+"Bakary Sare","Gabriel Mureşan",1
+"Bakary Sare","Rafael Bastos",2
+"Bakary Sare","Camora",1
+"Bakary Sare","Modou Sougou",7
+"Gabriel Mureşan","Mário Felgueiras",2
+"Gabriel Mureşan","Ivo Pinto",23
+"Gabriel Mureşan","Bakary Sare",4
+"Gabriel Mureşan","Pantelis Kapetanos",5
+"Gabriel Mureşan","Diogo Valente",1
+"Gabriel Mureşan","Rafael Bastos",17
+"Gabriel Mureşan","Cadú",13
+"Gabriel Mureşan","Ionuţ Rada",5
+"Gabriel Mureşan","Camora",14
+"Gabriel Mureşan","Modou Sougou",9
+"Gabriel Mureşan","Viorel Nicoară",1
+"Gabriel Mureşan","Nicolas Godemèche",1
+"Gabriel Mureşan","Rui Pedro",4
+"Gabriel Mureşan","László Sepsi",3
+"Gabriel Mureşan","Matías Aguirregaray",7
+"Gabriel Mureşan","Saša Bjelanović",1
+"Gabriel Mureşan","Luís Alberto",11
+"Gabriel Mureşan","Felice Piccolo",6
+"Pantelis Kapetanos","Mário Felgueiras",1
+"Pantelis Kapetanos","Ivo Pinto",5
+"Pantelis Kapetanos","Gabriel Mureşan",6
+"Pantelis Kapetanos","Diogo Valente",2
+"Pantelis Kapetanos","Rafael Bastos",3
+"Pantelis Kapetanos","Cadú",2
+"Pantelis Kapetanos","Camora",6
+"Pantelis Kapetanos","Modou Sougou",4
+"Pantelis Kapetanos","Nicolas Godemèche",4
+"Pantelis Kapetanos","Matías Aguirregaray",3
+"Pantelis Kapetanos","Luís Alberto",3
+"Diogo Valente","Ivo Pinto",1
+"Diogo Valente","Bakary Sare",1
+"Diogo Valente","Rafael Bastos",4
+"Diogo Valente","Camora",8
+"Diogo Valente","Saša Bjelanović",1
+"Rafael Bastos","Mário Felgueiras",1
+"Rafael Bastos","Ivo Pinto",8
+"Rafael Bastos","Gabriel Mureşan",14
+"Rafael Bastos","Pantelis Kapetanos",5
+"Rafael Bastos","Diogo Valente",5
+"Rafael Bastos","Cadú",4
+"Rafael Bastos","Ionuţ Rada",6
+"Rafael Bastos","Camora",8
+"Rafael Bastos","Modou Sougou",18
+"Rafael Bastos","Viorel Nicoară",2
+"Rafael Bastos","Nicolas Godemèche",4
+"Rafael Bastos","Rui Pedro",10
+"Rafael Bastos","Matías Aguirregaray",3
+"Rafael Bastos","Saša Bjelanović",4
+"Rafael Bastos","Luís Alberto",7
+"Rafael Bastos","Felice Piccolo",1
+"Cadú","Mário Felgueiras",9
+"Cadú","Ivo Pinto",19
+"Cadú","Bakary Sare",1
+"Cadú","Gabriel Mureşan",10
+"Cadú","Pantelis Kapetanos",2
+"Cadú","Rafael Bastos",7
+"Cadú","Ionuţ Rada",2
+"Cadú","Camora",7
+"Cadú","Modou Sougou",5
+"Cadú","Nicolas Godemèche",2
+"Cadú","Rui Pedro",2
+"Cadú","László Sepsi",1
+"Cadú","Matías Aguirregaray",2
+"Cadú","Saša Bjelanović",2
+"Cadú","Luís Alberto",16
+"Cadú","Felice Piccolo",6
+"Ionuţ Rada","Mário Felgueiras",5
+"Ionuţ Rada","Ivo Pinto",4
+"Ionuţ Rada","Gabriel Mureşan",6
+"Ionuţ Rada","Pantelis Kapetanos",3
+"Ionuţ Rada","Diogo Valente",1
+"Ionuţ Rada","Rafael Bastos",7
+"Ionuţ Rada","Cadú",3
+"Ionuţ Rada","Camora",6
+"Ionuţ Rada","Modou Sougou",1
+"Ionuţ Rada","Rui Pedro",2
+"Ionuţ Rada","Matías Aguirregaray",1
+"Ionuţ Rada","Luís Alberto",6
+"Ionuţ Rada","Felice Piccolo",12
+"Camora","Mário Felgueiras",7
+"Camora","Ivo Pinto",1
+"Camora","Bakary Sare",1
+"Camora","Gabriel Mureşan",12
+"Camora","Pantelis Kapetanos",1
+"Camora","Diogo Valente",10
+"Camora","Rafael Bastos",14
+"Camora","Cadú",3
+"Camora","Ionuţ Rada",8
+"Camora","Modou Sougou",5
+"Camora","Viorel Nicoară",3
+"Camora","Nicolas Godemèche",5
+"Camora","Rui Pedro",4
+"Camora","László Sepsi",6
+"Camora","Matías Aguirregaray",1
+"Camora","Saša Bjelanović",2
+"Camora","Luís Alberto",6
+"Camora","Felice Piccolo",11
+"Modou Sougou","Mário Felgueiras",1
+"Modou Sougou","Ivo Pinto",22
+"Modou Sougou","Bakary Sare",3
+"Modou Sougou","Gabriel Mureşan",7
+"Modou Sougou","Pantelis Kapetanos",6
+"Modou Sougou","Rafael Bastos",11
+"Modou Sougou","Cadú",2
+"Modou Sougou","Camora",3
+"Modou Sougou","Nicolas Godemèche",4
+"Modou Sougou","Rui Pedro",6
+"Modou Sougou","László Sepsi",1
+"Modou Sougou","Luís Alberto",2
+"Modou Sougou","Felice Piccolo",2
+"Viorel Nicoară","Mário Felgueiras",1
+"Viorel Nicoară","Ivo Pinto",1
+"Viorel Nicoară","Gabriel Mureşan",1
+"Viorel Nicoară","Rafael Bastos",1
+"Viorel Nicoară","Cadú",1
+"Viorel Nicoară","Modou Sougou",1
+"Viorel Nicoară","Nicolas Godemèche",1
+"Viorel Nicoară","Luís Alberto",1
+"Nicolas Godemèche","Ivo Pinto",3
+"Nicolas Godemèche","Gabriel Mureşan",4
+"Nicolas Godemèche","Pantelis Kapetanos",7
+"Nicolas Godemèche","Diogo Valente",1
+"Nicolas Godemèche","Rafael Bastos",5
+"Nicolas Godemèche","Cadú",3
+"Nicolas Godemèche","Ionuţ Rada",1
+"Nicolas Godemèche","Camora",2
+"Nicolas Godemèche","Modou Sougou",3
+"Nicolas Godemèche","Rui Pedro",1
+"Nicolas Godemèche","László Sepsi",1
+"Nicolas Godemèche","Luís Alberto",6
+"Rui Pedro","Ivo Pinto",4
+"Rui Pedro","Gabriel Mureşan",8
+"Rui Pedro","Rafael Bastos",11
+"Rui Pedro","Ionuţ Rada",2
+"Rui Pedro","Camora",5
+"Rui Pedro","Modou Sougou",9
+"Rui Pedro","Nicolas Godemèche",2
+"Rui Pedro","Felice Piccolo",2
+"Rui Pedro","Luís Alberto",4
+"Rui Pedro","Matías Aguirregaray",1
+"László Sepsi","Gabriel Mureşan",10
+"László Sepsi","Pantelis Kapetanos",3
+"László Sepsi","Rafael Bastos",2
+"László Sepsi","Cadú",3
+"László Sepsi","Ionuţ Rada",3
+"László Sepsi","Matías Aguirregaray",1
+"László Sepsi","Camora",6
+"László Sepsi","Modou Sougou",1
+"László Sepsi","Saša Bjelanović",3
+"László Sepsi","Luís Alberto",1
+"László Sepsi","Felice Piccolo",3
+"Matías Aguirregaray","Mário Felgueiras",1
+"Matías Aguirregaray","Ivo Pinto",6
+"Matías Aguirregaray","Gabriel Mureşan",3
+"Matías Aguirregaray","László Sepsi",2
+"Matías Aguirregaray","Pantelis Kapetanos",3
+"Matías Aguirregaray","Rafael Bastos",5
+"Matías Aguirregaray","Cadú",1
+"Matías Aguirregaray","Ionuţ Rada",1
+"Matías Aguirregaray","Camora",2
+"Matías Aguirregaray","Luís Alberto",5
+"Matías Aguirregaray","Nicolas Godemèche",1
+"Matías Aguirregaray","Rui Pedro",1
+"Saša Bjelanović","Ivo Pinto",1
+"Saša Bjelanović","Pantelis Kapetanos",2
+"Saša Bjelanović","Camora",1
+"Saša Bjelanović","Viorel Nicoară",1
+"Saša Bjelanović","Luís Alberto",2
+"Luís Alberto","Mário Felgueiras",3
+"Luís Alberto","Ivo Pinto",8
+"Luís Alberto","Gabriel Mureşan",9
+"Luís Alberto","László Sepsi",5
+"Luís Alberto","Pantelis Kapetanos",5
+"Luís Alberto","Rafael Bastos",11
+"Luís Alberto","Cadú",15
+"Luís Alberto","Ionuţ Rada",7
+"Luís Alberto","Matías Aguirregaray",2
+"Luís Alberto","Camora",14
+"Luís Alberto","Modou Sougou",8
+"Luís Alberto","Viorel Nicoară",2
+"Luís Alberto","Felice Piccolo",5
+"Luís Alberto","Nicolas Godemèche",3
+"Luís Alberto","Diogo Valente",1
+"Luís Alberto","Rui Pedro",5
+"Felice Piccolo","Mário Felgueiras",6
+"Felice Piccolo","Ivo Pinto",2
+"Felice Piccolo","László Sepsi",1
+"Felice Piccolo","Rafael Bastos",10
+"Felice Piccolo","Cadú",14
+"Felice Piccolo","Nicolas Godemèche",3
+"Felice Piccolo","Luís Alberto",15
+"Felice Piccolo","Matías Aguirregaray",2
+"Felice Piccolo","Camora",6
+"Felice Piccolo","Gabriel Mureşan",8
+"Felice Piccolo","Ionuţ Rada",3
+"Felice Piccolo","Modou Sougou",6
+"Felice Piccolo","Rui Pedro",4
+"Vasile Maftei","Ionuţ Rada",1

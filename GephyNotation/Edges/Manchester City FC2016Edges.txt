@@ -1,0 +1,338 @@
+"Joe Hart","Bacary Sagna",24
+"Joe Hart","Vincent Kompany",9
+"Joe Hart","Samir Nasri",1
+"Joe Hart","Aleksandar Kolarov",3
+"Joe Hart","Wilfried Bony",9
+"Joe Hart","Eliaquim Mangala",5
+"Joe Hart","Fernandinho",6
+"Joe Hart","Yaya Touré",10
+"Joe Hart","Sergio Agüero",7
+"Joe Hart","Kevin De Bruyne",6
+"Joe Hart","Nicolás Otamendi",21
+"Joe Hart","Martín Demichelis",8
+"Joe Hart","Pablo Zabaleta",1
+"Joe Hart","Fernando",6
+"Joe Hart","Jesús Navas",5
+"Joe Hart","Fabian Delph",2
+"Joe Hart","Gaël Clichy",14
+"Joe Hart","Kelechi Iheanacho",1
+"Bacary Sagna","Joe Hart",15
+"Bacary Sagna","Vincent Kompany",49
+"Bacary Sagna","Raheem Sterling",9
+"Bacary Sagna","Samir Nasri",10
+"Bacary Sagna","Aleksandar Kolarov",1
+"Bacary Sagna","Wilfried Bony",5
+"Bacary Sagna","Eliaquim Mangala",8
+"Bacary Sagna","David Silva",17
+"Bacary Sagna","Fernandinho",38
+"Bacary Sagna","Yaya Touré",43
+"Bacary Sagna","Sergio Agüero",8
+"Bacary Sagna","Kevin De Bruyne",52
+"Bacary Sagna","Nicolás Otamendi",22
+"Bacary Sagna","Martín Demichelis",32
+"Bacary Sagna","Fernando",31
+"Bacary Sagna","Jesús Navas",100
+"Vincent Kompany","Joe Hart",3
+"Vincent Kompany","Bacary Sagna",56
+"Vincent Kompany","Raheem Sterling",7
+"Vincent Kompany","Samir Nasri",2
+"Vincent Kompany","Aleksandar Kolarov",5
+"Vincent Kompany","Wilfried Bony",3
+"Vincent Kompany","Eliaquim Mangala",11
+"Vincent Kompany","David Silva",8
+"Vincent Kompany","Fernandinho",18
+"Vincent Kompany","Yaya Touré",11
+"Vincent Kompany","Sergio Agüero",3
+"Vincent Kompany","Kevin De Bruyne",2
+"Vincent Kompany","Nicolás Otamendi",38
+"Vincent Kompany","Pablo Zabaleta",1
+"Vincent Kompany","Jesús Navas",16
+"Vincent Kompany","Fernando",8
+"Vincent Kompany","Gaël Clichy",4
+"Raheem Sterling","Joe Hart",2
+"Raheem Sterling","Bacary Sagna",6
+"Raheem Sterling","Vincent Kompany",2
+"Raheem Sterling","Samir Nasri",1
+"Raheem Sterling","Aleksandar Kolarov",37
+"Raheem Sterling","Wilfried Bony",5
+"Raheem Sterling","Eliaquim Mangala",2
+"Raheem Sterling","David Silva",20
+"Raheem Sterling","Fernandinho",22
+"Raheem Sterling","Yaya Touré",18
+"Raheem Sterling","Sergio Agüero",13
+"Raheem Sterling","Kevin De Bruyne",15
+"Raheem Sterling","Nicolás Otamendi",2
+"Raheem Sterling","Pablo Zabaleta",1
+"Raheem Sterling","Fernando",10
+"Raheem Sterling","Jesús Navas",2
+"Raheem Sterling","Fabian Delph",4
+"Raheem Sterling","Gaël Clichy",21
+"Raheem Sterling","Kelechi Iheanacho",2
+"Samir Nasri","Bacary Sagna",6
+"Samir Nasri","Aleksandar Kolarov",1
+"Samir Nasri","Wilfried Bony",5
+"Samir Nasri","Eliaquim Mangala",1
+"Samir Nasri","David Silva",13
+"Samir Nasri","Fernandinho",6
+"Samir Nasri","Yaya Touré",8
+"Samir Nasri","Nicolás Otamendi",1
+"Aleksandar Kolarov","Joe Hart",3
+"Aleksandar Kolarov","Bacary Sagna",1
+"Aleksandar Kolarov","Raheem Sterling",55
+"Aleksandar Kolarov","Samir Nasri",2
+"Aleksandar Kolarov","Wilfried Bony",8
+"Aleksandar Kolarov","Eliaquim Mangala",8
+"Aleksandar Kolarov","David Silva",17
+"Aleksandar Kolarov","Fernandinho",26
+"Aleksandar Kolarov","Yaya Touré",8
+"Aleksandar Kolarov","Sergio Agüero",5
+"Aleksandar Kolarov","Kevin De Bruyne",16
+"Aleksandar Kolarov","Nicolás Otamendi",16
+"Aleksandar Kolarov","Fernando",2
+"Aleksandar Kolarov","Fabian Delph",10
+"Aleksandar Kolarov","Gaël Clichy",1
+"Wilfried Bony","Bacary Sagna",3
+"Wilfried Bony","Vincent Kompany",1
+"Wilfried Bony","Raheem Sterling",7
+"Wilfried Bony","Samir Nasri",1
+"Wilfried Bony","Aleksandar Kolarov",2
+"Wilfried Bony","Eliaquim Mangala",1
+"Wilfried Bony","David Silva",6
+"Wilfried Bony","Fernandinho",2
+"Wilfried Bony","Yaya Touré",16
+"Wilfried Bony","Kevin De Bruyne",2
+"Wilfried Bony","Nicolás Otamendi",1
+"Wilfried Bony","Jesús Navas",6
+"Wilfried Bony","Fernando",1
+"Wilfried Bony","Gaël Clichy",1
+"Eliaquim Mangala","Joe Hart",18
+"Eliaquim Mangala","Bacary Sagna",11
+"Eliaquim Mangala","Vincent Kompany",9
+"Eliaquim Mangala","Samir Nasri",2
+"Eliaquim Mangala","Aleksandar Kolarov",26
+"Eliaquim Mangala","David Silva",7
+"Eliaquim Mangala","Fernandinho",23
+"Eliaquim Mangala","Yaya Touré",19
+"Eliaquim Mangala","Sergio Agüero",2
+"Eliaquim Mangala","Kevin De Bruyne",5
+"Eliaquim Mangala","Nicolás Otamendi",46
+"Eliaquim Mangala","Pablo Zabaleta",1
+"Eliaquim Mangala","Jesús Navas",2
+"Eliaquim Mangala","Fernando",8
+"Eliaquim Mangala","Fabian Delph",4
+"Eliaquim Mangala","Gaël Clichy",30
+"Eliaquim Mangala","Martín Demichelis",7
+"David Silva","Bacary Sagna",21
+"David Silva","Vincent Kompany",7
+"David Silva","Raheem Sterling",39
+"David Silva","Samir Nasri",10
+"David Silva","Aleksandar Kolarov",25
+"David Silva","Wilfried Bony",4
+"David Silva","Eliaquim Mangala",12
+"David Silva","Fernandinho",49
+"David Silva","Yaya Touré",36
+"David Silva","Sergio Agüero",24
+"David Silva","Kevin De Bruyne",27
+"David Silva","Nicolás Otamendi",7
+"David Silva","Martín Demichelis",4
+"David Silva","Pablo Zabaleta",1
+"David Silva","Fernando",22
+"David Silva","Jesús Navas",20
+"David Silva","Fabian Delph",6
+"David Silva","Gaël Clichy",39
+"Fernandinho","Joe Hart",1
+"Fernandinho","Bacary Sagna",38
+"Fernandinho","Vincent Kompany",20
+"Fernandinho","Raheem Sterling",29
+"Fernandinho","Samir Nasri",9
+"Fernandinho","Aleksandar Kolarov",29
+"Fernandinho","Wilfried Bony",6
+"Fernandinho","Eliaquim Mangala",29
+"Fernandinho","David Silva",56
+"Fernandinho","Yaya Touré",63
+"Fernandinho","Sergio Agüero",29
+"Fernandinho","Kevin De Bruyne",38
+"Fernandinho","Nicolás Otamendi",32
+"Fernandinho","Martín Demichelis",5
+"Fernandinho","Pablo Zabaleta",2
+"Fernandinho","Fernando",28
+"Fernandinho","Jesús Navas",29
+"Fernandinho","Fabian Delph",5
+"Fernandinho","Gaël Clichy",42
+"Fernandinho","Kelechi Iheanacho",2
+"Yaya Touré","Joe Hart",6
+"Yaya Touré","Bacary Sagna",40
+"Yaya Touré","Vincent Kompany",18
+"Yaya Touré","Raheem Sterling",18
+"Yaya Touré","Samir Nasri",7
+"Yaya Touré","Aleksandar Kolarov",22
+"Yaya Touré","Wilfried Bony",10
+"Yaya Touré","Eliaquim Mangala",31
+"Yaya Touré","David Silva",45
+"Yaya Touré","Fernandinho",59
+"Yaya Touré","Sergio Agüero",20
+"Yaya Touré","Kevin De Bruyne",22
+"Yaya Touré","Nicolás Otamendi",43
+"Yaya Touré","Martín Demichelis",11
+"Yaya Touré","Pablo Zabaleta",7
+"Yaya Touré","Fernando",29
+"Yaya Touré","Jesús Navas",32
+"Yaya Touré","Fabian Delph",7
+"Yaya Touré","Gaël Clichy",29
+"Sergio Agüero","Bacary Sagna",7
+"Sergio Agüero","Raheem Sterling",16
+"Sergio Agüero","Aleksandar Kolarov",3
+"Sergio Agüero","Eliaquim Mangala",6
+"Sergio Agüero","David Silva",35
+"Sergio Agüero","Fernandinho",25
+"Sergio Agüero","Yaya Touré",16
+"Sergio Agüero","Kevin De Bruyne",21
+"Sergio Agüero","Nicolás Otamendi",1
+"Sergio Agüero","Martín Demichelis",1
+"Sergio Agüero","Pablo Zabaleta",2
+"Sergio Agüero","Fernando",22
+"Sergio Agüero","Jesús Navas",15
+"Sergio Agüero","Gaël Clichy",18
+"Sergio Agüero","Fabian Delph",1
+"Sergio Agüero","Kelechi Iheanacho",3
+"Kevin De Bruyne","Joe Hart",2
+"Kevin De Bruyne","Bacary Sagna",36
+"Kevin De Bruyne","Vincent Kompany",3
+"Kevin De Bruyne","Raheem Sterling",11
+"Kevin De Bruyne","Samir Nasri",1
+"Kevin De Bruyne","Aleksandar Kolarov",5
+"Kevin De Bruyne","Wilfried Bony",2
+"Kevin De Bruyne","Eliaquim Mangala",5
+"Kevin De Bruyne","David Silva",32
+"Kevin De Bruyne","Fernandinho",30
+"Kevin De Bruyne","Yaya Touré",29
+"Kevin De Bruyne","Sergio Agüero",32
+"Kevin De Bruyne","Nicolás Otamendi",12
+"Kevin De Bruyne","Martín Demichelis",7
+"Kevin De Bruyne","Pablo Zabaleta",1
+"Kevin De Bruyne","Fernando",22
+"Kevin De Bruyne","Jesús Navas",33
+"Kevin De Bruyne","Fabian Delph",3
+"Kevin De Bruyne","Gaël Clichy",31
+"Kevin De Bruyne","Kelechi Iheanacho",2
+"Nicolás Otamendi","Joe Hart",16
+"Nicolás Otamendi","Bacary Sagna",40
+"Nicolás Otamendi","Vincent Kompany",37
+"Nicolás Otamendi","Raheem Sterling",10
+"Nicolás Otamendi","Aleksandar Kolarov",22
+"Nicolás Otamendi","Wilfried Bony",4
+"Nicolás Otamendi","Eliaquim Mangala",30
+"Nicolás Otamendi","David Silva",11
+"Nicolás Otamendi","Fernandinho",30
+"Nicolás Otamendi","Yaya Touré",36
+"Nicolás Otamendi","Sergio Agüero",10
+"Nicolás Otamendi","Kevin De Bruyne",27
+"Nicolás Otamendi","Martín Demichelis",26
+"Nicolás Otamendi","Pablo Zabaleta",9
+"Nicolás Otamendi","Fernando",33
+"Nicolás Otamendi","Jesús Navas",17
+"Nicolás Otamendi","Fabian Delph",5
+"Nicolás Otamendi","Gaël Clichy",70
+"Martín Demichelis","Joe Hart",11
+"Martín Demichelis","Bacary Sagna",27
+"Martín Demichelis","Raheem Sterling",1
+"Martín Demichelis","Sergio Agüero",3
+"Martín Demichelis","Aleksandar Kolarov",6
+"Martín Demichelis","Kevin De Bruyne",6
+"Martín Demichelis","David Silva",5
+"Martín Demichelis","Fernandinho",12
+"Martín Demichelis","Nicolás Otamendi",19
+"Martín Demichelis","Yaya Touré",14
+"Martín Demichelis","Pablo Zabaleta",13
+"Martín Demichelis","Fernando",18
+"Martín Demichelis","Jesús Navas",15
+"Martín Demichelis","Fabian Delph",3
+"Martín Demichelis","Gaël Clichy",8
+"Martín Demichelis","Eliaquim Mangala",7
+"Pablo Zabaleta","Joe Hart",1
+"Pablo Zabaleta","Sergio Agüero",4
+"Pablo Zabaleta","Kevin De Bruyne",1
+"Pablo Zabaleta","Fernandinho",1
+"Pablo Zabaleta","Martín Demichelis",6
+"Pablo Zabaleta","Nicolás Otamendi",3
+"Pablo Zabaleta","Yaya Touré",8
+"Pablo Zabaleta","Fernando",4
+"Pablo Zabaleta","Jesús Navas",23
+"Pablo Zabaleta","Wilfried Bony",1
+"Fernando","Joe Hart",3
+"Fernando","Bacary Sagna",46
+"Fernando","Raheem Sterling",2
+"Fernando","Sergio Agüero",13
+"Fernando","Aleksandar Kolarov",7
+"Fernando","Kevin De Bruyne",26
+"Fernando","David Silva",29
+"Fernando","Fernandinho",49
+"Fernando","Martín Demichelis",18
+"Fernando","Nicolás Otamendi",37
+"Fernando","Yaya Touré",45
+"Fernando","Pablo Zabaleta",7
+"Fernando","Jesús Navas",10
+"Fernando","Eliaquim Mangala",9
+"Fernando","Vincent Kompany",13
+"Fernando","Fabian Delph",2
+"Fernando","Gaël Clichy",34
+"Fernando","Kelechi Iheanacho",3
+"Jesús Navas","Joe Hart",6
+"Jesús Navas","Bacary Sagna",73
+"Jesús Navas","Raheem Sterling",3
+"Jesús Navas","Sergio Agüero",22
+"Jesús Navas","Aleksandar Kolarov",1
+"Jesús Navas","Kevin De Bruyne",36
+"Jesús Navas","David Silva",18
+"Jesús Navas","Fernandinho",32
+"Jesús Navas","Martín Demichelis",8
+"Jesús Navas","Nicolás Otamendi",10
+"Jesús Navas","Yaya Touré",48
+"Jesús Navas","Pablo Zabaleta",10
+"Jesús Navas","Fernando",16
+"Jesús Navas","Wilfried Bony",9
+"Jesús Navas","Eliaquim Mangala",1
+"Jesús Navas","Vincent Kompany",6
+"Jesús Navas","Gaël Clichy",7
+"Jesús Navas","Kelechi Iheanacho",2
+"Fabian Delph","Joe Hart",1
+"Fabian Delph","Fernando",5
+"Fabian Delph","Raheem Sterling",5
+"Fabian Delph","Aleksandar Kolarov",9
+"Fabian Delph","Fernandinho",1
+"Fabian Delph","Nicolás Otamendi",2
+"Fabian Delph","Yaya Touré",9
+"Fabian Delph","Kevin De Bruyne",4
+"Fabian Delph","Martín Demichelis",1
+"Fabian Delph","Gaël Clichy",9
+"Fabian Delph","Eliaquim Mangala",1
+"Fabian Delph","David Silva",8
+"Gaël Clichy","Joe Hart",9
+"Gaël Clichy","Bacary Sagna",1
+"Gaël Clichy","Fernando",27
+"Gaël Clichy","Sergio Agüero",41
+"Gaël Clichy","Jesús Navas",5
+"Gaël Clichy","Kevin De Bruyne",38
+"Gaël Clichy","Fernandinho",43
+"Gaël Clichy","Martín Demichelis",4
+"Gaël Clichy","Nicolás Otamendi",38
+"Gaël Clichy","Yaya Touré",29
+"Gaël Clichy","Raheem Sterling",29
+"Gaël Clichy","Fabian Delph",10
+"Gaël Clichy","Aleksandar Kolarov",1
+"Gaël Clichy","Eliaquim Mangala",12
+"Gaël Clichy","David Silva",48
+"Gaël Clichy","Wilfried Bony",1
+"Gaël Clichy","Vincent Kompany",7
+"Gaël Clichy","Kelechi Iheanacho",2
+"Willy Caballero","Fernando",1
+"Willy Caballero","Nicolás Otamendi",1
+"Willy Caballero","Yaya Touré",1
+"Kelechi Iheanacho","Fernando",1
+"Kelechi Iheanacho","Raheem Sterling",1
+"Kelechi Iheanacho","Sergio Agüero",1
+"Kelechi Iheanacho","David Silva",1
+"Kelechi Iheanacho","Gaël Clichy",1
+"Kelechi Iheanacho","Fernandinho",2
+"Kelechi Iheanacho","Jesús Navas",3
+"Kelechi Iheanacho","Kevin De Bruyne",2

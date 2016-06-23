@@ -1,0 +1,165 @@
+"Craig Gordon","Virgil Van Dijk",12
+"Craig Gordon","Nir Bitton",1
+"Craig Gordon","Scott Brown",2
+"Craig Gordon","Leigh Griffiths",1
+"Craig Gordon","Stuart Armstrong",1
+"Craig Gordon","Dedryck Boyata",11
+"Craig Gordon","Mikael Lustig",1
+"Craig Gordon","James Forrest",1
+"Craig Gordon","Nadir Çiftçi",1
+"Craig Gordon","Gary Mackay-Steven",1
+"Craig Gordon","Charlie Mulgrew",2
+"Emilio Izaguirre","Virgil Van Dijk",7
+"Emilio Izaguirre","Nir Bitton",1
+"Emilio Izaguirre","Scott Brown",3
+"Emilio Izaguirre","Leigh Griffiths",1
+"Emilio Izaguirre","Stuart Armstrong",7
+"Emilio Izaguirre","Stefan Johansen",3
+"Emilio Izaguirre","James Forrest",3
+"Emilio Izaguirre","Gary Mackay-Steven",3
+"Virgil Van Dijk","Craig Gordon",9
+"Virgil Van Dijk","Emilio Izaguirre",7
+"Virgil Van Dijk","Nir Bitton",9
+"Virgil Van Dijk","Scott Brown",3
+"Virgil Van Dijk","Stuart Armstrong",5
+"Virgil Van Dijk","Dedryck Boyata",20
+"Virgil Van Dijk","Stefan Johansen",6
+"Virgil Van Dijk","James Forrest",4
+"Virgil Van Dijk","Efe Ambrose",1
+"Virgil Van Dijk","Nadir Çiftçi",1
+"Virgil Van Dijk","Gary Mackay-Steven",1
+"Virgil Van Dijk","Charlie Mulgrew",19
+"Nir Bitton","Craig Gordon",4
+"Nir Bitton","Emilio Izaguirre",3
+"Nir Bitton","Virgil Van Dijk",12
+"Nir Bitton","Scott Brown",8
+"Nir Bitton","Leigh Griffiths",1
+"Nir Bitton","Stuart Armstrong",5
+"Nir Bitton","Dedryck Boyata",22
+"Nir Bitton","Mikael Lustig",5
+"Nir Bitton","Stefan Johansen",7
+"Nir Bitton","James Forrest",9
+"Nir Bitton","Gary Mackay-Steven",1
+"Nir Bitton","Charlie Mulgrew",10
+"Nir Bitton","Saidy Janko",4
+"Nir Bitton","Kris Commons",1
+"Scott Brown","Emilio Izaguirre",4
+"Scott Brown","Virgil Van Dijk",6
+"Scott Brown","Nir Bitton",8
+"Scott Brown","Leigh Griffiths",2
+"Scott Brown","Stuart Armstrong",7
+"Scott Brown","Dedryck Boyata",12
+"Scott Brown","Mikael Lustig",4
+"Scott Brown","Stefan Johansen",14
+"Scott Brown","James Forrest",12
+"Scott Brown","Efe Ambrose",1
+"Scott Brown","Nadir Çiftçi",2
+"Scott Brown","Charlie Mulgrew",2
+"Scott Brown","Saidy Janko",12
+"Scott Brown","Kris Commons",4
+"Leigh Griffiths","Emilio Izaguirre",1
+"Leigh Griffiths","Nir Bitton",3
+"Leigh Griffiths","Scott Brown",1
+"Leigh Griffiths","Mikael Lustig",1
+"Leigh Griffiths","Stefan Johansen",7
+"Leigh Griffiths","James Forrest",5
+"Leigh Griffiths","Charlie Mulgrew",1
+"Leigh Griffiths","Kris Commons",1
+"Stuart Armstrong","Emilio Izaguirre",4
+"Stuart Armstrong","Virgil Van Dijk",2
+"Stuart Armstrong","Nir Bitton",5
+"Stuart Armstrong","Scott Brown",1
+"Stuart Armstrong","Leigh Griffiths",3
+"Stuart Armstrong","Dedryck Boyata",1
+"Stuart Armstrong","Stefan Johansen",7
+"Stuart Armstrong","James Forrest",2
+"Stuart Armstrong","Charlie Mulgrew",2
+"Dedryck Boyata","Craig Gordon",6
+"Dedryck Boyata","Emilio Izaguirre",2
+"Dedryck Boyata","Virgil Van Dijk",17
+"Dedryck Boyata","Nir Bitton",22
+"Dedryck Boyata","Scott Brown",14
+"Dedryck Boyata","Leigh Griffiths",3
+"Dedryck Boyata","Stuart Armstrong",1
+"Dedryck Boyata","Mikael Lustig",14
+"Dedryck Boyata","Stefan Johansen",6
+"Dedryck Boyata","James Forrest",4
+"Dedryck Boyata","Efe Ambrose",1
+"Dedryck Boyata","Nadir Çiftçi",1
+"Dedryck Boyata","Gary Mackay-Steven",1
+"Dedryck Boyata","Charlie Mulgrew",2
+"Dedryck Boyata","Saidy Janko",15
+"Dedryck Boyata","Kris Commons",2
+"Mikael Lustig","Craig Gordon",2
+"Mikael Lustig","Nir Bitton",3
+"Mikael Lustig","Scott Brown",1
+"Mikael Lustig","Leigh Griffiths",1
+"Mikael Lustig","Dedryck Boyata",14
+"Mikael Lustig","Stefan Johansen",2
+"Mikael Lustig","James Forrest",4
+"Stefan Johansen","Emilio Izaguirre",5
+"Stefan Johansen","Virgil Van Dijk",7
+"Stefan Johansen","Nir Bitton",5
+"Stefan Johansen","Scott Brown",8
+"Stefan Johansen","Leigh Griffiths",6
+"Stefan Johansen","Stuart Armstrong",8
+"Stefan Johansen","Dedryck Boyata",8
+"Stefan Johansen","Mikael Lustig",3
+"Stefan Johansen","James Forrest",8
+"Stefan Johansen","Nadir Çiftçi",2
+"Stefan Johansen","Gary Mackay-Steven",2
+"Stefan Johansen","Charlie Mulgrew",5
+"Stefan Johansen","Saidy Janko",3
+"Stefan Johansen","Kris Commons",2
+"James Forrest","Virgil Van Dijk",2
+"James Forrest","Nir Bitton",5
+"James Forrest","Scott Brown",6
+"James Forrest","Leigh Griffiths",4
+"James Forrest","Stuart Armstrong",2
+"James Forrest","Dedryck Boyata",1
+"James Forrest","Mikael Lustig",6
+"James Forrest","Stefan Johansen",5
+"James Forrest","Efe Ambrose",2
+"James Forrest","Nadir Çiftçi",1
+"James Forrest","Charlie Mulgrew",4
+"James Forrest","Saidy Janko",5
+"James Forrest","Kris Commons",1
+"Efe Ambrose","Nir Bitton",1
+"Efe Ambrose","Dedryck Boyata",1
+"Efe Ambrose","James Forrest",1
+"Nadir Çiftçi","Emilio Izaguirre",1
+"Nadir Çiftçi","Scott Brown",2
+"Nadir Çiftçi","Dedryck Boyata",1
+"Nadir Çiftçi","Stefan Johansen",2
+"Nadir Çiftçi","Gary Mackay-Steven",2
+"Nadir Çiftçi","Kris Commons",3
+"Gary Mackay-Steven","Emilio Izaguirre",4
+"Gary Mackay-Steven","Scott Brown",1
+"Gary Mackay-Steven","Stefan Johansen",3
+"Gary Mackay-Steven","Nadir Çiftçi",2
+"Gary Mackay-Steven","Kris Commons",2
+"Charlie Mulgrew","Virgil Van Dijk",9
+"Charlie Mulgrew","Nir Bitton",8
+"Charlie Mulgrew","Scott Brown",4
+"Charlie Mulgrew","Leigh Griffiths",2
+"Charlie Mulgrew","Stuart Armstrong",6
+"Charlie Mulgrew","Dedryck Boyata",1
+"Charlie Mulgrew","Stefan Johansen",7
+"Charlie Mulgrew","James Forrest",8
+"Charlie Mulgrew","Nadir Çiftçi",1
+"Charlie Mulgrew","Gary Mackay-Steven",2
+"Saidy Janko","Craig Gordon",2
+"Saidy Janko","Nir Bitton",4
+"Saidy Janko","Scott Brown",5
+"Saidy Janko","Leigh Griffiths",1
+"Saidy Janko","Dedryck Boyata",8
+"Saidy Janko","Stefan Johansen",5
+"Saidy Janko","James Forrest",8
+"Saidy Janko","Kris Commons",3
+"Kris Commons","Virgil Van Dijk",1
+"Kris Commons","Scott Brown",2
+"Kris Commons","Leigh Griffiths",1
+"Kris Commons","Charlie Mulgrew",2
+"Kris Commons","Saidy Janko",5
+"Kris Commons","Stefan Johansen",2
+"Kris Commons","Nadir Çiftçi",1

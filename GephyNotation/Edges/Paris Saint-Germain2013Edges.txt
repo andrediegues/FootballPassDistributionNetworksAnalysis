@@ -1,0 +1,391 @@
+"Salvatore Sirigu","Thiago Silva",20
+"Salvatore Sirigu","Jérémy Ménez",3
+"Salvatore Sirigu","Alex",13
+"Salvatore Sirigu","Blaise Matuidi",10
+"Salvatore Sirigu","Maxwell",17
+"Salvatore Sirigu","Zlatan Ibrahimović",28
+"Salvatore Sirigu","Clément Chantôme",4
+"Salvatore Sirigu","Marco Verratti",3
+"Salvatore Sirigu","Christophe Jallet",7
+"Salvatore Sirigu","Javier Pastore",11
+"Salvatore Sirigu","Zoumana Camara",1
+"Salvatore Sirigu","Nenê",6
+"Salvatore Sirigu","Ezequiel Lavezzi",9
+"Salvatore Sirigu","Mamadou Sakho",7
+"Salvatore Sirigu","Gregory van der Wiel",6
+"Salvatore Sirigu","Mathieu Bodmer",2
+"Salvatore Sirigu","Mohamed Sissoko",3
+"Salvatore Sirigu","Adrien Rabiot",1
+"Salvatore Sirigu","Lucas",12
+"Salvatore Sirigu","Thiago Motta",2
+"Salvatore Sirigu","David Beckham",1
+"Thiago Silva","Salvatore Sirigu",18
+"Thiago Silva","Jérémy Ménez",7
+"Thiago Silva","Alex",32
+"Thiago Silva","Blaise Matuidi",44
+"Thiago Silva","Maxwell",50
+"Thiago Silva","Zlatan Ibrahimović",16
+"Thiago Silva","Clément Chantôme",11
+"Thiago Silva","Marco Verratti",36
+"Thiago Silva","Christophe Jallet",10
+"Thiago Silva","Javier Pastore",31
+"Thiago Silva","Zoumana Camara",1
+"Thiago Silva","Nenê",6
+"Thiago Silva","Ezequiel Lavezzi",10
+"Thiago Silva","Mamadou Sakho",7
+"Thiago Silva","Gregory van der Wiel",9
+"Thiago Silva","Mathieu Bodmer",2
+"Thiago Silva","Mohamed Sissoko",4
+"Thiago Silva","Guillaume Hoarau",1
+"Thiago Silva","Adrien Rabiot",6
+"Thiago Silva","Sylvain Armand",1
+"Thiago Silva","Thiago Motta",3
+"Thiago Silva","Lucas",2
+"Thiago Silva","Kevin Gameiro",1
+"Thiago Silva","David Beckham",2
+"Jérémy Ménez","Thiago Silva",7
+"Jérémy Ménez","Alex",16
+"Jérémy Ménez","Blaise Matuidi",17
+"Jérémy Ménez","Maxwell",11
+"Jérémy Ménez","Zlatan Ibrahimović",21
+"Jérémy Ménez","Clément Chantôme",7
+"Jérémy Ménez","Marco Verratti",17
+"Jérémy Ménez","Christophe Jallet",15
+"Jérémy Ménez","Javier Pastore",17
+"Jérémy Ménez","Nenê",2
+"Jérémy Ménez","Ezequiel Lavezzi",10
+"Jérémy Ménez","Mamadou Sakho",1
+"Jérémy Ménez","Gregory van der Wiel",2
+"Jérémy Ménez","Mathieu Bodmer",2
+"Jérémy Ménez","Mohamed Sissoko",3
+"Jérémy Ménez","Adrien Rabiot",3
+"Jérémy Ménez","Lucas",2
+"Alex","Salvatore Sirigu",17
+"Alex","Thiago Silva",27
+"Alex","Jérémy Ménez",3
+"Alex","Blaise Matuidi",17
+"Alex","Maxwell",12
+"Alex","Zlatan Ibrahimović",7
+"Alex","Clément Chantôme",13
+"Alex","Marco Verratti",24
+"Alex","Christophe Jallet",21
+"Alex","Javier Pastore",8
+"Alex","Nenê",1
+"Alex","Ezequiel Lavezzi",6
+"Alex","Mathieu Bodmer",3
+"Alex","Mohamed Sissoko",5
+"Alex","Adrien Rabiot",2
+"Alex","Gregory van der Wiel",10
+"Alex","Mamadou Sakho",5
+"Alex","Lucas",7
+"Alex","Thiago Motta",3
+"Alex","David Beckham",4
+"Blaise Matuidi","Salvatore Sirigu",3
+"Blaise Matuidi","Thiago Silva",23
+"Blaise Matuidi","Jérémy Ménez",30
+"Blaise Matuidi","Alex",15
+"Blaise Matuidi","Maxwell",65
+"Blaise Matuidi","Zlatan Ibrahimović",44
+"Blaise Matuidi","Clément Chantôme",9
+"Blaise Matuidi","Marco Verratti",49
+"Blaise Matuidi","Christophe Jallet",23
+"Blaise Matuidi","Javier Pastore",41
+"Blaise Matuidi","Nenê",11
+"Blaise Matuidi","Ezequiel Lavezzi",17
+"Blaise Matuidi","Mamadou Sakho",9
+"Blaise Matuidi","Gregory van der Wiel",2
+"Blaise Matuidi","Mathieu Bodmer",6
+"Blaise Matuidi","Mohamed Sissoko",2
+"Blaise Matuidi","Guillaume Hoarau",5
+"Blaise Matuidi","Adrien Rabiot",4
+"Blaise Matuidi","Sylvain Armand",1
+"Blaise Matuidi","Lucas",5
+"Blaise Matuidi","Thiago Motta",7
+"Blaise Matuidi","Kevin Gameiro",3
+"Blaise Matuidi","David Beckham",2
+"Maxwell","Salvatore Sirigu",5
+"Maxwell","Thiago Silva",33
+"Maxwell","Jérémy Ménez",30
+"Maxwell","Alex",5
+"Maxwell","Blaise Matuidi",68
+"Maxwell","Zlatan Ibrahimović",44
+"Maxwell","Clément Chantôme",11
+"Maxwell","Marco Verratti",42
+"Maxwell","Christophe Jallet",5
+"Maxwell","Javier Pastore",72
+"Maxwell","Zoumana Camara",1
+"Maxwell","Nenê",15
+"Maxwell","Ezequiel Lavezzi",21
+"Maxwell","Mamadou Sakho",7
+"Maxwell","Gregory van der Wiel",3
+"Maxwell","Mathieu Bodmer",1
+"Maxwell","Mohamed Sissoko",4
+"Maxwell","Guillaume Hoarau",4
+"Maxwell","Adrien Rabiot",15
+"Maxwell","Sylvain Armand",3
+"Maxwell","Lucas",1
+"Maxwell","Thiago Motta",6
+"Maxwell","David Beckham",5
+"Zlatan Ibrahimović","Salvatore Sirigu",1
+"Zlatan Ibrahimović","Thiago Silva",6
+"Zlatan Ibrahimović","Jérémy Ménez",27
+"Zlatan Ibrahimović","Alex",5
+"Zlatan Ibrahimović","Blaise Matuidi",22
+"Zlatan Ibrahimović","Maxwell",21
+"Zlatan Ibrahimović","Clément Chantôme",13
+"Zlatan Ibrahimović","Marco Verratti",27
+"Zlatan Ibrahimović","Christophe Jallet",22
+"Zlatan Ibrahimović","Javier Pastore",31
+"Zlatan Ibrahimović","Nenê",8
+"Zlatan Ibrahimović","Ezequiel Lavezzi",24
+"Zlatan Ibrahimović","Mamadou Sakho",1
+"Zlatan Ibrahimović","Gregory van der Wiel",8
+"Zlatan Ibrahimović","Mathieu Bodmer",4
+"Zlatan Ibrahimović","Mohamed Sissoko",11
+"Zlatan Ibrahimović","Guillaume Hoarau",2
+"Zlatan Ibrahimović","Adrien Rabiot",4
+"Zlatan Ibrahimović","Sylvain Armand",4
+"Zlatan Ibrahimović","Lucas",7
+"Zlatan Ibrahimović","David Beckham",1
+"Zlatan Ibrahimović","Kevin Gameiro",1
+"Zlatan Ibrahimović","Thiago Motta",1
+"Clément Chantôme","Salvatore Sirigu",2
+"Clément Chantôme","Thiago Silva",12
+"Clément Chantôme","Jérémy Ménez",6
+"Clément Chantôme","Alex",7
+"Clément Chantôme","Blaise Matuidi",13
+"Clément Chantôme","Maxwell",10
+"Clément Chantôme","Zlatan Ibrahimović",22
+"Clément Chantôme","Marco Verratti",26
+"Clément Chantôme","Christophe Jallet",28
+"Clément Chantôme","Javier Pastore",16
+"Clément Chantôme","Nenê",6
+"Clément Chantôme","Ezequiel Lavezzi",10
+"Clément Chantôme","Mamadou Sakho",5
+"Clément Chantôme","Gregory van der Wiel",26
+"Clément Chantôme","Lucas",3
+"Clément Chantôme","Thiago Motta",2
+"Clément Chantôme","Kevin Gameiro",1
+"Marco Verratti","Salvatore Sirigu",3
+"Marco Verratti","Thiago Silva",33
+"Marco Verratti","Jérémy Ménez",25
+"Marco Verratti","Alex",25
+"Marco Verratti","Blaise Matuidi",36
+"Marco Verratti","Maxwell",39
+"Marco Verratti","Zlatan Ibrahimović",36
+"Marco Verratti","Clément Chantôme",22
+"Marco Verratti","Christophe Jallet",24
+"Marco Verratti","Javier Pastore",36
+"Marco Verratti","Zoumana Camara",5
+"Marco Verratti","Nenê",13
+"Marco Verratti","Ezequiel Lavezzi",12
+"Marco Verratti","Mamadou Sakho",10
+"Marco Verratti","Gregory van der Wiel",8
+"Marco Verratti","Mathieu Bodmer",10
+"Marco Verratti","Mohamed Sissoko",5
+"Marco Verratti","Adrien Rabiot",6
+"Marco Verratti","Lucas",11
+"Marco Verratti","Thiago Motta",7
+"Christophe Jallet","Salvatore Sirigu",4
+"Christophe Jallet","Thiago Silva",8
+"Christophe Jallet","Jérémy Ménez",17
+"Christophe Jallet","Alex",16
+"Christophe Jallet","Blaise Matuidi",30
+"Christophe Jallet","Maxwell",3
+"Christophe Jallet","Zlatan Ibrahimović",46
+"Christophe Jallet","Clément Chantôme",24
+"Christophe Jallet","Marco Verratti",30
+"Christophe Jallet","Javier Pastore",21
+"Christophe Jallet","Zoumana Camara",3
+"Christophe Jallet","Nenê",2
+"Christophe Jallet","Ezequiel Lavezzi",18
+"Christophe Jallet","Mamadou Sakho",1
+"Christophe Jallet","Gregory van der Wiel",2
+"Christophe Jallet","Mathieu Bodmer",13
+"Christophe Jallet","Mohamed Sissoko",11
+"Christophe Jallet","Guillaume Hoarau",4
+"Christophe Jallet","Adrien Rabiot",1
+"Christophe Jallet","Lucas",18
+"Christophe Jallet","Thiago Motta",3
+"Christophe Jallet","David Beckham",2
+"Javier Pastore","Salvatore Sirigu",1
+"Javier Pastore","Thiago Silva",16
+"Javier Pastore","Jérémy Ménez",21
+"Javier Pastore","Alex",8
+"Javier Pastore","Blaise Matuidi",31
+"Javier Pastore","Maxwell",41
+"Javier Pastore","Zlatan Ibrahimović",35
+"Javier Pastore","Clément Chantôme",12
+"Javier Pastore","Marco Verratti",23
+"Javier Pastore","Christophe Jallet",21
+"Javier Pastore","Zoumana Camara",3
+"Javier Pastore","Ezequiel Lavezzi",20
+"Javier Pastore","Mamadou Sakho",3
+"Javier Pastore","Gregory van der Wiel",2
+"Javier Pastore","Mathieu Bodmer",5
+"Javier Pastore","Guillaume Hoarau",1
+"Javier Pastore","Adrien Rabiot",1
+"Javier Pastore","Sylvain Armand",1
+"Javier Pastore","Lucas",8
+"Javier Pastore","Thiago Motta",8
+"Javier Pastore","Kevin Gameiro",6
+"Javier Pastore","David Beckham",4
+"Zoumana Camara","Salvatore Sirigu",2
+"Zoumana Camara","Thiago Silva",2
+"Zoumana Camara","Blaise Matuidi",1
+"Zoumana Camara","Maxwell",1
+"Zoumana Camara","Zlatan Ibrahimović",1
+"Zoumana Camara","Marco Verratti",4
+"Zoumana Camara","Christophe Jallet",4
+"Zoumana Camara","Nenê",1
+"Zoumana Camara","Mohamed Sissoko",1
+"Nenê","Thiago Silva",3
+"Nenê","Jérémy Ménez",3
+"Nenê","Alex",2
+"Nenê","Blaise Matuidi",11
+"Nenê","Maxwell",3
+"Nenê","Zlatan Ibrahimović",7
+"Nenê","Clément Chantôme",4
+"Nenê","Marco Verratti",4
+"Nenê","Christophe Jallet",2
+"Nenê","Javier Pastore",3
+"Nenê","Ezequiel Lavezzi",4
+"Nenê","Mamadou Sakho",1
+"Nenê","Gregory van der Wiel",6
+"Nenê","Mohamed Sissoko",6
+"Ezequiel Lavezzi","Salvatore Sirigu",1
+"Ezequiel Lavezzi","Thiago Silva",4
+"Ezequiel Lavezzi","Jérémy Ménez",10
+"Ezequiel Lavezzi","Alex",4
+"Ezequiel Lavezzi","Blaise Matuidi",12
+"Ezequiel Lavezzi","Maxwell",11
+"Ezequiel Lavezzi","Zlatan Ibrahimović",23
+"Ezequiel Lavezzi","Clément Chantôme",7
+"Ezequiel Lavezzi","Marco Verratti",7
+"Ezequiel Lavezzi","Christophe Jallet",10
+"Ezequiel Lavezzi","Javier Pastore",12
+"Ezequiel Lavezzi","Nenê",7
+"Ezequiel Lavezzi","Mohamed Sissoko",4
+"Ezequiel Lavezzi","Adrien Rabiot",2
+"Ezequiel Lavezzi","Gregory van der Wiel",4
+"Ezequiel Lavezzi","Sylvain Armand",1
+"Ezequiel Lavezzi","Mamadou Sakho",2
+"Ezequiel Lavezzi","Lucas",5
+"Ezequiel Lavezzi","Thiago Motta",5
+"Ezequiel Lavezzi","Kevin Gameiro",1
+"Ezequiel Lavezzi","David Beckham",1
+"Mamadou Sakho","Salvatore Sirigu",2
+"Mamadou Sakho","Thiago Silva",10
+"Mamadou Sakho","Jérémy Ménez",2
+"Mamadou Sakho","Nenê",3
+"Mamadou Sakho","Blaise Matuidi",9
+"Mamadou Sakho","Maxwell",6
+"Mamadou Sakho","Zlatan Ibrahimović",3
+"Mamadou Sakho","Clément Chantôme",1
+"Mamadou Sakho","Gregory van der Wiel",3
+"Mamadou Sakho","Marco Verratti",15
+"Mamadou Sakho","Christophe Jallet",1
+"Mamadou Sakho","Javier Pastore",3
+"Mamadou Sakho","Ezequiel Lavezzi",1
+"Mamadou Sakho","Alex",3
+"Gregory van der Wiel","Salvatore Sirigu",8
+"Gregory van der Wiel","Thiago Silva",13
+"Gregory van der Wiel","Mamadou Sakho",2
+"Gregory van der Wiel","Jérémy Ménez",4
+"Gregory van der Wiel","Nenê",8
+"Gregory van der Wiel","Blaise Matuidi",6
+"Gregory van der Wiel","Maxwell",2
+"Gregory van der Wiel","Zlatan Ibrahimović",12
+"Gregory van der Wiel","Clément Chantôme",17
+"Gregory van der Wiel","Marco Verratti",15
+"Gregory van der Wiel","Javier Pastore",2
+"Gregory van der Wiel","Mohamed Sissoko",4
+"Gregory van der Wiel","Ezequiel Lavezzi",10
+"Gregory van der Wiel","Alex",1
+"Gregory van der Wiel","Thiago Motta",3
+"Gregory van der Wiel","Lucas",2
+"Gregory van der Wiel","Kevin Gameiro",2
+"Mathieu Bodmer","Thiago Silva",4
+"Mathieu Bodmer","Jérémy Ménez",4
+"Mathieu Bodmer","Alex",2
+"Mathieu Bodmer","Blaise Matuidi",2
+"Mathieu Bodmer","Maxwell",1
+"Mathieu Bodmer","Zlatan Ibrahimović",6
+"Mathieu Bodmer","Marco Verratti",8
+"Mathieu Bodmer","Christophe Jallet",13
+"Mathieu Bodmer","Javier Pastore",9
+"Mohamed Sissoko","Thiago Silva",3
+"Mohamed Sissoko","Jérémy Ménez",5
+"Mohamed Sissoko","Blaise Matuidi",3
+"Mohamed Sissoko","Maxwell",2
+"Mohamed Sissoko","Zlatan Ibrahimović",4
+"Mohamed Sissoko","Marco Verratti",6
+"Mohamed Sissoko","Christophe Jallet",14
+"Mohamed Sissoko","Guillaume Hoarau",1
+"Mohamed Sissoko","Ezequiel Lavezzi",3
+"Mohamed Sissoko","Nenê",5
+"Mohamed Sissoko","Gregory van der Wiel",6
+"Guillaume Hoarau","Alex",1
+"Guillaume Hoarau","Blaise Matuidi",1
+"Guillaume Hoarau","Maxwell",2
+"Guillaume Hoarau","Zlatan Ibrahimović",5
+"Guillaume Hoarau","Marco Verratti",1
+"Guillaume Hoarau","Christophe Jallet",4
+"Guillaume Hoarau","Javier Pastore",2
+"Adrien Rabiot","Thiago Silva",5
+"Adrien Rabiot","Jérémy Ménez",4
+"Adrien Rabiot","Ezequiel Lavezzi",11
+"Adrien Rabiot","Alex",3
+"Adrien Rabiot","Blaise Matuidi",5
+"Adrien Rabiot","Maxwell",13
+"Adrien Rabiot","Zlatan Ibrahimović",6
+"Adrien Rabiot","Christophe Jallet",3
+"Adrien Rabiot","Guillaume Hoarau",2
+"Adrien Rabiot","Marco Verratti",4
+"Adrien Rabiot","Javier Pastore",1
+"Sylvain Armand","Ezequiel Lavezzi",2
+"Sylvain Armand","Alex",1
+"Sylvain Armand","Blaise Matuidi",2
+"Sylvain Armand","Maxwell",4
+"Sylvain Armand","Zlatan Ibrahimović",1
+"Sylvain Armand","Clément Chantôme",1
+"Sylvain Armand","Javier Pastore",1
+"Lucas","Ezequiel Lavezzi",12
+"Lucas","Alex",4
+"Lucas","Blaise Matuidi",5
+"Lucas","Zlatan Ibrahimović",8
+"Lucas","Marco Verratti",6
+"Lucas","Christophe Jallet",8
+"Lucas","Javier Pastore",6
+"Lucas","Clément Chantôme",6
+"Lucas","Thiago Motta",6
+"Lucas","Gregory van der Wiel",3
+"Lucas","David Beckham",1
+"Thiago Motta","Thiago Silva",6
+"Thiago Motta","Ezequiel Lavezzi",5
+"Thiago Motta","Alex",1
+"Thiago Motta","Blaise Matuidi",4
+"Thiago Motta","Maxwell",10
+"Thiago Motta","Clément Chantôme",2
+"Thiago Motta","Christophe Jallet",1
+"Thiago Motta","Javier Pastore",8
+"Thiago Motta","Lucas",8
+"Thiago Motta","Gregory van der Wiel",2
+"Thiago Motta","Marco Verratti",11
+"Thiago Motta","David Beckham",1
+"Kevin Gameiro","Ezequiel Lavezzi",2
+"Kevin Gameiro","Blaise Matuidi",2
+"Kevin Gameiro","Javier Pastore",1
+"Kevin Gameiro","Gregory van der Wiel",1
+"Kevin Gameiro","David Beckham",1
+"Kevin Gameiro","Marco Verratti",1
+"David Beckham","Thiago Silva",1
+"David Beckham","Alex",6
+"David Beckham","Blaise Matuidi",5
+"David Beckham","Maxwell",4
+"David Beckham","Zlatan Ibrahimović",2
+"David Beckham","Christophe Jallet",4
+"David Beckham","Javier Pastore",3
+"David Beckham","Lucas",3
+"David Beckham","Kevin Gameiro",1
+"David Beckham","Gregory van der Wiel",1

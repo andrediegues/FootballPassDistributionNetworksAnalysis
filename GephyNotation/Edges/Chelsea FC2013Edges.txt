@@ -1,0 +1,245 @@
+"Petr Čech","Branislav Ivanović",8
+"Petr Čech","Ashley Cole",5
+"Petr Čech","David Luiz",19
+"Petr Čech","Ramires",1
+"Petr Čech","Frank Lampard",4
+"Petr Čech","Fernando Torres",6
+"Petr Čech","Oscar",8
+"Petr Čech","John Obi Mikel",6
+"Petr Čech","Eden Hazard",6
+"Petr Čech","John Terry",7
+"Petr Čech","Juan Mata",13
+"Petr Čech","Victor Moses",4
+"Petr Čech","Gary Cahill",11
+"Petr Čech","Daniel Sturridge",1
+"Petr Čech","César Azpilicueta",1
+"Branislav Ivanović","Petr Čech",8
+"Branislav Ivanović","Ashley Cole",1
+"Branislav Ivanović","David Luiz",22
+"Branislav Ivanović","Ramires",26
+"Branislav Ivanović","Frank Lampard",8
+"Branislav Ivanović","Fernando Torres",10
+"Branislav Ivanović","Oscar",28
+"Branislav Ivanović","John Obi Mikel",19
+"Branislav Ivanović","Eden Hazard",17
+"Branislav Ivanović","John Terry",4
+"Branislav Ivanović","Juan Mata",30
+"Branislav Ivanović","Ryan Bertrand",1
+"Branislav Ivanović","Victor Moses",8
+"Branislav Ivanović","Gary Cahill",29
+"Branislav Ivanović","César Azpilicueta",5
+"Branislav Ivanović","Oriol Romeu",10
+"Ashley Cole","Petr Čech",8
+"Ashley Cole","Branislav Ivanović",7
+"Ashley Cole","David Luiz",28
+"Ashley Cole","Ramires",15
+"Ashley Cole","Frank Lampard",20
+"Ashley Cole","Fernando Torres",7
+"Ashley Cole","Oscar",20
+"Ashley Cole","John Obi Mikel",18
+"Ashley Cole","Eden Hazard",29
+"Ashley Cole","John Terry",5
+"Ashley Cole","Juan Mata",13
+"Ashley Cole","Ryan Bertrand",4
+"Ashley Cole","Victor Moses",11
+"Ashley Cole","Gary Cahill",4
+"Ashley Cole","César Azpilicueta",1
+"Ashley Cole","Oriol Romeu",5
+"David Luiz","Petr Čech",16
+"David Luiz","Branislav Ivanović",24
+"David Luiz","Ashley Cole",31
+"David Luiz","Ramires",24
+"David Luiz","Frank Lampard",14
+"David Luiz","Fernando Torres",7
+"David Luiz","Oscar",14
+"David Luiz","John Obi Mikel",11
+"David Luiz","Eden Hazard",18
+"David Luiz","John Terry",12
+"David Luiz","Juan Mata",12
+"David Luiz","Ryan Bertrand",6
+"David Luiz","Victor Moses",2
+"David Luiz","Gary Cahill",39
+"David Luiz","César Azpilicueta",2
+"David Luiz","Oriol Romeu",9
+"David Luiz","Paulo Ferreira",1
+"Ramires","Petr Čech",2
+"Ramires","Branislav Ivanović",23
+"Ramires","Ashley Cole",6
+"Ramires","David Luiz",20
+"Ramires","Frank Lampard",8
+"Ramires","Fernando Torres",10
+"Ramires","Oscar",20
+"Ramires","John Obi Mikel",14
+"Ramires","Eden Hazard",14
+"Ramires","John Terry",6
+"Ramires","Juan Mata",19
+"Ramires","Ryan Bertrand",4
+"Ramires","Victor Moses",9
+"Ramires","Gary Cahill",13
+"Ramires","César Azpilicueta",1
+"Ramires","Oriol Romeu",4
+"Frank Lampard","Petr Čech",2
+"Frank Lampard","Branislav Ivanović",9
+"Frank Lampard","Ashley Cole",20
+"Frank Lampard","David Luiz",15
+"Frank Lampard","Ramires",2
+"Frank Lampard","Fernando Torres",6
+"Frank Lampard","Oscar",18
+"Frank Lampard","John Obi Mikel",13
+"Frank Lampard","Eden Hazard",6
+"Frank Lampard","John Terry",8
+"Frank Lampard","Juan Mata",10
+"Frank Lampard","Victor Moses",2
+"Frank Lampard","Gary Cahill",3
+"Fernando Torres","Branislav Ivanović",3
+"Fernando Torres","Ashley Cole",3
+"Fernando Torres","David Luiz",2
+"Fernando Torres","Ramires",6
+"Fernando Torres","Frank Lampard",6
+"Fernando Torres","Oscar",11
+"Fernando Torres","John Obi Mikel",6
+"Fernando Torres","Eden Hazard",8
+"Fernando Torres","Juan Mata",10
+"Fernando Torres","Ryan Bertrand",1
+"Fernando Torres","Victor Moses",10
+"Fernando Torres","Oriol Romeu",2
+"Oscar","Branislav Ivanović",26
+"Oscar","Ashley Cole",19
+"Oscar","David Luiz",19
+"Oscar","Ramires",17
+"Oscar","Frank Lampard",10
+"Oscar","Fernando Torres",12
+"Oscar","John Obi Mikel",22
+"Oscar","Eden Hazard",24
+"Oscar","John Terry",2
+"Oscar","Juan Mata",25
+"Oscar","Victor Moses",12
+"Oscar","Gary Cahill",9
+"Oscar","Daniel Sturridge",1
+"Oscar","César Azpilicueta",2
+"Oscar","Oriol Romeu",6
+"Oscar","Paulo Ferreira",1
+"John Obi Mikel","Petr Čech",2
+"John Obi Mikel","Branislav Ivanović",26
+"John Obi Mikel","Ashley Cole",17
+"John Obi Mikel","David Luiz",28
+"John Obi Mikel","Ramires",18
+"John Obi Mikel","Frank Lampard",11
+"John Obi Mikel","Fernando Torres",4
+"John Obi Mikel","Oscar",25
+"John Obi Mikel","Eden Hazard",14
+"John Obi Mikel","John Terry",5
+"John Obi Mikel","Juan Mata",17
+"John Obi Mikel","Victor Moses",1
+"John Obi Mikel","Gary Cahill",7
+"John Obi Mikel","César Azpilicueta",3
+"Eden Hazard","Branislav Ivanović",12
+"Eden Hazard","Ashley Cole",16
+"Eden Hazard","David Luiz",12
+"Eden Hazard","Ramires",19
+"Eden Hazard","Frank Lampard",7
+"Eden Hazard","Fernando Torres",17
+"Eden Hazard","Oscar",18
+"Eden Hazard","John Obi Mikel",11
+"Eden Hazard","John Terry",3
+"Eden Hazard","Juan Mata",28
+"Eden Hazard","Ryan Bertrand",6
+"Eden Hazard","Victor Moses",4
+"Eden Hazard","Gary Cahill",3
+"Eden Hazard","César Azpilicueta",2
+"Eden Hazard","Oriol Romeu",4
+"John Terry","Petr Čech",4
+"John Terry","Branislav Ivanović",3
+"John Terry","Ashley Cole",15
+"John Terry","David Luiz",5
+"John Terry","Ramires",7
+"John Terry","Frank Lampard",12
+"John Terry","Fernando Torres",1
+"John Terry","Oscar",2
+"John Terry","John Obi Mikel",9
+"John Terry","Eden Hazard",4
+"John Terry","Juan Mata",2
+"John Terry","Daniel Sturridge",1
+"Juan Mata","Branislav Ivanović",27
+"Juan Mata","Ashley Cole",18
+"Juan Mata","David Luiz",14
+"Juan Mata","Ramires",21
+"Juan Mata","Frank Lampard",6
+"Juan Mata","Fernando Torres",14
+"Juan Mata","Oscar",23
+"Juan Mata","John Obi Mikel",16
+"Juan Mata","Eden Hazard",25
+"Juan Mata","Ryan Bertrand",2
+"Juan Mata","Victor Moses",9
+"Juan Mata","Gary Cahill",10
+"Juan Mata","César Azpilicueta",3
+"Juan Mata","Oriol Romeu",2
+"Ryan Bertrand","Branislav Ivanović",1
+"Ryan Bertrand","Ashley Cole",3
+"Ryan Bertrand","David Luiz",5
+"Ryan Bertrand","Ramires",3
+"Ryan Bertrand","Frank Lampard",2
+"Ryan Bertrand","Fernando Torres",4
+"Ryan Bertrand","Oscar",3
+"Ryan Bertrand","John Obi Mikel",1
+"Ryan Bertrand","Eden Hazard",6
+"Ryan Bertrand","Juan Mata",3
+"Ryan Bertrand","Gary Cahill",2
+"Ryan Bertrand","Oriol Romeu",1
+"Victor Moses","Branislav Ivanović",4
+"Victor Moses","Ashley Cole",7
+"Victor Moses","David Luiz",4
+"Victor Moses","Ramires",6
+"Victor Moses","Frank Lampard",2
+"Victor Moses","Fernando Torres",6
+"Victor Moses","Juan Mata",10
+"Victor Moses","Oscar",6
+"Victor Moses","Gary Cahill",8
+"Victor Moses","Eden Hazard",2
+"Victor Moses","Ryan Bertrand",1
+"Victor Moses","Oriol Romeu",4
+"Victor Moses","Paulo Ferreira",2
+"Gary Cahill","Petr Čech",16
+"Gary Cahill","Branislav Ivanović",32
+"Gary Cahill","Ashley Cole",7
+"Gary Cahill","David Luiz",37
+"Gary Cahill","Ramires",16
+"Gary Cahill","Frank Lampard",3
+"Gary Cahill","Fernando Torres",2
+"Gary Cahill","Juan Mata",12
+"Gary Cahill","Oscar",15
+"Gary Cahill","Victor Moses",2
+"Gary Cahill","John Obi Mikel",15
+"Gary Cahill","Ryan Bertrand",1
+"Gary Cahill","César Azpilicueta",3
+"Gary Cahill","Oriol Romeu",11
+"Gary Cahill","Paulo Ferreira",4
+"Daniel Sturridge","John Obi Mikel",1
+"Daniel Sturridge","Eden Hazard",1
+"César Azpilicueta","Branislav Ivanović",4
+"César Azpilicueta","Ramires",1
+"César Azpilicueta","Juan Mata",2
+"César Azpilicueta","Oscar",4
+"César Azpilicueta","John Obi Mikel",2
+"César Azpilicueta","Gary Cahill",4
+"Oriol Romeu","Petr Čech",1
+"Oriol Romeu","Branislav Ivanović",3
+"Oriol Romeu","Ashley Cole",3
+"Oriol Romeu","David Luiz",13
+"Oriol Romeu","Ramires",6
+"Oriol Romeu","Fernando Torres",2
+"Oriol Romeu","Juan Mata",7
+"Oriol Romeu","Victor Moses",8
+"Oriol Romeu","Eden Hazard",7
+"Oriol Romeu","Gary Cahill",7
+"Oriol Romeu","Oscar",4
+"Oriol Romeu","Paulo Ferreira",3
+"Oriol Romeu","Ryan Bertrand",3
+"Paulo Ferreira","Petr Čech",1
+"Paulo Ferreira","Branislav Ivanović",1
+"Paulo Ferreira","David Luiz",3
+"Paulo Ferreira","Oriol Romeu",1
+"Paulo Ferreira","Fernando Torres",1
+"Paulo Ferreira","Victor Moses",1
+"Paulo Ferreira","Eden Hazard",1
+"Paulo Ferreira","Gary Cahill",2

@@ -1,0 +1,282 @@
+"Gorka Iraizoz","Aymeric Laporte",35
+"Gorka Iraizoz","Beñat",8
+"Gorka Iraizoz","Ander Iturraspe",12
+"Gorka Iraizoz","Óscar de Marcos",12
+"Gorka Iraizoz","Markel Susaeta",4
+"Gorka Iraizoz","Mikel Rico",3
+"Gorka Iraizoz","Carlos Gurpegi",12
+"Gorka Iraizoz","Iker Muniain",3
+"Gorka Iraizoz","Aritz Aduriz",9
+"Gorka Iraizoz","Mikel Balenziaga",11
+"Gorka Iraizoz","Mikel San José",15
+"Gorka Iraizoz","Ibai Gómez",3
+"Gorka Iraizoz","Guillermo Fernández",4
+"Gorka Iraizoz","Andoni Iraola",1
+"Gorka Iraizoz","Gaizka Toquero",1
+"Gorka Iraizoz","Xabier Etxeita",7
+"Gorka Iraizoz","Borja Viguera",1
+"Aymeric Laporte","Gorka Iraizoz",30
+"Aymeric Laporte","Beñat",22
+"Aymeric Laporte","Ander Iturraspe",35
+"Aymeric Laporte","Óscar de Marcos",10
+"Aymeric Laporte","Markel Susaeta",7
+"Aymeric Laporte","Mikel Rico",21
+"Aymeric Laporte","Carlos Gurpegi",29
+"Aymeric Laporte","Iker Muniain",10
+"Aymeric Laporte","Aritz Aduriz",11
+"Aymeric Laporte","Mikel Balenziaga",35
+"Aymeric Laporte","Mikel San José",55
+"Aymeric Laporte","Ibai Gómez",10
+"Aymeric Laporte","Unai Lopez",2
+"Aymeric Laporte","Guillermo Fernández",1
+"Aymeric Laporte","Ager Aqueche",1
+"Aymeric Laporte","Andoni Iraola",8
+"Aymeric Laporte","Xabier Etxeita",7
+"Aymeric Laporte","Borja Viguera",2
+"Beñat","Gorka Iraizoz",2
+"Beñat","Aymeric Laporte",9
+"Beñat","Ander Iturraspe",18
+"Beñat","Óscar de Marcos",12
+"Beñat","Markel Susaeta",14
+"Beñat","Mikel Rico",20
+"Beñat","Carlos Gurpegi",5
+"Beñat","Iker Muniain",27
+"Beñat","Aritz Aduriz",10
+"Beñat","Mikel Balenziaga",19
+"Beñat","Mikel San José",11
+"Beñat","Ibai Gómez",12
+"Beñat","Guillermo Fernández",4
+"Beñat","Andoni Iraola",3
+"Beñat","Borja Viguera",6
+"Ander Iturraspe","Gorka Iraizoz",13
+"Ander Iturraspe","Aymeric Laporte",26
+"Ander Iturraspe","Beñat",28
+"Ander Iturraspe","Óscar de Marcos",20
+"Ander Iturraspe","Markel Susaeta",18
+"Ander Iturraspe","Mikel Rico",31
+"Ander Iturraspe","Carlos Gurpegi",14
+"Ander Iturraspe","Iker Muniain",28
+"Ander Iturraspe","Aritz Aduriz",10
+"Ander Iturraspe","Mikel Balenziaga",26
+"Ander Iturraspe","Mikel San José",24
+"Ander Iturraspe","Ibai Gómez",12
+"Ander Iturraspe","Unai Lopez",3
+"Ander Iturraspe","Guillermo Fernández",12
+"Ander Iturraspe","Ager Aqueche",1
+"Ander Iturraspe","Andoni Iraola",12
+"Ander Iturraspe","Xabier Etxeita",5
+"Ander Iturraspe","Borja Viguera",3
+"Óscar de Marcos","Gorka Iraizoz",7
+"Óscar de Marcos","Aymeric Laporte",5
+"Óscar de Marcos","Beñat",12
+"Óscar de Marcos","Ander Iturraspe",16
+"Óscar de Marcos","Markel Susaeta",47
+"Óscar de Marcos","Mikel Rico",14
+"Óscar de Marcos","Carlos Gurpegi",21
+"Óscar de Marcos","Iker Muniain",14
+"Óscar de Marcos","Aritz Aduriz",13
+"Óscar de Marcos","Mikel Balenziaga",4
+"Óscar de Marcos","Mikel San José",4
+"Óscar de Marcos","Ibai Gómez",4
+"Óscar de Marcos","Unai Lopez",1
+"Óscar de Marcos","Guillermo Fernández",7
+"Óscar de Marcos","Andoni Iraola",3
+"Óscar de Marcos","Xabier Etxeita",5
+"Óscar de Marcos","Borja Viguera",3
+"Markel Susaeta","Gorka Iraizoz",1
+"Markel Susaeta","Aymeric Laporte",4
+"Markel Susaeta","Beñat",13
+"Markel Susaeta","Ander Iturraspe",10
+"Markel Susaeta","Óscar de Marcos",31
+"Markel Susaeta","Mikel Rico",20
+"Markel Susaeta","Carlos Gurpegi",1
+"Markel Susaeta","Iker Muniain",12
+"Markel Susaeta","Aritz Aduriz",5
+"Markel Susaeta","Mikel Balenziaga",6
+"Markel Susaeta","Mikel San José",4
+"Markel Susaeta","Ibai Gómez",6
+"Markel Susaeta","Unai Lopez",4
+"Markel Susaeta","Guillermo Fernández",5
+"Markel Susaeta","Ager Aqueche",1
+"Markel Susaeta","Andoni Iraola",14
+"Markel Susaeta","Xabier Etxeita",1
+"Markel Susaeta","Borja Viguera",3
+"Mikel Rico","Gorka Iraizoz",5
+"Mikel Rico","Aymeric Laporte",15
+"Mikel Rico","Beñat",17
+"Mikel Rico","Ander Iturraspe",21
+"Mikel Rico","Óscar de Marcos",34
+"Mikel Rico","Markel Susaeta",24
+"Mikel Rico","Carlos Gurpegi",9
+"Mikel Rico","Iker Muniain",18
+"Mikel Rico","Aritz Aduriz",9
+"Mikel Rico","Mikel Balenziaga",18
+"Mikel Rico","Mikel San José",12
+"Mikel Rico","Ibai Gómez",14
+"Mikel Rico","Unai Lopez",3
+"Mikel Rico","Guillermo Fernández",6
+"Mikel Rico","Ager Aqueche",1
+"Mikel Rico","Andoni Iraola",5
+"Mikel Rico","Xabier Etxeita",3
+"Mikel Rico","Borja Viguera",6
+"Carlos Gurpegi","Gorka Iraizoz",23
+"Carlos Gurpegi","Aymeric Laporte",36
+"Carlos Gurpegi","Beñat",1
+"Carlos Gurpegi","Ander Iturraspe",25
+"Carlos Gurpegi","Óscar de Marcos",37
+"Carlos Gurpegi","Markel Susaeta",3
+"Carlos Gurpegi","Mikel Rico",7
+"Carlos Gurpegi","Iker Muniain",3
+"Carlos Gurpegi","Aritz Aduriz",3
+"Carlos Gurpegi","Mikel Balenziaga",2
+"Carlos Gurpegi","Mikel San José",6
+"Carlos Gurpegi","Ibai Gómez",2
+"Carlos Gurpegi","Andoni Iraola",1
+"Iker Muniain","Gorka Iraizoz",1
+"Iker Muniain","Aymeric Laporte",13
+"Iker Muniain","Beñat",24
+"Iker Muniain","Ander Iturraspe",25
+"Iker Muniain","Óscar de Marcos",17
+"Iker Muniain","Markel Susaeta",5
+"Iker Muniain","Mikel Rico",20
+"Iker Muniain","Carlos Gurpegi",2
+"Iker Muniain","Aritz Aduriz",7
+"Iker Muniain","Mikel Balenziaga",22
+"Iker Muniain","Mikel San José",7
+"Iker Muniain","Ibai Gómez",4
+"Iker Muniain","Unai Lopez",1
+"Iker Muniain","Guillermo Fernández",1
+"Iker Muniain","Andoni Iraola",6
+"Iker Muniain","Gaizka Toquero",1
+"Iker Muniain","Xabier Etxeita",1
+"Iker Muniain","Borja Viguera",5
+"Aritz Aduriz","Aymeric Laporte",1
+"Aritz Aduriz","Beñat",13
+"Aritz Aduriz","Ander Iturraspe",2
+"Aritz Aduriz","Óscar de Marcos",3
+"Aritz Aduriz","Markel Susaeta",10
+"Aritz Aduriz","Mikel Rico",9
+"Aritz Aduriz","Carlos Gurpegi",1
+"Aritz Aduriz","Iker Muniain",9
+"Aritz Aduriz","Mikel Balenziaga",2
+"Aritz Aduriz","Erik Morán",1
+"Aritz Aduriz","Mikel San José",1
+"Aritz Aduriz","Ibai Gómez",4
+"Aritz Aduriz","Gaizka Toquero",1
+"Aritz Aduriz","Borja Viguera",3
+"Mikel Balenziaga","Gorka Iraizoz",8
+"Mikel Balenziaga","Aymeric Laporte",41
+"Mikel Balenziaga","Beñat",10
+"Mikel Balenziaga","Ander Iturraspe",16
+"Mikel Balenziaga","Óscar de Marcos",4
+"Mikel Balenziaga","Markel Susaeta",8
+"Mikel Balenziaga","Mikel Rico",12
+"Mikel Balenziaga","Carlos Gurpegi",1
+"Mikel Balenziaga","Iker Muniain",37
+"Mikel Balenziaga","Aritz Aduriz",5
+"Mikel Balenziaga","Mikel San José",10
+"Mikel Balenziaga","Ibai Gómez",29
+"Mikel Balenziaga","Unai Lopez",2
+"Mikel Balenziaga","Guillermo Fernández",7
+"Mikel Balenziaga","Ager Aqueche",1
+"Mikel Balenziaga","Andoni Iraola",2
+"Mikel Balenziaga","Borja Viguera",3
+"Erik Morán","Aritz Aduriz",1
+"Mikel San José","Gorka Iraizoz",19
+"Mikel San José","Aymeric Laporte",43
+"Mikel San José","Beñat",8
+"Mikel San José","Ander Iturraspe",30
+"Mikel San José","Óscar de Marcos",12
+"Mikel San José","Markel Susaeta",10
+"Mikel San José","Mikel Rico",13
+"Mikel San José","Carlos Gurpegi",8
+"Mikel San José","Iker Muniain",9
+"Mikel San José","Aritz Aduriz",3
+"Mikel San José","Mikel Balenziaga",10
+"Mikel San José","Ibai Gómez",3
+"Mikel San José","Unai Lopez",2
+"Mikel San José","Andoni Iraola",28
+"Mikel San José","Xabier Etxeita",4
+"Mikel San José","Guillermo Fernández",3
+"Mikel San José","Borja Viguera",3
+"Ibai Gómez","Aymeric Laporte",6
+"Ibai Gómez","Beñat",7
+"Ibai Gómez","Ander Iturraspe",6
+"Ibai Gómez","Óscar de Marcos",3
+"Ibai Gómez","Markel Susaeta",3
+"Ibai Gómez","Mikel Rico",5
+"Ibai Gómez","Carlos Gurpegi",1
+"Ibai Gómez","Iker Muniain",6
+"Ibai Gómez","Aritz Aduriz",5
+"Ibai Gómez","Mikel Balenziaga",17
+"Ibai Gómez","Unai Lopez",1
+"Ibai Gómez","Guillermo Fernández",4
+"Ibai Gómez","Ager Aqueche",2
+"Ibai Gómez","Andoni Iraola",3
+"Unai Lopez","Ander Iturraspe",1
+"Unai Lopez","Óscar de Marcos",3
+"Unai Lopez","Markel Susaeta",1
+"Unai Lopez","Mikel Rico",3
+"Unai Lopez","Iker Muniain",3
+"Unai Lopez","Aritz Aduriz",1
+"Unai Lopez","Mikel San José",2
+"Unai Lopez","Ibai Gómez",2
+"Unai Lopez","Borja Viguera",1
+"Guillermo Fernández","Gorka Iraizoz",1
+"Guillermo Fernández","Aymeric Laporte",4
+"Guillermo Fernández","Beñat",2
+"Guillermo Fernández","Ander Iturraspe",6
+"Guillermo Fernández","Óscar de Marcos",6
+"Guillermo Fernández","Ibai Gómez",6
+"Guillermo Fernández","Mikel Rico",8
+"Guillermo Fernández","Iker Muniain",2
+"Guillermo Fernández","Aritz Aduriz",1
+"Guillermo Fernández","Mikel Balenziaga",3
+"Guillermo Fernández","Markel Susaeta",6
+"Guillermo Fernández","Ager Aqueche",1
+"Guillermo Fernández","Mikel San José",3
+"Guillermo Fernández","Andoni Iraola",2
+"Ager Aqueche","Ander Iturraspe",2
+"Ager Aqueche","Ibai Gómez",3
+"Ager Aqueche","Carlos Gurpegi",1
+"Ager Aqueche","Guillermo Fernández",2
+"Andoni Iraola","Gorka Iraizoz",6
+"Andoni Iraola","Aymeric Laporte",11
+"Andoni Iraola","Mikel San José",19
+"Andoni Iraola","Beñat",3
+"Andoni Iraola","Ander Iturraspe",6
+"Andoni Iraola","Ibai Gómez",3
+"Andoni Iraola","Mikel Rico",5
+"Andoni Iraola","Iker Muniain",9
+"Andoni Iraola","Aritz Aduriz",1
+"Andoni Iraola","Mikel Balenziaga",3
+"Andoni Iraola","Óscar de Marcos",3
+"Andoni Iraola","Markel Susaeta",11
+"Andoni Iraola","Guillermo Fernández",2
+"Gaizka Toquero","Iker Muniain",1
+"Gaizka Toquero","Aritz Aduriz",1
+"Gaizka Toquero","Mikel Balenziaga",1
+"Xabier Etxeita","Gorka Iraizoz",6
+"Xabier Etxeita","Aymeric Laporte",7
+"Xabier Etxeita","Mikel San José",3
+"Xabier Etxeita","Ander Iturraspe",7
+"Xabier Etxeita","Óscar de Marcos",4
+"Xabier Etxeita","Markel Susaeta",6
+"Xabier Etxeita","Mikel Rico",4
+"Xabier Etxeita","Aritz Aduriz",4
+"Xabier Etxeita","Guillermo Fernández",1
+"Xabier Etxeita","Mikel Balenziaga",2
+"Xabier Etxeita","Beñat",1
+"Xabier Etxeita","Iker Muniain",1
+"Xabier Etxeita","Borja Viguera",1
+"Borja Viguera","Mikel San José",1
+"Borja Viguera","Beñat",5
+"Borja Viguera","Óscar de Marcos",1
+"Borja Viguera","Markel Susaeta",6
+"Borja Viguera","Mikel Rico",5
+"Borja Viguera","Carlos Gurpegi",1
+"Borja Viguera","Guillermo Fernández",1
+"Borja Viguera","Mikel Balenziaga",3
+"Borja Viguera","Andoni Iraola",1
+"Borja Viguera","Iker Muniain",2
+"Borja Viguera","Unai Lopez",1

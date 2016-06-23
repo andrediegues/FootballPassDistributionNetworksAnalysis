@@ -1,0 +1,349 @@
+"Gianluigi Buffon","Giorgio Chiellini",39
+"Gianluigi Buffon","Claudio Marchisio",6
+"Gianluigi Buffon","Mirko Vučinić",4
+"Gianluigi Buffon","Sebastian Giovinco",1
+"Gianluigi Buffon","Andrea Barzagli",54
+"Gianluigi Buffon","Leonardo Bonucci",52
+"Gianluigi Buffon","Andrea Pirlo",9
+"Gianluigi Buffon","Kwadwo Asamoah",6
+"Gianluigi Buffon","Arturo Vidal",11
+"Gianluigi Buffon","Stephan Lichtsteiner",8
+"Gianluigi Buffon","Fabio Quagliarella",1
+"Gianluigi Buffon","Alessandro Matri",3
+"Gianluigi Buffon","Mauricio Isla",4
+"Gianluigi Buffon","Paul Pogba",4
+"Gianluigi Buffon","Lúcio",4
+"Gianluigi Buffon","Emanuele Giaccherini",2
+"Gianluigi Buffon","Martín Cáceres",6
+"Gianluigi Buffon","Federico Peluso",6
+"Gianluigi Buffon","Simone Padoin",3
+"Gianluigi Buffon","Luca Marrone",6
+"Giorgio Chiellini","Gianluigi Buffon",16
+"Giorgio Chiellini","Claudio Marchisio",40
+"Giorgio Chiellini","Mirko Vučinić",19
+"Giorgio Chiellini","Sebastian Giovinco",9
+"Giorgio Chiellini","Andrea Barzagli",27
+"Giorgio Chiellini","Leonardo Bonucci",86
+"Giorgio Chiellini","Andrea Pirlo",64
+"Giorgio Chiellini","Kwadwo Asamoah",53
+"Giorgio Chiellini","Arturo Vidal",26
+"Giorgio Chiellini","Stephan Lichtsteiner",7
+"Giorgio Chiellini","Fabio Quagliarella",3
+"Giorgio Chiellini","Alessandro Matri",5
+"Giorgio Chiellini","Mauricio Isla",3
+"Giorgio Chiellini","Paul Pogba",12
+"Giorgio Chiellini","Lúcio",2
+"Giorgio Chiellini","Paolo De Ceglie",8
+"Giorgio Chiellini","Emanuele Giaccherini",2
+"Giorgio Chiellini","Federico Peluso",6
+"Claudio Marchisio","Giorgio Chiellini",35
+"Claudio Marchisio","Mirko Vučinić",24
+"Claudio Marchisio","Sebastian Giovinco",15
+"Claudio Marchisio","Andrea Barzagli",10
+"Claudio Marchisio","Leonardo Bonucci",16
+"Claudio Marchisio","Andrea Pirlo",39
+"Claudio Marchisio","Kwadwo Asamoah",18
+"Claudio Marchisio","Arturo Vidal",14
+"Claudio Marchisio","Stephan Lichtsteiner",2
+"Claudio Marchisio","Fabio Quagliarella",5
+"Claudio Marchisio","Alessandro Matri",9
+"Claudio Marchisio","Mauricio Isla",3
+"Claudio Marchisio","Paul Pogba",4
+"Claudio Marchisio","Lúcio",3
+"Claudio Marchisio","Paolo De Ceglie",1
+"Claudio Marchisio","Martín Cáceres",6
+"Claudio Marchisio","Federico Peluso",7
+"Claudio Marchisio","Nicolas Anelka",1
+"Mirko Vučinić","Giorgio Chiellini",7
+"Mirko Vučinić","Claudio Marchisio",10
+"Mirko Vučinić","Sebastian Giovinco",11
+"Mirko Vučinić","Andrea Barzagli",4
+"Mirko Vučinić","Leonardo Bonucci",2
+"Mirko Vučinić","Andrea Pirlo",16
+"Mirko Vučinić","Kwadwo Asamoah",12
+"Mirko Vučinić","Arturo Vidal",18
+"Mirko Vučinić","Stephan Lichtsteiner",13
+"Mirko Vučinić","Fabio Quagliarella",10
+"Mirko Vučinić","Alessandro Matri",9
+"Mirko Vučinić","Mauricio Isla",2
+"Mirko Vučinić","Paul Pogba",9
+"Mirko Vučinić","Emanuele Giaccherini",1
+"Mirko Vučinić","Martín Cáceres",4
+"Mirko Vučinić","Simone Padoin",3
+"Sebastian Giovinco","Claudio Marchisio",10
+"Sebastian Giovinco","Mirko Vučinić",8
+"Sebastian Giovinco","Andrea Barzagli",2
+"Sebastian Giovinco","Leonardo Bonucci",4
+"Sebastian Giovinco","Andrea Pirlo",11
+"Sebastian Giovinco","Kwadwo Asamoah",11
+"Sebastian Giovinco","Arturo Vidal",15
+"Sebastian Giovinco","Stephan Lichtsteiner",4
+"Sebastian Giovinco","Fabio Quagliarella",2
+"Sebastian Giovinco","Alessandro Matri",5
+"Sebastian Giovinco","Mauricio Isla",4
+"Sebastian Giovinco","Paul Pogba",2
+"Sebastian Giovinco","Lúcio",1
+"Andrea Barzagli","Gianluigi Buffon",15
+"Andrea Barzagli","Giorgio Chiellini",31
+"Andrea Barzagli","Claudio Marchisio",11
+"Andrea Barzagli","Mirko Vučinić",13
+"Andrea Barzagli","Sebastian Giovinco",2
+"Andrea Barzagli","Leonardo Bonucci",90
+"Andrea Barzagli","Andrea Pirlo",53
+"Andrea Barzagli","Kwadwo Asamoah",17
+"Andrea Barzagli","Arturo Vidal",45
+"Andrea Barzagli","Stephan Lichtsteiner",55
+"Andrea Barzagli","Fabio Quagliarella",5
+"Andrea Barzagli","Alessandro Matri",5
+"Andrea Barzagli","Mauricio Isla",15
+"Andrea Barzagli","Paul Pogba",14
+"Andrea Barzagli","Martín Cáceres",7
+"Andrea Barzagli","Emanuele Giaccherini",1
+"Andrea Barzagli","Federico Peluso",5
+"Andrea Barzagli","Simone Padoin",5
+"Andrea Barzagli","Luca Marrone",11
+"Leonardo Bonucci","Gianluigi Buffon",27
+"Leonardo Bonucci","Giorgio Chiellini",75
+"Leonardo Bonucci","Claudio Marchisio",30
+"Leonardo Bonucci","Mirko Vučinić",15
+"Leonardo Bonucci","Sebastian Giovinco",9
+"Leonardo Bonucci","Andrea Barzagli",71
+"Leonardo Bonucci","Andrea Pirlo",59
+"Leonardo Bonucci","Kwadwo Asamoah",19
+"Leonardo Bonucci","Arturo Vidal",45
+"Leonardo Bonucci","Stephan Lichtsteiner",9
+"Leonardo Bonucci","Fabio Quagliarella",4
+"Leonardo Bonucci","Alessandro Matri",11
+"Leonardo Bonucci","Mauricio Isla",11
+"Leonardo Bonucci","Paul Pogba",10
+"Leonardo Bonucci","Lúcio",7
+"Leonardo Bonucci","Paolo De Ceglie",2
+"Leonardo Bonucci","Emanuele Giaccherini",1
+"Leonardo Bonucci","Martín Cáceres",4
+"Leonardo Bonucci","Federico Peluso",4
+"Leonardo Bonucci","Simone Padoin",9
+"Leonardo Bonucci","Luca Marrone",9
+"Andrea Pirlo","Gianluigi Buffon",5
+"Andrea Pirlo","Giorgio Chiellini",50
+"Andrea Pirlo","Claudio Marchisio",44
+"Andrea Pirlo","Mirko Vučinić",26
+"Andrea Pirlo","Sebastian Giovinco",11
+"Andrea Pirlo","Andrea Barzagli",52
+"Andrea Pirlo","Leonardo Bonucci",59
+"Andrea Pirlo","Kwadwo Asamoah",29
+"Andrea Pirlo","Arturo Vidal",55
+"Andrea Pirlo","Stephan Lichtsteiner",11
+"Andrea Pirlo","Fabio Quagliarella",12
+"Andrea Pirlo","Alessandro Matri",21
+"Andrea Pirlo","Mauricio Isla",17
+"Andrea Pirlo","Paul Pogba",16
+"Andrea Pirlo","Lúcio",4
+"Andrea Pirlo","Paolo De Ceglie",10
+"Andrea Pirlo","Emanuele Giaccherini",3
+"Andrea Pirlo","Martín Cáceres",6
+"Andrea Pirlo","Federico Peluso",13
+"Andrea Pirlo","Simone Padoin",11
+"Andrea Pirlo","Luca Marrone",3
+"Kwadwo Asamoah","Gianluigi Buffon",2
+"Kwadwo Asamoah","Giorgio Chiellini",43
+"Kwadwo Asamoah","Claudio Marchisio",34
+"Kwadwo Asamoah","Mirko Vučinić",17
+"Kwadwo Asamoah","Sebastian Giovinco",12
+"Kwadwo Asamoah","Andrea Barzagli",10
+"Kwadwo Asamoah","Leonardo Bonucci",12
+"Kwadwo Asamoah","Andrea Pirlo",19
+"Kwadwo Asamoah","Arturo Vidal",12
+"Kwadwo Asamoah","Stephan Lichtsteiner",3
+"Kwadwo Asamoah","Fabio Quagliarella",7
+"Kwadwo Asamoah","Alessandro Matri",4
+"Kwadwo Asamoah","Mauricio Isla",1
+"Kwadwo Asamoah","Paul Pogba",15
+"Kwadwo Asamoah","Emanuele Giaccherini",3
+"Kwadwo Asamoah","Simone Padoin",1
+"Kwadwo Asamoah","Luca Marrone",2
+"Arturo Vidal","Gianluigi Buffon",1
+"Arturo Vidal","Giorgio Chiellini",19
+"Arturo Vidal","Claudio Marchisio",18
+"Arturo Vidal","Mirko Vučinić",27
+"Arturo Vidal","Sebastian Giovinco",12
+"Arturo Vidal","Andrea Barzagli",43
+"Arturo Vidal","Leonardo Bonucci",29
+"Arturo Vidal","Andrea Pirlo",71
+"Arturo Vidal","Kwadwo Asamoah",7
+"Arturo Vidal","Stephan Lichtsteiner",32
+"Arturo Vidal","Fabio Quagliarella",13
+"Arturo Vidal","Alessandro Matri",12
+"Arturo Vidal","Mauricio Isla",10
+"Arturo Vidal","Paul Pogba",7
+"Arturo Vidal","Lúcio",1
+"Arturo Vidal","Paolo De Ceglie",1
+"Arturo Vidal","Martín Cáceres",8
+"Arturo Vidal","Federico Peluso",2
+"Arturo Vidal","Nicolas Anelka",1
+"Arturo Vidal","Simone Padoin",4
+"Stephan Lichtsteiner","Gianluigi Buffon",3
+"Stephan Lichtsteiner","Giorgio Chiellini",1
+"Stephan Lichtsteiner","Claudio Marchisio",4
+"Stephan Lichtsteiner","Mirko Vučinić",16
+"Stephan Lichtsteiner","Sebastian Giovinco",9
+"Stephan Lichtsteiner","Andrea Barzagli",35
+"Stephan Lichtsteiner","Leonardo Bonucci",4
+"Stephan Lichtsteiner","Andrea Pirlo",10
+"Stephan Lichtsteiner","Kwadwo Asamoah",5
+"Stephan Lichtsteiner","Arturo Vidal",40
+"Stephan Lichtsteiner","Fabio Quagliarella",7
+"Stephan Lichtsteiner","Alessandro Matri",5
+"Stephan Lichtsteiner","Paul Pogba",2
+"Stephan Lichtsteiner","Martín Cáceres",1
+"Stephan Lichtsteiner","Federico Peluso",1
+"Stephan Lichtsteiner","Nicolas Anelka",3
+"Fabio Quagliarella","Claudio Marchisio",4
+"Fabio Quagliarella","Mirko Vučinić",6
+"Fabio Quagliarella","Sebastian Giovinco",3
+"Fabio Quagliarella","Andrea Barzagli",2
+"Fabio Quagliarella","Leonardo Bonucci",1
+"Fabio Quagliarella","Andrea Pirlo",11
+"Fabio Quagliarella","Kwadwo Asamoah",6
+"Fabio Quagliarella","Arturo Vidal",12
+"Fabio Quagliarella","Stephan Lichtsteiner",6
+"Fabio Quagliarella","Alessandro Matri",6
+"Fabio Quagliarella","Paul Pogba",5
+"Fabio Quagliarella","Simone Padoin",1
+"Alessandro Matri","Giorgio Chiellini",3
+"Alessandro Matri","Claudio Marchisio",6
+"Alessandro Matri","Mirko Vučinić",4
+"Alessandro Matri","Sebastian Giovinco",4
+"Alessandro Matri","Andrea Barzagli",3
+"Alessandro Matri","Leonardo Bonucci",1
+"Alessandro Matri","Andrea Pirlo",14
+"Alessandro Matri","Kwadwo Asamoah",3
+"Alessandro Matri","Arturo Vidal",6
+"Alessandro Matri","Stephan Lichtsteiner",6
+"Alessandro Matri","Fabio Quagliarella",10
+"Alessandro Matri","Mauricio Isla",2
+"Alessandro Matri","Paolo De Ceglie",1
+"Alessandro Matri","Emanuele Giaccherini",2
+"Alessandro Matri","Martín Cáceres",1
+"Alessandro Matri","Federico Peluso",5
+"Alessandro Matri","Simone Padoin",3
+"Alessandro Matri","Luca Marrone",2
+"Mauricio Isla","Giorgio Chiellini",4
+"Mauricio Isla","Claudio Marchisio",8
+"Mauricio Isla","Mirko Vučinić",4
+"Mauricio Isla","Sebastian Giovinco",6
+"Mauricio Isla","Andrea Barzagli",9
+"Mauricio Isla","Leonardo Bonucci",5
+"Mauricio Isla","Andrea Pirlo",7
+"Mauricio Isla","Arturo Vidal",20
+"Mauricio Isla","Fabio Quagliarella",1
+"Mauricio Isla","Alessandro Matri",5
+"Mauricio Isla","Lúcio",10
+"Mauricio Isla","Paolo De Ceglie",2
+"Mauricio Isla","Nicklas Bendtner",1
+"Mauricio Isla","Emanuele Giaccherini",1
+"Mauricio Isla","Paul Pogba",11
+"Mauricio Isla","Simone Padoin",1
+"Paul Pogba","Gianluigi Buffon",1
+"Paul Pogba","Giorgio Chiellini",5
+"Paul Pogba","Claudio Marchisio",5
+"Paul Pogba","Mirko Vučinić",6
+"Paul Pogba","Andrea Barzagli",9
+"Paul Pogba","Leonardo Bonucci",9
+"Paul Pogba","Andrea Pirlo",13
+"Paul Pogba","Kwadwo Asamoah",13
+"Paul Pogba","Arturo Vidal",5
+"Paul Pogba","Stephan Lichtsteiner",2
+"Paul Pogba","Alessandro Matri",5
+"Paul Pogba","Sebastian Giovinco",2
+"Paul Pogba","Fabio Quagliarella",7
+"Paul Pogba","Mauricio Isla",7
+"Paul Pogba","Lúcio",1
+"Paul Pogba","Martín Cáceres",3
+"Paul Pogba","Emanuele Giaccherini",3
+"Paul Pogba","Federico Peluso",4
+"Paul Pogba","Nicolas Anelka",1
+"Paul Pogba","Simone Padoin",14
+"Paul Pogba","Luca Marrone",1
+"Lúcio","Gianluigi Buffon",3
+"Lúcio","Giorgio Chiellini",3
+"Lúcio","Claudio Marchisio",1
+"Lúcio","Paolo De Ceglie",2
+"Lúcio","Sebastian Giovinco",2
+"Lúcio","Leonardo Bonucci",14
+"Lúcio","Andrea Pirlo",5
+"Lúcio","Arturo Vidal",5
+"Lúcio","Mauricio Isla",12
+"Lúcio","Andrea Barzagli",1
+"Lúcio","Paul Pogba",4
+"Paolo De Ceglie","Lúcio",1
+"Paolo De Ceglie","Giorgio Chiellini",3
+"Paolo De Ceglie","Claudio Marchisio",2
+"Paolo De Ceglie","Sebastian Giovinco",6
+"Paolo De Ceglie","Leonardo Bonucci",1
+"Paolo De Ceglie","Andrea Pirlo",1
+"Paolo De Ceglie","Alessandro Matri",1
+"Paolo De Ceglie","Nicklas Bendtner",1
+"Nicklas Bendtner","Paolo De Ceglie",1
+"Nicklas Bendtner","Mauricio Isla",2
+"Emanuele Giaccherini","Giorgio Chiellini",1
+"Emanuele Giaccherini","Leonardo Bonucci",2
+"Emanuele Giaccherini","Andrea Pirlo",1
+"Emanuele Giaccherini","Mirko Vučinić",2
+"Emanuele Giaccherini","Nicklas Bendtner",1
+"Emanuele Giaccherini","Paul Pogba",2
+"Emanuele Giaccherini","Andrea Barzagli",1
+"Emanuele Giaccherini","Kwadwo Asamoah",1
+"Emanuele Giaccherini","Fabio Quagliarella",3
+"Emanuele Giaccherini","Luca Marrone",1
+"Martín Cáceres","Claudio Marchisio",3
+"Martín Cáceres","Mirko Vučinić",5
+"Martín Cáceres","Andrea Barzagli",9
+"Martín Cáceres","Leonardo Bonucci",8
+"Martín Cáceres","Andrea Pirlo",3
+"Martín Cáceres","Kwadwo Asamoah",1
+"Martín Cáceres","Arturo Vidal",9
+"Martín Cáceres","Federico Peluso",5
+"Martín Cáceres","Alessandro Matri",2
+"Martín Cáceres","Nicolas Anelka",1
+"Martín Cáceres","Simone Padoin",5
+"Federico Peluso","Martín Cáceres",4
+"Federico Peluso","Claudio Marchisio",10
+"Federico Peluso","Mirko Vučinić",4
+"Federico Peluso","Andrea Barzagli",6
+"Federico Peluso","Leonardo Bonucci",2
+"Federico Peluso","Andrea Pirlo",12
+"Federico Peluso","Alessandro Matri",7
+"Federico Peluso","Paul Pogba",3
+"Federico Peluso","Fabio Quagliarella",5
+"Federico Peluso","Luca Marrone",1
+"Federico Peluso","Giorgio Chiellini",3
+"Nicolas Anelka","Leonardo Bonucci",1
+"Nicolas Anelka","Andrea Pirlo",2
+"Nicolas Anelka","Arturo Vidal",1
+"Nicolas Anelka","Paul Pogba",1
+"Simone Padoin","Gianluigi Buffon",2
+"Simone Padoin","Martín Cáceres",1
+"Simone Padoin","Mirko Vučinić",4
+"Simone Padoin","Andrea Barzagli",3
+"Simone Padoin","Leonardo Bonucci",11
+"Simone Padoin","Andrea Pirlo",7
+"Simone Padoin","Arturo Vidal",6
+"Simone Padoin","Alessandro Matri",4
+"Simone Padoin","Paul Pogba",11
+"Simone Padoin","Fabio Quagliarella",3
+"Simone Padoin","Luca Marrone",2
+"Simone Padoin","Kwadwo Asamoah",1
+"Simone Padoin","Emanuele Giaccherini",1
+"Simone Padoin","Mauricio Isla",1
+"Luca Marrone","Gianluigi Buffon",6
+"Luca Marrone","Paul Pogba",4
+"Luca Marrone","Federico Peluso",1
+"Luca Marrone","Andrea Barzagli",3
+"Luca Marrone","Leonardo Bonucci",6
+"Luca Marrone","Simone Padoin",4
+"Luca Marrone","Andrea Pirlo",7
+"Luca Marrone","Arturo Vidal",2
+"Luca Marrone","Fabio Quagliarella",5
+"Luca Marrone","Alessandro Matri",3
+"Luca Marrone","Kwadwo Asamoah",5
+"Luca Marrone","Mauricio Isla",1

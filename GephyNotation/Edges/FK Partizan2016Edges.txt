@@ -1,0 +1,128 @@
+"Živko Živković","Miroslav Vulićević",1
+"Živko Živković","Nemanja Petrović",4
+"Živko Živković","Gregor Balažic",2
+"Živko Živković","Abubakar Oumaru",3
+"Živko Živković","Fabrício",8
+"Živko Živković","Ivan Šaponjić",1
+"Miroslav Vulićević","Živko Živković",2
+"Miroslav Vulićević","Gregor Balažic",7
+"Miroslav Vulićević","Darko Brašanac",5
+"Miroslav Vulićević","Stefan Babović",7
+"Miroslav Vulićević","Abubakar Oumaru",3
+"Miroslav Vulićević","Andrija Živković",12
+"Miroslav Vulićević","Marko Jevtović",1
+"Miroslav Vulićević","Fabrício",4
+"Miroslav Vulićević","Valeri Bozhinov",2
+"Miroslav Vulićević","Saša Ilić",1
+"Miroslav Vulićević","Nikola Trujić",1
+"Miroslav Vulićević","Saša Lukić",1
+"Nemanja Petrović","Miroslav Vulićević",2
+"Nemanja Petrović","Gregor Balažic",1
+"Nemanja Petrović","Darko Brašanac",7
+"Nemanja Petrović","Stefan Babović",4
+"Nemanja Petrović","Abubakar Oumaru",10
+"Nemanja Petrović","Andrija Živković",3
+"Nemanja Petrović","Marko Jevtović",1
+"Nemanja Petrović","Fabrício",7
+"Nemanja Petrović","Valeri Bozhinov",1
+"Nemanja Petrović","Saša Ilić",3
+"Nemanja Petrović","Saša Lukić",6
+"Gregor Balažic","Živko Živković",3
+"Gregor Balažic","Miroslav Vulićević",17
+"Gregor Balažic","Nemanja Petrović",4
+"Gregor Balažic","Darko Brašanac",7
+"Gregor Balažic","Stefan Babović",13
+"Gregor Balažic","Andrija Živković",9
+"Gregor Balažic","Marko Jevtović",1
+"Gregor Balažic","Fabrício",15
+"Gregor Balažic","Valeri Bozhinov",2
+"Gregor Balažic","Saša Lukić",3
+"Darko Brašanac","Živko Živković",1
+"Darko Brašanac","Miroslav Vulićević",9
+"Darko Brašanac","Nemanja Petrović",8
+"Darko Brašanac","Gregor Balažic",6
+"Darko Brašanac","Stefan Babović",16
+"Darko Brašanac","Abubakar Oumaru",6
+"Darko Brašanac","Andrija Živković",5
+"Darko Brašanac","Marko Jevtović",2
+"Darko Brašanac","Fabrício",8
+"Darko Brašanac","Valeri Bozhinov",1
+"Darko Brašanac","Saša Ilić",7
+"Darko Brašanac","Nikola Trujić",2
+"Darko Brašanac","Saša Lukić",2
+"Darko Brašanac","Ivan Šaponjić",3
+"Stefan Babović","Živko Živković",1
+"Stefan Babović","Miroslav Vulićević",5
+"Stefan Babović","Nemanja Petrović",8
+"Stefan Babović","Gregor Balažic",7
+"Stefan Babović","Darko Brašanac",12
+"Stefan Babović","Abubakar Oumaru",4
+"Stefan Babović","Andrija Živković",9
+"Stefan Babović","Marko Jevtović",1
+"Stefan Babović","Fabrício",7
+"Stefan Babović","Valeri Bozhinov",3
+"Stefan Babović","Saša Ilić",5
+"Stefan Babović","Saša Lukić",2
+"Stefan Babović","Ivan Šaponjić",6
+"Abubakar Oumaru","Miroslav Vulićević",1
+"Abubakar Oumaru","Nemanja Petrović",4
+"Abubakar Oumaru","Darko Brašanac",3
+"Abubakar Oumaru","Stefan Babović",7
+"Abubakar Oumaru","Andrija Živković",5
+"Abubakar Oumaru","Valeri Bozhinov",1
+"Abubakar Oumaru","Nikola Trujić",2
+"Abubakar Oumaru","Saša Lukić",2
+"Andrija Živković","Miroslav Vulićević",10
+"Andrija Živković","Nemanja Petrović",2
+"Andrija Živković","Gregor Balažic",5
+"Andrija Živković","Darko Brašanac",5
+"Andrija Živković","Stefan Babović",2
+"Andrija Živković","Abubakar Oumaru",7
+"Andrija Živković","Marko Jevtović",1
+"Andrija Živković","Fabrício",1
+"Andrija Živković","Saša Ilić",1
+"Andrija Živković","Saša Lukić",1
+"Andrija Živković","Ivan Šaponjić",1
+"Marko Jevtović","Miroslav Vulićević",4
+"Marko Jevtović","Nemanja Petrović",1
+"Marko Jevtović","Darko Brašanac",1
+"Marko Jevtović","Andrija Živković",1
+"Marko Jevtović","Valeri Bozhinov",2
+"Fabrício","Živko Živković",5
+"Fabrício","Miroslav Vulićević",1
+"Fabrício","Nemanja Petrović",16
+"Fabrício","Gregor Balažic",11
+"Fabrício","Darko Brašanac",5
+"Fabrício","Stefan Babović",8
+"Fabrício","Abubakar Oumaru",4
+"Fabrício","Andrija Živković",1
+"Fabrício","Nikola Trujić",1
+"Fabrício","Saša Lukić",8
+"Fabrício","Ivan Šaponjić",2
+"Valeri Bozhinov","Darko Brašanac",2
+"Valeri Bozhinov","Stefan Babović",3
+"Valeri Bozhinov","Abubakar Oumaru",4
+"Valeri Bozhinov","Saša Lukić",2
+"Saša Ilić","Miroslav Vulićević",2
+"Saša Ilić","Nemanja Petrović",2
+"Saša Ilić","Gregor Balažic",1
+"Saša Ilić","Stefan Babović",2
+"Saša Ilić","Abubakar Oumaru",2
+"Saša Ilić","Andrija Živković",3
+"Saša Ilić","Ivan Šaponjić",2
+"Nikola Trujić","Miroslav Vulićević",2
+"Nikola Trujić","Nemanja Petrović",1
+"Nikola Trujić","Stefan Babović",2
+"Saša Lukić","Nemanja Petrović",6
+"Saša Lukić","Gregor Balažic",5
+"Saša Lukić","Darko Brašanac",3
+"Saša Lukić","Stefan Babović",2
+"Saša Lukić","Abubakar Oumaru",2
+"Saša Lukić","Andrija Živković",3
+"Saša Lukić","Fabrício",3
+"Saša Lukić","Valeri Bozhinov",1
+"Ivan Šaponjić","Miroslav Vulićević",1
+"Ivan Šaponjić","Darko Brašanac",3
+"Ivan Šaponjić","Stefan Babović",1
+"Ivan Šaponjić","Abubakar Oumaru",1
+"Ivan Šaponjić","Saša Ilić",2

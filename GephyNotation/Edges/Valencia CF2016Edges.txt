@@ -1,0 +1,358 @@
+"Mathew Ryan","Rúben Vezo",5
+"Mathew Ryan","Shkodran Mustafi",5
+"Mathew Ryan","Sofiane Feghouli",6
+"Mathew Ryan","Antonio Barragán",2
+"Mathew Ryan","Álvaro Negredo",10
+"Mathew Ryan","Pablo Piatti",1
+"Rúben Vezo","Mathew Ryan",4
+"Rúben Vezo","Shkodran Mustafi",6
+"Rúben Vezo","Sofiane Feghouli",9
+"Rúben Vezo","Paco Alcácer",1
+"Rúben Vezo","Daniel Parejo",13
+"Rúben Vezo","José Gayà",12
+"Rúben Vezo","Enzo Pérez",11
+"Rúben Vezo","Rodrigo",4
+"Rúben Vezo","Antonio Barragán",2
+"Rúben Vezo","Rodrigo De Paul",1
+"Rúben Vezo","Álvaro Negredo",1
+"Rúben Vezo","Pablo Piatti",3
+"Rúben Vezo","Javi Fuego",1
+"Rúben Vezo","Jaume Doménech",3
+"Rúben Vezo","João Cancelo",7
+"Rúben Vezo","André Gomes",1
+"Rúben Vezo","Aymen Abdennour",9
+"Rúben Vezo","Rafael Mir",2
+"Rúben Vezo","Santi Mina",1
+"Shkodran Mustafi","Mathew Ryan",5
+"Shkodran Mustafi","Rúben Vezo",4
+"Shkodran Mustafi","Sofiane Feghouli",18
+"Shkodran Mustafi","Paco Alcácer",4
+"Shkodran Mustafi","Daniel Parejo",50
+"Shkodran Mustafi","José Gayà",6
+"Shkodran Mustafi","Enzo Pérez",18
+"Shkodran Mustafi","Rodrigo",5
+"Shkodran Mustafi","Antonio Barragán",12
+"Shkodran Mustafi","Rodrigo De Paul",3
+"Shkodran Mustafi","Álvaro Negredo",3
+"Shkodran Mustafi","Pablo Piatti",2
+"Shkodran Mustafi","Javi Fuego",25
+"Shkodran Mustafi","Jaume Doménech",9
+"Shkodran Mustafi","João Cancelo",30
+"Shkodran Mustafi","Aymen Abdennour",25
+"Shkodran Mustafi","André Gomes",3
+"Shkodran Mustafi","Santos",4
+"Shkodran Mustafi","Santi Mina",6
+"Shkodran Mustafi","Danilo",1
+"Sofiane Feghouli","Rúben Vezo",4
+"Sofiane Feghouli","Shkodran Mustafi",7
+"Sofiane Feghouli","Paco Alcácer",14
+"Sofiane Feghouli","Daniel Parejo",34
+"Sofiane Feghouli","José Gayà",2
+"Sofiane Feghouli","Enzo Pérez",18
+"Sofiane Feghouli","Rodrigo",5
+"Sofiane Feghouli","Antonio Barragán",16
+"Sofiane Feghouli","Rodrigo De Paul",2
+"Sofiane Feghouli","Álvaro Negredo",5
+"Sofiane Feghouli","Pablo Piatti",7
+"Sofiane Feghouli","Javi Fuego",9
+"Sofiane Feghouli","João Cancelo",45
+"Sofiane Feghouli","Aymen Abdennour",1
+"Sofiane Feghouli","André Gomes",12
+"Sofiane Feghouli","Lucas Orbán",2
+"Sofiane Feghouli","Santi Mina",3
+"Sofiane Feghouli","Danilo",2
+"Paco Alcácer","Rúben Vezo",1
+"Paco Alcácer","Sofiane Feghouli",10
+"Paco Alcácer","Daniel Parejo",14
+"Paco Alcácer","José Gayà",2
+"Paco Alcácer","Enzo Pérez",5
+"Paco Alcácer","Rodrigo",1
+"Paco Alcácer","Antonio Barragán",3
+"Paco Alcácer","Rodrigo De Paul",3
+"Paco Alcácer","Álvaro Negredo",2
+"Paco Alcácer","Pablo Piatti",1
+"Paco Alcácer","Javi Fuego",2
+"Paco Alcácer","Danilo Barbosa",1
+"Paco Alcácer","Jaume Doménech",1
+"Paco Alcácer","João Cancelo",1
+"Paco Alcácer","Aymen Abdennour",1
+"Paco Alcácer","André Gomes",13
+"Paco Alcácer","Santos",2
+"Paco Alcácer","Santi Mina",5
+"Paco Alcácer","Danilo",2
+"Paco Alcácer","Rafael Mir",1
+"Daniel Parejo","Rúben Vezo",5
+"Daniel Parejo","Shkodran Mustafi",20
+"Daniel Parejo","Sofiane Feghouli",50
+"Daniel Parejo","Paco Alcácer",25
+"Daniel Parejo","José Gayà",33
+"Daniel Parejo","Enzo Pérez",55
+"Daniel Parejo","Rodrigo",13
+"Daniel Parejo","Antonio Barragán",18
+"Daniel Parejo","Rodrigo De Paul",13
+"Daniel Parejo","Álvaro Negredo",21
+"Daniel Parejo","Pablo Piatti",15
+"Daniel Parejo","Javi Fuego",38
+"Daniel Parejo","Jaume Doménech",2
+"Daniel Parejo","João Cancelo",37
+"Daniel Parejo","Aymen Abdennour",6
+"Daniel Parejo","André Gomes",32
+"Daniel Parejo","Lucas Orbán",1
+"Daniel Parejo","Santos",4
+"Daniel Parejo","Santi Mina",20
+"Daniel Parejo","Danilo",6
+"Daniel Parejo","Rafael Mir",4
+"José Gayà","Mathew Ryan",2
+"José Gayà","Rúben Vezo",11
+"José Gayà","Shkodran Mustafi",5
+"José Gayà","Paco Alcácer",8
+"José Gayà","Daniel Parejo",22
+"José Gayà","Enzo Pérez",25
+"José Gayà","Rodrigo",7
+"José Gayà","Antonio Barragán",1
+"José Gayà","Rodrigo De Paul",11
+"José Gayà","Álvaro Negredo",3
+"José Gayà","Pablo Piatti",23
+"José Gayà","Javi Fuego",13
+"José Gayà","Jaume Doménech",4
+"José Gayà","João Cancelo",2
+"José Gayà","Aymen Abdennour",24
+"José Gayà","André Gomes",26
+"José Gayà","Santos",12
+"José Gayà","Santi Mina",24
+"José Gayà","Danilo",2
+"José Gayà","Rafael Mir",5
+"Enzo Pérez","Rúben Vezo",20
+"Enzo Pérez","Shkodran Mustafi",25
+"Enzo Pérez","Sofiane Feghouli",17
+"Enzo Pérez","Paco Alcácer",6
+"Enzo Pérez","Daniel Parejo",62
+"Enzo Pérez","José Gayà",33
+"Enzo Pérez","Rodrigo",5
+"Enzo Pérez","Antonio Barragán",10
+"Enzo Pérez","Rodrigo De Paul",9
+"Enzo Pérez","Álvaro Negredo",3
+"Enzo Pérez","Pablo Piatti",19
+"Enzo Pérez","Javi Fuego",19
+"Enzo Pérez","Jaume Doménech",2
+"Enzo Pérez","João Cancelo",18
+"Enzo Pérez","Aymen Abdennour",15
+"Enzo Pérez","André Gomes",13
+"Enzo Pérez","Lucas Orbán",3
+"Enzo Pérez","Aderlan Santos",1
+"Enzo Pérez","Santos",2
+"Enzo Pérez","Santi Mina",6
+"Enzo Pérez","Rafael Mir",1
+"Rodrigo","Rúben Vezo",1
+"Rodrigo","Shkodran Mustafi",2
+"Rodrigo","Sofiane Feghouli",5
+"Rodrigo","Paco Alcácer",1
+"Rodrigo","Daniel Parejo",8
+"Rodrigo","José Gayà",7
+"Rodrigo","Enzo Pérez",4
+"Rodrigo","Antonio Barragán",3
+"Rodrigo","Rodrigo De Paul",3
+"Rodrigo","Álvaro Negredo",2
+"Rodrigo","Pablo Piatti",1
+"Rodrigo","Javi Fuego",2
+"Rodrigo","João Cancelo",7
+"Rodrigo","André Gomes",3
+"Antonio Barragán","Mathew Ryan",1
+"Antonio Barragán","Shkodran Mustafi",10
+"Antonio Barragán","Sofiane Feghouli",26
+"Antonio Barragán","Daniel Parejo",14
+"Antonio Barragán","Enzo Pérez",8
+"Antonio Barragán","Rodrigo",1
+"Antonio Barragán","Rodrigo De Paul",1
+"Antonio Barragán","Álvaro Negredo",1
+"Antonio Barragán","Pablo Piatti",3
+"Antonio Barragán","Javi Fuego",8
+"Antonio Barragán","Jaume Doménech",1
+"Antonio Barragán","Santos",1
+"Antonio Barragán","João Cancelo",4
+"Antonio Barragán","André Gomes",1
+"Rodrigo De Paul","Rúben Vezo",1
+"Rodrigo De Paul","Shkodran Mustafi",2
+"Rodrigo De Paul","Sofiane Feghouli",7
+"Rodrigo De Paul","Daniel Parejo",9
+"Rodrigo De Paul","José Gayà",18
+"Rodrigo De Paul","Enzo Pérez",6
+"Rodrigo De Paul","Rodrigo",4
+"Rodrigo De Paul","Antonio Barragán",1
+"Rodrigo De Paul","Javi Fuego",2
+"Rodrigo De Paul","João Cancelo",2
+"Rodrigo De Paul","Aymen Abdennour",2
+"Rodrigo De Paul","Danilo",1
+"Rodrigo De Paul","Santi Mina",3
+"Álvaro Negredo","Shkodran Mustafi",1
+"Álvaro Negredo","Sofiane Feghouli",7
+"Álvaro Negredo","Paco Alcácer",2
+"Álvaro Negredo","Daniel Parejo",15
+"Álvaro Negredo","José Gayà",2
+"Álvaro Negredo","Enzo Pérez",5
+"Álvaro Negredo","Rodrigo",4
+"Álvaro Negredo","Antonio Barragán",1
+"Álvaro Negredo","Rodrigo De Paul",1
+"Álvaro Negredo","Pablo Piatti",6
+"Álvaro Negredo","Javi Fuego",6
+"Álvaro Negredo","Jaume Doménech",1
+"Álvaro Negredo","João Cancelo",6
+"Álvaro Negredo","André Gomes",2
+"Pablo Piatti","Shkodran Mustafi",1
+"Pablo Piatti","Sofiane Feghouli",2
+"Pablo Piatti","Paco Alcácer",1
+"Pablo Piatti","Daniel Parejo",18
+"Pablo Piatti","José Gayà",25
+"Pablo Piatti","Enzo Pérez",13
+"Pablo Piatti","Rodrigo",4
+"Pablo Piatti","Álvaro Negredo",5
+"Pablo Piatti","Javi Fuego",6
+"Pablo Piatti","Aymen Abdennour",2
+"Pablo Piatti","André Gomes",5
+"Pablo Piatti","Lucas Orbán",7
+"Pablo Piatti","Santos",1
+"Pablo Piatti","Santi Mina",1
+"Pablo Piatti","Danilo",1
+"Javi Fuego","Mathew Ryan",1
+"Javi Fuego","Rúben Vezo",4
+"Javi Fuego","Shkodran Mustafi",29
+"Javi Fuego","Sofiane Feghouli",12
+"Javi Fuego","Paco Alcácer",3
+"Javi Fuego","Daniel Parejo",42
+"Javi Fuego","José Gayà",27
+"Javi Fuego","Enzo Pérez",21
+"Javi Fuego","Rodrigo",3
+"Javi Fuego","Antonio Barragán",6
+"Javi Fuego","Rodrigo De Paul",4
+"Javi Fuego","Álvaro Negredo",6
+"Javi Fuego","Pablo Piatti",9
+"Javi Fuego","Jaume Doménech",3
+"Javi Fuego","João Cancelo",21
+"Javi Fuego","Aymen Abdennour",8
+"Javi Fuego","André Gomes",9
+"Javi Fuego","Lucas Orbán",3
+"Javi Fuego","Santos",7
+"Javi Fuego","Santi Mina",9
+"Javi Fuego","Danilo",2
+"Danilo Barbosa","Daniel Parejo",1
+"Danilo Barbosa","Pablo Piatti",2
+"Jaume Doménech","João Cancelo",7
+"Jaume Doménech","Shkodran Mustafi",15
+"Jaume Doménech","Álvaro Negredo",1
+"Jaume Doménech","Sofiane Feghouli",2
+"Jaume Doménech","Daniel Parejo",4
+"Jaume Doménech","Pablo Piatti",1
+"Jaume Doménech","José Gayà",5
+"Jaume Doménech","Enzo Pérez",5
+"Jaume Doménech","Javi Fuego",7
+"Jaume Doménech","Aymen Abdennour",19
+"Jaume Doménech","Paco Alcácer",2
+"Jaume Doménech","Rodrigo",3
+"Jaume Doménech","André Gomes",7
+"Jaume Doménech","Santi Mina",4
+"Jaume Doménech","Danilo",3
+"Jaume Doménech","Antonio Barragán",3
+"Jaume Doménech","Rúben Vezo",1
+"João Cancelo","Jaume Doménech",3
+"João Cancelo","Shkodran Mustafi",22
+"João Cancelo","Álvaro Negredo",3
+"João Cancelo","Sofiane Feghouli",48
+"João Cancelo","Daniel Parejo",17
+"João Cancelo","Pablo Piatti",3
+"João Cancelo","José Gayà",3
+"João Cancelo","Enzo Pérez",17
+"João Cancelo","Javi Fuego",13
+"João Cancelo","Aymen Abdennour",5
+"João Cancelo","Paco Alcácer",4
+"João Cancelo","Rodrigo",6
+"João Cancelo","André Gomes",10
+"João Cancelo","Santos",1
+"João Cancelo","Santi Mina",7
+"João Cancelo","Antonio Barragán",3
+"João Cancelo","Rúben Vezo",8
+"João Cancelo","Rodrigo De Paul",1
+"Aymen Abdennour","Jaume Doménech",9
+"Aymen Abdennour","João Cancelo",4
+"Aymen Abdennour","Shkodran Mustafi",21
+"Aymen Abdennour","Sofiane Feghouli",3
+"Aymen Abdennour","Daniel Parejo",42
+"Aymen Abdennour","Pablo Piatti",12
+"Aymen Abdennour","José Gayà",28
+"Aymen Abdennour","Enzo Pérez",17
+"Aymen Abdennour","Javi Fuego",15
+"Aymen Abdennour","Paco Alcácer",2
+"Aymen Abdennour","André Gomes",9
+"Aymen Abdennour","Lucas Orbán",5
+"Aymen Abdennour","Rúben Vezo",4
+"Aymen Abdennour","Rafael Mir",1
+"Aymen Abdennour","Danilo",2
+"Aymen Abdennour","Rodrigo De Paul",2
+"Aymen Abdennour","Santi Mina",1
+"André Gomes","Jaume Doménech",2
+"André Gomes","João Cancelo",4
+"André Gomes","Shkodran Mustafi",4
+"André Gomes","Álvaro Negredo",2
+"André Gomes","Sofiane Feghouli",9
+"André Gomes","Daniel Parejo",16
+"André Gomes","Pablo Piatti",3
+"André Gomes","José Gayà",34
+"André Gomes","Enzo Pérez",17
+"André Gomes","Javi Fuego",4
+"André Gomes","Aymen Abdennour",6
+"André Gomes","Paco Alcácer",14
+"André Gomes","Rodrigo",2
+"André Gomes","Santos",3
+"André Gomes","Santi Mina",10
+"André Gomes","Antonio Barragán",1
+"André Gomes","Rúben Vezo",4
+"André Gomes","Rafael Mir",7
+"André Gomes","Rodrigo De Paul",3
+"Lucas Orbán","Álvaro Negredo",1
+"Lucas Orbán","Daniel Parejo",3
+"Lucas Orbán","Pablo Piatti",6
+"Lucas Orbán","Enzo Pérez",1
+"Lucas Orbán","Javi Fuego",2
+"Lucas Orbán","Aymen Abdennour",4
+"Lucas Orbán","Aderlan Santos",1
+"Lucas Orbán","Rodrigo",1
+"Aderlan Santos","Jaume Doménech",1
+"Aderlan Santos","Enzo Pérez",1
+"Aderlan Santos","Rodrigo",1
+"Santos","Jaume Doménech",9
+"Santos","Shkodran Mustafi",11
+"Santos","Paco Alcácer",3
+"Santos","Daniel Parejo",1
+"Santos","José Gayà",6
+"Santos","Javi Fuego",4
+"Santos","André Gomes",3
+"Santos","Santi Mina",2
+"Santos","Rodrigo",1
+"Santos","Enzo Pérez",2
+"Santos","Antonio Barragán",1
+"Santi Mina","João Cancelo",8
+"Santi Mina","Shkodran Mustafi",3
+"Santi Mina","Sofiane Feghouli",3
+"Santi Mina","Paco Alcácer",4
+"Santi Mina","Daniel Parejo",14
+"Santi Mina","José Gayà",12
+"Santi Mina","Javi Fuego",6
+"Santi Mina","André Gomes",12
+"Santi Mina","Danilo",2
+"Santi Mina","Enzo Pérez",2
+"Santi Mina","Rodrigo De Paul",2
+"Danilo","João Cancelo",4
+"Danilo","Shkodran Mustafi",1
+"Danilo","Sofiane Feghouli",2
+"Danilo","Paco Alcácer",2
+"Danilo","Daniel Parejo",2
+"Danilo","José Gayà",1
+"Danilo","André Gomes",2
+"Danilo","Santi Mina",1
+"Danilo","Pablo Piatti",1
+"Danilo","Rodrigo De Paul",3
+"Rafael Mir","Rúben Vezo",1
+"Rafael Mir","Sofiane Feghouli",1
+"Rafael Mir","Daniel Parejo",3
+"Rafael Mir","José Gayà",4
+"Rafael Mir","André Gomes",4
+"Rafael Mir","Aymen Abdennour",1

@@ -1,0 +1,174 @@
+"Péter Gulácsi","André Ramalho",7
+"Péter Gulácsi","Christian Schwegler",3
+"Péter Gulácsi","Marcel Sabitzer",1
+"Péter Gulácsi","Sadio Mané",4
+"Péter Gulácsi","Stefan Ilsanker",2
+"Péter Gulácsi","Franz Schiemer",2
+"Péter Gulácsi","Naby Keita",1
+"Péter Gulácsi","Alan",1
+"Péter Gulácsi","Martin Hinteregger",3
+"Péter Gulácsi","Peter Ankersen",2
+"André Ramalho","Péter Gulácsi",4
+"André Ramalho","Christian Schwegler",10
+"André Ramalho","Marcel Sabitzer",3
+"André Ramalho","Stefan Ilsanker",5
+"André Ramalho","Franz Schiemer",5
+"André Ramalho","Andreas Ulmer",3
+"André Ramalho","Christoph Leitgeb",4
+"André Ramalho","Jonatan Soriano",2
+"André Ramalho","Kevin Kampl",5
+"André Ramalho","Naby Keita",3
+"André Ramalho","Alan",2
+"André Ramalho","Massimo Bruno",3
+"André Ramalho","Martin Hinteregger",9
+"André Ramalho","Peter Ankersen",4
+"André Ramalho","Valentino Lazaro",2
+"Christian Schwegler","André Ramalho",8
+"Christian Schwegler","Marcel Sabitzer",5
+"Christian Schwegler","Sadio Mané",1
+"Christian Schwegler","Stefan Ilsanker",4
+"Christian Schwegler","Franz Schiemer",1
+"Christian Schwegler","Christoph Leitgeb",7
+"Christian Schwegler","Jonatan Soriano",4
+"Christian Schwegler","Kevin Kampl",11
+"Christian Schwegler","Naby Keita",3
+"Christian Schwegler","Massimo Bruno",1
+"Christian Schwegler","Martin Hinteregger",1
+"Christian Schwegler","Valentino Lazaro",1
+"Marcel Sabitzer","Christian Schwegler",4
+"Marcel Sabitzer","Sadio Mané",2
+"Marcel Sabitzer","Andreas Ulmer",2
+"Marcel Sabitzer","Jonatan Soriano",6
+"Marcel Sabitzer","Kevin Kampl",8
+"Marcel Sabitzer","Peter Ankersen",3
+"Sadio Mané","Marcel Sabitzer",4
+"Sadio Mané","Stefan Ilsanker",2
+"Sadio Mané","Andreas Ulmer",6
+"Sadio Mané","Christoph Leitgeb",9
+"Sadio Mané","Jonatan Soriano",2
+"Sadio Mané","Kevin Kampl",9
+"Stefan Ilsanker","Péter Gulácsi",2
+"Stefan Ilsanker","André Ramalho",6
+"Stefan Ilsanker","Christian Schwegler",19
+"Stefan Ilsanker","Marcel Sabitzer",4
+"Stefan Ilsanker","Sadio Mané",3
+"Stefan Ilsanker","Franz Schiemer",1
+"Stefan Ilsanker","Andreas Ulmer",7
+"Stefan Ilsanker","Christoph Leitgeb",3
+"Stefan Ilsanker","Jonatan Soriano",5
+"Stefan Ilsanker","Kevin Kampl",6
+"Stefan Ilsanker","Naby Keita",5
+"Stefan Ilsanker","Alan",5
+"Stefan Ilsanker","Massimo Bruno",4
+"Stefan Ilsanker","Martin Hinteregger",3
+"Stefan Ilsanker","Peter Ankersen",4
+"Franz Schiemer","Péter Gulácsi",1
+"Franz Schiemer","André Ramalho",5
+"Franz Schiemer","Christian Schwegler",3
+"Franz Schiemer","Marcel Sabitzer",3
+"Franz Schiemer","Sadio Mané",4
+"Franz Schiemer","Stefan Ilsanker",2
+"Franz Schiemer","Andreas Ulmer",7
+"Franz Schiemer","Christoph Leitgeb",2
+"Franz Schiemer","Jonatan Soriano",2
+"Franz Schiemer","Kevin Kampl",4
+"Franz Schiemer","Alan",1
+"Andreas Ulmer","André Ramalho",2
+"Andreas Ulmer","Christian Schwegler",1
+"Andreas Ulmer","Marcel Sabitzer",3
+"Andreas Ulmer","Sadio Mané",6
+"Andreas Ulmer","Stefan Ilsanker",3
+"Andreas Ulmer","Franz Schiemer",2
+"Andreas Ulmer","Christoph Leitgeb",1
+"Andreas Ulmer","Jonatan Soriano",6
+"Andreas Ulmer","Kevin Kampl",3
+"Andreas Ulmer","Massimo Bruno",1
+"Christoph Leitgeb","André Ramalho",5
+"Christoph Leitgeb","Christian Schwegler",6
+"Christoph Leitgeb","Marcel Sabitzer",4
+"Christoph Leitgeb","Sadio Mané",2
+"Christoph Leitgeb","Stefan Ilsanker",8
+"Christoph Leitgeb","Franz Schiemer",2
+"Christoph Leitgeb","Andreas Ulmer",2
+"Christoph Leitgeb","Jonatan Soriano",13
+"Christoph Leitgeb","Kevin Kampl",14
+"Christoph Leitgeb","Alan",2
+"Christoph Leitgeb","Massimo Bruno",2
+"Christoph Leitgeb","Martin Hinteregger",1
+"Christoph Leitgeb","Peter Ankersen",5
+"Jonatan Soriano","Marcel Sabitzer",4
+"Jonatan Soriano","Sadio Mané",5
+"Jonatan Soriano","Stefan Ilsanker",5
+"Jonatan Soriano","Christoph Leitgeb",6
+"Jonatan Soriano","Kevin Kampl",12
+"Jonatan Soriano","Naby Keita",6
+"Jonatan Soriano","Alan",6
+"Jonatan Soriano","Massimo Bruno",3
+"Jonatan Soriano","Martin Hinteregger",1
+"Jonatan Soriano","Peter Ankersen",2
+"Jonatan Soriano","Valentino Lazaro",1
+"Kevin Kampl","André Ramalho",1
+"Kevin Kampl","Christian Schwegler",6
+"Kevin Kampl","Marcel Sabitzer",5
+"Kevin Kampl","Sadio Mané",6
+"Kevin Kampl","Stefan Ilsanker",8
+"Kevin Kampl","Andreas Ulmer",4
+"Kevin Kampl","Christoph Leitgeb",16
+"Kevin Kampl","Jonatan Soriano",8
+"Kevin Kampl","Naby Keita",2
+"Kevin Kampl","Alan",4
+"Kevin Kampl","Massimo Bruno",2
+"Kevin Kampl","Martin Hinteregger",8
+"Kevin Kampl","Peter Ankersen",2
+"Kevin Kampl","Valentino Lazaro",1
+"Naby Keita","Christian Schwegler",6
+"Naby Keita","Stefan Ilsanker",2
+"Naby Keita","Franz Schiemer",1
+"Naby Keita","Christoph Leitgeb",4
+"Naby Keita","Jonatan Soriano",2
+"Naby Keita","Kevin Kampl",3
+"Naby Keita","Alan",2
+"Naby Keita","Massimo Bruno",5
+"Naby Keita","Martin Hinteregger",2
+"Alan","Christian Schwegler",1
+"Alan","Marcel Sabitzer",2
+"Alan","Stefan Ilsanker",3
+"Alan","Christoph Leitgeb",1
+"Alan","Jonatan Soriano",1
+"Alan","Kevin Kampl",3
+"Alan","Naby Keita",3
+"Alan","Massimo Bruno",2
+"Alan","Martin Hinteregger",1
+"Alan","Peter Ankersen",1
+"Alan","Valentino Lazaro",1
+"Massimo Bruno","Christian Schwegler",1
+"Massimo Bruno","Marcel Sabitzer",1
+"Massimo Bruno","Stefan Ilsanker",2
+"Massimo Bruno","Andreas Ulmer",3
+"Massimo Bruno","Jonatan Soriano",5
+"Massimo Bruno","Kevin Kampl",1
+"Massimo Bruno","Naby Keita",1
+"Massimo Bruno","Alan",1
+"Massimo Bruno","Peter Ankersen",1
+"Martin Hinteregger","Péter Gulácsi",2
+"Martin Hinteregger","André Ramalho",2
+"Martin Hinteregger","Stefan Ilsanker",1
+"Martin Hinteregger","Christoph Leitgeb",2
+"Martin Hinteregger","Jonatan Soriano",8
+"Martin Hinteregger","Alan",2
+"Martin Hinteregger","Kevin Kampl",4
+"Martin Hinteregger","Massimo Bruno",1
+"Martin Hinteregger","Peter Ankersen",9
+"Peter Ankersen","Péter Gulácsi",2
+"Peter Ankersen","André Ramalho",2
+"Peter Ankersen","Stefan Ilsanker",1
+"Peter Ankersen","Christoph Leitgeb",5
+"Peter Ankersen","Alan",2
+"Peter Ankersen","Martin Hinteregger",4
+"Peter Ankersen","Kevin Kampl",4
+"Peter Ankersen","Marcel Sabitzer",2
+"Peter Ankersen","Valentino Lazaro",1
+"Valentino Lazaro","André Ramalho",1
+"Valentino Lazaro","Stefan Ilsanker",1
+"Valentino Lazaro","Jonatan Soriano",1
+"Valentino Lazaro","Alan",1

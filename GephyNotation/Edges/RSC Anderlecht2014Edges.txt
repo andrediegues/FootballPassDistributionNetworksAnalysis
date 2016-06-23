@@ -1,0 +1,294 @@
+"Silvio Proto","Fabrice N'Sakala",7
+"Silvio Proto","Luka Milivojević",1
+"Silvio Proto","Matías Suárez",1
+"Silvio Proto","Cheikhou Kouyaté",11
+"Silvio Proto","Massimo Bruno",1
+"Silvio Proto","Sacha Kljestan",1
+"Silvio Proto","Chancel Mbemba",12
+"Silvio Proto","Guillaume Gillet",6
+"Silvio Proto","Aleksandar Mitrović",11
+"Silvio Proto","Dennis Praet",5
+"Silvio Proto","Olivier Deschacht",1
+"Silvio Proto","Bram Nuytinck",9
+"Silvio Proto","Anthony Vanden Borre",1
+"Silvio Proto","Andy Najar",3
+"Silvio Proto","Youri Tielemans",1
+"Fabrice N'Sakala","Silvio Proto",2
+"Fabrice N'Sakala","Demy de Zeeuw",1
+"Fabrice N'Sakala","Luka Milivojević",6
+"Fabrice N'Sakala","Matías Suárez",19
+"Fabrice N'Sakala","Cheikhou Kouyaté",12
+"Fabrice N'Sakala","Sacha Kljestan",35
+"Fabrice N'Sakala","Chancel Mbemba",25
+"Fabrice N'Sakala","Guillaume Gillet",7
+"Fabrice N'Sakala","Aleksandar Mitrović",21
+"Fabrice N'Sakala","Dennis Praet",26
+"Fabrice N'Sakala","Cyriac",1
+"Fabrice N'Sakala","Frank Acheampong",19
+"Fabrice N'Sakala","Bram Nuytinck",11
+"Fabrice N'Sakala","Youri Tielemans",10
+"Fabrice N'Sakala","Olivier Deschacht",7
+"Fabrice N'Sakala","Anthony Vanden Borre",3
+"Fabrice N'Sakala","Ronald Vargas",2
+"Demy de Zeeuw","Silvio Proto",1
+"Demy de Zeeuw","Fabrice N'Sakala",2
+"Demy de Zeeuw","Luka Milivojević",3
+"Demy de Zeeuw","Cheikhou Kouyaté",1
+"Demy de Zeeuw","Massimo Bruno",3
+"Demy de Zeeuw","Sacha Kljestan",5
+"Demy de Zeeuw","Chancel Mbemba",1
+"Demy de Zeeuw","Guillaume Gillet",2
+"Demy de Zeeuw","Aleksandar Mitrović",9
+"Demy de Zeeuw","Dennis Praet",7
+"Demy de Zeeuw","Frank Acheampong",2
+"Demy de Zeeuw","Olivier Deschacht",4
+"Demy de Zeeuw","Anthony Vanden Borre",4
+"Luka Milivojević","Silvio Proto",7
+"Luka Milivojević","Fabrice N'Sakala",8
+"Luka Milivojević","Demy de Zeeuw",7
+"Luka Milivojević","Matías Suárez",5
+"Luka Milivojević","Cheikhou Kouyaté",8
+"Luka Milivojević","Massimo Bruno",3
+"Luka Milivojević","Sacha Kljestan",14
+"Luka Milivojević","Chancel Mbemba",9
+"Luka Milivojević","Guillaume Gillet",7
+"Luka Milivojević","Aleksandar Mitrović",5
+"Luka Milivojević","Dennis Praet",5
+"Luka Milivojević","Cyriac",2
+"Luka Milivojević","Frank Acheampong",3
+"Luka Milivojević","Thomas Kaminski",2
+"Luka Milivojević","Bram Nuytinck",1
+"Luka Milivojević","Youri Tielemans",2
+"Luka Milivojević","Olivier Deschacht",4
+"Luka Milivojević","Anthony Vanden Borre",6
+"Matías Suárez","Fabrice N'Sakala",2
+"Matías Suárez","Demy de Zeeuw",2
+"Matías Suárez","Luka Milivojević",2
+"Matías Suárez","Cheikhou Kouyaté",3
+"Matías Suárez","Massimo Bruno",4
+"Matías Suárez","Sacha Kljestan",13
+"Matías Suárez","Guillaume Gillet",2
+"Matías Suárez","Aleksandar Mitrović",6
+"Matías Suárez","Dennis Praet",4
+"Matías Suárez","Frank Acheampong",4
+"Matías Suárez","Bram Nuytinck",6
+"Matías Suárez","Youri Tielemans",4
+"Cheikhou Kouyaté","Silvio Proto",10
+"Cheikhou Kouyaté","Fabrice N'Sakala",13
+"Cheikhou Kouyaté","Demy de Zeeuw",3
+"Cheikhou Kouyaté","Luka Milivojević",12
+"Cheikhou Kouyaté","Matías Suárez",1
+"Cheikhou Kouyaté","Massimo Bruno",5
+"Cheikhou Kouyaté","Sacha Kljestan",15
+"Cheikhou Kouyaté","Chancel Mbemba",21
+"Cheikhou Kouyaté","Guillaume Gillet",31
+"Cheikhou Kouyaté","Aleksandar Mitrović",8
+"Cheikhou Kouyaté","Dennis Praet",7
+"Cheikhou Kouyaté","Frank Acheampong",2
+"Cheikhou Kouyaté","Thomas Kaminski",8
+"Cheikhou Kouyaté","Bram Nuytinck",20
+"Cheikhou Kouyaté","Youri Tielemans",7
+"Cheikhou Kouyaté","Olivier Deschacht",8
+"Cheikhou Kouyaté","Anthony Vanden Borre",10
+"Cheikhou Kouyaté","Andy Najar",1
+"Massimo Bruno","Silvio Proto",1
+"Massimo Bruno","Fabrice N'Sakala",1
+"Massimo Bruno","Demy de Zeeuw",2
+"Massimo Bruno","Luka Milivojević",3
+"Massimo Bruno","Matías Suárez",6
+"Massimo Bruno","Cheikhou Kouyaté",4
+"Massimo Bruno","Sacha Kljestan",2
+"Massimo Bruno","Chancel Mbemba",1
+"Massimo Bruno","Guillaume Gillet",7
+"Massimo Bruno","Aleksandar Mitrović",6
+"Massimo Bruno","Dennis Praet",5
+"Massimo Bruno","Frank Acheampong",2
+"Massimo Bruno","Thomas Kaminski",1
+"Massimo Bruno","Youri Tielemans",1
+"Massimo Bruno","Anthony Vanden Borre",4
+"Massimo Bruno","Ronald Vargas",2
+"Sacha Kljestan","Silvio Proto",1
+"Sacha Kljestan","Fabrice N'Sakala",35
+"Sacha Kljestan","Demy de Zeeuw",5
+"Sacha Kljestan","Luka Milivojević",17
+"Sacha Kljestan","Matías Suárez",20
+"Sacha Kljestan","Cheikhou Kouyaté",7
+"Sacha Kljestan","Massimo Bruno",8
+"Sacha Kljestan","Chancel Mbemba",13
+"Sacha Kljestan","Guillaume Gillet",19
+"Sacha Kljestan","Aleksandar Mitrović",14
+"Sacha Kljestan","Dennis Praet",28
+"Sacha Kljestan","Cyriac",3
+"Sacha Kljestan","Frank Acheampong",6
+"Sacha Kljestan","Bram Nuytinck",6
+"Sacha Kljestan","Youri Tielemans",17
+"Sacha Kljestan","Olivier Deschacht",6
+"Sacha Kljestan","Anthony Vanden Borre",8
+"Chancel Mbemba","Silvio Proto",18
+"Chancel Mbemba","Fabrice N'Sakala",25
+"Chancel Mbemba","Demy de Zeeuw",1
+"Chancel Mbemba","Luka Milivojević",10
+"Chancel Mbemba","Cheikhou Kouyaté",10
+"Chancel Mbemba","Massimo Bruno",3
+"Chancel Mbemba","Sacha Kljestan",16
+"Chancel Mbemba","Guillaume Gillet",17
+"Chancel Mbemba","Aleksandar Mitrović",11
+"Chancel Mbemba","Dennis Praet",10
+"Chancel Mbemba","Cyriac",3
+"Chancel Mbemba","Frank Acheampong",5
+"Chancel Mbemba","Thomas Kaminski",3
+"Chancel Mbemba","Bram Nuytinck",8
+"Chancel Mbemba","Youri Tielemans",9
+"Chancel Mbemba","Olivier Deschacht",5
+"Chancel Mbemba","Anthony Vanden Borre",9
+"Chancel Mbemba","Ronald Vargas",1
+"Chancel Mbemba","Andy Najar",5
+"Guillaume Gillet","Silvio Proto",2
+"Guillaume Gillet","Fabrice N'Sakala",6
+"Guillaume Gillet","Demy de Zeeuw",6
+"Guillaume Gillet","Luka Milivojević",5
+"Guillaume Gillet","Matías Suárez",4
+"Guillaume Gillet","Cheikhou Kouyaté",20
+"Guillaume Gillet","Massimo Bruno",21
+"Guillaume Gillet","Sacha Kljestan",24
+"Guillaume Gillet","Chancel Mbemba",15
+"Guillaume Gillet","Aleksandar Mitrović",17
+"Guillaume Gillet","Dennis Praet",10
+"Guillaume Gillet","Frank Acheampong",5
+"Guillaume Gillet","Thomas Kaminski",1
+"Guillaume Gillet","Bram Nuytinck",7
+"Guillaume Gillet","Youri Tielemans",14
+"Guillaume Gillet","Anthony Vanden Borre",7
+"Guillaume Gillet","Andy Najar",3
+"Aleksandar Mitrović","Fabrice N'Sakala",7
+"Aleksandar Mitrović","Demy de Zeeuw",6
+"Aleksandar Mitrović","Luka Milivojević",6
+"Aleksandar Mitrović","Matías Suárez",8
+"Aleksandar Mitrović","Cheikhou Kouyaté",2
+"Aleksandar Mitrović","Massimo Bruno",6
+"Aleksandar Mitrović","Sacha Kljestan",11
+"Aleksandar Mitrović","Chancel Mbemba",3
+"Aleksandar Mitrović","Guillaume Gillet",10
+"Aleksandar Mitrović","Dennis Praet",18
+"Aleksandar Mitrović","Frank Acheampong",4
+"Aleksandar Mitrović","Bram Nuytinck",1
+"Aleksandar Mitrović","Youri Tielemans",1
+"Aleksandar Mitrović","Anthony Vanden Borre",3
+"Aleksandar Mitrović","Ronald Vargas",1
+"Aleksandar Mitrović","Andy Najar",1
+"Dennis Praet","Silvio Proto",1
+"Dennis Praet","Fabrice N'Sakala",15
+"Dennis Praet","Demy de Zeeuw",3
+"Dennis Praet","Luka Milivojević",8
+"Dennis Praet","Matías Suárez",7
+"Dennis Praet","Cheikhou Kouyaté",9
+"Dennis Praet","Massimo Bruno",11
+"Dennis Praet","Sacha Kljestan",9
+"Dennis Praet","Chancel Mbemba",11
+"Dennis Praet","Guillaume Gillet",8
+"Dennis Praet","Aleksandar Mitrović",18
+"Dennis Praet","Frank Acheampong",7
+"Dennis Praet","Thomas Kaminski",1
+"Dennis Praet","Bram Nuytinck",2
+"Dennis Praet","Youri Tielemans",4
+"Dennis Praet","Olivier Deschacht",2
+"Dennis Praet","Anthony Vanden Borre",15
+"Cyriac","Sacha Kljestan",2
+"Cyriac","Chancel Mbemba",1
+"Cyriac","Frank Acheampong",1
+"Cyriac","Bram Nuytinck",1
+"Frank Acheampong","Fabrice N'Sakala",12
+"Frank Acheampong","Matías Suárez",5
+"Frank Acheampong","Cheikhou Kouyaté",3
+"Frank Acheampong","Massimo Bruno",2
+"Frank Acheampong","Sacha Kljestan",9
+"Frank Acheampong","Chancel Mbemba",2
+"Frank Acheampong","Guillaume Gillet",2
+"Frank Acheampong","Aleksandar Mitrović",2
+"Frank Acheampong","Dennis Praet",4
+"Frank Acheampong","Cyriac",1
+"Frank Acheampong","Bram Nuytinck",1
+"Frank Acheampong","Youri Tielemans",2
+"Frank Acheampong","Anthony Vanden Borre",1
+"Frank Acheampong","Ronald Vargas",3
+"Thomas Kaminski","Fabrice N'Sakala",3
+"Thomas Kaminski","Matías Suárez",2
+"Thomas Kaminski","Dennis Praet",1
+"Thomas Kaminski","Bram Nuytinck",12
+"Thomas Kaminski","Cheikhou Kouyaté",3
+"Thomas Kaminski","Massimo Bruno",1
+"Thomas Kaminski","Sacha Kljestan",5
+"Thomas Kaminski","Guillaume Gillet",3
+"Thomas Kaminski","Youri Tielemans",1
+"Thomas Kaminski","Aleksandar Mitrović",4
+"Thomas Kaminski","Chancel Mbemba",2
+"Thomas Kaminski","Cyriac",1
+"Thomas Kaminski","Olivier Deschacht",1
+"Bram Nuytinck","Thomas Kaminski",5
+"Bram Nuytinck","Fabrice N'Sakala",34
+"Bram Nuytinck","Matías Suárez",9
+"Bram Nuytinck","Dennis Praet",4
+"Bram Nuytinck","Cheikhou Kouyaté",17
+"Bram Nuytinck","Sacha Kljestan",9
+"Bram Nuytinck","Guillaume Gillet",7
+"Bram Nuytinck","Youri Tielemans",11
+"Bram Nuytinck","Aleksandar Mitrović",5
+"Bram Nuytinck","Frank Acheampong",2
+"Bram Nuytinck","Chancel Mbemba",5
+"Bram Nuytinck","Luka Milivojević",1
+"Bram Nuytinck","Olivier Deschacht",2
+"Bram Nuytinck","Anthony Vanden Borre",2
+"Bram Nuytinck","Silvio Proto",10
+"Youri Tielemans","Fabrice N'Sakala",4
+"Youri Tielemans","Matías Suárez",5
+"Youri Tielemans","Dennis Praet",11
+"Youri Tielemans","Bram Nuytinck",7
+"Youri Tielemans","Cheikhou Kouyaté",5
+"Youri Tielemans","Massimo Bruno",4
+"Youri Tielemans","Sacha Kljestan",21
+"Youri Tielemans","Guillaume Gillet",7
+"Youri Tielemans","Aleksandar Mitrović",5
+"Youri Tielemans","Frank Acheampong",3
+"Youri Tielemans","Chancel Mbemba",7
+"Youri Tielemans","Luka Milivojević",7
+"Youri Tielemans","Cyriac",1
+"Olivier Deschacht","Thomas Kaminski",1
+"Olivier Deschacht","Fabrice N'Sakala",16
+"Olivier Deschacht","Demy de Zeeuw",6
+"Olivier Deschacht","Luka Milivojević",3
+"Olivier Deschacht","Dennis Praet",2
+"Olivier Deschacht","Cheikhou Kouyaté",1
+"Olivier Deschacht","Sacha Kljestan",5
+"Olivier Deschacht","Chancel Mbemba",3
+"Olivier Deschacht","Aleksandar Mitrović",3
+"Olivier Deschacht","Bram Nuytinck",1
+"Olivier Deschacht","Youri Tielemans",1
+"Olivier Deschacht","Silvio Proto",1
+"Anthony Vanden Borre","Fabrice N'Sakala",4
+"Anthony Vanden Borre","Demy de Zeeuw",3
+"Anthony Vanden Borre","Luka Milivojević",6
+"Anthony Vanden Borre","Dennis Praet",10
+"Anthony Vanden Borre","Cheikhou Kouyaté",9
+"Anthony Vanden Borre","Sacha Kljestan",8
+"Anthony Vanden Borre","Chancel Mbemba",8
+"Anthony Vanden Borre","Aleksandar Mitrović",18
+"Anthony Vanden Borre","Bram Nuytinck",2
+"Anthony Vanden Borre","Frank Acheampong",1
+"Anthony Vanden Borre","Massimo Bruno",7
+"Anthony Vanden Borre","Guillaume Gillet",6
+"Anthony Vanden Borre","Ronald Vargas",1
+"Anthony Vanden Borre","Andy Najar",3
+"Ronald Vargas","Fabrice N'Sakala",1
+"Ronald Vargas","Massimo Bruno",1
+"Ronald Vargas","Chancel Mbemba",1
+"Ronald Vargas","Anthony Vanden Borre",1
+"Ronald Vargas","Aleksandar Mitrović",1
+"Ronald Vargas","Frank Acheampong",1
+"Andy Najar","Silvio Proto",1
+"Andy Najar","Fabrice N'Sakala",1
+"Andy Najar","Dennis Praet",1
+"Andy Najar","Sacha Kljestan",1
+"Andy Najar","Chancel Mbemba",1
+"Andy Najar","Guillaume Gillet",5
+"Andy Najar","Anthony Vanden Borre",2
+"Andy Najar","Aleksandar Mitrović",2

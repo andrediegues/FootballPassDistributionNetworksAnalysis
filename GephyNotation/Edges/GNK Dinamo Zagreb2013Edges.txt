@@ -1,0 +1,273 @@
+"Ivan Kelava","Luis Ibáñez",2
+"Ivan Kelava","Josip Šimunić",11
+"Ivan Kelava","Arijan Ademi",7
+"Ivan Kelava","Sammir",2
+"Ivan Kelava","Tonel",7
+"Ivan Kelava","Milan Badelj",1
+"Ivan Kelava","Josip Pivarić",26
+"Ivan Kelava","Fatos Beqiraj",2
+"Ivan Kelava","Domagoj Vida",15
+"Ivan Kelava","Duje Čop",7
+"Ivan Kelava","Adrián Calello",7
+"Ivan Kelava","Ivan Krstanović",1
+"Ivan Kelava","Ante Rukavina",3
+"Ivan Kelava","Marcelo Brozović",5
+"Ivan Kelava","Mateo Kovačić",2
+"Ivan Kelava","Bryan Carrasco",1
+"Ivan Kelava","Ante Puljić",1
+"Ivan Kelava","Šime Vrsaljko",5
+"Luis Ibáñez","Ivan Kelava",1
+"Luis Ibáñez","Sammir",4
+"Luis Ibáñez","Tonel",1
+"Luis Ibáñez","Milan Badelj",3
+"Luis Ibáñez","Fatos Beqiraj",1
+"Luis Ibáñez","Domagoj Vida",3
+"Luis Ibáñez","Duje Čop",1
+"Luis Ibáñez","Jerko Leko",1
+"Luis Ibáñez","Ante Puljić",2
+"Luis Ibáñez","Mateo Kovačić",1
+"Luis Ibáñez","Šime Vrsaljko",1
+"Josip Šimunić","Ivan Kelava",21
+"Josip Šimunić","Arijan Ademi",13
+"Josip Šimunić","Sammir",11
+"Josip Šimunić","Tonel",25
+"Josip Šimunić","Milan Badelj",2
+"Josip Šimunić","Josip Pivarić",22
+"Josip Šimunić","Fatos Beqiraj",2
+"Josip Šimunić","Domagoj Vida",17
+"Josip Šimunić","Duje Čop",5
+"Josip Šimunić","Adrián Calello",6
+"Josip Šimunić","Marcelo Brozović",19
+"Josip Šimunić","Mateo Kovačić",20
+"Josip Šimunić","Ante Puljić",9
+"Josip Šimunić","Šime Vrsaljko",3
+"Arijan Ademi","Ivan Kelava",2
+"Arijan Ademi","Josip Šimunić",11
+"Arijan Ademi","Sammir",24
+"Arijan Ademi","Tonel",7
+"Arijan Ademi","Milan Badelj",6
+"Arijan Ademi","Josip Pivarić",10
+"Arijan Ademi","Fatos Beqiraj",8
+"Arijan Ademi","Domagoj Vida",26
+"Arijan Ademi","Duje Čop",6
+"Arijan Ademi","Adrián Calello",6
+"Arijan Ademi","Ante Rukavina",3
+"Arijan Ademi","Marcelo Brozović",19
+"Arijan Ademi","Mateo Kovačić",17
+"Arijan Ademi","Bryan Carrasco",1
+"Arijan Ademi","Ante Puljić",6
+"Arijan Ademi","Šime Vrsaljko",14
+"Arijan Ademi","Alen Halilović",2
+"Sammir","Ivan Kelava",1
+"Sammir","Luis Ibáñez",6
+"Sammir","Josip Šimunić",5
+"Sammir","Arijan Ademi",23
+"Sammir","Tonel",7
+"Sammir","Milan Badelj",6
+"Sammir","Josip Pivarić",15
+"Sammir","Fatos Beqiraj",9
+"Sammir","Domagoj Vida",19
+"Sammir","Duje Čop",16
+"Sammir","Adrián Calello",5
+"Sammir","Ante Rukavina",11
+"Sammir","Marcelo Brozović",21
+"Sammir","Mateo Kovačić",17
+"Sammir","Bryan Carrasco",1
+"Sammir","Ante Puljić",4
+"Sammir","Šime Vrsaljko",8
+"Tonel","Ivan Kelava",9
+"Tonel","Josip Šimunić",16
+"Tonel","Arijan Ademi",9
+"Tonel","Sammir",4
+"Tonel","Milan Badelj",3
+"Tonel","Josip Pivarić",4
+"Tonel","Fatos Beqiraj",2
+"Tonel","Domagoj Vida",19
+"Tonel","Duje Čop",3
+"Tonel","Adrián Calello",7
+"Tonel","Ante Rukavina",2
+"Tonel","Marcelo Brozović",3
+"Tonel","Mateo Kovačić",5
+"Tonel","Bryan Carrasco",1
+"Milan Badelj","Luis Ibáñez",3
+"Milan Badelj","Josip Šimunić",6
+"Milan Badelj","Arijan Ademi",4
+"Milan Badelj","Sammir",10
+"Milan Badelj","Tonel",2
+"Milan Badelj","Josip Pivarić",4
+"Milan Badelj","Domagoj Vida",6
+"Milan Badelj","Duje Čop",2
+"Milan Badelj","Adrián Calello",3
+"Milan Badelj","Jerko Leko",2
+"Milan Badelj","Ivan Krstanović",1
+"Josip Pivarić","Ivan Kelava",6
+"Josip Pivarić","Luis Ibáñez",1
+"Josip Pivarić","Josip Šimunić",25
+"Josip Pivarić","Arijan Ademi",18
+"Josip Pivarić","Sammir",18
+"Josip Pivarić","Tonel",3
+"Josip Pivarić","Milan Badelj",6
+"Josip Pivarić","Fatos Beqiraj",2
+"Josip Pivarić","Domagoj Vida",14
+"Josip Pivarić","Duje Čop",20
+"Josip Pivarić","Adrián Calello",13
+"Josip Pivarić","Jerko Leko",1
+"Josip Pivarić","Ivan Krstanović",1
+"Josip Pivarić","Ante Rukavina",4
+"Josip Pivarić","Marcelo Brozović",33
+"Josip Pivarić","Mateo Kovačić",27
+"Josip Pivarić","Ante Puljić",2
+"Josip Pivarić","Šime Vrsaljko",4
+"Fatos Beqiraj","Luis Ibáñez",2
+"Fatos Beqiraj","Josip Šimunić",1
+"Fatos Beqiraj","Arijan Ademi",5
+"Fatos Beqiraj","Sammir",11
+"Fatos Beqiraj","Tonel",1
+"Fatos Beqiraj","Milan Badelj",2
+"Fatos Beqiraj","Josip Pivarić",1
+"Fatos Beqiraj","Domagoj Vida",1
+"Fatos Beqiraj","Duje Čop",2
+"Fatos Beqiraj","Marcelo Brozović",4
+"Fatos Beqiraj","Mateo Kovačić",5
+"Fatos Beqiraj","Šime Vrsaljko",2
+"Domagoj Vida","Ivan Kelava",9
+"Domagoj Vida","Luis Ibáñez",5
+"Domagoj Vida","Josip Šimunić",17
+"Domagoj Vida","Arijan Ademi",15
+"Domagoj Vida","Sammir",13
+"Domagoj Vida","Tonel",14
+"Domagoj Vida","Milan Badelj",4
+"Domagoj Vida","Josip Pivarić",18
+"Domagoj Vida","Fatos Beqiraj",5
+"Domagoj Vida","Duje Čop",4
+"Domagoj Vida","Adrián Calello",5
+"Domagoj Vida","Jerko Leko",5
+"Domagoj Vida","Ante Rukavina",12
+"Domagoj Vida","Marcelo Brozović",17
+"Domagoj Vida","Mateo Kovačić",27
+"Domagoj Vida","Bryan Carrasco",2
+"Domagoj Vida","Ante Puljić",3
+"Domagoj Vida","Šime Vrsaljko",20
+"Duje Čop","Luis Ibáñez",4
+"Duje Čop","Josip Šimunić",5
+"Duje Čop","Arijan Ademi",4
+"Duje Čop","Sammir",12
+"Duje Čop","Tonel",1
+"Duje Čop","Milan Badelj",4
+"Duje Čop","Josip Pivarić",10
+"Duje Čop","Fatos Beqiraj",7
+"Duje Čop","Domagoj Vida",2
+"Duje Čop","Adrián Calello",5
+"Duje Čop","Ante Rukavina",2
+"Duje Čop","Marcelo Brozović",8
+"Duje Čop","Mateo Kovačić",6
+"Duje Čop","Bryan Carrasco",1
+"Duje Čop","Šime Vrsaljko",4
+"Adrián Calello","Ivan Kelava",4
+"Adrián Calello","Josip Šimunić",6
+"Adrián Calello","Arijan Ademi",6
+"Adrián Calello","Sammir",16
+"Adrián Calello","Tonel",3
+"Adrián Calello","Milan Badelj",1
+"Adrián Calello","Josip Pivarić",7
+"Adrián Calello","Fatos Beqiraj",3
+"Adrián Calello","Domagoj Vida",14
+"Adrián Calello","Duje Čop",5
+"Adrián Calello","Jerko Leko",1
+"Adrián Calello","Ivan Krstanović",1
+"Adrián Calello","Ante Rukavina",1
+"Adrián Calello","Marcelo Brozović",6
+"Adrián Calello","Mateo Kovačić",8
+"Adrián Calello","Bryan Carrasco",1
+"Adrián Calello","Ante Puljić",2
+"Adrián Calello","Šime Vrsaljko",5
+"Adrián Calello","Alen Halilović",1
+"Jerko Leko","Sammir",1
+"Jerko Leko","Milan Badelj",3
+"Jerko Leko","Josip Pivarić",2
+"Jerko Leko","Domagoj Vida",2
+"Jerko Leko","Adrián Calello",1
+"Ivan Krstanović","Arijan Ademi",1
+"Ivan Krstanović","Milan Badelj",1
+"Ivan Krstanović","Duje Čop",1
+"Ante Rukavina","Ivan Kelava",1
+"Ante Rukavina","Josip Šimunić",1
+"Ante Rukavina","Adrián Calello",1
+"Ante Rukavina","Arijan Ademi",4
+"Ante Rukavina","Sammir",11
+"Ante Rukavina","Tonel",1
+"Ante Rukavina","Josip Pivarić",1
+"Ante Rukavina","Domagoj Vida",1
+"Ante Rukavina","Marcelo Brozović",6
+"Ante Rukavina","Mateo Kovačić",4
+"Ante Rukavina","Ante Puljić",1
+"Ante Rukavina","Šime Vrsaljko",3
+"Marcelo Brozović","Josip Šimunić",10
+"Marcelo Brozović","Adrián Calello",9
+"Marcelo Brozović","Arijan Ademi",17
+"Marcelo Brozović","Sammir",27
+"Marcelo Brozović","Tonel",6
+"Marcelo Brozović","Josip Pivarić",28
+"Marcelo Brozović","Domagoj Vida",11
+"Marcelo Brozović","Ante Rukavina",5
+"Marcelo Brozović","Duje Čop",13
+"Marcelo Brozović","Mateo Kovačić",23
+"Marcelo Brozović","Bryan Carrasco",2
+"Marcelo Brozović","Fatos Beqiraj",2
+"Marcelo Brozović","Ante Puljić",4
+"Marcelo Brozović","Luis Ibáñez",2
+"Marcelo Brozović","Šime Vrsaljko",21
+"Marcelo Brozović","Alen Halilović",1
+"Marcelo Brozović","Ivan Krstanović",2
+"Mateo Kovačić","Josip Šimunić",19
+"Mateo Kovačić","Adrián Calello",8
+"Mateo Kovačić","Arijan Ademi",25
+"Mateo Kovačić","Sammir",29
+"Mateo Kovačić","Tonel",3
+"Mateo Kovačić","Josip Pivarić",22
+"Mateo Kovačić","Domagoj Vida",26
+"Mateo Kovačić","Ante Rukavina",6
+"Mateo Kovačić","Marcelo Brozović",38
+"Mateo Kovačić","Duje Čop",11
+"Mateo Kovačić","Bryan Carrasco",1
+"Mateo Kovačić","Fatos Beqiraj",6
+"Mateo Kovačić","Ante Puljić",8
+"Mateo Kovačić","Šime Vrsaljko",16
+"Bryan Carrasco","Josip Šimunić",1
+"Bryan Carrasco","Adrián Calello",1
+"Bryan Carrasco","Arijan Ademi",1
+"Bryan Carrasco","Sammir",1
+"Bryan Carrasco","Josip Pivarić",2
+"Bryan Carrasco","Domagoj Vida",2
+"Bryan Carrasco","Marcelo Brozović",1
+"Bryan Carrasco","Duje Čop",1
+"Ante Puljić","Ivan Kelava",2
+"Ante Puljić","Josip Šimunić",15
+"Ante Puljić","Mateo Kovačić",14
+"Ante Puljić","Sammir",5
+"Ante Puljić","Šime Vrsaljko",12
+"Ante Puljić","Josip Pivarić",3
+"Ante Puljić","Domagoj Vida",3
+"Ante Puljić","Marcelo Brozović",6
+"Ante Puljić","Adrián Calello",3
+"Ante Puljić","Alen Halilović",1
+"Ante Puljić","Ante Rukavina",2
+"Ante Puljić","Arijan Ademi",8
+"Šime Vrsaljko","Ivan Kelava",1
+"Šime Vrsaljko","Ante Puljić",16
+"Šime Vrsaljko","Luis Ibáñez",4
+"Šime Vrsaljko","Josip Šimunić",5
+"Šime Vrsaljko","Mateo Kovačić",20
+"Šime Vrsaljko","Sammir",11
+"Šime Vrsaljko","Josip Pivarić",1
+"Šime Vrsaljko","Domagoj Vida",12
+"Šime Vrsaljko","Marcelo Brozović",13
+"Šime Vrsaljko","Duje Čop",3
+"Šime Vrsaljko","Adrián Calello",3
+"Šime Vrsaljko","Alen Halilović",1
+"Šime Vrsaljko","Ante Rukavina",7
+"Šime Vrsaljko","Arijan Ademi",12
+"Šime Vrsaljko","Fatos Beqiraj",8
+"Alen Halilović","Sammir",3
+"Alen Halilović","Domagoj Vida",1
+"Alen Halilović","Arijan Ademi",1

@@ -1,0 +1,447 @@
+"Thibaut Courtois","Diego Godín",8
+"Thibaut Courtois","Filipe Luis",5
+"Thibaut Courtois","Mario Suárez",3
+"Thibaut Courtois","Koke",15
+"Thibaut Courtois","Adrián López",10
+"Thibaut Courtois","David Villa",3
+"Thibaut Courtois","Arda Turan",11
+"Thibaut Courtois","Gabi",4
+"Thibaut Courtois","Juanfran",5
+"Thibaut Courtois","Miranda",15
+"Thibaut Courtois","Raúl García",21
+"Thibaut Courtois","Cristian Rodríguez",3
+"Thibaut Courtois","Léo Baptistão",2
+"Thibaut Courtois","Óliver Torres",1
+"Thibaut Courtois","Toby Alderweireld",2
+"Thibaut Courtois","Diego Costa",8
+"Thibaut Courtois","Emiliano Insúa",2
+"Thibaut Courtois","Josuha Guilavogui",1
+"Thibaut Courtois","Emiliano Insua",2
+"Thibaut Courtois","Filipe Luís",9
+"Thibaut Courtois","José Sosa",6
+"Thibaut Courtois","Diego",1
+"Diego Godín","Thibaut Courtois",7
+"Diego Godín","Filipe Luis",29
+"Diego Godín","Mario Suárez",20
+"Diego Godín","Koke",17
+"Diego Godín","Adrián López",7
+"Diego Godín","David Villa",2
+"Diego Godín","Arda Turan",6
+"Diego Godín","Gabi",27
+"Diego Godín","Juanfran",5
+"Diego Godín","Miranda",16
+"Diego Godín","Raúl García",9
+"Diego Godín","Cristian Rodríguez",2
+"Diego Godín","Léo Baptistão",1
+"Diego Godín","Tiago",19
+"Diego Godín","Óliver Torres",2
+"Diego Godín","Diego Costa",9
+"Diego Godín","Josuha Guilavogui",3
+"Diego Godín","Emiliano Insua",3
+"Diego Godín","Filipe Luís",12
+"Diego Godín","José Sosa",2
+"Diego Godín","Diego",4
+"Filipe Luis","Diego Godín",20
+"Filipe Luis","Mario Suárez",4
+"Filipe Luis","Koke",31
+"Filipe Luis","Adrián López",16
+"Filipe Luis","David Villa",8
+"Filipe Luis","Arda Turan",26
+"Filipe Luis","Gabi",17
+"Filipe Luis","Juanfran",4
+"Filipe Luis","Miranda",10
+"Filipe Luis","Raúl García",19
+"Filipe Luis","Cristian Rodríguez",4
+"Filipe Luis","Léo Baptistão",2
+"Filipe Luis","Tiago",23
+"Filipe Luis","Óliver Torres",4
+"Filipe Luis","Toby Alderweireld",4
+"Filipe Luis","Diego Costa",27
+"Filipe Luis","Josuha Guilavogui",5
+"Mario Suárez","Thibaut Courtois",3
+"Mario Suárez","Diego Godín",7
+"Mario Suárez","Filipe Luis",5
+"Mario Suárez","Koke",49
+"Mario Suárez","Adrián López",9
+"Mario Suárez","David Villa",2
+"Mario Suárez","Arda Turan",11
+"Mario Suárez","Gabi",33
+"Mario Suárez","Juanfran",24
+"Mario Suárez","Miranda",10
+"Mario Suárez","Raúl García",8
+"Mario Suárez","Cristian Rodríguez",4
+"Mario Suárez","Diego Costa",13
+"Mario Suárez","Emiliano Insua",4
+"Mario Suárez","Filipe Luís",22
+"Mario Suárez","José Sosa",3
+"Mario Suárez","Diego",15
+"Mario Suárez","Tiago",9
+"Koke","Thibaut Courtois",1
+"Koke","Diego Godín",17
+"Koke","Filipe Luis",35
+"Koke","Mario Suárez",35
+"Koke","Adrián López",40
+"Koke","David Villa",27
+"Koke","Arda Turan",58
+"Koke","Gabi",67
+"Koke","Juanfran",22
+"Koke","Miranda",16
+"Koke","Raúl García",28
+"Koke","Cristian Rodríguez",9
+"Koke","Léo Baptistão",1
+"Koke","Tiago",36
+"Koke","Óliver Torres",7
+"Koke","Toby Alderweireld",4
+"Koke","Diego Costa",39
+"Koke","Josuha Guilavogui",2
+"Koke","Emiliano Insua",13
+"Koke","Javi Manquillo",1
+"Koke","Filipe Luís",60
+"Koke","José Sosa",9
+"Koke","Diego",22
+"Adrián López","Diego Godín",2
+"Adrián López","Filipe Luis",9
+"Adrián López","Mario Suárez",2
+"Adrián López","Koke",46
+"Adrián López","David Villa",11
+"Adrián López","Arda Turan",9
+"Adrián López","Gabi",16
+"Adrián López","Juanfran",21
+"Adrián López","Miranda",2
+"Adrián López","Raúl García",8
+"Adrián López","Cristian Rodríguez",2
+"Adrián López","Tiago",7
+"Adrián López","Toby Alderweireld",2
+"Adrián López","Diego Costa",11
+"Adrián López","Josuha Guilavogui",4
+"Adrián López","Óliver Torres",4
+"Adrián López","Emiliano Insua",7
+"Adrián López","Filipe Luís",7
+"Adrián López","José Sosa",2
+"David Villa","Diego Godín",2
+"David Villa","Filipe Luis",5
+"David Villa","Koke",21
+"David Villa","Adrián López",13
+"David Villa","Arda Turan",6
+"David Villa","Gabi",7
+"David Villa","Juanfran",3
+"David Villa","Raúl García",3
+"David Villa","Cristian Rodríguez",1
+"David Villa","Tiago",2
+"David Villa","Javi Manquillo",2
+"David Villa","Diego Costa",4
+"David Villa","Filipe Luís",5
+"David Villa","José Sosa",1
+"David Villa","Diego",5
+"Arda Turan","Thibaut Courtois",1
+"Arda Turan","Diego Godín",5
+"Arda Turan","Filipe Luis",12
+"Arda Turan","Mario Suárez",13
+"Arda Turan","Koke",57
+"Arda Turan","Adrián López",13
+"Arda Turan","David Villa",7
+"Arda Turan","Gabi",57
+"Arda Turan","Juanfran",42
+"Arda Turan","Miranda",3
+"Arda Turan","Raúl García",16
+"Arda Turan","Cristian Rodríguez",1
+"Arda Turan","Léo Baptistão",3
+"Arda Turan","Tiago",14
+"Arda Turan","Óliver Torres",2
+"Arda Turan","Toby Alderweireld",1
+"Arda Turan","Diego Costa",10
+"Arda Turan","Emiliano Insúa",1
+"Arda Turan","Javi Manquillo",2
+"Arda Turan","Emiliano Insua",6
+"Arda Turan","Filipe Luís",22
+"Arda Turan","José Sosa",3
+"Arda Turan","Diego",1
+"Gabi","Thibaut Courtois",2
+"Gabi","Diego Godín",22
+"Gabi","Filipe Luis",23
+"Gabi","Mario Suárez",23
+"Gabi","Koke",80
+"Gabi","Adrián López",39
+"Gabi","David Villa",16
+"Gabi","Arda Turan",43
+"Gabi","Juanfran",130
+"Gabi","Miranda",41
+"Gabi","Raúl García",56
+"Gabi","Cristian Rodríguez",16
+"Gabi","Léo Baptistão",8
+"Gabi","Tiago",34
+"Gabi","Óliver Torres",8
+"Gabi","Toby Alderweireld",2
+"Gabi","Diego Costa",30
+"Gabi","Emiliano Insúa",3
+"Gabi","Josuha Guilavogui",9
+"Gabi","Emiliano Insua",5
+"Gabi","Javi Manquillo",3
+"Gabi","Filipe Luís",18
+"Gabi","José Sosa",13
+"Gabi","Diego",15
+"Juanfran","Thibaut Courtois",8
+"Juanfran","Diego Godín",5
+"Juanfran","Filipe Luis",2
+"Juanfran","Mario Suárez",23
+"Juanfran","Koke",34
+"Juanfran","Adrián López",24
+"Juanfran","David Villa",10
+"Juanfran","Arda Turan",57
+"Juanfran","Gabi",135
+"Juanfran","Miranda",35
+"Juanfran","Raúl García",43
+"Juanfran","Cristian Rodríguez",11
+"Juanfran","Léo Baptistão",3
+"Juanfran","Tiago",25
+"Juanfran","Óliver Torres",8
+"Juanfran","Toby Alderweireld",2
+"Juanfran","Diego Costa",26
+"Juanfran","Emiliano Insúa",2
+"Juanfran","Josuha Guilavogui",8
+"Juanfran","José Sosa",10
+"Juanfran","Diego",6
+"Miranda","Thibaut Courtois",14
+"Miranda","Diego Godín",31
+"Miranda","Filipe Luis",8
+"Miranda","Mario Suárez",15
+"Miranda","Koke",17
+"Miranda","Adrián López",9
+"Miranda","David Villa",3
+"Miranda","Arda Turan",7
+"Miranda","Gabi",55
+"Miranda","Juanfran",31
+"Miranda","Raúl García",21
+"Miranda","Cristian Rodríguez",7
+"Miranda","Léo Baptistão",3
+"Miranda","Tiago",19
+"Miranda","Óliver Torres",1
+"Miranda","Toby Alderweireld",6
+"Miranda","Diego Costa",8
+"Miranda","Emiliano Insúa",1
+"Miranda","Josuha Guilavogui",3
+"Miranda","Emiliano Insua",1
+"Miranda","Daniel Aranzubia",3
+"Miranda","Javi Manquillo",2
+"Miranda","Filipe Luís",9
+"Miranda","José Sosa",1
+"Miranda","Diego",4
+"Raúl García","Diego Godín",2
+"Raúl García","Filipe Luis",9
+"Raúl García","Mario Suárez",2
+"Raúl García","Koke",21
+"Raúl García","Adrián López",11
+"Raúl García","David Villa",11
+"Raúl García","Arda Turan",25
+"Raúl García","Gabi",37
+"Raúl García","Juanfran",23
+"Raúl García","Miranda",4
+"Raúl García","Cristian Rodríguez",6
+"Raúl García","Léo Baptistão",5
+"Raúl García","Tiago",4
+"Raúl García","Óliver Torres",3
+"Raúl García","Toby Alderweireld",1
+"Raúl García","Diego Costa",23
+"Raúl García","Emiliano Insúa",1
+"Raúl García","Josuha Guilavogui",1
+"Raúl García","Emiliano Insua",3
+"Raúl García","Javi Manquillo",3
+"Raúl García","Filipe Luís",2
+"Raúl García","José Sosa",1
+"Raúl García","Diego",8
+"Cristian Rodríguez","Diego Godín",1
+"Cristian Rodríguez","Filipe Luis",3
+"Cristian Rodríguez","Mario Suárez",1
+"Cristian Rodríguez","Koke",9
+"Cristian Rodríguez","Adrián López",3
+"Cristian Rodríguez","Arda Turan",3
+"Cristian Rodríguez","Gabi",8
+"Cristian Rodríguez","Juanfran",4
+"Cristian Rodríguez","Miranda",2
+"Cristian Rodríguez","Raúl García",8
+"Cristian Rodríguez","Léo Baptistão",2
+"Cristian Rodríguez","Tiago",2
+"Cristian Rodríguez","Óliver Torres",5
+"Cristian Rodríguez","Diego Costa",4
+"Cristian Rodríguez","Emiliano Insúa",4
+"Cristian Rodríguez","Josuha Guilavogui",4
+"Cristian Rodríguez","Emiliano Insua",4
+"Cristian Rodríguez","Filipe Luís",5
+"Cristian Rodríguez","José Sosa",1
+"Cristian Rodríguez","Diego",2
+"Léo Baptistão","Filipe Luis",2
+"Léo Baptistão","Mario Suárez",1
+"Léo Baptistão","David Villa",1
+"Léo Baptistão","Arda Turan",4
+"Léo Baptistão","Gabi",3
+"Léo Baptistão","Raúl García",2
+"Léo Baptistão","Tiago",3
+"Tiago","Thibaut Courtois",2
+"Tiago","Diego Godín",12
+"Tiago","Filipe Luis",26
+"Tiago","Raúl García",12
+"Tiago","David Villa",11
+"Tiago","Arda Turan",20
+"Tiago","Gabi",46
+"Tiago","Juanfran",18
+"Tiago","Léo Baptistão",1
+"Tiago","Miranda",19
+"Tiago","Koke",35
+"Tiago","Cristian Rodríguez",4
+"Tiago","Óliver Torres",3
+"Tiago","Toby Alderweireld",6
+"Tiago","Diego Costa",6
+"Tiago","Adrián López",14
+"Tiago","Emiliano Insúa",3
+"Tiago","Filipe Luís",28
+"Tiago","José Sosa",5
+"Tiago","Diego",6
+"Tiago","Mario Suárez",10
+"Óliver Torres","Diego Godín",1
+"Óliver Torres","Filipe Luis",6
+"Óliver Torres","Tiago",2
+"Óliver Torres","Raúl García",8
+"Óliver Torres","Arda Turan",2
+"Óliver Torres","Gabi",5
+"Óliver Torres","Juanfran",3
+"Óliver Torres","Miranda",3
+"Óliver Torres","Koke",4
+"Óliver Torres","Cristian Rodríguez",3
+"Óliver Torres","Adrián López",2
+"Óliver Torres","Diego Costa",5
+"Óliver Torres","Josuha Guilavogui",3
+"Óliver Torres","Toby Alderweireld",1
+"Óliver Torres","Emiliano Insua",3
+"Óliver Torres","Javi Manquillo",2
+"Toby Alderweireld","Thibaut Courtois",2
+"Toby Alderweireld","Filipe Luis",1
+"Toby Alderweireld","Tiago",11
+"Toby Alderweireld","Koke",5
+"Toby Alderweireld","Raúl García",11
+"Toby Alderweireld","Arda Turan",1
+"Toby Alderweireld","Gabi",6
+"Toby Alderweireld","Diego Costa",1
+"Toby Alderweireld","Juanfran",1
+"Toby Alderweireld","Miranda",4
+"Toby Alderweireld","Adrián López",5
+"Toby Alderweireld","Cristian Rodríguez",1
+"Toby Alderweireld","Josuha Guilavogui",1
+"Toby Alderweireld","Emiliano Insua",2
+"Toby Alderweireld","Óliver Torres",2
+"Toby Alderweireld","Daniel Aranzubia",2
+"Toby Alderweireld","Javi Manquillo",1
+"Toby Alderweireld","David Villa",1
+"Diego Costa","Filipe Luis",13
+"Diego Costa","Tiago",2
+"Diego Costa","Koke",25
+"Diego Costa","Raúl García",16
+"Diego Costa","Arda Turan",9
+"Diego Costa","Toby Alderweireld",1
+"Diego Costa","Gabi",19
+"Diego Costa","Juanfran",10
+"Diego Costa","Miranda",2
+"Diego Costa","Adrián López",5
+"Diego Costa","Cristian Rodríguez",4
+"Diego Costa","Diego Godín",1
+"Diego Costa","Josuha Guilavogui",1
+"Diego Costa","Óliver Torres",7
+"Diego Costa","Javi Manquillo",1
+"Diego Costa","Emiliano Insua",3
+"Diego Costa","Mario Suárez",8
+"Diego Costa","Filipe Luís",10
+"Diego Costa","José Sosa",2
+"Diego Costa","Diego",3
+"Emiliano Insúa","Tiago",5
+"Emiliano Insúa","Koke",2
+"Emiliano Insúa","Raúl García",2
+"Emiliano Insúa","Arda Turan",1
+"Emiliano Insúa","Toby Alderweireld",1
+"Emiliano Insúa","Gabi",1
+"Emiliano Insúa","Diego Costa",1
+"Emiliano Insúa","Juanfran",1
+"Emiliano Insúa","Cristian Rodríguez",3
+"Josuha Guilavogui","Filipe Luis",7
+"Josuha Guilavogui","Koke",7
+"Josuha Guilavogui","Adrián López",2
+"Josuha Guilavogui","Raúl García",3
+"Josuha Guilavogui","Gabi",11
+"Josuha Guilavogui","Diego Costa",4
+"Josuha Guilavogui","Juanfran",8
+"Josuha Guilavogui","Miranda",3
+"Josuha Guilavogui","Cristian Rodríguez",6
+"Josuha Guilavogui","Óliver Torres",6
+"Josuha Guilavogui","Toby Alderweireld",1
+"Josuha Guilavogui","Emiliano Insua",6
+"Emiliano Insua","Koke",20
+"Emiliano Insua","Adrián López",11
+"Emiliano Insua","Raúl García",6
+"Emiliano Insua","Cristian Rodríguez",6
+"Emiliano Insua","Toby Alderweireld",5
+"Emiliano Insua","Gabi",8
+"Emiliano Insua","Josuha Guilavogui",2
+"Emiliano Insua","Óliver Torres",10
+"Emiliano Insua","Diego Costa",4
+"Emiliano Insua","David Villa",1
+"Emiliano Insua","Arda Turan",10
+"Emiliano Insua","Diego Godín",7
+"Emiliano Insua","Mario Suárez",4
+"Daniel Aranzubia","Adrián López",2
+"Daniel Aranzubia","Raúl García",3
+"Daniel Aranzubia","Toby Alderweireld",2
+"Daniel Aranzubia","Gabi",2
+"Daniel Aranzubia","Óliver Torres",1
+"Daniel Aranzubia","Diego Costa",2
+"Daniel Aranzubia","Emiliano Insua",2
+"Daniel Aranzubia","David Villa",1
+"Javi Manquillo","Daniel Aranzubia",2
+"Javi Manquillo","Raúl García",2
+"Javi Manquillo","Gabi",1
+"Javi Manquillo","Óliver Torres",4
+"Javi Manquillo","Diego Costa",2
+"Javi Manquillo","Emiliano Insua",1
+"Javi Manquillo","Arda Turan",3
+"Filipe Luís","Thibaut Courtois",4
+"Filipe Luís","Diego Godín",13
+"Filipe Luís","Mario Suárez",26
+"Filipe Luís","Koke",69
+"Filipe Luís","Raúl García",9
+"Filipe Luís","Arda Turan",28
+"Filipe Luís","Gabi",19
+"Filipe Luís","Diego Costa",24
+"Filipe Luís","Juanfran",2
+"Filipe Luís","Miranda",4
+"Filipe Luís","Cristian Rodríguez",4
+"Filipe Luís","José Sosa",3
+"Filipe Luís","Diego",19
+"Filipe Luís","Tiago",16
+"Filipe Luís","David Villa",11
+"Filipe Luís","Adrián López",18
+"José Sosa","Thibaut Courtois",1
+"José Sosa","Diego Godín",3
+"José Sosa","Filipe Luís",2
+"José Sosa","Mario Suárez",4
+"José Sosa","Koke",6
+"José Sosa","Raúl García",2
+"José Sosa","Arda Turan",2
+"José Sosa","Gabi",8
+"José Sosa","Diego Costa",6
+"José Sosa","Juanfran",6
+"José Sosa","Miranda",1
+"José Sosa","Diego",4
+"José Sosa","Tiago",1
+"José Sosa","David Villa",4
+"José Sosa","Adrián López",1
+"Diego","Diego Godín",1
+"Diego","Filipe Luís",13
+"Diego","Mario Suárez",9
+"Diego","Koke",17
+"Diego","Raúl García",9
+"Diego","Arda Turan",2
+"Diego","Gabi",17
+"Diego","Diego Costa",5
+"Diego","Juanfran",8
+"Diego","Miranda",1
+"Diego","Cristian Rodríguez",3
+"Diego","José Sosa",4
+"Diego","Tiago",5
+"Diego","David Villa",2

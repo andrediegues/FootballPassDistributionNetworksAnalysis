@@ -1,0 +1,241 @@
+"Rui Patrício","Maurício",14
+"Rui Patrício","Jefferson",5
+"Rui Patrício","Islam Slimani",5
+"Rui Patrício","William Carvalho",6
+"Rui Patrício","André Carrillo",2
+"Rui Patrício","Adrien Silva",6
+"Rui Patrício","Naby Sarr",7
+"Rui Patrício","Cédric",12
+"Rui Patrício","Nani",5
+"Rui Patrício","João Mário",2
+"Rui Patrício","Carlos Mané",1
+"Rui Patrício","Jonathan Silva",3
+"Rui Patrício","Diego Capel",1
+"Rui Patrício","Paulo Oliveira",6
+"Maurício","Rui Patrício",9
+"Maurício","Jefferson",18
+"Maurício","André Martins",2
+"Maurício","Islam Slimani",2
+"Maurício","William Carvalho",17
+"Maurício","André Carrillo",1
+"Maurício","Adrien Silva",10
+"Maurício","Naby Sarr",7
+"Maurício","Cédric",17
+"Maurício","Nani",1
+"Maurício","Fredy Montero",1
+"Maurício","João Mário",5
+"Maurício","Carlos Mané",3
+"Maurício","Jonathan Silva",13
+"Maurício","Diego Capel",2
+"Maurício","Paulo Oliveira",12
+"Maurício","Ricardo Esgaio",1
+"Jefferson","Rui Patrício",2
+"Jefferson","Maurício",8
+"Jefferson","Islam Slimani",4
+"Jefferson","William Carvalho",10
+"Jefferson","André Carrillo",5
+"Jefferson","Adrien Silva",13
+"Jefferson","Naby Sarr",6
+"Jefferson","Nani",32
+"Jefferson","João Mário",6
+"Jefferson","Carlos Mané",6
+"Jefferson","Paulo Oliveira",2
+"André Martins","Maurício",1
+"André Martins","Islam Slimani",3
+"André Martins","William Carvalho",1
+"André Martins","André Carrillo",8
+"André Martins","Adrien Silva",8
+"André Martins","Nani",2
+"André Martins","Fredy Montero",4
+"André Martins","Carlos Mané",3
+"André Martins","Paulo Oliveira",3
+"André Martins","Jonathan Silva",1
+"André Martins","Ricardo Esgaio",2
+"Islam Slimani","Maurício",1
+"Islam Slimani","Jefferson",4
+"Islam Slimani","André Martins",2
+"Islam Slimani","William Carvalho",14
+"Islam Slimani","André Carrillo",9
+"Islam Slimani","Adrien Silva",13
+"Islam Slimani","Cédric",7
+"Islam Slimani","Nani",13
+"Islam Slimani","João Mário",17
+"Islam Slimani","Carlos Mané",3
+"Islam Slimani","Jonathan Silva",2
+"Islam Slimani","Diego Capel",1
+"Islam Slimani","Paulo Oliveira",1
+"Islam Slimani","Oriol Rosell",1
+"Islam Slimani","Ricardo Esgaio",2
+"William Carvalho","Rui Patrício",5
+"William Carvalho","Maurício",14
+"William Carvalho","Jefferson",23
+"William Carvalho","André Martins",5
+"William Carvalho","Islam Slimani",17
+"William Carvalho","André Carrillo",28
+"William Carvalho","Adrien Silva",46
+"William Carvalho","Naby Sarr",27
+"William Carvalho","Cédric",42
+"William Carvalho","Nani",21
+"William Carvalho","Fredy Montero",2
+"William Carvalho","João Mário",31
+"William Carvalho","Carlos Mané",8
+"William Carvalho","Jonathan Silva",7
+"William Carvalho","Diego Capel",1
+"William Carvalho","Paulo Oliveira",16
+"William Carvalho","Ricardo Esgaio",7
+"André Carrillo","Rui Patrício",2
+"André Carrillo","Maurício",4
+"André Carrillo","Jefferson",2
+"André Carrillo","André Martins",5
+"André Carrillo","Islam Slimani",10
+"André Carrillo","William Carvalho",22
+"André Carrillo","Adrien Silva",15
+"André Carrillo","Naby Sarr",1
+"André Carrillo","Cédric",31
+"André Carrillo","Nani",5
+"André Carrillo","Fredy Montero",13
+"André Carrillo","João Mário",12
+"André Carrillo","Carlos Mané",1
+"André Carrillo","Jonathan Silva",5
+"André Carrillo","Diego Capel",3
+"André Carrillo","Paulo Oliveira",3
+"André Carrillo","Ricardo Esgaio",8
+"Adrien Silva","Maurício",5
+"Adrien Silva","Jefferson",14
+"Adrien Silva","André Martins",2
+"Adrien Silva","Islam Slimani",18
+"Adrien Silva","William Carvalho",44
+"Adrien Silva","André Carrillo",27
+"Adrien Silva","Naby Sarr",11
+"Adrien Silva","Cédric",13
+"Adrien Silva","Nani",31
+"Adrien Silva","Fredy Montero",4
+"Adrien Silva","João Mário",24
+"Adrien Silva","Carlos Mané",9
+"Adrien Silva","Jonathan Silva",13
+"Adrien Silva","Paulo Oliveira",11
+"Adrien Silva","Ricardo Esgaio",8
+"Naby Sarr","Rui Patrício",10
+"Naby Sarr","Maurício",7
+"Naby Sarr","Jefferson",21
+"Naby Sarr","André Martins",1
+"Naby Sarr","Islam Slimani",4
+"Naby Sarr","William Carvalho",11
+"Naby Sarr","André Carrillo",3
+"Naby Sarr","Adrien Silva",8
+"Naby Sarr","Cédric",3
+"Naby Sarr","Nani",9
+"Naby Sarr","Fredy Montero",1
+"Naby Sarr","João Mário",2
+"Naby Sarr","Carlos Mané",1
+"Naby Sarr","Jonathan Silva",9
+"Naby Sarr","Paulo Oliveira",10
+"Cédric","Rui Patrício",9
+"Cédric","Maurício",10
+"Cédric","Jefferson",2
+"Cédric","André Martins",2
+"Cédric","Islam Slimani",5
+"Cédric","William Carvalho",26
+"Cédric","André Carrillo",32
+"Cédric","Adrien Silva",15
+"Cédric","Naby Sarr",3
+"Cédric","Nani",24
+"Cédric","João Mário",16
+"Cédric","Carlos Mané",14
+"Cédric","Paulo Oliveira",22
+"Nani","Maurício",3
+"Nani","Jefferson",13
+"Nani","Islam Slimani",10
+"Nani","William Carvalho",21
+"Nani","André Carrillo",5
+"Nani","Adrien Silva",36
+"Nani","Naby Sarr",3
+"Nani","Cédric",11
+"Nani","Fredy Montero",6
+"Nani","João Mário",20
+"Nani","Carlos Mané",9
+"Nani","Jonathan Silva",6
+"Nani","Paulo Oliveira",1
+"Fredy Montero","Islam Slimani",1
+"Fredy Montero","William Carvalho",4
+"Fredy Montero","André Carrillo",6
+"Fredy Montero","Adrien Silva",2
+"Fredy Montero","Cédric",3
+"Fredy Montero","Nani",4
+"Fredy Montero","João Mário",3
+"Fredy Montero","Carlos Mané",1
+"Fredy Montero","Jonathan Silva",3
+"João Mário","Rui Patrício",2
+"João Mário","Maurício",7
+"João Mário","Jefferson",9
+"João Mário","Islam Slimani",13
+"João Mário","William Carvalho",26
+"João Mário","André Carrillo",21
+"João Mário","Adrien Silva",22
+"João Mário","Naby Sarr",4
+"João Mário","Cédric",35
+"João Mário","Nani",25
+"João Mário","Fredy Montero",2
+"João Mário","Carlos Mané",8
+"João Mário","Jonathan Silva",10
+"João Mário","Diego Capel",2
+"João Mário","Paulo Oliveira",6
+"João Mário","Ricardo Esgaio",4
+"Carlos Mané","Rui Patrício",1
+"Carlos Mané","Maurício",2
+"Carlos Mané","Jefferson",5
+"Carlos Mané","André Martins",2
+"Carlos Mané","Islam Slimani",3
+"Carlos Mané","William Carvalho",8
+"Carlos Mané","André Carrillo",1
+"Carlos Mané","Adrien Silva",3
+"Carlos Mané","Naby Sarr",1
+"Carlos Mané","Cédric",9
+"Carlos Mané","Nani",2
+"Carlos Mané","João Mário",12
+"Carlos Mané","Paulo Oliveira",2
+"Carlos Mané","Jonathan Silva",3
+"Jonathan Silva","Rui Patrício",1
+"Jonathan Silva","Maurício",4
+"Jonathan Silva","Islam Slimani",1
+"Jonathan Silva","William Carvalho",6
+"Jonathan Silva","João Mário",9
+"Jonathan Silva","André Carrillo",10
+"Jonathan Silva","Adrien Silva",13
+"Jonathan Silva","Naby Sarr",3
+"Jonathan Silva","Nani",9
+"Jonathan Silva","Fredy Montero",3
+"Jonathan Silva","Diego Capel",9
+"Jonathan Silva","Paulo Oliveira",1
+"Jonathan Silva","Carlos Mané",1
+"Diego Capel","Islam Slimani",3
+"Diego Capel","João Mário",1
+"Diego Capel","André Carrillo",1
+"Diego Capel","Adrien Silva",3
+"Diego Capel","Jonathan Silva",9
+"Paulo Oliveira","Rui Patrício",4
+"Paulo Oliveira","Maurício",19
+"Paulo Oliveira","Islam Slimani",6
+"Paulo Oliveira","William Carvalho",18
+"Paulo Oliveira","João Mário",5
+"Paulo Oliveira","André Carrillo",3
+"Paulo Oliveira","Adrien Silva",6
+"Paulo Oliveira","Naby Sarr",12
+"Paulo Oliveira","Jonathan Silva",1
+"Paulo Oliveira","Cédric",28
+"Paulo Oliveira","Nani",2
+"Paulo Oliveira","Fredy Montero",1
+"Paulo Oliveira","Jefferson",2
+"Paulo Oliveira","Carlos Mané",2
+"Paulo Oliveira","André Martins",5
+"Paulo Oliveira","Ricardo Esgaio",4
+"Oriol Rosell","Islam Slimani",1
+"Oriol Rosell","Naby Sarr",1
+"Ricardo Esgaio","Maurício",3
+"Ricardo Esgaio","Islam Slimani",2
+"Ricardo Esgaio","William Carvalho",2
+"Ricardo Esgaio","João Mário",4
+"Ricardo Esgaio","André Carrillo",13
+"Ricardo Esgaio","Adrien Silva",5
+"Ricardo Esgaio","Paulo Oliveira",1
+"Ricardo Esgaio","André Martins",2

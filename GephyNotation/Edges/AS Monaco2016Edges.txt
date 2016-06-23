@@ -1,0 +1,174 @@
+"Danijel Subašić","Fabinho",1
+"Danijel Subašić","Ricardo Carvalho",4
+"Danijel Subašić","Anthony Martial",3
+"Danijel Subašić","Bernardo Silva",2
+"Danijel Subašić","Wallace",5
+"Danijel Subašić","Ivan Cavaleiro",2
+"Danijel Subašić","Mario Pašalić",2
+"Danijel Subašić","Elderson",1
+"Danijel Subašić","Andrea Raggi",5
+"Danijel Subašić","Jérémy Toulalan",4
+"Danijel Subašić","Nabil Dirar",1
+"Danijel Subašić","Thomas Lemar",1
+"Fabinho","Danijel Subašić",2
+"Fabinho","Ricardo Carvalho",7
+"Fabinho","Anthony Martial",8
+"Fabinho","Bernardo Silva",17
+"Fabinho","Wallace",2
+"Fabinho","Ivan Cavaleiro",2
+"Fabinho","Mario Pašalić",3
+"Fabinho","Elderson",1
+"Fabinho","Andrea Raggi",6
+"Fabinho","Jérémy Toulalan",13
+"Fabinho","Nabil Dirar",18
+"Fabinho","Fares Bahlouli",3
+"Fabinho","Guido Carrillo",1
+"Fabinho","Thomas Lemar",4
+"Ricardo Carvalho","Danijel Subašić",6
+"Ricardo Carvalho","Fabinho",4
+"Ricardo Carvalho","Anthony Martial",1
+"Ricardo Carvalho","Bernardo Silva",5
+"Ricardo Carvalho","Wallace",4
+"Ricardo Carvalho","Ivan Cavaleiro",5
+"Ricardo Carvalho","Mario Pašalić",3
+"Ricardo Carvalho","Elderson",7
+"Ricardo Carvalho","Andrea Raggi",11
+"Ricardo Carvalho","Jérémy Toulalan",13
+"Ricardo Carvalho","Nabil Dirar",1
+"Ricardo Carvalho","Layvin Kurzawa",3
+"Ricardo Carvalho","Guido Carrillo",2
+"Ricardo Carvalho","Thomas Lemar",2
+"Anthony Martial","Fabinho",4
+"Anthony Martial","Bernardo Silva",9
+"Anthony Martial","Ivan Cavaleiro",4
+"Anthony Martial","Mario Pašalić",3
+"Anthony Martial","Elderson",2
+"Anthony Martial","Jérémy Toulalan",3
+"Anthony Martial","Nabil Dirar",3
+"Anthony Martial","Fares Bahlouli",1
+"Anthony Martial","Stephan El Shaarawy",3
+"Anthony Martial","Layvin Kurzawa",1
+"Anthony Martial","Guido Carrillo",1
+"Anthony Martial","Thomas Lemar",4
+"Bernardo Silva","Fabinho",20
+"Bernardo Silva","Ricardo Carvalho",7
+"Bernardo Silva","Anthony Martial",7
+"Bernardo Silva","Wallace",2
+"Bernardo Silva","Ivan Cavaleiro",8
+"Bernardo Silva","Mario Pašalić",16
+"Bernardo Silva","Elderson",4
+"Bernardo Silva","Andrea Raggi",8
+"Bernardo Silva","Jérémy Toulalan",11
+"Bernardo Silva","Nabil Dirar",9
+"Bernardo Silva","Thomas Lemar",5
+"Wallace","Fabinho",6
+"Wallace","Ricardo Carvalho",4
+"Wallace","Anthony Martial",1
+"Wallace","Bernardo Silva",1
+"Wallace","Mario Pašalić",1
+"Wallace","Andrea Raggi",3
+"Wallace","Jérémy Toulalan",3
+"Ivan Cavaleiro","Fabinho",1
+"Ivan Cavaleiro","Ricardo Carvalho",1
+"Ivan Cavaleiro","Anthony Martial",2
+"Ivan Cavaleiro","Bernardo Silva",4
+"Ivan Cavaleiro","Mario Pašalić",4
+"Ivan Cavaleiro","Elderson",4
+"Ivan Cavaleiro","Jérémy Toulalan",1
+"Ivan Cavaleiro","Nabil Dirar",1
+"Ivan Cavaleiro","Layvin Kurzawa",3
+"Mario Pašalić","Danijel Subašić",1
+"Mario Pašalić","Fabinho",4
+"Mario Pašalić","Ricardo Carvalho",2
+"Mario Pašalić","Anthony Martial",5
+"Mario Pašalić","Bernardo Silva",11
+"Mario Pašalić","Wallace",1
+"Mario Pašalić","Ivan Cavaleiro",2
+"Mario Pašalić","Elderson",2
+"Mario Pašalić","Andrea Raggi",10
+"Mario Pašalić","Jérémy Toulalan",9
+"Mario Pašalić","Nabil Dirar",1
+"Mario Pašalić","Layvin Kurzawa",2
+"Elderson","Danijel Subašić",1
+"Elderson","Fabinho",1
+"Elderson","Ricardo Carvalho",4
+"Elderson","Anthony Martial",10
+"Elderson","Bernardo Silva",3
+"Elderson","Ivan Cavaleiro",1
+"Elderson","Mario Pašalić",1
+"Elderson","Andrea Raggi",1
+"Elderson","Jérémy Toulalan",7
+"Elderson","Nabil Dirar",2
+"Elderson","Stephan El Shaarawy",2
+"Elderson","Thomas Lemar",4
+"Andrea Raggi","Danijel Subašić",3
+"Andrea Raggi","Fabinho",10
+"Andrea Raggi","Ricardo Carvalho",4
+"Andrea Raggi","Anthony Martial",1
+"Andrea Raggi","Bernardo Silva",19
+"Andrea Raggi","Wallace",2
+"Andrea Raggi","Mario Pašalić",4
+"Andrea Raggi","Elderson",1
+"Andrea Raggi","Jérémy Toulalan",7
+"Andrea Raggi","Nabil Dirar",8
+"Andrea Raggi","Fares Bahlouli",1
+"Andrea Raggi","Guido Carrillo",3
+"Andrea Raggi","Thomas Lemar",2
+"Jérémy Toulalan","Danijel Subašić",2
+"Jérémy Toulalan","Fabinho",21
+"Jérémy Toulalan","Ricardo Carvalho",13
+"Jérémy Toulalan","Anthony Martial",5
+"Jérémy Toulalan","Bernardo Silva",10
+"Jérémy Toulalan","Wallace",1
+"Jérémy Toulalan","Ivan Cavaleiro",4
+"Jérémy Toulalan","Mario Pašalić",11
+"Jérémy Toulalan","Elderson",6
+"Jérémy Toulalan","Andrea Raggi",6
+"Jérémy Toulalan","Nabil Dirar",8
+"Jérémy Toulalan","Fares Bahlouli",2
+"Jérémy Toulalan","Layvin Kurzawa",2
+"Jérémy Toulalan","Thomas Lemar",6
+"Nabil Dirar","Fabinho",10
+"Nabil Dirar","Ricardo Carvalho",1
+"Nabil Dirar","Anthony Martial",6
+"Nabil Dirar","Bernardo Silva",4
+"Nabil Dirar","Ivan Cavaleiro",1
+"Nabil Dirar","Mario Pašalić",2
+"Nabil Dirar","Andrea Raggi",2
+"Nabil Dirar","Jérémy Toulalan",6
+"Nabil Dirar","Fares Bahlouli",2
+"Nabil Dirar","Guido Carrillo",3
+"Nabil Dirar","Thomas Lemar",3
+"Fares Bahlouli","Fabinho",1
+"Fares Bahlouli","Anthony Martial",1
+"Fares Bahlouli","Elderson",1
+"Fares Bahlouli","Andrea Raggi",4
+"Fares Bahlouli","Nabil Dirar",1
+"Fares Bahlouli","Stephan El Shaarawy",1
+"Stephan El Shaarawy","Anthony Martial",2
+"Stephan El Shaarawy","Elderson",1
+"Stephan El Shaarawy","Fares Bahlouli",2
+"Layvin Kurzawa","Danijel Subašić",1
+"Layvin Kurzawa","Fabinho",1
+"Layvin Kurzawa","Ricardo Carvalho",2
+"Layvin Kurzawa","Anthony Martial",1
+"Layvin Kurzawa","Ivan Cavaleiro",4
+"Layvin Kurzawa","Mario Pašalić",1
+"Layvin Kurzawa","Andrea Raggi",1
+"Layvin Kurzawa","Jérémy Toulalan",3
+"Guido Carrillo","Fabinho",1
+"Guido Carrillo","Nabil Dirar",2
+"Guido Carrillo","Anthony Martial",1
+"Guido Carrillo","Bernardo Silva",1
+"Guido Carrillo","Elderson",1
+"Guido Carrillo","Thomas Lemar",1
+"Thomas Lemar","Fabinho",1
+"Thomas Lemar","Ricardo Carvalho",2
+"Thomas Lemar","Nabil Dirar",3
+"Thomas Lemar","Anthony Martial",5
+"Thomas Lemar","Bernardo Silva",5
+"Thomas Lemar","Ivan Cavaleiro",1
+"Thomas Lemar","Andrea Raggi",1
+"Thomas Lemar","Jérémy Toulalan",3
+"Thomas Lemar","Guido Carrillo",1
+"Thomas Lemar","Elderson",7

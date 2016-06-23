@@ -1,0 +1,279 @@
+"Olexandr Rybka","Danilo Silva",3
+"Olexandr Rybka","Aleksandar Dragovic",8
+"Olexandr Rybka","Denys Garmash",2
+"Olexandr Rybka","Derlis González",1
+"Olexandr Rybka","Yevhen Khacheridi",6
+"Danilo Silva","Olexandr Rybka",2
+"Danilo Silva","Miguel Veloso",7
+"Danilo Silva","Aleksandar Dragovic",5
+"Danilo Silva","Júnior Moraes",5
+"Danilo Silva","Serhiy Rybalka",6
+"Danilo Silva","Denys Garmash",10
+"Danilo Silva","Derlis González",5
+"Danilo Silva","Yevhen Khacheridi",26
+"Danilo Silva","Artem Kravets",1
+"Danilo Silva","Vitaliy Buyalskiy",1
+"Danilo Silva","Younes Belhanda",4
+"Danilo Silva","Olexandr Shovkovskiy",7
+"Danilo Silva","Andriy Yarmolenko",24
+"Danilo Silva","Serhiy Sydorchuk",5
+"Danilo Silva","Domagoj Vida",2
+"Danilo Silva","Łukasz Teodorczyk",1
+"Miguel Veloso","Danilo Silva",5
+"Miguel Veloso","Antunes",15
+"Miguel Veloso","Aleksandar Dragovic",22
+"Miguel Veloso","Júnior Moraes",3
+"Miguel Veloso","Serhiy Rybalka",9
+"Miguel Veloso","Denys Garmash",11
+"Miguel Veloso","Oleh Gusev",5
+"Miguel Veloso","Derlis González",5
+"Miguel Veloso","Yevhen Khacheridi",18
+"Miguel Veloso","Vitaliy Buyalskiy",12
+"Miguel Veloso","Younes Belhanda",1
+"Miguel Veloso","Andriy Yarmolenko",8
+"Miguel Veloso","Domagoj Vida",22
+"Miguel Veloso","Yevhen Makarenko",2
+"Miguel Veloso","Olexandr Yakovenko",1
+"Miguel Veloso","Serhiy Sydorchuk",3
+"Antunes","Olexandr Rybka",4
+"Antunes","Miguel Veloso",8
+"Antunes","Aleksandar Dragovic",20
+"Antunes","Júnior Moraes",1
+"Antunes","Serhiy Rybalka",2
+"Antunes","Denys Garmash",10
+"Antunes","Oleh Gusev",13
+"Antunes","Derlis González",9
+"Antunes","Yevhen Khacheridi",5
+"Antunes","Artem Kravets",2
+"Antunes","Vitaliy Buyalskiy",9
+"Antunes","Younes Belhanda",1
+"Antunes","Olexandr Shovkovskiy",3
+"Antunes","Andriy Yarmolenko",7
+"Antunes","Serhiy Sydorchuk",2
+"Antunes","Domagoj Vida",1
+"Antunes","Olexandr Yakovenko",3
+"Aleksandar Dragovic","Olexandr Rybka",10
+"Aleksandar Dragovic","Danilo Silva",4
+"Aleksandar Dragovic","Miguel Veloso",26
+"Aleksandar Dragovic","Antunes",43
+"Aleksandar Dragovic","Júnior Moraes",4
+"Aleksandar Dragovic","Serhiy Rybalka",34
+"Aleksandar Dragovic","Denys Garmash",9
+"Aleksandar Dragovic","Oleh Gusev",8
+"Aleksandar Dragovic","Derlis González",20
+"Aleksandar Dragovic","Yevhen Khacheridi",52
+"Aleksandar Dragovic","Artem Kravets",3
+"Aleksandar Dragovic","Vitaliy Buyalskiy",11
+"Aleksandar Dragovic","Olexandr Shovkovskiy",48
+"Aleksandar Dragovic","Andriy Yarmolenko",9
+"Aleksandar Dragovic","Serhiy Sydorchuk",5
+"Aleksandar Dragovic","Domagoj Vida",30
+"Aleksandar Dragovic","Łukasz Teodorczyk",1
+"Aleksandar Dragovic","Yevhen Makarenko",4
+"Aleksandar Dragovic","Olexandr Yakovenko",3
+"Júnior Moraes","Miguel Veloso",3
+"Júnior Moraes","Antunes",2
+"Júnior Moraes","Aleksandar Dragovic",2
+"Júnior Moraes","Serhiy Rybalka",1
+"Júnior Moraes","Denys Garmash",7
+"Júnior Moraes","Derlis González",8
+"Júnior Moraes","Vitaliy Buyalskiy",4
+"Júnior Moraes","Younes Belhanda",1
+"Júnior Moraes","Andriy Yarmolenko",6
+"Júnior Moraes","Serhiy Sydorchuk",1
+"Júnior Moraes","Domagoj Vida",1
+"Júnior Moraes","Yevhen Makarenko",2
+"Serhiy Rybalka","Danilo Silva",24
+"Serhiy Rybalka","Miguel Veloso",12
+"Serhiy Rybalka","Antunes",15
+"Serhiy Rybalka","Aleksandar Dragovic",41
+"Serhiy Rybalka","Denys Garmash",25
+"Serhiy Rybalka","Oleh Gusev",2
+"Serhiy Rybalka","Derlis González",9
+"Serhiy Rybalka","Yevhen Khacheridi",24
+"Serhiy Rybalka","Artem Kravets",2
+"Serhiy Rybalka","Vitaliy Buyalskiy",17
+"Serhiy Rybalka","Younes Belhanda",2
+"Serhiy Rybalka","Olexandr Shovkovskiy",7
+"Serhiy Rybalka","Andriy Yarmolenko",23
+"Serhiy Rybalka","Serhiy Sydorchuk",8
+"Serhiy Rybalka","Domagoj Vida",13
+"Serhiy Rybalka","Łukasz Teodorczyk",3
+"Serhiy Rybalka","Yevhen Makarenko",1
+"Denys Garmash","Olexandr Rybka",1
+"Denys Garmash","Danilo Silva",9
+"Denys Garmash","Miguel Veloso",9
+"Denys Garmash","Antunes",7
+"Denys Garmash","Aleksandar Dragovic",10
+"Denys Garmash","Júnior Moraes",10
+"Denys Garmash","Serhiy Rybalka",12
+"Denys Garmash","Oleh Gusev",5
+"Denys Garmash","Derlis González",6
+"Denys Garmash","Yevhen Khacheridi",17
+"Denys Garmash","Vitaliy Buyalskiy",7
+"Denys Garmash","Younes Belhanda",2
+"Denys Garmash","Olexandr Shovkovskiy",1
+"Denys Garmash","Andriy Yarmolenko",12
+"Denys Garmash","Serhiy Sydorchuk",6
+"Denys Garmash","Domagoj Vida",6
+"Denys Garmash","Łukasz Teodorczyk",2
+"Oleh Gusev","Miguel Veloso",4
+"Oleh Gusev","Antunes",10
+"Oleh Gusev","Aleksandar Dragovic",3
+"Oleh Gusev","Júnior Moraes",2
+"Oleh Gusev","Serhiy Rybalka",3
+"Oleh Gusev","Denys Garmash",7
+"Oleh Gusev","Yevhen Khacheridi",2
+"Oleh Gusev","Vitaliy Buyalskiy",2
+"Oleh Gusev","Andriy Yarmolenko",1
+"Oleh Gusev","Łukasz Teodorczyk",1
+"Derlis González","Danilo Silva",4
+"Derlis González","Miguel Veloso",5
+"Derlis González","Antunes",4
+"Derlis González","Aleksandar Dragovic",9
+"Derlis González","Júnior Moraes",5
+"Derlis González","Serhiy Rybalka",12
+"Derlis González","Denys Garmash",8
+"Derlis González","Oleh Gusev",1
+"Derlis González","Yevhen Khacheridi",3
+"Derlis González","Artem Kravets",5
+"Derlis González","Vitaliy Buyalskiy",11
+"Derlis González","Andriy Yarmolenko",5
+"Derlis González","Serhiy Sydorchuk",9
+"Derlis González","Domagoj Vida",13
+"Derlis González","Łukasz Teodorczyk",2
+"Derlis González","Yevhen Makarenko",2
+"Yevhen Khacheridi","Olexandr Rybka",8
+"Yevhen Khacheridi","Danilo Silva",23
+"Yevhen Khacheridi","Miguel Veloso",18
+"Yevhen Khacheridi","Antunes",8
+"Yevhen Khacheridi","Aleksandar Dragovic",75
+"Yevhen Khacheridi","Júnior Moraes",1
+"Yevhen Khacheridi","Serhiy Rybalka",49
+"Yevhen Khacheridi","Denys Garmash",13
+"Yevhen Khacheridi","Derlis González",9
+"Yevhen Khacheridi","Artem Kravets",2
+"Yevhen Khacheridi","Vitaliy Buyalskiy",12
+"Yevhen Khacheridi","Olexandr Shovkovskiy",24
+"Yevhen Khacheridi","Andriy Yarmolenko",21
+"Yevhen Khacheridi","Serhiy Sydorchuk",11
+"Yevhen Khacheridi","Domagoj Vida",26
+"Yevhen Khacheridi","Yevhen Makarenko",2
+"Yevhen Khacheridi","Olexandr Yakovenko",3
+"Artem Kravets","Antunes",1
+"Artem Kravets","Aleksandar Dragovic",2
+"Artem Kravets","Denys Garmash",1
+"Artem Kravets","Derlis González",2
+"Artem Kravets","Vitaliy Buyalskiy",4
+"Artem Kravets","Andriy Yarmolenko",4
+"Artem Kravets","Serhiy Sydorchuk",3
+"Artem Kravets","Domagoj Vida",2
+"Vitaliy Buyalskiy","Danilo Silva",5
+"Vitaliy Buyalskiy","Miguel Veloso",6
+"Vitaliy Buyalskiy","Antunes",13
+"Vitaliy Buyalskiy","Aleksandar Dragovic",16
+"Vitaliy Buyalskiy","Júnior Moraes",1
+"Vitaliy Buyalskiy","Serhiy Rybalka",7
+"Vitaliy Buyalskiy","Denys Garmash",2
+"Vitaliy Buyalskiy","Oleh Gusev",2
+"Vitaliy Buyalskiy","Derlis González",9
+"Vitaliy Buyalskiy","Yevhen Khacheridi",5
+"Vitaliy Buyalskiy","Artem Kravets",3
+"Vitaliy Buyalskiy","Younes Belhanda",2
+"Vitaliy Buyalskiy","Andriy Yarmolenko",14
+"Vitaliy Buyalskiy","Serhiy Sydorchuk",3
+"Vitaliy Buyalskiy","Domagoj Vida",17
+"Vitaliy Buyalskiy","Łukasz Teodorczyk",5
+"Vitaliy Buyalskiy","Yevhen Makarenko",2
+"Vitaliy Buyalskiy","Olexandr Yakovenko",1
+"Younes Belhanda","Danilo Silva",4
+"Younes Belhanda","Antunes",2
+"Younes Belhanda","Júnior Moraes",1
+"Younes Belhanda","Serhiy Rybalka",2
+"Younes Belhanda","Denys Garmash",2
+"Younes Belhanda","Yevhen Khacheridi",1
+"Younes Belhanda","Artem Kravets",1
+"Younes Belhanda","Vitaliy Buyalskiy",4
+"Younes Belhanda","Andriy Yarmolenko",1
+"Olexandr Shovkovskiy","Danilo Silva",7
+"Olexandr Shovkovskiy","Aleksandar Dragovic",48
+"Olexandr Shovkovskiy","Andriy Yarmolenko",9
+"Olexandr Shovkovskiy","Serhiy Sydorchuk",3
+"Olexandr Shovkovskiy","Serhiy Rybalka",16
+"Olexandr Shovkovskiy","Artem Kravets",2
+"Olexandr Shovkovskiy","Domagoj Vida",11
+"Olexandr Shovkovskiy","Derlis González",3
+"Olexandr Shovkovskiy","Vitaliy Buyalskiy",2
+"Olexandr Shovkovskiy","Yevhen Khacheridi",29
+"Olexandr Shovkovskiy","Júnior Moraes",3
+"Olexandr Shovkovskiy","Denys Garmash",4
+"Olexandr Shovkovskiy","Antunes",6
+"Olexandr Shovkovskiy","Younes Belhanda",1
+"Olexandr Shovkovskiy","Łukasz Teodorczyk",2
+"Olexandr Shovkovskiy","Miguel Veloso",4
+"Andriy Yarmolenko","Olexandr Shovkovskiy",1
+"Andriy Yarmolenko","Danilo Silva",27
+"Andriy Yarmolenko","Aleksandar Dragovic",9
+"Andriy Yarmolenko","Serhiy Sydorchuk",10
+"Andriy Yarmolenko","Serhiy Rybalka",14
+"Andriy Yarmolenko","Artem Kravets",1
+"Andriy Yarmolenko","Domagoj Vida",25
+"Andriy Yarmolenko","Derlis González",11
+"Andriy Yarmolenko","Vitaliy Buyalskiy",9
+"Andriy Yarmolenko","Yevhen Khacheridi",15
+"Andriy Yarmolenko","Júnior Moraes",5
+"Andriy Yarmolenko","Denys Garmash",12
+"Andriy Yarmolenko","Antunes",3
+"Andriy Yarmolenko","Łukasz Teodorczyk",1
+"Andriy Yarmolenko","Miguel Veloso",13
+"Andriy Yarmolenko","Oleh Gusev",2
+"Andriy Yarmolenko","Olexandr Yakovenko",2
+"Serhiy Sydorchuk","Olexandr Shovkovskiy",1
+"Serhiy Sydorchuk","Danilo Silva",9
+"Serhiy Sydorchuk","Aleksandar Dragovic",5
+"Serhiy Sydorchuk","Andriy Yarmolenko",15
+"Serhiy Sydorchuk","Serhiy Rybalka",6
+"Serhiy Sydorchuk","Artem Kravets",4
+"Serhiy Sydorchuk","Domagoj Vida",12
+"Serhiy Sydorchuk","Derlis González",5
+"Serhiy Sydorchuk","Vitaliy Buyalskiy",2
+"Serhiy Sydorchuk","Yevhen Khacheridi",8
+"Serhiy Sydorchuk","Júnior Moraes",3
+"Serhiy Sydorchuk","Denys Garmash",2
+"Serhiy Sydorchuk","Antunes",2
+"Serhiy Sydorchuk","Younes Belhanda",1
+"Serhiy Sydorchuk","Miguel Veloso",1
+"Serhiy Sydorchuk","Olexandr Yakovenko",1
+"Domagoj Vida","Olexandr Shovkovskiy",7
+"Domagoj Vida","Aleksandar Dragovic",20
+"Domagoj Vida","Andriy Yarmolenko",40
+"Domagoj Vida","Serhiy Sydorchuk",10
+"Domagoj Vida","Serhiy Rybalka",3
+"Domagoj Vida","Artem Kravets",4
+"Domagoj Vida","Derlis González",30
+"Domagoj Vida","Vitaliy Buyalskiy",12
+"Domagoj Vida","Yevhen Khacheridi",14
+"Domagoj Vida","Denys Garmash",6
+"Domagoj Vida","Łukasz Teodorczyk",1
+"Domagoj Vida","Miguel Veloso",17
+"Domagoj Vida","Olexandr Yakovenko",2
+"Łukasz Teodorczyk","Aleksandar Dragovic",1
+"Łukasz Teodorczyk","Andriy Yarmolenko",1
+"Łukasz Teodorczyk","Serhiy Rybalka",2
+"Łukasz Teodorczyk","Vitaliy Buyalskiy",4
+"Łukasz Teodorczyk","Younes Belhanda",2
+"Łukasz Teodorczyk","Miguel Veloso",1
+"Łukasz Teodorczyk","Oleh Gusev",1
+"Yevhen Makarenko","Aleksandar Dragovic",2
+"Yevhen Makarenko","Serhiy Rybalka",2
+"Yevhen Makarenko","Derlis González",4
+"Yevhen Makarenko","Vitaliy Buyalskiy",2
+"Yevhen Makarenko","Miguel Veloso",1
+"Yevhen Makarenko","Júnior Moraes",1
+"Olexandr Yakovenko","Olexandr Shovkovskiy",1
+"Olexandr Yakovenko","Miguel Veloso",1
+"Olexandr Yakovenko","Antunes",5
+"Olexandr Yakovenko","Aleksandar Dragovic",2
+"Olexandr Yakovenko","Andriy Yarmolenko",3
+"Olexandr Yakovenko","Domagoj Vida",2
+"Olexandr Yakovenko","Yevhen Khacheridi",1

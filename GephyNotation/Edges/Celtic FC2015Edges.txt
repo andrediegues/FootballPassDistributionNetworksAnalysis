@@ -1,0 +1,150 @@
+"Craig Gordon","Emilio Izaguirre",5
+"Craig Gordon","Virgil van Dijk",6
+"Craig Gordon","Anthony Stokes",3
+"Craig Gordon","Jo Inge Berget",3
+"Craig Gordon","Jason Denayer",1
+"Craig Gordon","Mikael Lustig",1
+"Craig Gordon","Stefan Johansen",1
+"Craig Gordon","Beram Kayal",1
+"Craig Gordon","Efe Ambrose",2
+"Craig Gordon","Kris Commons",1
+"Emilio Izaguirre","Craig Gordon",4
+"Emilio Izaguirre","Virgil van Dijk",11
+"Emilio Izaguirre","Anthony Stokes",5
+"Emilio Izaguirre","Jo Inge Berget",20
+"Emilio Izaguirre","Charlie Mulgrew",10
+"Emilio Izaguirre","Jason Denayer",2
+"Emilio Izaguirre","Stefan Johansen",8
+"Emilio Izaguirre","Beram Kayal",3
+"Emilio Izaguirre","Callum McGregor",6
+"Emilio Izaguirre","Efe Ambrose",3
+"Emilio Izaguirre","Derk Boerrigter",1
+"Virgil van Dijk","Craig Gordon",3
+"Virgil van Dijk","Emilio Izaguirre",26
+"Virgil van Dijk","Anthony Stokes",2
+"Virgil van Dijk","Jo Inge Berget",7
+"Virgil van Dijk","Charlie Mulgrew",16
+"Virgil van Dijk","Jason Denayer",11
+"Virgil van Dijk","Mikael Lustig",14
+"Virgil van Dijk","Stefan Johansen",8
+"Virgil van Dijk","Beram Kayal",9
+"Virgil van Dijk","Callum McGregor",5
+"Virgil van Dijk","Efe Ambrose",1
+"Virgil van Dijk","Adam Matthews",2
+"Virgil van Dijk","Derk Boerrigter",1
+"Virgil van Dijk","Kris Commons",1
+"Anthony Stokes","Emilio Izaguirre",2
+"Anthony Stokes","Virgil van Dijk",1
+"Anthony Stokes","Jo Inge Berget",5
+"Anthony Stokes","Charlie Mulgrew",3
+"Anthony Stokes","Stefan Johansen",1
+"Anthony Stokes","Beram Kayal",7
+"Anthony Stokes","Callum McGregor",7
+"Anthony Stokes","Efe Ambrose",2
+"Anthony Stokes","Kris Commons",4
+"Jo Inge Berget","Emilio Izaguirre",8
+"Jo Inge Berget","Virgil van Dijk",2
+"Jo Inge Berget","Anthony Stokes",6
+"Jo Inge Berget","Charlie Mulgrew",6
+"Jo Inge Berget","Stefan Johansen",8
+"Jo Inge Berget","Beram Kayal",2
+"Jo Inge Berget","Callum McGregor",1
+"Jo Inge Berget","Kris Commons",2
+"Charlie Mulgrew","Craig Gordon",2
+"Charlie Mulgrew","Emilio Izaguirre",15
+"Charlie Mulgrew","Virgil van Dijk",31
+"Charlie Mulgrew","Anthony Stokes",6
+"Charlie Mulgrew","Jo Inge Berget",5
+"Charlie Mulgrew","Jason Denayer",10
+"Charlie Mulgrew","Mikael Lustig",15
+"Charlie Mulgrew","Stefan Johansen",13
+"Charlie Mulgrew","Beram Kayal",14
+"Charlie Mulgrew","Callum McGregor",3
+"Charlie Mulgrew","Efe Ambrose",3
+"Charlie Mulgrew","Leigh Griffiths",1
+"Charlie Mulgrew","Adam Matthews",1
+"Charlie Mulgrew","Derk Boerrigter",1
+"Charlie Mulgrew","Kris Commons",1
+"Jason Denayer","Craig Gordon",5
+"Jason Denayer","Emilio Izaguirre",1
+"Jason Denayer","Virgil van Dijk",15
+"Jason Denayer","Charlie Mulgrew",27
+"Jason Denayer","Mikael Lustig",15
+"Jason Denayer","Stefan Johansen",3
+"Jason Denayer","Beram Kayal",5
+"Jason Denayer","Callum McGregor",1
+"Jason Denayer","Efe Ambrose",2
+"Jason Denayer","Leigh Griffiths",1
+"Mikael Lustig","Craig Gordon",2
+"Mikael Lustig","Emilio Izaguirre",5
+"Mikael Lustig","Virgil van Dijk",7
+"Mikael Lustig","Anthony Stokes",4
+"Mikael Lustig","Jo Inge Berget",2
+"Mikael Lustig","Charlie Mulgrew",8
+"Mikael Lustig","Jason Denayer",20
+"Mikael Lustig","Stefan Johansen",3
+"Mikael Lustig","Beram Kayal",10
+"Mikael Lustig","Callum McGregor",10
+"Mikael Lustig","Efe Ambrose",13
+"Mikael Lustig","Leigh Griffiths",1
+"Mikael Lustig","Kris Commons",1
+"Stefan Johansen","Emilio Izaguirre",13
+"Stefan Johansen","Virgil van Dijk",6
+"Stefan Johansen","Anthony Stokes",3
+"Stefan Johansen","Jo Inge Berget",8
+"Stefan Johansen","Charlie Mulgrew",12
+"Stefan Johansen","Jason Denayer",7
+"Stefan Johansen","Mikael Lustig",10
+"Stefan Johansen","Beram Kayal",6
+"Stefan Johansen","Callum McGregor",12
+"Stefan Johansen","Efe Ambrose",5
+"Stefan Johansen","Nir Biton",1
+"Stefan Johansen","Adam Matthews",2
+"Stefan Johansen","Kris Commons",3
+"Beram Kayal","Emilio Izaguirre",2
+"Beram Kayal","Virgil van Dijk",2
+"Beram Kayal","Anthony Stokes",8
+"Beram Kayal","Charlie Mulgrew",9
+"Beram Kayal","Jason Denayer",12
+"Beram Kayal","Mikael Lustig",15
+"Beram Kayal","Stefan Johansen",9
+"Beram Kayal","Callum McGregor",5
+"Beram Kayal","Efe Ambrose",6
+"Callum McGregor","Virgil van Dijk",5
+"Callum McGregor","Anthony Stokes",9
+"Callum McGregor","Jo Inge Berget",1
+"Callum McGregor","Charlie Mulgrew",7
+"Callum McGregor","Jason Denayer",2
+"Callum McGregor","Mikael Lustig",6
+"Callum McGregor","Stefan Johansen",10
+"Callum McGregor","Beram Kayal",10
+"Callum McGregor","Efe Ambrose",7
+"Callum McGregor","Adam Matthews",2
+"Callum McGregor","Kris Commons",5
+"Efe Ambrose","Craig Gordon",3
+"Efe Ambrose","Emilio Izaguirre",2
+"Efe Ambrose","Virgil van Dijk",7
+"Efe Ambrose","Anthony Stokes",1
+"Efe Ambrose","Charlie Mulgrew",6
+"Efe Ambrose","Jason Denayer",1
+"Efe Ambrose","Mikael Lustig",6
+"Efe Ambrose","Stefan Johansen",6
+"Efe Ambrose","Beram Kayal",3
+"Efe Ambrose","Callum McGregor",12
+"Efe Ambrose","Adam Matthews",4
+"Efe Ambrose","Kris Commons",1
+"Nir Biton","Mikael Lustig",1
+"Leigh Griffiths","Callum McGregor",1
+"Adam Matthews","Efe Ambrose",3
+"Adam Matthews","Virgil van Dijk",2
+"Adam Matthews","Charlie Mulgrew",2
+"Adam Matthews","Stefan Johansen",3
+"Adam Matthews","Callum McGregor",3
+"Derk Boerrigter","Virgil van Dijk",1
+"Derk Boerrigter","Anthony Stokes",2
+"Derk Boerrigter","Stefan Johansen",1
+"Kris Commons","Efe Ambrose",3
+"Kris Commons","Anthony Stokes",3
+"Kris Commons","Stefan Johansen",1
+"Kris Commons","Callum McGregor",3
+"Kris Commons","Derk Boerrigter",1

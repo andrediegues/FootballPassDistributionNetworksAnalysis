@@ -1,0 +1,226 @@
+"Helton","Danilo",16
+"Helton","Lucho González",5
+"Helton","Josué",6
+"Helton","Jackson Martínez",19
+"Helton","Silvestre Varela",4
+"Helton","Licá",8
+"Helton","Eliaquim Mangala",25
+"Helton","Fernando",8
+"Helton","Alex Sandro",9
+"Helton","Nicolás Otamendi",28
+"Helton","Hector Herrera",1
+"Helton","Steven Defour",11
+"Helton","Nabil Ghilas",2
+"Helton","Maicon",9
+"Danilo","Helton",10
+"Danilo","Lucho González",29
+"Danilo","Josué",32
+"Danilo","Jackson Martínez",29
+"Danilo","Silvestre Varela",48
+"Danilo","Licá",13
+"Danilo","Eliaquim Mangala",16
+"Danilo","Fernando",43
+"Danilo","Alex Sandro",8
+"Danilo","Nicolás Otamendi",41
+"Danilo","Juan Quintero",3
+"Danilo","Marat Izmailov",3
+"Danilo","Hector Herrera",4
+"Danilo","Steven Defour",32
+"Danilo","Nabil Ghilas",4
+"Danilo","Maicon",20
+"Danilo","Ricardo",3
+"Lucho González","Danilo",34
+"Lucho González","Josué",16
+"Lucho González","Jackson Martínez",32
+"Lucho González","Silvestre Varela",18
+"Lucho González","Licá",6
+"Lucho González","Eliaquim Mangala",7
+"Lucho González","Fernando",34
+"Lucho González","Alex Sandro",26
+"Lucho González","Nicolás Otamendi",4
+"Lucho González","Juan Quintero",1
+"Lucho González","Marat Izmailov",2
+"Lucho González","Steven Defour",25
+"Lucho González","Maicon",2
+"Josué","Helton",1
+"Josué","Danilo",24
+"Josué","Lucho González",24
+"Josué","Jackson Martínez",21
+"Josué","Silvestre Varela",19
+"Josué","Licá",9
+"Josué","Eliaquim Mangala",19
+"Josué","Fernando",24
+"Josué","Alex Sandro",42
+"Josué","Nicolás Otamendi",16
+"Josué","Juan Quintero",2
+"Josué","Marat Izmailov",4
+"Josué","Hector Herrera",3
+"Josué","Steven Defour",15
+"Josué","Maicon",4
+"Jackson Martínez","Danilo",13
+"Jackson Martínez","Lucho González",28
+"Jackson Martínez","Josué",15
+"Jackson Martínez","Silvestre Varela",12
+"Jackson Martínez","Licá",10
+"Jackson Martínez","Eliaquim Mangala",2
+"Jackson Martínez","Fernando",13
+"Jackson Martínez","Alex Sandro",7
+"Jackson Martínez","Nicolás Otamendi",3
+"Jackson Martínez","Juan Quintero",3
+"Jackson Martínez","Marat Izmailov",1
+"Jackson Martínez","Steven Defour",9
+"Jackson Martínez","Nabil Ghilas",4
+"Jackson Martínez","Maicon",1
+"Jackson Martínez","Ricardo",2
+"Silvestre Varela","Helton",1
+"Silvestre Varela","Danilo",32
+"Silvestre Varela","Lucho González",20
+"Silvestre Varela","Josué",10
+"Silvestre Varela","Jackson Martínez",16
+"Silvestre Varela","Licá",2
+"Silvestre Varela","Eliaquim Mangala",2
+"Silvestre Varela","Fernando",13
+"Silvestre Varela","Alex Sandro",21
+"Silvestre Varela","Nicolás Otamendi",9
+"Silvestre Varela","Juan Quintero",2
+"Silvestre Varela","Hector Herrera",1
+"Silvestre Varela","Steven Defour",14
+"Silvestre Varela","Nabil Ghilas",2
+"Silvestre Varela","Maicon",2
+"Licá","Helton",1
+"Licá","Danilo",4
+"Licá","Lucho González",12
+"Licá","Josué",6
+"Licá","Jackson Martínez",5
+"Licá","Eliaquim Mangala",2
+"Licá","Fernando",10
+"Licá","Alex Sandro",15
+"Licá","Nicolás Otamendi",2
+"Licá","Hector Herrera",1
+"Licá","Steven Defour",3
+"Licá","Nabil Ghilas",1
+"Eliaquim Mangala","Helton",21
+"Eliaquim Mangala","Danilo",9
+"Eliaquim Mangala","Lucho González",3
+"Eliaquim Mangala","Josué",20
+"Eliaquim Mangala","Jackson Martínez",10
+"Eliaquim Mangala","Silvestre Varela",14
+"Eliaquim Mangala","Licá",5
+"Eliaquim Mangala","Fernando",30
+"Eliaquim Mangala","Alex Sandro",61
+"Eliaquim Mangala","Nicolás Otamendi",36
+"Eliaquim Mangala","Juan Quintero",1
+"Eliaquim Mangala","Marat Izmailov",2
+"Eliaquim Mangala","Steven Defour",19
+"Eliaquim Mangala","Maicon",10
+"Eliaquim Mangala","Ricardo",1
+"Fernando","Helton",5
+"Fernando","Danilo",65
+"Fernando","Lucho González",34
+"Fernando","Josué",40
+"Fernando","Jackson Martínez",19
+"Fernando","Silvestre Varela",28
+"Fernando","Licá",9
+"Fernando","Eliaquim Mangala",25
+"Fernando","Alex Sandro",46
+"Fernando","Nicolás Otamendi",25
+"Fernando","Juan Quintero",2
+"Fernando","Marat Izmailov",3
+"Fernando","Hector Herrera",6
+"Fernando","Steven Defour",44
+"Fernando","Nabil Ghilas",1
+"Fernando","Maicon",6
+"Fernando","Ricardo",2
+"Alex Sandro","Helton",8
+"Alex Sandro","Danilo",8
+"Alex Sandro","Lucho González",20
+"Alex Sandro","Josué",38
+"Alex Sandro","Jackson Martínez",25
+"Alex Sandro","Silvestre Varela",42
+"Alex Sandro","Licá",41
+"Alex Sandro","Eliaquim Mangala",37
+"Alex Sandro","Fernando",37
+"Alex Sandro","Nicolás Otamendi",8
+"Alex Sandro","Juan Quintero",6
+"Alex Sandro","Marat Izmailov",1
+"Alex Sandro","Hector Herrera",3
+"Alex Sandro","Steven Defour",32
+"Alex Sandro","Nabil Ghilas",2
+"Alex Sandro","Maicon",8
+"Nicolás Otamendi","Helton",11
+"Nicolás Otamendi","Danilo",40
+"Nicolás Otamendi","Lucho González",10
+"Nicolás Otamendi","Josué",21
+"Nicolás Otamendi","Jackson Martínez",10
+"Nicolás Otamendi","Silvestre Varela",11
+"Nicolás Otamendi","Licá",4
+"Nicolás Otamendi","Eliaquim Mangala",29
+"Nicolás Otamendi","Fernando",29
+"Nicolás Otamendi","Alex Sandro",11
+"Nicolás Otamendi","Juan Quintero",2
+"Nicolás Otamendi","Marat Izmailov",1
+"Nicolás Otamendi","Hector Herrera",2
+"Nicolás Otamendi","Steven Defour",20
+"Juan Quintero","Danilo",3
+"Juan Quintero","Lucho González",1
+"Juan Quintero","Josué",3
+"Juan Quintero","Jackson Martínez",2
+"Juan Quintero","Silvestre Varela",3
+"Juan Quintero","Licá",1
+"Juan Quintero","Eliaquim Mangala",1
+"Juan Quintero","Fernando",3
+"Juan Quintero","Alex Sandro",1
+"Juan Quintero","Nicolás Otamendi",1
+"Juan Quintero","Hector Herrera",1
+"Juan Quintero","Steven Defour",2
+"Juan Quintero","Maicon",1
+"Juan Quintero","Ricardo",4
+"Marat Izmailov","Danilo",4
+"Marat Izmailov","Josué",2
+"Marat Izmailov","Jackson Martínez",1
+"Marat Izmailov","Fernando",1
+"Marat Izmailov","Alex Sandro",2
+"Marat Izmailov","Nicolás Otamendi",3
+"Marat Izmailov","Hector Herrera",2
+"Hector Herrera","Danilo",6
+"Hector Herrera","Lucho González",1
+"Hector Herrera","Josué",1
+"Hector Herrera","Licá",1
+"Hector Herrera","Eliaquim Mangala",1
+"Hector Herrera","Fernando",5
+"Hector Herrera","Alex Sandro",4
+"Hector Herrera","Nicolás Otamendi",1
+"Hector Herrera","Marat Izmailov",1
+"Steven Defour","Helton",5
+"Steven Defour","Danilo",44
+"Steven Defour","Lucho González",18
+"Steven Defour","Josué",18
+"Steven Defour","Jackson Martínez",10
+"Steven Defour","Silvestre Varela",17
+"Steven Defour","Eliaquim Mangala",24
+"Steven Defour","Fernando",39
+"Steven Defour","Alex Sandro",44
+"Steven Defour","Nicolás Otamendi",14
+"Steven Defour","Juan Quintero",1
+"Steven Defour","Licá",9
+"Steven Defour","Maicon",12
+"Nabil Ghilas","Jackson Martínez",2
+"Nabil Ghilas","Fernando",2
+"Nabil Ghilas","Steven Defour",2
+"Maicon","Helton",6
+"Maicon","Danilo",19
+"Maicon","Lucho González",3
+"Maicon","Josué",4
+"Maicon","Jackson Martínez",3
+"Maicon","Licá",4
+"Maicon","Eliaquim Mangala",13
+"Maicon","Fernando",15
+"Maicon","Alex Sandro",7
+"Maicon","Steven Defour",10
+"Maicon","Juan Quintero",2
+"Maicon","Silvestre Varela",1
+"Maicon","Ricardo",1
+"Ricardo","Danilo",4
+"Ricardo","Jackson Martínez",1
+"Ricardo","Fernando",2
+"Ricardo","Juan Quintero",1

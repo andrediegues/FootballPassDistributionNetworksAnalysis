@@ -1,0 +1,322 @@
+"ter Stegen","Gerard Piqué",49
+"ter Stegen","Ivan Rakitić",9
+"ter Stegen","Sergio Busquets",11
+"ter Stegen","Andrés Iniesta",2
+"ter Stegen","Luis Suárez",6
+"ter Stegen","Lionel Messi",3
+"ter Stegen","Neymar",5
+"ter Stegen","Jordi Alba",21
+"ter Stegen","Sergi Roberto",8
+"ter Stegen","Jérémy Mathieu",13
+"ter Stegen","Javier Mascherano",39
+"ter Stegen","Dani Alves",13
+"ter Stegen","Marc Bartra",9
+"ter Stegen","Adriano",1
+"ter Stegen","Thomas Vermaelen",16
+"Gerard Piqué","ter Stegen",44
+"Gerard Piqué","Ivan Rakitić",34
+"Gerard Piqué","Sergio Busquets",49
+"Gerard Piqué","Andrés Iniesta",8
+"Gerard Piqué","Luis Suárez",11
+"Gerard Piqué","Lionel Messi",34
+"Gerard Piqué","Neymar",9
+"Gerard Piqué","Jordi Alba",22
+"Gerard Piqué","Sergi Roberto",24
+"Gerard Piqué","Jérémy Mathieu",24
+"Gerard Piqué","Rafinha",2
+"Gerard Piqué","Javier Mascherano",81
+"Gerard Piqué","Dani Alves",93
+"Gerard Piqué","Marc Bartra",15
+"Gerard Piqué","Munir El Haddadi",2
+"Gerard Piqué","Sandro Ramírez",2
+"Gerard Piqué","Thomas Vermaelen",18
+"Gerard Piqué","Sergi Samper",1
+"Gerard Piqué","Arda Turan",3
+"Ivan Rakitić","ter Stegen",2
+"Ivan Rakitić","Gerard Piqué",38
+"Ivan Rakitić","Sergio Busquets",52
+"Ivan Rakitić","Andrés Iniesta",12
+"Ivan Rakitić","Luis Suárez",20
+"Ivan Rakitić","Lionel Messi",51
+"Ivan Rakitić","Neymar",17
+"Ivan Rakitić","Jordi Alba",20
+"Ivan Rakitić","Sergi Roberto",11
+"Ivan Rakitić","Jérémy Mathieu",8
+"Ivan Rakitić","Javier Mascherano",23
+"Ivan Rakitić","Dani Alves",97
+"Ivan Rakitić","Marc Bartra",10
+"Ivan Rakitić","Munir El Haddadi",1
+"Ivan Rakitić","Sandro Ramírez",1
+"Ivan Rakitić","Adriano",4
+"Ivan Rakitić","Thomas Vermaelen",6
+"Ivan Rakitić","Sergi Samper",2
+"Sergio Busquets","ter Stegen",9
+"Sergio Busquets","Gerard Piqué",46
+"Sergio Busquets","Ivan Rakitić",43
+"Sergio Busquets","Andrés Iniesta",59
+"Sergio Busquets","Luis Suárez",14
+"Sergio Busquets","Lionel Messi",76
+"Sergio Busquets","Neymar",56
+"Sergio Busquets","Jordi Alba",45
+"Sergio Busquets","Sergi Roberto",25
+"Sergio Busquets","Jérémy Mathieu",19
+"Sergio Busquets","Rafinha",2
+"Sergio Busquets","Javier Mascherano",76
+"Sergio Busquets","Dani Alves",59
+"Sergio Busquets","Marc Bartra",6
+"Sergio Busquets","Munir El Haddadi",4
+"Sergio Busquets","Adriano",11
+"Sergio Busquets","Thomas Vermaelen",29
+"Sergio Busquets","Arda Turan",6
+"Andrés Iniesta","ter Stegen",3
+"Andrés Iniesta","Gerard Piqué",12
+"Andrés Iniesta","Ivan Rakitić",21
+"Andrés Iniesta","Sergio Busquets",52
+"Andrés Iniesta","Luis Suárez",26
+"Andrés Iniesta","Lionel Messi",44
+"Andrés Iniesta","Neymar",83
+"Andrés Iniesta","Jordi Alba",83
+"Andrés Iniesta","Sergi Roberto",10
+"Andrés Iniesta","Jérémy Mathieu",9
+"Andrés Iniesta","Javier Mascherano",15
+"Andrés Iniesta","Dani Alves",22
+"Andrés Iniesta","Adriano",8
+"Andrés Iniesta","Thomas Vermaelen",5
+"Andrés Iniesta","Munir El Haddadi",2
+"Luis Suárez","Gerard Piqué",1
+"Luis Suárez","Ivan Rakitić",17
+"Luis Suárez","Sergio Busquets",16
+"Luis Suárez","Andrés Iniesta",14
+"Luis Suárez","Lionel Messi",28
+"Luis Suárez","Neymar",35
+"Luis Suárez","Jordi Alba",10
+"Luis Suárez","Sergi Roberto",2
+"Luis Suárez","Jérémy Mathieu",1
+"Luis Suárez","Rafinha",1
+"Luis Suárez","Javier Mascherano",1
+"Luis Suárez","Dani Alves",16
+"Luis Suárez","Marc Bartra",1
+"Luis Suárez","Munir El Haddadi",7
+"Luis Suárez","Sandro Ramírez",1
+"Luis Suárez","Adriano",4
+"Luis Suárez","Thomas Vermaelen",1
+"Luis Suárez","Arda Turan",2
+"Lionel Messi","ter Stegen",1
+"Lionel Messi","Gerard Piqué",18
+"Lionel Messi","Ivan Rakitić",28
+"Lionel Messi","Sergio Busquets",58
+"Lionel Messi","Andrés Iniesta",67
+"Lionel Messi","Luis Suárez",20
+"Lionel Messi","Neymar",56
+"Lionel Messi","Jordi Alba",16
+"Lionel Messi","Sergi Roberto",14
+"Lionel Messi","Jérémy Mathieu",7
+"Lionel Messi","Rafinha",1
+"Lionel Messi","Javier Mascherano",8
+"Lionel Messi","Dani Alves",65
+"Lionel Messi","Thomas Vermaelen",2
+"Lionel Messi","Marc Bartra",2
+"Lionel Messi","Adriano",1
+"Lionel Messi","Sergi Samper",4
+"Lionel Messi","Arda Turan",5
+"Neymar","ter Stegen",1
+"Neymar","Gerard Piqué",15
+"Neymar","Ivan Rakitić",25
+"Neymar","Sergio Busquets",29
+"Neymar","Andrés Iniesta",65
+"Neymar","Luis Suárez",49
+"Neymar","Lionel Messi",76
+"Neymar","Jordi Alba",56
+"Neymar","Sergi Roberto",24
+"Neymar","Jérémy Mathieu",2
+"Neymar","Rafinha",1
+"Neymar","Javier Mascherano",11
+"Neymar","Dani Alves",17
+"Neymar","Marc Bartra",3
+"Neymar","Munir El Haddadi",3
+"Neymar","Sandro Ramírez",1
+"Neymar","Adriano",15
+"Neymar","Thomas Vermaelen",6
+"Neymar","Arda Turan",1
+"Jordi Alba","ter Stegen",9
+"Jordi Alba","Gerard Piqué",16
+"Jordi Alba","Ivan Rakitić",14
+"Jordi Alba","Sergio Busquets",63
+"Jordi Alba","Andrés Iniesta",90
+"Jordi Alba","Luis Suárez",23
+"Jordi Alba","Lionel Messi",13
+"Jordi Alba","Neymar",121
+"Jordi Alba","Sergi Roberto",11
+"Jordi Alba","Jérémy Mathieu",18
+"Jordi Alba","Javier Mascherano",57
+"Jordi Alba","Dani Alves",5
+"Jordi Alba","Marc Bartra",8
+"Jordi Alba","Gerard Gumbau",3
+"Jordi Alba","Thomas Vermaelen",11
+"Jordi Alba","Adriano",6
+"Jordi Alba","Sergi Samper",5
+"Jordi Alba","Arda Turan",2
+"Sergi Roberto","Gerard Piqué",21
+"Sergi Roberto","Ivan Rakitić",21
+"Sergi Roberto","Sergio Busquets",26
+"Sergi Roberto","Andrés Iniesta",5
+"Sergi Roberto","Luis Suárez",12
+"Sergi Roberto","Lionel Messi",21
+"Sergi Roberto","Neymar",27
+"Sergi Roberto","Jordi Alba",11
+"Sergi Roberto","Jérémy Mathieu",1
+"Sergi Roberto","Rafinha",1
+"Sergi Roberto","Javier Mascherano",10
+"Sergi Roberto","Dani Alves",23
+"Sergi Roberto","Marc Bartra",1
+"Sergi Roberto","Munir El Haddadi",9
+"Sergi Roberto","Adriano",6
+"Sergi Roberto","Thomas Vermaelen",7
+"Sergi Roberto","Sergi Samper",2
+"Sergi Roberto","Arda Turan",12
+"Jérémy Mathieu","ter Stegen",9
+"Jérémy Mathieu","Gerard Piqué",34
+"Jérémy Mathieu","Ivan Rakitić",7
+"Jérémy Mathieu","Sergio Busquets",11
+"Jérémy Mathieu","Andrés Iniesta",21
+"Jérémy Mathieu","Luis Suárez",1
+"Jérémy Mathieu","Lionel Messi",2
+"Jérémy Mathieu","Neymar",8
+"Jérémy Mathieu","Jordi Alba",26
+"Jérémy Mathieu","Sergi Roberto",5
+"Jérémy Mathieu","Javier Mascherano",7
+"Jérémy Mathieu","Dani Alves",3
+"Rafinha","Sergio Busquets",1
+"Rafinha","Andrés Iniesta",1
+"Rafinha","Lionel Messi",2
+"Rafinha","Neymar",1
+"Rafinha","Jordi Alba",1
+"Rafinha","Sergi Roberto",1
+"Rafinha","Javier Mascherano",1
+"Rafinha","Dani Alves",8
+"Javier Mascherano","ter Stegen",34
+"Javier Mascherano","Gerard Piqué",74
+"Javier Mascherano","Ivan Rakitić",25
+"Javier Mascherano","Sergio Busquets",51
+"Javier Mascherano","Andrés Iniesta",36
+"Javier Mascherano","Luis Suárez",8
+"Javier Mascherano","Lionel Messi",12
+"Javier Mascherano","Neymar",22
+"Javier Mascherano","Jordi Alba",77
+"Javier Mascherano","Sergi Roberto",18
+"Javier Mascherano","Jérémy Mathieu",11
+"Javier Mascherano","Rafinha",2
+"Javier Mascherano","Dani Alves",54
+"Javier Mascherano","Marc Bartra",14
+"Javier Mascherano","Munir El Haddadi",7
+"Javier Mascherano","Gerard Gumbau",8
+"Javier Mascherano","Adriano",4
+"Javier Mascherano","Thomas Vermaelen",21
+"Javier Mascherano","Arda Turan",3
+"Dani Alves","ter Stegen",8
+"Dani Alves","Gerard Piqué",53
+"Dani Alves","Sergio Busquets",45
+"Dani Alves","Luis Suárez",25
+"Dani Alves","Neymar",20
+"Dani Alves","Javier Mascherano",42
+"Dani Alves","Marc Bartra",10
+"Dani Alves","Munir El Haddadi",20
+"Dani Alves","Jordi Alba",16
+"Dani Alves","Sergi Roberto",28
+"Dani Alves","Ivan Rakitić",103
+"Dani Alves","Sandro Ramírez",6
+"Dani Alves","Gerard Gumbau",1
+"Dani Alves","Andrés Iniesta",13
+"Dani Alves","Adriano",3
+"Dani Alves","Thomas Vermaelen",4
+"Dani Alves","Lionel Messi",108
+"Dani Alves","Sergi Samper",4
+"Dani Alves","Arda Turan",6
+"Dani Alves","Rafinha",6
+"Marc Bartra","ter Stegen",5
+"Marc Bartra","Gerard Piqué",21
+"Marc Bartra","Sergio Busquets",8
+"Marc Bartra","Dani Alves",10
+"Marc Bartra","Luis Suárez",1
+"Marc Bartra","Neymar",3
+"Marc Bartra","Javier Mascherano",14
+"Marc Bartra","Munir El Haddadi",2
+"Marc Bartra","Jordi Alba",22
+"Marc Bartra","Sergi Roberto",2
+"Marc Bartra","Ivan Rakitić",7
+"Marc Bartra","Gerard Gumbau",7
+"Marc Bartra","Adriano",3
+"Marc Bartra","Thomas Vermaelen",10
+"Marc Bartra","Lionel Messi",1
+"Marc Bartra","Sergi Samper",7
+"Munir El Haddadi","Sergio Busquets",6
+"Munir El Haddadi","Dani Alves",27
+"Munir El Haddadi","Luis Suárez",5
+"Munir El Haddadi","Neymar",2
+"Munir El Haddadi","Javier Mascherano",1
+"Munir El Haddadi","Sergi Roberto",8
+"Munir El Haddadi","Ivan Rakitić",1
+"Munir El Haddadi","Gerard Gumbau",1
+"Munir El Haddadi","Andrés Iniesta",2
+"Sandro Ramírez","Dani Alves",2
+"Sandro Ramírez","Luis Suárez",2
+"Sandro Ramírez","Javier Mascherano",1
+"Sandro Ramírez","Ivan Rakitić",1
+"Gerard Gumbau","Gerard Piqué",1
+"Gerard Gumbau","Dani Alves",2
+"Gerard Gumbau","Neymar",2
+"Gerard Gumbau","Javier Mascherano",3
+"Gerard Gumbau","Marc Bartra",6
+"Gerard Gumbau","Jordi Alba",2
+"Gerard Gumbau","Sergi Roberto",2
+"Gerard Gumbau","Ivan Rakitić",1
+"Gerard Gumbau","Sandro Ramírez",1
+"Gerard Gumbau","Adriano",1
+"Adriano","Ivan Rakitić",2
+"Adriano","Sergio Busquets",5
+"Adriano","Dani Alves",4
+"Adriano","Andrés Iniesta",11
+"Adriano","Luis Suárez",11
+"Adriano","Neymar",31
+"Adriano","Javier Mascherano",6
+"Adriano","Sergi Roberto",2
+"Adriano","Thomas Vermaelen",10
+"Adriano","Marc Bartra",4
+"Adriano","Lionel Messi",1
+"Adriano","Jordi Alba",5
+"Adriano","Sergi Samper",3
+"Thomas Vermaelen","ter Stegen",5
+"Thomas Vermaelen","Ivan Rakitić",3
+"Thomas Vermaelen","Sergio Busquets",24
+"Thomas Vermaelen","Dani Alves",2
+"Thomas Vermaelen","Andrés Iniesta",9
+"Thomas Vermaelen","Neymar",10
+"Thomas Vermaelen","Javier Mascherano",18
+"Thomas Vermaelen","Sergi Roberto",13
+"Thomas Vermaelen","Adriano",23
+"Thomas Vermaelen","Marc Bartra",19
+"Thomas Vermaelen","Munir El Haddadi",1
+"Thomas Vermaelen","Gerard Piqué",18
+"Thomas Vermaelen","Jordi Alba",24
+"Thomas Vermaelen","Sergi Samper",2
+"Sergi Samper","ter Stegen",1
+"Sergi Samper","Gerard Piqué",1
+"Sergi Samper","Ivan Rakitić",6
+"Sergi Samper","Dani Alves",5
+"Sergi Samper","Luis Suárez",2
+"Sergi Samper","Lionel Messi",1
+"Sergi Samper","Neymar",2
+"Sergi Samper","Jordi Alba",2
+"Sergi Samper","Sergi Roberto",1
+"Sergi Samper","Thomas Vermaelen",5
+"Sergi Samper","Adriano",4
+"Arda Turan","Sergio Busquets",5
+"Arda Turan","Dani Alves",9
+"Arda Turan","Luis Suárez",2
+"Arda Turan","Lionel Messi",6
+"Arda Turan","Neymar",2
+"Arda Turan","Javier Mascherano",5
+"Arda Turan","Jordi Alba",2
+"Arda Turan","Sergi Roberto",1
+"Arda Turan","Gerard Piqué",3
+"Arda Turan","Rafinha",1

@@ -1,0 +1,292 @@
+"Fraser Forster","Emilio Izaguirre",13
+"Fraser Forster","Virgil van Dijk",9
+"Fraser Forster","Scott Brown",3
+"Fraser Forster","Giorgos Samaras",11
+"Fraser Forster","Kris Commons",4
+"Fraser Forster","Joe Ledley",4
+"Fraser Forster","Charlie Mulgrew",8
+"Fraser Forster","Steven Mouyokolo",2
+"Fraser Forster","Mikael Lustig",9
+"Fraser Forster","James Forrest",3
+"Fraser Forster","Adam Matthews",1
+"Fraser Forster","Efe Ambrose",13
+"Fraser Forster","Anthony Stokes",10
+"Fraser Forster","Derk Boerrigter",1
+"Fraser Forster","Nir Biton",1
+"Fraser Forster","Teemu Pukki",1
+"Fraser Forster","Giorgios Samaras",31
+"Emilio Izaguirre","Fraser Forster",8
+"Emilio Izaguirre","Virgil van Dijk",21
+"Emilio Izaguirre","Scott Brown",14
+"Emilio Izaguirre","Giorgos Samaras",13
+"Emilio Izaguirre","Kris Commons",14
+"Emilio Izaguirre","Joe Ledley",25
+"Emilio Izaguirre","Charlie Mulgrew",60
+"Emilio Izaguirre","Steven Mouyokolo",2
+"Emilio Izaguirre","Mikael Lustig",4
+"Emilio Izaguirre","James Forrest",7
+"Emilio Izaguirre","Efe Ambrose",8
+"Emilio Izaguirre","Anthony Stokes",21
+"Emilio Izaguirre","Derk Boerrigter",18
+"Emilio Izaguirre","Teemu Pukki",6
+"Emilio Izaguirre","Giorgios Samaras",39
+"Emilio Izaguirre","Beram Kayal",5
+"Virgil van Dijk","Fraser Forster",20
+"Virgil van Dijk","Emilio Izaguirre",34
+"Virgil van Dijk","Scott Brown",9
+"Virgil van Dijk","Giorgos Samaras",5
+"Virgil van Dijk","Kris Commons",2
+"Virgil van Dijk","Joe Ledley",11
+"Virgil van Dijk","Charlie Mulgrew",13
+"Virgil van Dijk","Steven Mouyokolo",8
+"Virgil van Dijk","Mikael Lustig",7
+"Virgil van Dijk","James Forrest",10
+"Virgil van Dijk","Adam Matthews",6
+"Virgil van Dijk","Baldé",1
+"Virgil van Dijk","Efe Ambrose",41
+"Virgil van Dijk","Anthony Stokes",11
+"Virgil van Dijk","Derk Boerrigter",2
+"Virgil van Dijk","Nir Biton",1
+"Virgil van Dijk","Teemu Pukki",4
+"Virgil van Dijk","Giorgios Samaras",15
+"Virgil van Dijk","Beram Kayal",3
+"Scott Brown","Fraser Forster",4
+"Scott Brown","Emilio Izaguirre",15
+"Scott Brown","Virgil van Dijk",14
+"Scott Brown","Giorgos Samaras",5
+"Scott Brown","Kris Commons",14
+"Scott Brown","Joe Ledley",21
+"Scott Brown","Charlie Mulgrew",26
+"Scott Brown","Steven Mouyokolo",7
+"Scott Brown","Mikael Lustig",38
+"Scott Brown","James Forrest",22
+"Scott Brown","Adam Matthews",30
+"Scott Brown","Efe Ambrose",12
+"Scott Brown","Anthony Stokes",6
+"Scott Brown","Derk Boerrigter",1
+"Scott Brown","Nir Biton",1
+"Scott Brown","Giorgios Samaras",5
+"Giorgos Samaras","Emilio Izaguirre",7
+"Giorgos Samaras","Virgil van Dijk",3
+"Giorgos Samaras","Scott Brown",8
+"Giorgos Samaras","Kris Commons",7
+"Giorgos Samaras","Joe Ledley",8
+"Giorgos Samaras","Charlie Mulgrew",7
+"Giorgos Samaras","Steven Mouyokolo",1
+"Giorgos Samaras","Mikael Lustig",1
+"Giorgos Samaras","James Forrest",2
+"Giorgos Samaras","Adam Matthews",5
+"Giorgos Samaras","Baldé",1
+"Giorgos Samaras","Efe Ambrose",3
+"Giorgos Samaras","Anthony Stokes",4
+"Giorgos Samaras","Nir Biton",1
+"Kris Commons","Fraser Forster",1
+"Kris Commons","Emilio Izaguirre",12
+"Kris Commons","Virgil van Dijk",6
+"Kris Commons","Scott Brown",13
+"Kris Commons","Giorgos Samaras",13
+"Kris Commons","Joe Ledley",2
+"Kris Commons","Charlie Mulgrew",19
+"Kris Commons","Steven Mouyokolo",1
+"Kris Commons","Mikael Lustig",15
+"Kris Commons","James Forrest",8
+"Kris Commons","Adam Matthews",7
+"Kris Commons","Efe Ambrose",5
+"Kris Commons","Anthony Stokes",9
+"Kris Commons","Giorgios Samaras",6
+"Kris Commons","Beram Kayal",1
+"Joe Ledley","Fraser Forster",2
+"Joe Ledley","Emilio Izaguirre",33
+"Joe Ledley","Virgil van Dijk",14
+"Joe Ledley","Scott Brown",20
+"Joe Ledley","Giorgos Samaras",8
+"Joe Ledley","Kris Commons",15
+"Joe Ledley","Charlie Mulgrew",51
+"Joe Ledley","Steven Mouyokolo",6
+"Joe Ledley","Mikael Lustig",13
+"Joe Ledley","James Forrest",7
+"Joe Ledley","Adam Matthews",4
+"Joe Ledley","Efe Ambrose",8
+"Joe Ledley","Anthony Stokes",3
+"Joe Ledley","Derk Boerrigter",4
+"Joe Ledley","Giorgios Samaras",5
+"Joe Ledley","Teemu Pukki",1
+"Joe Ledley","Nir Biton",3
+"Charlie Mulgrew","Fraser Forster",5
+"Charlie Mulgrew","Emilio Izaguirre",48
+"Charlie Mulgrew","Virgil van Dijk",20
+"Charlie Mulgrew","Scott Brown",22
+"Charlie Mulgrew","Giorgos Samaras",28
+"Charlie Mulgrew","Kris Commons",18
+"Charlie Mulgrew","Joe Ledley",37
+"Charlie Mulgrew","Steven Mouyokolo",8
+"Charlie Mulgrew","Mikael Lustig",29
+"Charlie Mulgrew","James Forrest",28
+"Charlie Mulgrew","Adam Matthews",10
+"Charlie Mulgrew","Baldé",1
+"Charlie Mulgrew","Efe Ambrose",30
+"Charlie Mulgrew","Anthony Stokes",19
+"Charlie Mulgrew","Derk Boerrigter",7
+"Charlie Mulgrew","Nir Biton",1
+"Charlie Mulgrew","Teemu Pukki",5
+"Charlie Mulgrew","Giorgios Samaras",18
+"Charlie Mulgrew","Beram Kayal",6
+"Charlie Mulgrew","Tom Rogic",3
+"Steven Mouyokolo","Fraser Forster",3
+"Steven Mouyokolo","Emilio Izaguirre",1
+"Steven Mouyokolo","Virgil van Dijk",8
+"Steven Mouyokolo","Scott Brown",6
+"Steven Mouyokolo","Giorgos Samaras",1
+"Steven Mouyokolo","Kris Commons",1
+"Steven Mouyokolo","Joe Ledley",4
+"Steven Mouyokolo","Charlie Mulgrew",3
+"Steven Mouyokolo","Mikael Lustig",10
+"Steven Mouyokolo","James Forrest",2
+"Steven Mouyokolo","Adam Matthews",6
+"Mikael Lustig","Fraser Forster",16
+"Mikael Lustig","Emilio Izaguirre",4
+"Mikael Lustig","Virgil van Dijk",15
+"Mikael Lustig","Scott Brown",44
+"Mikael Lustig","Giorgos Samaras",6
+"Mikael Lustig","Kris Commons",31
+"Mikael Lustig","Joe Ledley",20
+"Mikael Lustig","Charlie Mulgrew",50
+"Mikael Lustig","Steven Mouyokolo",6
+"Mikael Lustig","James Forrest",34
+"Mikael Lustig","Adam Matthews",12
+"Mikael Lustig","Efe Ambrose",37
+"Mikael Lustig","Anthony Stokes",15
+"Mikael Lustig","Derk Boerrigter",7
+"Mikael Lustig","Nir Biton",6
+"Mikael Lustig","Teemu Pukki",5
+"Mikael Lustig","Giorgios Samaras",7
+"Mikael Lustig","Beram Kayal",13
+"Mikael Lustig","Tom Rogic",2
+"James Forrest","Fraser Forster",1
+"James Forrest","Emilio Izaguirre",4
+"James Forrest","Virgil van Dijk",3
+"James Forrest","Scott Brown",13
+"James Forrest","Giorgos Samaras",3
+"James Forrest","Kris Commons",9
+"James Forrest","Joe Ledley",13
+"James Forrest","Charlie Mulgrew",16
+"James Forrest","Steven Mouyokolo",3
+"James Forrest","Mikael Lustig",32
+"James Forrest","Adam Matthews",3
+"James Forrest","Efe Ambrose",4
+"James Forrest","Anthony Stokes",7
+"James Forrest","Derk Boerrigter",1
+"James Forrest","Giorgios Samaras",4
+"James Forrest","Teemu Pukki",5
+"James Forrest","Beram Kayal",6
+"Adam Matthews","Fraser Forster",4
+"Adam Matthews","Emilio Izaguirre",2
+"Adam Matthews","Virgil van Dijk",9
+"Adam Matthews","Scott Brown",23
+"Adam Matthews","Giorgos Samaras",3
+"Adam Matthews","Kris Commons",12
+"Adam Matthews","Joe Ledley",7
+"Adam Matthews","Charlie Mulgrew",5
+"Adam Matthews","Steven Mouyokolo",1
+"Adam Matthews","Mikael Lustig",21
+"Adam Matthews","James Forrest",9
+"Adam Matthews","Efe Ambrose",11
+"Adam Matthews","Anthony Stokes",6
+"Adam Matthews","Derk Boerrigter",6
+"Adam Matthews","Nir Biton",2
+"Adam Matthews","Teemu Pukki",3
+"Adam Matthews","Giorgios Samaras",2
+"Baldé","Kris Commons",1
+"Efe Ambrose","Fraser Forster",20
+"Efe Ambrose","Adam Matthews",18
+"Efe Ambrose","Scott Brown",19
+"Efe Ambrose","Giorgos Samaras",3
+"Efe Ambrose","Anthony Stokes",7
+"Efe Ambrose","Kris Commons",10
+"Efe Ambrose","Joe Ledley",6
+"Efe Ambrose","Charlie Mulgrew",27
+"Efe Ambrose","Mikael Lustig",59
+"Efe Ambrose","James Forrest",13
+"Efe Ambrose","Virgil van Dijk",26
+"Efe Ambrose","Derk Boerrigter",5
+"Efe Ambrose","Emilio Izaguirre",8
+"Efe Ambrose","Nir Biton",3
+"Efe Ambrose","Teemu Pukki",6
+"Efe Ambrose","Giorgios Samaras",9
+"Efe Ambrose","Beram Kayal",7
+"Efe Ambrose","Tom Rogic",1
+"Anthony Stokes","Adam Matthews",4
+"Anthony Stokes","Efe Ambrose",2
+"Anthony Stokes","Scott Brown",2
+"Anthony Stokes","Giorgos Samaras",5
+"Anthony Stokes","Kris Commons",17
+"Anthony Stokes","Joe Ledley",2
+"Anthony Stokes","Charlie Mulgrew",6
+"Anthony Stokes","Mikael Lustig",9
+"Anthony Stokes","James Forrest",6
+"Anthony Stokes","Virgil van Dijk",3
+"Anthony Stokes","Derk Boerrigter",2
+"Anthony Stokes","Emilio Izaguirre",11
+"Anthony Stokes","Teemu Pukki",2
+"Anthony Stokes","Giorgios Samaras",10
+"Anthony Stokes","Beram Kayal",2
+"Derk Boerrigter","Fraser Forster",2
+"Derk Boerrigter","Adam Matthews",7
+"Derk Boerrigter","Efe Ambrose",2
+"Derk Boerrigter","Scott Brown",1
+"Derk Boerrigter","Giorgos Samaras",1
+"Derk Boerrigter","Anthony Stokes",1
+"Derk Boerrigter","Kris Commons",1
+"Derk Boerrigter","Joe Ledley",5
+"Derk Boerrigter","Charlie Mulgrew",4
+"Derk Boerrigter","Mikael Lustig",5
+"Derk Boerrigter","James Forrest",1
+"Derk Boerrigter","Emilio Izaguirre",11
+"Derk Boerrigter","Teemu Pukki",1
+"Derk Boerrigter","Giorgios Samaras",2
+"Nir Biton","Adam Matthews",1
+"Nir Biton","Emilio Izaguirre",1
+"Nir Biton","Efe Ambrose",3
+"Nir Biton","Virgil van Dijk",2
+"Nir Biton","Scott Brown",1
+"Nir Biton","Mikael Lustig",4
+"Nir Biton","Derk Boerrigter",4
+"Nir Biton","Teemu Pukki",3
+"Nir Biton","Joe Ledley",1
+"Teemu Pukki","Adam Matthews",2
+"Teemu Pukki","Emilio Izaguirre",1
+"Teemu Pukki","Scott Brown",2
+"Teemu Pukki","Giorgos Samaras",1
+"Teemu Pukki","Anthony Stokes",6
+"Teemu Pukki","Mikael Lustig",2
+"Teemu Pukki","Derk Boerrigter",1
+"Teemu Pukki","Giorgios Samaras",7
+"Teemu Pukki","Beram Kayal",3
+"Teemu Pukki","James Forrest",6
+"Giorgios Samaras","Fraser Forster",1
+"Giorgios Samaras","Adam Matthews",3
+"Giorgios Samaras","Emilio Izaguirre",16
+"Giorgios Samaras","Efe Ambrose",3
+"Giorgios Samaras","Virgil van Dijk",8
+"Giorgios Samaras","Scott Brown",7
+"Giorgios Samaras","Anthony Stokes",12
+"Giorgios Samaras","Kris Commons",6
+"Giorgios Samaras","Charlie Mulgrew",9
+"Giorgios Samaras","Mikael Lustig",6
+"Giorgios Samaras","Teemu Pukki",2
+"Giorgios Samaras","Beram Kayal",3
+"Giorgios Samaras","James Forrest",3
+"Giorgios Samaras","Joe Ledley",4
+"Giorgios Samaras","Amido Baldé",1
+"Beram Kayal","Fraser Forster",3
+"Beram Kayal","Efe Ambrose",7
+"Beram Kayal","Virgil van Dijk",3
+"Beram Kayal","Giorgios Samaras",3
+"Beram Kayal","Anthony Stokes",1
+"Beram Kayal","Kris Commons",2
+"Beram Kayal","Charlie Mulgrew",6
+"Beram Kayal","Mikael Lustig",13
+"Beram Kayal","Teemu Pukki",1
+"Beram Kayal","James Forrest",4
+"Tom Rogic","Charlie Mulgrew",3
+"Tom Rogic","Mikael Lustig",1

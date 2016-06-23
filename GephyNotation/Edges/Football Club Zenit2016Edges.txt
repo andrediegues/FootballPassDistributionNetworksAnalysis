@@ -1,0 +1,276 @@
+"Yuri Lodygin","Aleksandr Anyukov",1
+"Yuri Lodygin","Domenico Criscito",10
+"Yuri Lodygin","Nicolas Lombaerts",13
+"Yuri Lodygin","Hulk",7
+"Yuri Lodygin","Danny",3
+"Yuri Lodygin","Igor Smolnikov",1
+"Yuri Lodygin","Javi García",3
+"Yuri Lodygin","Artem Dzyuba",35
+"Yuri Lodygin","Ezequiel Garay",4
+"Yuri Lodygin","Axel Witsel",12
+"Yuri Lodygin","Luís Neto",11
+"Yuri Lodygin","Oleg Shatov",3
+"Yuri Lodygin","Artur Yusupov",1
+"Yuri Lodygin","Aleksandr Kokorin",1
+"Yuri Lodygin","Yuri Zhirkov",2
+"Aleksandr Anyukov","Yuri Lodygin",5
+"Aleksandr Anyukov","Nicolas Lombaerts",6
+"Aleksandr Anyukov","Hulk",17
+"Aleksandr Anyukov","Danny",10
+"Aleksandr Anyukov","Igor Smolnikov",4
+"Aleksandr Anyukov","Javi García",7
+"Aleksandr Anyukov","Artem Dzyuba",9
+"Aleksandr Anyukov","Ezequiel Garay",11
+"Aleksandr Anyukov","Axel Witsel",11
+"Aleksandr Anyukov","Luís Neto",6
+"Aleksandr Anyukov","Oleg Shatov",10
+"Aleksandr Anyukov","Mikhail Kerzhakov",4
+"Aleksandr Anyukov","Aleksandr Ryazantsev",1
+"Aleksandr Anyukov","Artur Yusupov",4
+"Aleksandr Anyukov","Aleksandr Kokorin",5
+"Domenico Criscito","Yuri Lodygin",3
+"Domenico Criscito","Aleksandr Anyukov",3
+"Domenico Criscito","Nicolas Lombaerts",26
+"Domenico Criscito","Hulk",10
+"Domenico Criscito","Danny",34
+"Domenico Criscito","Javi García",6
+"Domenico Criscito","Artem Dzyuba",13
+"Domenico Criscito","Ezequiel Garay",6
+"Domenico Criscito","Axel Witsel",17
+"Domenico Criscito","Luís Neto",5
+"Domenico Criscito","Oleg Shatov",15
+"Domenico Criscito","Mikhail Kerzhakov",1
+"Domenico Criscito","Aleksandr Ryazantsev",1
+"Domenico Criscito","Artur Yusupov",2
+"Domenico Criscito","Aleksei Evseev",2
+"Domenico Criscito","Konstantin Troyanov",1
+"Nicolas Lombaerts","Yuri Lodygin",13
+"Nicolas Lombaerts","Aleksandr Anyukov",7
+"Nicolas Lombaerts","Domenico Criscito",32
+"Nicolas Lombaerts","Hulk",8
+"Nicolas Lombaerts","Danny",33
+"Nicolas Lombaerts","Igor Smolnikov",3
+"Nicolas Lombaerts","Javi García",11
+"Nicolas Lombaerts","Artem Dzyuba",17
+"Nicolas Lombaerts","Ezequiel Garay",26
+"Nicolas Lombaerts","Axel Witsel",18
+"Nicolas Lombaerts","Luís Neto",15
+"Nicolas Lombaerts","Oleg Shatov",11
+"Nicolas Lombaerts","Mikhail Kerzhakov",4
+"Nicolas Lombaerts","Aleksandr Ryazantsev",1
+"Nicolas Lombaerts","Artur Yusupov",3
+"Nicolas Lombaerts","Maurício",4
+"Nicolas Lombaerts","Aleksandr Kokorin",1
+"Nicolas Lombaerts","Yuri Zhirkov",14
+"Hulk","Aleksandr Anyukov",9
+"Hulk","Domenico Criscito",4
+"Hulk","Nicolas Lombaerts",3
+"Hulk","Danny",39
+"Hulk","Igor Smolnikov",4
+"Hulk","Javi García",8
+"Hulk","Artem Dzyuba",25
+"Hulk","Axel Witsel",27
+"Hulk","Luís Neto",3
+"Hulk","Oleg Shatov",16
+"Hulk","Aleksandr Ryazantsev",2
+"Hulk","Artur Yusupov",1
+"Hulk","Maurício",2
+"Hulk","Aleksandr Kokorin",1
+"Hulk","Yuri Zhirkov",5
+"Danny","Yuri Lodygin",2
+"Danny","Aleksandr Anyukov",31
+"Danny","Domenico Criscito",32
+"Danny","Nicolas Lombaerts",12
+"Danny","Hulk",57
+"Danny","Igor Smolnikov",12
+"Danny","Javi García",16
+"Danny","Artem Dzyuba",21
+"Danny","Ezequiel Garay",9
+"Danny","Axel Witsel",65
+"Danny","Luís Neto",9
+"Danny","Oleg Shatov",34
+"Danny","Aleksandr Ryazantsev",5
+"Danny","Artur Yusupov",15
+"Danny","Konstantin Troyanov",1
+"Danny","Maurício",4
+"Danny","Aleksandr Kokorin",3
+"Danny","Yuri Zhirkov",4
+"Igor Smolnikov","Yuri Lodygin",1
+"Igor Smolnikov","Aleksandr Anyukov",3
+"Igor Smolnikov","Domenico Criscito",1
+"Igor Smolnikov","Nicolas Lombaerts",2
+"Igor Smolnikov","Hulk",11
+"Igor Smolnikov","Danny",9
+"Igor Smolnikov","Javi García",4
+"Igor Smolnikov","Artem Dzyuba",5
+"Igor Smolnikov","Ezequiel Garay",15
+"Igor Smolnikov","Axel Witsel",4
+"Igor Smolnikov","Luís Neto",4
+"Igor Smolnikov","Oleg Shatov",18
+"Igor Smolnikov","Mikhail Kerzhakov",1
+"Igor Smolnikov","Artur Yusupov",3
+"Igor Smolnikov","Maurício",4
+"Javi García","Yuri Lodygin",1
+"Javi García","Aleksandr Anyukov",15
+"Javi García","Domenico Criscito",8
+"Javi García","Nicolas Lombaerts",11
+"Javi García","Hulk",9
+"Javi García","Danny",29
+"Javi García","Igor Smolnikov",7
+"Javi García","Artem Dzyuba",4
+"Javi García","Ezequiel Garay",28
+"Javi García","Axel Witsel",9
+"Javi García","Luís Neto",5
+"Javi García","Oleg Shatov",8
+"Javi García","Mikhail Kerzhakov",2
+"Javi García","Aleksandr Ryazantsev",6
+"Javi García","Artur Yusupov",4
+"Artem Dzyuba","Aleksandr Anyukov",6
+"Artem Dzyuba","Domenico Criscito",5
+"Artem Dzyuba","Hulk",27
+"Artem Dzyuba","Danny",40
+"Artem Dzyuba","Igor Smolnikov",6
+"Artem Dzyuba","Javi García",3
+"Artem Dzyuba","Ezequiel Garay",1
+"Artem Dzyuba","Axel Witsel",10
+"Artem Dzyuba","Luís Neto",2
+"Artem Dzyuba","Oleg Shatov",14
+"Artem Dzyuba","Aleksandr Ryazantsev",2
+"Artem Dzyuba","Artur Yusupov",6
+"Artem Dzyuba","Dmitri Bogaev",1
+"Artem Dzyuba","Pavel Dolgov",1
+"Artem Dzyuba","Aleksandr Kokorin",1
+"Ezequiel Garay","Yuri Lodygin",5
+"Ezequiel Garay","Aleksandr Anyukov",12
+"Ezequiel Garay","Domenico Criscito",2
+"Ezequiel Garay","Nicolas Lombaerts",39
+"Ezequiel Garay","Hulk",6
+"Ezequiel Garay","Danny",21
+"Ezequiel Garay","Igor Smolnikov",8
+"Ezequiel Garay","Javi García",16
+"Ezequiel Garay","Artem Dzyuba",10
+"Ezequiel Garay","Axel Witsel",20
+"Ezequiel Garay","Luís Neto",15
+"Ezequiel Garay","Oleg Shatov",9
+"Ezequiel Garay","Viktor Fayzulin",1
+"Ezequiel Garay","Mikhail Kerzhakov",3
+"Ezequiel Garay","Artur Yusupov",5
+"Ezequiel Garay","Pavel Dolgov",1
+"Axel Witsel","Yuri Lodygin",1
+"Axel Witsel","Aleksandr Anyukov",21
+"Axel Witsel","Domenico Criscito",22
+"Axel Witsel","Nicolas Lombaerts",19
+"Axel Witsel","Hulk",41
+"Axel Witsel","Danny",72
+"Axel Witsel","Igor Smolnikov",14
+"Axel Witsel","Javi García",22
+"Axel Witsel","Artem Dzyuba",19
+"Axel Witsel","Ezequiel Garay",10
+"Axel Witsel","Luís Neto",3
+"Axel Witsel","Oleg Shatov",26
+"Axel Witsel","Viktor Fayzulin",2
+"Axel Witsel","Artur Yusupov",6
+"Axel Witsel","Maurício",8
+"Axel Witsel","Yuri Zhirkov",9
+"Luís Neto","Yuri Lodygin",3
+"Luís Neto","Aleksandr Anyukov",7
+"Luís Neto","Domenico Criscito",5
+"Luís Neto","Nicolas Lombaerts",16
+"Luís Neto","Hulk",6
+"Luís Neto","Danny",19
+"Luís Neto","Igor Smolnikov",8
+"Luís Neto","Javi García",6
+"Luís Neto","Artem Dzyuba",6
+"Luís Neto","Ezequiel Garay",16
+"Luís Neto","Axel Witsel",14
+"Luís Neto","Oleg Shatov",3
+"Luís Neto","Aleksandr Ryazantsev",1
+"Luís Neto","Artur Yusupov",8
+"Luís Neto","Dmitri Bogaev",1
+"Luís Neto","Maurício",13
+"Luís Neto","Aleksandr Kokorin",1
+"Oleg Shatov","Yuri Lodygin",2
+"Oleg Shatov","Aleksandr Anyukov",3
+"Oleg Shatov","Domenico Criscito",11
+"Oleg Shatov","Nicolas Lombaerts",9
+"Oleg Shatov","Hulk",23
+"Oleg Shatov","Danny",27
+"Oleg Shatov","Igor Smolnikov",13
+"Oleg Shatov","Javi García",8
+"Oleg Shatov","Artem Dzyuba",13
+"Oleg Shatov","Ezequiel Garay",4
+"Oleg Shatov","Axel Witsel",33
+"Oleg Shatov","Luís Neto",5
+"Oleg Shatov","Viktor Fayzulin",1
+"Oleg Shatov","Artur Yusupov",3
+"Oleg Shatov","Yuri Zhirkov",1
+"Viktor Fayzulin","Danny",2
+"Viktor Fayzulin","Oleg Shatov",1
+"Mikhail Kerzhakov","Nicolas Lombaerts",1
+"Mikhail Kerzhakov","Hulk",3
+"Mikhail Kerzhakov","Danny",3
+"Mikhail Kerzhakov","Javi García",2
+"Mikhail Kerzhakov","Artem Dzyuba",11
+"Mikhail Kerzhakov","Ezequiel Garay",2
+"Mikhail Kerzhakov","Axel Witsel",1
+"Aleksandr Ryazantsev","Aleksandr Anyukov",5
+"Aleksandr Ryazantsev","Hulk",2
+"Aleksandr Ryazantsev","Danny",6
+"Aleksandr Ryazantsev","Javi García",2
+"Aleksandr Ryazantsev","Artem Dzyuba",2
+"Aleksandr Ryazantsev","Ezequiel Garay",2
+"Aleksandr Ryazantsev","Artur Yusupov",3
+"Aleksandr Ryazantsev","Domenico Criscito",1
+"Aleksandr Ryazantsev","Yuri Lodygin",1
+"Artur Yusupov","Aleksandr Anyukov",2
+"Artur Yusupov","Nicolas Lombaerts",10
+"Artur Yusupov","Hulk",3
+"Artur Yusupov","Danny",14
+"Artur Yusupov","Oleg Shatov",7
+"Artur Yusupov","Igor Smolnikov",1
+"Artur Yusupov","Javi García",11
+"Artur Yusupov","Artem Dzyuba",5
+"Artur Yusupov","Ezequiel Garay",6
+"Artur Yusupov","Axel Witsel",5
+"Artur Yusupov","Aleksandr Ryazantsev",5
+"Artur Yusupov","Luís Neto",5
+"Artur Yusupov","Domenico Criscito",8
+"Artur Yusupov","Yuri Lodygin",1
+"Artur Yusupov","Pavel Dolgov",2
+"Artur Yusupov","Yuri Zhirkov",2
+"Aleksei Evseev","Artur Yusupov",1
+"Dmitri Bogaev","Artur Yusupov",1
+"Konstantin Troyanov","Danny",1
+"Pavel Dolgov","Yuri Lodygin",1
+"Pavel Dolgov","Nicolas Lombaerts",1
+"Pavel Dolgov","Danny",1
+"Pavel Dolgov","Artem Dzyuba",1
+"Maurício","Yuri Lodygin",1
+"Maurício","Aleksandr Anyukov",2
+"Maurício","Domenico Criscito",1
+"Maurício","Nicolas Lombaerts",9
+"Maurício","Hulk",2
+"Maurício","Danny",5
+"Maurício","Oleg Shatov",1
+"Maurício","Artem Dzyuba",3
+"Maurício","Axel Witsel",1
+"Maurício","Aleksandr Kokorin",2
+"Maurício","Yuri Zhirkov",6
+"Maurício","Luís Neto",16
+"Maurício","Igor Smolnikov",2
+"Aleksandr Kokorin","Aleksandr Anyukov",5
+"Aleksandr Kokorin","Nicolas Lombaerts",1
+"Aleksandr Kokorin","Hulk",3
+"Aleksandr Kokorin","Danny",2
+"Aleksandr Kokorin","Axel Witsel",3
+"Aleksandr Kokorin","Maurício",3
+"Aleksandr Kokorin","Yuri Zhirkov",1
+"Yuri Zhirkov","Yuri Lodygin",1
+"Yuri Zhirkov","Nicolas Lombaerts",6
+"Yuri Zhirkov","Hulk",9
+"Yuri Zhirkov","Danny",4
+"Yuri Zhirkov","Oleg Shatov",4
+"Yuri Zhirkov","Artem Dzyuba",2
+"Yuri Zhirkov","Axel Witsel",2
+"Yuri Zhirkov","Maurício",3
+"Yuri Zhirkov","Luís Neto",1

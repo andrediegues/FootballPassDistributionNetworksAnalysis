@@ -1,0 +1,185 @@
+"Artur","Luisão",4
+"Artur","Lima",2
+"Artur","Eduardo Salvio",1
+"Artur","Eliseu",1
+"Artur","Talisca",2
+"Artur","Enzo Pérez",2
+"Artur","André Almeida",2
+"Artur","Lisandro López",2
+"Luisão","Artur",3
+"Luisão","Andreas Samaris",9
+"Luisão","Nicolás Gaitán",1
+"Luisão","Lima",6
+"Luisão","Maxi Pereira",38
+"Luisão","Eduardo Salvio",16
+"Luisão","Talisca",3
+"Luisão","Jardel",26
+"Luisão","Enzo Pérez",21
+"Luisão","Paulo Lopes",2
+"Luisão","André Almeida",13
+"Luisão","Lisandro López",5
+"Luisão","César",1
+"Luisão","Júlio César",3
+"Andreas Samaris","Luisão",14
+"Andreas Samaris","Nicolás Gaitán",18
+"Andreas Samaris","Lima",5
+"Andreas Samaris","Maxi Pereira",10
+"Andreas Samaris","Eduardo Salvio",9
+"Andreas Samaris","Eliseu",5
+"Andreas Samaris","Talisca",7
+"Andreas Samaris","Jardel",16
+"Andreas Samaris","Enzo Pérez",21
+"Andreas Samaris","Derley",1
+"Andreas Samaris","André Almeida",12
+"Andreas Samaris","Júlio César",1
+"Nicolás Gaitán","Luisão",2
+"Nicolás Gaitán","Andreas Samaris",7
+"Nicolás Gaitán","Lima",5
+"Nicolás Gaitán","Maxi Pereira",2
+"Nicolás Gaitán","Eduardo Salvio",4
+"Nicolás Gaitán","Eliseu",7
+"Nicolás Gaitán","Talisca",16
+"Nicolás Gaitán","Jardel",2
+"Nicolás Gaitán","Enzo Pérez",6
+"Nicolás Gaitán","Derley",8
+"Nicolás Gaitán","André Almeida",10
+"Lima","Luisão",2
+"Lima","Andreas Samaris",8
+"Lima","Nicolás Gaitán",10
+"Lima","Maxi Pereira",8
+"Lima","Eduardo Salvio",9
+"Lima","Eliseu",3
+"Lima","Talisca",7
+"Lima","Jardel",1
+"Lima","Enzo Pérez",5
+"Lima","Derley",2
+"Lima","André Almeida",3
+"Maxi Pereira","Luisão",16
+"Maxi Pereira","Andreas Samaris",5
+"Maxi Pereira","Nicolás Gaitán",3
+"Maxi Pereira","Lima",6
+"Maxi Pereira","Eduardo Salvio",61
+"Maxi Pereira","Eliseu",2
+"Maxi Pereira","Talisca",3
+"Maxi Pereira","Jardel",3
+"Maxi Pereira","Enzo Pérez",31
+"Maxi Pereira","Derley",2
+"Maxi Pereira","André Almeida",1
+"Maxi Pereira","Lisandro López",1
+"Maxi Pereira","Tiago",1
+"Maxi Pereira","Júlio César",2
+"Eduardo Salvio","Luisão",8
+"Eduardo Salvio","Andreas Samaris",8
+"Eduardo Salvio","Nicolás Gaitán",4
+"Eduardo Salvio","Lima",11
+"Eduardo Salvio","Maxi Pereira",32
+"Eduardo Salvio","Eliseu",1
+"Eduardo Salvio","Talisca",8
+"Eduardo Salvio","Enzo Pérez",20
+"Eduardo Salvio","Derley",2
+"Eduardo Salvio","André Almeida",2
+"Eliseu","Artur",3
+"Eliseu","Luisão",2
+"Eliseu","Andreas Samaris",1
+"Eliseu","Nicolás Gaitán",16
+"Eliseu","Lima",2
+"Eliseu","Maxi Pereira",1
+"Eliseu","Eduardo Salvio",2
+"Eliseu","Talisca",3
+"Eliseu","Jardel",5
+"Eliseu","Enzo Pérez",6
+"Eliseu","Paulo Lopes",1
+"Eliseu","Derley",1
+"Eliseu","André Almeida",5
+"Eliseu","Lisandro López",4
+"Eliseu","Tiago",1
+"Talisca","Luisão",2
+"Talisca","Andreas Samaris",6
+"Talisca","Nicolás Gaitán",23
+"Talisca","Lima",4
+"Talisca","Maxi Pereira",6
+"Talisca","Eduardo Salvio",10
+"Talisca","Eliseu",3
+"Talisca","Jardel",1
+"Talisca","Enzo Pérez",4
+"Talisca","Derley",1
+"Talisca","André Almeida",6
+"Talisca","Lisandro López",1
+"Jardel","Luisão",19
+"Jardel","Andreas Samaris",32
+"Jardel","Nicolás Gaitán",7
+"Jardel","Lima",4
+"Jardel","Eduardo Salvio",5
+"Jardel","Eliseu",7
+"Jardel","Talisca",6
+"Jardel","Enzo Pérez",5
+"Jardel","Paulo Lopes",2
+"Jardel","Derley",1
+"Jardel","André Almeida",13
+"Jardel","Júlio César",6
+"Enzo Pérez","Luisão",18
+"Enzo Pérez","Andreas Samaris",11
+"Enzo Pérez","Nicolás Gaitán",12
+"Enzo Pérez","Lima",12
+"Enzo Pérez","Maxi Pereira",41
+"Enzo Pérez","Eduardo Salvio",22
+"Enzo Pérez","Eliseu",8
+"Enzo Pérez","Talisca",12
+"Enzo Pérez","Jardel",7
+"Enzo Pérez","Derley",1
+"Enzo Pérez","André Almeida",12
+"Enzo Pérez","Lisandro López",4
+"Enzo Pérez","Júlio César",3
+"Paulo Lopes","Luisão",2
+"Paulo Lopes","Andreas Samaris",3
+"Paulo Lopes","Lima",1
+"Paulo Lopes","Maxi Pereira",1
+"Paulo Lopes","Eduardo Salvio",1
+"Paulo Lopes","Eliseu",2
+"Paulo Lopes","Jardel",2
+"Paulo Lopes","Enzo Pérez",4
+"Paulo Lopes","André Almeida",1
+"Derley","Nicolás Gaitán",2
+"Derley","Lima",2
+"Derley","Eduardo Salvio",3
+"Derley","Talisca",5
+"Derley","Enzo Pérez",1
+"Derley","André Almeida",2
+"André Almeida","Luisão",12
+"André Almeida","Andreas Samaris",4
+"André Almeida","Nicolás Gaitán",27
+"André Almeida","Lima",4
+"André Almeida","Maxi Pereira",3
+"André Almeida","Eduardo Salvio",9
+"André Almeida","Eliseu",8
+"André Almeida","Talisca",8
+"André Almeida","Jardel",8
+"André Almeida","Enzo Pérez",14
+"André Almeida","Derley",1
+"André Almeida","Lisandro López",11
+"André Almeida","Júlio César",1
+"André Almeida","Ola John",1
+"Lisandro López","Artur",4
+"Lisandro López","Luisão",6
+"Lisandro López","Nicolás Gaitán",3
+"Lisandro López","Eduardo Salvio",1
+"Lisandro López","Eliseu",10
+"Lisandro López","Talisca",1
+"Lisandro López","André Almeida",12
+"Lisandro López","Enzo Pérez",1
+"Tiago","Luisão",1
+"Tiago","Lima",1
+"César","Artur",1
+"Júlio César","Luisão",8
+"Júlio César","Andreas Samaris",2
+"Júlio César","Nicolás Gaitán",1
+"Júlio César","Maxi Pereira",2
+"Júlio César","Eduardo Salvio",2
+"Júlio César","Talisca",1
+"Júlio César","Jardel",11
+"Júlio César","André Almeida",1
+"Júlio César","Enzo Pérez",2
+"Júlio César","Lima",1
+"Ola John","Nicolás Gaitán",1
+"Ola John","Lima",1
+"Ola John","André Almeida",1

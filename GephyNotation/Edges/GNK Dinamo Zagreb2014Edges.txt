@@ -1,0 +1,176 @@
+"Oliver Zelenika","Josip Šimunić",11
+"Oliver Zelenika","Ivo Pinto",2
+"Oliver Zelenika","Arijan Ademi",1
+"Oliver Zelenika","Junior Fernándes",2
+"Oliver Zelenika","Lee Addy",10
+"Oliver Zelenika","Said Husejinović",1
+"Oliver Zelenika","Josip Pivarić",2
+"Oliver Zelenika","Zvonko Pamić",1
+"Oliver Zelenika","Duje Čop",1
+"El Arbi Hilal Soudani","Josip Šimunić",1
+"El Arbi Hilal Soudani","Ivo Pinto",12
+"El Arbi Hilal Soudani","Arijan Ademi",4
+"El Arbi Hilal Soudani","Junior Fernándes",6
+"El Arbi Hilal Soudani","Lee Addy",2
+"El Arbi Hilal Soudani","Said Husejinović",7
+"El Arbi Hilal Soudani","Zvonko Pamić",1
+"El Arbi Hilal Soudani","Duje Čop",1
+"El Arbi Hilal Soudani","Sammir",11
+"El Arbi Hilal Soudani","Marcelo Brozović",4
+"Josip Šimunić","Oliver Zelenika",9
+"Josip Šimunić","El Arbi Hilal Soudani",1
+"Josip Šimunić","Ivo Pinto",7
+"Josip Šimunić","Arijan Ademi",15
+"Josip Šimunić","Junior Fernándes",10
+"Josip Šimunić","Lee Addy",31
+"Josip Šimunić","Said Husejinović",4
+"Josip Šimunić","Josip Pivarić",24
+"Josip Šimunić","Zvonko Pamić",5
+"Josip Šimunić","Duje Čop",4
+"Josip Šimunić","Sammir",3
+"Josip Šimunić","Marcelo Brozović",5
+"Josip Šimunić","Grzegorz Sandomierski",3
+"Josip Šimunić","Domagoj Antolić",3
+"Josip Šimunić","Jerko Leko",2
+"Ivo Pinto","Oliver Zelenika",2
+"Ivo Pinto","El Arbi Hilal Soudani",35
+"Ivo Pinto","Josip Šimunić",3
+"Ivo Pinto","Arijan Ademi",9
+"Ivo Pinto","Junior Fernándes",6
+"Ivo Pinto","Lee Addy",9
+"Ivo Pinto","Said Husejinović",5
+"Ivo Pinto","Zvonko Pamić",6
+"Ivo Pinto","Sammir",7
+"Ivo Pinto","Marcelo Brozović",15
+"Ivo Pinto","Grzegorz Sandomierski",1
+"Ivo Pinto","Fatos Bećiraj",3
+"Ivo Pinto","Jerko Leko",1
+"Arijan Ademi","El Arbi Hilal Soudani",1
+"Arijan Ademi","Josip Šimunić",16
+"Arijan Ademi","Ivo Pinto",11
+"Arijan Ademi","Junior Fernándes",5
+"Arijan Ademi","Lee Addy",15
+"Arijan Ademi","Said Husejinović",2
+"Arijan Ademi","Josip Pivarić",12
+"Arijan Ademi","Zvonko Pamić",3
+"Arijan Ademi","Duje Čop",3
+"Arijan Ademi","Sammir",11
+"Arijan Ademi","Marcelo Brozović",13
+"Arijan Ademi","Grzegorz Sandomierski",2
+"Arijan Ademi","Domagoj Antolić",2
+"Arijan Ademi","Fatos Bećiraj",3
+"Junior Fernándes","El Arbi Hilal Soudani",3
+"Junior Fernándes","Josip Šimunić",4
+"Junior Fernándes","Ivo Pinto",5
+"Junior Fernándes","Arijan Ademi",1
+"Junior Fernándes","Lee Addy",2
+"Junior Fernándes","Said Husejinović",7
+"Junior Fernándes","Josip Pivarić",16
+"Junior Fernándes","Zvonko Pamić",5
+"Junior Fernándes","Duje Čop",1
+"Junior Fernándes","Sammir",3
+"Junior Fernándes","Marcelo Brozović",1
+"Junior Fernándes","Jerko Leko",1
+"Lee Addy","Oliver Zelenika",8
+"Lee Addy","El Arbi Hilal Soudani",11
+"Lee Addy","Josip Šimunić",15
+"Lee Addy","Ivo Pinto",18
+"Lee Addy","Arijan Ademi",11
+"Lee Addy","Junior Fernándes",6
+"Lee Addy","Said Husejinović",7
+"Lee Addy","Josip Pivarić",3
+"Lee Addy","Zvonko Pamić",12
+"Lee Addy","Duje Čop",2
+"Lee Addy","Sammir",8
+"Lee Addy","Marcelo Brozović",15
+"Lee Addy","Grzegorz Sandomierski",6
+"Lee Addy","Fatos Bećiraj",1
+"Lee Addy","Jerko Leko",2
+"Said Husejinović","El Arbi Hilal Soudani",3
+"Said Husejinović","Josip Šimunić",5
+"Said Husejinović","Ivo Pinto",3
+"Said Husejinović","Arijan Ademi",6
+"Said Husejinović","Junior Fernándes",11
+"Said Husejinović","Lee Addy",4
+"Said Husejinović","Josip Pivarić",6
+"Said Husejinović","Zvonko Pamić",4
+"Said Husejinović","Duje Čop",2
+"Said Husejinović","Sammir",10
+"Said Husejinović","Marcelo Brozović",7
+"Josip Pivarić","El Arbi Hilal Soudani",3
+"Josip Pivarić","Josip Šimunić",16
+"Josip Pivarić","Ivo Pinto",2
+"Josip Pivarić","Arijan Ademi",12
+"Josip Pivarić","Junior Fernándes",21
+"Josip Pivarić","Lee Addy",2
+"Josip Pivarić","Said Husejinović",12
+"Josip Pivarić","Zvonko Pamić",1
+"Josip Pivarić","Duje Čop",8
+"Josip Pivarić","Sammir",11
+"Josip Pivarić","Marcelo Brozović",6
+"Josip Pivarić","Domagoj Antolić",3
+"Josip Pivarić","Jerko Leko",1
+"Zvonko Pamić","Oliver Zelenika",2
+"Zvonko Pamić","El Arbi Hilal Soudani",4
+"Zvonko Pamić","Josip Šimunić",2
+"Zvonko Pamić","Ivo Pinto",5
+"Zvonko Pamić","Arijan Ademi",3
+"Zvonko Pamić","Junior Fernándes",3
+"Zvonko Pamić","Lee Addy",10
+"Zvonko Pamić","Said Husejinović",2
+"Zvonko Pamić","Josip Pivarić",1
+"Zvonko Pamić","Duje Čop",4
+"Zvonko Pamić","Sammir",3
+"Zvonko Pamić","Ante Rukavina",1
+"Duje Čop","Oliver Zelenika",1
+"Duje Čop","Josip Šimunić",1
+"Duje Čop","Ivo Pinto",1
+"Duje Čop","Arijan Ademi",5
+"Duje Čop","Junior Fernándes",2
+"Duje Čop","Said Husejinović",6
+"Duje Čop","Josip Pivarić",6
+"Duje Čop","Zvonko Pamić",1
+"Sammir","El Arbi Hilal Soudani",12
+"Sammir","Josip Šimunić",4
+"Sammir","Ivo Pinto",4
+"Sammir","Arijan Ademi",12
+"Sammir","Junior Fernándes",9
+"Sammir","Lee Addy",2
+"Sammir","Said Husejinović",8
+"Sammir","Josip Pivarić",4
+"Sammir","Zvonko Pamić",1
+"Sammir","Duje Čop",2
+"Sammir","Marcelo Brozović",12
+"Marcelo Brozović","El Arbi Hilal Soudani",6
+"Marcelo Brozović","Josip Šimunić",7
+"Marcelo Brozović","Ivo Pinto",15
+"Marcelo Brozović","Arijan Ademi",5
+"Marcelo Brozović","Junior Fernándes",6
+"Marcelo Brozović","Lee Addy",6
+"Marcelo Brozović","Said Husejinović",7
+"Marcelo Brozović","Josip Pivarić",4
+"Marcelo Brozović","Sammir",15
+"Marcelo Brozović","Grzegorz Sandomierski",2
+"Marcelo Brozović","Fatos Bećiraj",1
+"Grzegorz Sandomierski","Josip Šimunić",6
+"Grzegorz Sandomierski","Ivo Pinto",2
+"Grzegorz Sandomierski","Arijan Ademi",2
+"Grzegorz Sandomierski","Junior Fernándes",3
+"Grzegorz Sandomierski","Lee Addy",4
+"Grzegorz Sandomierski","Josip Pivarić",3
+"Grzegorz Sandomierski","Marcelo Brozović",1
+"Domagoj Antolić","Josip Šimunić",2
+"Domagoj Antolić","Junior Fernándes",2
+"Domagoj Antolić","Lee Addy",1
+"Domagoj Antolić","Josip Pivarić",3
+"Domagoj Antolić","Jerko Leko",2
+"Fatos Bećiraj","Josip Šimunić",1
+"Fatos Bećiraj","Sammir",2
+"Fatos Bećiraj","Josip Pivarić",1
+"Fatos Bećiraj","Jerko Leko",2
+"Jerko Leko","Ivo Pinto",4
+"Jerko Leko","Arijan Ademi",1
+"Jerko Leko","Junior Fernándes",1
+"Jerko Leko","Josip Pivarić",2
+"Jerko Leko","Domagoj Antolić",2
+"Jerko Leko","Fatos Bećiraj",1

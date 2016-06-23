@@ -1,0 +1,163 @@
+"Eiji Kawashima","Ricardo Faty",5
+"Eiji Kawashima","Jorge Teixeira",7
+"Eiji Kawashima","Laurent Ciman",3
+"Eiji Kawashima","Igor De Camargo",3
+"Eiji Kawashima","Tony Watt",1
+"Eiji Kawashima","Dino Arslanagic",2
+"Eiji Kawashima","Jelle Van Damme",6
+"Eiji Kawashima","Paul-José Mpoku",2
+"Eiji Kawashima","Geoffrey Mujangi Bia",1
+"Eiji Kawashima","Adrien Trebel",1
+"Ricardo Faty","Eiji Kawashima",1
+"Ricardo Faty","Jorge Teixeira",13
+"Ricardo Faty","Laurent Ciman",1
+"Ricardo Faty","Igor De Camargo",4
+"Ricardo Faty","Jeff Louis",1
+"Ricardo Faty","Dino Arslanagic",7
+"Ricardo Faty","Jelle Van Damme",8
+"Ricardo Faty","Paul-José Mpoku",13
+"Ricardo Faty","Tortol Lumanza",3
+"Ricardo Faty","Yanis Mbombo",4
+"Ricardo Faty","Geoffrey Mujangi Bia",2
+"Ricardo Faty","Adrien Trebel",14
+"Ricardo Faty","Astrit Ajdarević",1
+"Jorge Teixeira","Eiji Kawashima",4
+"Jorge Teixeira","Ricardo Faty",18
+"Jorge Teixeira","Laurent Ciman",19
+"Jorge Teixeira","Igor De Camargo",3
+"Jorge Teixeira","Jeff Louis",1
+"Jorge Teixeira","Tony Watt",3
+"Jorge Teixeira","Dino Arslanagic",3
+"Jorge Teixeira","Jelle Van Damme",1
+"Jorge Teixeira","Paul-José Mpoku",10
+"Jorge Teixeira","Tortol Lumanza",2
+"Jorge Teixeira","Geoffrey Mujangi Bia",1
+"Jorge Teixeira","Adrien Trebel",8
+"Jorge Teixeira","Astrit Ajdarević",1
+"Laurent Ciman","Eiji Kawashima",3
+"Laurent Ciman","Ricardo Faty",1
+"Laurent Ciman","Jorge Teixeira",15
+"Laurent Ciman","Igor De Camargo",4
+"Laurent Ciman","Jeff Louis",8
+"Laurent Ciman","Tony Watt",1
+"Laurent Ciman","Jelle Van Damme",1
+"Laurent Ciman","Paul-José Mpoku",7
+"Laurent Ciman","Tortol Lumanza",2
+"Laurent Ciman","Yanis Mbombo",4
+"Laurent Ciman","Geoffrey Mujangi Bia",5
+"Laurent Ciman","Adrien Trebel",16
+"Laurent Ciman","Yuji Ono",4
+"Laurent Ciman","Astrit Ajdarević",5
+"Igor De Camargo","Ricardo Faty",2
+"Igor De Camargo","Jorge Teixeira",1
+"Igor De Camargo","Jeff Louis",6
+"Igor De Camargo","Tony Watt",2
+"Igor De Camargo","Paul-José Mpoku",2
+"Igor De Camargo","Tortol Lumanza",3
+"Igor De Camargo","Yanis Mbombo",3
+"Igor De Camargo","Geoffrey Mujangi Bia",2
+"Igor De Camargo","Adrien Trebel",3
+"Igor De Camargo","Astrit Ajdarević",1
+"Jeff Louis","Ricardo Faty",6
+"Jeff Louis","Jorge Teixeira",4
+"Jeff Louis","Laurent Ciman",3
+"Jeff Louis","Igor De Camargo",5
+"Jeff Louis","Tony Watt",2
+"Jeff Louis","Jelle Van Damme",1
+"Jeff Louis","Paul-José Mpoku",8
+"Jeff Louis","Tortol Lumanza",2
+"Jeff Louis","Geoffrey Mujangi Bia",1
+"Jeff Louis","Adrien Trebel",3
+"Tony Watt","Ricardo Faty",3
+"Tony Watt","Igor De Camargo",1
+"Tony Watt","Jeff Louis",1
+"Tony Watt","Dino Arslanagic",1
+"Tony Watt","Jelle Van Damme",2
+"Tony Watt","Paul-José Mpoku",3
+"Dino Arslanagic","Eiji Kawashima",2
+"Dino Arslanagic","Ricardo Faty",4
+"Dino Arslanagic","Jorge Teixeira",6
+"Dino Arslanagic","Laurent Ciman",2
+"Dino Arslanagic","Igor De Camargo",2
+"Dino Arslanagic","Jeff Louis",2
+"Dino Arslanagic","Jelle Van Damme",3
+"Dino Arslanagic","Paul-José Mpoku",4
+"Dino Arslanagic","Geoffrey Mujangi Bia",1
+"Jelle Van Damme","Eiji Kawashima",1
+"Jelle Van Damme","Ricardo Faty",8
+"Jelle Van Damme","Jorge Teixeira",3
+"Jelle Van Damme","Igor De Camargo",3
+"Jelle Van Damme","Jeff Louis",1
+"Jelle Van Damme","Tony Watt",4
+"Jelle Van Damme","Dino Arslanagic",5
+"Jelle Van Damme","Paul-José Mpoku",22
+"Jelle Van Damme","Tortol Lumanza",1
+"Jelle Van Damme","Geoffrey Mujangi Bia",2
+"Jelle Van Damme","Adrien Trebel",3
+"Jelle Van Damme","Yuji Ono",1
+"Paul-José Mpoku","Eiji Kawashima",1
+"Paul-José Mpoku","Ricardo Faty",6
+"Paul-José Mpoku","Jorge Teixeira",6
+"Paul-José Mpoku","Laurent Ciman",6
+"Paul-José Mpoku","Igor De Camargo",8
+"Paul-José Mpoku","Jeff Louis",8
+"Paul-José Mpoku","Tony Watt",8
+"Paul-José Mpoku","Dino Arslanagic",1
+"Paul-José Mpoku","Jelle Van Damme",17
+"Paul-José Mpoku","Tortol Lumanza",1
+"Paul-José Mpoku","Yanis Mbombo",4
+"Paul-José Mpoku","Geoffrey Mujangi Bia",10
+"Paul-José Mpoku","Adrien Trebel",15
+"Paul-José Mpoku","Yuji Ono",2
+"Paul-José Mpoku","Astrit Ajdarević",9
+"Tortol Lumanza","Eiji Kawashima",2
+"Tortol Lumanza","Ricardo Faty",3
+"Tortol Lumanza","Jorge Teixeira",1
+"Tortol Lumanza","Laurent Ciman",5
+"Tortol Lumanza","Tony Watt",3
+"Tortol Lumanza","Dino Arslanagic",4
+"Tortol Lumanza","Jelle Van Damme",4
+"Tortol Lumanza","Paul-José Mpoku",4
+"Tortol Lumanza","Geoffrey Mujangi Bia",1
+"Yanis Mbombo","Ricardo Faty",2
+"Yanis Mbombo","Jorge Teixeira",1
+"Yanis Mbombo","Laurent Ciman",3
+"Yanis Mbombo","Jelle Van Damme",2
+"Yanis Mbombo","Paul-José Mpoku",2
+"Yanis Mbombo","Adrien Trebel",2
+"Yanis Mbombo","Yuji Ono",1
+"Yanis Mbombo","Astrit Ajdarević",1
+"Geoffrey Mujangi Bia","Ricardo Faty",2
+"Geoffrey Mujangi Bia","Laurent Ciman",5
+"Geoffrey Mujangi Bia","Igor De Camargo",2
+"Geoffrey Mujangi Bia","Jeff Louis",2
+"Geoffrey Mujangi Bia","Tony Watt",2
+"Geoffrey Mujangi Bia","Jelle Van Damme",2
+"Geoffrey Mujangi Bia","Paul-José Mpoku",7
+"Geoffrey Mujangi Bia","Tortol Lumanza",1
+"Geoffrey Mujangi Bia","Adrien Trebel",2
+"Adrien Trebel","Eiji Kawashima",1
+"Adrien Trebel","Ricardo Faty",8
+"Adrien Trebel","Jorge Teixeira",6
+"Adrien Trebel","Laurent Ciman",21
+"Adrien Trebel","Igor De Camargo",3
+"Adrien Trebel","Jeff Louis",2
+"Adrien Trebel","Jelle Van Damme",5
+"Adrien Trebel","Paul-José Mpoku",18
+"Adrien Trebel","Geoffrey Mujangi Bia",6
+"Adrien Trebel","Yuji Ono",2
+"Adrien Trebel","Yanis Mbombo",1
+"Adrien Trebel","Astrit Ajdarević",2
+"Yuji Ono","Laurent Ciman",4
+"Yuji Ono","Adrien Trebel",1
+"Yuji Ono","Paul-José Mpoku",3
+"Yuji Ono","Yanis Mbombo",2
+"Yuji Ono","Astrit Ajdarević",3
+"Astrit Ajdarević","Ricardo Faty",2
+"Astrit Ajdarević","Jorge Teixeira",3
+"Astrit Ajdarević","Laurent Ciman",1
+"Astrit Ajdarević","Igor De Camargo",2
+"Astrit Ajdarević","Adrien Trebel",4
+"Astrit Ajdarević","Paul-José Mpoku",7
+"Astrit Ajdarević","Yuji Ono",1
+"Astrit Ajdarević","Yanis Mbombo",1

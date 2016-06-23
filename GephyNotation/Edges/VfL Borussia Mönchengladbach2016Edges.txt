@@ -1,0 +1,256 @@
+"Yann Sommer","Roel Brouwers",3
+"Yann Sommer","Håvard Nordtveit",20
+"Yann Sommer","Thorgan Hazard",3
+"Yann Sommer","Raffael",2
+"Yann Sommer","Lars Stindl",7
+"Yann Sommer","Ibrahima Traoré",2
+"Yann Sommer","Oscar Wendt",8
+"Yann Sommer","Tony Jantschke",4
+"Yann Sommer","Julian Korb",7
+"Yann Sommer","André Hahn",4
+"Yann Sommer","Mahmoud Dahoud",7
+"Yann Sommer","Josip Drmic",7
+"Yann Sommer","Andreas Christensen",25
+"Yann Sommer","Álvaro Domínguez",24
+"Yann Sommer","Fabian Johnson",7
+"Yann Sommer","Granit Xhaka",24
+"Yann Sommer","Marvin Schulz",1
+"Yann Sommer","Nico Elvedi",6
+"Roel Brouwers","Yann Sommer",3
+"Roel Brouwers","Håvard Nordtveit",2
+"Roel Brouwers","Thorgan Hazard",2
+"Roel Brouwers","Ibrahima Traoré",2
+"Roel Brouwers","Tony Jantschke",9
+"Roel Brouwers","Julian Korb",9
+"Roel Brouwers","André Hahn",2
+"Roel Brouwers","Mahmoud Dahoud",2
+"Håvard Nordtveit","Yann Sommer",25
+"Håvard Nordtveit","Roel Brouwers",1
+"Håvard Nordtveit","Thorgan Hazard",3
+"Håvard Nordtveit","Raffael",9
+"Håvard Nordtveit","Lars Stindl",10
+"Håvard Nordtveit","Ibrahima Traoré",25
+"Håvard Nordtveit","Oscar Wendt",25
+"Håvard Nordtveit","Tony Jantschke",3
+"Håvard Nordtveit","Julian Korb",8
+"Håvard Nordtveit","André Hahn",2
+"Håvard Nordtveit","Mahmoud Dahoud",21
+"Håvard Nordtveit","Andreas Christensen",21
+"Håvard Nordtveit","Fabian Johnson",3
+"Håvard Nordtveit","Granit Xhaka",14
+"Håvard Nordtveit","Nico Elvedi",1
+"Thorgan Hazard","Roel Brouwers",3
+"Thorgan Hazard","Håvard Nordtveit",4
+"Thorgan Hazard","Raffael",10
+"Thorgan Hazard","Lars Stindl",9
+"Thorgan Hazard","Ibrahima Traoré",4
+"Thorgan Hazard","Oscar Wendt",1
+"Thorgan Hazard","Tony Jantschke",1
+"Thorgan Hazard","Julian Korb",2
+"Thorgan Hazard","André Hahn",4
+"Thorgan Hazard","Mahmoud Dahoud",6
+"Thorgan Hazard","Josip Drmic",1
+"Thorgan Hazard","Nico Schulz",1
+"Raffael","Håvard Nordtveit",13
+"Raffael","Thorgan Hazard",15
+"Raffael","Lars Stindl",31
+"Raffael","Ibrahima Traoré",19
+"Raffael","Oscar Wendt",26
+"Raffael","Julian Korb",6
+"Raffael","André Hahn",2
+"Raffael","Mahmoud Dahoud",23
+"Raffael","Josip Drmic",8
+"Raffael","Nico Schulz",1
+"Raffael","Andreas Christensen",2
+"Raffael","Patrick Herrmann",2
+"Raffael","Álvaro Domínguez",5
+"Raffael","Fabian Johnson",17
+"Raffael","Granit Xhaka",27
+"Raffael","Nico Elvedi",2
+"Lars Stindl","Roel Brouwers",3
+"Lars Stindl","Håvard Nordtveit",4
+"Lars Stindl","Thorgan Hazard",3
+"Lars Stindl","Raffael",36
+"Lars Stindl","Ibrahima Traoré",14
+"Lars Stindl","Oscar Wendt",33
+"Lars Stindl","Tony Jantschke",2
+"Lars Stindl","Julian Korb",16
+"Lars Stindl","André Hahn",1
+"Lars Stindl","Mahmoud Dahoud",30
+"Lars Stindl","Josip Drmic",3
+"Lars Stindl","Andreas Christensen",5
+"Lars Stindl","Patrick Herrmann",4
+"Lars Stindl","Fabian Johnson",20
+"Lars Stindl","Granit Xhaka",20
+"Lars Stindl","Marvin Schulz",1
+"Lars Stindl","Nico Elvedi",3
+"Ibrahima Traoré","Roel Brouwers",1
+"Ibrahima Traoré","Håvard Nordtveit",11
+"Ibrahima Traoré","Thorgan Hazard",7
+"Ibrahima Traoré","Raffael",12
+"Ibrahima Traoré","Lars Stindl",15
+"Ibrahima Traoré","Oscar Wendt",12
+"Ibrahima Traoré","Tony Jantschke",3
+"Ibrahima Traoré","Julian Korb",11
+"Ibrahima Traoré","André Hahn",4
+"Ibrahima Traoré","Mahmoud Dahoud",15
+"Ibrahima Traoré","Josip Drmic",1
+"Ibrahima Traoré","Nico Schulz",1
+"Ibrahima Traoré","Andreas Christensen",2
+"Ibrahima Traoré","Álvaro Domínguez",1
+"Ibrahima Traoré","Fabian Johnson",6
+"Ibrahima Traoré","Granit Xhaka",16
+"Oscar Wendt","Yann Sommer",8
+"Oscar Wendt","Håvard Nordtveit",21
+"Oscar Wendt","Thorgan Hazard",3
+"Oscar Wendt","Raffael",40
+"Oscar Wendt","Lars Stindl",41
+"Oscar Wendt","Ibrahima Traoré",13
+"Oscar Wendt","Tony Jantschke",10
+"Oscar Wendt","André Hahn",1
+"Oscar Wendt","Mahmoud Dahoud",29
+"Oscar Wendt","Nico Schulz",1
+"Oscar Wendt","Andreas Christensen",2
+"Oscar Wendt","Patrick Herrmann",1
+"Oscar Wendt","Álvaro Domínguez",25
+"Oscar Wendt","Fabian Johnson",29
+"Oscar Wendt","Granit Xhaka",49
+"Oscar Wendt","Marvin Schulz",1
+"Tony Jantschke","Yann Sommer",8
+"Tony Jantschke","Roel Brouwers",8
+"Tony Jantschke","Håvard Nordtveit",6
+"Tony Jantschke","Thorgan Hazard",5
+"Tony Jantschke","Lars Stindl",1
+"Tony Jantschke","Ibrahima Traoré",1
+"Tony Jantschke","Oscar Wendt",13
+"Tony Jantschke","Julian Korb",1
+"Tony Jantschke","André Hahn",1
+"Tony Jantschke","Nico Schulz",1
+"Julian Korb","Yann Sommer",7
+"Julian Korb","Roel Brouwers",5
+"Julian Korb","Håvard Nordtveit",2
+"Julian Korb","Thorgan Hazard",6
+"Julian Korb","Raffael",13
+"Julian Korb","Lars Stindl",16
+"Julian Korb","Ibrahima Traoré",21
+"Julian Korb","Oscar Wendt",1
+"Julian Korb","Tony Jantschke",3
+"Julian Korb","André Hahn",6
+"Julian Korb","Mahmoud Dahoud",11
+"Julian Korb","Josip Drmic",7
+"Julian Korb","Andreas Christensen",11
+"Julian Korb","Patrick Herrmann",4
+"Julian Korb","Fabian Johnson",7
+"Julian Korb","Granit Xhaka",11
+"Julian Korb","Nico Elvedi",2
+"André Hahn","Roel Brouwers",3
+"André Hahn","Håvard Nordtveit",3
+"André Hahn","Raffael",3
+"André Hahn","Lars Stindl",3
+"André Hahn","Ibrahima Traoré",1
+"André Hahn","Oscar Wendt",2
+"André Hahn","Tony Jantschke",1
+"André Hahn","Julian Korb",1
+"André Hahn","Mahmoud Dahoud",3
+"André Hahn","Álvaro Domínguez",1
+"Mahmoud Dahoud","Yann Sommer",4
+"Mahmoud Dahoud","Roel Brouwers",1
+"Mahmoud Dahoud","Håvard Nordtveit",23
+"Mahmoud Dahoud","Thorgan Hazard",3
+"Mahmoud Dahoud","Raffael",30
+"Mahmoud Dahoud","Lars Stindl",22
+"Mahmoud Dahoud","Ibrahima Traoré",16
+"Mahmoud Dahoud","Oscar Wendt",17
+"Mahmoud Dahoud","Tony Jantschke",3
+"Mahmoud Dahoud","Julian Korb",16
+"Mahmoud Dahoud","Josip Drmic",3
+"Mahmoud Dahoud","Andreas Christensen",22
+"Mahmoud Dahoud","Patrick Herrmann",2
+"Mahmoud Dahoud","Álvaro Domínguez",8
+"Mahmoud Dahoud","Fabian Johnson",10
+"Mahmoud Dahoud","Granit Xhaka",60
+"Mahmoud Dahoud","Nico Elvedi",1
+"Josip Drmic","Håvard Nordtveit",1
+"Josip Drmic","Thorgan Hazard",2
+"Josip Drmic","Raffael",8
+"Josip Drmic","Lars Stindl",5
+"Josip Drmic","Ibrahima Traoré",1
+"Josip Drmic","Oscar Wendt",1
+"Josip Drmic","Julian Korb",2
+"Josip Drmic","Mahmoud Dahoud",3
+"Josip Drmic","Fabian Johnson",1
+"Josip Drmic","Granit Xhaka",8
+"Josip Drmic","Marvin Schulz",1
+"Nico Schulz","Thorgan Hazard",1
+"Nico Schulz","Mahmoud Dahoud",2
+"Andreas Christensen","Yann Sommer",26
+"Andreas Christensen","Patrick Herrmann",2
+"Andreas Christensen","Mahmoud Dahoud",18
+"Andreas Christensen","Raffael",2
+"Andreas Christensen","Lars Stindl",9
+"Andreas Christensen","Álvaro Domínguez",24
+"Andreas Christensen","Oscar Wendt",6
+"Andreas Christensen","Fabian Johnson",5
+"Andreas Christensen","Julian Korb",21
+"Andreas Christensen","Granit Xhaka",34
+"Andreas Christensen","Håvard Nordtveit",31
+"Andreas Christensen","Ibrahima Traoré",5
+"Andreas Christensen","Josip Drmic",4
+"Andreas Christensen","Nico Elvedi",7
+"Patrick Herrmann","Andreas Christensen",1
+"Patrick Herrmann","Mahmoud Dahoud",4
+"Patrick Herrmann","Raffael",1
+"Patrick Herrmann","Lars Stindl",4
+"Patrick Herrmann","Oscar Wendt",1
+"Patrick Herrmann","Fabian Johnson",1
+"Patrick Herrmann","Julian Korb",3
+"Patrick Herrmann","Granit Xhaka",1
+"Álvaro Domínguez","Yann Sommer",23
+"Álvaro Domínguez","Andreas Christensen",21
+"Álvaro Domínguez","Mahmoud Dahoud",19
+"Álvaro Domínguez","Raffael",3
+"Álvaro Domínguez","Lars Stindl",1
+"Álvaro Domínguez","Oscar Wendt",31
+"Álvaro Domínguez","Fabian Johnson",2
+"Álvaro Domínguez","Granit Xhaka",24
+"Álvaro Domínguez","Ibrahima Traoré",3
+"Fabian Johnson","Yann Sommer",1
+"Fabian Johnson","Andreas Christensen",1
+"Fabian Johnson","Mahmoud Dahoud",19
+"Fabian Johnson","Raffael",29
+"Fabian Johnson","Lars Stindl",24
+"Fabian Johnson","Álvaro Domínguez",2
+"Fabian Johnson","Oscar Wendt",19
+"Fabian Johnson","Julian Korb",3
+"Fabian Johnson","Granit Xhaka",17
+"Fabian Johnson","Håvard Nordtveit",2
+"Fabian Johnson","Ibrahima Traoré",4
+"Fabian Johnson","André Hahn",2
+"Fabian Johnson","Thorgan Hazard",1
+"Fabian Johnson","Marvin Schulz",1
+"Granit Xhaka","Yann Sommer",15
+"Granit Xhaka","Andreas Christensen",41
+"Granit Xhaka","Patrick Herrmann",5
+"Granit Xhaka","Mahmoud Dahoud",30
+"Granit Xhaka","Raffael",25
+"Granit Xhaka","Lars Stindl",28
+"Granit Xhaka","Álvaro Domínguez",26
+"Granit Xhaka","Oscar Wendt",71
+"Granit Xhaka","Fabian Johnson",23
+"Granit Xhaka","Julian Korb",19
+"Granit Xhaka","Håvard Nordtveit",23
+"Granit Xhaka","Ibrahima Traoré",11
+"Granit Xhaka","André Hahn",3
+"Granit Xhaka","Josip Drmic",2
+"Granit Xhaka","Nico Elvedi",4
+"Marvin Schulz","Lars Stindl",1
+"Marvin Schulz","Oscar Wendt",1
+"Marvin Schulz","Fabian Johnson",1
+"Nico Elvedi","Yann Sommer",2
+"Nico Elvedi","Andreas Christensen",5
+"Nico Elvedi","Mahmoud Dahoud",2
+"Nico Elvedi","Raffael",2
+"Nico Elvedi","Lars Stindl",3
+"Nico Elvedi","Julian Korb",9
+"Nico Elvedi","Granit Xhaka",3
+"Nico Elvedi","Josip Drmic",1

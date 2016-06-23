@@ -1,0 +1,326 @@
+"Wojciech Szczęsny","Antonio Rüdiger",13
+"Wojciech Szczęsny","Lucas Digne",11
+"Wojciech Szczęsny","Radja Nainggolan",3
+"Wojciech Szczęsny","Edin Džeko",19
+"Wojciech Szczęsny","Mohamed Salah",3
+"Wojciech Szczęsny","Iago Falqué",3
+"Wojciech Szczęsny","Daniele De Rossi",11
+"Wojciech Szczęsny","Seydou Keita",1
+"Wojciech Szczęsny","Alessandro Florenzi",17
+"Wojciech Szczęsny","Kostas Manolas",26
+"Wojciech Szczęsny","Miralem Pjanić",6
+"Wojciech Szczęsny","William Vainqueur",5
+"Wojciech Szczęsny","Maicon",4
+"Wojciech Szczęsny","Diego Perotti",3
+"Wojciech Szczęsny","Stephan El Shaarawy",2
+"Wojciech Szczęsny","Ervin Zukanovic",5
+"Antonio Rüdiger","Wojciech Szczęsny",18
+"Antonio Rüdiger","Lucas Digne",14
+"Antonio Rüdiger","Radja Nainggolan",4
+"Antonio Rüdiger","Edin Džeko",5
+"Antonio Rüdiger","Mohamed Salah",1
+"Antonio Rüdiger","Iago Falqué",1
+"Antonio Rüdiger","Daniele De Rossi",7
+"Antonio Rüdiger","Seydou Keita",4
+"Antonio Rüdiger","Alessandro Florenzi",3
+"Antonio Rüdiger","Kostas Manolas",12
+"Antonio Rüdiger","Juan Manuel Iturbe",1
+"Antonio Rüdiger","Miralem Pjanić",8
+"Antonio Rüdiger","William Vainqueur",3
+"Antonio Rüdiger","Diego Perotti",3
+"Antonio Rüdiger","Stephan El Shaarawy",2
+"Lucas Digne","Wojciech Szczęsny",4
+"Lucas Digne","Antonio Rüdiger",9
+"Lucas Digne","Radja Nainggolan",21
+"Lucas Digne","Edin Džeko",8
+"Lucas Digne","Mohamed Salah",4
+"Lucas Digne","Iago Falqué",27
+"Lucas Digne","Daniele De Rossi",11
+"Lucas Digne","Seydou Keita",4
+"Lucas Digne","Alessandro Florenzi",3
+"Lucas Digne","Kostas Manolas",3
+"Lucas Digne","Juan Manuel Iturbe",6
+"Lucas Digne","Miralem Pjanić",14
+"Lucas Digne","William Vainqueur",14
+"Lucas Digne","Gervinho",3
+"Lucas Digne","Salih Uçan",3
+"Lucas Digne","Diego Perotti",20
+"Lucas Digne","Stephan El Shaarawy",14
+"Lucas Digne","Francesco Totti",1
+"Lucas Digne","Ervin Zukanovic",3
+"Radja Nainggolan","Wojciech Szczęsny",4
+"Radja Nainggolan","Antonio Rüdiger",4
+"Radja Nainggolan","Lucas Digne",23
+"Radja Nainggolan","Edin Džeko",9
+"Radja Nainggolan","Mohamed Salah",15
+"Radja Nainggolan","Iago Falqué",20
+"Radja Nainggolan","Daniele De Rossi",18
+"Radja Nainggolan","Seydou Keita",4
+"Radja Nainggolan","Alessandro Florenzi",11
+"Radja Nainggolan","Kostas Manolas",11
+"Radja Nainggolan","Juan Manuel Iturbe",6
+"Radja Nainggolan","Vasilis Torosidis",5
+"Radja Nainggolan","Miralem Pjanić",20
+"Radja Nainggolan","William Vainqueur",6
+"Radja Nainggolan","Gervinho",3
+"Radja Nainggolan","Maicon",1
+"Radja Nainggolan","Salih Uçan",1
+"Radja Nainggolan","Diego Perotti",5
+"Radja Nainggolan","Stephan El Shaarawy",1
+"Edin Džeko","Lucas Digne",11
+"Edin Džeko","Radja Nainggolan",7
+"Edin Džeko","Mohamed Salah",14
+"Edin Džeko","Iago Falqué",6
+"Edin Džeko","Daniele De Rossi",3
+"Edin Džeko","Seydou Keita",2
+"Edin Džeko","Alessandro Florenzi",4
+"Edin Džeko","Kostas Manolas",5
+"Edin Džeko","Juan Manuel Iturbe",7
+"Edin Džeko","Maicon",3
+"Edin Džeko","Miralem Pjanić",9
+"Edin Džeko","William Vainqueur",4
+"Edin Džeko","Diego Perotti",2
+"Edin Džeko","Stephan El Shaarawy",1
+"Edin Džeko","Francesco Totti",2
+"Mohamed Salah","Lucas Digne",2
+"Mohamed Salah","Radja Nainggolan",8
+"Mohamed Salah","Edin Džeko",9
+"Mohamed Salah","Iago Falqué",6
+"Mohamed Salah","Daniele De Rossi",7
+"Mohamed Salah","Seydou Keita",3
+"Mohamed Salah","Alessandro Florenzi",20
+"Mohamed Salah","Kostas Manolas",2
+"Mohamed Salah","Juan Manuel Iturbe",1
+"Mohamed Salah","Vasilis Torosidis",2
+"Mohamed Salah","Miralem Pjanić",28
+"Mohamed Salah","William Vainqueur",6
+"Mohamed Salah","Gervinho",1
+"Mohamed Salah","Diego Perotti",9
+"Mohamed Salah","Stephan El Shaarawy",2
+"Mohamed Salah","Francesco Totti",1
+"Iago Falqué","Antonio Rüdiger",3
+"Iago Falqué","Lucas Digne",22
+"Iago Falqué","Radja Nainggolan",17
+"Iago Falqué","Edin Džeko",7
+"Iago Falqué","Mohamed Salah",7
+"Iago Falqué","Daniele De Rossi",11
+"Iago Falqué","Seydou Keita",1
+"Iago Falqué","Alessandro Florenzi",13
+"Iago Falqué","Kostas Manolas",3
+"Iago Falqué","Juan Manuel Iturbe",2
+"Iago Falqué","Miralem Pjanić",11
+"Iago Falqué","William Vainqueur",1
+"Iago Falqué","Gervinho",3
+"Iago Falqué","Salih Uçan",1
+"Daniele De Rossi","Wojciech Szczęsny",5
+"Daniele De Rossi","Antonio Rüdiger",8
+"Daniele De Rossi","Lucas Digne",19
+"Daniele De Rossi","Radja Nainggolan",19
+"Daniele De Rossi","Edin Džeko",6
+"Daniele De Rossi","Mohamed Salah",3
+"Daniele De Rossi","Iago Falqué",12
+"Daniele De Rossi","Seydou Keita",5
+"Daniele De Rossi","Alessandro Florenzi",8
+"Daniele De Rossi","Kostas Manolas",24
+"Daniele De Rossi","Juan Manuel Iturbe",1
+"Daniele De Rossi","Vasilis Torosidis",2
+"Daniele De Rossi","Miralem Pjanić",25
+"Daniele De Rossi","William Vainqueur",4
+"Daniele De Rossi","Gervinho",3
+"Daniele De Rossi","Salih Uçan",2
+"Daniele De Rossi","Diego Perotti",1
+"Seydou Keita","Wojciech Szczęsny",7
+"Seydou Keita","Antonio Rüdiger",1
+"Seydou Keita","Lucas Digne",8
+"Seydou Keita","Edin Džeko",9
+"Seydou Keita","Mohamed Salah",6
+"Seydou Keita","Iago Falqué",6
+"Seydou Keita","Daniele De Rossi",4
+"Seydou Keita","Alessandro Florenzi",11
+"Seydou Keita","Kostas Manolas",8
+"Seydou Keita","Vasilis Torosidis",1
+"Seydou Keita","Maicon",5
+"Seydou Keita","Miralem Pjanić",9
+"Seydou Keita","William Vainqueur",5
+"Seydou Keita","Salih Uçan",1
+"Seydou Keita","Diego Perotti",3
+"Seydou Keita","Stephan El Shaarawy",1
+"Seydou Keita","Ervin Zukanovic",7
+"Seydou Keita","Francesco Totti",1
+"Alessandro Florenzi","Wojciech Szczęsny",12
+"Alessandro Florenzi","Antonio Rüdiger",3
+"Alessandro Florenzi","Lucas Digne",8
+"Alessandro Florenzi","Radja Nainggolan",10
+"Alessandro Florenzi","Edin Džeko",4
+"Alessandro Florenzi","Mohamed Salah",34
+"Alessandro Florenzi","Iago Falqué",5
+"Alessandro Florenzi","Daniele De Rossi",4
+"Alessandro Florenzi","Seydou Keita",7
+"Alessandro Florenzi","Kostas Manolas",17
+"Alessandro Florenzi","Morgan De Sanctis",1
+"Alessandro Florenzi","Juan Manuel Iturbe",1
+"Alessandro Florenzi","Vasilis Torosidis",5
+"Alessandro Florenzi","Miralem Pjanić",24
+"Alessandro Florenzi","William Vainqueur",7
+"Alessandro Florenzi","Gervinho",8
+"Alessandro Florenzi","Maicon",3
+"Alessandro Florenzi","Diego Perotti",5
+"Alessandro Florenzi","Stephan El Shaarawy",2
+"Alessandro Florenzi","Francesco Totti",3
+"Alessandro Florenzi","Ervin Zukanovic",1
+"Kostas Manolas","Wojciech Szczęsny",15
+"Kostas Manolas","Antonio Rüdiger",8
+"Kostas Manolas","Lucas Digne",6
+"Kostas Manolas","Radja Nainggolan",4
+"Kostas Manolas","Edin Džeko",8
+"Kostas Manolas","Mohamed Salah",12
+"Kostas Manolas","Iago Falqué",4
+"Kostas Manolas","Daniele De Rossi",31
+"Kostas Manolas","Seydou Keita",11
+"Kostas Manolas","Alessandro Florenzi",47
+"Kostas Manolas","Morgan De Sanctis",2
+"Kostas Manolas","Juan Manuel Iturbe",3
+"Kostas Manolas","Vasilis Torosidis",7
+"Kostas Manolas","Miralem Pjanić",22
+"Kostas Manolas","William Vainqueur",7
+"Kostas Manolas","Gervinho",2
+"Kostas Manolas","Maicon",6
+"Kostas Manolas","Diego Perotti",1
+"Kostas Manolas","Ervin Zukanovic",4
+"Morgan De Sanctis","Lucas Digne",2
+"Morgan De Sanctis","Radja Nainggolan",2
+"Morgan De Sanctis","Edin Džeko",3
+"Morgan De Sanctis","Iago Falqué",1
+"Morgan De Sanctis","Daniele De Rossi",1
+"Morgan De Sanctis","Seydou Keita",1
+"Morgan De Sanctis","Alessandro Florenzi",1
+"Juan Manuel Iturbe","Antonio Rüdiger",2
+"Juan Manuel Iturbe","Lucas Digne",3
+"Juan Manuel Iturbe","Radja Nainggolan",1
+"Juan Manuel Iturbe","Edin Džeko",8
+"Juan Manuel Iturbe","Mohamed Salah",1
+"Juan Manuel Iturbe","Iago Falqué",2
+"Juan Manuel Iturbe","Daniele De Rossi",2
+"Juan Manuel Iturbe","Miralem Pjanić",4
+"Juan Manuel Iturbe","William Vainqueur",1
+"Juan Manuel Iturbe","Gervinho",1
+"Juan Manuel Iturbe","Salih Uçan",1
+"Vasilis Torosidis","Radja Nainggolan",1
+"Vasilis Torosidis","Mohamed Salah",4
+"Vasilis Torosidis","Iago Falqué",4
+"Vasilis Torosidis","Daniele De Rossi",1
+"Vasilis Torosidis","Seydou Keita",1
+"Vasilis Torosidis","Alessandro Florenzi",6
+"Vasilis Torosidis","Kostas Manolas",5
+"Vasilis Torosidis","Miralem Pjanić",3
+"Miralem Pjanić","Wojciech Szczęsny",1
+"Miralem Pjanić","Lucas Digne",13
+"Miralem Pjanić","Radja Nainggolan",24
+"Miralem Pjanić","Juan Manuel Iturbe",4
+"Miralem Pjanić","Mohamed Salah",29
+"Miralem Pjanić","Daniele De Rossi",15
+"Miralem Pjanić","William Vainqueur",11
+"Miralem Pjanić","Alessandro Florenzi",32
+"Miralem Pjanić","Gervinho",10
+"Miralem Pjanić","Kostas Manolas",21
+"Miralem Pjanić","Iago Falqué",14
+"Miralem Pjanić","Vasilis Torosidis",7
+"Miralem Pjanić","Antonio Rüdiger",8
+"Miralem Pjanić","Edin Džeko",13
+"Miralem Pjanić","Maicon",3
+"Miralem Pjanić","Seydou Keita",15
+"Miralem Pjanić","Salih Uçan",2
+"Miralem Pjanić","Diego Perotti",7
+"Miralem Pjanić","Stephan El Shaarawy",2
+"Miralem Pjanić","Francesco Totti",3
+"Miralem Pjanić","Ervin Zukanovic",1
+"William Vainqueur","Wojciech Szczęsny",4
+"William Vainqueur","Lucas Digne",11
+"William Vainqueur","Radja Nainggolan",11
+"William Vainqueur","Juan Manuel Iturbe",3
+"William Vainqueur","Mohamed Salah",1
+"William Vainqueur","Miralem Pjanić",13
+"William Vainqueur","Daniele De Rossi",1
+"William Vainqueur","Alessandro Florenzi",4
+"William Vainqueur","Gervinho",2
+"William Vainqueur","Kostas Manolas",6
+"William Vainqueur","Iago Falqué",1
+"William Vainqueur","Antonio Rüdiger",8
+"William Vainqueur","Edin Džeko",1
+"William Vainqueur","Maicon",1
+"William Vainqueur","Seydou Keita",9
+"William Vainqueur","Salih Uçan",3
+"William Vainqueur","Diego Perotti",11
+"William Vainqueur","Stephan El Shaarawy",3
+"William Vainqueur","Francesco Totti",3
+"William Vainqueur","Ervin Zukanovic",3
+"Gervinho","Lucas Digne",6
+"Gervinho","Radja Nainggolan",2
+"Gervinho","Mohamed Salah",1
+"Gervinho","Miralem Pjanić",3
+"Gervinho","Daniele De Rossi",2
+"Gervinho","Alessandro Florenzi",3
+"Gervinho","Kostas Manolas",1
+"Gervinho","Iago Falqué",4
+"Gervinho","Vasilis Torosidis",3
+"Maicon","Wojciech Szczęsny",1
+"Maicon","Lucas Digne",1
+"Maicon","Radja Nainggolan",3
+"Maicon","Edin Džeko",2
+"Maicon","Miralem Pjanić",3
+"Maicon","Seydou Keita",4
+"Maicon","Alessandro Florenzi",4
+"Maicon","Kostas Manolas",3
+"Maicon","Juan Manuel Iturbe",1
+"Maicon","William Vainqueur",1
+"Maicon","Francesco Totti",2
+"Salih Uçan","Antonio Rüdiger",1
+"Salih Uçan","Lucas Digne",4
+"Salih Uçan","Radja Nainggolan",1
+"Salih Uçan","Edin Džeko",2
+"Salih Uçan","Maicon",1
+"Salih Uçan","Iago Falqué",1
+"Salih Uçan","Seydou Keita",1
+"Salih Uçan","William Vainqueur",1
+"Salih Uçan","Daniele De Rossi",2
+"Diego Perotti","Antonio Rüdiger",3
+"Diego Perotti","Lucas Digne",11
+"Diego Perotti","Radja Nainggolan",6
+"Diego Perotti","Mohamed Salah",9
+"Diego Perotti","Miralem Pjanić",5
+"Diego Perotti","William Vainqueur",4
+"Diego Perotti","Stephan El Shaarawy",8
+"Diego Perotti","Alessandro Florenzi",3
+"Diego Perotti","Kostas Manolas",1
+"Diego Perotti","Edin Džeko",6
+"Diego Perotti","Francesco Totti",2
+"Diego Perotti","Seydou Keita",2
+"Diego Perotti","Ervin Zukanovic",4
+"Stephan El Shaarawy","Antonio Rüdiger",1
+"Stephan El Shaarawy","Lucas Digne",3
+"Stephan El Shaarawy","Radja Nainggolan",2
+"Stephan El Shaarawy","Diego Perotti",3
+"Stephan El Shaarawy","Miralem Pjanić",3
+"Stephan El Shaarawy","William Vainqueur",5
+"Stephan El Shaarawy","Alessandro Florenzi",1
+"Stephan El Shaarawy","Edin Džeko",2
+"Stephan El Shaarawy","Seydou Keita",3
+"Francesco Totti","Antonio Rüdiger",2
+"Francesco Totti","Lucas Digne",4
+"Francesco Totti","Diego Perotti",2
+"Francesco Totti","Mohamed Salah",1
+"Francesco Totti","Miralem Pjanić",1
+"Francesco Totti","William Vainqueur",1
+"Francesco Totti","Alessandro Florenzi",5
+"Francesco Totti","Seydou Keita",1
+"Francesco Totti","Ervin Zukanovic",2
+"Ervin Zukanovic","Wojciech Szczęsny",7
+"Ervin Zukanovic","Lucas Digne",4
+"Ervin Zukanovic","Diego Perotti",3
+"Ervin Zukanovic","Edin Džeko",2
+"Ervin Zukanovic","Miralem Pjanić",2
+"Ervin Zukanovic","Seydou Keita",5
+"Ervin Zukanovic","Alessandro Florenzi",1
+"Ervin Zukanovic","Kostas Manolas",3
+"Ervin Zukanovic","Francesco Totti",2
+"Ervin Zukanovic","William Vainqueur",6

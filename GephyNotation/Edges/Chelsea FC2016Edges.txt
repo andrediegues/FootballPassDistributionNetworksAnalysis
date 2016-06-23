@@ -1,0 +1,272 @@
+"Asmir Begović","Branislav Ivanović",1
+"Asmir Begović","Cesc Fàbregas",3
+"Asmir Begović","Kurt Zouma",8
+"Asmir Begović","Ramires",1
+"Asmir Begović","John Obi Mikel",1
+"Asmir Begović","Pedro Rodríguez",1
+"Asmir Begović","Diego Costa",7
+"Asmir Begović","Willian",3
+"Asmir Begović","Gary Cahill",6
+"Asmir Begović","César Azpilicueta",5
+"Asmir Begović","Eden Hazard",1
+"Asmir Begović","Nemanja Matić",2
+"Asmir Begović","John Terry",3
+"Asmir Begović","Oscar",1
+"Asmir Begović","Abdul Baba Rahman",2
+"Branislav Ivanović","Asmir Begović",5
+"Branislav Ivanović","Cesc Fàbregas",15
+"Branislav Ivanović","Kurt Zouma",12
+"Branislav Ivanović","Ramires",3
+"Branislav Ivanović","John Obi Mikel",8
+"Branislav Ivanović","Pedro Rodríguez",10
+"Branislav Ivanović","Diego Costa",3
+"Branislav Ivanović","Willian",7
+"Branislav Ivanović","Gary Cahill",5
+"Branislav Ivanović","César Azpilicueta",3
+"Branislav Ivanović","Eden Hazard",3
+"Branislav Ivanović","Kenedy",3
+"Branislav Ivanović","Nemanja Matić",1
+"Branislav Ivanović","Thibaut Courtois",2
+"Branislav Ivanović","Oscar",1
+"Branislav Ivanović","John Terry",1
+"Branislav Ivanović","Abdul Baba Rahman",4
+"Branislav Ivanović","Bertrand Traoré",3
+"Cesc Fàbregas","Asmir Begović",1
+"Cesc Fàbregas","Branislav Ivanović",11
+"Cesc Fàbregas","Kurt Zouma",7
+"Cesc Fàbregas","Ramires",17
+"Cesc Fàbregas","John Obi Mikel",23
+"Cesc Fàbregas","Pedro Rodríguez",22
+"Cesc Fàbregas","Diego Costa",34
+"Cesc Fàbregas","Willian",36
+"Cesc Fàbregas","Gary Cahill",13
+"Cesc Fàbregas","César Azpilicueta",17
+"Cesc Fàbregas","Eden Hazard",28
+"Cesc Fàbregas","Kenedy",10
+"Cesc Fàbregas","Nemanja Matić",12
+"Cesc Fàbregas","John Terry",2
+"Cesc Fàbregas","Oscar",10
+"Cesc Fàbregas","Abdul Baba Rahman",11
+"Cesc Fàbregas","Thibaut Courtois",3
+"Cesc Fàbregas","Bertrand Traoré",2
+"Kurt Zouma","Asmir Begović",8
+"Kurt Zouma","Branislav Ivanović",11
+"Kurt Zouma","Cesc Fàbregas",7
+"Kurt Zouma","Ramires",5
+"Kurt Zouma","John Obi Mikel",3
+"Kurt Zouma","Diego Costa",2
+"Kurt Zouma","Willian",6
+"Kurt Zouma","Gary Cahill",11
+"Kurt Zouma","César Azpilicueta",8
+"Kurt Zouma","Eden Hazard",3
+"Kurt Zouma","Nemanja Matić",11
+"Kurt Zouma","John Terry",15
+"Kurt Zouma","Oscar",1
+"Kurt Zouma","Abdul Baba Rahman",1
+"Kurt Zouma","Thibaut Courtois",4
+"Ramires","Asmir Begović",2
+"Ramires","Branislav Ivanović",3
+"Ramires","Cesc Fàbregas",12
+"Ramires","Kurt Zouma",12
+"Ramires","John Obi Mikel",2
+"Ramires","Pedro Rodríguez",1
+"Ramires","Diego Costa",7
+"Ramires","Willian",15
+"Ramires","Gary Cahill",3
+"Ramires","César Azpilicueta",10
+"Ramires","Eden Hazard",10
+"Ramires","Nemanja Matić",12
+"Ramires","John Terry",7
+"Ramires","Abdul Baba Rahman",2
+"John Obi Mikel","Asmir Begović",2
+"John Obi Mikel","Branislav Ivanović",8
+"John Obi Mikel","Cesc Fàbregas",23
+"John Obi Mikel","Kurt Zouma",4
+"John Obi Mikel","Ramires",3
+"John Obi Mikel","Pedro Rodríguez",12
+"John Obi Mikel","Diego Costa",9
+"John Obi Mikel","Willian",13
+"John Obi Mikel","Gary Cahill",6
+"John Obi Mikel","César Azpilicueta",11
+"John Obi Mikel","Eden Hazard",7
+"John Obi Mikel","Kenedy",5
+"John Obi Mikel","Thibaut Courtois",3
+"John Obi Mikel","Oscar",3
+"John Obi Mikel","Abdul Baba Rahman",4
+"John Obi Mikel","Bertrand Traoré",2
+"Pedro Rodríguez","Branislav Ivanović",3
+"Pedro Rodríguez","Cesc Fàbregas",25
+"Pedro Rodríguez","Ramires",4
+"Pedro Rodríguez","John Obi Mikel",7
+"Pedro Rodríguez","Diego Costa",7
+"Pedro Rodríguez","Willian",14
+"Pedro Rodríguez","Gary Cahill",4
+"Pedro Rodríguez","César Azpilicueta",12
+"Pedro Rodríguez","Eden Hazard",6
+"Pedro Rodríguez","Kenedy",1
+"Pedro Rodríguez","Nemanja Matić",1
+"Pedro Rodríguez","Abdul Baba Rahman",2
+"Pedro Rodríguez","Oscar",1
+"Pedro Rodríguez","Thibaut Courtois",2
+"Pedro Rodríguez","Loïc Rémy",1
+"Diego Costa","Branislav Ivanović",2
+"Diego Costa","Cesc Fàbregas",28
+"Diego Costa","Kurt Zouma",2
+"Diego Costa","Ramires",9
+"Diego Costa","John Obi Mikel",6
+"Diego Costa","Pedro Rodríguez",4
+"Diego Costa","Willian",31
+"Diego Costa","Gary Cahill",1
+"Diego Costa","César Azpilicueta",4
+"Diego Costa","Eden Hazard",16
+"Diego Costa","Nemanja Matić",7
+"Diego Costa","Oscar",11
+"Diego Costa","Abdul Baba Rahman",3
+"Willian","Asmir Begović",1
+"Willian","Branislav Ivanović",11
+"Willian","Cesc Fàbregas",33
+"Willian","Kurt Zouma",3
+"Willian","Ramires",15
+"Willian","John Obi Mikel",11
+"Willian","Pedro Rodríguez",11
+"Willian","Diego Costa",24
+"Willian","Gary Cahill",4
+"Willian","César Azpilicueta",19
+"Willian","Eden Hazard",27
+"Willian","Kenedy",5
+"Willian","Nemanja Matić",7
+"Willian","John Terry",2
+"Willian","Oscar",9
+"Willian","Abdul Baba Rahman",5
+"Willian","Thibaut Courtois",1
+"Gary Cahill","Asmir Begović",10
+"Gary Cahill","Branislav Ivanović",7
+"Gary Cahill","Cesc Fàbregas",12
+"Gary Cahill","Kurt Zouma",10
+"Gary Cahill","Ramires",5
+"Gary Cahill","John Obi Mikel",10
+"Gary Cahill","Pedro Rodríguez",4
+"Gary Cahill","Diego Costa",1
+"Gary Cahill","Willian",1
+"Gary Cahill","César Azpilicueta",14
+"Gary Cahill","Eden Hazard",3
+"Gary Cahill","Kenedy",3
+"Gary Cahill","Nemanja Matić",4
+"Gary Cahill","John Terry",7
+"Gary Cahill","Thibaut Courtois",5
+"César Azpilicueta","Asmir Begović",5
+"César Azpilicueta","Cesc Fàbregas",33
+"César Azpilicueta","Kurt Zouma",1
+"César Azpilicueta","Ramires",6
+"César Azpilicueta","John Obi Mikel",15
+"César Azpilicueta","Pedro Rodríguez",14
+"César Azpilicueta","Diego Costa",20
+"César Azpilicueta","Willian",26
+"César Azpilicueta","Gary Cahill",9
+"César Azpilicueta","Eden Hazard",16
+"César Azpilicueta","Kenedy",1
+"César Azpilicueta","Nemanja Matić",5
+"César Azpilicueta","John Terry",9
+"César Azpilicueta","Oscar",12
+"César Azpilicueta","Thibaut Courtois",2
+"César Azpilicueta","Bertrand Traoré",2
+"Eden Hazard","Branislav Ivanović",2
+"Eden Hazard","Cesc Fàbregas",19
+"Eden Hazard","Kurt Zouma",1
+"Eden Hazard","Ramires",6
+"Eden Hazard","John Obi Mikel",5
+"Eden Hazard","Pedro Rodríguez",10
+"Eden Hazard","Diego Costa",29
+"Eden Hazard","Willian",26
+"Eden Hazard","Gary Cahill",1
+"Eden Hazard","César Azpilicueta",7
+"Eden Hazard","Kenedy",3
+"Eden Hazard","Nemanja Matić",5
+"Eden Hazard","Oscar",8
+"Eden Hazard","Abdul Baba Rahman",10
+"Eden Hazard","Bertrand Traoré",1
+"Kenedy","Branislav Ivanović",7
+"Kenedy","Cesc Fàbregas",7
+"Kenedy","John Obi Mikel",5
+"Kenedy","Pedro Rodríguez",7
+"Kenedy","Diego Costa",3
+"Kenedy","Willian",3
+"Kenedy","César Azpilicueta",2
+"Kenedy","Eden Hazard",7
+"Kenedy","Nemanja Matić",1
+"Kenedy","Oscar",1
+"Nemanja Matić","Asmir Begović",3
+"Nemanja Matić","Branislav Ivanović",5
+"Nemanja Matić","Cesc Fàbregas",12
+"Nemanja Matić","Kurt Zouma",11
+"Nemanja Matić","Ramires",14
+"Nemanja Matić","Pedro Rodríguez",1
+"Nemanja Matić","Diego Costa",4
+"Nemanja Matić","Willian",9
+"Nemanja Matić","Gary Cahill",10
+"Nemanja Matić","César Azpilicueta",28
+"Nemanja Matić","Eden Hazard",15
+"Nemanja Matić","John Terry",13
+"Nemanja Matić","Oscar",7
+"Nemanja Matić","Abdul Baba Rahman",13
+"John Terry","Asmir Begović",9
+"John Terry","Cesc Fàbregas",3
+"John Terry","Kurt Zouma",7
+"John Terry","Ramires",7
+"John Terry","Eden Hazard",3
+"John Terry","Nemanja Matić",23
+"John Terry","Willian",3
+"John Terry","Gary Cahill",6
+"John Terry","César Azpilicueta",16
+"John Terry","Oscar",5
+"John Terry","Abdul Baba Rahman",14
+"John Terry","Thibaut Courtois",3
+"John Terry","Branislav Ivanović",1
+"Oscar","Cesc Fàbregas",16
+"Oscar","Kurt Zouma",2
+"Oscar","Ramires",4
+"Oscar","Eden Hazard",7
+"Oscar","Diego Costa",6
+"Oscar","Nemanja Matić",6
+"Oscar","Willian",9
+"Oscar","Gary Cahill",2
+"Oscar","John Terry",3
+"Oscar","César Azpilicueta",3
+"Oscar","Abdul Baba Rahman",4
+"Oscar","Pedro Rodríguez",2
+"Oscar","Branislav Ivanović",1
+"Oscar","John Obi Mikel",1
+"Oscar","Kenedy",2
+"Abdul Baba Rahman","Asmir Begović",3
+"Abdul Baba Rahman","Cesc Fàbregas",6
+"Abdul Baba Rahman","Kurt Zouma",1
+"Abdul Baba Rahman","Oscar",14
+"Abdul Baba Rahman","Diego Costa",6
+"Abdul Baba Rahman","Nemanja Matić",13
+"Abdul Baba Rahman","Willian",7
+"Abdul Baba Rahman","John Terry",5
+"Abdul Baba Rahman","César Azpilicueta",1
+"Abdul Baba Rahman","Eden Hazard",11
+"Abdul Baba Rahman","Thibaut Courtois",1
+"Abdul Baba Rahman","Branislav Ivanović",2
+"Abdul Baba Rahman","John Obi Mikel",6
+"Thibaut Courtois","Branislav Ivanović",6
+"Thibaut Courtois","Kurt Zouma",1
+"Thibaut Courtois","Ramires",1
+"Thibaut Courtois","Oscar",1
+"Thibaut Courtois","Diego Costa",7
+"Thibaut Courtois","Nemanja Matić",1
+"Thibaut Courtois","Willian",3
+"Thibaut Courtois","John Terry",1
+"Thibaut Courtois","César Azpilicueta",4
+"Thibaut Courtois","John Obi Mikel",3
+"Thibaut Courtois","Pedro Rodríguez",2
+"Thibaut Courtois","Loïc Rémy",1
+"Thibaut Courtois","Cesc Fàbregas",6
+"Thibaut Courtois","Gary Cahill",5
+"Thibaut Courtois","Kenedy",3
+"Bertrand Traoré","Cesc Fàbregas",1
+"Bertrand Traoré","Eden Hazard",2
+"Bertrand Traoré","John Obi Mikel",2
+"Bertrand Traoré","Willian",3
+"Bertrand Traoré","César Azpilicueta",2

@@ -1,0 +1,330 @@
+"Joe Hart","Vincent Kompany",9
+"Joe Hart","Pablo Zabaleta",2
+"Joe Hart","Samir Nasri",6
+"Joe Hart","Edin Džeko",26
+"Joe Hart","Aleksandar Kolarov",8
+"Joe Hart","Jesús Navas",11
+"Joe Hart","Sergio Agüero",6
+"Joe Hart","Fernandinho",6
+"Joe Hart","Matija Nastasić",11
+"Joe Hart","Yaya Touré",5
+"Joe Hart","James Milner",11
+"Joe Hart","Álvaro Negredo",11
+"Joe Hart","Javi García",4
+"Joe Hart","Micah Richards",5
+"Joe Hart","Gaël Clichy",8
+"Joe Hart","David Silva",4
+"Joe Hart","Joleon Lescott",5
+"Joe Hart","Martín Demichelis",5
+"Joe Hart","Jack Rodwell",1
+"Vincent Kompany","Joe Hart",9
+"Vincent Kompany","Pablo Zabaleta",30
+"Vincent Kompany","Samir Nasri",13
+"Vincent Kompany","Edin Džeko",7
+"Vincent Kompany","Aleksandar Kolarov",6
+"Vincent Kompany","Jesús Navas",4
+"Vincent Kompany","Sergio Agüero",5
+"Vincent Kompany","Fernandinho",17
+"Vincent Kompany","Matija Nastasić",21
+"Vincent Kompany","Yaya Touré",23
+"Vincent Kompany","James Milner",9
+"Vincent Kompany","Álvaro Negredo",2
+"Vincent Kompany","Javi García",1
+"Vincent Kompany","Micah Richards",3
+"Vincent Kompany","Gaël Clichy",4
+"Vincent Kompany","David Silva",7
+"Vincent Kompany","Martín Demichelis",1
+"Vincent Kompany","Joleon Lescott",10
+"Pablo Zabaleta","Joe Hart",8
+"Pablo Zabaleta","Vincent Kompany",28
+"Pablo Zabaleta","Samir Nasri",21
+"Pablo Zabaleta","Edin Džeko",14
+"Pablo Zabaleta","Aleksandar Kolarov",1
+"Pablo Zabaleta","Jesús Navas",56
+"Pablo Zabaleta","Sergio Agüero",14
+"Pablo Zabaleta","Fernandinho",16
+"Pablo Zabaleta","Matija Nastasić",5
+"Pablo Zabaleta","Yaya Touré",26
+"Pablo Zabaleta","James Milner",10
+"Pablo Zabaleta","Álvaro Negredo",11
+"Pablo Zabaleta","Javi García",5
+"Pablo Zabaleta","David Silva",28
+"Pablo Zabaleta","Gaël Clichy",1
+"Pablo Zabaleta","Costel Pantilimon",1
+"Pablo Zabaleta","Martín Demichelis",14
+"Pablo Zabaleta","Joleon Lescott",5
+"Samir Nasri","Joe Hart",1
+"Samir Nasri","Vincent Kompany",13
+"Samir Nasri","Pablo Zabaleta",15
+"Samir Nasri","Edin Džeko",16
+"Samir Nasri","Aleksandar Kolarov",13
+"Samir Nasri","Jesús Navas",6
+"Samir Nasri","Sergio Agüero",24
+"Samir Nasri","Fernandinho",32
+"Samir Nasri","Matija Nastasić",9
+"Samir Nasri","Yaya Touré",60
+"Samir Nasri","James Milner",12
+"Samir Nasri","Álvaro Negredo",10
+"Samir Nasri","Javi García",9
+"Samir Nasri","Micah Richards",4
+"Samir Nasri","Gaël Clichy",8
+"Samir Nasri","David Silva",17
+"Samir Nasri","Martín Demichelis",3
+"Samir Nasri","Joleon Lescott",4
+"Edin Džeko","Joe Hart",1
+"Edin Džeko","Vincent Kompany",3
+"Edin Džeko","Pablo Zabaleta",7
+"Edin Džeko","Samir Nasri",13
+"Edin Džeko","Aleksandar Kolarov",9
+"Edin Džeko","Jesús Navas",13
+"Edin Džeko","Sergio Agüero",11
+"Edin Džeko","Fernandinho",10
+"Edin Džeko","Matija Nastasić",1
+"Edin Džeko","Yaya Touré",13
+"Edin Džeko","James Milner",14
+"Edin Džeko","Álvaro Negredo",2
+"Edin Džeko","Javi García",3
+"Edin Džeko","Micah Richards",3
+"Edin Džeko","Gaël Clichy",2
+"Edin Džeko","David Silva",10
+"Edin Džeko","Joleon Lescott",3
+"Edin Džeko","Martín Demichelis",2
+"Aleksandar Kolarov","Joe Hart",15
+"Aleksandar Kolarov","Vincent Kompany",6
+"Aleksandar Kolarov","Pablo Zabaleta",1
+"Aleksandar Kolarov","Samir Nasri",16
+"Aleksandar Kolarov","Edin Džeko",16
+"Aleksandar Kolarov","Jesús Navas",6
+"Aleksandar Kolarov","Sergio Agüero",16
+"Aleksandar Kolarov","Fernandinho",20
+"Aleksandar Kolarov","Matija Nastasić",15
+"Aleksandar Kolarov","Yaya Touré",25
+"Aleksandar Kolarov","James Milner",26
+"Aleksandar Kolarov","Álvaro Negredo",9
+"Aleksandar Kolarov","Javi García",6
+"Aleksandar Kolarov","David Silva",18
+"Aleksandar Kolarov","Gaël Clichy",11
+"Aleksandar Kolarov","Martín Demichelis",5
+"Aleksandar Kolarov","Joleon Lescott",8
+"Jesús Navas","Joe Hart",5
+"Jesús Navas","Vincent Kompany",4
+"Jesús Navas","Pablo Zabaleta",43
+"Jesús Navas","Samir Nasri",8
+"Jesús Navas","Edin Džeko",11
+"Jesús Navas","Aleksandar Kolarov",3
+"Jesús Navas","Sergio Agüero",9
+"Jesús Navas","Fernandinho",13
+"Jesús Navas","Matija Nastasić",2
+"Jesús Navas","Yaya Touré",19
+"Jesús Navas","James Milner",12
+"Jesús Navas","Álvaro Negredo",9
+"Jesús Navas","Javi García",5
+"Jesús Navas","Micah Richards",6
+"Jesús Navas","David Silva",12
+"Jesús Navas","Martín Demichelis",2
+"Sergio Agüero","Vincent Kompany",1
+"Sergio Agüero","Pablo Zabaleta",3
+"Sergio Agüero","Samir Nasri",22
+"Sergio Agüero","Edin Džeko",5
+"Sergio Agüero","Aleksandar Kolarov",6
+"Sergio Agüero","Jesús Navas",8
+"Sergio Agüero","Fernandinho",12
+"Sergio Agüero","Matija Nastasić",1
+"Sergio Agüero","Yaya Touré",22
+"Sergio Agüero","James Milner",4
+"Sergio Agüero","Álvaro Negredo",12
+"Sergio Agüero","Javi García",1
+"Sergio Agüero","Gaël Clichy",1
+"Sergio Agüero","David Silva",12
+"Sergio Agüero","Martín Demichelis",1
+"Fernandinho","Joe Hart",1
+"Fernandinho","Vincent Kompany",21
+"Fernandinho","Pablo Zabaleta",19
+"Fernandinho","Samir Nasri",31
+"Fernandinho","Edin Džeko",20
+"Fernandinho","Aleksandar Kolarov",18
+"Fernandinho","Jesús Navas",15
+"Fernandinho","Sergio Agüero",26
+"Fernandinho","Matija Nastasić",9
+"Fernandinho","Yaya Touré",49
+"Fernandinho","James Milner",18
+"Fernandinho","Álvaro Negredo",11
+"Fernandinho","Javi García",13
+"Fernandinho","Micah Richards",4
+"Fernandinho","Gaël Clichy",6
+"Fernandinho","David Silva",44
+"Fernandinho","Martín Demichelis",9
+"Fernandinho","Joleon Lescott",17
+"Matija Nastasić","Joe Hart",12
+"Matija Nastasić","Vincent Kompany",12
+"Matija Nastasić","Pablo Zabaleta",2
+"Matija Nastasić","Samir Nasri",10
+"Matija Nastasić","Edin Džeko",5
+"Matija Nastasić","Aleksandar Kolarov",19
+"Matija Nastasić","Jesús Navas",5
+"Matija Nastasić","Sergio Agüero",4
+"Matija Nastasić","Fernandinho",13
+"Matija Nastasić","Yaya Touré",23
+"Matija Nastasić","James Milner",2
+"Matija Nastasić","Álvaro Negredo",3
+"Matija Nastasić","Javi García",4
+"Matija Nastasić","Micah Richards",1
+"Matija Nastasić","Gaël Clichy",17
+"Matija Nastasić","David Silva",8
+"Matija Nastasić","Costel Pantilimon",7
+"Matija Nastasić","Martín Demichelis",6
+"Yaya Touré","Joe Hart",3
+"Yaya Touré","Vincent Kompany",22
+"Yaya Touré","Pablo Zabaleta",39
+"Yaya Touré","Samir Nasri",54
+"Yaya Touré","Edin Džeko",10
+"Yaya Touré","Aleksandar Kolarov",21
+"Yaya Touré","Jesús Navas",29
+"Yaya Touré","Sergio Agüero",21
+"Yaya Touré","Fernandinho",51
+"Yaya Touré","Matija Nastasić",16
+"Yaya Touré","James Milner",12
+"Yaya Touré","Álvaro Negredo",9
+"Yaya Touré","Javi García",6
+"Yaya Touré","Micah Richards",4
+"Yaya Touré","Gaël Clichy",14
+"Yaya Touré","David Silva",45
+"Yaya Touré","Costel Pantilimon",1
+"Yaya Touré","Martín Demichelis",14
+"Yaya Touré","Joleon Lescott",8
+"James Milner","Joe Hart",1
+"James Milner","Vincent Kompany",3
+"James Milner","Pablo Zabaleta",8
+"James Milner","Samir Nasri",9
+"James Milner","Edin Džeko",20
+"James Milner","Aleksandar Kolarov",26
+"James Milner","Jesús Navas",7
+"James Milner","Sergio Agüero",6
+"James Milner","Fernandinho",15
+"James Milner","Yaya Touré",12
+"James Milner","Álvaro Negredo",12
+"James Milner","Javi García",2
+"James Milner","Micah Richards",5
+"James Milner","Gaël Clichy",3
+"James Milner","David Silva",19
+"James Milner","Martín Demichelis",4
+"James Milner","Joleon Lescott",1
+"Álvaro Negredo","Vincent Kompany",2
+"Álvaro Negredo","Pablo Zabaleta",5
+"Álvaro Negredo","Samir Nasri",4
+"Álvaro Negredo","Edin Džeko",3
+"Álvaro Negredo","Aleksandar Kolarov",5
+"Álvaro Negredo","Jesús Navas",5
+"Álvaro Negredo","Sergio Agüero",8
+"Álvaro Negredo","Fernandinho",12
+"Álvaro Negredo","Matija Nastasić",3
+"Álvaro Negredo","Yaya Touré",13
+"Álvaro Negredo","James Milner",3
+"Álvaro Negredo","Javi García",2
+"Álvaro Negredo","Gaël Clichy",1
+"Álvaro Negredo","David Silva",9
+"Álvaro Negredo","Martín Demichelis",1
+"Álvaro Negredo","Joleon Lescott",1
+"Javi García","Joe Hart",3
+"Javi García","Vincent Kompany",2
+"Javi García","Pablo Zabaleta",9
+"Javi García","Samir Nasri",6
+"Javi García","Edin Džeko",9
+"Javi García","Aleksandar Kolarov",7
+"Javi García","Jesús Navas",7
+"Javi García","Sergio Agüero",1
+"Javi García","Fernandinho",16
+"Javi García","Matija Nastasić",6
+"Javi García","Yaya Touré",5
+"Javi García","James Milner",7
+"Javi García","Álvaro Negredo",3
+"Javi García","David Silva",5
+"Javi García","Micah Richards",3
+"Javi García","Joleon Lescott",6
+"Javi García","Martín Demichelis",8
+"Micah Richards","Joe Hart",2
+"Micah Richards","Samir Nasri",1
+"Micah Richards","Edin Džeko",4
+"Micah Richards","Jesús Navas",16
+"Micah Richards","Fernandinho",7
+"Micah Richards","Matija Nastasić",4
+"Micah Richards","Yaya Touré",1
+"Micah Richards","James Milner",10
+"Micah Richards","David Silva",1
+"Micah Richards","Javi García",3
+"Micah Richards","Martín Demichelis",5
+"Gaël Clichy","Joe Hart",7
+"Gaël Clichy","Vincent Kompany",12
+"Gaël Clichy","Samir Nasri",11
+"Gaël Clichy","Edin Džeko",4
+"Gaël Clichy","Jesús Navas",1
+"Gaël Clichy","Sergio Agüero",9
+"Gaël Clichy","Fernandinho",10
+"Gaël Clichy","Matija Nastasić",14
+"Gaël Clichy","Yaya Touré",15
+"Gaël Clichy","James Milner",7
+"Gaël Clichy","Álvaro Negredo",4
+"Gaël Clichy","David Silva",21
+"Gaël Clichy","Pablo Zabaleta",1
+"Gaël Clichy","Aleksandar Kolarov",14
+"Gaël Clichy","Costel Pantilimon",2
+"Gaël Clichy","Martín Demichelis",7
+"David Silva","Vincent Kompany",5
+"David Silva","Samir Nasri",16
+"David Silva","Edin Džeko",6
+"David Silva","Jesús Navas",18
+"David Silva","Sergio Agüero",14
+"David Silva","Gaël Clichy",14
+"David Silva","Fernandinho",33
+"David Silva","Matija Nastasić",6
+"David Silva","Yaya Touré",50
+"David Silva","James Milner",24
+"David Silva","Álvaro Negredo",8
+"David Silva","Pablo Zabaleta",17
+"David Silva","Aleksandar Kolarov",19
+"David Silva","Javi García",4
+"David Silva","Martín Demichelis",1
+"David Silva","Joleon Lescott",6
+"Costel Pantilimon","Pablo Zabaleta",1
+"Costel Pantilimon","Samir Nasri",3
+"Costel Pantilimon","David Silva",1
+"Costel Pantilimon","Gaël Clichy",5
+"Costel Pantilimon","Fernandinho",2
+"Costel Pantilimon","Martín Demichelis",2
+"Costel Pantilimon","Matija Nastasić",5
+"Costel Pantilimon","Yaya Touré",2
+"Costel Pantilimon","Aleksandar Kolarov",1
+"Costel Pantilimon","Jesús Navas",1
+"Martín Demichelis","Costel Pantilimon",1
+"Martín Demichelis","Pablo Zabaleta",16
+"Martín Demichelis","Samir Nasri",6
+"Martín Demichelis","Álvaro Negredo",4
+"Martín Demichelis","Sergio Agüero",2
+"Martín Demichelis","David Silva",5
+"Martín Demichelis","Gaël Clichy",7
+"Martín Demichelis","Fernandinho",11
+"Martín Demichelis","Matija Nastasić",5
+"Martín Demichelis","Yaya Touré",11
+"Martín Demichelis","James Milner",5
+"Martín Demichelis","Aleksandar Kolarov",6
+"Martín Demichelis","Jesús Navas",5
+"Martín Demichelis","Joe Hart",11
+"Martín Demichelis","Micah Richards",6
+"Martín Demichelis","Joleon Lescott",13
+"Martín Demichelis","Edin Džeko",3
+"Martín Demichelis","Javi García",5
+"Martín Demichelis","Vincent Kompany",2
+"Joleon Lescott","Joe Hart",15
+"Joleon Lescott","Micah Richards",1
+"Joleon Lescott","James Milner",7
+"Joleon Lescott","Samir Nasri",8
+"Joleon Lescott","Edin Džeko",4
+"Joleon Lescott","Aleksandar Kolarov",19
+"Joleon Lescott","Javi García",4
+"Joleon Lescott","Fernandinho",9
+"Joleon Lescott","Martín Demichelis",11
+"Joleon Lescott","Yaya Touré",6
+"Joleon Lescott","David Silva",7
+"Joleon Lescott","Pablo Zabaleta",4
+"Joleon Lescott","Vincent Kompany",10
+"Joleon Lescott","Gaël Clichy",3

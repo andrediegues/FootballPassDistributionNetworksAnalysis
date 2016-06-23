@@ -1,0 +1,239 @@
+"Sergio Rico","Benoît Trémoulinas",4
+"Sergio Rico","Grzegorz Krychowiak",12
+"Sergio Rico","Kolodziejczak",46
+"Sergio Rico","Kevin Gameiro",1
+"Sergio Rico","José Antonio Reyes",2
+"Sergio Rico","Steven N'Zonzi",2
+"Sergio Rico","Marco Andreolli",14
+"Sergio Rico","Éver Banega",5
+"Sergio Rico","Vitolo",5
+"Sergio Rico","Coke",10
+"Sergio Rico","Michael Krohn-Dehli",4
+"Sergio Rico","Yevhen Konoplyanka",4
+"Sergio Rico","Vicente Iborra",1
+"Sergio Rico","Adil Rami",25
+"Sergio Rico","Fernando Llorente",3
+"Benoît Trémoulinas","Sergio Rico",5
+"Benoît Trémoulinas","Grzegorz Krychowiak",19
+"Benoît Trémoulinas","Kolodziejczak",53
+"Benoît Trémoulinas","Kevin Gameiro",6
+"Benoît Trémoulinas","José Antonio Reyes",10
+"Benoît Trémoulinas","Steven N'Zonzi",12
+"Benoît Trémoulinas","Marco Andreolli",1
+"Benoît Trémoulinas","Éver Banega",26
+"Benoît Trémoulinas","Vitolo",4
+"Benoît Trémoulinas","Coke",1
+"Benoît Trémoulinas","Michael Krohn-Dehli",14
+"Benoît Trémoulinas","Ciro Immobile",1
+"Benoît Trémoulinas","Yevhen Konoplyanka",34
+"Benoît Trémoulinas","Vicente Iborra",3
+"Benoît Trémoulinas","Adil Rami",6
+"Benoît Trémoulinas","Fernando Llorente",1
+"Grzegorz Krychowiak","Sergio Rico",12
+"Grzegorz Krychowiak","Benoît Trémoulinas",37
+"Grzegorz Krychowiak","Kolodziejczak",48
+"Grzegorz Krychowiak","Kevin Gameiro",7
+"Grzegorz Krychowiak","José Antonio Reyes",11
+"Grzegorz Krychowiak","Steven N'Zonzi",17
+"Grzegorz Krychowiak","Marco Andreolli",14
+"Grzegorz Krychowiak","Éver Banega",52
+"Grzegorz Krychowiak","Vitolo",18
+"Grzegorz Krychowiak","Coke",31
+"Grzegorz Krychowiak","Michael Krohn-Dehli",28
+"Grzegorz Krychowiak","Yevhen Konoplyanka",10
+"Grzegorz Krychowiak","Vicente Iborra",2
+"Grzegorz Krychowiak","Adil Rami",29
+"Grzegorz Krychowiak","Mariano Ferreira",4
+"Kolodziejczak","Sergio Rico",37
+"Kolodziejczak","Benoît Trémoulinas",43
+"Kolodziejczak","Grzegorz Krychowiak",49
+"Kolodziejczak","Kevin Gameiro",5
+"Kolodziejczak","José Antonio Reyes",5
+"Kolodziejczak","Steven N'Zonzi",23
+"Kolodziejczak","Marco Andreolli",18
+"Kolodziejczak","Éver Banega",47
+"Kolodziejczak","Vitolo",3
+"Kolodziejczak","Coke",6
+"Kolodziejczak","Michael Krohn-Dehli",22
+"Kolodziejczak","Yevhen Konoplyanka",16
+"Kolodziejczak","Vicente Iborra",12
+"Kolodziejczak","Adil Rami",21
+"Kolodziejczak","Fernando Llorente",2
+"Kevin Gameiro","Benoît Trémoulinas",3
+"Kevin Gameiro","Grzegorz Krychowiak",2
+"Kevin Gameiro","José Antonio Reyes",5
+"Kevin Gameiro","Steven N'Zonzi",3
+"Kevin Gameiro","Éver Banega",8
+"Kevin Gameiro","Vitolo",8
+"Kevin Gameiro","Coke",8
+"Kevin Gameiro","Michael Krohn-Dehli",6
+"Kevin Gameiro","Yevhen Konoplyanka",5
+"Kevin Gameiro","Vicente Iborra",3
+"Kevin Gameiro","Adil Rami",2
+"José Antonio Reyes","Benoît Trémoulinas",8
+"José Antonio Reyes","Grzegorz Krychowiak",6
+"José Antonio Reyes","Kolodziejczak",2
+"José Antonio Reyes","Kevin Gameiro",4
+"José Antonio Reyes","Steven N'Zonzi",4
+"José Antonio Reyes","Marco Andreolli",4
+"José Antonio Reyes","Éver Banega",5
+"José Antonio Reyes","Vitolo",3
+"José Antonio Reyes","Coke",8
+"José Antonio Reyes","Michael Krohn-Dehli",5
+"José Antonio Reyes","Ciro Immobile",3
+"José Antonio Reyes","Yevhen Konoplyanka",5
+"José Antonio Reyes","Vicente Iborra",1
+"Steven N'Zonzi","Sergio Rico",2
+"Steven N'Zonzi","Benoît Trémoulinas",21
+"Steven N'Zonzi","Grzegorz Krychowiak",17
+"Steven N'Zonzi","Kolodziejczak",20
+"Steven N'Zonzi","Kevin Gameiro",1
+"Steven N'Zonzi","José Antonio Reyes",5
+"Steven N'Zonzi","Marco Andreolli",15
+"Steven N'Zonzi","Éver Banega",23
+"Steven N'Zonzi","Vitolo",7
+"Steven N'Zonzi","Coke",21
+"Steven N'Zonzi","Michael Krohn-Dehli",10
+"Steven N'Zonzi","Yevhen Konoplyanka",8
+"Steven N'Zonzi","Adil Rami",8
+"Steven N'Zonzi","Mariano Ferreira",3
+"Marco Andreolli","Sergio Rico",6
+"Marco Andreolli","Benoît Trémoulinas",1
+"Marco Andreolli","Grzegorz Krychowiak",20
+"Marco Andreolli","Kolodziejczak",26
+"Marco Andreolli","Kevin Gameiro",1
+"Marco Andreolli","José Antonio Reyes",3
+"Marco Andreolli","Steven N'Zonzi",16
+"Marco Andreolli","Éver Banega",4
+"Marco Andreolli","Vitolo",3
+"Marco Andreolli","Coke",23
+"Marco Andreolli","Michael Krohn-Dehli",6
+"Marco Andreolli","Yevhen Konoplyanka",2
+"Éver Banega","Benoît Trémoulinas",44
+"Éver Banega","Grzegorz Krychowiak",31
+"Éver Banega","Kolodziejczak",17
+"Éver Banega","Kevin Gameiro",8
+"Éver Banega","José Antonio Reyes",8
+"Éver Banega","Steven N'Zonzi",15
+"Éver Banega","Marco Andreolli",2
+"Éver Banega","Vitolo",52
+"Éver Banega","Coke",38
+"Éver Banega","Michael Krohn-Dehli",21
+"Éver Banega","Yevhen Konoplyanka",29
+"Éver Banega","Adil Rami",19
+"Éver Banega","Vicente Iborra",5
+"Éver Banega","Mariano Ferreira",7
+"Éver Banega","Fernando Llorente",2
+"Vitolo","Sergio Rico",1
+"Vitolo","Benoît Trémoulinas",10
+"Vitolo","Grzegorz Krychowiak",11
+"Vitolo","Kolodziejczak",3
+"Vitolo","Kevin Gameiro",6
+"Vitolo","José Antonio Reyes",1
+"Vitolo","Steven N'Zonzi",9
+"Vitolo","Marco Andreolli",1
+"Vitolo","Éver Banega",32
+"Vitolo","Coke",28
+"Vitolo","Michael Krohn-Dehli",13
+"Vitolo","Yevhen Konoplyanka",8
+"Vitolo","Adil Rami",1
+"Vitolo","Vicente Iborra",5
+"Vitolo","Mariano Ferreira",5
+"Vitolo","Fernando Llorente",2
+"Coke","Sergio Rico",3
+"Coke","Benoît Trémoulinas",2
+"Coke","Grzegorz Krychowiak",15
+"Coke","Kolodziejczak",3
+"Coke","Kevin Gameiro",14
+"Coke","José Antonio Reyes",4
+"Coke","Steven N'Zonzi",23
+"Coke","Marco Andreolli",15
+"Coke","Éver Banega",22
+"Coke","Vitolo",27
+"Coke","Michael Krohn-Dehli",11
+"Coke","Yevhen Konoplyanka",11
+"Coke","Vicente Iborra",5
+"Coke","Juan Muñoz",1
+"Coke","Adil Rami",18
+"Coke","Fernando Llorente",5
+"Michael Krohn-Dehli","Sergio Rico",5
+"Michael Krohn-Dehli","Benoît Trémoulinas",16
+"Michael Krohn-Dehli","Grzegorz Krychowiak",28
+"Michael Krohn-Dehli","Kolodziejczak",17
+"Michael Krohn-Dehli","Kevin Gameiro",4
+"Michael Krohn-Dehli","José Antonio Reyes",10
+"Michael Krohn-Dehli","Steven N'Zonzi",7
+"Michael Krohn-Dehli","Marco Andreolli",3
+"Michael Krohn-Dehli","Éver Banega",22
+"Michael Krohn-Dehli","Vitolo",11
+"Michael Krohn-Dehli","Coke",14
+"Michael Krohn-Dehli","Ciro Immobile",1
+"Michael Krohn-Dehli","Yevhen Konoplyanka",10
+"Michael Krohn-Dehli","Vicente Iborra",5
+"Michael Krohn-Dehli","Adil Rami",8
+"Michael Krohn-Dehli","Mariano Ferreira",9
+"Michael Krohn-Dehli","Fernando Llorente",1
+"Ciro Immobile","Grzegorz Krychowiak",1
+"Ciro Immobile","Éver Banega",1
+"Ciro Immobile","Yevhen Konoplyanka",2
+"Ciro Immobile","Juan Muñoz",1
+"Yevhen Konoplyanka","Benoît Trémoulinas",45
+"Yevhen Konoplyanka","Grzegorz Krychowiak",2
+"Yevhen Konoplyanka","Kolodziejczak",1
+"Yevhen Konoplyanka","Kevin Gameiro",2
+"Yevhen Konoplyanka","José Antonio Reyes",2
+"Yevhen Konoplyanka","Steven N'Zonzi",4
+"Yevhen Konoplyanka","Marco Andreolli",3
+"Yevhen Konoplyanka","Éver Banega",25
+"Yevhen Konoplyanka","Vitolo",7
+"Yevhen Konoplyanka","Coke",9
+"Yevhen Konoplyanka","Michael Krohn-Dehli",9
+"Yevhen Konoplyanka","Vicente Iborra",2
+"Yevhen Konoplyanka","Juan Muñoz",1
+"Yevhen Konoplyanka","Mariano Ferreira",1
+"Yevhen Konoplyanka","Fernando Llorente",3
+"Vicente Iborra","Benoît Trémoulinas",2
+"Vicente Iborra","Grzegorz Krychowiak",5
+"Vicente Iborra","Kolodziejczak",6
+"Vicente Iborra","Michael Krohn-Dehli",3
+"Vicente Iborra","Kevin Gameiro",2
+"Vicente Iborra","Marco Andreolli",3
+"Vicente Iborra","Yevhen Konoplyanka",4
+"Vicente Iborra","Coke",8
+"Vicente Iborra","Adil Rami",6
+"Vicente Iborra","Éver Banega",7
+"Vicente Iborra","Vitolo",6
+"Vicente Iborra","Fernando Llorente",2
+"Juan Muñoz","Vicente Iborra",1
+"Adil Rami","Sergio Rico",17
+"Adil Rami","Benoît Trémoulinas",6
+"Adil Rami","Grzegorz Krychowiak",33
+"Adil Rami","Kolodziejczak",40
+"Adil Rami","Vicente Iborra",4
+"Adil Rami","Kevin Gameiro",4
+"Adil Rami","Éver Banega",20
+"Adil Rami","Vitolo",6
+"Adil Rami","Yevhen Konoplyanka",3
+"Adil Rami","Coke",16
+"Adil Rami","Michael Krohn-Dehli",6
+"Adil Rami","Steven N'Zonzi",11
+"Adil Rami","Mariano Ferreira",1
+"Adil Rami","Fernando Llorente",1
+"Mariano Ferreira","Sergio Rico",1
+"Mariano Ferreira","Benoît Trémoulinas",1
+"Mariano Ferreira","Adil Rami",1
+"Mariano Ferreira","Grzegorz Krychowiak",8
+"Mariano Ferreira","Kolodziejczak",1
+"Mariano Ferreira","Éver Banega",1
+"Mariano Ferreira","Vitolo",6
+"Mariano Ferreira","Michael Krohn-Dehli",4
+"Mariano Ferreira","Steven N'Zonzi",1
+"Mariano Ferreira","Fernando Llorente",1
+"Mariano Ferreira","Ciro Immobile",2
+"Fernando Llorente","Adil Rami",1
+"Fernando Llorente","Grzegorz Krychowiak",1
+"Fernando Llorente","Vicente Iborra",1
+"Fernando Llorente","Éver Banega",8
+"Fernando Llorente","Vitolo",4
+"Fernando Llorente","Yevhen Konoplyanka",4
+"Fernando Llorente","Coke",5

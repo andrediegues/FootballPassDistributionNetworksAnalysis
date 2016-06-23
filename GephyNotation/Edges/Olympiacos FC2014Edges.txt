@@ -1,0 +1,339 @@
+"Roberto","Giannis Maniatis",7
+"Roberto","Paulo Machado",6
+"Roberto","Kostas Mitroglou",16
+"Roberto","Andreas Samaris",16
+"Roberto","David Fuster",4
+"Roberto","Carl Medjani",1
+"Roberto","Dimitris Siovas",22
+"Roberto","Alejandro Domínguez",2
+"Roberto","Vladimír Weiss",5
+"Roberto","Gaëtan Bong",6
+"Roberto","Javier Saviola",3
+"Roberto","Joel Campbell",7
+"Roberto","Sambou Yatabaré",3
+"Roberto","Delvin N'Dinga",9
+"Roberto","Kostas Manolas",24
+"Roberto","Michael Olaitan",2
+"Roberto","José Holebas",14
+"Roberto","Leandro Salino",7
+"Roberto","Hernán Peréz",5
+"Roberto","Iván Marcano",15
+"Roberto","Nelson Valdez",5
+"Giannis Maniatis","Roberto",12
+"Giannis Maniatis","Paulo Machado",2
+"Giannis Maniatis","Kostas Mitroglou",17
+"Giannis Maniatis","Andreas Samaris",16
+"Giannis Maniatis","David Fuster",24
+"Giannis Maniatis","Carl Medjani",6
+"Giannis Maniatis","Dimitris Siovas",7
+"Giannis Maniatis","Alejandro Domínguez",22
+"Giannis Maniatis","Vladimír Weiss",11
+"Giannis Maniatis","Gaëtan Bong",8
+"Giannis Maniatis","Javier Saviola",11
+"Giannis Maniatis","Joel Campbell",16
+"Giannis Maniatis","Sambou Yatabaré",2
+"Giannis Maniatis","Delvin N'Dinga",12
+"Giannis Maniatis","Kostas Manolas",10
+"Giannis Maniatis","Michael Olaitan",8
+"Giannis Maniatis","José Holebas",16
+"Giannis Maniatis","Leandro Salino",25
+"Giannis Maniatis","Hernán Peréz",6
+"Giannis Maniatis","Iván Marcano",4
+"Paulo Machado","Roberto",1
+"Paulo Machado","Giannis Maniatis",8
+"Paulo Machado","Andreas Samaris",16
+"Paulo Machado","David Fuster",7
+"Paulo Machado","Carl Medjani",1
+"Paulo Machado","Dimitris Siovas",5
+"Paulo Machado","Alejandro Domínguez",6
+"Paulo Machado","Vladimír Weiss",6
+"Paulo Machado","Gaëtan Bong",6
+"Paulo Machado","Javier Saviola",1
+"Paulo Machado","Joel Campbell",7
+"Paulo Machado","Sambou Yatabaré",1
+"Paulo Machado","José Holebas",3
+"Paulo Machado","Kostas Manolas",9
+"Paulo Machado","Leandro Salino",5
+"Paulo Machado","Michael Olaitan",1
+"Paulo Machado","Hernán Peréz",1
+"Paulo Machado","Iván Marcano",1
+"Kostas Mitroglou","Roberto",1
+"Kostas Mitroglou","Giannis Maniatis",8
+"Kostas Mitroglou","Paulo Machado",3
+"Kostas Mitroglou","Andreas Samaris",10
+"Kostas Mitroglou","David Fuster",14
+"Kostas Mitroglou","Alejandro Domínguez",11
+"Kostas Mitroglou","Vladimír Weiss",11
+"Kostas Mitroglou","Gaëtan Bong",1
+"Kostas Mitroglou","Javier Saviola",6
+"Kostas Mitroglou","Joel Campbell",1
+"Kostas Mitroglou","Delvin N'Dinga",3
+"Kostas Mitroglou","Kostas Manolas",2
+"Kostas Mitroglou","Michael Olaitan",1
+"Kostas Mitroglou","José Holebas",5
+"Kostas Mitroglou","Leandro Salino",4
+"Andreas Samaris","Roberto",5
+"Andreas Samaris","Giannis Maniatis",26
+"Andreas Samaris","Paulo Machado",12
+"Andreas Samaris","Kostas Mitroglou",10
+"Andreas Samaris","David Fuster",21
+"Andreas Samaris","Carl Medjani",5
+"Andreas Samaris","Dimitris Siovas",33
+"Andreas Samaris","Alejandro Domínguez",27
+"Andreas Samaris","Vladimír Weiss",11
+"Andreas Samaris","Gaëtan Bong",6
+"Andreas Samaris","Javier Saviola",9
+"Andreas Samaris","Joel Campbell",16
+"Andreas Samaris","Sambou Yatabaré",3
+"Andreas Samaris","Delvin N'Dinga",6
+"Andreas Samaris","Kostas Manolas",21
+"Andreas Samaris","Michael Olaitan",4
+"Andreas Samaris","José Holebas",22
+"Andreas Samaris","Leandro Salino",12
+"David Fuster","Roberto",1
+"David Fuster","Giannis Maniatis",17
+"David Fuster","Paulo Machado",2
+"David Fuster","Kostas Mitroglou",19
+"David Fuster","Andreas Samaris",19
+"David Fuster","Dimitris Siovas",7
+"David Fuster","Alejandro Domínguez",20
+"David Fuster","Vladimír Weiss",8
+"David Fuster","Javier Saviola",6
+"David Fuster","Joel Campbell",10
+"David Fuster","Sambou Yatabaré",1
+"David Fuster","Delvin N'Dinga",4
+"David Fuster","Kostas Manolas",6
+"David Fuster","Michael Olaitan",4
+"David Fuster","José Holebas",12
+"David Fuster","Leandro Salino",4
+"Carl Medjani","Roberto",5
+"Carl Medjani","Giannis Maniatis",6
+"Carl Medjani","Paulo Machado",2
+"Carl Medjani","Andreas Samaris",2
+"Carl Medjani","David Fuster",2
+"Carl Medjani","Dimitris Siovas",3
+"Carl Medjani","Vladimír Weiss",1
+"Dimitris Siovas","Roberto",33
+"Dimitris Siovas","Giannis Maniatis",6
+"Dimitris Siovas","Paulo Machado",6
+"Dimitris Siovas","Kostas Mitroglou",5
+"Dimitris Siovas","Andreas Samaris",28
+"Dimitris Siovas","David Fuster",7
+"Dimitris Siovas","Carl Medjani",3
+"Dimitris Siovas","Alejandro Domínguez",10
+"Dimitris Siovas","Vladimír Weiss",6
+"Dimitris Siovas","Gaëtan Bong",8
+"Dimitris Siovas","Javier Saviola",7
+"Dimitris Siovas","Joel Campbell",5
+"Dimitris Siovas","Sambou Yatabaré",1
+"Dimitris Siovas","Delvin N'Dinga",3
+"Dimitris Siovas","Kostas Manolas",20
+"Dimitris Siovas","Michael Olaitan",1
+"Dimitris Siovas","José Holebas",22
+"Dimitris Siovas","Leandro Salino",2
+"Alejandro Domínguez","Roberto",1
+"Alejandro Domínguez","Giannis Maniatis",34
+"Alejandro Domínguez","Paulo Machado",7
+"Alejandro Domínguez","Kostas Mitroglou",11
+"Alejandro Domínguez","Andreas Samaris",15
+"Alejandro Domínguez","David Fuster",16
+"Alejandro Domínguez","Dimitris Siovas",5
+"Alejandro Domínguez","Vladimír Weiss",17
+"Alejandro Domínguez","Gaëtan Bong",4
+"Alejandro Domínguez","Javier Saviola",1
+"Alejandro Domínguez","Joel Campbell",15
+"Alejandro Domínguez","Sambou Yatabaré",2
+"Alejandro Domínguez","Delvin N'Dinga",11
+"Alejandro Domínguez","Kostas Manolas",3
+"Alejandro Domínguez","Michael Olaitan",5
+"Alejandro Domínguez","José Holebas",20
+"Alejandro Domínguez","Leandro Salino",13
+"Alejandro Domínguez","Hernán Peréz",7
+"Alejandro Domínguez","Iván Marcano",2
+"Alejandro Domínguez","Nelson Valdez",1
+"Vladimír Weiss","Giannis Maniatis",6
+"Vladimír Weiss","Paulo Machado",3
+"Vladimír Weiss","Kostas Mitroglou",8
+"Vladimír Weiss","Andreas Samaris",10
+"Vladimír Weiss","David Fuster",9
+"Vladimír Weiss","Carl Medjani",1
+"Vladimír Weiss","Dimitris Siovas",3
+"Vladimír Weiss","Alejandro Domínguez",11
+"Vladimír Weiss","Gaëtan Bong",6
+"Vladimír Weiss","Javier Saviola",10
+"Vladimír Weiss","Joel Campbell",8
+"Vladimír Weiss","Delvin N'Dinga",3
+"Vladimír Weiss","Kostas Manolas",1
+"Vladimír Weiss","Michael Olaitan",2
+"Vladimír Weiss","José Holebas",8
+"Gaëtan Bong","Roberto",1
+"Gaëtan Bong","Giannis Maniatis",7
+"Gaëtan Bong","Paulo Machado",11
+"Gaëtan Bong","Kostas Mitroglou",6
+"Gaëtan Bong","Andreas Samaris",6
+"Gaëtan Bong","David Fuster",4
+"Gaëtan Bong","Carl Medjani",2
+"Gaëtan Bong","Dimitris Siovas",7
+"Gaëtan Bong","Alejandro Domínguez",4
+"Gaëtan Bong","Vladimír Weiss",11
+"Gaëtan Bong","Javier Saviola",1
+"Gaëtan Bong","Joel Campbell",1
+"Gaëtan Bong","Delvin N'Dinga",4
+"Gaëtan Bong","José Holebas",4
+"Javier Saviola","Roberto",1
+"Javier Saviola","Giannis Maniatis",4
+"Javier Saviola","Paulo Machado",2
+"Javier Saviola","Kostas Mitroglou",3
+"Javier Saviola","Andreas Samaris",6
+"Javier Saviola","David Fuster",7
+"Javier Saviola","Alejandro Domínguez",4
+"Javier Saviola","Vladimír Weiss",9
+"Javier Saviola","Gaëtan Bong",4
+"Javier Saviola","Joel Campbell",2
+"Javier Saviola","Sambou Yatabaré",1
+"Javier Saviola","Michael Olaitan",3
+"Javier Saviola","José Holebas",6
+"Javier Saviola","Leandro Salino",3
+"Joel Campbell","Giannis Maniatis",12
+"Joel Campbell","Paulo Machado",5
+"Joel Campbell","Kostas Mitroglou",5
+"Joel Campbell","Andreas Samaris",10
+"Joel Campbell","David Fuster",7
+"Joel Campbell","Dimitris Siovas",3
+"Joel Campbell","Alejandro Domínguez",14
+"Joel Campbell","Vladimír Weiss",1
+"Joel Campbell","Gaëtan Bong",2
+"Joel Campbell","Javier Saviola",6
+"Joel Campbell","José Holebas",5
+"Joel Campbell","Kostas Manolas",6
+"Joel Campbell","Leandro Salino",14
+"Joel Campbell","Michael Olaitan",7
+"Joel Campbell","Delvin N'Dinga",6
+"Joel Campbell","Hernán Peréz",4
+"Joel Campbell","Nelson Valdez",3
+"Sambou Yatabaré","Giannis Maniatis",5
+"Sambou Yatabaré","Kostas Mitroglou",2
+"Sambou Yatabaré","Andreas Samaris",2
+"Sambou Yatabaré","Dimitris Siovas",1
+"Sambou Yatabaré","Alejandro Domínguez",3
+"Sambou Yatabaré","Javier Saviola",2
+"Sambou Yatabaré","Kostas Manolas",1
+"Sambou Yatabaré","Leandro Salino",5
+"Sambou Yatabaré","Delvin N'Dinga",1
+"Delvin N'Dinga","Roberto",5
+"Delvin N'Dinga","Giannis Maniatis",20
+"Delvin N'Dinga","Javier Saviola",2
+"Delvin N'Dinga","Kostas Mitroglou",6
+"Delvin N'Dinga","Andreas Samaris",2
+"Delvin N'Dinga","Dimitris Siovas",5
+"Delvin N'Dinga","Kostas Manolas",12
+"Delvin N'Dinga","Vladimír Weiss",2
+"Delvin N'Dinga","Gaëtan Bong",2
+"Delvin N'Dinga","Michael Olaitan",3
+"Delvin N'Dinga","David Fuster",9
+"Delvin N'Dinga","José Holebas",18
+"Delvin N'Dinga","Alejandro Domínguez",18
+"Delvin N'Dinga","Leandro Salino",17
+"Delvin N'Dinga","Sambou Yatabaré",1
+"Delvin N'Dinga","Paulo Machado",1
+"Delvin N'Dinga","Joel Campbell",8
+"Delvin N'Dinga","Hernán Peréz",2
+"Delvin N'Dinga","Iván Marcano",10
+"Delvin N'Dinga","Nelson Valdez",1
+"Kostas Manolas","Roberto",25
+"Kostas Manolas","Giannis Maniatis",18
+"Kostas Manolas","Delvin N'Dinga",9
+"Kostas Manolas","Javier Saviola",2
+"Kostas Manolas","Kostas Mitroglou",5
+"Kostas Manolas","Andreas Samaris",28
+"Kostas Manolas","Dimitris Siovas",28
+"Kostas Manolas","Vladimír Weiss",2
+"Kostas Manolas","Gaëtan Bong",2
+"Kostas Manolas","Michael Olaitan",3
+"Kostas Manolas","David Fuster",7
+"Kostas Manolas","José Holebas",9
+"Kostas Manolas","Alejandro Domínguez",12
+"Kostas Manolas","Leandro Salino",21
+"Kostas Manolas","Sambou Yatabaré",3
+"Kostas Manolas","Joel Campbell",4
+"Kostas Manolas","Paulo Machado",5
+"Kostas Manolas","Iván Marcano",6
+"Kostas Manolas","Nelson Valdez",1
+"Michael Olaitan","Giannis Maniatis",1
+"Michael Olaitan","Delvin N'Dinga",5
+"Michael Olaitan","Javier Saviola",6
+"Michael Olaitan","Andreas Samaris",6
+"Michael Olaitan","Dimitris Siovas",1
+"Michael Olaitan","Vladimír Weiss",3
+"Michael Olaitan","David Fuster",1
+"Michael Olaitan","José Holebas",2
+"Michael Olaitan","Alejandro Domínguez",7
+"Michael Olaitan","Paulo Machado",1
+"Michael Olaitan","Joel Campbell",8
+"Michael Olaitan","Leandro Salino",3
+"Michael Olaitan","Hernán Peréz",2
+"Michael Olaitan","Nelson Valdez",1
+"José Holebas","Roberto",6
+"José Holebas","Giannis Maniatis",11
+"José Holebas","Delvin N'Dinga",14
+"José Holebas","Javier Saviola",6
+"José Holebas","Kostas Mitroglou",6
+"José Holebas","Andreas Samaris",21
+"José Holebas","Dimitris Siovas",14
+"José Holebas","Kostas Manolas",8
+"José Holebas","Vladimír Weiss",19
+"José Holebas","Gaëtan Bong",3
+"José Holebas","Michael Olaitan",8
+"José Holebas","David Fuster",18
+"José Holebas","Alejandro Domínguez",24
+"José Holebas","Leandro Salino",1
+"José Holebas","Sambou Yatabaré",1
+"José Holebas","Joel Campbell",4
+"José Holebas","Hernán Peréz",8
+"José Holebas","Iván Marcano",7
+"José Holebas","Nelson Valdez",1
+"Leandro Salino","Roberto",4
+"Leandro Salino","Giannis Maniatis",29
+"Leandro Salino","Kostas Mitroglou",8
+"Leandro Salino","Andreas Samaris",9
+"Leandro Salino","David Fuster",8
+"Leandro Salino","José Holebas",1
+"Leandro Salino","Dimitris Siovas",2
+"Leandro Salino","Kostas Manolas",17
+"Leandro Salino","Alejandro Domínguez",12
+"Leandro Salino","Vladimír Weiss",2
+"Leandro Salino","Delvin N'Dinga",16
+"Leandro Salino","Sambou Yatabaré",11
+"Leandro Salino","Javier Saviola",2
+"Leandro Salino","Gaëtan Bong",1
+"Leandro Salino","Joel Campbell",43
+"Leandro Salino","Paulo Machado",7
+"Leandro Salino","Michael Olaitan",7
+"Leandro Salino","Hernán Peréz",9
+"Leandro Salino","Iván Marcano",1
+"Leandro Salino","Nelson Valdez",2
+"Hernán Peréz","Giannis Maniatis",1
+"Hernán Peréz","Delvin N'Dinga",3
+"Hernán Peréz","José Holebas",2
+"Hernán Peréz","Joel Campbell",5
+"Hernán Peréz","Leandro Salino",2
+"Hernán Peréz","Alejandro Domínguez",9
+"Hernán Peréz","Michael Olaitan",1
+"Hernán Peréz","David Fuster",1
+"Iván Marcano","Roberto",11
+"Iván Marcano","Giannis Maniatis",3
+"Iván Marcano","Delvin N'Dinga",16
+"Iván Marcano","Hernán Peréz",3
+"Iván Marcano","José Holebas",8
+"Iván Marcano","Kostas Manolas",9
+"Iván Marcano","Leandro Salino",1
+"Iván Marcano","Alejandro Domínguez",5
+"Iván Marcano","Michael Olaitan",3
+"Iván Marcano","Paulo Machado",1
+"Iván Marcano","Nelson Valdez",1
+"Iván Marcano","David Fuster",5
+"Nelson Valdez","Joel Campbell",3
+"Nelson Valdez","Alejandro Domínguez",3
+"Nelson Valdez","Michael Olaitan",1
+"Nelson Valdez","Nikos Vergos",1
+"Nikos Vergos","Joel Campbell",1

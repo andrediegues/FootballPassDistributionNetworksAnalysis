@@ -1,0 +1,314 @@
+"Andriy Dykan","Juan Insaurralde",7
+"Andriy Dykan","Kirill Kombarov",3
+"Andriy Dykan","Aiden McGeady",2
+"Andriy Dykan","Ari",9
+"Andriy Dykan","Marek Suchý",5
+"Andriy Dykan","Dmitri Kombarov",4
+"Andriy Dykan","Emmanuel Emenike",10
+"Andriy Dykan","Romulo",5
+"Andriy Dykan","Rafael Carioca",3
+"Andriy Dykan","Artem Dzyuba",3
+"Andriy Dykan","Kim Källström",3
+"Andriy Dykan","José Manuel Jurado",3
+"Juan Insaurralde","Andriy Dykan",15
+"Juan Insaurralde","Kirill Kombarov",4
+"Juan Insaurralde","Aiden McGeady",4
+"Juan Insaurralde","Ari",5
+"Juan Insaurralde","Marek Suchý",25
+"Juan Insaurralde","Dmitri Kombarov",17
+"Juan Insaurralde","Emmanuel Emenike",6
+"Juan Insaurralde","Evgeni Makeev",7
+"Juan Insaurralde","Romulo",1
+"Juan Insaurralde","Rafael Carioca",16
+"Juan Insaurralde","Artem Dzyuba",3
+"Juan Insaurralde","Diniyar Bilyaletdinov",5
+"Juan Insaurralde","Kim Källström",20
+"Juan Insaurralde","José Manuel Jurado",10
+"Juan Insaurralde","Sergei Pesyakov",10
+"Juan Insaurralde","Nicolas Pareja",9
+"Juan Insaurralde","Artem Rebrov",5
+"Juan Insaurralde","Jano Ananidze",1
+"Kirill Kombarov","Juan Insaurralde",6
+"Kirill Kombarov","Aiden McGeady",10
+"Kirill Kombarov","Ari",8
+"Kirill Kombarov","Marek Suchý",9
+"Kirill Kombarov","Demy de Zeeuw",2
+"Kirill Kombarov","Emmanuel Emenike",2
+"Kirill Kombarov","Romulo",3
+"Kirill Kombarov","Rafael Carioca",16
+"Kirill Kombarov","Artem Dzyuba",2
+"Kirill Kombarov","Kim Källström",5
+"Kirill Kombarov","José Manuel Jurado",7
+"Kirill Kombarov","Artem Rebrov",1
+"Kirill Kombarov","Nicolas Pareja",5
+"Kirill Kombarov","Sergei Bryzgalov",1
+"Aiden McGeady","Juan Insaurralde",4
+"Aiden McGeady","Kirill Kombarov",6
+"Aiden McGeady","Ari",5
+"Aiden McGeady","Marek Suchý",9
+"Aiden McGeady","Demy de Zeeuw",7
+"Aiden McGeady","Dmitri Kombarov",3
+"Aiden McGeady","Emmanuel Emenike",12
+"Aiden McGeady","Evgeni Makeev",6
+"Aiden McGeady","Romulo",5
+"Aiden McGeady","Rafael Carioca",12
+"Aiden McGeady","Artem Dzyuba",1
+"Aiden McGeady","Diniyar Bilyaletdinov",1
+"Aiden McGeady","Kim Källström",4
+"Aiden McGeady","José Manuel Jurado",3
+"Aiden McGeady","Nicolas Pareja",3
+"Ari","Juan Insaurralde",6
+"Ari","Kirill Kombarov",7
+"Ari","Aiden McGeady",6
+"Ari","Marek Suchý",4
+"Ari","Demy de Zeeuw",5
+"Ari","Dmitri Kombarov",15
+"Ari","Emmanuel Emenike",12
+"Ari","Evgeni Makeev",10
+"Ari","Romulo",5
+"Ari","Rafael Carioca",15
+"Ari","Artem Dzyuba",5
+"Ari","Diniyar Bilyaletdinov",7
+"Ari","Kim Källström",14
+"Ari","José Manuel Jurado",11
+"Ari","Nicolas Pareja",5
+"Ari","Sergei Bryzgalov",1
+"Ari","Jano Ananidze",2
+"Ari","Welliton",2
+"Marek Suchý","Andriy Dykan",13
+"Marek Suchý","Juan Insaurralde",14
+"Marek Suchý","Kirill Kombarov",18
+"Marek Suchý","Aiden McGeady",10
+"Marek Suchý","Ari",12
+"Marek Suchý","Demy de Zeeuw",3
+"Marek Suchý","Dmitri Kombarov",5
+"Marek Suchý","Emmanuel Emenike",5
+"Marek Suchý","Evgeni Makeev",9
+"Marek Suchý","Romulo",5
+"Marek Suchý","Rafael Carioca",28
+"Marek Suchý","Artem Dzyuba",1
+"Marek Suchý","Kim Källström",17
+"Marek Suchý","José Manuel Jurado",6
+"Marek Suchý","Artem Rebrov",9
+"Marek Suchý","Nicolas Pareja",7
+"Marek Suchý","Jano Ananidze",6
+"Marek Suchý","Welliton",1
+"Marek Suchý","Sergei Pesyakov",8
+"Demy de Zeeuw","Juan Insaurralde",3
+"Demy de Zeeuw","Aiden McGeady",10
+"Demy de Zeeuw","Ari",6
+"Demy de Zeeuw","Marek Suchý",2
+"Demy de Zeeuw","Dmitri Kombarov",2
+"Demy de Zeeuw","Emmanuel Emenike",6
+"Demy de Zeeuw","Evgeni Makeev",3
+"Demy de Zeeuw","Romulo",5
+"Demy de Zeeuw","Rafael Carioca",5
+"Demy de Zeeuw","Artem Dzyuba",1
+"Demy de Zeeuw","Diniyar Bilyaletdinov",1
+"Demy de Zeeuw","Nicolas Pareja",1
+"Demy de Zeeuw","Kim Källström",3
+"Dmitri Kombarov","Andriy Dykan",1
+"Dmitri Kombarov","Juan Insaurralde",16
+"Dmitri Kombarov","Kirill Kombarov",1
+"Dmitri Kombarov","Aiden McGeady",3
+"Dmitri Kombarov","Ari",23
+"Dmitri Kombarov","Marek Suchý",8
+"Dmitri Kombarov","Demy de Zeeuw",5
+"Dmitri Kombarov","Emmanuel Emenike",8
+"Dmitri Kombarov","Evgeni Makeev",9
+"Dmitri Kombarov","Romulo",3
+"Dmitri Kombarov","Rafael Carioca",16
+"Dmitri Kombarov","Artem Dzyuba",11
+"Dmitri Kombarov","Diniyar Bilyaletdinov",6
+"Dmitri Kombarov","Kim Källström",34
+"Dmitri Kombarov","José Manuel Jurado",20
+"Dmitri Kombarov","Sergei Pesyakov",4
+"Dmitri Kombarov","Nicolas Pareja",4
+"Dmitri Kombarov","Sergei Bryzgalov",3
+"Dmitri Kombarov","Aleksandr Kozlov",1
+"Dmitri Kombarov","Artem Rebrov",3
+"Dmitri Kombarov","Jano Ananidze",9
+"Emmanuel Emenike","Juan Insaurralde",2
+"Emmanuel Emenike","Kirill Kombarov",3
+"Emmanuel Emenike","Aiden McGeady",6
+"Emmanuel Emenike","Ari",8
+"Emmanuel Emenike","Marek Suchý",2
+"Emmanuel Emenike","Demy de Zeeuw",4
+"Emmanuel Emenike","Dmitri Kombarov",4
+"Emmanuel Emenike","Evgeni Makeev",4
+"Emmanuel Emenike","Romulo",4
+"Emmanuel Emenike","Rafael Carioca",6
+"Emmanuel Emenike","Artem Dzyuba",3
+"Emmanuel Emenike","Kim Källström",3
+"Emmanuel Emenike","José Manuel Jurado",6
+"Emmanuel Emenike","Sergei Bryzgalov",1
+"Evgeni Makeev","Andriy Dykan",3
+"Evgeni Makeev","Juan Insaurralde",15
+"Evgeni Makeev","Kirill Kombarov",5
+"Evgeni Makeev","Aiden McGeady",5
+"Evgeni Makeev","Ari",8
+"Evgeni Makeev","Marek Suchý",15
+"Evgeni Makeev","Demy de Zeeuw",4
+"Evgeni Makeev","Dmitri Kombarov",8
+"Evgeni Makeev","Emmanuel Emenike",7
+"Evgeni Makeev","Romulo",2
+"Evgeni Makeev","Rafael Carioca",16
+"Evgeni Makeev","Artem Dzyuba",3
+"Evgeni Makeev","Diniyar Bilyaletdinov",6
+"Evgeni Makeev","Kim Källström",13
+"Evgeni Makeev","José Manuel Jurado",8
+"Evgeni Makeev","Nicolas Pareja",17
+"Evgeni Makeev","Aleksandr Kozlov",1
+"Evgeni Makeev","Artem Rebrov",3
+"Evgeni Makeev","Jano Ananidze",9
+"Romulo","Juan Insaurralde",6
+"Romulo","Kirill Kombarov",6
+"Romulo","Aiden McGeady",9
+"Romulo","Ari",4
+"Romulo","Marek Suchý",4
+"Romulo","Demy de Zeeuw",1
+"Romulo","Dmitri Kombarov",3
+"Romulo","Emmanuel Emenike",2
+"Romulo","Rafael Carioca",2
+"Romulo","Kim Källström",1
+"Rafael Carioca","Andriy Dykan",1
+"Rafael Carioca","Juan Insaurralde",20
+"Rafael Carioca","Kirill Kombarov",7
+"Rafael Carioca","Aiden McGeady",13
+"Rafael Carioca","Ari",7
+"Rafael Carioca","Marek Suchý",37
+"Rafael Carioca","Demy de Zeeuw",8
+"Rafael Carioca","Dmitri Kombarov",21
+"Rafael Carioca","Emmanuel Emenike",6
+"Rafael Carioca","Evgeni Makeev",20
+"Rafael Carioca","Romulo",4
+"Rafael Carioca","Artem Dzyuba",7
+"Rafael Carioca","Diniyar Bilyaletdinov",7
+"Rafael Carioca","Kim Källström",42
+"Rafael Carioca","José Manuel Jurado",21
+"Rafael Carioca","Sergei Pesyakov",4
+"Rafael Carioca","Nicolas Pareja",25
+"Rafael Carioca","Sergei Bryzgalov",1
+"Rafael Carioca","Artem Rebrov",4
+"Rafael Carioca","Jano Ananidze",3
+"Artem Dzyuba","Kirill Kombarov",1
+"Artem Dzyuba","Aiden McGeady",2
+"Artem Dzyuba","Ari",4
+"Artem Dzyuba","Marek Suchý",2
+"Artem Dzyuba","Dmitri Kombarov",1
+"Artem Dzyuba","Emmanuel Emenike",4
+"Artem Dzyuba","Evgeni Makeev",2
+"Artem Dzyuba","Romulo",1
+"Artem Dzyuba","Rafael Carioca",6
+"Artem Dzyuba","Diniyar Bilyaletdinov",1
+"Artem Dzyuba","Kim Källström",4
+"Artem Dzyuba","José Manuel Jurado",7
+"Artem Dzyuba","Jano Ananidze",2
+"Diniyar Bilyaletdinov","Kirill Kombarov",2
+"Diniyar Bilyaletdinov","Ari",6
+"Diniyar Bilyaletdinov","Marek Suchý",1
+"Diniyar Bilyaletdinov","Demy de Zeeuw",1
+"Diniyar Bilyaletdinov","Dmitri Kombarov",4
+"Diniyar Bilyaletdinov","Evgeni Makeev",3
+"Diniyar Bilyaletdinov","Rafael Carioca",4
+"Diniyar Bilyaletdinov","Artem Dzyuba",3
+"Diniyar Bilyaletdinov","Nicolas Pareja",5
+"Diniyar Bilyaletdinov","José Manuel Jurado",9
+"Diniyar Bilyaletdinov","Kim Källström",3
+"Diniyar Bilyaletdinov","Jano Ananidze",1
+"Kim Källström","Andriy Dykan",1
+"Kim Källström","Juan Insaurralde",20
+"Kim Källström","Rafael Carioca",30
+"Kim Källström","Kirill Kombarov",8
+"Kim Källström","Aiden McGeady",7
+"Kim Källström","Ari",24
+"Kim Källström","Marek Suchý",14
+"Kim Källström","Dmitri Kombarov",38
+"Kim Källström","Emmanuel Emenike",12
+"Kim Källström","Artem Dzyuba",6
+"Kim Källström","José Manuel Jurado",15
+"Kim Källström","Evgeni Makeev",10
+"Kim Källström","Sergei Pesyakov",3
+"Kim Källström","Nicolas Pareja",8
+"Kim Källström","Demy de Zeeuw",3
+"Kim Källström","Sergei Bryzgalov",4
+"Kim Källström","Aleksandr Kozlov",1
+"Kim Källström","Artem Rebrov",2
+"Kim Källström","Diniyar Bilyaletdinov",5
+"Kim Källström","Jano Ananidze",4
+"José Manuel Jurado","Andriy Dykan",1
+"José Manuel Jurado","Juan Insaurralde",3
+"José Manuel Jurado","Rafael Carioca",13
+"José Manuel Jurado","Kirill Kombarov",5
+"José Manuel Jurado","Aiden McGeady",2
+"José Manuel Jurado","Ari",11
+"José Manuel Jurado","Marek Suchý",4
+"José Manuel Jurado","Kim Källström",14
+"José Manuel Jurado","Dmitri Kombarov",19
+"José Manuel Jurado","Emmanuel Emenike",6
+"José Manuel Jurado","Artem Dzyuba",4
+"José Manuel Jurado","Evgeni Makeev",7
+"José Manuel Jurado","Nicolas Pareja",8
+"José Manuel Jurado","Diniyar Bilyaletdinov",5
+"José Manuel Jurado","Jano Ananidze",8
+"José Manuel Jurado","Sergei Pesyakov",2
+"Sergei Pesyakov","Juan Insaurralde",12
+"Sergei Pesyakov","Nicolas Pareja",11
+"Sergei Pesyakov","Rafael Carioca",5
+"Sergei Pesyakov","Ari",2
+"Sergei Pesyakov","Kim Källström",7
+"Sergei Pesyakov","Dmitri Kombarov",2
+"Sergei Pesyakov","Emmanuel Emenike",4
+"Sergei Pesyakov","Sergei Bryzgalov",1
+"Sergei Pesyakov","Artem Dzyuba",2
+"Sergei Pesyakov","Marek Suchý",6
+"Nicolas Pareja","Sergei Pesyakov",6
+"Nicolas Pareja","Juan Insaurralde",14
+"Nicolas Pareja","Rafael Carioca",27
+"Nicolas Pareja","Aiden McGeady",9
+"Nicolas Pareja","Ari",7
+"Nicolas Pareja","Demy de Zeeuw",2
+"Nicolas Pareja","Kim Källström",17
+"Nicolas Pareja","Dmitri Kombarov",6
+"Nicolas Pareja","Emmanuel Emenike",4
+"Nicolas Pareja","Evgeni Makeev",13
+"Nicolas Pareja","Artem Rebrov",7
+"Nicolas Pareja","Marek Suchý",6
+"Nicolas Pareja","José Manuel Jurado",7
+"Nicolas Pareja","Diniyar Bilyaletdinov",7
+"Nicolas Pareja","Jano Ananidze",1
+"Nicolas Pareja","Kirill Kombarov",5
+"Nicolas Pareja","Welliton",1
+"Sergei Bryzgalov","Sergei Pesyakov",1
+"Sergei Bryzgalov","Nicolas Pareja",3
+"Sergei Bryzgalov","Rafael Carioca",3
+"Sergei Bryzgalov","Ari",1
+"Sergei Bryzgalov","Kim Källström",1
+"Sergei Bryzgalov","Marek Suchý",2
+"Sergei Bryzgalov","José Manuel Jurado",5
+"Aleksandr Kozlov","Evgeni Makeev",2
+"Aleksandr Kozlov","Artem Dzyuba",1
+"Artem Rebrov","Nicolas Pareja",17
+"Artem Rebrov","Rafael Carioca",1
+"Artem Rebrov","Ari",7
+"Artem Rebrov","Marek Suchý",1
+"Artem Rebrov","José Manuel Jurado",2
+"Artem Rebrov","Kim Källström",3
+"Artem Rebrov","Dmitri Kombarov",4
+"Artem Rebrov","Diniyar Bilyaletdinov",2
+"Artem Rebrov","Evgeni Makeev",4
+"Artem Rebrov","Jano Ananidze",1
+"Artem Rebrov","Kirill Kombarov",2
+"Artem Rebrov","Juan Insaurralde",6
+"Artem Rebrov","Artem Dzyuba",1
+"Jano Ananidze","Nicolas Pareja",2
+"Jano Ananidze","Rafael Carioca",1
+"Jano Ananidze","Ari",4
+"Jano Ananidze","José Manuel Jurado",5
+"Jano Ananidze","Kim Källström",4
+"Jano Ananidze","Dmitri Kombarov",9
+"Jano Ananidze","Diniyar Bilyaletdinov",3
+"Jano Ananidze","Evgeni Makeev",3
+"Jano Ananidze","Welliton",2
+"Welliton","Rafael Carioca",1
+"Welliton","José Manuel Jurado",1

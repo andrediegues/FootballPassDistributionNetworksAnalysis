@@ -1,0 +1,346 @@
+"Víctor Valdés","Gerard Piqué",35
+"Víctor Valdés","Cesc Fàbregas",2
+"Víctor Valdés","Andrés Iniesta",6
+"Víctor Valdés","Alexis Sánchez",3
+"Víctor Valdés","Lionel Messi",1
+"Víctor Valdés","Neymar",4
+"Víctor Valdés","Javier Mascherano",17
+"Víctor Valdés","Sergio Busquets",15
+"Víctor Valdés","Adriano",5
+"Víctor Valdés","Daniel Alves",9
+"Víctor Valdés","Xavi Hernández",7
+"Víctor Valdés","Pedro Rodríguez",1
+"Víctor Valdés","Marc Bartra",7
+"Víctor Valdés","Cristian Tello",1
+"Víctor Valdés","Jordi Alba",4
+"Gerard Piqué","Víctor Valdés",30
+"Gerard Piqué","Cesc Fàbregas",32
+"Gerard Piqué","Andrés Iniesta",24
+"Gerard Piqué","Alexis Sánchez",27
+"Gerard Piqué","Lionel Messi",21
+"Gerard Piqué","Neymar",19
+"Gerard Piqué","Javier Mascherano",81
+"Gerard Piqué","Sergio Busquets",66
+"Gerard Piqué","Adriano",21
+"Gerard Piqué","Daniel Alves",27
+"Gerard Piqué","Xavi Hernández",70
+"Gerard Piqué","Pedro Rodríguez",11
+"Gerard Piqué","Marc Bartra",6
+"Gerard Piqué","Alex Song",20
+"Gerard Piqué","Cristian Tello",2
+"Gerard Piqué","José Manuel Pinto",11
+"Gerard Piqué","Martín Montoya",11
+"Gerard Piqué","Carles Puyol",11
+"Gerard Piqué","Sergi Roberto",5
+"Gerard Piqué","Patric Gabarron",1
+"Gerard Piqué","Jordi Alba",2
+"Cesc Fàbregas","Gerard Piqué",15
+"Cesc Fàbregas","Andrés Iniesta",88
+"Cesc Fàbregas","Alexis Sánchez",13
+"Cesc Fàbregas","Lionel Messi",47
+"Cesc Fàbregas","Neymar",46
+"Cesc Fàbregas","Javier Mascherano",17
+"Cesc Fàbregas","Sergio Busquets",30
+"Cesc Fàbregas","Adriano",13
+"Cesc Fàbregas","Daniel Alves",37
+"Cesc Fàbregas","Xavi Hernández",59
+"Cesc Fàbregas","Pedro Rodríguez",8
+"Cesc Fàbregas","Marc Bartra",7
+"Cesc Fàbregas","Alex Song",7
+"Cesc Fàbregas","José Manuel Pinto",1
+"Cesc Fàbregas","Martín Montoya",4
+"Cesc Fàbregas","Patric Gabarron",1
+"Cesc Fàbregas","Jordi Alba",37
+"Andrés Iniesta","Víctor Valdés",5
+"Andrés Iniesta","Gerard Piqué",17
+"Andrés Iniesta","Cesc Fàbregas",97
+"Andrés Iniesta","Alexis Sánchez",8
+"Andrés Iniesta","Lionel Messi",54
+"Andrés Iniesta","Neymar",106
+"Andrés Iniesta","Javier Mascherano",15
+"Andrés Iniesta","Sergio Busquets",71
+"Andrés Iniesta","Adriano",55
+"Andrés Iniesta","Daniel Alves",35
+"Andrés Iniesta","Xavi Hernández",105
+"Andrés Iniesta","Pedro Rodríguez",14
+"Andrés Iniesta","Marc Bartra",4
+"Andrés Iniesta","Alex Song",13
+"Andrés Iniesta","Cristian Tello",4
+"Andrés Iniesta","Martín Montoya",11
+"Andrés Iniesta","Carles Puyol",3
+"Andrés Iniesta","Sergi Roberto",4
+"Andrés Iniesta","Patric Gabarron",1
+"Andrés Iniesta","Adama Traoré",1
+"Andrés Iniesta","Jordi Alba",50
+"Alexis Sánchez","Gerard Piqué",11
+"Alexis Sánchez","Cesc Fàbregas",8
+"Alexis Sánchez","Andrés Iniesta",14
+"Alexis Sánchez","Lionel Messi",12
+"Alexis Sánchez","Neymar",8
+"Alexis Sánchez","Javier Mascherano",2
+"Alexis Sánchez","Sergio Busquets",16
+"Alexis Sánchez","Adriano",2
+"Alexis Sánchez","Daniel Alves",44
+"Alexis Sánchez","Xavi Hernández",34
+"Alexis Sánchez","Pedro Rodríguez",2
+"Alexis Sánchez","Martín Montoya",12
+"Alexis Sánchez","Sergi Roberto",5
+"Lionel Messi","Gerard Piqué",4
+"Lionel Messi","Cesc Fàbregas",31
+"Lionel Messi","Andrés Iniesta",54
+"Lionel Messi","Alexis Sánchez",23
+"Lionel Messi","Neymar",27
+"Lionel Messi","Javier Mascherano",10
+"Lionel Messi","Sergio Busquets",34
+"Lionel Messi","Adriano",5
+"Lionel Messi","Daniel Alves",72
+"Lionel Messi","Xavi Hernández",86
+"Lionel Messi","Marc Bartra",2
+"Lionel Messi","Jordi Alba",12
+"Lionel Messi","Sergi Roberto",1
+"Neymar","Gerard Piqué",8
+"Neymar","Cesc Fàbregas",24
+"Neymar","Andrés Iniesta",73
+"Neymar","Alexis Sánchez",5
+"Neymar","Lionel Messi",28
+"Neymar","Javier Mascherano",8
+"Neymar","Sergio Busquets",30
+"Neymar","Adriano",49
+"Neymar","Daniel Alves",31
+"Neymar","Xavi Hernández",59
+"Neymar","Pedro Rodríguez",13
+"Neymar","Marc Bartra",2
+"Neymar","Alex Song",6
+"Neymar","Cristian Tello",1
+"Neymar","Martín Montoya",8
+"Neymar","Sergi Roberto",3
+"Neymar","Jordi Alba",9
+"Javier Mascherano","Víctor Valdés",21
+"Javier Mascherano","Gerard Piqué",72
+"Javier Mascherano","Cesc Fàbregas",33
+"Javier Mascherano","Andrés Iniesta",43
+"Javier Mascherano","Alexis Sánchez",5
+"Javier Mascherano","Lionel Messi",15
+"Javier Mascherano","Neymar",29
+"Javier Mascherano","Sergio Busquets",53
+"Javier Mascherano","Adriano",38
+"Javier Mascherano","Daniel Alves",33
+"Javier Mascherano","Xavi Hernández",79
+"Javier Mascherano","Pedro Rodríguez",6
+"Javier Mascherano","Marc Bartra",14
+"Javier Mascherano","Alex Song",9
+"Javier Mascherano","José Manuel Pinto",19
+"Javier Mascherano","Martín Montoya",3
+"Javier Mascherano","Carles Puyol",1
+"Javier Mascherano","Sergi Roberto",14
+"Javier Mascherano","Patric Gabarron",4
+"Javier Mascherano","Cristian Tello",1
+"Javier Mascherano","Jordi Alba",36
+"Sergio Busquets","Víctor Valdés",8
+"Sergio Busquets","Gerard Piqué",64
+"Sergio Busquets","Cesc Fàbregas",55
+"Sergio Busquets","Andrés Iniesta",109
+"Sergio Busquets","Alexis Sánchez",22
+"Sergio Busquets","Lionel Messi",62
+"Sergio Busquets","Neymar",23
+"Sergio Busquets","Javier Mascherano",59
+"Sergio Busquets","Adriano",29
+"Sergio Busquets","Daniel Alves",67
+"Sergio Busquets","Xavi Hernández",172
+"Sergio Busquets","Pedro Rodríguez",16
+"Sergio Busquets","Marc Bartra",20
+"Sergio Busquets","Alex Song",2
+"Sergio Busquets","Cristian Tello",2
+"Sergio Busquets","José Manuel Pinto",3
+"Sergio Busquets","Martín Montoya",3
+"Sergio Busquets","Sergi Roberto",19
+"Sergio Busquets","Jordi Alba",36
+"Adriano","Víctor Valdés",3
+"Adriano","Gerard Piqué",30
+"Adriano","Cesc Fàbregas",15
+"Adriano","Andrés Iniesta",51
+"Adriano","Alexis Sánchez",4
+"Adriano","Lionel Messi",3
+"Adriano","Neymar",64
+"Adriano","Javier Mascherano",42
+"Adriano","Sergio Busquets",32
+"Adriano","Daniel Alves",4
+"Adriano","Xavi Hernández",39
+"Adriano","Pedro Rodríguez",18
+"Adriano","Marc Bartra",5
+"Adriano","Alex Song",4
+"Adriano","Cristian Tello",7
+"Adriano","Martín Montoya",2
+"Adriano","Sergi Roberto",14
+"Daniel Alves","Víctor Valdés",5
+"Daniel Alves","Gerard Piqué",41
+"Daniel Alves","Cesc Fàbregas",41
+"Daniel Alves","Andrés Iniesta",33
+"Daniel Alves","Alexis Sánchez",38
+"Daniel Alves","Lionel Messi",104
+"Daniel Alves","Neymar",53
+"Daniel Alves","Javier Mascherano",13
+"Daniel Alves","Sergio Busquets",71
+"Daniel Alves","Adriano",3
+"Daniel Alves","Xavi Hernández",131
+"Daniel Alves","Pedro Rodríguez",9
+"Daniel Alves","Marc Bartra",23
+"Daniel Alves","Jordi Alba",5
+"Daniel Alves","Sergi Roberto",3
+"Daniel Alves","José Manuel Pinto",1
+"Xavi Hernández","Gerard Piqué",49
+"Xavi Hernández","Cesc Fàbregas",68
+"Xavi Hernández","Andrés Iniesta",112
+"Xavi Hernández","Alexis Sánchez",65
+"Xavi Hernández","Lionel Messi",107
+"Xavi Hernández","Neymar",83
+"Xavi Hernández","Javier Mascherano",37
+"Xavi Hernández","Sergio Busquets",153
+"Xavi Hernández","Adriano",32
+"Xavi Hernández","Daniel Alves",175
+"Xavi Hernández","Pedro Rodríguez",27
+"Xavi Hernández","Marc Bartra",29
+"Xavi Hernández","Alex Song",10
+"Xavi Hernández","Cristian Tello",3
+"Xavi Hernández","José Manuel Pinto",1
+"Xavi Hernández","Martín Montoya",15
+"Xavi Hernández","Carles Puyol",8
+"Xavi Hernández","Sergi Roberto",21
+"Xavi Hernández","Patric Gabarron",3
+"Xavi Hernández","Jordi Alba",30
+"Pedro Rodríguez","Gerard Piqué",4
+"Pedro Rodríguez","Cesc Fàbregas",10
+"Pedro Rodríguez","Andrés Iniesta",15
+"Pedro Rodríguez","Alexis Sánchez",3
+"Pedro Rodríguez","Lionel Messi",1
+"Pedro Rodríguez","Neymar",10
+"Pedro Rodríguez","Javier Mascherano",3
+"Pedro Rodríguez","Sergio Busquets",14
+"Pedro Rodríguez","Adriano",14
+"Pedro Rodríguez","Daniel Alves",14
+"Pedro Rodríguez","Xavi Hernández",32
+"Pedro Rodríguez","Marc Bartra",2
+"Pedro Rodríguez","Alex Song",4
+"Pedro Rodríguez","Cristian Tello",2
+"Pedro Rodríguez","Martín Montoya",1
+"Pedro Rodríguez","Carles Puyol",2
+"Pedro Rodríguez","Sergi Roberto",11
+"Pedro Rodríguez","Patric Gabarron",1
+"Pedro Rodríguez","Jean Marie Dongou",1
+"Pedro Rodríguez","Jordi Alba",5
+"Marc Bartra","Víctor Valdés",7
+"Marc Bartra","Gerard Piqué",7
+"Marc Bartra","Cesc Fàbregas",7
+"Marc Bartra","Andrés Iniesta",4
+"Marc Bartra","Alexis Sánchez",1
+"Marc Bartra","Lionel Messi",2
+"Marc Bartra","Neymar",4
+"Marc Bartra","Javier Mascherano",24
+"Marc Bartra","Sergio Busquets",19
+"Marc Bartra","Adriano",3
+"Marc Bartra","Daniel Alves",21
+"Marc Bartra","Xavi Hernández",29
+"Marc Bartra","Pedro Rodríguez",5
+"Marc Bartra","José Manuel Pinto",9
+"Marc Bartra","Jordi Alba",7
+"Alex Song","Gerard Piqué",7
+"Alex Song","Cesc Fàbregas",5
+"Alex Song","Xavi Hernández",15
+"Alex Song","Pedro Rodríguez",4
+"Alex Song","Andrés Iniesta",22
+"Alex Song","Neymar",4
+"Alex Song","Sergio Busquets",2
+"Alex Song","Adriano",4
+"Alex Song","Daniel Alves",2
+"Alex Song","Cristian Tello",1
+"Alex Song","Javier Mascherano",17
+"Alex Song","José Manuel Pinto",3
+"Alex Song","Martín Montoya",7
+"Alex Song","Carles Puyol",1
+"Alex Song","Sergi Roberto",5
+"Alex Song","Patric Gabarron",2
+"Cristian Tello","Xavi Hernández",4
+"Cristian Tello","Andrés Iniesta",4
+"Cristian Tello","Neymar",1
+"Cristian Tello","Sergio Busquets",1
+"Cristian Tello","Adriano",5
+"Cristian Tello","Alex Song",1
+"Cristian Tello","Sergi Roberto",3
+"José Manuel Pinto","Gerard Piqué",10
+"José Manuel Pinto","Cesc Fàbregas",1
+"José Manuel Pinto","Xavi Hernández",4
+"José Manuel Pinto","Pedro Rodríguez",2
+"José Manuel Pinto","Neymar",3
+"José Manuel Pinto","Javier Mascherano",27
+"José Manuel Pinto","Alex Song",4
+"José Manuel Pinto","Patric Gabarron",1
+"José Manuel Pinto","Alexis Sánchez",1
+"José Manuel Pinto","Sergio Busquets",10
+"José Manuel Pinto","Adriano",2
+"José Manuel Pinto","Lionel Messi",1
+"José Manuel Pinto","Jordi Alba",11
+"José Manuel Pinto","Daniel Alves",2
+"José Manuel Pinto","Marc Bartra",2
+"Martín Montoya","José Manuel Pinto",1
+"Martín Montoya","Gerard Piqué",15
+"Martín Montoya","Cesc Fàbregas",6
+"Martín Montoya","Xavi Hernández",11
+"Martín Montoya","Pedro Rodríguez",3
+"Martín Montoya","Andrés Iniesta",11
+"Martín Montoya","Neymar",12
+"Martín Montoya","Javier Mascherano",6
+"Martín Montoya","Alex Song",4
+"Martín Montoya","Sergi Roberto",5
+"Martín Montoya","Adama Traoré",2
+"Martín Montoya","Alexis Sánchez",13
+"Martín Montoya","Sergio Busquets",6
+"Martín Montoya","Cristian Tello",1
+"Carles Puyol","Martín Montoya",1
+"Carles Puyol","Gerard Piqué",11
+"Carles Puyol","Cesc Fàbregas",5
+"Carles Puyol","Xavi Hernández",4
+"Carles Puyol","Pedro Rodríguez",9
+"Carles Puyol","Andrés Iniesta",2
+"Carles Puyol","Alex Song",2
+"Sergi Roberto","Martín Montoya",4
+"Sergi Roberto","Gerard Piqué",6
+"Sergi Roberto","Xavi Hernández",15
+"Sergi Roberto","Pedro Rodríguez",13
+"Sergi Roberto","Andrés Iniesta",4
+"Sergi Roberto","Neymar",9
+"Sergi Roberto","Javier Mascherano",6
+"Sergi Roberto","Alex Song",9
+"Sergi Roberto","Patric Gabarron",1
+"Sergi Roberto","Alexis Sánchez",7
+"Sergi Roberto","Sergio Busquets",16
+"Sergi Roberto","Adriano",14
+"Sergi Roberto","Cristian Tello",3
+"Sergi Roberto","Jean Marie Dongou",1
+"Sergi Roberto","Víctor Valdés",1
+"Sergi Roberto","Lionel Messi",1
+"Sergi Roberto","Jordi Alba",2
+"Sergi Roberto","Daniel Alves",3
+"Patric Gabarron","Gerard Piqué",1
+"Patric Gabarron","Xavi Hernández",2
+"Patric Gabarron","Pedro Rodríguez",3
+"Patric Gabarron","Andrés Iniesta",4
+"Patric Gabarron","Alex Song",2
+"Patric Gabarron","Sergi Roberto",3
+"Jean Marie Dongou","Martín Montoya",1
+"Jean Marie Dongou","Gerard Piqué",1
+"Jean Marie Dongou","Sergi Roberto",1
+"Jordi Alba","Víctor Valdés",1
+"Jordi Alba","Gerard Piqué",1
+"Jordi Alba","Cesc Fàbregas",54
+"Jordi Alba","Xavi Hernández",25
+"Jordi Alba","Andrés Iniesta",88
+"Jordi Alba","Alexis Sánchez",2
+"Jordi Alba","Lionel Messi",6
+"Jordi Alba","Javier Mascherano",56
+"Jordi Alba","Sergio Busquets",37
+"Jordi Alba","Daniel Alves",5
+"Jordi Alba","Neymar",11
+"Jordi Alba","Sergi Roberto",2
+"Jordi Alba","José Manuel Pinto",4
+"Jordi Alba","Marc Bartra",4
+"Jordi Alba","Pedro Rodríguez",10

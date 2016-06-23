@@ -1,37 +1,37 @@
-Aalborg BK 
+Aalborg BK
 AC Milan
-AEL Limassol FC 
+AEL Limassol FC
 AFC Ajax
 APOEL FC
 Arsenal FC
 AS Monaco
 AS Roma
 Athletic Club
+Bayer 04 Leverkusen
 Beşiktaş JK
-Borussia Dortmund 
+Borussia Dortmund
 Celtic FC
-Celtic FC 
 CFR 1907 Cluj
-Chelsea FC 
-Club Atlético de Madrid 
+Chelsea FC
+Club Atlético de Madrid
 Club Brugge KV
 FC Astana
 FC Barcelona
-FC Basel 1893 
-FC BATE Borisov 
+FC Basel 1893
+FC BATE Borisov
 FC Bayer 04 Leverkusen
-FC Bayern München 
+FC Bayern München
 FC Dynamo Kyiv
 FC København
 FC Nordsjælland
-FC Paços de Ferreira 
+FC Paços de Ferreira
 FC Porto
-FC Salzburg 
+FC Salzburg
 FC Schalke 04
-FC Shakhtar Donetsk 
+FC Shakhtar Donetsk
 FC Shakhter Karagandy
-FC Spartak Moskva 
-FC Steaua Bucureşti 
+FC Spartak Moskva
+FC Steaua Bucureşti
 FC Viktoria Plzeň
 FC Zenit
 FC Zenit St Petersburg
@@ -40,36 +40,37 @@ FK Austria Wien
 FK Partizan
 Football Club Zenit
 Galatasaray A.Ş.
-GNK Dinamo Zagreb 
+Galatasaray AŞ
+GNK Dinamo Zagreb
 Hapoel Kiryat Shmona FC
-Helsingborgs IF 
+Helsingborgs IF
 Juventus
 KAA Gent
 KF Skënderbeu
 Legia Warszawa
 Liverpool FC
-LOSC Lille 
+LOSC Lille
 Maccabi Tel-Aviv FC
-Málaga CF 
+Málaga CF
 Malmö FF
 Manchester City FC
 Manchester United FC
-Montpellier Hérault SC 
+Montpellier Hérault SC
 NK Maribor
-Olympiacos FC 
+Olympiacos FC
 Olympique de Marseille
-Olympique Lyonnais 
+Olympique Lyonnais
 Panathinaikos FC
 PAOK FC
-Paris Saint-Germain 
+Paris Saint-Germain
 PFC CSKA Moskva
-PFC Ludogorets 1945 
+PFC Ludogorets 1945
 PSV Eindhoven
-Real Madrid CF 
+Real Madrid CF
 Real Sociedad de Fútbol
 RSC Anderlecht
-R. Standard de Liège 
-SC Braga 
+R. Standard de Liège
+SC Braga
 Sevilla FC
 SK Rapid Wien
 ŠK Slovan Bratislava
@@ -79,6 +80,5 @@ SSC Napoli
 S.S. Lazio
 Udinese Calcio
 Valencia CF
-VfL Borussia Mönchengladbach 
+VfL Borussia Mönchengladbach
 VfL Wolfsburg
-

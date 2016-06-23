@@ -1,0 +1,385 @@
+"Sergio Romero","Wayne Rooney",3
+"Sergio Romero","Adnan Januzaj",1
+"Sergio Romero","Chris Smalling",8
+"Sergio Romero","Michael Carrick",3
+"Sergio Romero","Daley Blind",5
+"Sergio Romero","Luke Shaw",2
+"Memphis Depay","Juan Mata",25
+"Memphis Depay","Wayne Rooney",19
+"Memphis Depay","Adnan Januzaj",3
+"Memphis Depay","Chris Smalling",1
+"Memphis Depay","Michael Carrick",2
+"Memphis Depay","Daley Blind",12
+"Memphis Depay","Luke Shaw",22
+"Memphis Depay","Morgan Schneiderlin",7
+"Memphis Depay","Matteo Darmian",11
+"Memphis Depay","Javier Hernández",1
+"Memphis Depay","Marouane Fellaini",9
+"Memphis Depay","Schweinsteiger",15
+"Memphis Depay","Ander Herrera",7
+"Memphis Depay","Anthony Martial",21
+"Memphis Depay","Marcos Rojo",5
+"Memphis Depay","Jesse Lingard",4
+"Memphis Depay","Nick Powell",1
+"Memphis Depay","Borthwick-Jackson",4
+"Juan Mata","Memphis Depay",21
+"Juan Mata","Wayne Rooney",18
+"Juan Mata","Adnan Januzaj",7
+"Juan Mata","Chris Smalling",13
+"Juan Mata","Michael Carrick",11
+"Juan Mata","Daley Blind",23
+"Juan Mata","Luke Shaw",3
+"Juan Mata","Morgan Schneiderlin",12
+"Juan Mata","Matteo Darmian",27
+"Juan Mata","Marouane Fellaini",7
+"Juan Mata","Schweinsteiger",30
+"Juan Mata","Ander Herrera",18
+"Juan Mata","Ashley Young",20
+"Juan Mata","David de Gea",1
+"Juan Mata","Anthony Martial",11
+"Juan Mata","Marcos Rojo",6
+"Juan Mata","Antonio Valencia",6
+"Juan Mata","Jesse Lingard",11
+"Juan Mata","Guillermo Varela",4
+"Wayne Rooney","Memphis Depay",11
+"Wayne Rooney","Juan Mata",17
+"Wayne Rooney","Adnan Januzaj",4
+"Wayne Rooney","Chris Smalling",11
+"Wayne Rooney","Michael Carrick",13
+"Wayne Rooney","Daley Blind",11
+"Wayne Rooney","Luke Shaw",7
+"Wayne Rooney","Morgan Schneiderlin",14
+"Wayne Rooney","Matteo Darmian",7
+"Wayne Rooney","Marouane Fellaini",2
+"Wayne Rooney","Schweinsteiger",23
+"Wayne Rooney","Ander Herrera",7
+"Wayne Rooney","Ashley Young",12
+"Wayne Rooney","David de Gea",3
+"Wayne Rooney","Anthony Martial",12
+"Wayne Rooney","Antonio Valencia",2
+"Wayne Rooney","Andreas Pereira",1
+"Wayne Rooney","Marcos Rojo",6
+"Wayne Rooney","Jesse Lingard",11
+"Adnan Januzaj","Memphis Depay",9
+"Adnan Januzaj","Juan Mata",6
+"Adnan Januzaj","Wayne Rooney",5
+"Adnan Januzaj","Michael Carrick",2
+"Adnan Januzaj","Luke Shaw",4
+"Adnan Januzaj","Morgan Schneiderlin",2
+"Adnan Januzaj","Matteo Darmian",4
+"Adnan Januzaj","Ander Herrera",2
+"Chris Smalling","Sergio Romero",5
+"Chris Smalling","Memphis Depay",17
+"Chris Smalling","Juan Mata",13
+"Chris Smalling","Wayne Rooney",11
+"Chris Smalling","Adnan Januzaj",2
+"Chris Smalling","Michael Carrick",28
+"Chris Smalling","Daley Blind",71
+"Chris Smalling","Luke Shaw",6
+"Chris Smalling","Morgan Schneiderlin",42
+"Chris Smalling","Matteo Darmian",39
+"Chris Smalling","Marouane Fellaini",11
+"Chris Smalling","Schweinsteiger",46
+"Chris Smalling","Ander Herrera",25
+"Chris Smalling","Ashley Young",22
+"Chris Smalling","David de Gea",29
+"Chris Smalling","Anthony Martial",8
+"Chris Smalling","Marcos Rojo",32
+"Chris Smalling","Antonio Valencia",11
+"Chris Smalling","Phil Jones",7
+"Chris Smalling","Andreas Pereira",1
+"Chris Smalling","Jesse Lingard",7
+"Chris Smalling","Guillermo Varela",1
+"Chris Smalling","Borthwick-Jackson",1
+"Michael Carrick","Sergio Romero",4
+"Michael Carrick","Memphis Depay",5
+"Michael Carrick","Juan Mata",20
+"Michael Carrick","Wayne Rooney",19
+"Michael Carrick","Adnan Januzaj",9
+"Michael Carrick","Chris Smalling",20
+"Michael Carrick","Daley Blind",20
+"Michael Carrick","Luke Shaw",6
+"Michael Carrick","Morgan Schneiderlin",4
+"Michael Carrick","Matteo Darmian",16
+"Michael Carrick","Javier Hernández",6
+"Michael Carrick","Marouane Fellaini",3
+"Michael Carrick","Schweinsteiger",27
+"Michael Carrick","Ander Herrera",8
+"Michael Carrick","Ashley Young",11
+"Michael Carrick","David de Gea",3
+"Michael Carrick","Marcos Rojo",14
+"Michael Carrick","Anthony Martial",9
+"Michael Carrick","Jesse Lingard",7
+"Michael Carrick","Guillermo Varela",2
+"Michael Carrick","Nick Powell",1
+"Michael Carrick","Borthwick-Jackson",1
+"Daley Blind","Sergio Romero",6
+"Daley Blind","Memphis Depay",29
+"Daley Blind","Juan Mata",17
+"Daley Blind","Wayne Rooney",13
+"Daley Blind","Adnan Januzaj",1
+"Daley Blind","Chris Smalling",66
+"Daley Blind","Michael Carrick",38
+"Daley Blind","Luke Shaw",16
+"Daley Blind","Morgan Schneiderlin",27
+"Daley Blind","Matteo Darmian",9
+"Daley Blind","Javier Hernández",1
+"Daley Blind","Marouane Fellaini",12
+"Daley Blind","Schweinsteiger",70
+"Daley Blind","Ander Herrera",11
+"Daley Blind","Ashley Young",9
+"Daley Blind","David de Gea",18
+"Daley Blind","Anthony Martial",15
+"Daley Blind","Marcos Rojo",23
+"Daley Blind","Antonio Valencia",1
+"Daley Blind","Phil Jones",2
+"Daley Blind","Jesse Lingard",15
+"Daley Blind","Guillermo Varela",1
+"Daley Blind","Borthwick-Jackson",2
+"Luke Shaw","Sergio Romero",2
+"Luke Shaw","Memphis Depay",31
+"Luke Shaw","Juan Mata",2
+"Luke Shaw","Wayne Rooney",10
+"Luke Shaw","Adnan Januzaj",2
+"Luke Shaw","Chris Smalling",3
+"Luke Shaw","Michael Carrick",11
+"Luke Shaw","Daley Blind",13
+"Luke Shaw","Morgan Schneiderlin",2
+"Luke Shaw","Javier Hernández",3
+"Luke Shaw","Marouane Fellaini",1
+"Luke Shaw","Schweinsteiger",5
+"Luke Shaw","Ander Herrera",10
+"Morgan Schneiderlin","Memphis Depay",9
+"Morgan Schneiderlin","Juan Mata",16
+"Morgan Schneiderlin","Wayne Rooney",18
+"Morgan Schneiderlin","Adnan Januzaj",6
+"Morgan Schneiderlin","Chris Smalling",38
+"Morgan Schneiderlin","Michael Carrick",2
+"Morgan Schneiderlin","Daley Blind",21
+"Morgan Schneiderlin","Luke Shaw",1
+"Morgan Schneiderlin","Matteo Darmian",23
+"Morgan Schneiderlin","Marouane Fellaini",9
+"Morgan Schneiderlin","Schweinsteiger",23
+"Morgan Schneiderlin","David de Gea",3
+"Morgan Schneiderlin","Anthony Martial",14
+"Morgan Schneiderlin","Antonio Valencia",31
+"Morgan Schneiderlin","Phil Jones",12
+"Morgan Schneiderlin","Ashley Young",4
+"Morgan Schneiderlin","Marcos Rojo",7
+"Morgan Schneiderlin","Ander Herrera",26
+"Morgan Schneiderlin","Jesse Lingard",20
+"Matteo Darmian","Sergio Romero",1
+"Matteo Darmian","Memphis Depay",18
+"Matteo Darmian","Juan Mata",22
+"Matteo Darmian","Wayne Rooney",9
+"Matteo Darmian","Adnan Januzaj",4
+"Matteo Darmian","Chris Smalling",24
+"Matteo Darmian","Michael Carrick",15
+"Matteo Darmian","Daley Blind",10
+"Matteo Darmian","Morgan Schneiderlin",23
+"Matteo Darmian","Marouane Fellaini",3
+"Matteo Darmian","Schweinsteiger",11
+"Matteo Darmian","Ander Herrera",10
+"Matteo Darmian","Ashley Young",12
+"Matteo Darmian","David de Gea",4
+"Matteo Darmian","Anthony Martial",11
+"Matteo Darmian","Marcos Rojo",2
+"Matteo Darmian","Antonio Valencia",1
+"Matteo Darmian","Andreas Pereira",3
+"Matteo Darmian","Jesse Lingard",9
+"Javier Hernández","Memphis Depay",3
+"Javier Hernández","Wayne Rooney",1
+"Javier Hernández","Michael Carrick",1
+"Javier Hernández","Luke Shaw",4
+"Javier Hernández","Schweinsteiger",4
+"Marouane Fellaini","Memphis Depay",7
+"Marouane Fellaini","Juan Mata",7
+"Marouane Fellaini","Wayne Rooney",2
+"Marouane Fellaini","Chris Smalling",12
+"Marouane Fellaini","Michael Carrick",3
+"Marouane Fellaini","Daley Blind",17
+"Marouane Fellaini","Morgan Schneiderlin",5
+"Marouane Fellaini","Matteo Darmian",2
+"Marouane Fellaini","Schweinsteiger",8
+"Marouane Fellaini","David de Gea",2
+"Marouane Fellaini","Anthony Martial",11
+"Marouane Fellaini","Ashley Young",3
+"Marouane Fellaini","Ander Herrera",3
+"Marouane Fellaini","Marcos Rojo",6
+"Marouane Fellaini","Antonio Valencia",1
+"Marouane Fellaini","Phil Jones",3
+"Marouane Fellaini","Jesse Lingard",7
+"Marouane Fellaini","Guillermo Varela",1
+"Marouane Fellaini","Nick Powell",1
+"Marouane Fellaini","Borthwick-Jackson",4
+"Schweinsteiger","Memphis Depay",28
+"Schweinsteiger","Juan Mata",32
+"Schweinsteiger","Wayne Rooney",35
+"Schweinsteiger","Adnan Januzaj",1
+"Schweinsteiger","Chris Smalling",33
+"Schweinsteiger","Michael Carrick",19
+"Schweinsteiger","Daley Blind",48
+"Schweinsteiger","Luke Shaw",6
+"Schweinsteiger","Morgan Schneiderlin",23
+"Schweinsteiger","Matteo Darmian",18
+"Schweinsteiger","Javier Hernández",4
+"Schweinsteiger","Marouane Fellaini",3
+"Schweinsteiger","Ander Herrera",22
+"Schweinsteiger","Ashley Young",17
+"Schweinsteiger","David de Gea",13
+"Schweinsteiger","Anthony Martial",24
+"Schweinsteiger","Marcos Rojo",45
+"Schweinsteiger","Antonio Valencia",9
+"Schweinsteiger","Phil Jones",4
+"Schweinsteiger","Jesse Lingard",25
+"Schweinsteiger","Guillermo Varela",5
+"Schweinsteiger","Borthwick-Jackson",1
+"Ander Herrera","Sergio Romero",1
+"Ander Herrera","Memphis Depay",7
+"Ander Herrera","Juan Mata",15
+"Ander Herrera","Wayne Rooney",9
+"Ander Herrera","Adnan Januzaj",2
+"Ander Herrera","Chris Smalling",25
+"Ander Herrera","Michael Carrick",10
+"Ander Herrera","Daley Blind",11
+"Ander Herrera","Luke Shaw",12
+"Ander Herrera","Matteo Darmian",13
+"Ander Herrera","Ashley Young",5
+"Ander Herrera","Schweinsteiger",15
+"Ander Herrera","David de Gea",3
+"Ander Herrera","Anthony Martial",4
+"Ander Herrera","Marcos Rojo",14
+"Ander Herrera","Antonio Valencia",30
+"Ander Herrera","Marouane Fellaini",4
+"Ander Herrera","Phil Jones",8
+"Ander Herrera","Morgan Schneiderlin",22
+"Ander Herrera","Jesse Lingard",13
+"Ashley Young","Memphis Depay",3
+"Ashley Young","Juan Mata",21
+"Ashley Young","Wayne Rooney",4
+"Ashley Young","Chris Smalling",13
+"Ashley Young","Michael Carrick",14
+"Ashley Young","Daley Blind",6
+"Ashley Young","Ander Herrera",2
+"Ashley Young","Matteo Darmian",9
+"Ashley Young","Schweinsteiger",8
+"Ashley Young","David de Gea",2
+"Ashley Young","Anthony Martial",7
+"Ashley Young","Marouane Fellaini",1
+"Ashley Young","Morgan Schneiderlin",2
+"Ashley Young","Phil Jones",1
+"Ashley Young","Jesse Lingard",5
+"David de Gea","Memphis Depay",1
+"David de Gea","Juan Mata",1
+"David de Gea","Anthony Martial",5
+"David de Gea","Chris Smalling",18
+"David de Gea","Daley Blind",28
+"David de Gea","Ashley Young",3
+"David de Gea","Ander Herrera",1
+"David de Gea","Schweinsteiger",17
+"David de Gea","Matteo Darmian",6
+"David de Gea","Marcos Rojo",7
+"David de Gea","Antonio Valencia",4
+"David de Gea","Marouane Fellaini",18
+"David de Gea","Wayne Rooney",2
+"David de Gea","Morgan Schneiderlin",7
+"David de Gea","Phil Jones",7
+"David de Gea","Jesse Lingard",4
+"David de Gea","Michael Carrick",2
+"David de Gea","Guillermo Varela",1
+"David de Gea","Borthwick-Jackson",1
+"Anthony Martial","David de Gea",1
+"Anthony Martial","Memphis Depay",11
+"Anthony Martial","Juan Mata",14
+"Anthony Martial","Daley Blind",4
+"Anthony Martial","Ashley Young",5
+"Anthony Martial","Ander Herrera",7
+"Anthony Martial","Schweinsteiger",13
+"Anthony Martial","Matteo Darmian",4
+"Anthony Martial","Marcos Rojo",19
+"Anthony Martial","Antonio Valencia",2
+"Anthony Martial","Marouane Fellaini",7
+"Anthony Martial","Wayne Rooney",15
+"Anthony Martial","Morgan Schneiderlin",10
+"Anthony Martial","Jesse Lingard",7
+"Anthony Martial","Nick Powell",1
+"Marcos Rojo","David de Gea",6
+"Marcos Rojo","Memphis Depay",16
+"Marcos Rojo","Juan Mata",3
+"Marcos Rojo","Anthony Martial",25
+"Marcos Rojo","Chris Smalling",34
+"Marcos Rojo","Daley Blind",27
+"Marcos Rojo","Ashley Young",3
+"Marcos Rojo","Ander Herrera",13
+"Marcos Rojo","Schweinsteiger",39
+"Marcos Rojo","Matteo Darmian",1
+"Marcos Rojo","Marouane Fellaini",8
+"Marcos Rojo","Wayne Rooney",9
+"Marcos Rojo","Morgan Schneiderlin",7
+"Marcos Rojo","Jesse Lingard",15
+"Marcos Rojo","Michael Carrick",5
+"Antonio Valencia","David de Gea",6
+"Antonio Valencia","Memphis Depay",2
+"Antonio Valencia","Juan Mata",7
+"Antonio Valencia","Anthony Martial",9
+"Antonio Valencia","Chris Smalling",7
+"Antonio Valencia","Ander Herrera",21
+"Antonio Valencia","Schweinsteiger",4
+"Antonio Valencia","Matteo Darmian",2
+"Antonio Valencia","Marcos Rojo",2
+"Antonio Valencia","Wayne Rooney",3
+"Antonio Valencia","Morgan Schneiderlin",27
+"Antonio Valencia","Phil Jones",7
+"Antonio Valencia","Jesse Lingard",19
+"Phil Jones","David de Gea",5
+"Phil Jones","Anthony Martial",2
+"Phil Jones","Wayne Rooney",1
+"Phil Jones","Chris Smalling",8
+"Phil Jones","Daley Blind",1
+"Phil Jones","Antonio Valencia",9
+"Phil Jones","Morgan Schneiderlin",16
+"Phil Jones","Ashley Young",1
+"Phil Jones","Marcos Rojo",2
+"Phil Jones","Ander Herrera",7
+"Phil Jones","Jesse Lingard",4
+"Phil Jones","Marouane Fellaini",3
+"Andreas Pereira","Wayne Rooney",3
+"Andreas Pereira","Schweinsteiger",2
+"Jesse Lingard","David de Gea",1
+"Jesse Lingard","Phil Jones",1
+"Jesse Lingard","Marcos Rojo",18
+"Jesse Lingard","Anthony Martial",10
+"Jesse Lingard","Wayne Rooney",11
+"Jesse Lingard","Chris Smalling",5
+"Jesse Lingard","Ander Herrera",19
+"Jesse Lingard","Antonio Valencia",12
+"Jesse Lingard","Morgan Schneiderlin",18
+"Jesse Lingard","Schweinsteiger",21
+"Jesse Lingard","Memphis Depay",3
+"Jesse Lingard","Daley Blind",4
+"Jesse Lingard","Marouane Fellaini",5
+"Jesse Lingard","Juan Mata",6
+"Jesse Lingard","Michael Carrick",6
+"Jesse Lingard","Ashley Young",1
+"Jesse Lingard","Matteo Darmian",7
+"Jesse Lingard","Guillermo Varela",6
+"Guillermo Varela","David de Gea",2
+"Guillermo Varela","Memphis Depay",1
+"Guillermo Varela","Juan Mata",3
+"Guillermo Varela","Chris Smalling",5
+"Guillermo Varela","Schweinsteiger",2
+"Guillermo Varela","Jesse Lingard",5
+"Guillermo Varela","Michael Carrick",3
+"Guillermo Varela","Nick Powell",2
+"Nick Powell","Guillermo Varela",2
+"Nick Powell","Michael Carrick",1
+"Borthwick-Jackson","David de Gea",2
+"Borthwick-Jackson","Memphis Depay",6
+"Borthwick-Jackson","Juan Mata",1
+"Borthwick-Jackson","Anthony Martial",1
+"Borthwick-Jackson","Daley Blind",2
+"Borthwick-Jackson","Marouane Fellaini",3
+"Borthwick-Jackson","Schweinsteiger",1
+"Borthwick-Jackson","Jesse Lingard",1
+"Borthwick-Jackson","Michael Carrick",1
+"Borthwick-Jackson","Nick Powell",1

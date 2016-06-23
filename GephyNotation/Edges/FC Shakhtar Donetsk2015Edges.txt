@@ -1,0 +1,278 @@
+"Andriy Pyatov","Olexandr Kucher",55
+"Andriy Pyatov","Taras Stepanenko",14
+"Andriy Pyatov","Luiz Adriano",11
+"Andriy Pyatov","Fernando",5
+"Andriy Pyatov","Douglas Costa",9
+"Andriy Pyatov","Taison",4
+"Andriy Pyatov","Alex Teixeira",2
+"Andriy Pyatov","Darijo Srna",16
+"Andriy Pyatov","Yaroslav Rakitskiy",40
+"Andriy Pyatov","Márcio Azevedo",8
+"Andriy Pyatov","Fred",6
+"Andriy Pyatov","Marlos",1
+"Andriy Pyatov","Bernard",1
+"Andriy Pyatov","Ilsinho",2
+"Andriy Pyatov","Vyacheslav Shevchuk",12
+"Andriy Pyatov","Ivan Ordets",5
+"Andriy Pyatov","Serhiy Kryvtsov",4
+"Olexandr Kucher","Andriy Pyatov",47
+"Olexandr Kucher","Taras Stepanenko",11
+"Olexandr Kucher","Luiz Adriano",8
+"Olexandr Kucher","Fernando",13
+"Olexandr Kucher","Douglas Costa",12
+"Olexandr Kucher","Taison",6
+"Olexandr Kucher","Alex Teixeira",3
+"Olexandr Kucher","Darijo Srna",83
+"Olexandr Kucher","Yaroslav Rakitskiy",43
+"Olexandr Kucher","Márcio Azevedo",8
+"Olexandr Kucher","Fred",12
+"Olexandr Kucher","Marlos",3
+"Olexandr Kucher","Bernard",2
+"Olexandr Kucher","Vyacheslav Shevchuk",9
+"Taras Stepanenko","Andriy Pyatov",8
+"Taras Stepanenko","Olexandr Kucher",27
+"Taras Stepanenko","Luiz Adriano",4
+"Taras Stepanenko","Fernando",18
+"Taras Stepanenko","Douglas Costa",13
+"Taras Stepanenko","Taison",18
+"Taras Stepanenko","Alex Teixeira",12
+"Taras Stepanenko","Darijo Srna",21
+"Taras Stepanenko","Yaroslav Rakitskiy",32
+"Taras Stepanenko","Márcio Azevedo",11
+"Taras Stepanenko","Fred",16
+"Taras Stepanenko","Marlos",3
+"Taras Stepanenko","Bernard",7
+"Taras Stepanenko","Ilsinho",1
+"Taras Stepanenko","Vyacheslav Shevchuk",29
+"Taras Stepanenko","Ivan Ordets",3
+"Taras Stepanenko","Serhiy Kryvtsov",8
+"Luiz Adriano","Olexandr Kucher",1
+"Luiz Adriano","Taras Stepanenko",3
+"Luiz Adriano","Fernando",2
+"Luiz Adriano","Douglas Costa",9
+"Luiz Adriano","Taison",9
+"Luiz Adriano","Alex Teixeira",16
+"Luiz Adriano","Darijo Srna",3
+"Luiz Adriano","Yaroslav Rakitskiy",7
+"Luiz Adriano","Márcio Azevedo",1
+"Luiz Adriano","Fred",5
+"Luiz Adriano","Marlos",5
+"Luiz Adriano","Bernard",3
+"Luiz Adriano","Ilsinho",1
+"Luiz Adriano","Vyacheslav Shevchuk",4
+"Luiz Adriano","Wellington Nem",1
+"Fernando","Andriy Pyatov",4
+"Fernando","Olexandr Kucher",15
+"Fernando","Taras Stepanenko",25
+"Fernando","Luiz Adriano",6
+"Fernando","Douglas Costa",25
+"Fernando","Taison",22
+"Fernando","Alex Teixeira",10
+"Fernando","Darijo Srna",48
+"Fernando","Yaroslav Rakitskiy",18
+"Fernando","Márcio Azevedo",5
+"Fernando","Fred",8
+"Fernando","Marlos",1
+"Fernando","Bernard",1
+"Fernando","Vyacheslav Shevchuk",10
+"Fernando","Ivan Ordets",5
+"Douglas Costa","Andriy Pyatov",1
+"Douglas Costa","Olexandr Kucher",8
+"Douglas Costa","Taras Stepanenko",14
+"Douglas Costa","Luiz Adriano",7
+"Douglas Costa","Fernando",17
+"Douglas Costa","Taison",16
+"Douglas Costa","Alex Teixeira",17
+"Douglas Costa","Darijo Srna",33
+"Douglas Costa","Yaroslav Rakitskiy",9
+"Douglas Costa","Márcio Azevedo",2
+"Douglas Costa","Fred",9
+"Douglas Costa","Marlos",5
+"Douglas Costa","Olexandr Gladkiy",1
+"Douglas Costa","Bernard",5
+"Douglas Costa","Ilsinho",6
+"Douglas Costa","Vyacheslav Shevchuk",7
+"Douglas Costa","Ivan Ordets",5
+"Douglas Costa","Serhiy Kryvtsov",2
+"Taison","Andriy Pyatov",1
+"Taison","Olexandr Kucher",4
+"Taison","Taras Stepanenko",22
+"Taison","Luiz Adriano",9
+"Taison","Fernando",23
+"Taison","Douglas Costa",21
+"Taison","Alex Teixeira",20
+"Taison","Darijo Srna",15
+"Taison","Yaroslav Rakitskiy",20
+"Taison","Márcio Azevedo",19
+"Taison","Fred",4
+"Taison","Marlos",2
+"Taison","Ilsinho",2
+"Taison","Vyacheslav Shevchuk",29
+"Taison","Ivan Ordets",3
+"Taison","Serhiy Kryvtsov",1
+"Alex Teixeira","Olexandr Kucher",3
+"Alex Teixeira","Taras Stepanenko",12
+"Alex Teixeira","Luiz Adriano",14
+"Alex Teixeira","Fernando",9
+"Alex Teixeira","Douglas Costa",15
+"Alex Teixeira","Taison",20
+"Alex Teixeira","Darijo Srna",17
+"Alex Teixeira","Yaroslav Rakitskiy",7
+"Alex Teixeira","Márcio Azevedo",3
+"Alex Teixeira","Fred",10
+"Alex Teixeira","Marlos",8
+"Alex Teixeira","Olexandr Gladkiy",1
+"Alex Teixeira","Bernard",7
+"Alex Teixeira","Ilsinho",4
+"Alex Teixeira","Vyacheslav Shevchuk",16
+"Alex Teixeira","Ivan Ordets",1
+"Alex Teixeira","Serhiy Kryvtsov",1
+"Darijo Srna","Andriy Pyatov",22
+"Darijo Srna","Olexandr Kucher",47
+"Darijo Srna","Taras Stepanenko",19
+"Darijo Srna","Luiz Adriano",14
+"Darijo Srna","Fernando",37
+"Darijo Srna","Douglas Costa",44
+"Darijo Srna","Taison",14
+"Darijo Srna","Alex Teixeira",17
+"Darijo Srna","Yaroslav Rakitskiy",27
+"Darijo Srna","Márcio Azevedo",2
+"Darijo Srna","Fred",31
+"Darijo Srna","Marlos",12
+"Darijo Srna","Olexandr Gladkiy",2
+"Darijo Srna","Bernard",4
+"Darijo Srna","Ilsinho",1
+"Darijo Srna","Vyacheslav Shevchuk",7
+"Darijo Srna","Ivan Ordets",4
+"Darijo Srna","Wellington Nem",3
+"Darijo Srna","Serhiy Kryvtsov",3
+"Yaroslav Rakitskiy","Andriy Pyatov",50
+"Yaroslav Rakitskiy","Olexandr Kucher",44
+"Yaroslav Rakitskiy","Taras Stepanenko",24
+"Yaroslav Rakitskiy","Luiz Adriano",12
+"Yaroslav Rakitskiy","Fernando",28
+"Yaroslav Rakitskiy","Douglas Costa",14
+"Yaroslav Rakitskiy","Taison",26
+"Yaroslav Rakitskiy","Alex Teixeira",15
+"Yaroslav Rakitskiy","Darijo Srna",23
+"Yaroslav Rakitskiy","Márcio Azevedo",6
+"Yaroslav Rakitskiy","Fred",14
+"Yaroslav Rakitskiy","Marlos",6
+"Yaroslav Rakitskiy","Olexandr Gladkiy",3
+"Yaroslav Rakitskiy","Bernard",3
+"Yaroslav Rakitskiy","Ilsinho",3
+"Yaroslav Rakitskiy","Vyacheslav Shevchuk",36
+"Yaroslav Rakitskiy","Ivan Ordets",9
+"Yaroslav Rakitskiy","Serhiy Kryvtsov",6
+"Márcio Azevedo","Andriy Pyatov",1
+"Márcio Azevedo","Olexandr Kucher",4
+"Márcio Azevedo","Taras Stepanenko",7
+"Márcio Azevedo","Luiz Adriano",2
+"Márcio Azevedo","Fernando",2
+"Márcio Azevedo","Douglas Costa",5
+"Márcio Azevedo","Taison",16
+"Márcio Azevedo","Alex Teixeira",3
+"Márcio Azevedo","Darijo Srna",2
+"Márcio Azevedo","Yaroslav Rakitskiy",12
+"Márcio Azevedo","Marlos",2
+"Márcio Azevedo","Bernard",2
+"Fred","Andriy Pyatov",3
+"Fred","Olexandr Kucher",12
+"Fred","Taras Stepanenko",15
+"Fred","Luiz Adriano",4
+"Fred","Fernando",3
+"Fred","Douglas Costa",14
+"Fred","Taison",5
+"Fred","Alex Teixeira",14
+"Fred","Darijo Srna",33
+"Fred","Yaroslav Rakitskiy",23
+"Fred","Marlos",17
+"Fred","Olexandr Gladkiy",1
+"Fred","Vyacheslav Shevchuk",10
+"Fred","Bernard",13
+"Fred","Serhiy Kryvtsov",7
+"Fred","Ilsinho",10
+"Fred","Wellington Nem",2
+"Marlos","Olexandr Kucher",4
+"Marlos","Taras Stepanenko",4
+"Marlos","Luiz Adriano",2
+"Marlos","Fernando",2
+"Marlos","Douglas Costa",8
+"Marlos","Taison",1
+"Marlos","Alex Teixeira",9
+"Marlos","Darijo Srna",13
+"Marlos","Yaroslav Rakitskiy",2
+"Marlos","Márcio Azevedo",2
+"Marlos","Fred",12
+"Marlos","Vyacheslav Shevchuk",4
+"Marlos","Bernard",8
+"Marlos","Ivan Ordets",1
+"Marlos","Serhiy Kryvtsov",2
+"Marlos","Ilsinho",1
+"Olexandr Gladkiy","Taras Stepanenko",1
+"Olexandr Gladkiy","Douglas Costa",3
+"Olexandr Gladkiy","Taison",1
+"Olexandr Gladkiy","Alex Teixeira",1
+"Olexandr Gladkiy","Yaroslav Rakitskiy",1
+"Olexandr Gladkiy","Fred",3
+"Olexandr Gladkiy","Marlos",2
+"Bernard","Olexandr Kucher",2
+"Bernard","Taras Stepanenko",8
+"Bernard","Luiz Adriano",3
+"Bernard","Douglas Costa",2
+"Bernard","Alex Teixeira",9
+"Bernard","Darijo Srna",5
+"Bernard","Yaroslav Rakitskiy",5
+"Bernard","Ilsinho",2
+"Bernard","Vyacheslav Shevchuk",7
+"Bernard","Fred",11
+"Bernard","Marlos",7
+"Bernard","Ivan Ordets",1
+"Bernard","Olexandr Gladkiy",1
+"Bernard","Serhiy Kryvtsov",1
+"Ilsinho","Andriy Pyatov",1
+"Ilsinho","Douglas Costa",10
+"Ilsinho","Taison",1
+"Ilsinho","Alex Teixeira",1
+"Ilsinho","Darijo Srna",2
+"Ilsinho","Yaroslav Rakitskiy",1
+"Ilsinho","Bernard",4
+"Ilsinho","Fred",7
+"Ilsinho","Olexandr Gladkiy",1
+"Ilsinho","Serhiy Kryvtsov",7
+"Vyacheslav Shevchuk","Andriy Pyatov",12
+"Vyacheslav Shevchuk","Olexandr Kucher",2
+"Vyacheslav Shevchuk","Taras Stepanenko",9
+"Vyacheslav Shevchuk","Luiz Adriano",5
+"Vyacheslav Shevchuk","Fernando",4
+"Vyacheslav Shevchuk","Douglas Costa",2
+"Vyacheslav Shevchuk","Taison",22
+"Vyacheslav Shevchuk","Alex Teixeira",17
+"Vyacheslav Shevchuk","Darijo Srna",2
+"Vyacheslav Shevchuk","Yaroslav Rakitskiy",41
+"Vyacheslav Shevchuk","Fred",7
+"Vyacheslav Shevchuk","Bernard",14
+"Vyacheslav Shevchuk","Marlos",3
+"Vyacheslav Shevchuk","Ivan Ordets",1
+"Vyacheslav Shevchuk","Serhiy Kryvtsov",2
+"Ivan Ordets","Andriy Pyatov",2
+"Ivan Ordets","Taras Stepanenko",6
+"Ivan Ordets","Vyacheslav Shevchuk",2
+"Ivan Ordets","Fernando",5
+"Ivan Ordets","Taison",1
+"Ivan Ordets","Darijo Srna",10
+"Ivan Ordets","Yaroslav Rakitskiy",15
+"Ivan Ordets","Fred",2
+"Ivan Ordets","Marlos",1
+"Serhiy Kryvtsov","Andriy Pyatov",10
+"Serhiy Kryvtsov","Taras Stepanenko",3
+"Serhiy Kryvtsov","Fred",7
+"Serhiy Kryvtsov","Douglas Costa",3
+"Serhiy Kryvtsov","Olexandr Gladkiy",1
+"Serhiy Kryvtsov","Yaroslav Rakitskiy",10
+"Serhiy Kryvtsov","Ilsinho",6
+"Serhiy Kryvtsov","Marlos",2
+"Serhiy Kryvtsov","Darijo Srna",3
+"Wellington Nem","Olexandr Kucher",2
+"Wellington Nem","Darijo Srna",2
+"Wellington Nem","Ilsinho",1

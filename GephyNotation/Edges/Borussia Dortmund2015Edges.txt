@@ -1,0 +1,408 @@
+"Roman Weidenfeller","Neven Subotić",17
+"Roman Weidenfeller","Sebastian Kehl",1
+"Roman Weidenfeller","Sven Bender",1
+"Roman Weidenfeller","Ciro Immobile",1
+"Roman Weidenfeller","Henrikh Mkhitaryan",1
+"Roman Weidenfeller","Pierre-Emerick Aubameyang",1
+"Roman Weidenfeller","Kevin Grosskreutz",1
+"Roman Weidenfeller","Sokratis Papastathopoulos",2
+"Roman Weidenfeller","Marcel Schmelzer",3
+"Roman Weidenfeller","Erik Durm",7
+"Roman Weidenfeller","Adrián Ramos",2
+"Roman Weidenfeller","Matthias Ginter",14
+"Roman Weidenfeller","Łukasz Piszczek",1
+"Roman Weidenfeller","Mats Hummels",3
+"Roman Weidenfeller","İlkay Gündoğan",4
+"Roman Weidenfeller","Aubameyang",2
+"Roman Weidenfeller","Marco Reus",2
+"Roman Weidenfeller","Nuri Şahin",1
+"Roman Weidenfeller","Papastathopoulos",1
+"Roman Weidenfeller","Oliver Kirch",3
+"Neven Subotić","Roman Weidenfeller",20
+"Neven Subotić","Sebastian Kehl",6
+"Neven Subotić","Sven Bender",27
+"Neven Subotić","Ciro Immobile",8
+"Neven Subotić","Henrikh Mkhitaryan",10
+"Neven Subotić","Pierre-Emerick Aubameyang",4
+"Neven Subotić","Kevin Grosskreutz",13
+"Neven Subotić","Sokratis Papastathopoulos",16
+"Neven Subotić","Marcel Schmelzer",6
+"Neven Subotić","Erik Durm",21
+"Neven Subotić","Adrián Ramos",3
+"Neven Subotić","Matthias Ginter",16
+"Neven Subotić","Shinji Kagawa",10
+"Neven Subotić","Łukasz Piszczek",17
+"Neven Subotić","Mats Hummels",11
+"Neven Subotić","İlkay Gündoğan",30
+"Neven Subotić","Aubameyang",2
+"Neven Subotić","Mitchell Langerak",1
+"Neven Subotić","Nuri Şahin",9
+"Neven Subotić","Jakub Błaszczykowski",6
+"Neven Subotić","Oliver Kirch",4
+"Neven Subotić","Marco Reus",1
+"Neven Subotić","Kevin Kampl",3
+"Neven Subotić","Papastathopoulos",4
+"Sebastian Kehl","Neven Subotić",14
+"Sebastian Kehl","Sven Bender",10
+"Sebastian Kehl","Ciro Immobile",6
+"Sebastian Kehl","Henrikh Mkhitaryan",3
+"Sebastian Kehl","Pierre-Emerick Aubameyang",10
+"Sebastian Kehl","Kevin Grosskreutz",3
+"Sebastian Kehl","Sokratis Papastathopoulos",9
+"Sebastian Kehl","Marcel Schmelzer",10
+"Sebastian Kehl","Erik Durm",3
+"Sebastian Kehl","Shinji Kagawa",6
+"Sebastian Kehl","Łukasz Piszczek",9
+"Sebastian Kehl","Mats Hummels",1
+"Sven Bender","Roman Weidenfeller",4
+"Sven Bender","Neven Subotić",18
+"Sven Bender","Sebastian Kehl",12
+"Sven Bender","Ciro Immobile",6
+"Sven Bender","Henrikh Mkhitaryan",18
+"Sven Bender","Pierre-Emerick Aubameyang",7
+"Sven Bender","Kevin Grosskreutz",8
+"Sven Bender","Sokratis Papastathopoulos",8
+"Sven Bender","Marcel Schmelzer",21
+"Sven Bender","Erik Durm",1
+"Sven Bender","Miloš Jojić",2
+"Sven Bender","Adrián Ramos",2
+"Sven Bender","Matthias Ginter",10
+"Sven Bender","Shinji Kagawa",6
+"Sven Bender","Łukasz Piszczek",20
+"Sven Bender","Mats Hummels",5
+"Sven Bender","İlkay Gündoğan",28
+"Sven Bender","Aubameyang",6
+"Sven Bender","Marco Reus",2
+"Sven Bender","Kevin Kampl",3
+"Sven Bender","Papastathopoulos",6
+"Sven Bender","Oliver Kirch",5
+"Ciro Immobile","Roman Weidenfeller",2
+"Ciro Immobile","Neven Subotić",2
+"Ciro Immobile","Sebastian Kehl",4
+"Ciro Immobile","Sven Bender",6
+"Ciro Immobile","Henrikh Mkhitaryan",8
+"Ciro Immobile","Pierre-Emerick Aubameyang",7
+"Ciro Immobile","Kevin Grosskreutz",5
+"Ciro Immobile","Sokratis Papastathopoulos",1
+"Ciro Immobile","Marcel Schmelzer",2
+"Ciro Immobile","Erik Durm",6
+"Ciro Immobile","Matthias Ginter",2
+"Ciro Immobile","Shinji Kagawa",9
+"Ciro Immobile","Łukasz Piszczek",5
+"Ciro Immobile","İlkay Gündoğan",15
+"Ciro Immobile","Aubameyang",6
+"Ciro Immobile","Nuri Şahin",6
+"Ciro Immobile","Oliver Kirch",1
+"Ciro Immobile","Marco Reus",3
+"Henrikh Mkhitaryan","Neven Subotić",4
+"Henrikh Mkhitaryan","Sebastian Kehl",1
+"Henrikh Mkhitaryan","Sven Bender",11
+"Henrikh Mkhitaryan","Ciro Immobile",10
+"Henrikh Mkhitaryan","Pierre-Emerick Aubameyang",3
+"Henrikh Mkhitaryan","Kevin Grosskreutz",9
+"Henrikh Mkhitaryan","Marcel Schmelzer",19
+"Henrikh Mkhitaryan","Erik Durm",18
+"Henrikh Mkhitaryan","Miloš Jojić",1
+"Henrikh Mkhitaryan","Adrián Ramos",2
+"Henrikh Mkhitaryan","Matthias Ginter",8
+"Henrikh Mkhitaryan","İlkay Gündoğan",27
+"Henrikh Mkhitaryan","Aubameyang",9
+"Henrikh Mkhitaryan","Łukasz Piszczek",4
+"Henrikh Mkhitaryan","Shinji Kagawa",6
+"Henrikh Mkhitaryan","Nuri Şahin",14
+"Henrikh Mkhitaryan","Jakub Błaszczykowski",2
+"Henrikh Mkhitaryan","Oliver Kirch",3
+"Henrikh Mkhitaryan","Marco Reus",11
+"Henrikh Mkhitaryan","Mats Hummels",1
+"Henrikh Mkhitaryan","Papastathopoulos",3
+"Henrikh Mkhitaryan","Kevin Kampl",4
+"Pierre-Emerick Aubameyang","Sebastian Kehl",5
+"Pierre-Emerick Aubameyang","Sven Bender",2
+"Pierre-Emerick Aubameyang","Ciro Immobile",10
+"Pierre-Emerick Aubameyang","Henrikh Mkhitaryan",5
+"Pierre-Emerick Aubameyang","Kevin Grosskreutz",2
+"Pierre-Emerick Aubameyang","Sokratis Papastathopoulos",1
+"Pierre-Emerick Aubameyang","Marcel Schmelzer",5
+"Pierre-Emerick Aubameyang","Erik Durm",3
+"Pierre-Emerick Aubameyang","Adrián Ramos",2
+"Pierre-Emerick Aubameyang","Matthias Ginter",1
+"Pierre-Emerick Aubameyang","Shinji Kagawa",6
+"Pierre-Emerick Aubameyang","Łukasz Piszczek",1
+"Kevin Grosskreutz","Roman Weidenfeller",1
+"Kevin Grosskreutz","Neven Subotić",6
+"Kevin Grosskreutz","Sebastian Kehl",3
+"Kevin Grosskreutz","Sven Bender",7
+"Kevin Grosskreutz","Ciro Immobile",13
+"Kevin Grosskreutz","Henrikh Mkhitaryan",3
+"Kevin Grosskreutz","Pierre-Emerick Aubameyang",5
+"Kevin Grosskreutz","Sokratis Papastathopoulos",1
+"Kevin Grosskreutz","Marcel Schmelzer",12
+"Kevin Grosskreutz","Erik Durm",7
+"Kevin Grosskreutz","Adrián Ramos",1
+"Kevin Grosskreutz","Matthias Ginter",2
+"Kevin Grosskreutz","Shinji Kagawa",9
+"Kevin Grosskreutz","Łukasz Piszczek",9
+"Kevin Grosskreutz","İlkay Gündoğan",6
+"Kevin Grosskreutz","Aubameyang",4
+"Kevin Grosskreutz","Nuri Şahin",5
+"Kevin Grosskreutz","Jakub Błaszczykowski",2
+"Kevin Grosskreutz","Oliver Kirch",2
+"Sokratis Papastathopoulos","Roman Weidenfeller",7
+"Sokratis Papastathopoulos","Neven Subotić",12
+"Sokratis Papastathopoulos","Sebastian Kehl",8
+"Sokratis Papastathopoulos","Sven Bender",7
+"Sokratis Papastathopoulos","Ciro Immobile",4
+"Sokratis Papastathopoulos","Pierre-Emerick Aubameyang",5
+"Sokratis Papastathopoulos","Kevin Grosskreutz",2
+"Sokratis Papastathopoulos","Marcel Schmelzer",11
+"Sokratis Papastathopoulos","Erik Durm",2
+"Sokratis Papastathopoulos","Łukasz Piszczek",2
+"Marcel Schmelzer","Neven Subotić",7
+"Marcel Schmelzer","Sebastian Kehl",9
+"Marcel Schmelzer","Sven Bender",19
+"Marcel Schmelzer","Ciro Immobile",17
+"Marcel Schmelzer","Henrikh Mkhitaryan",21
+"Marcel Schmelzer","Pierre-Emerick Aubameyang",2
+"Marcel Schmelzer","Kevin Grosskreutz",12
+"Marcel Schmelzer","Sokratis Papastathopoulos",4
+"Marcel Schmelzer","Adrián Ramos",2
+"Marcel Schmelzer","Matthias Ginter",14
+"Marcel Schmelzer","Shinji Kagawa",6
+"Marcel Schmelzer","Mats Hummels",16
+"Marcel Schmelzer","İlkay Gündoğan",25
+"Marcel Schmelzer","Aubameyang",1
+"Marcel Schmelzer","Mitchell Langerak",1
+"Marcel Schmelzer","Nuri Şahin",15
+"Marcel Schmelzer","Oliver Kirch",1
+"Marcel Schmelzer","Marco Reus",11
+"Marcel Schmelzer","Kevin Kampl",1
+"Erik Durm","Roman Weidenfeller",4
+"Erik Durm","Neven Subotić",17
+"Erik Durm","Sebastian Kehl",8
+"Erik Durm","Sven Bender",1
+"Erik Durm","Ciro Immobile",1
+"Erik Durm","Henrikh Mkhitaryan",10
+"Erik Durm","Pierre-Emerick Aubameyang",1
+"Erik Durm","Kevin Grosskreutz",4
+"Erik Durm","Sokratis Papastathopoulos",1
+"Erik Durm","Miloš Jojić",2
+"Erik Durm","Matthias Ginter",9
+"Erik Durm","Shinji Kagawa",7
+"Erik Durm","Łukasz Piszczek",1
+"Erik Durm","İlkay Gündoğan",8
+"Erik Durm","Nuri Şahin",6
+"Erik Durm","Aubameyang",1
+"Miloš Jojić","Neven Subotić",1
+"Miloš Jojić","Sven Bender",1
+"Miloš Jojić","Ciro Immobile",1
+"Miloš Jojić","Henrikh Mkhitaryan",1
+"Miloš Jojić","Kevin Grosskreutz",1
+"Miloš Jojić","Erik Durm",2
+"Miloš Jojić","Łukasz Piszczek",1
+"Adrián Ramos","Neven Subotić",1
+"Adrián Ramos","Sebastian Kehl",2
+"Adrián Ramos","Sven Bender",2
+"Adrián Ramos","Henrikh Mkhitaryan",1
+"Adrián Ramos","Pierre-Emerick Aubameyang",3
+"Adrián Ramos","Marcel Schmelzer",1
+"Adrián Ramos","Erik Durm",1
+"Adrián Ramos","Matthias Ginter",2
+"Adrián Ramos","Shinji Kagawa",4
+"Adrián Ramos","Łukasz Piszczek",1
+"Adrián Ramos","İlkay Gündoğan",5
+"Adrián Ramos","Aubameyang",1
+"Adrián Ramos","Marco Reus",1
+"Adrián Ramos","Papastathopoulos",1
+"Adrián Ramos","Jakub Błaszczykowski",1
+"Adrián Ramos","Oliver Kirch",2
+"Matthias Ginter","Roman Weidenfeller",10
+"Matthias Ginter","Neven Subotić",21
+"Matthias Ginter","Sven Bender",12
+"Matthias Ginter","Ciro Immobile",7
+"Matthias Ginter","Henrikh Mkhitaryan",13
+"Matthias Ginter","Kevin Grosskreutz",5
+"Matthias Ginter","Sokratis Papastathopoulos",1
+"Matthias Ginter","Marcel Schmelzer",26
+"Matthias Ginter","Erik Durm",4
+"Matthias Ginter","Adrián Ramos",4
+"Matthias Ginter","İlkay Gündoğan",38
+"Matthias Ginter","Aubameyang",2
+"Matthias Ginter","Łukasz Piszczek",2
+"Matthias Ginter","Shinji Kagawa",6
+"Matthias Ginter","Mitchell Langerak",4
+"Matthias Ginter","Nuri Şahin",12
+"Matthias Ginter","Oliver Kirch",3
+"Matthias Ginter","Mats Hummels",4
+"Shinji Kagawa","Roman Weidenfeller",1
+"Shinji Kagawa","Neven Subotić",7
+"Shinji Kagawa","Sebastian Kehl",6
+"Shinji Kagawa","Sven Bender",4
+"Shinji Kagawa","Ciro Immobile",14
+"Shinji Kagawa","Pierre-Emerick Aubameyang",8
+"Shinji Kagawa","Kevin Grosskreutz",10
+"Shinji Kagawa","Sokratis Papastathopoulos",2
+"Shinji Kagawa","Łukasz Piszczek",7
+"Shinji Kagawa","Marcel Schmelzer",8
+"Shinji Kagawa","Adrián Ramos",2
+"Shinji Kagawa","Erik Durm",4
+"Shinji Kagawa","İlkay Gündoğan",9
+"Shinji Kagawa","Henrikh Mkhitaryan",4
+"Shinji Kagawa","Matthias Ginter",3
+"Shinji Kagawa","Nuri Şahin",6
+"Łukasz Piszczek","Roman Weidenfeller",1
+"Łukasz Piszczek","Neven Subotić",11
+"Łukasz Piszczek","Sebastian Kehl",5
+"Łukasz Piszczek","Sven Bender",23
+"Łukasz Piszczek","Shinji Kagawa",9
+"Łukasz Piszczek","Ciro Immobile",2
+"Łukasz Piszczek","Pierre-Emerick Aubameyang",2
+"Łukasz Piszczek","Kevin Grosskreutz",13
+"Łukasz Piszczek","Mats Hummels",1
+"Łukasz Piszczek","Adrián Ramos",2
+"Łukasz Piszczek","İlkay Gündoğan",8
+"Łukasz Piszczek","Henrikh Mkhitaryan",8
+"Łukasz Piszczek","Aubameyang",5
+"Łukasz Piszczek","Miloš Jojić",1
+"Łukasz Piszczek","Marco Reus",1
+"Łukasz Piszczek","Nuri Şahin",2
+"Łukasz Piszczek","Papastathopoulos",3
+"Mats Hummels","Roman Weidenfeller",3
+"Mats Hummels","Neven Subotić",6
+"Mats Hummels","Sven Bender",4
+"Mats Hummels","Shinji Kagawa",1
+"Mats Hummels","Ciro Immobile",2
+"Mats Hummels","Pierre-Emerick Aubameyang",1
+"Mats Hummels","Łukasz Piszczek",1
+"Mats Hummels","Marcel Schmelzer",17
+"Mats Hummels","İlkay Gündoğan",12
+"Mats Hummels","Henrikh Mkhitaryan",6
+"Mats Hummels","Marco Reus",6
+"Mats Hummels","Aubameyang",2
+"Mats Hummels","Nuri Şahin",3
+"Mats Hummels","Papastathopoulos",16
+"Mats Hummels","Jakub Błaszczykowski",4
+"Mats Hummels","Oliver Kirch",5
+"Mats Hummels","Matthias Ginter",3
+"Mats Hummels","Kevin Kampl",7
+"İlkay Gündoğan","Roman Weidenfeller",6
+"İlkay Gündoğan","Neven Subotić",37
+"İlkay Gündoğan","Sven Bender",25
+"İlkay Gündoğan","Ciro Immobile",19
+"İlkay Gündoğan","Henrikh Mkhitaryan",40
+"İlkay Gündoğan","Aubameyang",14
+"İlkay Gündoğan","Kevin Grosskreutz",7
+"İlkay Gündoğan","Łukasz Piszczek",15
+"İlkay Gündoğan","Matthias Ginter",31
+"İlkay Gündoğan","Marcel Schmelzer",33
+"İlkay Gündoğan","Shinji Kagawa",14
+"İlkay Gündoğan","Miloš Jojić",2
+"İlkay Gündoğan","Adrián Ramos",5
+"İlkay Gündoğan","Mitchell Langerak",3
+"İlkay Gündoğan","Nuri Şahin",28
+"İlkay Gündoğan","Erik Durm",5
+"İlkay Gündoğan","Jakub Błaszczykowski",10
+"İlkay Gündoğan","Oliver Kirch",10
+"İlkay Gündoğan","Marco Reus",10
+"İlkay Gündoğan","Mats Hummels",15
+"İlkay Gündoğan","Papastathopoulos",16
+"İlkay Gündoğan","Kevin Kampl",4
+"Aubameyang","Sven Bender",4
+"Aubameyang","İlkay Gündoğan",10
+"Aubameyang","Ciro Immobile",8
+"Aubameyang","Henrikh Mkhitaryan",4
+"Aubameyang","Kevin Grosskreutz",4
+"Aubameyang","Łukasz Piszczek",6
+"Aubameyang","Marcel Schmelzer",2
+"Aubameyang","Nuri Şahin",1
+"Aubameyang","Jakub Błaszczykowski",1
+"Aubameyang","Oliver Kirch",5
+"Aubameyang","Marco Reus",3
+"Aubameyang","Papastathopoulos",2
+"Aubameyang","Kevin Kampl",1
+"Mitchell Langerak","Neven Subotić",6
+"Mitchell Langerak","Shinji Kagawa",1
+"Mitchell Langerak","İlkay Gündoğan",1
+"Mitchell Langerak","Henrikh Mkhitaryan",2
+"Mitchell Langerak","Matthias Ginter",3
+"Mitchell Langerak","Erik Durm",1
+"Nuri Şahin","Mitchell Langerak",1
+"Nuri Şahin","Neven Subotić",7
+"Nuri Şahin","Shinji Kagawa",3
+"Nuri Şahin","İlkay Gündoğan",31
+"Nuri Şahin","Ciro Immobile",4
+"Nuri Şahin","Henrikh Mkhitaryan",13
+"Nuri Şahin","Kevin Grosskreutz",4
+"Nuri Şahin","Matthias Ginter",22
+"Nuri Şahin","Marcel Schmelzer",18
+"Nuri Şahin","Erik Durm",9
+"Nuri Şahin","Jakub Błaszczykowski",1
+"Nuri Şahin","Aubameyang",1
+"Nuri Şahin","Oliver Kirch",5
+"Nuri Şahin","Roman Weidenfeller",1
+"Nuri Şahin","Marco Reus",2
+"Nuri Şahin","Mats Hummels",7
+"Nuri Şahin","Papastathopoulos",1
+"Nuri Şahin","Łukasz Piszczek",3
+"Jakub Błaszczykowski","Neven Subotić",2
+"Jakub Błaszczykowski","İlkay Gündoğan",6
+"Jakub Błaszczykowski","Ciro Immobile",1
+"Jakub Błaszczykowski","Henrikh Mkhitaryan",1
+"Jakub Błaszczykowski","Nuri Şahin",2
+"Jakub Błaszczykowski","Kevin Grosskreutz",2
+"Jakub Błaszczykowski","Matthias Ginter",1
+"Jakub Błaszczykowski","Aubameyang",1
+"Jakub Błaszczykowski","Oliver Kirch",5
+"Jakub Błaszczykowski","Papastathopoulos",1
+"Jakub Błaszczykowski","Kevin Kampl",8
+"Jakub Błaszczykowski","Adrián Ramos",2
+"Oliver Kirch","Neven Subotić",6
+"Oliver Kirch","İlkay Gündoğan",13
+"Oliver Kirch","Ciro Immobile",1
+"Oliver Kirch","Henrikh Mkhitaryan",10
+"Oliver Kirch","Nuri Şahin",3
+"Oliver Kirch","Kevin Grosskreutz",1
+"Oliver Kirch","Matthias Ginter",2
+"Oliver Kirch","Jakub Błaszczykowski",5
+"Oliver Kirch","Aubameyang",6
+"Oliver Kirch","Marco Reus",2
+"Oliver Kirch","Mats Hummels",4
+"Oliver Kirch","Papastathopoulos",3
+"Oliver Kirch","Kevin Kampl",5
+"Marco Reus","İlkay Gündoğan",10
+"Marco Reus","Ciro Immobile",6
+"Marco Reus","Henrikh Mkhitaryan",6
+"Marco Reus","Mats Hummels",2
+"Marco Reus","Aubameyang",3
+"Marco Reus","Nuri Şahin",1
+"Marco Reus","Papastathopoulos",10
+"Marco Reus","Marcel Schmelzer",14
+"Marco Reus","Oliver Kirch",4
+"Marco Reus","Matthias Ginter",1
+"Marco Reus","Neven Subotić",1
+"Marco Reus","Sven Bender",3
+"Marco Reus","Kevin Kampl",3
+"Papastathopoulos","Roman Weidenfeller",4
+"Papastathopoulos","İlkay Gündoğan",8
+"Papastathopoulos","Henrikh Mkhitaryan",3
+"Papastathopoulos","Marco Reus",9
+"Papastathopoulos","Mats Hummels",6
+"Papastathopoulos","Aubameyang",1
+"Papastathopoulos","Nuri Şahin",2
+"Papastathopoulos","Łukasz Piszczek",3
+"Papastathopoulos","Marcel Schmelzer",2
+"Papastathopoulos","Jakub Błaszczykowski",2
+"Papastathopoulos","Oliver Kirch",3
+"Papastathopoulos","Matthias Ginter",1
+"Papastathopoulos","Neven Subotić",7
+"Papastathopoulos","Sven Bender",8
+"Papastathopoulos","Kevin Kampl",7
+"Kevin Kampl","Neven Subotić",2
+"Kevin Kampl","Sven Bender",5
+"Kevin Kampl","İlkay Gündoğan",10
+"Kevin Kampl","Marco Reus",3
+"Kevin Kampl","Mats Hummels",3
+"Kevin Kampl","Papastathopoulos",1
+"Kevin Kampl","Marcel Schmelzer",5
+"Kevin Kampl","Jakub Błaszczykowski",2
+"Kevin Kampl","Adrián Ramos",2
+"Kevin Kampl","Oliver Kirch",4

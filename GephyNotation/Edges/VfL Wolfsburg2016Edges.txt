@@ -1,0 +1,333 @@
+"Diego Benaglio","Daniel Caligiuri",10
+"Diego Benaglio","Julian Draxler",2
+"Diego Benaglio","Max Kruse",6
+"Diego Benaglio","Bas Dost",9
+"Diego Benaglio","Christian Träsch",16
+"Diego Benaglio","André Schürrle",5
+"Diego Benaglio","Dante",47
+"Diego Benaglio","Luiz Gustavo",10
+"Diego Benaglio","Naldo",59
+"Diego Benaglio","Ricardo Rodriguez",11
+"Diego Benaglio","Nicklas Bendtner",1
+"Diego Benaglio","Josuha Guilavogui",4
+"Diego Benaglio","Maximilian Arnold",6
+"Diego Benaglio","Sebastian Jung",7
+"Diego Benaglio","Vieirinha",11
+"Diego Benaglio","Timm Klose",3
+"Diego Benaglio","Marcel Schäfer",3
+"Diego Benaglio","Bruno Henrique",13
+"Daniel Caligiuri","Diego Benaglio",3
+"Daniel Caligiuri","Julian Draxler",21
+"Daniel Caligiuri","Max Kruse",15
+"Daniel Caligiuri","Bas Dost",8
+"Daniel Caligiuri","Christian Träsch",17
+"Daniel Caligiuri","André Schürrle",8
+"Daniel Caligiuri","Dante",1
+"Daniel Caligiuri","Luiz Gustavo",12
+"Daniel Caligiuri","Naldo",3
+"Daniel Caligiuri","Ricardo Rodriguez",6
+"Daniel Caligiuri","Nicklas Bendtner",3
+"Daniel Caligiuri","Josuha Guilavogui",9
+"Daniel Caligiuri","Maximilian Arnold",10
+"Daniel Caligiuri","Sebastian Jung",11
+"Daniel Caligiuri","Vieirinha",3
+"Daniel Caligiuri","Timm Klose",1
+"Daniel Caligiuri","Marcel Schäfer",7
+"Julian Draxler","Diego Benaglio",7
+"Julian Draxler","Daniel Caligiuri",17
+"Julian Draxler","Max Kruse",41
+"Julian Draxler","Bas Dost",3
+"Julian Draxler","Christian Träsch",30
+"Julian Draxler","André Schürrle",20
+"Julian Draxler","Dante",20
+"Julian Draxler","Luiz Gustavo",31
+"Julian Draxler","Naldo",11
+"Julian Draxler","Ricardo Rodriguez",45
+"Julian Draxler","Nicklas Bendtner",4
+"Julian Draxler","Josuha Guilavogui",24
+"Julian Draxler","Maximilian Arnold",16
+"Julian Draxler","Sebastian Jung",5
+"Julian Draxler","Vieirinha",10
+"Julian Draxler","Timm Klose",2
+"Julian Draxler","Marcel Schäfer",1
+"Julian Draxler","Koen Casteels",3
+"Julian Draxler","Robin Knoche",5
+"Julian Draxler","Leandro Putaro",1
+"Julian Draxler","Bruno Henrique",3
+"Max Kruse","Diego Benaglio",4
+"Max Kruse","Daniel Caligiuri",20
+"Max Kruse","Julian Draxler",35
+"Max Kruse","Bas Dost",8
+"Max Kruse","Christian Träsch",22
+"Max Kruse","André Schürrle",30
+"Max Kruse","Dante",23
+"Max Kruse","Luiz Gustavo",21
+"Max Kruse","Naldo",12
+"Max Kruse","Ricardo Rodriguez",26
+"Max Kruse","Nicklas Bendtner",2
+"Max Kruse","Josuha Guilavogui",23
+"Max Kruse","Maximilian Arnold",28
+"Max Kruse","Sebastian Jung",3
+"Max Kruse","Vieirinha",8
+"Max Kruse","Marcel Schäfer",8
+"Max Kruse","Timm Klose",1
+"Max Kruse","Robin Knoche",3
+"Bas Dost","Daniel Caligiuri",6
+"Bas Dost","Julian Draxler",4
+"Bas Dost","Max Kruse",8
+"Bas Dost","Christian Träsch",5
+"Bas Dost","André Schürrle",2
+"Bas Dost","Dante",1
+"Bas Dost","Luiz Gustavo",7
+"Bas Dost","Naldo",2
+"Bas Dost","Ricardo Rodriguez",1
+"Bas Dost","Josuha Guilavogui",17
+"Bas Dost","Maximilian Arnold",8
+"Bas Dost","Vieirinha",4
+"Christian Träsch","Diego Benaglio",17
+"Christian Träsch","Daniel Caligiuri",19
+"Christian Träsch","Julian Draxler",38
+"Christian Träsch","Max Kruse",28
+"Christian Träsch","Bas Dost",5
+"Christian Träsch","André Schürrle",11
+"Christian Träsch","Dante",13
+"Christian Träsch","Luiz Gustavo",14
+"Christian Träsch","Naldo",36
+"Christian Träsch","Ricardo Rodriguez",7
+"Christian Träsch","Nicklas Bendtner",2
+"Christian Träsch","Josuha Guilavogui",24
+"Christian Träsch","Maximilian Arnold",23
+"Christian Träsch","Sebastian Jung",3
+"Christian Träsch","Vieirinha",32
+"Christian Träsch","Koen Casteels",5
+"Christian Träsch","Robin Knoche",8
+"André Schürrle","Diego Benaglio",2
+"André Schürrle","Daniel Caligiuri",2
+"André Schürrle","Julian Draxler",15
+"André Schürrle","Max Kruse",23
+"André Schürrle","Christian Träsch",8
+"André Schürrle","Dante",12
+"André Schürrle","Luiz Gustavo",10
+"André Schürrle","Naldo",2
+"André Schürrle","Ricardo Rodriguez",28
+"André Schürrle","Nicklas Bendtner",2
+"André Schürrle","Josuha Guilavogui",8
+"André Schürrle","Maximilian Arnold",10
+"André Schürrle","Sebastian Jung",1
+"André Schürrle","Vieirinha",3
+"André Schürrle","Timm Klose",6
+"André Schürrle","Marcel Schäfer",3
+"André Schürrle","Koen Casteels",1
+"André Schürrle","Bruno Henrique",8
+"Dante","Diego Benaglio",49
+"Dante","Daniel Caligiuri",14
+"Dante","Julian Draxler",24
+"Dante","Max Kruse",31
+"Dante","Bas Dost",11
+"Dante","Christian Träsch",11
+"Dante","André Schürrle",28
+"Dante","Luiz Gustavo",34
+"Dante","Naldo",39
+"Dante","Ricardo Rodriguez",64
+"Dante","Nicklas Bendtner",1
+"Dante","Josuha Guilavogui",30
+"Dante","Maximilian Arnold",33
+"Dante","Sebastian Jung",1
+"Dante","Vieirinha",4
+"Dante","Marcel Schäfer",18
+"Dante","Koen Casteels",9
+"Dante","Robin Knoche",2
+"Dante","Bruno Henrique",1
+"Luiz Gustavo","Diego Benaglio",13
+"Luiz Gustavo","Daniel Caligiuri",10
+"Luiz Gustavo","Julian Draxler",43
+"Luiz Gustavo","Max Kruse",17
+"Luiz Gustavo","Christian Träsch",31
+"Luiz Gustavo","André Schürrle",19
+"Luiz Gustavo","Dante",42
+"Luiz Gustavo","Naldo",28
+"Luiz Gustavo","Ricardo Rodriguez",53
+"Luiz Gustavo","Nicklas Bendtner",3
+"Luiz Gustavo","Josuha Guilavogui",23
+"Luiz Gustavo","Maximilian Arnold",17
+"Luiz Gustavo","Vieirinha",14
+"Luiz Gustavo","Timm Klose",9
+"Luiz Gustavo","Sebastian Jung",10
+"Luiz Gustavo","Koen Casteels",4
+"Luiz Gustavo","Robin Knoche",14
+"Luiz Gustavo","Bruno Henrique",6
+"Naldo","Diego Benaglio",28
+"Naldo","Daniel Caligiuri",14
+"Naldo","Julian Draxler",23
+"Naldo","Max Kruse",22
+"Naldo","Bas Dost",16
+"Naldo","Christian Träsch",53
+"Naldo","André Schürrle",2
+"Naldo","Dante",40
+"Naldo","Luiz Gustavo",19
+"Naldo","Ricardo Rodriguez",6
+"Naldo","Nicklas Bendtner",6
+"Naldo","Josuha Guilavogui",35
+"Naldo","Maximilian Arnold",21
+"Naldo","Sebastian Jung",12
+"Naldo","Vieirinha",28
+"Naldo","Timm Klose",11
+"Naldo","Marcel Schäfer",1
+"Naldo","Bruno Henrique",2
+"Ricardo Rodriguez","Diego Benaglio",7
+"Ricardo Rodriguez","Daniel Caligiuri",17
+"Ricardo Rodriguez","Julian Draxler",42
+"Ricardo Rodriguez","Max Kruse",33
+"Ricardo Rodriguez","Bas Dost",4
+"Ricardo Rodriguez","Christian Träsch",12
+"Ricardo Rodriguez","André Schürrle",31
+"Ricardo Rodriguez","Dante",72
+"Ricardo Rodriguez","Luiz Gustavo",46
+"Ricardo Rodriguez","Naldo",14
+"Ricardo Rodriguez","Nicklas Bendtner",1
+"Ricardo Rodriguez","Josuha Guilavogui",21
+"Ricardo Rodriguez","Maximilian Arnold",25
+"Ricardo Rodriguez","Vieirinha",4
+"Ricardo Rodriguez","Timm Klose",4
+"Ricardo Rodriguez","Koen Casteels",5
+"Ricardo Rodriguez","Robin Knoche",4
+"Ricardo Rodriguez","Bruno Henrique",1
+"Nicklas Bendtner","Daniel Caligiuri",4
+"Nicklas Bendtner","Julian Draxler",4
+"Nicklas Bendtner","Max Kruse",5
+"Nicklas Bendtner","Christian Träsch",1
+"Nicklas Bendtner","André Schürrle",2
+"Nicklas Bendtner","Luiz Gustavo",2
+"Nicklas Bendtner","Ricardo Rodriguez",2
+"Nicklas Bendtner","Maximilian Arnold",6
+"Nicklas Bendtner","Sebastian Jung",1
+"Nicklas Bendtner","Marcel Schäfer",1
+"Josuha Guilavogui","Diego Benaglio",7
+"Josuha Guilavogui","Daniel Caligiuri",16
+"Josuha Guilavogui","Julian Draxler",16
+"Josuha Guilavogui","Max Kruse",23
+"Josuha Guilavogui","Bas Dost",6
+"Josuha Guilavogui","Christian Träsch",42
+"Josuha Guilavogui","André Schürrle",14
+"Josuha Guilavogui","Dante",23
+"Josuha Guilavogui","Luiz Gustavo",26
+"Josuha Guilavogui","Naldo",37
+"Josuha Guilavogui","Ricardo Rodriguez",16
+"Josuha Guilavogui","Nicklas Bendtner",4
+"Josuha Guilavogui","Maximilian Arnold",24
+"Josuha Guilavogui","Sebastian Jung",4
+"Josuha Guilavogui","Vieirinha",34
+"Josuha Guilavogui","Timm Klose",2
+"Josuha Guilavogui","Marcel Schäfer",9
+"Josuha Guilavogui","Robin Knoche",1
+"Josuha Guilavogui","Bruno Henrique",8
+"Maximilian Arnold","Diego Benaglio",7
+"Maximilian Arnold","Daniel Caligiuri",16
+"Maximilian Arnold","Julian Draxler",29
+"Maximilian Arnold","Max Kruse",18
+"Maximilian Arnold","Bas Dost",4
+"Maximilian Arnold","Christian Träsch",13
+"Maximilian Arnold","André Schürrle",17
+"Maximilian Arnold","Dante",36
+"Maximilian Arnold","Luiz Gustavo",15
+"Maximilian Arnold","Naldo",17
+"Maximilian Arnold","Ricardo Rodriguez",30
+"Maximilian Arnold","Josuha Guilavogui",14
+"Maximilian Arnold","Sebastian Jung",2
+"Maximilian Arnold","Vieirinha",17
+"Maximilian Arnold","Timm Klose",3
+"Maximilian Arnold","Marcel Schäfer",9
+"Maximilian Arnold","Robin Knoche",5
+"Maximilian Arnold","Bruno Henrique",2
+"Sebastian Jung","Diego Benaglio",3
+"Sebastian Jung","Daniel Caligiuri",6
+"Sebastian Jung","Julian Draxler",3
+"Sebastian Jung","Max Kruse",3
+"Sebastian Jung","Bas Dost",2
+"Sebastian Jung","Christian Träsch",4
+"Sebastian Jung","Josuha Guilavogui",2
+"Sebastian Jung","Naldo",10
+"Sebastian Jung","Maximilian Arnold",3
+"Sebastian Jung","Ricardo Rodriguez",2
+"Sebastian Jung","Nicklas Bendtner",2
+"Sebastian Jung","André Schürrle",8
+"Sebastian Jung","Timm Klose",2
+"Sebastian Jung","Luiz Gustavo",12
+"Sebastian Jung","Vieirinha",7
+"Sebastian Jung","Robin Knoche",4
+"Vieirinha","Diego Benaglio",8
+"Vieirinha","Daniel Caligiuri",8
+"Vieirinha","Julian Draxler",10
+"Vieirinha","Max Kruse",16
+"Vieirinha","Bas Dost",7
+"Vieirinha","Christian Träsch",24
+"Vieirinha","Dante",7
+"Vieirinha","Luiz Gustavo",24
+"Vieirinha","Josuha Guilavogui",22
+"Vieirinha","Naldo",9
+"Vieirinha","Ricardo Rodriguez",6
+"Vieirinha","André Schürrle",10
+"Vieirinha","Maximilian Arnold",15
+"Vieirinha","Timm Klose",1
+"Vieirinha","Sebastian Jung",5
+"Vieirinha","Nicklas Bendtner",2
+"Vieirinha","Marcel Schäfer",1
+"Vieirinha","Robin Knoche",3
+"Vieirinha","Bruno Henrique",7
+"Timm Klose","Diego Benaglio",7
+"Timm Klose","Daniel Caligiuri",1
+"Timm Klose","Bas Dost",2
+"Timm Klose","André Schürrle",3
+"Timm Klose","Luiz Gustavo",5
+"Timm Klose","Josuha Guilavogui",2
+"Timm Klose","Naldo",10
+"Timm Klose","Maximilian Arnold",5
+"Timm Klose","Ricardo Rodriguez",14
+"Timm Klose","Nicklas Bendtner",1
+"Timm Klose","Julian Draxler",3
+"Timm Klose","Max Kruse",1
+"Timm Klose","Dante",1
+"Marcel Schäfer","Diego Benaglio",2
+"Marcel Schäfer","Daniel Caligiuri",4
+"Marcel Schäfer","Vieirinha",1
+"Marcel Schäfer","Max Kruse",6
+"Marcel Schäfer","Dante",16
+"Marcel Schäfer","Josuha Guilavogui",1
+"Marcel Schäfer","Naldo",1
+"Marcel Schäfer","Maximilian Arnold",5
+"Marcel Schäfer","André Schürrle",7
+"Marcel Schäfer","Ricardo Rodriguez",2
+"Marcel Schäfer","Luiz Gustavo",1
+"Marcel Schäfer","Leandro Putaro",1
+"Koen Casteels","Vieirinha",2
+"Koen Casteels","Julian Draxler",1
+"Koen Casteels","Max Kruse",4
+"Koen Casteels","Christian Träsch",3
+"Koen Casteels","Dante",7
+"Koen Casteels","Luiz Gustavo",3
+"Koen Casteels","Maximilian Arnold",1
+"Koen Casteels","Robin Knoche",20
+"Koen Casteels","Ricardo Rodriguez",3
+"Koen Casteels","Marcel Schäfer",1
+"Koen Casteels","André Schürrle",3
+"Koen Casteels","Josuha Guilavogui",2
+"Robin Knoche","Koen Casteels",13
+"Robin Knoche","Vieirinha",9
+"Robin Knoche","Julian Draxler",1
+"Robin Knoche","Max Kruse",3
+"Robin Knoche","Christian Träsch",12
+"Robin Knoche","Dante",9
+"Robin Knoche","Luiz Gustavo",8
+"Robin Knoche","Sebastian Jung",6
+"Robin Knoche","Maximilian Arnold",6
+"Robin Knoche","Ricardo Rodriguez",1
+"Robin Knoche","André Schürrle",1
+"Robin Knoche","Josuha Guilavogui",5
+"Leandro Putaro","Marcel Schäfer",1
+"Bruno Henrique","Vieirinha",11
+"Bruno Henrique","Julian Draxler",1
+"Bruno Henrique","André Schürrle",4
+"Bruno Henrique","Luiz Gustavo",3
+"Bruno Henrique","Josuha Guilavogui",4
+"Bruno Henrique","Maximilian Arnold",1
+"Bruno Henrique","Max Kruse",1

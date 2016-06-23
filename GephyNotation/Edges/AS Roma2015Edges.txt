@@ -1,0 +1,298 @@
+"Morgan De Sanctis","Radja Nainggolan",2
+"Morgan De Sanctis","Francesco Totti",2
+"Morgan De Sanctis","Maicon",1
+"Morgan De Sanctis","Miralem Pjanić",2
+"Morgan De Sanctis","Seydou Keita",6
+"Morgan De Sanctis","Davide Astori",10
+"Morgan De Sanctis","Gervinho",2
+"Morgan De Sanctis","Vassilis Torossidis",1
+"Morgan De Sanctis","Kostas Manolas",24
+"Morgan De Sanctis","Mapou Yanga-Mbiwa",11
+"Morgan De Sanctis","Adem Ljajić",2
+"Morgan De Sanctis","Alessandro Florenzi",3
+"Morgan De Sanctis","Ashley Cole",1
+"Morgan De Sanctis","Daniele De Rossi",6
+"Morgan De Sanctis","Vasilis Torosidis",4
+"Morgan De Sanctis","José Holebas",1
+"Radja Nainggolan","Morgan De Sanctis",4
+"Radja Nainggolan","Juan Manuel Iturbe",10
+"Radja Nainggolan","Francesco Totti",23
+"Radja Nainggolan","Maicon",18
+"Radja Nainggolan","Miralem Pjanić",34
+"Radja Nainggolan","Seydou Keita",41
+"Radja Nainggolan","Davide Astori",14
+"Radja Nainggolan","Gervinho",25
+"Radja Nainggolan","Vassilis Torossidis",21
+"Radja Nainggolan","Kostas Manolas",14
+"Radja Nainggolan","Mapou Yanga-Mbiwa",19
+"Radja Nainggolan","Adem Ljajić",18
+"Radja Nainggolan","Alessandro Florenzi",18
+"Radja Nainggolan","Łukasz Skorupski",2
+"Radja Nainggolan","Ashley Cole",15
+"Radja Nainggolan","José Holebas",15
+"Radja Nainggolan","Vasilis Torosidis",5
+"Radja Nainggolan","Daniele De Rossi",20
+"Radja Nainggolan","Mattia Destro",2
+"Juan Manuel Iturbe","Radja Nainggolan",6
+"Juan Manuel Iturbe","Francesco Totti",4
+"Juan Manuel Iturbe","Maicon",8
+"Juan Manuel Iturbe","Miralem Pjanić",9
+"Juan Manuel Iturbe","Seydou Keita",3
+"Juan Manuel Iturbe","Gervinho",4
+"Juan Manuel Iturbe","Mapou Yanga-Mbiwa",3
+"Juan Manuel Iturbe","Adem Ljajić",1
+"Juan Manuel Iturbe","José Holebas",2
+"Juan Manuel Iturbe","Vasilis Torosidis",1
+"Juan Manuel Iturbe","Daniele De Rossi",7
+"Juan Manuel Iturbe","Mattia Destro",3
+"Juan Manuel Iturbe","Kevin Strootman",1
+"Francesco Totti","Radja Nainggolan",26
+"Francesco Totti","Juan Manuel Iturbe",8
+"Francesco Totti","Maicon",9
+"Francesco Totti","Miralem Pjanić",24
+"Francesco Totti","Seydou Keita",12
+"Francesco Totti","Davide Astori",5
+"Francesco Totti","Gervinho",13
+"Francesco Totti","Vassilis Torossidis",5
+"Francesco Totti","Kostas Manolas",2
+"Francesco Totti","Mapou Yanga-Mbiwa",4
+"Francesco Totti","Adem Ljajić",14
+"Francesco Totti","Alessandro Florenzi",22
+"Francesco Totti","Ashley Cole",5
+"Francesco Totti","José Holebas",5
+"Francesco Totti","Daniele De Rossi",6
+"Francesco Totti","Kevin Strootman",1
+"Maicon","Radja Nainggolan",12
+"Maicon","Juan Manuel Iturbe",7
+"Maicon","Francesco Totti",15
+"Maicon","Miralem Pjanić",28
+"Maicon","Seydou Keita",23
+"Maicon","Davide Astori",1
+"Maicon","Gervinho",13
+"Maicon","Vassilis Torossidis",1
+"Maicon","Kostas Manolas",13
+"Maicon","Mapou Yanga-Mbiwa",3
+"Maicon","Adem Ljajić",8
+"Maicon","Alessandro Florenzi",5
+"Maicon","Ashley Cole",1
+"Miralem Pjanić","Morgan De Sanctis",1
+"Miralem Pjanić","Radja Nainggolan",52
+"Miralem Pjanić","Juan Manuel Iturbe",9
+"Miralem Pjanić","Francesco Totti",30
+"Miralem Pjanić","Maicon",26
+"Miralem Pjanić","Seydou Keita",51
+"Miralem Pjanić","Davide Astori",1
+"Miralem Pjanić","Gervinho",23
+"Miralem Pjanić","Vassilis Torossidis",6
+"Miralem Pjanić","Kostas Manolas",20
+"Miralem Pjanić","Mapou Yanga-Mbiwa",13
+"Miralem Pjanić","Adem Ljajić",2
+"Miralem Pjanić","Alessandro Florenzi",6
+"Miralem Pjanić","Łukasz Skorupski",1
+"Miralem Pjanić","Ashley Cole",1
+"Miralem Pjanić","José Holebas",3
+"Miralem Pjanić","Vasilis Torosidis",8
+"Miralem Pjanić","Daniele De Rossi",5
+"Seydou Keita","Morgan De Sanctis",4
+"Seydou Keita","Radja Nainggolan",56
+"Seydou Keita","Juan Manuel Iturbe",6
+"Seydou Keita","Francesco Totti",15
+"Seydou Keita","Maicon",29
+"Seydou Keita","Miralem Pjanić",48
+"Seydou Keita","Davide Astori",12
+"Seydou Keita","Gervinho",18
+"Seydou Keita","Vassilis Torossidis",6
+"Seydou Keita","Kostas Manolas",14
+"Seydou Keita","Mapou Yanga-Mbiwa",15
+"Seydou Keita","Adem Ljajić",18
+"Seydou Keita","Alessandro Florenzi",23
+"Seydou Keita","Łukasz Skorupski",3
+"Seydou Keita","Ashley Cole",10
+"Seydou Keita","José Holebas",18
+"Seydou Keita","Vasilis Torosidis",2
+"Seydou Keita","Daniele De Rossi",17
+"Seydou Keita","Mattia Destro",2
+"Seydou Keita","Kevin Strootman",1
+"Davide Astori","Morgan De Sanctis",5
+"Davide Astori","Radja Nainggolan",14
+"Davide Astori","Francesco Totti",3
+"Davide Astori","Maicon",1
+"Davide Astori","Miralem Pjanić",6
+"Davide Astori","Seydou Keita",27
+"Davide Astori","Gervinho",2
+"Davide Astori","Vassilis Torossidis",10
+"Davide Astori","Kostas Manolas",12
+"Davide Astori","Adem Ljajić",4
+"Davide Astori","Alessandro Florenzi",5
+"Davide Astori","Daniele De Rossi",13
+"Davide Astori","José Holebas",6
+"Gervinho","Radja Nainggolan",17
+"Gervinho","Juan Manuel Iturbe",6
+"Gervinho","Francesco Totti",14
+"Gervinho","Maicon",9
+"Gervinho","Miralem Pjanić",19
+"Gervinho","Seydou Keita",11
+"Gervinho","Davide Astori",1
+"Gervinho","Vassilis Torossidis",4
+"Gervinho","Kostas Manolas",1
+"Gervinho","Adem Ljajić",1
+"Gervinho","Alessandro Florenzi",4
+"Gervinho","Ashley Cole",1
+"Gervinho","José Holebas",2
+"Gervinho","Vasilis Torosidis",3
+"Gervinho","Daniele De Rossi",5
+"Vassilis Torossidis","Morgan De Sanctis",1
+"Vassilis Torossidis","Radja Nainggolan",17
+"Vassilis Torossidis","Juan Manuel Iturbe",1
+"Vassilis Torossidis","Francesco Totti",4
+"Vassilis Torossidis","Miralem Pjanić",6
+"Vassilis Torossidis","Seydou Keita",5
+"Vassilis Torossidis","Davide Astori",14
+"Vassilis Torossidis","Gervinho",3
+"Vassilis Torossidis","Adem Ljajić",5
+"Vassilis Torossidis","Alessandro Florenzi",4
+"Kostas Manolas","Morgan De Sanctis",20
+"Kostas Manolas","Radja Nainggolan",18
+"Kostas Manolas","Juan Manuel Iturbe",7
+"Kostas Manolas","Francesco Totti",6
+"Kostas Manolas","Maicon",21
+"Kostas Manolas","Miralem Pjanić",23
+"Kostas Manolas","Seydou Keita",21
+"Kostas Manolas","Davide Astori",7
+"Kostas Manolas","Gervinho",3
+"Kostas Manolas","Vassilis Torossidis",1
+"Kostas Manolas","Mapou Yanga-Mbiwa",16
+"Kostas Manolas","Adem Ljajić",3
+"Kostas Manolas","Alessandro Florenzi",15
+"Kostas Manolas","Łukasz Skorupski",10
+"Kostas Manolas","José Holebas",4
+"Kostas Manolas","Vasilis Torosidis",3
+"Kostas Manolas","Daniele De Rossi",13
+"Kostas Manolas","Mattia Destro",2
+"Mapou Yanga-Mbiwa","Morgan De Sanctis",11
+"Mapou Yanga-Mbiwa","Radja Nainggolan",15
+"Mapou Yanga-Mbiwa","Juan Manuel Iturbe",3
+"Mapou Yanga-Mbiwa","Francesco Totti",8
+"Mapou Yanga-Mbiwa","Maicon",3
+"Mapou Yanga-Mbiwa","Miralem Pjanić",13
+"Mapou Yanga-Mbiwa","Seydou Keita",18
+"Mapou Yanga-Mbiwa","Gervinho",4
+"Mapou Yanga-Mbiwa","Vassilis Torossidis",1
+"Mapou Yanga-Mbiwa","Kostas Manolas",13
+"Mapou Yanga-Mbiwa","Adem Ljajić",5
+"Mapou Yanga-Mbiwa","Alessandro Florenzi",6
+"Mapou Yanga-Mbiwa","Łukasz Skorupski",7
+"Mapou Yanga-Mbiwa","Ashley Cole",5
+"Mapou Yanga-Mbiwa","José Holebas",11
+"Mapou Yanga-Mbiwa","Vasilis Torosidis",2
+"Mapou Yanga-Mbiwa","Daniele De Rossi",13
+"Mapou Yanga-Mbiwa","Mattia Destro",1
+"Adem Ljajić","Radja Nainggolan",19
+"Adem Ljajić","Juan Manuel Iturbe",1
+"Adem Ljajić","Francesco Totti",14
+"Adem Ljajić","Maicon",5
+"Adem Ljajić","Miralem Pjanić",6
+"Adem Ljajić","Seydou Keita",11
+"Adem Ljajić","Gervinho",2
+"Adem Ljajić","Vassilis Torossidis",4
+"Adem Ljajić","Kostas Manolas",3
+"Adem Ljajić","Mapou Yanga-Mbiwa",4
+"Adem Ljajić","Alessandro Florenzi",6
+"Adem Ljajić","Daniele De Rossi",6
+"Adem Ljajić","José Holebas",7
+"Alessandro Florenzi","Morgan De Sanctis",2
+"Alessandro Florenzi","Radja Nainggolan",13
+"Alessandro Florenzi","Juan Manuel Iturbe",3
+"Alessandro Florenzi","Francesco Totti",23
+"Alessandro Florenzi","Maicon",6
+"Alessandro Florenzi","Miralem Pjanić",10
+"Alessandro Florenzi","Seydou Keita",14
+"Alessandro Florenzi","Davide Astori",5
+"Alessandro Florenzi","Gervinho",9
+"Alessandro Florenzi","Vassilis Torossidis",3
+"Alessandro Florenzi","Kostas Manolas",13
+"Alessandro Florenzi","Mapou Yanga-Mbiwa",3
+"Alessandro Florenzi","Adem Ljajić",6
+"Alessandro Florenzi","Łukasz Skorupski",1
+"Alessandro Florenzi","Ashley Cole",2
+"Alessandro Florenzi","José Holebas",3
+"Alessandro Florenzi","Vasilis Torosidis",3
+"Alessandro Florenzi","Daniele De Rossi",13
+"Alessandro Florenzi","Mattia Destro",1
+"Łukasz Skorupski","Mapou Yanga-Mbiwa",10
+"Łukasz Skorupski","Radja Nainggolan",1
+"Łukasz Skorupski","Maicon",2
+"Łukasz Skorupski","Seydou Keita",3
+"Łukasz Skorupski","Alessandro Florenzi",3
+"Łukasz Skorupski","Kostas Manolas",4
+"Łukasz Skorupski","José Holebas",1
+"Łukasz Skorupski","Vasilis Torosidis",1
+"Łukasz Skorupski","Daniele De Rossi",1
+"Łukasz Skorupski","Mattia Destro",4
+"Ashley Cole","Łukasz Skorupski",1
+"Ashley Cole","Mapou Yanga-Mbiwa",6
+"Ashley Cole","Radja Nainggolan",12
+"Ashley Cole","Francesco Totti",4
+"Ashley Cole","Miralem Pjanić",3
+"Ashley Cole","Seydou Keita",2
+"Ashley Cole","Alessandro Florenzi",8
+"Ashley Cole","Gervinho",4
+"Ashley Cole","Kostas Manolas",3
+"Ashley Cole","Juan Manuel Iturbe",4
+"Ashley Cole","Daniele De Rossi",3
+"José Holebas","Łukasz Skorupski",1
+"José Holebas","Mapou Yanga-Mbiwa",11
+"José Holebas","Radja Nainggolan",23
+"José Holebas","Francesco Totti",5
+"José Holebas","Miralem Pjanić",1
+"José Holebas","Seydou Keita",17
+"José Holebas","Alessandro Florenzi",1
+"José Holebas","Gervinho",12
+"José Holebas","Kostas Manolas",3
+"José Holebas","Juan Manuel Iturbe",2
+"José Holebas","Morgan De Sanctis",1
+"José Holebas","Daniele De Rossi",11
+"José Holebas","Adem Ljajić",11
+"José Holebas","Mattia Destro",1
+"José Holebas","Davide Astori",12
+"Vasilis Torosidis","Łukasz Skorupski",2
+"Vasilis Torosidis","Mapou Yanga-Mbiwa",1
+"Vasilis Torosidis","Ashley Cole",1
+"Vasilis Torosidis","Francesco Totti",1
+"Vasilis Torosidis","Miralem Pjanić",4
+"Vasilis Torosidis","Seydou Keita",3
+"Vasilis Torosidis","Alessandro Florenzi",4
+"Vasilis Torosidis","Gervinho",3
+"Vasilis Torosidis","Kostas Manolas",7
+"Vasilis Torosidis","Juan Manuel Iturbe",5
+"Vasilis Torosidis","Morgan De Sanctis",1
+"Vasilis Torosidis","Daniele De Rossi",3
+"Vasilis Torosidis","Adem Ljajić",1
+"Vasilis Torosidis","Mattia Destro",1
+"Daniele De Rossi","Morgan De Sanctis",4
+"Daniele De Rossi","Mapou Yanga-Mbiwa",14
+"Daniele De Rossi","Ashley Cole",5
+"Daniele De Rossi","Radja Nainggolan",14
+"Daniele De Rossi","Juan Manuel Iturbe",7
+"Daniele De Rossi","Francesco Totti",11
+"Daniele De Rossi","Miralem Pjanić",8
+"Daniele De Rossi","Gervinho",5
+"Daniele De Rossi","Vasilis Torosidis",4
+"Daniele De Rossi","Kostas Manolas",13
+"Daniele De Rossi","Adem Ljajić",7
+"Daniele De Rossi","Alessandro Florenzi",18
+"Daniele De Rossi","José Holebas",24
+"Daniele De Rossi","Łukasz Skorupski",1
+"Daniele De Rossi","Seydou Keita",20
+"Daniele De Rossi","Mattia Destro",5
+"Daniele De Rossi","Davide Astori",8
+"Mattia Destro","Radja Nainggolan",3
+"Mattia Destro","Juan Manuel Iturbe",5
+"Mattia Destro","Seydou Keita",2
+"Mattia Destro","Alessandro Florenzi",2
+"Mattia Destro","José Holebas",1
+"Mattia Destro","Vasilis Torosidis",1
+"Mattia Destro","Maicon",1
+"Kevin Strootman","Francesco Totti",1
+"Kevin Strootman","José Holebas",1
+"Kevin Strootman","Juan Manuel Iturbe",1

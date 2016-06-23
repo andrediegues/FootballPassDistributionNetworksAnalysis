@@ -1,0 +1,125 @@
+"Mert Günok","Egemen Korkmaz",6
+"Mert Günok","Hasan Ali Kaldırım",2
+"Mert Günok","Mehmet Topal",1
+"Mert Günok","Joseph Yobo",3
+"Mert Günok","Moussa Sow",1
+"Mert Günok","Dirk Kuyt",3
+"Mert Günok","Gökhan Gönül",3
+"Egemen Korkmaz","Mert Günok",2
+"Egemen Korkmaz","Hasan Ali Kaldırım",8
+"Egemen Korkmaz","Mehmet Topal",4
+"Egemen Korkmaz","Joseph Yobo",15
+"Egemen Korkmaz","Moussa Sow",1
+"Egemen Korkmaz","Dirk Kuyt",2
+"Egemen Korkmaz","Selçuk Şahin",9
+"Egemen Korkmaz","Miloš Krasić",1
+"Egemen Korkmaz","Miroslav Stoch",1
+"Hasan Ali Kaldırım","Mert Günok",1
+"Hasan Ali Kaldırım","Egemen Korkmaz",7
+"Hasan Ali Kaldırım","Mehmet Topal",2
+"Hasan Ali Kaldırım","Joseph Yobo",3
+"Hasan Ali Kaldırım","Moussa Sow",6
+"Hasan Ali Kaldırım","Dirk Kuyt",2
+"Hasan Ali Kaldırım","Selçuk Şahin",4
+"Hasan Ali Kaldırım","Miloš Krasić",4
+"Hasan Ali Kaldırım","Mehmet Topuz",3
+"Hasan Ali Kaldırım","Gökhan Gönül",3
+"Hasan Ali Kaldırım","Miroslav Stoch",14
+"Hasan Ali Kaldırım","Alex",1
+"Hasan Ali Kaldırım","Cristian",1
+"Mehmet Topal","Mert Günok",1
+"Mehmet Topal","Egemen Korkmaz",7
+"Mehmet Topal","Hasan Ali Kaldırım",5
+"Mehmet Topal","Joseph Yobo",5
+"Mehmet Topal","Moussa Sow",2
+"Mehmet Topal","Dirk Kuyt",2
+"Mehmet Topal","Selçuk Şahin",2
+"Mehmet Topal","Mehmet Topuz",2
+"Mehmet Topal","Gökhan Gönül",9
+"Mehmet Topal","Miroslav Stoch",2
+"Mehmet Topal","Alex",2
+"Mehmet Topal","Cristian",2
+"Joseph Yobo","Mert Günok",4
+"Joseph Yobo","Egemen Korkmaz",6
+"Joseph Yobo","Hasan Ali Kaldırım",4
+"Joseph Yobo","Mehmet Topal",8
+"Joseph Yobo","Moussa Sow",1
+"Joseph Yobo","Dirk Kuyt",2
+"Joseph Yobo","Selçuk Şahin",2
+"Joseph Yobo","Mehmet Topuz",4
+"Joseph Yobo","Gökhan Gönül",3
+"Joseph Yobo","Miroslav Stoch",3
+"Joseph Yobo","Cristian",3
+"Moussa Sow","Egemen Korkmaz",1
+"Moussa Sow","Hasan Ali Kaldırım",3
+"Moussa Sow","Mehmet Topal",2
+"Moussa Sow","Dirk Kuyt",3
+"Moussa Sow","Selçuk Şahin",1
+"Moussa Sow","Mehmet Topuz",1
+"Moussa Sow","Gökhan Gönül",2
+"Moussa Sow","Miroslav Stoch",1
+"Moussa Sow","Alex",2
+"Dirk Kuyt","Mert Günok",1
+"Dirk Kuyt","Hasan Ali Kaldırım",6
+"Dirk Kuyt","Mehmet Topal",1
+"Dirk Kuyt","Joseph Yobo",1
+"Dirk Kuyt","Moussa Sow",1
+"Dirk Kuyt","Selçuk Şahin",5
+"Dirk Kuyt","Miloš Krasić",1
+"Dirk Kuyt","Mehmet Topuz",3
+"Dirk Kuyt","Gökhan Gönül",7
+"Dirk Kuyt","Miroslav Stoch",1
+"Dirk Kuyt","Cristian",1
+"Selçuk Şahin","Mert Günok",1
+"Selçuk Şahin","Egemen Korkmaz",8
+"Selçuk Şahin","Hasan Ali Kaldırım",8
+"Selçuk Şahin","Mehmet Topal",5
+"Selçuk Şahin","Joseph Yobo",2
+"Selçuk Şahin","Dirk Kuyt",1
+"Selçuk Şahin","Mehmet Topuz",1
+"Selçuk Şahin","Miroslav Stoch",1
+"Miloš Krasić","Hasan Ali Kaldırım",2
+"Miloš Krasić","Moussa Sow",1
+"Miloš Krasić","Dirk Kuyt",2
+"Mehmet Topuz","Egemen Korkmaz",2
+"Mehmet Topuz","Mehmet Topal",1
+"Mehmet Topuz","Joseph Yobo",1
+"Mehmet Topuz","Moussa Sow",1
+"Mehmet Topuz","Dirk Kuyt",4
+"Mehmet Topuz","Gökhan Gönül",3
+"Mehmet Topuz","Miroslav Stoch",2
+"Mehmet Topuz","Alex",2
+"Gökhan Gönül","Mert Günok",2
+"Gökhan Gönül","Egemen Korkmaz",3
+"Gökhan Gönül","Hasan Ali Kaldırım",2
+"Gökhan Gönül","Mehmet Topal",9
+"Gökhan Gönül","Joseph Yobo",2
+"Gökhan Gönül","Moussa Sow",5
+"Gökhan Gönül","Dirk Kuyt",7
+"Gökhan Gönül","Selçuk Şahin",2
+"Gökhan Gönül","Miloš Krasić",1
+"Gökhan Gönül","Mehmet Topuz",5
+"Gökhan Gönül","Miroslav Stoch",1
+"Gökhan Gönül","Alex",1
+"Miroslav Stoch","Egemen Korkmaz",1
+"Miroslav Stoch","Hasan Ali Kaldırım",8
+"Miroslav Stoch","Mehmet Topal",1
+"Miroslav Stoch","Moussa Sow",4
+"Miroslav Stoch","Dirk Kuyt",2
+"Miroslav Stoch","Selçuk Şahin",1
+"Miroslav Stoch","Mehmet Topuz",1
+"Miroslav Stoch","Cristian",2
+"Alex","Mehmet Topal",4
+"Alex","Dirk Kuyt",1
+"Alex","Mehmet Topuz",1
+"Alex","Gökhan Gönül",2
+"Alex","Miroslav Stoch",1
+"Alex","Cristian",1
+"Cristian","Hasan Ali Kaldırım",1
+"Cristian","Mehmet Topal",1
+"Cristian","Joseph Yobo",1
+"Cristian","Moussa Sow",1
+"Cristian","Dirk Kuyt",2
+"Cristian","Gökhan Gönül",2
+"Cristian","Miroslav Stoch",1
+"Cristian","Alex",3

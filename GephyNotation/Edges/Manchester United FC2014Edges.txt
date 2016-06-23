@@ -1,0 +1,379 @@
+"David de Gea","Patrice Evra",5
+"David de Gea","Rio Ferdinand",36
+"David de Gea","Wayne Rooney",10
+"David de Gea","Chris Smalling",10
+"David de Gea","Nemanja Vidić",12
+"David de Gea","Michael Carrick",4
+"David de Gea","Robin van Persie",11
+"David de Gea","Antonio Valencia",18
+"David de Gea","Shinji Kagawa",3
+"David de Gea","Marouane Fellaini",16
+"David de Gea","Javier Hernández",5
+"David de Gea","Ashley Young",4
+"David de Gea","Tom Cleverley",1
+"David de Gea","Rafael",6
+"David de Gea","Danny Welbeck",14
+"David de Gea","Phil Jones",7
+"David de Gea","Ryan Giggs",5
+"David de Gea","Jonny Evans",6
+"David de Gea","Alexander Büttner",2
+"David de Gea","Adnan Januzaj",1
+"Patrice Evra","David de Gea",12
+"Patrice Evra","Rio Ferdinand",2
+"Patrice Evra","Wayne Rooney",29
+"Patrice Evra","Chris Smalling",4
+"Patrice Evra","Nemanja Vidić",22
+"Patrice Evra","Michael Carrick",25
+"Patrice Evra","Robin van Persie",10
+"Patrice Evra","Antonio Valencia",3
+"Patrice Evra","Shinji Kagawa",48
+"Patrice Evra","Marouane Fellaini",14
+"Patrice Evra","Javier Hernández",5
+"Patrice Evra","Ashley Young",18
+"Patrice Evra","Tom Cleverley",18
+"Patrice Evra","Rafael",1
+"Patrice Evra","Danny Welbeck",24
+"Patrice Evra","Phil Jones",3
+"Patrice Evra","Ryan Giggs",24
+"Patrice Evra","Jonny Evans",5
+"Patrice Evra","Darren Fletcher",2
+"Patrice Evra","Adnan Januzaj",1
+"Rio Ferdinand","David de Gea",28
+"Rio Ferdinand","Patrice Evra",7
+"Rio Ferdinand","Wayne Rooney",13
+"Rio Ferdinand","Chris Smalling",31
+"Rio Ferdinand","Nemanja Vidić",29
+"Rio Ferdinand","Michael Carrick",29
+"Rio Ferdinand","Robin van Persie",4
+"Rio Ferdinand","Antonio Valencia",12
+"Rio Ferdinand","Shinji Kagawa",13
+"Rio Ferdinand","Marouane Fellaini",13
+"Rio Ferdinand","Javier Hernández",1
+"Rio Ferdinand","Ashley Young",9
+"Rio Ferdinand","Tom Cleverley",6
+"Rio Ferdinand","Ryan Giggs",12
+"Rio Ferdinand","Phil Jones",19
+"Rio Ferdinand","Rafael",22
+"Rio Ferdinand","Jonny Evans",8
+"Rio Ferdinand","Alexander Büttner",3
+"Rio Ferdinand","Adnan Januzaj",2
+"Rio Ferdinand","Danny Welbeck",1
+"Wayne Rooney","David de Gea",2
+"Wayne Rooney","Patrice Evra",14
+"Wayne Rooney","Rio Ferdinand",11
+"Wayne Rooney","Chris Smalling",10
+"Wayne Rooney","Nemanja Vidić",15
+"Wayne Rooney","Michael Carrick",27
+"Wayne Rooney","Robin van Persie",14
+"Wayne Rooney","Antonio Valencia",39
+"Wayne Rooney","Shinji Kagawa",27
+"Wayne Rooney","Marouane Fellaini",9
+"Wayne Rooney","Javier Hernández",4
+"Wayne Rooney","Ashley Young",13
+"Wayne Rooney","Tom Cleverley",6
+"Wayne Rooney","Rafael",7
+"Wayne Rooney","Phil Jones",11
+"Wayne Rooney","Jonny Evans",2
+"Wayne Rooney","Ryan Giggs",18
+"Wayne Rooney","Alexander Büttner",6
+"Wayne Rooney","Adnan Januzaj",4
+"Wayne Rooney","Danny Welbeck",9
+"Wayne Rooney","Darren Fletcher",2
+"Chris Smalling","David de Gea",9
+"Chris Smalling","Patrice Evra",2
+"Chris Smalling","Rio Ferdinand",17
+"Chris Smalling","Wayne Rooney",13
+"Chris Smalling","Nemanja Vidić",13
+"Chris Smalling","Michael Carrick",23
+"Chris Smalling","Robin van Persie",10
+"Chris Smalling","Antonio Valencia",40
+"Chris Smalling","Shinji Kagawa",8
+"Chris Smalling","Marouane Fellaini",13
+"Chris Smalling","Javier Hernández",3
+"Chris Smalling","Ashley Young",7
+"Chris Smalling","Tom Cleverley",6
+"Chris Smalling","Rafael",9
+"Chris Smalling","Danny Welbeck",1
+"Chris Smalling","Phil Jones",5
+"Chris Smalling","Ryan Giggs",5
+"Chris Smalling","Adnan Januzaj",1
+"Nemanja Vidić","David de Gea",38
+"Nemanja Vidić","Patrice Evra",38
+"Nemanja Vidić","Rio Ferdinand",35
+"Nemanja Vidić","Wayne Rooney",12
+"Nemanja Vidić","Chris Smalling",15
+"Nemanja Vidić","Michael Carrick",34
+"Nemanja Vidić","Robin van Persie",2
+"Nemanja Vidić","Antonio Valencia",5
+"Nemanja Vidić","Shinji Kagawa",18
+"Nemanja Vidić","Marouane Fellaini",18
+"Nemanja Vidić","Javier Hernández",2
+"Nemanja Vidić","Ashley Young",7
+"Nemanja Vidić","Tom Cleverley",9
+"Nemanja Vidić","Rafael",1
+"Nemanja Vidić","Danny Welbeck",9
+"Nemanja Vidić","Phil Jones",4
+"Nemanja Vidić","Ryan Giggs",7
+"Nemanja Vidić","Alexander Büttner",4
+"Michael Carrick","David de Gea",7
+"Michael Carrick","Patrice Evra",26
+"Michael Carrick","Rio Ferdinand",27
+"Michael Carrick","Wayne Rooney",35
+"Michael Carrick","Chris Smalling",26
+"Michael Carrick","Nemanja Vidić",32
+"Michael Carrick","Robin van Persie",13
+"Michael Carrick","Antonio Valencia",30
+"Michael Carrick","Shinji Kagawa",33
+"Michael Carrick","Marouane Fellaini",27
+"Michael Carrick","Javier Hernández",4
+"Michael Carrick","Ashley Young",10
+"Michael Carrick","Tom Cleverley",23
+"Michael Carrick","Rafael",15
+"Michael Carrick","Danny Welbeck",9
+"Michael Carrick","Phil Jones",12
+"Michael Carrick","Ryan Giggs",22
+"Michael Carrick","Jonny Evans",8
+"Michael Carrick","Darren Fletcher",4
+"Michael Carrick","Alexander Büttner",1
+"Robin van Persie","Patrice Evra",7
+"Robin van Persie","Wayne Rooney",10
+"Robin van Persie","Chris Smalling",3
+"Robin van Persie","Nemanja Vidić",2
+"Robin van Persie","Michael Carrick",9
+"Robin van Persie","Antonio Valencia",8
+"Robin van Persie","Shinji Kagawa",2
+"Robin van Persie","Marouane Fellaini",5
+"Robin van Persie","Ashley Young",3
+"Robin van Persie","Tom Cleverley",4
+"Robin van Persie","Rafael",5
+"Robin van Persie","Danny Welbeck",6
+"Robin van Persie","Phil Jones",1
+"Robin van Persie","Ryan Giggs",1
+"Antonio Valencia","David de Gea",1
+"Antonio Valencia","Patrice Evra",4
+"Antonio Valencia","Rio Ferdinand",13
+"Antonio Valencia","Wayne Rooney",37
+"Antonio Valencia","Chris Smalling",26
+"Antonio Valencia","Nemanja Vidić",2
+"Antonio Valencia","Michael Carrick",31
+"Antonio Valencia","Robin van Persie",14
+"Antonio Valencia","Shinji Kagawa",13
+"Antonio Valencia","Marouane Fellaini",25
+"Antonio Valencia","Javier Hernández",6
+"Antonio Valencia","Ashley Young",6
+"Antonio Valencia","Tom Cleverley",6
+"Antonio Valencia","Rafael",22
+"Antonio Valencia","Danny Welbeck",10
+"Antonio Valencia","Phil Jones",11
+"Antonio Valencia","Ryan Giggs",13
+"Antonio Valencia","Jonny Evans",1
+"Antonio Valencia","Adnan Januzaj",1
+"Antonio Valencia","Darren Fletcher",4
+"Shinji Kagawa","Patrice Evra",28
+"Shinji Kagawa","Rio Ferdinand",10
+"Shinji Kagawa","Wayne Rooney",31
+"Shinji Kagawa","Chris Smalling",4
+"Shinji Kagawa","Nemanja Vidić",12
+"Shinji Kagawa","Michael Carrick",20
+"Shinji Kagawa","Robin van Persie",5
+"Shinji Kagawa","Antonio Valencia",10
+"Shinji Kagawa","Marouane Fellaini",20
+"Shinji Kagawa","Javier Hernández",6
+"Shinji Kagawa","Ashley Young",13
+"Shinji Kagawa","Tom Cleverley",4
+"Shinji Kagawa","Rafael",4
+"Shinji Kagawa","Phil Jones",10
+"Shinji Kagawa","Jonny Evans",9
+"Shinji Kagawa","Ryan Giggs",21
+"Shinji Kagawa","Alexander Büttner",2
+"Shinji Kagawa","Adnan Januzaj",3
+"Shinji Kagawa","Danny Welbeck",5
+"Shinji Kagawa","Darren Fletcher",1
+"Marouane Fellaini","David de Gea",2
+"Marouane Fellaini","Patrice Evra",19
+"Marouane Fellaini","Rio Ferdinand",8
+"Marouane Fellaini","Wayne Rooney",22
+"Marouane Fellaini","Chris Smalling",7
+"Marouane Fellaini","Nemanja Vidić",17
+"Marouane Fellaini","Michael Carrick",25
+"Marouane Fellaini","Robin van Persie",9
+"Marouane Fellaini","Antonio Valencia",24
+"Marouane Fellaini","Shinji Kagawa",18
+"Marouane Fellaini","Javier Hernández",2
+"Marouane Fellaini","Ashley Young",4
+"Marouane Fellaini","Tom Cleverley",1
+"Marouane Fellaini","Rafael",7
+"Marouane Fellaini","Danny Welbeck",2
+"Marouane Fellaini","Phil Jones",3
+"Marouane Fellaini","Ryan Giggs",7
+"Javier Hernández","Patrice Evra",4
+"Javier Hernández","Wayne Rooney",4
+"Javier Hernández","Chris Smalling",1
+"Javier Hernández","Nemanja Vidić",1
+"Javier Hernández","Michael Carrick",2
+"Javier Hernández","Antonio Valencia",8
+"Javier Hernández","Shinji Kagawa",4
+"Javier Hernández","Ashley Young",1
+"Javier Hernández","Rafael",1
+"Javier Hernández","Jonny Evans",1
+"Javier Hernández","Ryan Giggs",4
+"Ashley Young","David de Gea",1
+"Ashley Young","Patrice Evra",11
+"Ashley Young","Rio Ferdinand",10
+"Ashley Young","Wayne Rooney",22
+"Ashley Young","Chris Smalling",2
+"Ashley Young","Nemanja Vidić",3
+"Ashley Young","Michael Carrick",10
+"Ashley Young","Robin van Persie",4
+"Ashley Young","Antonio Valencia",2
+"Ashley Young","Shinji Kagawa",9
+"Ashley Young","Marouane Fellaini",5
+"Ashley Young","Javier Hernández",2
+"Ashley Young","Tom Cleverley",4
+"Ashley Young","Phil Jones",3
+"Ashley Young","Jonny Evans",7
+"Ashley Young","Ryan Giggs",11
+"Ashley Young","Alexander Büttner",5
+"Ashley Young","Adnan Januzaj",3
+"Ashley Young","Danny Welbeck",1
+"Tom Cleverley","David de Gea",1
+"Tom Cleverley","Patrice Evra",8
+"Tom Cleverley","Rio Ferdinand",10
+"Tom Cleverley","Wayne Rooney",6
+"Tom Cleverley","Chris Smalling",9
+"Tom Cleverley","Nemanja Vidić",14
+"Tom Cleverley","Michael Carrick",23
+"Tom Cleverley","Robin van Persie",4
+"Tom Cleverley","Antonio Valencia",3
+"Tom Cleverley","Shinji Kagawa",4
+"Tom Cleverley","Marouane Fellaini",2
+"Tom Cleverley","Ashley Young",4
+"Tom Cleverley","Rafael",4
+"Tom Cleverley","Danny Welbeck",7
+"Tom Cleverley","Phil Jones",1
+"Tom Cleverley","Jonny Evans",2
+"Tom Cleverley","Alexander Büttner",4
+"Tom Cleverley","Adnan Januzaj",5
+"Rafael","David de Gea",5
+"Rafael","Chris Smalling",2
+"Rafael","Nemanja Vidić",1
+"Rafael","Michael Carrick",16
+"Rafael","Danny Welbeck",4
+"Rafael","Robin van Persie",8
+"Rafael","Tom Cleverley",7
+"Rafael","Antonio Valencia",39
+"Rafael","Marouane Fellaini",12
+"Rafael","Phil Jones",14
+"Rafael","Ryan Giggs",12
+"Rafael","Jonny Evans",3
+"Rafael","Wayne Rooney",16
+"Rafael","Javier Hernández",2
+"Rafael","Shinji Kagawa",5
+"Rafael","Ashley Young",3
+"Rafael","Rio Ferdinand",11
+"Rafael","Adnan Januzaj",8
+"Rafael","Darren Fletcher",1
+"Danny Welbeck","Rafael",3
+"Danny Welbeck","Patrice Evra",13
+"Danny Welbeck","Chris Smalling",1
+"Danny Welbeck","Nemanja Vidić",6
+"Danny Welbeck","Michael Carrick",12
+"Danny Welbeck","Robin van Persie",4
+"Danny Welbeck","Tom Cleverley",9
+"Danny Welbeck","Antonio Valencia",4
+"Danny Welbeck","Marouane Fellaini",3
+"Danny Welbeck","Phil Jones",1
+"Danny Welbeck","Ryan Giggs",1
+"Danny Welbeck","Rio Ferdinand",1
+"Danny Welbeck","Wayne Rooney",9
+"Danny Welbeck","Ashley Young",1
+"Danny Welbeck","Shinji Kagawa",8
+"Danny Welbeck","Darren Fletcher",2
+"Danny Welbeck","Alexander Büttner",1
+"Phil Jones","David de Gea",9
+"Phil Jones","Rafael",11
+"Phil Jones","Patrice Evra",7
+"Phil Jones","Chris Smalling",5
+"Phil Jones","Nemanja Vidić",3
+"Phil Jones","Michael Carrick",5
+"Phil Jones","Danny Welbeck",2
+"Phil Jones","Tom Cleverley",6
+"Phil Jones","Antonio Valencia",31
+"Phil Jones","Marouane Fellaini",7
+"Phil Jones","Ryan Giggs",16
+"Phil Jones","Jonny Evans",14
+"Phil Jones","Wayne Rooney",15
+"Phil Jones","Javier Hernández",1
+"Phil Jones","Shinji Kagawa",10
+"Phil Jones","Ashley Young",3
+"Phil Jones","Rio Ferdinand",17
+"Phil Jones","Alexander Büttner",8
+"Phil Jones","Adnan Januzaj",4
+"Phil Jones","Darren Fletcher",8
+"Ryan Giggs","David de Gea",2
+"Ryan Giggs","Rafael",13
+"Ryan Giggs","Patrice Evra",25
+"Ryan Giggs","Chris Smalling",7
+"Ryan Giggs","Nemanja Vidić",5
+"Ryan Giggs","Michael Carrick",16
+"Ryan Giggs","Danny Welbeck",3
+"Ryan Giggs","Robin van Persie",6
+"Ryan Giggs","Antonio Valencia",13
+"Ryan Giggs","Marouane Fellaini",9
+"Ryan Giggs","Phil Jones",11
+"Ryan Giggs","Jonny Evans",13
+"Ryan Giggs","Wayne Rooney",25
+"Ryan Giggs","Javier Hernández",3
+"Ryan Giggs","Shinji Kagawa",17
+"Ryan Giggs","Ashley Young",16
+"Ryan Giggs","Rio Ferdinand",9
+"Ryan Giggs","Alexander Büttner",6
+"Ryan Giggs","Adnan Januzaj",5
+"Jonny Evans","David de Gea",11
+"Jonny Evans","Rafael",4
+"Jonny Evans","Patrice Evra",3
+"Jonny Evans","Phil Jones",7
+"Jonny Evans","Wayne Rooney",7
+"Jonny Evans","Ryan Giggs",13
+"Jonny Evans","Javier Hernández",1
+"Jonny Evans","Michael Carrick",8
+"Jonny Evans","Antonio Valencia",3
+"Jonny Evans","Shinji Kagawa",12
+"Jonny Evans","Ashley Young",9
+"Jonny Evans","Rio Ferdinand",8
+"Jonny Evans","Alexander Büttner",5
+"Jonny Evans","Adnan Januzaj",3
+"Jonny Evans","Robin van Persie",1
+"Jonny Evans","Tom Cleverley",2
+"Alexander Büttner","David de Gea",2
+"Alexander Büttner","Rafael",1
+"Alexander Büttner","Phil Jones",5
+"Alexander Büttner","Rio Ferdinand",4
+"Alexander Büttner","Jonny Evans",6
+"Alexander Büttner","Wayne Rooney",1
+"Alexander Büttner","Ryan Giggs",4
+"Alexander Büttner","Ashley Young",7
+"Alexander Büttner","Shinji Kagawa",3
+"Alexander Büttner","Robin van Persie",1
+"Alexander Büttner","Tom Cleverley",2
+"Alexander Büttner","Nemanja Vidić",1
+"Alexander Büttner","Michael Carrick",1
+"Alexander Büttner","Marouane Fellaini",1
+"Adnan Januzaj","Phil Jones",6
+"Adnan Januzaj","Rio Ferdinand",2
+"Adnan Januzaj","Jonny Evans",1
+"Adnan Januzaj","Wayne Rooney",5
+"Adnan Januzaj","Ryan Giggs",3
+"Adnan Januzaj","Shinji Kagawa",4
+"Adnan Januzaj","Alexander Büttner",2
+"Adnan Januzaj","Robin van Persie",1
+"Adnan Januzaj","Antonio Valencia",1
+"Darren Fletcher","Patrice Evra",1
+"Darren Fletcher","Phil Jones",5
+"Darren Fletcher","Wayne Rooney",2
+"Darren Fletcher","Michael Carrick",3
+"Darren Fletcher","Danny Welbeck",5
+"Darren Fletcher","Antonio Valencia",1
+"Darren Fletcher","Chris Smalling",1
+"Darren Fletcher","Nemanja Vidić",1
+"Darren Fletcher","Shinji Kagawa",3

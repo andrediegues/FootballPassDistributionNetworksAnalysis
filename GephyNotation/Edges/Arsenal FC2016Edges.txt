@@ -1,0 +1,368 @@
+"David Ospina","Gabriel",15
+"David Ospina","Laurent Koscielny",7
+"David Ospina","Mesut Özil",2
+"David Ospina","Olivier Giroud",6
+"David Ospina","Alexis Sánchez",5
+"David Ospina","Santi Cazorla",2
+"David Ospina","Francis Coquelin",1
+"David Ospina","Héctor Bellerín",2
+"David Ospina","Aaron Ramsey",2
+"David Ospina","Nacho Monreal",2
+"David Ospina","Danny Welbeck",1
+"David Ospina","Alex Iwobi",3
+"Mathieu Debuchy","David Ospina",2
+"Mathieu Debuchy","Gabriel",8
+"Mathieu Debuchy","Laurent Koscielny",1
+"Mathieu Debuchy","Mikel Arteta",3
+"Mathieu Debuchy","Mesut Özil",5
+"Mathieu Debuchy","Olivier Giroud",1
+"Mathieu Debuchy","Oxlade-Chamberlain",14
+"Mathieu Debuchy","Alexis Sánchez",3
+"Mathieu Debuchy","Santi Cazorla",7
+"Mathieu Debuchy","Joel Campbell",15
+"Mathieu Debuchy","Francis Coquelin",2
+"Mathieu Debuchy","Petr Čech",1
+"Mathieu Debuchy","Per Mertesacker",3
+"Mathieu Debuchy","Mathieu Flamini",1
+"Mathieu Debuchy","Aaron Ramsey",2
+"Kieran Gibbs","David Ospina",1
+"Kieran Gibbs","Gabriel",5
+"Kieran Gibbs","Laurent Koscielny",10
+"Kieran Gibbs","Mikel Arteta",6
+"Kieran Gibbs","Mesut Özil",26
+"Kieran Gibbs","Olivier Giroud",6
+"Kieran Gibbs","Oxlade-Chamberlain",2
+"Kieran Gibbs","Alexis Sánchez",16
+"Kieran Gibbs","Santi Cazorla",17
+"Kieran Gibbs","Theo Walcott",1
+"Kieran Gibbs","Francis Coquelin",6
+"Kieran Gibbs","Per Mertesacker",2
+"Kieran Gibbs","Aaron Ramsey",7
+"Gabriel","David Ospina",6
+"Gabriel","Mathieu Debuchy",15
+"Gabriel","Kieran Gibbs",6
+"Gabriel","Laurent Koscielny",26
+"Gabriel","Mikel Arteta",13
+"Gabriel","Mesut Özil",14
+"Gabriel","Olivier Giroud",3
+"Gabriel","Oxlade-Chamberlain",3
+"Gabriel","Alexis Sánchez",11
+"Gabriel","Santi Cazorla",38
+"Gabriel","Theo Walcott",2
+"Gabriel","Francis Coquelin",10
+"Gabriel","Héctor Bellerín",12
+"Gabriel","Per Mertesacker",8
+"Gabriel","Aaron Ramsey",4
+"Gabriel","Petr Čech",1
+"Gabriel","Nacho Monreal",5
+"Gabriel","Calum Chambers",1
+"Gabriel","Mohamed Elneny",8
+"Laurent Koscielny","David Ospina",4
+"Laurent Koscielny","Mathieu Debuchy",1
+"Laurent Koscielny","Kieran Gibbs",11
+"Laurent Koscielny","Gabriel",31
+"Laurent Koscielny","Mikel Arteta",3
+"Laurent Koscielny","Mesut Özil",17
+"Laurent Koscielny","Olivier Giroud",3
+"Laurent Koscielny","Oxlade-Chamberlain",2
+"Laurent Koscielny","Alexis Sánchez",12
+"Laurent Koscielny","Santi Cazorla",31
+"Laurent Koscielny","Theo Walcott",6
+"Laurent Koscielny","Joel Campbell",4
+"Laurent Koscielny","Francis Coquelin",4
+"Laurent Koscielny","Héctor Bellerín",7
+"Laurent Koscielny","Per Mertesacker",32
+"Laurent Koscielny","Aaron Ramsey",17
+"Laurent Koscielny","Petr Čech",6
+"Laurent Koscielny","Nacho Monreal",32
+"Laurent Koscielny","Mathieu Flamini",8
+"Laurent Koscielny","Calum Chambers",1
+"Laurent Koscielny","Mohamed Elneny",3
+"Laurent Koscielny","Alex Iwobi",4
+"Mikel Arteta","Mathieu Debuchy",4
+"Mikel Arteta","Kieran Gibbs",8
+"Mikel Arteta","Gabriel",4
+"Mikel Arteta","Laurent Koscielny",6
+"Mikel Arteta","Mesut Özil",5
+"Mikel Arteta","Oxlade-Chamberlain",4
+"Mikel Arteta","Alexis Sánchez",4
+"Mikel Arteta","Santi Cazorla",11
+"Mesut Özil","Mathieu Debuchy",4
+"Mesut Özil","Kieran Gibbs",22
+"Mesut Özil","Gabriel",9
+"Mesut Özil","Laurent Koscielny",13
+"Mesut Özil","Mikel Arteta",3
+"Mesut Özil","Olivier Giroud",14
+"Mesut Özil","Oxlade-Chamberlain",12
+"Mesut Özil","Alexis Sánchez",74
+"Mesut Özil","Santi Cazorla",45
+"Mesut Özil","Theo Walcott",12
+"Mesut Özil","Joel Campbell",14
+"Mesut Özil","Francis Coquelin",26
+"Mesut Özil","Héctor Bellerín",31
+"Mesut Özil","Per Mertesacker",7
+"Mesut Özil","Aaron Ramsey",34
+"Mesut Özil","Petr Čech",1
+"Mesut Özil","Nacho Monreal",20
+"Mesut Özil","Calum Chambers",2
+"Mesut Özil","Alex Iwobi",3
+"Mesut Özil","Mathieu Flamini",7
+"Mesut Özil","Danny Welbeck",6
+"Mesut Özil","Mohamed Elneny",8
+"Olivier Giroud","Mathieu Debuchy",3
+"Olivier Giroud","Kieran Gibbs",1
+"Olivier Giroud","Gabriel",1
+"Olivier Giroud","Laurent Koscielny",4
+"Olivier Giroud","Mikel Arteta",1
+"Olivier Giroud","Mesut Özil",25
+"Olivier Giroud","Oxlade-Chamberlain",2
+"Olivier Giroud","Alexis Sánchez",14
+"Olivier Giroud","Santi Cazorla",4
+"Olivier Giroud","Theo Walcott",4
+"Olivier Giroud","Joel Campbell",5
+"Olivier Giroud","Francis Coquelin",2
+"Olivier Giroud","Aaron Ramsey",4
+"Olivier Giroud","Nacho Monreal",6
+"Olivier Giroud","Héctor Bellerín",3
+"Olivier Giroud","Mathieu Flamini",1
+"Oxlade-Chamberlain","David Ospina",1
+"Oxlade-Chamberlain","Mathieu Debuchy",3
+"Oxlade-Chamberlain","Kieran Gibbs",2
+"Oxlade-Chamberlain","Gabriel",8
+"Oxlade-Chamberlain","Laurent Koscielny",3
+"Oxlade-Chamberlain","Mikel Arteta",2
+"Oxlade-Chamberlain","Mesut Özil",23
+"Oxlade-Chamberlain","Olivier Giroud",3
+"Oxlade-Chamberlain","Alexis Sánchez",5
+"Oxlade-Chamberlain","Santi Cazorla",8
+"Oxlade-Chamberlain","Theo Walcott",2
+"Oxlade-Chamberlain","Joel Campbell",2
+"Oxlade-Chamberlain","Francis Coquelin",3
+"Oxlade-Chamberlain","Héctor Bellerín",13
+"Oxlade-Chamberlain","Per Mertesacker",3
+"Oxlade-Chamberlain","Aaron Ramsey",4
+"Alexis Sánchez","Mathieu Debuchy",2
+"Alexis Sánchez","Kieran Gibbs",7
+"Alexis Sánchez","Gabriel",7
+"Alexis Sánchez","Laurent Koscielny",10
+"Alexis Sánchez","Mikel Arteta",3
+"Alexis Sánchez","Mesut Özil",43
+"Alexis Sánchez","Olivier Giroud",15
+"Alexis Sánchez","Oxlade-Chamberlain",10
+"Alexis Sánchez","Santi Cazorla",24
+"Alexis Sánchez","Theo Walcott",10
+"Alexis Sánchez","Joel Campbell",10
+"Alexis Sánchez","Francis Coquelin",12
+"Alexis Sánchez","Héctor Bellerín",13
+"Alexis Sánchez","Per Mertesacker",5
+"Alexis Sánchez","Aaron Ramsey",5
+"Alexis Sánchez","Nacho Monreal",18
+"Alexis Sánchez","Alex Iwobi",5
+"Alexis Sánchez","Mathieu Flamini",3
+"Alexis Sánchez","Danny Welbeck",2
+"Alexis Sánchez","Mohamed Elneny",6
+"Santi Cazorla","Mathieu Debuchy",13
+"Santi Cazorla","Kieran Gibbs",15
+"Santi Cazorla","Gabriel",20
+"Santi Cazorla","Laurent Koscielny",12
+"Santi Cazorla","Mikel Arteta",10
+"Santi Cazorla","Mesut Özil",65
+"Santi Cazorla","Olivier Giroud",5
+"Santi Cazorla","Oxlade-Chamberlain",16
+"Santi Cazorla","Alexis Sánchez",39
+"Santi Cazorla","Theo Walcott",5
+"Santi Cazorla","Joel Campbell",5
+"Santi Cazorla","Francis Coquelin",28
+"Santi Cazorla","Héctor Bellerín",19
+"Santi Cazorla","Per Mertesacker",13
+"Santi Cazorla","Aaron Ramsey",13
+"Santi Cazorla","Petr Čech",2
+"Santi Cazorla","Nacho Monreal",5
+"Santi Cazorla","Mathieu Flamini",12
+"Theo Walcott","Laurent Koscielny",2
+"Theo Walcott","Mesut Özil",10
+"Theo Walcott","Olivier Giroud",3
+"Theo Walcott","Oxlade-Chamberlain",1
+"Theo Walcott","Alexis Sánchez",7
+"Theo Walcott","Francis Coquelin",2
+"Theo Walcott","Héctor Bellerín",7
+"Theo Walcott","Aaron Ramsey",5
+"Theo Walcott","Nacho Monreal",6
+"Theo Walcott","Mohamed Elneny",1
+"Joel Campbell","Mathieu Debuchy",2
+"Joel Campbell","Gabriel",1
+"Joel Campbell","Laurent Koscielny",1
+"Joel Campbell","Mesut Özil",17
+"Joel Campbell","Olivier Giroud",5
+"Joel Campbell","Oxlade-Chamberlain",2
+"Joel Campbell","Alexis Sánchez",6
+"Joel Campbell","Santi Cazorla",8
+"Joel Campbell","Theo Walcott",1
+"Joel Campbell","Francis Coquelin",2
+"Joel Campbell","Héctor Bellerín",10
+"Joel Campbell","Per Mertesacker",1
+"Joel Campbell","Aaron Ramsey",9
+"Joel Campbell","Nacho Monreal",1
+"Joel Campbell","Mathieu Flamini",8
+"Francis Coquelin","David Ospina",1
+"Francis Coquelin","Mathieu Debuchy",8
+"Francis Coquelin","Kieran Gibbs",6
+"Francis Coquelin","Gabriel",9
+"Francis Coquelin","Laurent Koscielny",14
+"Francis Coquelin","Mesut Özil",20
+"Francis Coquelin","Olivier Giroud",3
+"Francis Coquelin","Oxlade-Chamberlain",6
+"Francis Coquelin","Alexis Sánchez",15
+"Francis Coquelin","Santi Cazorla",21
+"Francis Coquelin","Theo Walcott",4
+"Francis Coquelin","Joel Campbell",2
+"Francis Coquelin","Héctor Bellerín",5
+"Francis Coquelin","Per Mertesacker",11
+"Francis Coquelin","Aaron Ramsey",8
+"Francis Coquelin","Petr Čech",3
+"Francis Coquelin","Nacho Monreal",10
+"Francis Coquelin","Alex Iwobi",4
+"Francis Coquelin","Mohamed Elneny",3
+"Héctor Bellerín","David Ospina",1
+"Héctor Bellerín","Kieran Gibbs",1
+"Héctor Bellerín","Gabriel",10
+"Héctor Bellerín","Laurent Koscielny",6
+"Héctor Bellerín","Mesut Özil",23
+"Héctor Bellerín","Theo Walcott",7
+"Héctor Bellerín","Oxlade-Chamberlain",24
+"Héctor Bellerín","Alexis Sánchez",13
+"Héctor Bellerín","Santi Cazorla",18
+"Héctor Bellerín","Francis Coquelin",9
+"Héctor Bellerín","Per Mertesacker",17
+"Héctor Bellerín","Aaron Ramsey",22
+"Héctor Bellerín","Joel Campbell",15
+"Héctor Bellerín","Petr Čech",5
+"Héctor Bellerín","Nacho Monreal",1
+"Héctor Bellerín","Olivier Giroud",3
+"Héctor Bellerín","Mathieu Flamini",10
+"Héctor Bellerín","Mohamed Elneny",2
+"Per Mertesacker","David Ospina",1
+"Per Mertesacker","Kieran Gibbs",2
+"Per Mertesacker","Gabriel",5
+"Per Mertesacker","Laurent Koscielny",34
+"Per Mertesacker","Mesut Özil",14
+"Per Mertesacker","Theo Walcott",1
+"Per Mertesacker","Oxlade-Chamberlain",3
+"Per Mertesacker","Alexis Sánchez",1
+"Per Mertesacker","Santi Cazorla",22
+"Per Mertesacker","Héctor Bellerín",25
+"Per Mertesacker","Francis Coquelin",7
+"Per Mertesacker","Aaron Ramsey",8
+"Per Mertesacker","Joel Campbell",4
+"Per Mertesacker","Petr Čech",16
+"Per Mertesacker","Nacho Monreal",5
+"Per Mertesacker","Olivier Giroud",5
+"Per Mertesacker","Mathieu Debuchy",3
+"Per Mertesacker","Calum Chambers",1
+"Per Mertesacker","Alex Iwobi",1
+"Per Mertesacker","Mathieu Flamini",14
+"Per Mertesacker","Danny Welbeck",1
+"Aaron Ramsey","Kieran Gibbs",8
+"Aaron Ramsey","Gabriel",4
+"Aaron Ramsey","Laurent Koscielny",8
+"Aaron Ramsey","Mesut Özil",31
+"Aaron Ramsey","Theo Walcott",5
+"Aaron Ramsey","Oxlade-Chamberlain",7
+"Aaron Ramsey","Alexis Sánchez",8
+"Aaron Ramsey","Santi Cazorla",13
+"Aaron Ramsey","Héctor Bellerín",17
+"Aaron Ramsey","Francis Coquelin",4
+"Aaron Ramsey","Per Mertesacker",13
+"Aaron Ramsey","Joel Campbell",12
+"Aaron Ramsey","Petr Čech",4
+"Aaron Ramsey","Nacho Monreal",18
+"Aaron Ramsey","Olivier Giroud",8
+"Aaron Ramsey","Mathieu Flamini",8
+"Aaron Ramsey","Mathieu Debuchy",1
+"Aaron Ramsey","Calum Chambers",4
+"Aaron Ramsey","Danny Welbeck",2
+"Petr Čech","Per Mertesacker",9
+"Petr Čech","Laurent Koscielny",5
+"Petr Čech","Mesut Özil",4
+"Petr Čech","Theo Walcott",2
+"Petr Čech","Aaron Ramsey",6
+"Petr Čech","Alexis Sánchez",5
+"Petr Čech","Nacho Monreal",4
+"Petr Čech","Héctor Bellerín",7
+"Petr Čech","Kieran Gibbs",1
+"Petr Čech","Olivier Giroud",23
+"Petr Čech","Oxlade-Chamberlain",1
+"Petr Čech","Mathieu Debuchy",2
+"Petr Čech","Joel Campbell",4
+"Petr Čech","Calum Chambers",1
+"Petr Čech","Mathieu Flamini",2
+"Nacho Monreal","Petr Čech",5
+"Nacho Monreal","Per Mertesacker",5
+"Nacho Monreal","Laurent Koscielny",22
+"Nacho Monreal","Mesut Özil",24
+"Nacho Monreal","Theo Walcott",5
+"Nacho Monreal","Aaron Ramsey",14
+"Nacho Monreal","Alexis Sánchez",38
+"Nacho Monreal","Santi Cazorla",9
+"Nacho Monreal","Héctor Bellerín",2
+"Nacho Monreal","Francis Coquelin",9
+"Nacho Monreal","Kieran Gibbs",2
+"Nacho Monreal","Olivier Giroud",10
+"Nacho Monreal","Joel Campbell",5
+"Nacho Monreal","Calum Chambers",1
+"Nacho Monreal","Alex Iwobi",4
+"Nacho Monreal","Mathieu Flamini",8
+"Nacho Monreal","Danny Welbeck",2
+"Nacho Monreal","David Ospina",1
+"Nacho Monreal","Mohamed Elneny",1
+"Calum Chambers","Mathieu Debuchy",1
+"Calum Chambers","Per Mertesacker",3
+"Calum Chambers","Gabriel",1
+"Calum Chambers","Mesut Özil",3
+"Calum Chambers","Laurent Koscielny",2
+"Calum Chambers","Aaron Ramsey",3
+"Alex Iwobi","Mathieu Debuchy",1
+"Alex Iwobi","Mesut Özil",6
+"Alex Iwobi","Alexis Sánchez",3
+"Alex Iwobi","Nacho Monreal",5
+"Alex Iwobi","Francis Coquelin",3
+"Alex Iwobi","Calum Chambers",1
+"Alex Iwobi","David Ospina",1
+"Alex Iwobi","Mathieu Flamini",3
+"Alex Iwobi","Danny Welbeck",6
+"Alex Iwobi","Mohamed Elneny",1
+"Mathieu Flamini","Per Mertesacker",10
+"Mathieu Flamini","Laurent Koscielny",10
+"Mathieu Flamini","Mesut Özil",7
+"Mathieu Flamini","Olivier Giroud",4
+"Mathieu Flamini","Alexis Sánchez",12
+"Mathieu Flamini","Nacho Monreal",15
+"Mathieu Flamini","Santi Cazorla",3
+"Mathieu Flamini","Héctor Bellerín",17
+"Mathieu Flamini","Joel Campbell",8
+"Mathieu Flamini","Mathieu Debuchy",1
+"Mathieu Flamini","Aaron Ramsey",6
+"Mathieu Flamini","Calum Chambers",1
+"Mathieu Flamini","Theo Walcott",1
+"Mathieu Flamini","Kieran Gibbs",1
+"Mathieu Flamini","Danny Welbeck",1
+"Mathieu Flamini","Gabriel",1
+"Mathieu Flamini","Mohamed Elneny",3
+"Mathieu Flamini","Alex Iwobi",3
+"Danny Welbeck","Per Mertesacker",1
+"Danny Welbeck","Mesut Özil",3
+"Danny Welbeck","Alexis Sánchez",4
+"Danny Welbeck","Nacho Monreal",2
+"Danny Welbeck","Héctor Bellerín",1
+"Danny Welbeck","Mohamed Elneny",2
+"Danny Welbeck","Alex Iwobi",1
+"Mohamed Elneny","Gabriel",3
+"Mohamed Elneny","Laurent Koscielny",4
+"Mohamed Elneny","Mesut Özil",9
+"Mohamed Elneny","Alexis Sánchez",8
+"Mohamed Elneny","Mathieu Flamini",4
+"Mohamed Elneny","Héctor Bellerín",7
+"Mohamed Elneny","Alex Iwobi",1
+"Mohamed Elneny","Olivier Giroud",1
+"Mohamed Elneny","Theo Walcott",1
+"Mohamed Elneny","Francis Coquelin",2

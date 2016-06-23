@@ -12,5 +12,4 @@
 2009490_tpd.txt
 2009493_tpd.txt
 2009492_tpd.txt
-2009495_tpd.txt
 2009494_tpd.txt

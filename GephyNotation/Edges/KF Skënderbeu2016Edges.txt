@@ -1,0 +1,144 @@
+"Orges Shehi","Bajram Jashanica",4
+"Orges Shehi","Bakary Nimaga",1
+"Orges Shehi","Hamdi Salihi",2
+"Orges Shehi","Bernard Berisha",2
+"Orges Shehi","Liridon Latifi",1
+"Orges Shehi","Esquerdinha",2
+"Orges Shehi","Kristi Vangjeli",3
+"Orges Shehi","Marko Radaš",13
+"Orges Shehi","Sabien Lilaj",2
+"Orges Shehi","Gerhard Progni",1
+"Orges Shehi","Renato Arapi",2
+"Orges Shehi","Peter Olayinka",1
+"Bajram Jashanica","Orges Shehi",10
+"Bajram Jashanica","Bledi Shkëmbi",4
+"Bajram Jashanica","Esquerdinha",13
+"Bajram Jashanica","Kristi Vangjeli",2
+"Bajram Jashanica","Marko Radaš",10
+"Bajram Jashanica","Sabien Lilaj",2
+"Bajram Jashanica","Renato Arapi",11
+"Bakary Nimaga","Bajram Jashanica",3
+"Bakary Nimaga","Bledi Shkëmbi",7
+"Bakary Nimaga","Hamdi Salihi",1
+"Bakary Nimaga","Bernard Berisha",2
+"Bakary Nimaga","Liridon Latifi",3
+"Bakary Nimaga","Esquerdinha",4
+"Bakary Nimaga","Marko Radaš",2
+"Bakary Nimaga","Sabien Lilaj",9
+"Bakary Nimaga","Renato Arapi",4
+"Bakary Nimaga","Ventsislav Hristov",2
+"Bakary Nimaga","Peter Olayinka",1
+"Bledi Shkëmbi","Bajram Jashanica",2
+"Bledi Shkëmbi","Bakary Nimaga",5
+"Bledi Shkëmbi","Hamdi Salihi",3
+"Bledi Shkëmbi","Bernard Berisha",5
+"Bledi Shkëmbi","Liridon Latifi",8
+"Bledi Shkëmbi","Esquerdinha",13
+"Bledi Shkëmbi","Kristi Vangjeli",6
+"Bledi Shkëmbi","Marko Radaš",3
+"Bledi Shkëmbi","Sabien Lilaj",11
+"Bledi Shkëmbi","Gerhard Progni",4
+"Bledi Shkëmbi","Leonit Abazi",3
+"Bledi Shkëmbi","Renato Arapi",4
+"Bledi Shkëmbi","Ventsislav Hristov",1
+"Bledi Shkëmbi","Peter Olayinka",2
+"Hamdi Salihi","Bakary Nimaga",4
+"Hamdi Salihi","Bernard Berisha",3
+"Hamdi Salihi","Liridon Latifi",5
+"Hamdi Salihi","Esquerdinha",1
+"Hamdi Salihi","Kristi Vangjeli",1
+"Hamdi Salihi","Marko Radaš",1
+"Hamdi Salihi","Sabien Lilaj",3
+"Hamdi Salihi","Gerhard Progni",1
+"Bernard Berisha","Bajram Jashanica",3
+"Bernard Berisha","Bakary Nimaga",1
+"Bernard Berisha","Bledi Shkëmbi",3
+"Bernard Berisha","Hamdi Salihi",1
+"Bernard Berisha","Liridon Latifi",5
+"Bernard Berisha","Esquerdinha",1
+"Bernard Berisha","Kristi Vangjeli",1
+"Bernard Berisha","Marko Radaš",1
+"Bernard Berisha","Sabien Lilaj",5
+"Bernard Berisha","Gerhard Progni",1
+"Bernard Berisha","Renato Arapi",3
+"Liridon Latifi","Bajram Jashanica",1
+"Liridon Latifi","Bledi Shkëmbi",6
+"Liridon Latifi","Hamdi Salihi",2
+"Liridon Latifi","Bernard Berisha",4
+"Liridon Latifi","Esquerdinha",1
+"Liridon Latifi","Kristi Vangjeli",5
+"Liridon Latifi","Sabien Lilaj",9
+"Esquerdinha","Bajram Jashanica",5
+"Esquerdinha","Bakary Nimaga",6
+"Esquerdinha","Bledi Shkëmbi",5
+"Esquerdinha","Hamdi Salihi",2
+"Esquerdinha","Bernard Berisha",14
+"Esquerdinha","Liridon Latifi",5
+"Esquerdinha","Kristi Vangjeli",2
+"Esquerdinha","Sabien Lilaj",5
+"Esquerdinha","Gerhard Progni",1
+"Esquerdinha","Renato Arapi",5
+"Kristi Vangjeli","Orges Shehi",2
+"Kristi Vangjeli","Bajram Jashanica",2
+"Kristi Vangjeli","Bakary Nimaga",4
+"Kristi Vangjeli","Bledi Shkëmbi",5
+"Kristi Vangjeli","Hamdi Salihi",2
+"Kristi Vangjeli","Liridon Latifi",5
+"Kristi Vangjeli","Esquerdinha",2
+"Kristi Vangjeli","Marko Radaš",4
+"Kristi Vangjeli","Sabien Lilaj",9
+"Kristi Vangjeli","Gerhard Progni",4
+"Kristi Vangjeli","Ventsislav Hristov",1
+"Marko Radaš","Orges Shehi",6
+"Marko Radaš","Bajram Jashanica",8
+"Marko Radaš","Bakary Nimaga",7
+"Marko Radaš","Bledi Shkëmbi",7
+"Marko Radaš","Bernard Berisha",3
+"Marko Radaš","Liridon Latifi",7
+"Marko Radaš","Esquerdinha",3
+"Marko Radaš","Kristi Vangjeli",2
+"Marko Radaš","Sabien Lilaj",11
+"Marko Radaš","Gerhard Progni",3
+"Marko Radaš","Renato Arapi",1
+"Marko Radaš","Ventsislav Hristov",2
+"Sabien Lilaj","Orges Shehi",3
+"Sabien Lilaj","Bajram Jashanica",2
+"Sabien Lilaj","Bakary Nimaga",3
+"Sabien Lilaj","Bledi Shkëmbi",15
+"Sabien Lilaj","Hamdi Salihi",4
+"Sabien Lilaj","Bernard Berisha",3
+"Sabien Lilaj","Liridon Latifi",8
+"Sabien Lilaj","Esquerdinha",5
+"Sabien Lilaj","Kristi Vangjeli",20
+"Sabien Lilaj","Marko Radaš",9
+"Sabien Lilaj","Gerhard Progni",13
+"Sabien Lilaj","Renato Arapi",3
+"Sabien Lilaj","Ventsislav Hristov",2
+"Gerhard Progni","Orges Shehi",1
+"Gerhard Progni","Bajram Jashanica",1
+"Gerhard Progni","Bakary Nimaga",2
+"Gerhard Progni","Bledi Shkëmbi",2
+"Gerhard Progni","Kristi Vangjeli",4
+"Gerhard Progni","Marko Radaš",4
+"Gerhard Progni","Sabien Lilaj",8
+"Leonit Abazi","Bakary Nimaga",1
+"Leonit Abazi","Esquerdinha",1
+"Ademir","Sabien Lilaj",1
+"Renato Arapi","Bajram Jashanica",3
+"Renato Arapi","Bledi Shkëmbi",4
+"Renato Arapi","Bernard Berisha",6
+"Renato Arapi","Liridon Latifi",3
+"Renato Arapi","Esquerdinha",6
+"Renato Arapi","Marko Radaš",1
+"Renato Arapi","Sabien Lilaj",2
+"Renato Arapi","Bakary Nimaga",1
+"Renato Arapi","Ventsislav Hristov",2
+"Renato Arapi","Peter Olayinka",3
+"Ventsislav Hristov","Renato Arapi",1
+"Ventsislav Hristov","Sabien Lilaj",1
+"Ventsislav Hristov","Bakary Nimaga",3
+"Ventsislav Hristov","Peter Olayinka",1
+"Peter Olayinka","Liridon Latifi",1
+"Peter Olayinka","Esquerdinha",1
+"Peter Olayinka","Sabien Lilaj",2
+"Peter Olayinka","Bakary Nimaga",1

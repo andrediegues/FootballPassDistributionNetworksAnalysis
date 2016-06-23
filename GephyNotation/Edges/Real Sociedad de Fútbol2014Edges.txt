@@ -1,0 +1,377 @@
+"Claudio Bravo","Carlos Martínez",4
+"Claudio Bravo","Markel Bergara",8
+"Claudio Bravo","Iñigo Martínez",27
+"Claudio Bravo","Antoine Griezmann",9
+"Claudio Bravo","Haris Seferovic",6
+"Claudio Bravo","Xabier Prieto",5
+"Claudio Bravo","Carlos Vela",7
+"Claudio Bravo","David Zurutuza",1
+"Claudio Bravo","Liassine Cadamuro",9
+"Claudio Bravo","Rubén Pardo",3
+"Claudio Bravo","Gonzalo Castro",1
+"Claudio Bravo","Esteban Granero",1
+"Claudio Bravo","Xabi Prieto",11
+"Claudio Bravo","Gorka Elustondo",2
+"Claudio Bravo","Chori Castro",2
+"Claudio Bravo","Mikel González",12
+"Claudio Bravo","Dani Estrada",2
+"Claudio Bravo","Alberto de la Bella",8
+"Claudio Bravo","Imanol Agirretxe",2
+"Claudio Bravo","Jon Ansotegi",1
+"Carlos Martínez","Claudio Bravo",10
+"Carlos Martínez","Markel Bergara",7
+"Carlos Martínez","Iñigo Martínez",6
+"Carlos Martínez","Antoine Griezmann",8
+"Carlos Martínez","Haris Seferovic",6
+"Carlos Martínez","Xabier Prieto",2
+"Carlos Martínez","Carlos Vela",18
+"Carlos Martínez","David Zurutuza",15
+"Carlos Martínez","Liassine Cadamuro",8
+"Carlos Martínez","Alberto De La Bella",2
+"Carlos Martínez","Rubén Pardo",4
+"Carlos Martínez","Mikel González",4
+"Carlos Martínez","Xabi Prieto",9
+"Carlos Martínez","Alberto de la Bella",5
+"Carlos Martínez","Imanol Agirretxe",4
+"Markel Bergara","Claudio Bravo",5
+"Markel Bergara","Carlos Martínez",13
+"Markel Bergara","Iñigo Martínez",19
+"Markel Bergara","Antoine Griezmann",6
+"Markel Bergara","Haris Seferovic",5
+"Markel Bergara","Xabier Prieto",4
+"Markel Bergara","Carlos Vela",10
+"Markel Bergara","David Zurutuza",17
+"Markel Bergara","Liassine Cadamuro",6
+"Markel Bergara","Alberto De La Bella",8
+"Markel Bergara","Rubén Pardo",13
+"Markel Bergara","Gonzalo Castro",1
+"Markel Bergara","Esteban Granero",3
+"Markel Bergara","Xabi Prieto",21
+"Markel Bergara","Ion Ansotegi",2
+"Markel Bergara","Daniel Estrada",5
+"Markel Bergara","Chori Castro",1
+"Markel Bergara","Mikel González",6
+"Markel Bergara","Dani Estrada",4
+"Markel Bergara","Alberto de la Bella",11
+"Markel Bergara","Imanol Agirretxe",2
+"Iñigo Martínez","Claudio Bravo",21
+"Iñigo Martínez","Carlos Martínez",11
+"Iñigo Martínez","Markel Bergara",15
+"Iñigo Martínez","Antoine Griezmann",14
+"Iñigo Martínez","Haris Seferovic",8
+"Iñigo Martínez","Carlos Vela",5
+"Iñigo Martínez","David Zurutuza",6
+"Iñigo Martínez","Liassine Cadamuro",3
+"Iñigo Martínez","Alberto De La Bella",7
+"Iñigo Martínez","Rubén Pardo",14
+"Iñigo Martínez","Esteban Granero",2
+"Iñigo Martínez","Xabi Prieto",10
+"Iñigo Martínez","Ion Ansotegi",3
+"Iñigo Martínez","Daniel Estrada",2
+"Iñigo Martínez","Gorka Elustondo",5
+"Iñigo Martínez","Chori Castro",3
+"Iñigo Martínez","Mikel González",10
+"Iñigo Martínez","Dani Estrada",2
+"Iñigo Martínez","Alberto de la Bella",26
+"Iñigo Martínez","Imanol Agirretxe",6
+"Iñigo Martínez","Jon Ansotegi",11
+"Iñigo Martínez","Javier Ros",2
+"Antoine Griezmann","Claudio Bravo",3
+"Antoine Griezmann","Carlos Martínez",4
+"Antoine Griezmann","Markel Bergara",8
+"Antoine Griezmann","Iñigo Martínez",6
+"Antoine Griezmann","Haris Seferovic",12
+"Antoine Griezmann","Xabier Prieto",1
+"Antoine Griezmann","Carlos Vela",21
+"Antoine Griezmann","David Zurutuza",7
+"Antoine Griezmann","Liassine Cadamuro",1
+"Antoine Griezmann","Alberto De La Bella",7
+"Antoine Griezmann","Rubén Pardo",15
+"Antoine Griezmann","Xabi Prieto",14
+"Antoine Griezmann","Ion Ansotegi",1
+"Antoine Griezmann","Daniel Estrada",2
+"Antoine Griezmann","Gorka Elustondo",2
+"Antoine Griezmann","Chori Castro",1
+"Antoine Griezmann","Mikel González",5
+"Antoine Griezmann","Alberto de la Bella",12
+"Antoine Griezmann","Imanol Agirretxe",2
+"Antoine Griezmann","Javier Ros",1
+"Haris Seferovic","Carlos Martínez",6
+"Haris Seferovic","Markel Bergara",3
+"Haris Seferovic","Iñigo Martínez",1
+"Haris Seferovic","Antoine Griezmann",8
+"Haris Seferovic","Xabier Prieto",1
+"Haris Seferovic","Carlos Vela",14
+"Haris Seferovic","David Zurutuza",14
+"Haris Seferovic","Liassine Cadamuro",2
+"Haris Seferovic","Alberto De La Bella",1
+"Haris Seferovic","Rubén Pardo",5
+"Haris Seferovic","Esteban Granero",1
+"Haris Seferovic","Xabi Prieto",15
+"Haris Seferovic","Daniel Estrada",3
+"Haris Seferovic","Gorka Elustondo",1
+"Haris Seferovic","Mikel González",1
+"Haris Seferovic","Dani Estrada",1
+"Haris Seferovic","Alberto de la Bella",2
+"Haris Seferovic","Javier Ros",1
+"Xabier Prieto","Carlos Martínez",5
+"Xabier Prieto","Markel Bergara",1
+"Xabier Prieto","Iñigo Martínez",3
+"Xabier Prieto","Antoine Griezmann",2
+"Xabier Prieto","Haris Seferovic",8
+"Xabier Prieto","Carlos Vela",5
+"Xabier Prieto","David Zurutuza",2
+"Xabier Prieto","Liassine Cadamuro",1
+"Xabier Prieto","Alberto De La Bella",2
+"Xabier Prieto","Rubén Pardo",3
+"Xabier Prieto","Gonzalo Castro",1
+"Xabier Prieto","Esteban Granero",3
+"Carlos Vela","Claudio Bravo",1
+"Carlos Vela","Carlos Martínez",15
+"Carlos Vela","Markel Bergara",3
+"Carlos Vela","Iñigo Martínez",5
+"Carlos Vela","Antoine Griezmann",15
+"Carlos Vela","Haris Seferovic",9
+"Carlos Vela","Xabier Prieto",1
+"Carlos Vela","David Zurutuza",10
+"Carlos Vela","Liassine Cadamuro",1
+"Carlos Vela","Alberto De La Bella",4
+"Carlos Vela","Rubén Pardo",6
+"Carlos Vela","Esteban Granero",2
+"Carlos Vela","Xabi Prieto",8
+"Carlos Vela","Daniel Estrada",3
+"Carlos Vela","Gorka Elustondo",2
+"Carlos Vela","Chori Castro",11
+"Carlos Vela","Mikel González",2
+"Carlos Vela","Dani Estrada",3
+"Carlos Vela","Alberto de la Bella",9
+"Carlos Vela","Imanol Agirretxe",3
+"Carlos Vela","Javier Ros",1
+"David Zurutuza","Claudio Bravo",1
+"David Zurutuza","Carlos Martínez",10
+"David Zurutuza","Markel Bergara",15
+"David Zurutuza","Iñigo Martínez",7
+"David Zurutuza","Antoine Griezmann",10
+"David Zurutuza","Haris Seferovic",11
+"David Zurutuza","Xabier Prieto",3
+"David Zurutuza","Carlos Vela",10
+"David Zurutuza","Liassine Cadamuro",1
+"David Zurutuza","Alberto De La Bella",8
+"David Zurutuza","Rubén Pardo",6
+"David Zurutuza","Esteban Granero",1
+"David Zurutuza","Xabi Prieto",19
+"David Zurutuza","Ion Ansotegi",3
+"David Zurutuza","Daniel Estrada",2
+"David Zurutuza","Gorka Elustondo",1
+"David Zurutuza","Chori Castro",2
+"David Zurutuza","Mikel González",3
+"David Zurutuza","Alberto de la Bella",10
+"David Zurutuza","Imanol Agirretxe",3
+"Liassine Cadamuro","Claudio Bravo",5
+"Liassine Cadamuro","Carlos Martínez",6
+"Liassine Cadamuro","Markel Bergara",2
+"Liassine Cadamuro","Iñigo Martínez",3
+"Liassine Cadamuro","Antoine Griezmann",6
+"Liassine Cadamuro","Haris Seferovic",6
+"Liassine Cadamuro","Xabier Prieto",4
+"Liassine Cadamuro","Carlos Vela",5
+"Liassine Cadamuro","Rubén Pardo",5
+"Liassine Cadamuro","Esteban Granero",6
+"Liassine Cadamuro","Gorka Elustondo",8
+"Liassine Cadamuro","Xabi Prieto",7
+"Liassine Cadamuro","Jon Ansotegi",3
+"Liassine Cadamuro","Chori Castro",4
+"Liassine Cadamuro","Imanol Agirretxe",3
+"Alberto De La Bella","Claudio Bravo",2
+"Alberto De La Bella","Markel Bergara",3
+"Alberto De La Bella","Iñigo Martínez",6
+"Alberto De La Bella","Antoine Griezmann",8
+"Alberto De La Bella","Haris Seferovic",4
+"Alberto De La Bella","Xabier Prieto",9
+"Alberto De La Bella","Carlos Vela",3
+"Alberto De La Bella","David Zurutuza",15
+"Alberto De La Bella","Liassine Cadamuro",3
+"Alberto De La Bella","Rubén Pardo",2
+"Alberto De La Bella","Gonzalo Castro",3
+"Alberto De La Bella","Esteban Granero",1
+"Alberto De La Bella","Xabi Prieto",6
+"Alberto De La Bella","Ion Ansotegi",2
+"Alberto De La Bella","Daniel Estrada",1
+"Alberto De La Bella","Chori Castro",2
+"Rubén Pardo","Claudio Bravo",3
+"Rubén Pardo","Carlos Martínez",5
+"Rubén Pardo","Markel Bergara",5
+"Rubén Pardo","Iñigo Martínez",14
+"Rubén Pardo","Antoine Griezmann",12
+"Rubén Pardo","Haris Seferovic",9
+"Rubén Pardo","Carlos Vela",11
+"Rubén Pardo","David Zurutuza",5
+"Rubén Pardo","Liassine Cadamuro",2
+"Rubén Pardo","Alberto De La Bella",2
+"Rubén Pardo","Gonzalo Castro",2
+"Rubén Pardo","Esteban Granero",1
+"Rubén Pardo","Mikel González",5
+"Rubén Pardo","Xabi Prieto",17
+"Rubén Pardo","Dani Estrada",8
+"Rubén Pardo","Alberto de la Bella",27
+"Rubén Pardo","Imanol Agirretxe",1
+"Rubén Pardo","Chori Castro",5
+"Rubén Pardo","Gorka Elustondo",7
+"Rubén Pardo","Jon Ansotegi",1
+"Gonzalo Castro","Markel Bergara",2
+"Gonzalo Castro","Xabier Prieto",1
+"Gonzalo Castro","Carlos Vela",2
+"Gonzalo Castro","Alberto De La Bella",1
+"Gonzalo Castro","Rubén Pardo",3
+"Esteban Granero","Markel Bergara",4
+"Esteban Granero","Iñigo Martínez",1
+"Esteban Granero","Antoine Griezmann",1
+"Esteban Granero","Xabier Prieto",4
+"Esteban Granero","Carlos Vela",2
+"Esteban Granero","David Zurutuza",4
+"Esteban Granero","Liassine Cadamuro",3
+"Esteban Granero","Alberto De La Bella",2
+"Esteban Granero","Xabi Prieto",1
+"Esteban Granero","Daniel Estrada",1
+"Esteban Granero","Chori Castro",1
+"Xabi Prieto","Claudio Bravo",1
+"Xabi Prieto","Markel Bergara",11
+"Xabi Prieto","Iñigo Martínez",3
+"Xabi Prieto","Antoine Griezmann",19
+"Xabi Prieto","Haris Seferovic",19
+"Xabi Prieto","Carlos Vela",34
+"Xabi Prieto","Ion Ansotegi",2
+"Xabi Prieto","David Zurutuza",12
+"Xabi Prieto","Daniel Estrada",5
+"Xabi Prieto","Alberto De La Bella",2
+"Xabi Prieto","Gorka Elustondo",8
+"Xabi Prieto","Chori Castro",18
+"Xabi Prieto","Esteban Granero",2
+"Xabi Prieto","Mikel González",3
+"Xabi Prieto","Rubén Pardo",10
+"Xabi Prieto","Dani Estrada",5
+"Xabi Prieto","Alberto de la Bella",7
+"Xabi Prieto","Carlos Martínez",4
+"Xabi Prieto","Jon Ansotegi",2
+"Xabi Prieto","Liassine Cadamuro",6
+"Xabi Prieto","Javier Ros",5
+"Ion Ansotegi","Claudio Bravo",4
+"Ion Ansotegi","Markel Bergara",1
+"Ion Ansotegi","Iñigo Martínez",3
+"Ion Ansotegi","Antoine Griezmann",2
+"Ion Ansotegi","Xabi Prieto",1
+"Ion Ansotegi","Carlos Vela",1
+"Ion Ansotegi","David Zurutuza",3
+"Ion Ansotegi","Daniel Estrada",2
+"Ion Ansotegi","Alberto De La Bella",2
+"Ion Ansotegi","Chori Castro",1
+"Daniel Estrada","Claudio Bravo",2
+"Daniel Estrada","Markel Bergara",1
+"Daniel Estrada","Iñigo Martínez",1
+"Daniel Estrada","Antoine Griezmann",2
+"Daniel Estrada","Haris Seferovic",6
+"Daniel Estrada","Xabi Prieto",4
+"Daniel Estrada","Carlos Vela",4
+"Daniel Estrada","Ion Ansotegi",2
+"Daniel Estrada","David Zurutuza",1
+"Daniel Estrada","Esteban Granero",1
+"Gorka Elustondo","Iñigo Martínez",11
+"Gorka Elustondo","Antoine Griezmann",4
+"Gorka Elustondo","Haris Seferovic",1
+"Gorka Elustondo","Xabi Prieto",8
+"Gorka Elustondo","Carlos Vela",2
+"Gorka Elustondo","Daniel Estrada",1
+"Gorka Elustondo","Chori Castro",5
+"Gorka Elustondo","Esteban Granero",1
+"Gorka Elustondo","Rubén Pardo",11
+"Gorka Elustondo","Jon Ansotegi",7
+"Gorka Elustondo","Liassine Cadamuro",8
+"Gorka Elustondo","Alberto de la Bella",4
+"Gorka Elustondo","Javier Ros",3
+"Chori Castro","Markel Bergara",1
+"Chori Castro","Iñigo Martínez",3
+"Chori Castro","Antoine Griezmann",1
+"Chori Castro","Haris Seferovic",5
+"Chori Castro","Xabi Prieto",10
+"Chori Castro","Carlos Vela",10
+"Chori Castro","David Zurutuza",3
+"Chori Castro","Gorka Elustondo",6
+"Chori Castro","Esteban Granero",2
+"Chori Castro","Mikel González",1
+"Chori Castro","Rubén Pardo",6
+"Chori Castro","Alberto de la Bella",15
+"Chori Castro","Imanol Agirretxe",1
+"Chori Castro","Liassine Cadamuro",4
+"Chori Castro","Javier Ros",2
+"Mikel González","Claudio Bravo",10
+"Mikel González","Markel Bergara",13
+"Mikel González","Iñigo Martínez",11
+"Mikel González","Antoine Griezmann",3
+"Mikel González","Haris Seferovic",2
+"Mikel González","Xabi Prieto",6
+"Mikel González","Carlos Vela",9
+"Mikel González","Rubén Pardo",6
+"Mikel González","Dani Estrada",10
+"Mikel González","Alberto de la Bella",4
+"Mikel González","Imanol Agirretxe",3
+"Mikel González","Chori Castro",2
+"Mikel González","Carlos Martínez",12
+"Mikel González","David Zurutuza",4
+"Dani Estrada","Claudio Bravo",3
+"Dani Estrada","Mikel González",9
+"Dani Estrada","Markel Bergara",6
+"Dani Estrada","Iñigo Martínez",1
+"Dani Estrada","Haris Seferovic",1
+"Dani Estrada","Xabi Prieto",10
+"Dani Estrada","Carlos Vela",5
+"Dani Estrada","Rubén Pardo",4
+"Dani Estrada","Alberto de la Bella",1
+"Dani Estrada","Imanol Agirretxe",1
+"Dani Estrada","Esteban Granero",1
+"Alberto de la Bella","Claudio Bravo",6
+"Alberto de la Bella","Mikel González",2
+"Alberto de la Bella","Markel Bergara",12
+"Alberto de la Bella","Iñigo Martínez",30
+"Alberto de la Bella","Antoine Griezmann",24
+"Alberto de la Bella","Haris Seferovic",4
+"Alberto de la Bella","Xabi Prieto",11
+"Alberto de la Bella","Carlos Vela",18
+"Alberto de la Bella","Rubén Pardo",18
+"Alberto de la Bella","Dani Estrada",2
+"Alberto de la Bella","Imanol Agirretxe",5
+"Alberto de la Bella","Chori Castro",16
+"Alberto de la Bella","Carlos Martínez",2
+"Alberto de la Bella","David Zurutuza",6
+"Alberto de la Bella","Gorka Elustondo",5
+"Alberto de la Bella","Jon Ansotegi",3
+"Alberto de la Bella","Liassine Cadamuro",1
+"Alberto de la Bella","Javier Ros",2
+"Imanol Agirretxe","Mikel González",3
+"Imanol Agirretxe","Markel Bergara",3
+"Imanol Agirretxe","Antoine Griezmann",1
+"Imanol Agirretxe","Carlos Vela",4
+"Imanol Agirretxe","Rubén Pardo",1
+"Imanol Agirretxe","Alberto de la Bella",2
+"Imanol Agirretxe","Chori Castro",1
+"Imanol Agirretxe","Carlos Martínez",3
+"Imanol Agirretxe","David Zurutuza",1
+"Imanol Agirretxe","Gorka Elustondo",1
+"Imanol Agirretxe","Javier Ros",1
+"Jon Ansotegi","Claudio Bravo",7
+"Jon Ansotegi","Gorka Elustondo",5
+"Jon Ansotegi","Iñigo Martínez",7
+"Jon Ansotegi","Xabi Prieto",5
+"Jon Ansotegi","Rubén Pardo",4
+"Jon Ansotegi","Chori Castro",1
+"Jon Ansotegi","Liassine Cadamuro",3
+"Jon Ansotegi","Alberto de la Bella",1
+"Jon Ansotegi","Haris Seferovic",1
+"Javier Ros","Gorka Elustondo",4
+"Javier Ros","Iñigo Martínez",1
+"Javier Ros","Xabi Prieto",2
+"Javier Ros","Jon Ansotegi",1
+"Javier Ros","Chori Castro",3
+"Javier Ros","Liassine Cadamuro",3
+"Javier Ros","Alberto de la Bella",4
+"Javier Ros","Haris Seferovic",1
+"Javier Ros","Imanol Agirretxe",1

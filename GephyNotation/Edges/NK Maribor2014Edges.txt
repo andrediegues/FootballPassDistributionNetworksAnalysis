@@ -1,0 +1,165 @@
+"Jasmin Handanovič","Martin Milec",6
+"Jasmin Handanovič","Aleš Mejač",2
+"Jasmin Handanovič","Tavares",3
+"Jasmin Handanovič","Agim Ibraimi",3
+"Jasmin Handanovič","Goran Cvijanovič",4
+"Jasmin Handanovič","Nejc Potokar",2
+"Jasmin Handanovič","Aleksander Rajčevič",6
+"Jasmin Handanovič","Mitja Viler",7
+"Jasmin Handanovič","Damjan Bohar",3
+"Jasmin Handanovič","Aleš Mertelj",1
+"Jasmin Handanovič","Nusmir Fajić",2
+"Martin Milec","Jasmin Handanovič",5
+"Martin Milec","Aleš Mejač",14
+"Martin Milec","Tavares",12
+"Martin Milec","Agim Ibraimi",28
+"Martin Milec","Goran Cvijanovič",11
+"Martin Milec","Nejc Potokar",2
+"Martin Milec","Aleksander Rajčevič",25
+"Martin Milec","Mitja Viler",1
+"Martin Milec","Damjan Bohar",1
+"Martin Milec","Aleš Mertelj",15
+"Martin Milec","Jean Philippe Mendy",2
+"Martin Milec","Nusmir Fajić",2
+"Martin Milec","Arghus",5
+"Martin Milec","Željko Filipovič",3
+"Aleš Mejač","Martin Milec",10
+"Aleš Mejač","Tavares",3
+"Aleš Mejač","Agim Ibraimi",5
+"Aleš Mejač","Goran Cvijanovič",8
+"Aleš Mejač","Nejc Potokar",1
+"Aleš Mejač","Aleksander Rajčevič",7
+"Aleš Mejač","Mitja Viler",4
+"Aleš Mejač","Damjan Bohar",4
+"Aleš Mejač","Aleš Mertelj",5
+"Aleš Mejač","Nusmir Fajić",3
+"Aleš Mejač","Željko Filipovič",3
+"Tavares","Martin Milec",9
+"Tavares","Aleš Mejač",5
+"Tavares","Agim Ibraimi",8
+"Tavares","Goran Cvijanovič",14
+"Tavares","Nejc Potokar",2
+"Tavares","Aleksander Rajčevič",1
+"Tavares","Mitja Viler",7
+"Tavares","Damjan Bohar",5
+"Tavares","Aleš Mertelj",9
+"Tavares","Jean Philippe Mendy",1
+"Tavares","Nusmir Fajić",1
+"Tavares","Arghus",3
+"Agim Ibraimi","Jasmin Handanovič",1
+"Agim Ibraimi","Martin Milec",26
+"Agim Ibraimi","Aleš Mejač",6
+"Agim Ibraimi","Tavares",3
+"Agim Ibraimi","Goran Cvijanovič",12
+"Agim Ibraimi","Nejc Potokar",1
+"Agim Ibraimi","Aleksander Rajčevič",3
+"Agim Ibraimi","Mitja Viler",9
+"Agim Ibraimi","Damjan Bohar",3
+"Agim Ibraimi","Aleš Mertelj",10
+"Agim Ibraimi","Nusmir Fajić",6
+"Agim Ibraimi","Arghus",3
+"Goran Cvijanovič","Martin Milec",18
+"Goran Cvijanovič","Aleš Mejač",3
+"Goran Cvijanovič","Tavares",17
+"Goran Cvijanovič","Agim Ibraimi",23
+"Goran Cvijanovič","Nejc Potokar",3
+"Goran Cvijanovič","Aleksander Rajčevič",6
+"Goran Cvijanovič","Mitja Viler",28
+"Goran Cvijanovič","Damjan Bohar",8
+"Goran Cvijanovič","Aleš Mertelj",9
+"Goran Cvijanovič","Jean Philippe Mendy",1
+"Goran Cvijanovič","Arghus",3
+"Goran Cvijanovič","Željko Filipovič",3
+"Nejc Potokar","Jasmin Handanovič",1
+"Nejc Potokar","Tavares",4
+"Nejc Potokar","Agim Ibraimi",2
+"Nejc Potokar","Goran Cvijanovič",10
+"Nejc Potokar","Aleksander Rajčevič",16
+"Nejc Potokar","Mitja Viler",11
+"Nejc Potokar","Damjan Bohar",2
+"Nejc Potokar","Aleš Mertelj",8
+"Aleksander Rajčevič","Jasmin Handanovič",7
+"Aleksander Rajčevič","Martin Milec",24
+"Aleksander Rajčevič","Aleš Mejač",6
+"Aleksander Rajčevič","Tavares",4
+"Aleksander Rajčevič","Agim Ibraimi",7
+"Aleksander Rajčevič","Goran Cvijanovič",8
+"Aleksander Rajčevič","Nejc Potokar",25
+"Aleksander Rajčevič","Mitja Viler",1
+"Aleksander Rajčevič","Damjan Bohar",4
+"Aleksander Rajčevič","Aleš Mertelj",13
+"Aleksander Rajčevič","Jean Philippe Mendy",1
+"Aleksander Rajčevič","Arghus",8
+"Aleksander Rajčevič","Željko Filipovič",4
+"Mitja Viler","Jasmin Handanovič",3
+"Mitja Viler","Martin Milec",2
+"Mitja Viler","Aleš Mejač",6
+"Mitja Viler","Tavares",13
+"Mitja Viler","Agim Ibraimi",7
+"Mitja Viler","Goran Cvijanovič",21
+"Mitja Viler","Nejc Potokar",6
+"Mitja Viler","Aleksander Rajčevič",3
+"Mitja Viler","Damjan Bohar",22
+"Mitja Viler","Aleš Mertelj",9
+"Mitja Viler","Jean Philippe Mendy",1
+"Mitja Viler","Nusmir Fajić",9
+"Mitja Viler","Arghus",6
+"Mitja Viler","Željko Filipovič",4
+"Damjan Bohar","Martin Milec",4
+"Damjan Bohar","Aleš Mejač",4
+"Damjan Bohar","Tavares",6
+"Damjan Bohar","Agim Ibraimi",4
+"Damjan Bohar","Goran Cvijanovič",14
+"Damjan Bohar","Nejc Potokar",1
+"Damjan Bohar","Aleksander Rajčevič",4
+"Damjan Bohar","Mitja Viler",10
+"Damjan Bohar","Aleš Mertelj",6
+"Damjan Bohar","Jean Philippe Mendy",1
+"Damjan Bohar","Nusmir Fajić",2
+"Aleš Mertelj","Martin Milec",16
+"Aleš Mertelj","Aleš Mejač",5
+"Aleš Mertelj","Tavares",8
+"Aleš Mertelj","Agim Ibraimi",9
+"Aleš Mertelj","Goran Cvijanovič",8
+"Aleš Mertelj","Nejc Potokar",9
+"Aleš Mertelj","Aleksander Rajčevič",13
+"Aleš Mertelj","Mitja Viler",18
+"Aleš Mertelj","Damjan Bohar",14
+"Aleš Mertelj","Jean Philippe Mendy",1
+"Aleš Mertelj","Nusmir Fajić",2
+"Aleš Mertelj","Arghus",4
+"Aleš Mertelj","Željko Filipovič",2
+"Jean Philippe Mendy","Martin Milec",1
+"Jean Philippe Mendy","Aleš Mejač",1
+"Jean Philippe Mendy","Agim Ibraimi",2
+"Jean Philippe Mendy","Damjan Bohar",1
+"Jean Philippe Mendy","Aleš Mertelj",1
+"Amir Derviševič","Agim Ibraimi",1
+"Amir Derviševič","Goran Cvijanovič",1
+"Amir Derviševič","Damjan Bohar",1
+"Nusmir Fajić","Martin Milec",1
+"Nusmir Fajić","Tavares",5
+"Nusmir Fajić","Agim Ibraimi",2
+"Nusmir Fajić","Goran Cvijanovič",2
+"Nusmir Fajić","Aleksander Rajčevič",2
+"Nusmir Fajić","Mitja Viler",2
+"Nusmir Fajić","Arghus",1
+"Nusmir Fajić","Aleš Mertelj",2
+"Nusmir Fajić","Jean Philippe Mendy",3
+"Arghus","Martin Milec",4
+"Arghus","Tavares",2
+"Arghus","Agim Ibraimi",1
+"Arghus","Goran Cvijanovič",3
+"Arghus","Aleksander Rajčevič",10
+"Arghus","Mitja Viler",9
+"Arghus","Damjan Bohar",2
+"Arghus","Aleš Mertelj",5
+"Željko Filipovič","Martin Milec",1
+"Željko Filipovič","Agim Ibraimi",6
+"Željko Filipovič","Nusmir Fajić",1
+"Željko Filipovič","Goran Cvijanovič",4
+"Željko Filipovič","Aleksander Rajčevič",3
+"Željko Filipovič","Mitja Viler",4
+"Željko Filipovič","Damjan Bohar",2
+"Željko Filipovič","Aleš Mertelj",2
+"Željko Filipovič","Aleš Mejač",2

@@ -1,0 +1,273 @@
+"Helton","Lucho González",5
+"Helton","Maicon",13
+"Helton","João Moutinho",11
+"Helton","Jackson Martinez",4
+"Helton","James Rodríguez",5
+"Helton","Miguel Lopes",3
+"Helton","Silvestre Varela",7
+"Helton","Alex Sandro",10
+"Helton","Nicolás Otamendi",43
+"Helton","Steven Defour",7
+"Helton","Eliaquim Mangala",14
+"Helton","Christian Atsu",9
+"Helton","Danilo",9
+"Helton","Fernando",12
+"Helton","Jackson Martínez",5
+"Helton","Abdoulaye Ba",5
+"Lucho González","Helton",4
+"Lucho González","Maicon",11
+"Lucho González","João Moutinho",42
+"Lucho González","Jackson Martinez",13
+"Lucho González","James Rodríguez",45
+"Lucho González","Miguel Lopes",4
+"Lucho González","Silvestre Varela",22
+"Lucho González","Alex Sandro",17
+"Lucho González","Nicolás Otamendi",22
+"Lucho González","Steven Defour",31
+"Lucho González","Eliaquim Mangala",15
+"Lucho González","Christian Atsu",6
+"Lucho González","Danilo",50
+"Lucho González","Fernando",30
+"Lucho González","Jackson Martínez",24
+"Lucho González","Abdoulaye Ba",4
+"Lucho González","Marat Izmailov",4
+"Maicon","Helton",16
+"Maicon","Lucho González",16
+"Maicon","João Moutinho",11
+"Maicon","Jackson Martinez",5
+"Maicon","James Rodríguez",8
+"Maicon","Miguel Lopes",8
+"Maicon","Silvestre Varela",6
+"Maicon","Alex Sandro",8
+"Maicon","Nicolás Otamendi",18
+"Maicon","Steven Defour",4
+"Maicon","Eliaquim Mangala",1
+"Maicon","Christian Atsu",1
+"Maicon","Danilo",19
+"Maicon","Fernando",10
+"Maicon","Jackson Martínez",4
+"João Moutinho","Helton",5
+"João Moutinho","Lucho González",40
+"João Moutinho","Maicon",12
+"João Moutinho","Jackson Martinez",14
+"João Moutinho","James Rodríguez",64
+"João Moutinho","Miguel Lopes",10
+"João Moutinho","Silvestre Varela",64
+"João Moutinho","Alex Sandro",42
+"João Moutinho","Nicolás Otamendi",39
+"João Moutinho","Steven Defour",25
+"João Moutinho","Kléber",1
+"João Moutinho","Eliaquim Mangala",9
+"João Moutinho","Christian Atsu",12
+"João Moutinho","Danilo",46
+"João Moutinho","Fernando",46
+"João Moutinho","Jackson Martínez",25
+"João Moutinho","Abdoulaye Ba",4
+"João Moutinho","André Castro",2
+"João Moutinho","Marat Izmailov",6
+"Jackson Martinez","Lucho González",10
+"Jackson Martinez","Maicon",1
+"Jackson Martinez","João Moutinho",9
+"Jackson Martinez","James Rodríguez",7
+"Jackson Martinez","Miguel Lopes",1
+"Jackson Martinez","Silvestre Varela",8
+"Jackson Martinez","Alex Sandro",3
+"Jackson Martinez","Steven Defour",3
+"Jackson Martinez","Eliaquim Mangala",1
+"Jackson Martinez","Christian Atsu",1
+"Jackson Martinez","Danilo",3
+"Jackson Martinez","Fernando",2
+"James Rodríguez","Helton",1
+"James Rodríguez","Lucho González",38
+"James Rodríguez","Maicon",3
+"James Rodríguez","João Moutinho",56
+"James Rodríguez","Jackson Martinez",7
+"James Rodríguez","Miguel Lopes",2
+"James Rodríguez","Silvestre Varela",20
+"James Rodríguez","Alex Sandro",14
+"James Rodríguez","Nicolás Otamendi",15
+"James Rodríguez","Steven Defour",16
+"James Rodríguez","Eliaquim Mangala",9
+"James Rodríguez","Christian Atsu",1
+"James Rodríguez","Danilo",34
+"James Rodríguez","Fernando",29
+"James Rodríguez","Jackson Martínez",18
+"James Rodríguez","Abdoulaye Ba",2
+"James Rodríguez","André Castro",2
+"Miguel Lopes","Helton",2
+"Miguel Lopes","Lucho González",7
+"Miguel Lopes","Maicon",9
+"Miguel Lopes","João Moutinho",5
+"Miguel Lopes","Jackson Martinez",2
+"Miguel Lopes","Silvestre Varela",9
+"Miguel Lopes","Alex Sandro",1
+"Miguel Lopes","Steven Defour",8
+"Silvestre Varela","Helton",3
+"Silvestre Varela","Lucho González",31
+"Silvestre Varela","Maicon",6
+"Silvestre Varela","João Moutinho",61
+"Silvestre Varela","Jackson Martinez",4
+"Silvestre Varela","James Rodríguez",17
+"Silvestre Varela","Miguel Lopes",3
+"Silvestre Varela","Alex Sandro",16
+"Silvestre Varela","Nicolás Otamendi",11
+"Silvestre Varela","Steven Defour",11
+"Silvestre Varela","Eliaquim Mangala",11
+"Silvestre Varela","Christian Atsu",1
+"Silvestre Varela","Danilo",18
+"Silvestre Varela","Fernando",14
+"Silvestre Varela","Jackson Martínez",9
+"Silvestre Varela","Marat Izmailov",2
+"Alex Sandro","Helton",10
+"Alex Sandro","Lucho González",13
+"Alex Sandro","Maicon",4
+"Alex Sandro","João Moutinho",43
+"Alex Sandro","Jackson Martinez",4
+"Alex Sandro","James Rodríguez",13
+"Alex Sandro","Miguel Lopes",2
+"Alex Sandro","Silvestre Varela",23
+"Alex Sandro","Nicolás Otamendi",11
+"Alex Sandro","Steven Defour",9
+"Alex Sandro","Kléber",1
+"Alex Sandro","Eliaquim Mangala",16
+"Alex Sandro","Christian Atsu",13
+"Alex Sandro","Danilo",3
+"Alex Sandro","Fernando",31
+"Alex Sandro","Jackson Martínez",12
+"Alex Sandro","Marat Izmailov",7
+"Nicolás Otamendi","Helton",26
+"Nicolás Otamendi","Lucho González",38
+"Nicolás Otamendi","Maicon",20
+"Nicolás Otamendi","João Moutinho",47
+"Nicolás Otamendi","James Rodríguez",20
+"Nicolás Otamendi","Miguel Lopes",1
+"Nicolás Otamendi","Silvestre Varela",21
+"Nicolás Otamendi","Alex Sandro",21
+"Nicolás Otamendi","Steven Defour",15
+"Nicolás Otamendi","Eliaquim Mangala",26
+"Nicolás Otamendi","Christian Atsu",5
+"Nicolás Otamendi","Danilo",34
+"Nicolás Otamendi","Fernando",26
+"Nicolás Otamendi","Jackson Martínez",13
+"Nicolás Otamendi","Abdoulaye Ba",13
+"Nicolás Otamendi","André Castro",2
+"Nicolás Otamendi","Marat Izmailov",2
+"Steven Defour","Lucho González",23
+"Steven Defour","Maicon",6
+"Steven Defour","João Moutinho",47
+"Steven Defour","Jackson Martinez",3
+"Steven Defour","James Rodríguez",17
+"Steven Defour","Miguel Lopes",11
+"Steven Defour","Silvestre Varela",14
+"Steven Defour","Alex Sandro",5
+"Steven Defour","Nicolás Otamendi",25
+"Steven Defour","Eliaquim Mangala",7
+"Steven Defour","Christian Atsu",1
+"Steven Defour","Danilo",17
+"Steven Defour","Fernando",2
+"Steven Defour","Jackson Martínez",7
+"Steven Defour","Abdoulaye Ba",8
+"Kléber","Steven Defour",1
+"Kléber","Christian Atsu",2
+"Eliaquim Mangala","Helton",18
+"Eliaquim Mangala","Lucho González",24
+"Eliaquim Mangala","Maicon",2
+"Eliaquim Mangala","João Moutinho",22
+"Eliaquim Mangala","Jackson Martinez",2
+"Eliaquim Mangala","James Rodríguez",9
+"Eliaquim Mangala","Silvestre Varela",24
+"Eliaquim Mangala","Alex Sandro",12
+"Eliaquim Mangala","Nicolás Otamendi",32
+"Eliaquim Mangala","Steven Defour",12
+"Eliaquim Mangala","Christian Atsu",4
+"Eliaquim Mangala","Danilo",5
+"Eliaquim Mangala","Fernando",15
+"Eliaquim Mangala","Jackson Martínez",10
+"Eliaquim Mangala","Abdoulaye Ba",2
+"Eliaquim Mangala","André Castro",1
+"Eliaquim Mangala","Marat Izmailov",2
+"Christian Atsu","Lucho González",2
+"Christian Atsu","Maicon",2
+"Christian Atsu","João Moutinho",10
+"Christian Atsu","James Rodríguez",2
+"Christian Atsu","Silvestre Varela",1
+"Christian Atsu","Alex Sandro",7
+"Christian Atsu","Nicolás Otamendi",1
+"Christian Atsu","Steven Defour",3
+"Christian Atsu","Kléber",2
+"Christian Atsu","Eliaquim Mangala",5
+"Christian Atsu","Danilo",4
+"Christian Atsu","Fernando",3
+"Christian Atsu","Jackson Martínez",2
+"Danilo","Helton",8
+"Danilo","Lucho González",38
+"Danilo","Maicon",10
+"Danilo","João Moutinho",34
+"Danilo","Jackson Martinez",5
+"Danilo","James Rodríguez",62
+"Danilo","Silvestre Varela",23
+"Danilo","Fernando",21
+"Danilo","Alex Sandro",1
+"Danilo","Nicolás Otamendi",20
+"Danilo","Eliaquim Mangala",9
+"Danilo","Christian Atsu",2
+"Danilo","Steven Defour",14
+"Danilo","Jackson Martínez",18
+"Danilo","Abdoulaye Ba",6
+"Danilo","André Castro",1
+"Danilo","Marat Izmailov",4
+"Fernando","Helton",5
+"Fernando","Danilo",24
+"Fernando","Lucho González",38
+"Fernando","Maicon",18
+"Fernando","João Moutinho",61
+"Fernando","Jackson Martinez",6
+"Fernando","James Rodríguez",35
+"Fernando","Silvestre Varela",20
+"Fernando","Alex Sandro",26
+"Fernando","Nicolás Otamendi",35
+"Fernando","Eliaquim Mangala",11
+"Fernando","Christian Atsu",6
+"Fernando","Steven Defour",4
+"Fernando","Jackson Martínez",7
+"Fernando","Marat Izmailov",3
+"Fernando","André Castro",1
+"Jackson Martínez","Danilo",11
+"Jackson Martínez","Lucho González",13
+"Jackson Martínez","João Moutinho",13
+"Jackson Martínez","James Rodríguez",12
+"Jackson Martínez","Silvestre Varela",15
+"Jackson Martínez","Eliaquim Mangala",4
+"Jackson Martínez","Nicolás Otamendi",4
+"Jackson Martínez","Steven Defour",3
+"Jackson Martínez","André Castro",1
+"Jackson Martínez","Christian Atsu",2
+"Jackson Martínez","Fernando",7
+"Jackson Martínez","Alex Sandro",8
+"Jackson Martínez","Marat Izmailov",4
+"Jackson Martínez","Maicon",2
+"Abdoulaye Ba","Helton",7
+"Abdoulaye Ba","Danilo",9
+"Abdoulaye Ba","Lucho González",5
+"Abdoulaye Ba","João Moutinho",6
+"Abdoulaye Ba","Jackson Martínez",1
+"Abdoulaye Ba","James Rodríguez",4
+"Abdoulaye Ba","Silvestre Varela",1
+"Abdoulaye Ba","Eliaquim Mangala",5
+"Abdoulaye Ba","Nicolás Otamendi",9
+"Abdoulaye Ba","Steven Defour",5
+"André Castro","Helton",1
+"André Castro","Lucho González",1
+"André Castro","João Moutinho",2
+"André Castro","James Rodríguez",1
+"André Castro","Eliaquim Mangala",1
+"André Castro","Abdoulaye Ba",1
+"André Castro","Alex Sandro",1
+"Marat Izmailov","Danilo",3
+"Marat Izmailov","Lucho González",6
+"Marat Izmailov","João Moutinho",6
+"Marat Izmailov","Jackson Martínez",4
+"Marat Izmailov","Eliaquim Mangala",3
+"Marat Izmailov","Fernando",2
+"Marat Izmailov","Alex Sandro",4
+"Marat Izmailov","Nicolás Otamendi",1

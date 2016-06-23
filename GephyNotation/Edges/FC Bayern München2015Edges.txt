@@ -1,0 +1,408 @@
+"Manuel Neuer","Xabi Alonso",23
+"Manuel Neuer","Medhi Benatia",32
+"Manuel Neuer","Robert Lewandowski",7
+"Manuel Neuer","Rafinha",34
+"Manuel Neuer","Jérôme Boateng",76
+"Manuel Neuer","Juan Bernat",33
+"Manuel Neuer","Mario Götze",2
+"Manuel Neuer","Philipp Lahm",14
+"Manuel Neuer","Thomas Müller",4
+"Manuel Neuer","David Alaba",28
+"Manuel Neuer","Dante",34
+"Manuel Neuer","Arjen Robben",5
+"Manuel Neuer","Mehdi Benatia",7
+"Manuel Neuer","Franck Ribéry",2
+"Manuel Neuer","Sebastian Rode",2
+"Manuel Neuer","Pierre Højbjerg",8
+"Manuel Neuer","Schweinsteiger",6
+"Manuel Neuer","Gianluca Gaudino",1
+"Manuel Neuer","Holger Badstuber",15
+"Manuel Neuer","Thiago Alcántara",3
+"Manuel Neuer","Javi Martínez",1
+"Xabi Alonso","Manuel Neuer",24
+"Xabi Alonso","Medhi Benatia",46
+"Xabi Alonso","Robert Lewandowski",19
+"Xabi Alonso","Rafinha",69
+"Xabi Alonso","Jérôme Boateng",76
+"Xabi Alonso","Juan Bernat",79
+"Xabi Alonso","Mario Götze",69
+"Xabi Alonso","Philipp Lahm",92
+"Xabi Alonso","Thomas Müller",29
+"Xabi Alonso","David Alaba",69
+"Xabi Alonso","Dante",33
+"Xabi Alonso","Arjen Robben",37
+"Xabi Alonso","Claudio Pizarro",1
+"Xabi Alonso","Mehdi Benatia",14
+"Xabi Alonso","Xherdan Shaqiri",3
+"Xabi Alonso","Franck Ribéry",26
+"Xabi Alonso","Sebastian Rode",13
+"Xabi Alonso","Pierre Højbjerg",11
+"Xabi Alonso","Schweinsteiger",33
+"Xabi Alonso","Holger Badstuber",2
+"Xabi Alonso","Thiago Alcántara",57
+"Medhi Benatia","Manuel Neuer",36
+"Medhi Benatia","Xabi Alonso",43
+"Medhi Benatia","Robert Lewandowski",7
+"Medhi Benatia","Rafinha",48
+"Medhi Benatia","Jérôme Boateng",67
+"Medhi Benatia","Juan Bernat",13
+"Medhi Benatia","Mario Götze",9
+"Medhi Benatia","Philipp Lahm",41
+"Medhi Benatia","Thomas Müller",10
+"Medhi Benatia","David Alaba",7
+"Medhi Benatia","Arjen Robben",6
+"Medhi Benatia","Franck Ribéry",4
+"Medhi Benatia","Xherdan Shaqiri",1
+"Medhi Benatia","Sebastian Rode",5
+"Medhi Benatia","Pierre Højbjerg",1
+"Medhi Benatia","Schweinsteiger",7
+"Medhi Benatia","Thiago Alcántara",15
+"Robert Lewandowski","Xabi Alonso",11
+"Robert Lewandowski","Rafinha",13
+"Robert Lewandowski","Jérôme Boateng",6
+"Robert Lewandowski","Juan Bernat",25
+"Robert Lewandowski","Mario Götze",24
+"Robert Lewandowski","Philipp Lahm",18
+"Robert Lewandowski","Thomas Müller",19
+"Robert Lewandowski","David Alaba",11
+"Robert Lewandowski","Dante",3
+"Robert Lewandowski","Arjen Robben",11
+"Robert Lewandowski","Claudio Pizarro",1
+"Robert Lewandowski","Mehdi Benatia",3
+"Robert Lewandowski","Franck Ribéry",13
+"Robert Lewandowski","Sebastian Rode",6
+"Robert Lewandowski","Pierre Højbjerg",7
+"Robert Lewandowski","Schweinsteiger",8
+"Robert Lewandowski","Holger Badstuber",3
+"Robert Lewandowski","Thiago Alcántara",8
+"Rafinha","Manuel Neuer",24
+"Rafinha","Xabi Alonso",70
+"Rafinha","Medhi Benatia",39
+"Rafinha","Robert Lewandowski",15
+"Rafinha","Jérôme Boateng",83
+"Rafinha","Juan Bernat",11
+"Rafinha","Mario Götze",26
+"Rafinha","Philipp Lahm",72
+"Rafinha","Thomas Müller",36
+"Rafinha","David Alaba",19
+"Rafinha","Dante",7
+"Rafinha","Arjen Robben",47
+"Rafinha","Mehdi Benatia",1
+"Rafinha","Xherdan Shaqiri",6
+"Rafinha","Franck Ribéry",12
+"Rafinha","Sebastian Rode",16
+"Rafinha","Pierre Højbjerg",12
+"Rafinha","Schweinsteiger",37
+"Rafinha","Holger Badstuber",13
+"Rafinha","Thiago Alcántara",22
+"Jérôme Boateng","Manuel Neuer",77
+"Jérôme Boateng","Xabi Alonso",78
+"Jérôme Boateng","Medhi Benatia",49
+"Jérôme Boateng","Robert Lewandowski",36
+"Jérôme Boateng","Rafinha",69
+"Jérôme Boateng","Juan Bernat",57
+"Jérôme Boateng","Mario Götze",23
+"Jérôme Boateng","Philipp Lahm",35
+"Jérôme Boateng","Thomas Müller",12
+"Jérôme Boateng","David Alaba",48
+"Jérôme Boateng","Dante",35
+"Jérôme Boateng","Arjen Robben",21
+"Jérôme Boateng","Claudio Pizarro",1
+"Jérôme Boateng","Franck Ribéry",28
+"Jérôme Boateng","Xherdan Shaqiri",1
+"Jérôme Boateng","Sebastian Rode",25
+"Jérôme Boateng","Pierre Højbjerg",23
+"Jérôme Boateng","Schweinsteiger",28
+"Jérôme Boateng","Gianluca Gaudino",6
+"Jérôme Boateng","Mitchell Weiser",2
+"Jérôme Boateng","Holger Badstuber",13
+"Jérôme Boateng","Thiago Alcántara",17
+"Juan Bernat","Manuel Neuer",6
+"Juan Bernat","Xabi Alonso",68
+"Juan Bernat","Medhi Benatia",15
+"Juan Bernat","Robert Lewandowski",22
+"Juan Bernat","Rafinha",5
+"Juan Bernat","Jérôme Boateng",50
+"Juan Bernat","Mario Götze",49
+"Juan Bernat","Philipp Lahm",13
+"Juan Bernat","Thomas Müller",17
+"Juan Bernat","David Alaba",68
+"Juan Bernat","Dante",33
+"Juan Bernat","Arjen Robben",6
+"Juan Bernat","Mehdi Benatia",3
+"Juan Bernat","Xherdan Shaqiri",2
+"Juan Bernat","Franck Ribéry",60
+"Juan Bernat","Sebastian Rode",13
+"Juan Bernat","Pierre Højbjerg",25
+"Juan Bernat","Schweinsteiger",49
+"Juan Bernat","Gianluca Gaudino",1
+"Juan Bernat","Holger Badstuber",7
+"Juan Bernat","Thiago Alcántara",39
+"Mario Götze","Manuel Neuer",2
+"Mario Götze","Xabi Alonso",36
+"Mario Götze","Medhi Benatia",8
+"Mario Götze","Robert Lewandowski",35
+"Mario Götze","Rafinha",30
+"Mario Götze","Jérôme Boateng",18
+"Mario Götze","Juan Bernat",45
+"Mario Götze","Philipp Lahm",21
+"Mario Götze","Thomas Müller",29
+"Mario Götze","David Alaba",34
+"Mario Götze","Dante",10
+"Mario Götze","Arjen Robben",27
+"Mario Götze","Franck Ribéry",24
+"Mario Götze","Sebastian Rode",12
+"Mario Götze","Pierre Højbjerg",1
+"Mario Götze","Gianluca Gaudino",4
+"Mario Götze","Schweinsteiger",24
+"Mario Götze","Mitchell Weiser",1
+"Mario Götze","Holger Badstuber",1
+"Mario Götze","Thiago Alcántara",20
+"Philipp Lahm","Manuel Neuer",12
+"Philipp Lahm","Xabi Alonso",72
+"Philipp Lahm","Medhi Benatia",32
+"Philipp Lahm","Robert Lewandowski",23
+"Philipp Lahm","Rafinha",82
+"Philipp Lahm","Jérôme Boateng",40
+"Philipp Lahm","Juan Bernat",11
+"Philipp Lahm","Mario Götze",30
+"Philipp Lahm","Thomas Müller",41
+"Philipp Lahm","David Alaba",19
+"Philipp Lahm","Dante",23
+"Philipp Lahm","Arjen Robben",51
+"Philipp Lahm","Mehdi Benatia",20
+"Philipp Lahm","Xherdan Shaqiri",4
+"Philipp Lahm","Franck Ribéry",6
+"Philipp Lahm","Sebastian Rode",4
+"Philipp Lahm","Thiago Alcántara",16
+"Philipp Lahm","Holger Badstuber",3
+"Philipp Lahm","Mitchell Weiser",1
+"Philipp Lahm","Schweinsteiger",12
+"Thomas Müller","Manuel Neuer",1
+"Thomas Müller","Xabi Alonso",16
+"Thomas Müller","Medhi Benatia",5
+"Thomas Müller","Robert Lewandowski",33
+"Thomas Müller","Rafinha",32
+"Thomas Müller","Jérôme Boateng",9
+"Thomas Müller","Juan Bernat",13
+"Thomas Müller","Mario Götze",19
+"Thomas Müller","Philipp Lahm",32
+"Thomas Müller","David Alaba",6
+"Thomas Müller","Dante",3
+"Thomas Müller","Arjen Robben",13
+"Thomas Müller","Mehdi Benatia",4
+"Thomas Müller","Xherdan Shaqiri",1
+"Thomas Müller","Franck Ribéry",8
+"Thomas Müller","Gianluca Gaudino",3
+"Thomas Müller","Sebastian Rode",4
+"Thomas Müller","Schweinsteiger",9
+"Thomas Müller","Pierre Højbjerg",3
+"Thomas Müller","Holger Badstuber",2
+"Thomas Müller","Thiago Alcántara",6
+"David Alaba","Manuel Neuer",23
+"David Alaba","Xabi Alonso",70
+"David Alaba","Medhi Benatia",7
+"David Alaba","Robert Lewandowski",16
+"David Alaba","Rafinha",12
+"David Alaba","Jérôme Boateng",27
+"David Alaba","Juan Bernat",67
+"David Alaba","Mario Götze",41
+"David Alaba","Philipp Lahm",23
+"David Alaba","Thomas Müller",13
+"David Alaba","Dante",31
+"David Alaba","Arjen Robben",5
+"David Alaba","Claudio Pizarro",1
+"David Alaba","Mehdi Benatia",16
+"David Alaba","Xherdan Shaqiri",3
+"David Alaba","Franck Ribéry",55
+"David Alaba","Sebastian Rode",5
+"David Alaba","Schweinsteiger",22
+"David Alaba","Holger Badstuber",9
+"Dante","Manuel Neuer",26
+"Dante","Xabi Alonso",38
+"Dante","Robert Lewandowski",7
+"Dante","Rafinha",9
+"Dante","Jérôme Boateng",20
+"Dante","Juan Bernat",47
+"Dante","Mario Götze",16
+"Dante","Philipp Lahm",19
+"Dante","Thomas Müller",3
+"Dante","David Alaba",37
+"Dante","Arjen Robben",2
+"Dante","Mehdi Benatia",27
+"Dante","Franck Ribéry",13
+"Dante","Sebastian Rode",13
+"Dante","Pierre Højbjerg",22
+"Dante","Schweinsteiger",16
+"Dante","Holger Badstuber",8
+"Dante","Thiago Alcántara",11
+"Arjen Robben","Manuel Neuer",1
+"Arjen Robben","Xabi Alonso",20
+"Arjen Robben","Medhi Benatia",7
+"Arjen Robben","Robert Lewandowski",12
+"Arjen Robben","Rafinha",33
+"Arjen Robben","Jérôme Boateng",9
+"Arjen Robben","Juan Bernat",12
+"Arjen Robben","Mario Götze",23
+"Arjen Robben","Philipp Lahm",30
+"Arjen Robben","Thomas Müller",22
+"Arjen Robben","David Alaba",5
+"Arjen Robben","Dante",3
+"Arjen Robben","Claudio Pizarro",1
+"Arjen Robben","Mehdi Benatia",5
+"Arjen Robben","Xherdan Shaqiri",5
+"Arjen Robben","Franck Ribéry",22
+"Arjen Robben","Sebastian Rode",10
+"Arjen Robben","Pierre Højbjerg",12
+"Arjen Robben","Schweinsteiger",10
+"Arjen Robben","Gianluca Gaudino",1
+"Arjen Robben","Mitchell Weiser",2
+"Claudio Pizarro","Medhi Benatia",1
+"Claudio Pizarro","Rafinha",1
+"Claudio Pizarro","Juan Bernat",1
+"Claudio Pizarro","Mario Götze",1
+"Claudio Pizarro","David Alaba",2
+"Mehdi Benatia","Manuel Neuer",3
+"Mehdi Benatia","Xabi Alonso",24
+"Mehdi Benatia","Dante",31
+"Mehdi Benatia","Robert Lewandowski",2
+"Mehdi Benatia","Arjen Robben",8
+"Mehdi Benatia","Juan Bernat",1
+"Mehdi Benatia","Mario Götze",1
+"Mehdi Benatia","Philipp Lahm",31
+"Mehdi Benatia","Thomas Müller",5
+"Mehdi Benatia","David Alaba",5
+"Mehdi Benatia","Rafinha",2
+"Xherdan Shaqiri","Robert Lewandowski",1
+"Xherdan Shaqiri","Arjen Robben",1
+"Xherdan Shaqiri","Juan Bernat",1
+"Xherdan Shaqiri","Philipp Lahm",4
+"Xherdan Shaqiri","David Alaba",4
+"Xherdan Shaqiri","Rafinha",6
+"Xherdan Shaqiri","Claudio Pizarro",1
+"Xherdan Shaqiri","Medhi Benatia",1
+"Xherdan Shaqiri","Jérôme Boateng",1
+"Xherdan Shaqiri","Franck Ribéry",3
+"Xherdan Shaqiri","Sebastian Rode",2
+"Xherdan Shaqiri","Pierre Højbjerg",2
+"Franck Ribéry","Manuel Neuer",3
+"Franck Ribéry","Xabi Alonso",26
+"Franck Ribéry","Medhi Benatia",2
+"Franck Ribéry","Robert Lewandowski",19
+"Franck Ribéry","Arjen Robben",21
+"Franck Ribéry","Jérôme Boateng",16
+"Franck Ribéry","Juan Bernat",35
+"Franck Ribéry","Mario Götze",36
+"Franck Ribéry","Philipp Lahm",6
+"Franck Ribéry","Thomas Müller",12
+"Franck Ribéry","David Alaba",37
+"Franck Ribéry","Xherdan Shaqiri",3
+"Franck Ribéry","Rafinha",15
+"Franck Ribéry","Sebastian Rode",6
+"Franck Ribéry","Pierre Højbjerg",13
+"Franck Ribéry","Dante",3
+"Franck Ribéry","Schweinsteiger",25
+"Franck Ribéry","Gianluca Gaudino",1
+"Franck Ribéry","Holger Badstuber",8
+"Sebastian Rode","Manuel Neuer",3
+"Sebastian Rode","Xabi Alonso",12
+"Sebastian Rode","Medhi Benatia",9
+"Sebastian Rode","Franck Ribéry",6
+"Sebastian Rode","Robert Lewandowski",8
+"Sebastian Rode","Rafinha",19
+"Sebastian Rode","Jérôme Boateng",32
+"Sebastian Rode","Juan Bernat",14
+"Sebastian Rode","Mario Götze",16
+"Sebastian Rode","Philipp Lahm",1
+"Sebastian Rode","David Alaba",4
+"Sebastian Rode","Xherdan Shaqiri",1
+"Sebastian Rode","Pierre Højbjerg",13
+"Sebastian Rode","Arjen Robben",6
+"Sebastian Rode","Dante",11
+"Sebastian Rode","Schweinsteiger",34
+"Sebastian Rode","Gianluca Gaudino",6
+"Sebastian Rode","Thomas Müller",8
+"Sebastian Rode","Mitchell Weiser",1
+"Sebastian Rode","Holger Badstuber",7
+"Sebastian Rode","Thiago Alcántara",8
+"Pierre Højbjerg","Manuel Neuer",1
+"Pierre Højbjerg","Xabi Alonso",16
+"Pierre Højbjerg","Medhi Benatia",1
+"Pierre Højbjerg","Franck Ribéry",16
+"Pierre Højbjerg","Robert Lewandowski",4
+"Pierre Højbjerg","Rafinha",10
+"Pierre Højbjerg","Jérôme Boateng",30
+"Pierre Højbjerg","Juan Bernat",16
+"Pierre Højbjerg","Mario Götze",4
+"Pierre Højbjerg","Xherdan Shaqiri",2
+"Pierre Højbjerg","Sebastian Rode",24
+"Pierre Højbjerg","Arjen Robben",16
+"Pierre Højbjerg","Dante",14
+"Pierre Højbjerg","Schweinsteiger",20
+"Pierre Højbjerg","Gianluca Gaudino",11
+"Pierre Højbjerg","Thomas Müller",4
+"Schweinsteiger","Manuel Neuer",4
+"Schweinsteiger","Xabi Alonso",21
+"Schweinsteiger","Medhi Benatia",6
+"Schweinsteiger","Franck Ribéry",46
+"Schweinsteiger","Robert Lewandowski",26
+"Schweinsteiger","Arjen Robben",16
+"Schweinsteiger","Rafinha",23
+"Schweinsteiger","Jérôme Boateng",15
+"Schweinsteiger","Juan Bernat",44
+"Schweinsteiger","Sebastian Rode",35
+"Schweinsteiger","Pierre Højbjerg",18
+"Schweinsteiger","Dante",8
+"Schweinsteiger","Gianluca Gaudino",2
+"Schweinsteiger","Mario Götze",35
+"Schweinsteiger","Thomas Müller",20
+"Schweinsteiger","Mitchell Weiser",2
+"Schweinsteiger","David Alaba",20
+"Schweinsteiger","Holger Badstuber",4
+"Schweinsteiger","Thiago Alcántara",15
+"Schweinsteiger","Philipp Lahm",14
+"Gianluca Gaudino","Franck Ribéry",2
+"Gianluca Gaudino","Jérôme Boateng",3
+"Gianluca Gaudino","Mario Götze",2
+"Gianluca Gaudino","Sebastian Rode",5
+"Gianluca Gaudino","Thomas Müller",4
+"Gianluca Gaudino","Schweinsteiger",7
+"Gianluca Gaudino","Pierre Højbjerg",8
+"Gianluca Gaudino","Arjen Robben",2
+"Mitchell Weiser","Dante",1
+"Mitchell Weiser","Jérôme Boateng",2
+"Mitchell Weiser","Mario Götze",1
+"Mitchell Weiser","Pierre Højbjerg",1
+"Mitchell Weiser","Robert Lewandowski",1
+"Mitchell Weiser","Arjen Robben",4
+"Mitchell Weiser","Philipp Lahm",1
+"Holger Badstuber","Manuel Neuer",18
+"Holger Badstuber","Xabi Alonso",3
+"Holger Badstuber","Franck Ribéry",6
+"Holger Badstuber","Rafinha",11
+"Holger Badstuber","Jérôme Boateng",16
+"Holger Badstuber","Juan Bernat",9
+"Holger Badstuber","Mario Götze",8
+"Holger Badstuber","Thomas Müller",1
+"Holger Badstuber","David Alaba",13
+"Holger Badstuber","Schweinsteiger",9
+"Holger Badstuber","Robert Lewandowski",2
+"Holger Badstuber","Dante",1
+"Holger Badstuber","Sebastian Rode",10
+"Holger Badstuber","Thiago Alcántara",9
+"Holger Badstuber","Philipp Lahm",8
+"Thiago Alcántara","Manuel Neuer",2
+"Thiago Alcántara","Xabi Alonso",30
+"Thiago Alcántara","Dante",8
+"Thiago Alcántara","Robert Lewandowski",11
+"Thiago Alcántara","Rafinha",23
+"Thiago Alcántara","Jérôme Boateng",21
+"Thiago Alcántara","Juan Bernat",38
+"Thiago Alcántara","Mario Götze",22
+"Thiago Alcántara","Philipp Lahm",21
+"Thiago Alcántara","Thomas Müller",23
+"Thiago Alcántara","Sebastian Rode",11
+"Thiago Alcántara","Holger Badstuber",7
+"Thiago Alcántara","Medhi Benatia",13
+"Thiago Alcántara","Schweinsteiger",14
+"Javi Martínez","Medhi Benatia",1

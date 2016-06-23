@@ -1,0 +1,320 @@
+"Vladislav Stoyanov","Mihail Aleksandrov",1
+"Vladislav Stoyanov","Svetoslav Dyakov",18
+"Vladislav Stoyanov","Yordan Minev",7
+"Vladislav Stoyanov","Cosmin Moţi",14
+"Vladislav Stoyanov","Georgi Terziev",24
+"Vladislav Stoyanov","Júnior Caiçara",26
+"Vladislav Stoyanov","Marcelinho",2
+"Vladislav Stoyanov","Virgil Misidjan",2
+"Vladislav Stoyanov","Hamza Younes",1
+"Vladislav Stoyanov","Fábio Espinho",8
+"Vladislav Stoyanov","Roman Bezjak",2
+"Vladislav Stoyanov","Dani Abalo",4
+"Vladislav Stoyanov","Wanderson",1
+"Vladislav Stoyanov","Mihail Alexandrov",5
+"Vladislav Stoyanov","Aleksandar Aleksandrov",2
+"Vladislav Stoyanov","Anicet Abel",1
+"Vladislav Stoyanov","Brayan Angulo",2
+"Mihail Aleksandrov","Svetoslav Dyakov",7
+"Mihail Aleksandrov","Yordan Minev",2
+"Mihail Aleksandrov","Cosmin Moţi",3
+"Mihail Aleksandrov","Júnior Caiçara",17
+"Mihail Aleksandrov","Marcelinho",12
+"Mihail Aleksandrov","Virgil Misidjan",3
+"Mihail Aleksandrov","Hamza Younes",3
+"Mihail Aleksandrov","Roman Bezjak",3
+"Mihail Aleksandrov","Dani Abalo",1
+"Mihail Aleksandrov","Anicet Abel",1
+"Mihail Aleksandrov","Aleksandar Aleksandrov",2
+"Svetoslav Dyakov","Vladislav Stoyanov",5
+"Svetoslav Dyakov","Mihail Aleksandrov",9
+"Svetoslav Dyakov","Hristo Zlatinski",7
+"Svetoslav Dyakov","Yordan Minev",33
+"Svetoslav Dyakov","Cosmin Moţi",34
+"Svetoslav Dyakov","Georgi Terziev",31
+"Svetoslav Dyakov","Júnior Caiçara",71
+"Svetoslav Dyakov","Marcelinho",53
+"Svetoslav Dyakov","Virgil Misidjan",13
+"Svetoslav Dyakov","Hamza Younes",1
+"Svetoslav Dyakov","Fábio Espinho",65
+"Svetoslav Dyakov","Roman Bezjak",9
+"Svetoslav Dyakov","Dani Abalo",25
+"Svetoslav Dyakov","Wanderson",8
+"Svetoslav Dyakov","Younes Hamza",4
+"Svetoslav Dyakov","Anicet Abel",15
+"Svetoslav Dyakov","Aleksandar Aleksandrov",7
+"Svetoslav Dyakov","Mihail Alexandrov",17
+"Svetoslav Dyakov","Brayan Angulo",7
+"Svetoslav Dyakov","Aleksandrov",8
+"Svetoslav Dyakov","Júnior Quixadá",1
+"Hristo Zlatinski","Mihail Aleksandrov",3
+"Hristo Zlatinski","Svetoslav Dyakov",6
+"Hristo Zlatinski","Yordan Minev",2
+"Hristo Zlatinski","Cosmin Moţi",6
+"Hristo Zlatinski","Júnior Caiçara",2
+"Hristo Zlatinski","Virgil Misidjan",2
+"Hristo Zlatinski","Hamza Younes",2
+"Yordan Minev","Vladislav Stoyanov",3
+"Yordan Minev","Mihail Aleksandrov",2
+"Yordan Minev","Svetoslav Dyakov",20
+"Yordan Minev","Hristo Zlatinski",3
+"Yordan Minev","Cosmin Moţi",26
+"Yordan Minev","Georgi Terziev",1
+"Yordan Minev","Júnior Caiçara",1
+"Yordan Minev","Marcelinho",12
+"Yordan Minev","Virgil Misidjan",33
+"Yordan Minev","Hamza Younes",1
+"Yordan Minev","Fábio Espinho",38
+"Yordan Minev","Roman Bezjak",12
+"Yordan Minev","Dani Abalo",22
+"Yordan Minev","Wanderson",7
+"Yordan Minev","Younes Hamza",3
+"Yordan Minev","Milan Borjan",2
+"Yordan Minev","Anicet Abel",8
+"Yordan Minev","Mihail Alexandrov",1
+"Yordan Minev","Júnior Quixadá",3
+"Cosmin Moţi","Vladislav Stoyanov",17
+"Cosmin Moţi","Mihail Aleksandrov",5
+"Cosmin Moţi","Svetoslav Dyakov",38
+"Cosmin Moţi","Hristo Zlatinski",1
+"Cosmin Moţi","Yordan Minev",49
+"Cosmin Moţi","Georgi Terziev",38
+"Cosmin Moţi","Júnior Caiçara",16
+"Cosmin Moţi","Marcelinho",29
+"Cosmin Moţi","Virgil Misidjan",11
+"Cosmin Moţi","Hamza Younes",1
+"Cosmin Moţi","Fábio Espinho",44
+"Cosmin Moţi","Roman Bezjak",2
+"Cosmin Moţi","Dani Abalo",4
+"Cosmin Moţi","Wanderson",1
+"Cosmin Moţi","Younes Hamza",1
+"Cosmin Moţi","Milan Borjan",4
+"Cosmin Moţi","Anicet Abel",4
+"Cosmin Moţi","Aleksandar Aleksandrov",4
+"Cosmin Moţi","Mihail Alexandrov",1
+"Cosmin Moţi","Brayan Angulo",1
+"Cosmin Moţi","Júnior Quixadá",3
+"Georgi Terziev","Vladislav Stoyanov",25
+"Georgi Terziev","Mihail Aleksandrov",8
+"Georgi Terziev","Svetoslav Dyakov",28
+"Georgi Terziev","Hristo Zlatinski",5
+"Georgi Terziev","Yordan Minev",6
+"Georgi Terziev","Cosmin Moţi",59
+"Georgi Terziev","Júnior Caiçara",52
+"Georgi Terziev","Marcelinho",10
+"Georgi Terziev","Virgil Misidjan",2
+"Georgi Terziev","Hamza Younes",1
+"Georgi Terziev","Fábio Espinho",26
+"Georgi Terziev","Anicet",1
+"Georgi Terziev","Roman Bezjak",2
+"Georgi Terziev","Dani Abalo",4
+"Georgi Terziev","Wanderson",2
+"Georgi Terziev","Younes Hamza",1
+"Georgi Terziev","Mihail Alexandrov",9
+"Georgi Terziev","Brayan Angulo",1
+"Georgi Terziev","Aleksandrov",10
+"Georgi Terziev","Júnior Quixadá",1
+"Júnior Caiçara","Vladislav Stoyanov",9
+"Júnior Caiçara","Mihail Aleksandrov",19
+"Júnior Caiçara","Svetoslav Dyakov",49
+"Júnior Caiçara","Hristo Zlatinski",2
+"Júnior Caiçara","Yordan Minev",5
+"Júnior Caiçara","Cosmin Moţi",8
+"Júnior Caiçara","Georgi Terziev",44
+"Júnior Caiçara","Marcelinho",44
+"Júnior Caiçara","Virgil Misidjan",23
+"Júnior Caiçara","Hamza Younes",3
+"Júnior Caiçara","Fábio Espinho",46
+"Júnior Caiçara","Anicet",2
+"Júnior Caiçara","Roman Bezjak",7
+"Júnior Caiçara","Dani Abalo",37
+"Júnior Caiçara","Wanderson",12
+"Júnior Caiçara","Younes Hamza",5
+"Júnior Caiçara","Anicet Abel",5
+"Júnior Caiçara","Aleksandar Aleksandrov",2
+"Júnior Caiçara","Mihail Alexandrov",52
+"Júnior Caiçara","Aleksandrov",1
+"Júnior Caiçara","Júnior Quixadá",1
+"Marcelinho","Vladislav Stoyanov",2
+"Marcelinho","Mihail Aleksandrov",5
+"Marcelinho","Svetoslav Dyakov",39
+"Marcelinho","Hristo Zlatinski",2
+"Marcelinho","Yordan Minev",18
+"Marcelinho","Cosmin Moţi",9
+"Marcelinho","Georgi Terziev",14
+"Marcelinho","Júnior Caiçara",45
+"Marcelinho","Virgil Misidjan",19
+"Marcelinho","Hamza Younes",3
+"Marcelinho","Fábio Espinho",21
+"Marcelinho","Roman Bezjak",12
+"Marcelinho","Dani Abalo",24
+"Marcelinho","Wanderson",5
+"Marcelinho","Younes Hamza",6
+"Marcelinho","Anicet Abel",5
+"Marcelinho","Aleksandar Aleksandrov",3
+"Marcelinho","Mihail Alexandrov",15
+"Marcelinho","Brayan Angulo",3
+"Marcelinho","Aleksandrov",1
+"Virgil Misidjan","Mihail Aleksandrov",2
+"Virgil Misidjan","Svetoslav Dyakov",14
+"Virgil Misidjan","Yordan Minev",20
+"Virgil Misidjan","Cosmin Moţi",9
+"Virgil Misidjan","Júnior Caiçara",14
+"Virgil Misidjan","Marcelinho",12
+"Virgil Misidjan","Hamza Younes",3
+"Virgil Misidjan","Fábio Espinho",16
+"Virgil Misidjan","Roman Bezjak",2
+"Virgil Misidjan","Dani Abalo",5
+"Virgil Misidjan","Wanderson",1
+"Virgil Misidjan","Anicet Abel",4
+"Virgil Misidjan","Aleksandar Aleksandrov",1
+"Virgil Misidjan","Mihail Alexandrov",2
+"Hamza Younes","Mihail Aleksandrov",3
+"Hamza Younes","Svetoslav Dyakov",2
+"Hamza Younes","Cosmin Moţi",1
+"Hamza Younes","Georgi Terziev",1
+"Hamza Younes","Júnior Caiçara",6
+"Hamza Younes","Marcelinho",3
+"Hamza Younes","Virgil Misidjan",3
+"Fábio Espinho","Vladislav Stoyanov",4
+"Fábio Espinho","Mihail Aleksandrov",3
+"Fábio Espinho","Svetoslav Dyakov",54
+"Fábio Espinho","Yordan Minev",32
+"Fábio Espinho","Cosmin Moţi",26
+"Fábio Espinho","Georgi Terziev",26
+"Fábio Espinho","Júnior Caiçara",66
+"Fábio Espinho","Marcelinho",34
+"Fábio Espinho","Virgil Misidjan",16
+"Fábio Espinho","Hamza Younes",3
+"Fábio Espinho","Roman Bezjak",8
+"Fábio Espinho","Dani Abalo",11
+"Fábio Espinho","Wanderson",4
+"Fábio Espinho","Younes Hamza",2
+"Fábio Espinho","Anicet Abel",2
+"Fábio Espinho","Aleksandar Aleksandrov",3
+"Fábio Espinho","Mihail Alexandrov",25
+"Fábio Espinho","Brayan Angulo",6
+"Fábio Espinho","Júnior Quixadá",1
+"Anicet","Mihail Aleksandrov",1
+"Anicet","Svetoslav Dyakov",1
+"Anicet","Hamza Younes",1
+"Roman Bezjak","Mihail Aleksandrov",3
+"Roman Bezjak","Fábio Espinho",3
+"Roman Bezjak","Svetoslav Dyakov",2
+"Roman Bezjak","Yordan Minev",6
+"Roman Bezjak","Júnior Caiçara",6
+"Roman Bezjak","Marcelinho",22
+"Roman Bezjak","Virgil Misidjan",5
+"Roman Bezjak","Dani Abalo",8
+"Roman Bezjak","Wanderson",1
+"Roman Bezjak","Mihail Alexandrov",6
+"Dani Abalo","Fábio Espinho",19
+"Dani Abalo","Roman Bezjak",4
+"Dani Abalo","Svetoslav Dyakov",21
+"Dani Abalo","Yordan Minev",10
+"Dani Abalo","Cosmin Moţi",9
+"Dani Abalo","Georgi Terziev",4
+"Dani Abalo","Júnior Caiçara",28
+"Dani Abalo","Marcelinho",22
+"Dani Abalo","Virgil Misidjan",5
+"Dani Abalo","Wanderson",4
+"Dani Abalo","Younes Hamza",3
+"Dani Abalo","Anicet Abel",2
+"Dani Abalo","Mihail Alexandrov",9
+"Dani Abalo","Brayan Angulo",5
+"Dani Abalo","Aleksandrov",3
+"Wanderson","Vladislav Stoyanov",1
+"Wanderson","Fábio Espinho",3
+"Wanderson","Svetoslav Dyakov",10
+"Wanderson","Yordan Minev",5
+"Wanderson","Georgi Terziev",1
+"Wanderson","Júnior Caiçara",4
+"Wanderson","Marcelinho",7
+"Wanderson","Virgil Misidjan",5
+"Wanderson","Dani Abalo",3
+"Wanderson","Younes Hamza",2
+"Wanderson","Anicet Abel",4
+"Wanderson","Júnior Quixadá",5
+"Younes Hamza","Fábio Espinho",3
+"Younes Hamza","Svetoslav Dyakov",6
+"Younes Hamza","Yordan Minev",3
+"Younes Hamza","Georgi Terziev",1
+"Younes Hamza","Júnior Caiçara",2
+"Younes Hamza","Marcelinho",3
+"Younes Hamza","Dani Abalo",1
+"Younes Hamza","Mihail Alexandrov",2
+"Younes Hamza","Brayan Angulo",3
+"Younes Hamza","Aleksandrov",1
+"Milan Borjan","Aleksandar Aleksandrov",4
+"Milan Borjan","Svetoslav Dyakov",1
+"Milan Borjan","Yordan Minev",2
+"Milan Borjan","Cosmin Moţi",4
+"Milan Borjan","Júnior Caiçara",4
+"Milan Borjan","Dani Abalo",1
+"Anicet Abel","Milan Borjan",1
+"Anicet Abel","Mihail Aleksandrov",1
+"Anicet Abel","Roman Bezjak",1
+"Anicet Abel","Aleksandar Aleksandrov",5
+"Anicet Abel","Svetoslav Dyakov",16
+"Anicet Abel","Yordan Minev",5
+"Anicet Abel","Cosmin Moţi",6
+"Anicet Abel","Júnior Caiçara",8
+"Anicet Abel","Marcelinho",4
+"Anicet Abel","Virgil Misidjan",3
+"Anicet Abel","Fábio Espinho",3
+"Anicet Abel","Dani Abalo",4
+"Anicet Abel","Mihail Alexandrov",3
+"Anicet Abel","Wanderson",5
+"Anicet Abel","Georgi Terziev",1
+"Anicet Abel","Júnior Quixadá",1
+"Aleksandar Aleksandrov","Milan Borjan",5
+"Aleksandar Aleksandrov","Mihail Aleksandrov",2
+"Aleksandar Aleksandrov","Roman Bezjak",2
+"Aleksandar Aleksandrov","Anicet Abel",3
+"Aleksandar Aleksandrov","Svetoslav Dyakov",6
+"Aleksandar Aleksandrov","Yordan Minev",2
+"Aleksandar Aleksandrov","Cosmin Moţi",4
+"Aleksandar Aleksandrov","Júnior Caiçara",7
+"Aleksandar Aleksandrov","Marcelinho",2
+"Aleksandar Aleksandrov","Fábio Espinho",2
+"Aleksandar Aleksandrov","Vladislav Stoyanov",6
+"Aleksandar Aleksandrov","Mihail Alexandrov",2
+"Mihail Alexandrov","Vladislav Stoyanov",3
+"Mihail Alexandrov","Fábio Espinho",16
+"Mihail Alexandrov","Roman Bezjak",5
+"Mihail Alexandrov","Aleksandar Aleksandrov",1
+"Mihail Alexandrov","Dani Abalo",4
+"Mihail Alexandrov","Svetoslav Dyakov",14
+"Mihail Alexandrov","Cosmin Moţi",1
+"Mihail Alexandrov","Júnior Caiçara",35
+"Mihail Alexandrov","Marcelinho",21
+"Mihail Alexandrov","Virgil Misidjan",1
+"Mihail Alexandrov","Georgi Terziev",7
+"Mihail Alexandrov","Younes Hamza",4
+"Mihail Alexandrov","Aleksandrov",2
+"Brayan Angulo","Vladislav Stoyanov",1
+"Brayan Angulo","Mihail Alexandrov",1
+"Brayan Angulo","Fábio Espinho",3
+"Brayan Angulo","Roman Bezjak",1
+"Brayan Angulo","Dani Abalo",16
+"Brayan Angulo","Svetoslav Dyakov",3
+"Brayan Angulo","Cosmin Moţi",1
+"Brayan Angulo","Georgi Terziev",1
+"Brayan Angulo","Marcelinho",6
+"Brayan Angulo","Anicet Abel",1
+"Brayan Angulo","Aleksandrov",6
+"Brayan Angulo","Younes Hamza",1
+"Aleksandrov","Vladislav Stoyanov",2
+"Aleksandrov","Brayan Angulo",12
+"Aleksandrov","Svetoslav Dyakov",4
+"Aleksandrov","Georgi Terziev",13
+"Aleksandrov","Júnior Caiçara",3
+"Aleksandrov","Marcelinho",3
+"Aleksandrov","Anicet Abel",2
+"Júnior Quixadá","Dani Abalo",2
+"Júnior Quixadá","Svetoslav Dyakov",1
+"Júnior Quixadá","Yordan Minev",1
+"Júnior Quixadá","Cosmin Moţi",1
+"Júnior Quixadá","Marcelinho",4
+"Júnior Quixadá","Wanderson",3
+"Júnior Quixadá","Anicet Abel",2

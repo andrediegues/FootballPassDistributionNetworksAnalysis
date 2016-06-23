@@ -1,0 +1,275 @@
+"Jeroen Zoet","Héctor Moreno",59
+"Jeroen Zoet","Santiago Arias",9
+"Jeroen Zoet","Jeffrey Bruma",40
+"Jeroen Zoet","Davy Pröpper",3
+"Jeroen Zoet","Luuk de Jong",31
+"Jeroen Zoet","Andrés Guardado",23
+"Jeroen Zoet","Joshua Brenet",8
+"Jeroen Zoet","Jorrit Hendrix",9
+"Jeroen Zoet","Jürgen Locadia",3
+"Jeroen Zoet","Adam Maher",1
+"Jeroen Zoet","Gastón Pereiro",3
+"Jeroen Zoet","Simon Poulsen",4
+"Jeroen Zoet","Nicolas Isimat-Mirin",3
+"Jeroen Zoet","Jetro Willems",2
+"Jeroen Zoet","Marco van Ginkel",4
+"Héctor Moreno","Jeroen Zoet",51
+"Héctor Moreno","Santiago Arias",6
+"Héctor Moreno","Jeffrey Bruma",66
+"Héctor Moreno","Davy Pröpper",17
+"Héctor Moreno","Luuk de Jong",23
+"Héctor Moreno","Luciano Narsingh",8
+"Héctor Moreno","Maxime Lestienne",5
+"Héctor Moreno","Andrés Guardado",47
+"Héctor Moreno","Joshua Brenet",22
+"Héctor Moreno","Jorrit Hendrix",32
+"Héctor Moreno","Jürgen Locadia",33
+"Héctor Moreno","Adam Maher",20
+"Héctor Moreno","Gastón Pereiro",5
+"Héctor Moreno","Simon Poulsen",9
+"Héctor Moreno","Jordy De Wijs",2
+"Héctor Moreno","Nicolas Isimat-Mirin",10
+"Héctor Moreno","Jetro Willems",10
+"Héctor Moreno","Marco van Ginkel",14
+"Santiago Arias","Jeroen Zoet",8
+"Santiago Arias","Héctor Moreno",5
+"Santiago Arias","Jeffrey Bruma",34
+"Santiago Arias","Davy Pröpper",31
+"Santiago Arias","Luuk de Jong",11
+"Santiago Arias","Luciano Narsingh",35
+"Santiago Arias","Maxime Lestienne",5
+"Santiago Arias","Andrés Guardado",18
+"Santiago Arias","Joshua Brenet",2
+"Santiago Arias","Jorrit Hendrix",7
+"Santiago Arias","Jürgen Locadia",7
+"Santiago Arias","Adam Maher",7
+"Santiago Arias","Gastón Pereiro",8
+"Santiago Arias","Nicolas Isimat-Mirin",1
+"Santiago Arias","Marco van Ginkel",10
+"Jeffrey Bruma","Jeroen Zoet",38
+"Jeffrey Bruma","Héctor Moreno",80
+"Jeffrey Bruma","Santiago Arias",42
+"Jeffrey Bruma","Davy Pröpper",18
+"Jeffrey Bruma","Luuk de Jong",17
+"Jeffrey Bruma","Luciano Narsingh",9
+"Jeffrey Bruma","Maxime Lestienne",4
+"Jeffrey Bruma","Andrés Guardado",38
+"Jeffrey Bruma","Joshua Brenet",37
+"Jeffrey Bruma","Jorrit Hendrix",20
+"Jeffrey Bruma","Stijn Schaars",1
+"Jeffrey Bruma","Jürgen Locadia",6
+"Jeffrey Bruma","Adam Maher",8
+"Jeffrey Bruma","Gastón Pereiro",8
+"Jeffrey Bruma","Simon Poulsen",2
+"Jeffrey Bruma","Jordy De Wijs",1
+"Jeffrey Bruma","Nicolas Isimat-Mirin",18
+"Jeffrey Bruma","Marco van Ginkel",2
+"Davy Pröpper","Jeroen Zoet",1
+"Davy Pröpper","Héctor Moreno",12
+"Davy Pröpper","Santiago Arias",20
+"Davy Pröpper","Jeffrey Bruma",18
+"Davy Pröpper","Luuk de Jong",27
+"Davy Pröpper","Luciano Narsingh",17
+"Davy Pröpper","Maxime Lestienne",11
+"Davy Pröpper","Andrés Guardado",33
+"Davy Pröpper","Joshua Brenet",17
+"Davy Pröpper","Jorrit Hendrix",14
+"Davy Pröpper","Stijn Schaars",1
+"Davy Pröpper","Jürgen Locadia",26
+"Davy Pröpper","Adam Maher",12
+"Davy Pröpper","Gastón Pereiro",10
+"Davy Pröpper","Nicolas Isimat-Mirin",4
+"Davy Pröpper","Steven Bergwijn",1
+"Davy Pröpper","Jetro Willems",2
+"Davy Pröpper","Marco van Ginkel",4
+"Luuk de Jong","Héctor Moreno",4
+"Luuk de Jong","Santiago Arias",6
+"Luuk de Jong","Jeffrey Bruma",1
+"Luuk de Jong","Davy Pröpper",28
+"Luuk de Jong","Luciano Narsingh",8
+"Luuk de Jong","Maxime Lestienne",2
+"Luuk de Jong","Andrés Guardado",18
+"Luuk de Jong","Joshua Brenet",7
+"Luuk de Jong","Jorrit Hendrix",9
+"Luuk de Jong","Jürgen Locadia",15
+"Luuk de Jong","Adam Maher",3
+"Luuk de Jong","Gastón Pereiro",8
+"Luuk de Jong","Jetro Willems",1
+"Luuk de Jong","Marco van Ginkel",3
+"Luciano Narsingh","Santiago Arias",30
+"Luciano Narsingh","Jeffrey Bruma",4
+"Luciano Narsingh","Davy Pröpper",13
+"Luciano Narsingh","Luuk de Jong",5
+"Luciano Narsingh","Maxime Lestienne",2
+"Luciano Narsingh","Andrés Guardado",5
+"Luciano Narsingh","Joshua Brenet",6
+"Luciano Narsingh","Jorrit Hendrix",5
+"Luciano Narsingh","Jürgen Locadia",3
+"Luciano Narsingh","Adam Maher",13
+"Luciano Narsingh","Gastón Pereiro",5
+"Luciano Narsingh","Simon Poulsen",1
+"Maxime Lestienne","Jeroen Zoet",1
+"Maxime Lestienne","Héctor Moreno",3
+"Maxime Lestienne","Santiago Arias",3
+"Maxime Lestienne","Jeffrey Bruma",2
+"Maxime Lestienne","Davy Pröpper",1
+"Maxime Lestienne","Luuk de Jong",1
+"Maxime Lestienne","Luciano Narsingh",4
+"Maxime Lestienne","Andrés Guardado",3
+"Maxime Lestienne","Joshua Brenet",8
+"Maxime Lestienne","Jorrit Hendrix",6
+"Maxime Lestienne","Jürgen Locadia",3
+"Maxime Lestienne","Adam Maher",4
+"Andrés Guardado","Jeroen Zoet",12
+"Andrés Guardado","Héctor Moreno",45
+"Andrés Guardado","Santiago Arias",23
+"Andrés Guardado","Jeffrey Bruma",31
+"Andrés Guardado","Davy Pröpper",29
+"Andrés Guardado","Luuk de Jong",17
+"Andrés Guardado","Luciano Narsingh",9
+"Andrés Guardado","Maxime Lestienne",2
+"Andrés Guardado","Joshua Brenet",35
+"Andrés Guardado","Jorrit Hendrix",17
+"Andrés Guardado","Jürgen Locadia",27
+"Andrés Guardado","Adam Maher",11
+"Andrés Guardado","Simon Poulsen",6
+"Andrés Guardado","Gastón Pereiro",10
+"Andrés Guardado","Jordy De Wijs",5
+"Andrés Guardado","Nicolas Isimat-Mirin",18
+"Andrés Guardado","Jetro Willems",13
+"Andrés Guardado","Marco van Ginkel",10
+"Joshua Brenet","Jeroen Zoet",17
+"Joshua Brenet","Héctor Moreno",25
+"Joshua Brenet","Santiago Arias",1
+"Joshua Brenet","Jeffrey Bruma",20
+"Joshua Brenet","Davy Pröpper",16
+"Joshua Brenet","Luuk de Jong",10
+"Joshua Brenet","Luciano Narsingh",10
+"Joshua Brenet","Maxime Lestienne",11
+"Joshua Brenet","Andrés Guardado",26
+"Joshua Brenet","Jorrit Hendrix",9
+"Joshua Brenet","Stijn Schaars",1
+"Joshua Brenet","Jürgen Locadia",22
+"Joshua Brenet","Adam Maher",18
+"Joshua Brenet","Gastón Pereiro",10
+"Joshua Brenet","Simon Poulsen",2
+"Joshua Brenet","Nicolas Isimat-Mirin",5
+"Joshua Brenet","Marco van Ginkel",1
+"Jorrit Hendrix","Jeroen Zoet",8
+"Jorrit Hendrix","Héctor Moreno",36
+"Jorrit Hendrix","Santiago Arias",8
+"Jorrit Hendrix","Jeffrey Bruma",20
+"Jorrit Hendrix","Davy Pröpper",12
+"Jorrit Hendrix","Luuk de Jong",9
+"Jorrit Hendrix","Luciano Narsingh",6
+"Jorrit Hendrix","Maxime Lestienne",9
+"Jorrit Hendrix","Andrés Guardado",12
+"Jorrit Hendrix","Joshua Brenet",11
+"Jorrit Hendrix","Jürgen Locadia",13
+"Jorrit Hendrix","Adam Maher",9
+"Jorrit Hendrix","Gastón Pereiro",5
+"Jorrit Hendrix","Simon Poulsen",10
+"Jorrit Hendrix","Nicolas Isimat-Mirin",3
+"Jorrit Hendrix","Jetro Willems",1
+"Jorrit Hendrix","Marco van Ginkel",1
+"Stijn Schaars","Héctor Moreno",1
+"Stijn Schaars","Santiago Arias",1
+"Stijn Schaars","Davy Pröpper",2
+"Stijn Schaars","Joshua Brenet",1
+"Jürgen Locadia","Jeroen Zoet",3
+"Jürgen Locadia","Héctor Moreno",15
+"Jürgen Locadia","Santiago Arias",7
+"Jürgen Locadia","Jeffrey Bruma",7
+"Jürgen Locadia","Davy Pröpper",36
+"Jürgen Locadia","Luuk de Jong",10
+"Jürgen Locadia","Luciano Narsingh",7
+"Jürgen Locadia","Maxime Lestienne",4
+"Jürgen Locadia","Andrés Guardado",24
+"Jürgen Locadia","Joshua Brenet",12
+"Jürgen Locadia","Jorrit Hendrix",15
+"Jürgen Locadia","Adam Maher",15
+"Jürgen Locadia","Gastón Pereiro",3
+"Jürgen Locadia","Jordy De Wijs",1
+"Jürgen Locadia","Nicolas Isimat-Mirin",3
+"Jürgen Locadia","Jetro Willems",15
+"Jürgen Locadia","Marco van Ginkel",8
+"Adam Maher","Jeroen Zoet",3
+"Adam Maher","Héctor Moreno",17
+"Adam Maher","Santiago Arias",8
+"Adam Maher","Jeffrey Bruma",8
+"Adam Maher","Davy Pröpper",9
+"Adam Maher","Luciano Narsingh",10
+"Adam Maher","Maxime Lestienne",7
+"Adam Maher","Jürgen Locadia",17
+"Adam Maher","Joshua Brenet",19
+"Adam Maher","Jorrit Hendrix",6
+"Adam Maher","Gastón Pereiro",1
+"Adam Maher","Simon Poulsen",6
+"Adam Maher","Luuk de Jong",4
+"Adam Maher","Andrés Guardado",7
+"Adam Maher","Jordy De Wijs",2
+"Gastón Pereiro","Héctor Moreno",4
+"Gastón Pereiro","Santiago Arias",6
+"Gastón Pereiro","Jeffrey Bruma",6
+"Gastón Pereiro","Davy Pröpper",10
+"Gastón Pereiro","Adam Maher",3
+"Gastón Pereiro","Luciano Narsingh",1
+"Gastón Pereiro","Jürgen Locadia",9
+"Gastón Pereiro","Joshua Brenet",7
+"Gastón Pereiro","Jorrit Hendrix",2
+"Gastón Pereiro","Simon Poulsen",1
+"Gastón Pereiro","Luuk de Jong",6
+"Gastón Pereiro","Andrés Guardado",12
+"Gastón Pereiro","Nicolas Isimat-Mirin",1
+"Gastón Pereiro","Jetro Willems",2
+"Simon Poulsen","Jeroen Zoet",5
+"Simon Poulsen","Héctor Moreno",13
+"Simon Poulsen","Jeffrey Bruma",4
+"Simon Poulsen","Adam Maher",4
+"Simon Poulsen","Luciano Narsingh",3
+"Simon Poulsen","Joshua Brenet",1
+"Simon Poulsen","Jorrit Hendrix",1
+"Simon Poulsen","Luuk de Jong",2
+"Simon Poulsen","Andrés Guardado",3
+"Rai Vloet","Jorrit Hendrix",1
+"Jordy De Wijs","Héctor Moreno",3
+"Jordy De Wijs","Jeffrey Bruma",2
+"Jordy De Wijs","Adam Maher",1
+"Jordy De Wijs","Andrés Guardado",2
+"Jordy De Wijs","Jürgen Locadia",3
+"Nicolas Isimat-Mirin","Jeroen Zoet",10
+"Nicolas Isimat-Mirin","Héctor Moreno",18
+"Nicolas Isimat-Mirin","Jeffrey Bruma",17
+"Nicolas Isimat-Mirin","Davy Pröpper",3
+"Nicolas Isimat-Mirin","Luuk de Jong",1
+"Nicolas Isimat-Mirin","Andrés Guardado",16
+"Nicolas Isimat-Mirin","Jürgen Locadia",5
+"Nicolas Isimat-Mirin","Joshua Brenet",7
+"Nicolas Isimat-Mirin","Jorrit Hendrix",5
+"Nicolas Isimat-Mirin","Jetro Willems",6
+"Nicolas Isimat-Mirin","Marco van Ginkel",1
+"Steven Bergwijn","Jeffrey Bruma",1
+"Steven Bergwijn","Davy Pröpper",1
+"Jetro Willems","Héctor Moreno",7
+"Jetro Willems","Santiago Arias",1
+"Jetro Willems","Davy Pröpper",2
+"Jetro Willems","Gastón Pereiro",2
+"Jetro Willems","Andrés Guardado",6
+"Jetro Willems","Jürgen Locadia",11
+"Jetro Willems","Marco van Ginkel",6
+"Jetro Willems","Nicolas Isimat-Mirin",2
+"Jetro Willems","Luuk de Jong",1
+"Marco van Ginkel","Jeroen Zoet",1
+"Marco van Ginkel","Héctor Moreno",6
+"Marco van Ginkel","Santiago Arias",9
+"Marco van Ginkel","Jeffrey Bruma",1
+"Marco van Ginkel","Davy Pröpper",3
+"Marco van Ginkel","Gastón Pereiro",1
+"Marco van Ginkel","Luciano Narsingh",1
+"Marco van Ginkel","Jetro Willems",3
+"Marco van Ginkel","Andrés Guardado",8
+"Marco van Ginkel","Jürgen Locadia",7
+"Marco van Ginkel","Nicolas Isimat-Mirin",2
+"Marco van Ginkel","Maxime Lestienne",1
+"Marco van Ginkel","Luuk de Jong",4
+"Marco van Ginkel","Joshua Brenet",2

@@ -1,0 +1,215 @@
+"Matz Sels","Laurent Depoitre",23
+"Matz Sels","Renato Neto",5
+"Matz Sels","Stefan Mitrović",27
+"Matz Sels","Sven Kums",4
+"Matz Sels","Nana Asare",22
+"Matz Sels","Lasse Nielsen",31
+"Matz Sels","Thomas Foket",10
+"Matz Sels","Danijel Milicevic",6
+"Matz Sels","Rafinha",11
+"Matz Sels","Thomas Matton",3
+"Matz Sels","Kenneth Saief",6
+"Matz Sels","Kalifa Coulibaly",5
+"Matz Sels","Rami Gershon",6
+"Laurent Depoitre","Renato Neto",12
+"Laurent Depoitre","Sven Kums",14
+"Laurent Depoitre","Brecht Dejaegere",5
+"Laurent Depoitre","Nana Asare",10
+"Laurent Depoitre","Lasse Nielsen",4
+"Laurent Depoitre","Moses Simon",6
+"Laurent Depoitre","Thomas Foket",31
+"Laurent Depoitre","Danijel Milicevic",19
+"Laurent Depoitre","Rafinha",1
+"Laurent Depoitre","Thomas Matton",7
+"Laurent Depoitre","Benito Raman",2
+"Laurent Depoitre","Kenneth Saief",11
+"Renato Neto","Matz Sels",8
+"Renato Neto","Laurent Depoitre",11
+"Renato Neto","Stefan Mitrović",40
+"Renato Neto","Sven Kums",66
+"Renato Neto","Brecht Dejaegere",14
+"Renato Neto","Nana Asare",54
+"Renato Neto","Lasse Nielsen",61
+"Renato Neto","Moses Simon",7
+"Renato Neto","Thomas Foket",37
+"Renato Neto","Danijel Milicevic",24
+"Renato Neto","Rafinha",17
+"Renato Neto","Thomas Matton",8
+"Renato Neto","Benito Raman",1
+"Renato Neto","Kenneth Saief",22
+"Renato Neto","Kalifa Coulibaly",1
+"Renato Neto","Rami Gershon",6
+"Stefan Mitrović","Matz Sels",23
+"Stefan Mitrović","Laurent Depoitre",4
+"Stefan Mitrović","Renato Neto",27
+"Stefan Mitrović","Sven Kums",38
+"Stefan Mitrović","Brecht Dejaegere",7
+"Stefan Mitrović","Nana Asare",63
+"Stefan Mitrović","Lasse Nielsen",86
+"Stefan Mitrović","Moses Simon",2
+"Stefan Mitrović","Thomas Foket",11
+"Stefan Mitrović","Danijel Milicevic",7
+"Stefan Mitrović","Rafinha",23
+"Stefan Mitrović","Thomas Matton",6
+"Stefan Mitrović","Kenneth Saief",4
+"Stefan Mitrović","Kalifa Coulibaly",1
+"Sven Kums","Matz Sels",2
+"Sven Kums","Laurent Depoitre",24
+"Sven Kums","Renato Neto",66
+"Sven Kums","Stefan Mitrović",32
+"Sven Kums","Brecht Dejaegere",36
+"Sven Kums","Nana Asare",107
+"Sven Kums","Lasse Nielsen",54
+"Sven Kums","Moses Simon",20
+"Sven Kums","Thomas Foket",47
+"Sven Kums","Danijel Milicevic",46
+"Sven Kums","Rafinha",17
+"Sven Kums","Thomas Matton",18
+"Sven Kums","Benito Raman",1
+"Sven Kums","Kenneth Saief",46
+"Sven Kums","Kalifa Coulibaly",1
+"Sven Kums","Nicklas Pedersen",2
+"Sven Kums","Rami Gershon",4
+"Brecht Dejaegere","Laurent Depoitre",4
+"Brecht Dejaegere","Renato Neto",9
+"Brecht Dejaegere","Stefan Mitrović",3
+"Brecht Dejaegere","Sven Kums",12
+"Brecht Dejaegere","Nana Asare",7
+"Brecht Dejaegere","Lasse Nielsen",5
+"Brecht Dejaegere","Moses Simon",10
+"Brecht Dejaegere","Thomas Foket",14
+"Brecht Dejaegere","Danijel Milicevic",15
+"Brecht Dejaegere","Rafinha",9
+"Brecht Dejaegere","Thomas Matton",1
+"Brecht Dejaegere","Kenneth Saief",18
+"Nana Asare","Matz Sels",11
+"Nana Asare","Laurent Depoitre",13
+"Nana Asare","Renato Neto",58
+"Nana Asare","Stefan Mitrović",38
+"Nana Asare","Sven Kums",125
+"Nana Asare","Brecht Dejaegere",18
+"Nana Asare","Lasse Nielsen",13
+"Nana Asare","Moses Simon",18
+"Nana Asare","Thomas Foket",3
+"Nana Asare","Danijel Milicevic",20
+"Nana Asare","Rafinha",14
+"Nana Asare","Thomas Matton",20
+"Nana Asare","Benito Raman",2
+"Nana Asare","Kenneth Saief",38
+"Nana Asare","Kalifa Coulibaly",1
+"Nana Asare","Nicklas Pedersen",1
+"Nana Asare","Rami Gershon",22
+"Lasse Nielsen","Matz Sels",26
+"Lasse Nielsen","Laurent Depoitre",23
+"Lasse Nielsen","Renato Neto",52
+"Lasse Nielsen","Stefan Mitrović",88
+"Lasse Nielsen","Sven Kums",45
+"Lasse Nielsen","Brecht Dejaegere",13
+"Lasse Nielsen","Nana Asare",15
+"Lasse Nielsen","Moses Simon",4
+"Lasse Nielsen","Thomas Foket",47
+"Lasse Nielsen","Danijel Milicevic",23
+"Lasse Nielsen","Rafinha",30
+"Lasse Nielsen","Thomas Matton",1
+"Lasse Nielsen","Benito Raman",1
+"Lasse Nielsen","Kenneth Saief",1
+"Lasse Nielsen","Kalifa Coulibaly",3
+"Lasse Nielsen","Rami Gershon",25
+"Moses Simon","Laurent Depoitre",4
+"Moses Simon","Renato Neto",3
+"Moses Simon","Stefan Mitrović",3
+"Moses Simon","Sven Kums",9
+"Moses Simon","Brecht Dejaegere",5
+"Moses Simon","Nana Asare",21
+"Moses Simon","Thomas Foket",1
+"Moses Simon","Danijel Milicevic",4
+"Moses Simon","Rafinha",1
+"Moses Simon","Thomas Matton",1
+"Thomas Foket","Matz Sels",5
+"Thomas Foket","Laurent Depoitre",18
+"Thomas Foket","Renato Neto",31
+"Thomas Foket","Stefan Mitrović",6
+"Thomas Foket","Sven Kums",23
+"Thomas Foket","Brecht Dejaegere",20
+"Thomas Foket","Nana Asare",3
+"Thomas Foket","Lasse Nielsen",34
+"Thomas Foket","Danijel Milicevic",38
+"Thomas Foket","Benito Raman",4
+"Thomas Foket","Kenneth Saief",5
+"Danijel Milicevic","Matz Sels",1
+"Danijel Milicevic","Laurent Depoitre",22
+"Danijel Milicevic","Renato Neto",14
+"Danijel Milicevic","Stefan Mitrović",3
+"Danijel Milicevic","Sven Kums",34
+"Danijel Milicevic","Brecht Dejaegere",17
+"Danijel Milicevic","Nana Asare",15
+"Danijel Milicevic","Lasse Nielsen",14
+"Danijel Milicevic","Moses Simon",9
+"Danijel Milicevic","Thomas Foket",27
+"Danijel Milicevic","Rafinha",6
+"Danijel Milicevic","Thomas Matton",1
+"Danijel Milicevic","Benito Raman",2
+"Danijel Milicevic","Kenneth Saief",17
+"Danijel Milicevic","Kalifa Coulibaly",3
+"Rafinha","Matz Sels",5
+"Rafinha","Laurent Depoitre",10
+"Rafinha","Renato Neto",16
+"Rafinha","Stefan Mitrović",6
+"Rafinha","Sven Kums",21
+"Rafinha","Brecht Dejaegere",5
+"Rafinha","Nana Asare",16
+"Rafinha","Lasse Nielsen",28
+"Rafinha","Moses Simon",7
+"Rafinha","Danijel Milicevic",9
+"Rafinha","Thomas Matton",3
+"Rafinha","Kenneth Saief",16
+"Rafinha","Rami Gershon",4
+"Thomas Matton","Laurent Depoitre",1
+"Thomas Matton","Renato Neto",7
+"Thomas Matton","Stefan Mitrović",3
+"Thomas Matton","Sven Kums",12
+"Thomas Matton","Brecht Dejaegere",2
+"Thomas Matton","Nana Asare",17
+"Thomas Matton","Lasse Nielsen",1
+"Thomas Matton","Moses Simon",5
+"Thomas Matton","Thomas Foket",2
+"Thomas Matton","Danijel Milicevic",6
+"Thomas Matton","Kenneth Saief",3
+"Thomas Matton","Kalifa Coulibaly",1
+"Thomas Matton","Rami Gershon",2
+"Benito Raman","Laurent Depoitre",2
+"Benito Raman","Sven Kums",1
+"Benito Raman","Danijel Milicevic",2
+"Kenneth Saief","Rafinha",8
+"Kenneth Saief","Thomas Matton",4
+"Kenneth Saief","Laurent Depoitre",4
+"Kenneth Saief","Renato Neto",27
+"Kenneth Saief","Stefan Mitrović",2
+"Kenneth Saief","Sven Kums",44
+"Kenneth Saief","Nana Asare",30
+"Kenneth Saief","Lasse Nielsen",7
+"Kenneth Saief","Danijel Milicevic",13
+"Kenneth Saief","Kalifa Coulibaly",2
+"Kenneth Saief","Benito Raman",1
+"Kenneth Saief","Thomas Foket",3
+"Kenneth Saief","Brecht Dejaegere",11
+"Kenneth Saief","Rami Gershon",1
+"Kalifa Coulibaly","Laurent Depoitre",1
+"Kalifa Coulibaly","Sven Kums",1
+"Kalifa Coulibaly","Kenneth Saief",1
+"Kalifa Coulibaly","Nana Asare",1
+"Kalifa Coulibaly","Danijel Milicevic",2
+"Kalifa Coulibaly","Benito Raman",1
+"Kalifa Coulibaly","Brecht Dejaegere",2
+"Kalifa Coulibaly","Thomas Foket",1
+"Kalifa Coulibaly","Rami Gershon",1
+"Nicklas Pedersen","Sven Kums",1
+"Rami Gershon","Matz Sels",4
+"Rami Gershon","Thomas Matton",4
+"Rami Gershon","Renato Neto",7
+"Rami Gershon","Sven Kums",6
+"Rami Gershon","Brecht Dejaegere",2
+"Rami Gershon","Nana Asare",21
+"Rami Gershon","Lasse Nielsen",30
+"Rami Gershon","Danijel Milicevic",1
+"Rami Gershon","Kenneth Saief",1

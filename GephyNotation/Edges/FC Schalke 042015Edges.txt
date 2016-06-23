@@ -1,0 +1,414 @@
+"Ralf Fährmann","Kevin-Prince Boateng",4
+"Ralf Fährmann","Marco Höger",6
+"Ralf Fährmann","Dennis Aogo",7
+"Ralf Fährmann","Christian Fuchs",9
+"Ralf Fährmann","Kaan Ayhan",13
+"Ralf Fährmann","Klaas-Jan Huntelaar",1
+"Ralf Fährmann","Roman Neustädter",36
+"Ralf Fährmann","Eric Maxim Choupo-Moting",1
+"Ralf Fährmann","Tranquillo Barnetta",2
+"Ralf Fährmann","Joel Matip",2
+"Ralf Fährmann","Atsuto Uchida",2
+"Ralf Fährmann","Benedikt Höwedes",19
+"Ralf Fährmann","Choupo-Moting",1
+"Ralf Fährmann","Jan Kirchhoff",4
+"Ralf Fährmann","Felipe Santana",2
+"Ralf Fährmann","Christian Clemens",1
+"Max Meyer","Kevin-Prince Boateng",7
+"Max Meyer","Julian Draxler",3
+"Max Meyer","Marco Höger",17
+"Max Meyer","Dennis Aogo",14
+"Max Meyer","Sidney Sam",6
+"Max Meyer","Christian Fuchs",15
+"Max Meyer","Kaan Ayhan",2
+"Max Meyer","Klaas-Jan Huntelaar",10
+"Max Meyer","Roman Neustädter",15
+"Max Meyer","Eric Maxim Choupo-Moting",3
+"Max Meyer","Chinedu Obasi",4
+"Max Meyer","Tranquillo Barnetta",11
+"Max Meyer","Joel Matip",3
+"Max Meyer","Atsuto Uchida",12
+"Max Meyer","Benedikt Höwedes",11
+"Max Meyer","Choupo-Moting",11
+"Max Meyer","Jan Kirchhoff",1
+"Max Meyer","Christian Clemens",4
+"Max Meyer","Matija Nastasić",4
+"Max Meyer","Leon Goretzka",1
+"Max Meyer","Leroy Sané",3
+"Kevin-Prince Boateng","Ralf Fährmann",1
+"Kevin-Prince Boateng","Max Meyer",9
+"Kevin-Prince Boateng","Julian Draxler",15
+"Kevin-Prince Boateng","Marco Höger",20
+"Kevin-Prince Boateng","Dennis Aogo",28
+"Kevin-Prince Boateng","Sidney Sam",3
+"Kevin-Prince Boateng","Christian Fuchs",12
+"Kevin-Prince Boateng","Kaan Ayhan",16
+"Kevin-Prince Boateng","Klaas-Jan Huntelaar",7
+"Kevin-Prince Boateng","Roman Neustädter",22
+"Kevin-Prince Boateng","Eric Maxim Choupo-Moting",10
+"Kevin-Prince Boateng","Chinedu Obasi",6
+"Kevin-Prince Boateng","Tranquillo Barnetta",4
+"Kevin-Prince Boateng","Joel Matip",1
+"Kevin-Prince Boateng","Atsuto Uchida",16
+"Kevin-Prince Boateng","Benedikt Höwedes",12
+"Kevin-Prince Boateng","Choupo-Moting",8
+"Kevin-Prince Boateng","Jan Kirchhoff",6
+"Kevin-Prince Boateng","Matija Nastasić",2
+"Kevin-Prince Boateng","Felix Platte",3
+"Julian Draxler","Ralf Fährmann",1
+"Julian Draxler","Max Meyer",8
+"Julian Draxler","Kevin-Prince Boateng",12
+"Julian Draxler","Marco Höger",5
+"Julian Draxler","Dennis Aogo",14
+"Julian Draxler","Sidney Sam",4
+"Julian Draxler","Christian Fuchs",11
+"Julian Draxler","Kaan Ayhan",6
+"Julian Draxler","Klaas-Jan Huntelaar",8
+"Julian Draxler","Roman Neustädter",10
+"Julian Draxler","Eric Maxim Choupo-Moting",1
+"Julian Draxler","Chinedu Obasi",5
+"Julian Draxler","Tranquillo Barnetta",5
+"Julian Draxler","Joel Matip",4
+"Julian Draxler","Benedikt Höwedes",4
+"Marco Höger","Ralf Fährmann",7
+"Marco Höger","Max Meyer",11
+"Marco Höger","Kevin-Prince Boateng",21
+"Marco Höger","Julian Draxler",2
+"Marco Höger","Dennis Aogo",27
+"Marco Höger","Sidney Sam",7
+"Marco Höger","Christian Fuchs",8
+"Marco Höger","Kaan Ayhan",22
+"Marco Höger","Klaas-Jan Huntelaar",12
+"Marco Höger","Roman Neustädter",25
+"Marco Höger","Eric Maxim Choupo-Moting",4
+"Marco Höger","Chinedu Obasi",8
+"Marco Höger","Tranquillo Barnetta",24
+"Marco Höger","Benedikt Höwedes",20
+"Marco Höger","Atsuto Uchida",69
+"Marco Höger","Choupo-Moting",23
+"Marco Höger","Jan Kirchhoff",9
+"Marco Höger","Felipe Santana",5
+"Marco Höger","Christian Clemens",5
+"Marco Höger","Joel Matip",1
+"Marco Höger","Felix Platte",2
+"Marco Höger","Leroy Sané",2
+"Dennis Aogo","Ralf Fährmann",8
+"Dennis Aogo","Max Meyer",11
+"Dennis Aogo","Kevin-Prince Boateng",21
+"Dennis Aogo","Julian Draxler",22
+"Dennis Aogo","Marco Höger",32
+"Dennis Aogo","Sidney Sam",3
+"Dennis Aogo","Christian Fuchs",40
+"Dennis Aogo","Kaan Ayhan",12
+"Dennis Aogo","Klaas-Jan Huntelaar",9
+"Dennis Aogo","Roman Neustädter",61
+"Dennis Aogo","Eric Maxim Choupo-Moting",6
+"Dennis Aogo","Chinedu Obasi",1
+"Dennis Aogo","Tranquillo Barnetta",10
+"Dennis Aogo","Joel Matip",4
+"Dennis Aogo","Atsuto Uchida",12
+"Dennis Aogo","Benedikt Höwedes",28
+"Dennis Aogo","Choupo-Moting",19
+"Dennis Aogo","Jan Kirchhoff",15
+"Dennis Aogo","Felipe Santana",3
+"Dennis Aogo","Christian Clemens",2
+"Dennis Aogo","Timon Wellenreuther",1
+"Dennis Aogo","Matija Nastasić",4
+"Sidney Sam","Max Meyer",7
+"Sidney Sam","Kevin-Prince Boateng",2
+"Sidney Sam","Marco Höger",6
+"Sidney Sam","Dennis Aogo",1
+"Sidney Sam","Christian Fuchs",1
+"Sidney Sam","Kaan Ayhan",1
+"Sidney Sam","Klaas-Jan Huntelaar",2
+"Sidney Sam","Roman Neustädter",1
+"Sidney Sam","Benedikt Höwedes",2
+"Sidney Sam","Jan Kirchhoff",2
+"Christian Fuchs","Ralf Fährmann",6
+"Christian Fuchs","Max Meyer",20
+"Christian Fuchs","Kevin-Prince Boateng",10
+"Christian Fuchs","Julian Draxler",18
+"Christian Fuchs","Marco Höger",1
+"Christian Fuchs","Dennis Aogo",18
+"Christian Fuchs","Kaan Ayhan",3
+"Christian Fuchs","Klaas-Jan Huntelaar",11
+"Christian Fuchs","Roman Neustädter",25
+"Christian Fuchs","Eric Maxim Choupo-Moting",1
+"Christian Fuchs","Tranquillo Barnetta",13
+"Christian Fuchs","Joel Matip",4
+"Christian Fuchs","Atsuto Uchida",1
+"Christian Fuchs","Benedikt Höwedes",14
+"Christian Fuchs","Choupo-Moting",7
+"Christian Fuchs","Jan Kirchhoff",4
+"Christian Fuchs","Matija Nastasić",4
+"Christian Fuchs","Leon Goretzka",1
+"Christian Fuchs","Leroy Sané",3
+"Kaan Ayhan","Ralf Fährmann",13
+"Kaan Ayhan","Max Meyer",1
+"Kaan Ayhan","Kevin-Prince Boateng",19
+"Kaan Ayhan","Julian Draxler",8
+"Kaan Ayhan","Marco Höger",18
+"Kaan Ayhan","Dennis Aogo",11
+"Kaan Ayhan","Sidney Sam",2
+"Kaan Ayhan","Christian Fuchs",2
+"Kaan Ayhan","Klaas-Jan Huntelaar",4
+"Kaan Ayhan","Roman Neustädter",19
+"Kaan Ayhan","Eric Maxim Choupo-Moting",5
+"Kaan Ayhan","Tranquillo Barnetta",3
+"Kaan Ayhan","Joel Matip",6
+"Kaan Ayhan","Atsuto Uchida",11
+"Kaan Ayhan","Benedikt Höwedes",25
+"Kaan Ayhan","Choupo-Moting",1
+"Klaas-Jan Huntelaar","Max Meyer",13
+"Klaas-Jan Huntelaar","Kevin-Prince Boateng",8
+"Klaas-Jan Huntelaar","Julian Draxler",9
+"Klaas-Jan Huntelaar","Marco Höger",16
+"Klaas-Jan Huntelaar","Dennis Aogo",8
+"Klaas-Jan Huntelaar","Sidney Sam",2
+"Klaas-Jan Huntelaar","Christian Fuchs",7
+"Klaas-Jan Huntelaar","Roman Neustädter",8
+"Klaas-Jan Huntelaar","Eric Maxim Choupo-Moting",2
+"Klaas-Jan Huntelaar","Chinedu Obasi",5
+"Klaas-Jan Huntelaar","Tranquillo Barnetta",6
+"Klaas-Jan Huntelaar","Atsuto Uchida",6
+"Klaas-Jan Huntelaar","Benedikt Höwedes",7
+"Klaas-Jan Huntelaar","Choupo-Moting",16
+"Klaas-Jan Huntelaar","Jan Kirchhoff",1
+"Klaas-Jan Huntelaar","Christian Clemens",2
+"Klaas-Jan Huntelaar","Timon Wellenreuther",1
+"Klaas-Jan Huntelaar","Matija Nastasić",1
+"Klaas-Jan Huntelaar","Leon Goretzka",1
+"Klaas-Jan Huntelaar","Leroy Sané",4
+"Roman Neustädter","Ralf Fährmann",24
+"Roman Neustädter","Max Meyer",24
+"Roman Neustädter","Kevin-Prince Boateng",31
+"Roman Neustädter","Julian Draxler",12
+"Roman Neustädter","Marco Höger",38
+"Roman Neustädter","Dennis Aogo",52
+"Roman Neustädter","Sidney Sam",1
+"Roman Neustädter","Christian Fuchs",34
+"Roman Neustädter","Kaan Ayhan",25
+"Roman Neustädter","Klaas-Jan Huntelaar",25
+"Roman Neustädter","Eric Maxim Choupo-Moting",4
+"Roman Neustädter","Chinedu Obasi",3
+"Roman Neustädter","Tranquillo Barnetta",15
+"Roman Neustädter","Joel Matip",25
+"Roman Neustädter","Atsuto Uchida",23
+"Roman Neustädter","Benedikt Höwedes",42
+"Roman Neustädter","Choupo-Moting",19
+"Roman Neustädter","Jan Kirchhoff",18
+"Roman Neustädter","Felipe Santana",11
+"Roman Neustädter","Christian Clemens",1
+"Roman Neustädter","Timon Wellenreuther",4
+"Roman Neustädter","Matija Nastasić",14
+"Roman Neustädter","Leon Goretzka",1
+"Roman Neustädter","Leroy Sané",7
+"Eric Maxim Choupo-Moting","Ralf Fährmann",1
+"Eric Maxim Choupo-Moting","Max Meyer",1
+"Eric Maxim Choupo-Moting","Kevin-Prince Boateng",7
+"Eric Maxim Choupo-Moting","Julian Draxler",4
+"Eric Maxim Choupo-Moting","Marco Höger",6
+"Eric Maxim Choupo-Moting","Dennis Aogo",7
+"Eric Maxim Choupo-Moting","Kaan Ayhan",4
+"Eric Maxim Choupo-Moting","Klaas-Jan Huntelaar",3
+"Eric Maxim Choupo-Moting","Roman Neustädter",2
+"Eric Maxim Choupo-Moting","Tranquillo Barnetta",5
+"Eric Maxim Choupo-Moting","Joel Matip",1
+"Eric Maxim Choupo-Moting","Atsuto Uchida",6
+"Chinedu Obasi","Max Meyer",1
+"Chinedu Obasi","Kevin-Prince Boateng",2
+"Chinedu Obasi","Julian Draxler",1
+"Chinedu Obasi","Marco Höger",6
+"Chinedu Obasi","Dennis Aogo",3
+"Chinedu Obasi","Kaan Ayhan",2
+"Chinedu Obasi","Klaas-Jan Huntelaar",3
+"Chinedu Obasi","Tranquillo Barnetta",2
+"Chinedu Obasi","Atsuto Uchida",16
+"Chinedu Obasi","Benedikt Höwedes",1
+"Chinedu Obasi","Choupo-Moting",3
+"Tranquillo Barnetta","Max Meyer",7
+"Tranquillo Barnetta","Kevin-Prince Boateng",6
+"Tranquillo Barnetta","Julian Draxler",5
+"Tranquillo Barnetta","Marco Höger",11
+"Tranquillo Barnetta","Dennis Aogo",6
+"Tranquillo Barnetta","Christian Fuchs",11
+"Tranquillo Barnetta","Kaan Ayhan",4
+"Tranquillo Barnetta","Klaas-Jan Huntelaar",8
+"Tranquillo Barnetta","Roman Neustädter",17
+"Tranquillo Barnetta","Eric Maxim Choupo-Moting",5
+"Tranquillo Barnetta","Chinedu Obasi",2
+"Tranquillo Barnetta","Joel Matip",4
+"Tranquillo Barnetta","Atsuto Uchida",9
+"Tranquillo Barnetta","Jan Kirchhoff",1
+"Tranquillo Barnetta","Benedikt Höwedes",5
+"Tranquillo Barnetta","Choupo-Moting",4
+"Tranquillo Barnetta","Matija Nastasić",1
+"Tranquillo Barnetta","Leon Goretzka",5
+"Tranquillo Barnetta","Leroy Sané",3
+"Joel Matip","Ralf Fährmann",6
+"Joel Matip","Kevin-Prince Boateng",7
+"Joel Matip","Julian Draxler",3
+"Joel Matip","Eric Maxim Choupo-Moting",2
+"Joel Matip","Dennis Aogo",3
+"Joel Matip","Christian Fuchs",4
+"Joel Matip","Kaan Ayhan",5
+"Joel Matip","Klaas-Jan Huntelaar",3
+"Joel Matip","Tranquillo Barnetta",5
+"Joel Matip","Roman Neustädter",26
+"Joel Matip","Max Meyer",3
+"Joel Matip","Atsuto Uchida",11
+"Joel Matip","Timon Wellenreuther",5
+"Joel Matip","Benedikt Höwedes",8
+"Joel Matip","Marco Höger",5
+"Joel Matip","Choupo-Moting",2
+"Joel Matip","Matija Nastasić",15
+"Joel Matip","Jan Kirchhoff",1
+"Joel Matip","Felix Platte",2
+"Joel Matip","Leon Goretzka",1
+"Joel Matip","Leroy Sané",1
+"Atsuto Uchida","Ralf Fährmann",8
+"Atsuto Uchida","Kevin-Prince Boateng",8
+"Atsuto Uchida","Julian Draxler",2
+"Atsuto Uchida","Eric Maxim Choupo-Moting",4
+"Atsuto Uchida","Dennis Aogo",12
+"Atsuto Uchida","Kaan Ayhan",10
+"Atsuto Uchida","Klaas-Jan Huntelaar",13
+"Atsuto Uchida","Tranquillo Barnetta",5
+"Atsuto Uchida","Joel Matip",1
+"Atsuto Uchida","Roman Neustädter",20
+"Atsuto Uchida","Max Meyer",10
+"Atsuto Uchida","Chinedu Obasi",19
+"Atsuto Uchida","Benedikt Höwedes",7
+"Atsuto Uchida","Marco Höger",45
+"Atsuto Uchida","Sidney Sam",5
+"Atsuto Uchida","Choupo-Moting",14
+"Atsuto Uchida","Jan Kirchhoff",7
+"Atsuto Uchida","Felipe Santana",3
+"Atsuto Uchida","Christian Clemens",10
+"Atsuto Uchida","Matija Nastasić",1
+"Atsuto Uchida","Felix Platte",1
+"Atsuto Uchida","Leon Goretzka",1
+"Benedikt Höwedes","Ralf Fährmann",16
+"Benedikt Höwedes","Kevin-Prince Boateng",14
+"Benedikt Höwedes","Julian Draxler",6
+"Benedikt Höwedes","Marco Höger",32
+"Benedikt Höwedes","Dennis Aogo",43
+"Benedikt Höwedes","Chinedu Obasi",2
+"Benedikt Höwedes","Atsuto Uchida",15
+"Benedikt Höwedes","Kaan Ayhan",17
+"Benedikt Höwedes","Klaas-Jan Huntelaar",5
+"Benedikt Höwedes","Roman Neustädter",37
+"Benedikt Höwedes","Max Meyer",13
+"Benedikt Höwedes","Eric Maxim Choupo-Moting",5
+"Benedikt Höwedes","Sidney Sam",3
+"Benedikt Höwedes","Choupo-Moting",14
+"Benedikt Höwedes","Christian Fuchs",12
+"Benedikt Höwedes","Jan Kirchhoff",28
+"Benedikt Höwedes","Felipe Santana",1
+"Benedikt Höwedes","Tranquillo Barnetta",14
+"Benedikt Höwedes","Timon Wellenreuther",6
+"Benedikt Höwedes","Matija Nastasić",2
+"Benedikt Höwedes","Joel Matip",7
+"Benedikt Höwedes","Felix Platte",2
+"Benedikt Höwedes","Leon Goretzka",6
+"Benedikt Höwedes","Leroy Sané",2
+"Choupo-Moting","Benedikt Höwedes",6
+"Choupo-Moting","Max Meyer",14
+"Choupo-Moting","Marco Höger",24
+"Choupo-Moting","Dennis Aogo",14
+"Choupo-Moting","Chinedu Obasi",1
+"Choupo-Moting","Atsuto Uchida",11
+"Choupo-Moting","Christian Fuchs",6
+"Choupo-Moting","Klaas-Jan Huntelaar",9
+"Choupo-Moting","Roman Neustädter",7
+"Choupo-Moting","Jan Kirchhoff",9
+"Choupo-Moting","Kevin-Prince Boateng",9
+"Choupo-Moting","Christian Clemens",4
+"Choupo-Moting","Tranquillo Barnetta",5
+"Choupo-Moting","Marvin Friedrich",1
+"Choupo-Moting","Kaan Ayhan",2
+"Choupo-Moting","Felix Platte",2
+"Jan Kirchhoff","Ralf Fährmann",3
+"Jan Kirchhoff","Benedikt Höwedes",36
+"Jan Kirchhoff","Max Meyer",3
+"Jan Kirchhoff","Marco Höger",14
+"Jan Kirchhoff","Choupo-Moting",6
+"Jan Kirchhoff","Dennis Aogo",10
+"Jan Kirchhoff","Atsuto Uchida",5
+"Jan Kirchhoff","Christian Fuchs",2
+"Jan Kirchhoff","Klaas-Jan Huntelaar",4
+"Jan Kirchhoff","Roman Neustädter",26
+"Jan Kirchhoff","Kevin-Prince Boateng",6
+"Jan Kirchhoff","Sidney Sam",2
+"Jan Kirchhoff","Felipe Santana",5
+"Jan Kirchhoff","Tranquillo Barnetta",2
+"Jan Kirchhoff","Matija Nastasić",2
+"Jan Kirchhoff","Felix Platte",3
+"Felipe Santana","Ralf Fährmann",5
+"Felipe Santana","Jan Kirchhoff",5
+"Felipe Santana","Benedikt Höwedes",2
+"Felipe Santana","Kevin-Prince Boateng",1
+"Felipe Santana","Marco Höger",8
+"Felipe Santana","Choupo-Moting",1
+"Felipe Santana","Dennis Aogo",5
+"Felipe Santana","Atsuto Uchida",2
+"Felipe Santana","Roman Neustädter",11
+"Felipe Santana","Max Meyer",1
+"Christian Clemens","Kevin-Prince Boateng",2
+"Christian Clemens","Marco Höger",3
+"Christian Clemens","Choupo-Moting",1
+"Christian Clemens","Dennis Aogo",3
+"Christian Clemens","Atsuto Uchida",4
+"Christian Clemens","Klaas-Jan Huntelaar",3
+"Christian Clemens","Max Meyer",2
+"Timon Wellenreuther","Benedikt Höwedes",5
+"Timon Wellenreuther","Marco Höger",3
+"Timon Wellenreuther","Dennis Aogo",1
+"Timon Wellenreuther","Atsuto Uchida",1
+"Timon Wellenreuther","Klaas-Jan Huntelaar",1
+"Timon Wellenreuther","Matija Nastasić",7
+"Timon Wellenreuther","Joel Matip",4
+"Timon Wellenreuther","Roman Neustädter",7
+"Timon Wellenreuther","Max Meyer",1
+"Timon Wellenreuther","Felix Platte",2
+"Timon Wellenreuther","Tranquillo Barnetta",2
+"Timon Wellenreuther","Leon Goretzka",1
+"Matija Nastasić","Timon Wellenreuther",10
+"Matija Nastasić","Benedikt Höwedes",2
+"Matija Nastasić","Kevin-Prince Boateng",4
+"Matija Nastasić","Choupo-Moting",4
+"Matija Nastasić","Dennis Aogo",8
+"Matija Nastasić","Klaas-Jan Huntelaar",3
+"Matija Nastasić","Joel Matip",14
+"Matija Nastasić","Roman Neustädter",10
+"Matija Nastasić","Jan Kirchhoff",1
+"Matija Nastasić","Max Meyer",2
+"Matija Nastasić","Christian Fuchs",5
+"Matija Nastasić","Tranquillo Barnetta",1
+"Matija Nastasić","Leon Goretzka",1
+"Felix Platte","Kevin-Prince Boateng",3
+"Felix Platte","Marco Höger",1
+"Felix Platte","Choupo-Moting",3
+"Felix Platte","Dennis Aogo",1
+"Felix Platte","Jan Kirchhoff",4
+"Felix Platte","Max Meyer",1
+"Leon Goretzka","Benedikt Höwedes",1
+"Leon Goretzka","Max Meyer",2
+"Leon Goretzka","Christian Fuchs",2
+"Leon Goretzka","Klaas-Jan Huntelaar",2
+"Leon Goretzka","Tranquillo Barnetta",5
+"Leon Goretzka","Matija Nastasić",1
+"Leon Goretzka","Joel Matip",1
+"Leon Goretzka","Roman Neustädter",4
+"Leon Goretzka","Leroy Sané",1
+"Leroy Sané","Benedikt Höwedes",2
+"Leroy Sané","Max Meyer",7
+"Leroy Sané","Marco Höger",2
+"Leroy Sané","Christian Fuchs",1
+"Leroy Sané","Klaas-Jan Huntelaar",1
+"Leroy Sané","Tranquillo Barnetta",3
+"Leroy Sané","Matija Nastasić",1
+"Leroy Sané","Joel Matip",1
+"Leroy Sané","Roman Neustädter",3
+"Leroy Sané","Leon Goretzka",1
+"Leroy Sané","Atsuto Uchida",1

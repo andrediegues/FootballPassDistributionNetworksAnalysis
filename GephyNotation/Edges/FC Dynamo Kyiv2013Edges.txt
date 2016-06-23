@@ -1,0 +1,258 @@
+"Maxym Koval","Danilo Silva",3
+"Maxym Koval","Miguel Veloso",5
+"Maxym Koval","Andriy Yarmolenko",2
+"Maxym Koval","Taras Mikhalik",7
+"Maxym Koval","Denys Garmash",2
+"Maxym Koval","Taye Taiwo",8
+"Maxym Koval","Yevhen Khacheridi",2
+"Maxym Koval","Raffael",1
+"Maxym Koval","Betão",6
+"Maxym Koval","Ognjen Vukojević",3
+"Maxym Koval","Oleh Gusev",1
+"Maxym Koval","Artem Milevskiy",2
+"Maxym Koval","Marco Ruben",1
+"Maxym Koval","Dudu",3
+"Danilo Silva","Maxym Koval",2
+"Danilo Silva","Miguel Veloso",23
+"Danilo Silva","Andriy Yarmolenko",23
+"Danilo Silva","Ideye Brown",7
+"Danilo Silva","Taras Mikhalik",9
+"Danilo Silva","Denys Garmash",6
+"Danilo Silva","Niko Kranjčar",6
+"Danilo Silva","Taye Taiwo",1
+"Danilo Silva","Yevhen Khacheridi",6
+"Danilo Silva","Raffael",4
+"Danilo Silva","Betão",8
+"Danilo Silva","Ognjen Vukojević",11
+"Danilo Silva","Oleh Gusev",10
+"Danilo Silva","Olexandr Shovkovskiy",2
+"Danilo Silva","Lukman Haruna",4
+"Danilo Silva","Dudu",1
+"Danilo Silva","Artem Milevskiy",2
+"Danilo Silva","Andriy Bogdanov",2
+"Miguel Veloso","Maxym Koval",2
+"Miguel Veloso","Danilo Silva",19
+"Miguel Veloso","Andriy Yarmolenko",17
+"Miguel Veloso","Ideye Brown",17
+"Miguel Veloso","Taras Mikhalik",9
+"Miguel Veloso","Denys Garmash",16
+"Miguel Veloso","Niko Kranjčar",12
+"Miguel Veloso","Taye Taiwo",32
+"Miguel Veloso","Yevhen Khacheridi",19
+"Miguel Veloso","Raffael",7
+"Miguel Veloso","Betão",11
+"Miguel Veloso","Ognjen Vukojević",13
+"Miguel Veloso","Oleh Gusev",19
+"Miguel Veloso","Admir Mehmedi",1
+"Miguel Veloso","Artem Milevskiy",4
+"Miguel Veloso","Lukman Haruna",4
+"Miguel Veloso","Dudu",1
+"Miguel Veloso","Andriy Bogdanov",2
+"Andriy Yarmolenko","Maxym Koval",1
+"Andriy Yarmolenko","Danilo Silva",15
+"Andriy Yarmolenko","Miguel Veloso",20
+"Andriy Yarmolenko","Ideye Brown",10
+"Andriy Yarmolenko","Taras Mikhalik",8
+"Andriy Yarmolenko","Denys Garmash",10
+"Andriy Yarmolenko","Niko Kranjčar",9
+"Andriy Yarmolenko","Taye Taiwo",9
+"Andriy Yarmolenko","Yevhen Khacheridi",1
+"Andriy Yarmolenko","Betão",12
+"Andriy Yarmolenko","Ognjen Vukojević",10
+"Andriy Yarmolenko","Oleh Gusev",3
+"Andriy Yarmolenko","Artem Milevskiy",1
+"Andriy Yarmolenko","Marco Ruben",1
+"Andriy Yarmolenko","Lukman Haruna",1
+"Andriy Yarmolenko","Dudu",1
+"Andriy Yarmolenko","Andriy Bogdanov",2
+"Ideye Brown","Maxym Koval",1
+"Ideye Brown","Danilo Silva",4
+"Ideye Brown","Miguel Veloso",15
+"Ideye Brown","Andriy Yarmolenko",12
+"Ideye Brown","Taras Mikhalik",2
+"Ideye Brown","Denys Garmash",7
+"Ideye Brown","Niko Kranjčar",2
+"Ideye Brown","Taye Taiwo",4
+"Ideye Brown","Yevhen Khacheridi",1
+"Ideye Brown","Raffael",1
+"Ideye Brown","Betão",2
+"Ideye Brown","Ognjen Vukojević",4
+"Ideye Brown","Oleh Gusev",6
+"Taras Mikhalik","Maxym Koval",5
+"Taras Mikhalik","Danilo Silva",12
+"Taras Mikhalik","Miguel Veloso",9
+"Taras Mikhalik","Andriy Yarmolenko",7
+"Taras Mikhalik","Ideye Brown",4
+"Taras Mikhalik","Denys Garmash",8
+"Taras Mikhalik","Niko Kranjčar",4
+"Taras Mikhalik","Taye Taiwo",6
+"Taras Mikhalik","Yevhen Khacheridi",13
+"Taras Mikhalik","Raffael",4
+"Taras Mikhalik","Betão",9
+"Taras Mikhalik","Ognjen Vukojević",15
+"Taras Mikhalik","Oleh Gusev",4
+"Taras Mikhalik","Olexandr Shovkovskiy",9
+"Taras Mikhalik","Artem Milevskiy",1
+"Taras Mikhalik","Marco Ruben",1
+"Denys Garmash","Danilo Silva",10
+"Denys Garmash","Miguel Veloso",17
+"Denys Garmash","Andriy Yarmolenko",8
+"Denys Garmash","Ideye Brown",9
+"Denys Garmash","Taras Mikhalik",4
+"Denys Garmash","Niko Kranjčar",4
+"Denys Garmash","Taye Taiwo",8
+"Denys Garmash","Yevhen Khacheridi",6
+"Denys Garmash","Raffael",7
+"Denys Garmash","Betão",4
+"Denys Garmash","Ognjen Vukojević",3
+"Denys Garmash","Oleh Gusev",6
+"Denys Garmash","Admir Mehmedi",1
+"Denys Garmash","Lukman Haruna",5
+"Denys Garmash","Dudu",2
+"Denys Garmash","Artem Milevskiy",1
+"Niko Kranjčar","Danilo Silva",7
+"Niko Kranjčar","Miguel Veloso",4
+"Niko Kranjčar","Andriy Yarmolenko",8
+"Niko Kranjčar","Ideye Brown",3
+"Niko Kranjčar","Taras Mikhalik",1
+"Niko Kranjčar","Denys Garmash",5
+"Niko Kranjčar","Taye Taiwo",7
+"Niko Kranjčar","Raffael",7
+"Niko Kranjčar","Betão",4
+"Niko Kranjčar","Ognjen Vukojević",2
+"Niko Kranjčar","Oleh Gusev",1
+"Taye Taiwo","Maxym Koval",7
+"Taye Taiwo","Danilo Silva",5
+"Taye Taiwo","Miguel Veloso",29
+"Taye Taiwo","Andriy Yarmolenko",10
+"Taye Taiwo","Ideye Brown",16
+"Taye Taiwo","Taras Mikhalik",6
+"Taye Taiwo","Denys Garmash",13
+"Taye Taiwo","Niko Kranjčar",7
+"Taye Taiwo","Yevhen Khacheridi",17
+"Taye Taiwo","Raffael",8
+"Taye Taiwo","Betão",11
+"Taye Taiwo","Ognjen Vukojević",16
+"Taye Taiwo","Oleh Gusev",18
+"Taye Taiwo","Olexandr Shovkovskiy",6
+"Taye Taiwo","Marco Ruben",1
+"Taye Taiwo","Lukman Haruna",2
+"Taye Taiwo","Dudu",7
+"Taye Taiwo","Andriy Bogdanov",1
+"Yevhen Khacheridi","Maxym Koval",6
+"Yevhen Khacheridi","Danilo Silva",9
+"Yevhen Khacheridi","Miguel Veloso",20
+"Yevhen Khacheridi","Andriy Yarmolenko",5
+"Yevhen Khacheridi","Ideye Brown",6
+"Yevhen Khacheridi","Taras Mikhalik",18
+"Yevhen Khacheridi","Denys Garmash",14
+"Yevhen Khacheridi","Niko Kranjčar",1
+"Yevhen Khacheridi","Taye Taiwo",25
+"Yevhen Khacheridi","Raffael",1
+"Yevhen Khacheridi","Betão",8
+"Yevhen Khacheridi","Ognjen Vukojević",13
+"Yevhen Khacheridi","Oleh Gusev",9
+"Yevhen Khacheridi","Olexandr Shovkovskiy",9
+"Yevhen Khacheridi","Admir Mehmedi",1
+"Yevhen Khacheridi","Artem Milevskiy",1
+"Yevhen Khacheridi","Marco Ruben",3
+"Yevhen Khacheridi","Lukman Haruna",2
+"Yevhen Khacheridi","Dudu",1
+"Yevhen Khacheridi","Andriy Bogdanov",3
+"Raffael","Danilo Silva",7
+"Raffael","Miguel Veloso",9
+"Raffael","Andriy Yarmolenko",3
+"Raffael","Ideye Brown",3
+"Raffael","Taras Mikhalik",3
+"Raffael","Denys Garmash",3
+"Raffael","Niko Kranjčar",5
+"Raffael","Taye Taiwo",7
+"Raffael","Yevhen Khacheridi",1
+"Raffael","Betão",2
+"Raffael","Ognjen Vukojević",7
+"Raffael","Oleh Gusev",1
+"Raffael","Admir Mehmedi",1
+"Betão","Maxym Koval",3
+"Betão","Danilo Silva",11
+"Betão","Miguel Veloso",9
+"Betão","Andriy Yarmolenko",21
+"Betão","Ideye Brown",3
+"Betão","Taras Mikhalik",13
+"Betão","Denys Garmash",4
+"Betão","Niko Kranjčar",3
+"Betão","Taye Taiwo",11
+"Betão","Yevhen Khacheridi",11
+"Betão","Ognjen Vukojević",10
+"Betão","Oleh Gusev",2
+"Betão","Olexandr Shovkovskiy",2
+"Betão","Artem Milevskiy",2
+"Betão","Marco Ruben",4
+"Betão","Lukman Haruna",5
+"Betão","Dudu",1
+"Betão","Andriy Bogdanov",1
+"Ognjen Vukojević","Maxym Koval",1
+"Ognjen Vukojević","Danilo Silva",4
+"Ognjen Vukojević","Miguel Veloso",19
+"Ognjen Vukojević","Andriy Yarmolenko",10
+"Ognjen Vukojević","Ideye Brown",5
+"Ognjen Vukojević","Taras Mikhalik",19
+"Ognjen Vukojević","Denys Garmash",5
+"Ognjen Vukojević","Niko Kranjčar",7
+"Ognjen Vukojević","Taye Taiwo",17
+"Ognjen Vukojević","Yevhen Khacheridi",17
+"Ognjen Vukojević","Raffael",8
+"Ognjen Vukojević","Betão",11
+"Ognjen Vukojević","Oleh Gusev",6
+"Ognjen Vukojević","Olexandr Shovkovskiy",1
+"Ognjen Vukojević","Artem Milevskiy",2
+"Oleh Gusev","Danilo Silva",8
+"Oleh Gusev","Miguel Veloso",8
+"Oleh Gusev","Andriy Yarmolenko",1
+"Oleh Gusev","Ideye Brown",10
+"Oleh Gusev","Denys Garmash",3
+"Oleh Gusev","Niko Kranjčar",1
+"Oleh Gusev","Taye Taiwo",10
+"Oleh Gusev","Yevhen Khacheridi",3
+"Oleh Gusev","Betão",1
+"Oleh Gusev","Ognjen Vukojević",7
+"Oleh Gusev","Artem Milevskiy",1
+"Oleh Gusev","Lukman Haruna",4
+"Olexandr Shovkovskiy","Danilo Silva",3
+"Olexandr Shovkovskiy","Miguel Veloso",2
+"Olexandr Shovkovskiy","Ognjen Vukojević",3
+"Olexandr Shovkovskiy","Andriy Yarmolenko",5
+"Olexandr Shovkovskiy","Taras Mikhalik",12
+"Olexandr Shovkovskiy","Oleh Gusev",2
+"Olexandr Shovkovskiy","Taye Taiwo",3
+"Olexandr Shovkovskiy","Yevhen Khacheridi",4
+"Olexandr Shovkovskiy","Denys Garmash",3
+"Admir Mehmedi","Danilo Silva",1
+"Artem Milevskiy","Miguel Veloso",1
+"Artem Milevskiy","Ognjen Vukojević",1
+"Artem Milevskiy","Andriy Yarmolenko",4
+"Artem Milevskiy","Oleh Gusev",2
+"Artem Milevskiy","Ideye Brown",1
+"Artem Milevskiy","Dudu",1
+"Marco Ruben","Miguel Veloso",1
+"Marco Ruben","Ognjen Vukojević",1
+"Marco Ruben","Andriy Yarmolenko",2
+"Marco Ruben","Artem Milevskiy",1
+"Marco Ruben","Oleh Gusev",1
+"Marco Ruben","Yevhen Khacheridi",1
+"Lukman Haruna","Betão",3
+"Lukman Haruna","Miguel Veloso",3
+"Lukman Haruna","Andriy Yarmolenko",3
+"Lukman Haruna","Oleh Gusev",3
+"Lukman Haruna","Ideye Brown",4
+"Lukman Haruna","Danilo Silva",3
+"Lukman Haruna","Denys Garmash",4
+"Lukman Haruna","Dudu",2
+"Dudu","Betão",2
+"Dudu","Miguel Veloso",3
+"Dudu","Denys Garmash",1
+"Dudu","Taye Taiwo",2
+"Andriy Bogdanov","Danilo Silva",5
+"Andriy Bogdanov","Miguel Veloso",1
+"Andriy Bogdanov","Yevhen Khacheridi",1
+"Andriy Bogdanov","Dudu",1
+"Andriy Bogdanov","Artem Milevskiy",1

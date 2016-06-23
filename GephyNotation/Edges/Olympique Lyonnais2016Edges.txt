@@ -1,0 +1,297 @@
+"Anthony Lopes","Mapou Yanga-Mbiwa",22
+"Anthony Lopes","Corentin Tolisso",6
+"Anthony Lopes","Claudio Beauvue",5
+"Anthony Lopes","Alexandre Lacazette",3
+"Anthony Lopes","Jordan Ferri",2
+"Anthony Lopes","Jérémy Morel",6
+"Anthony Lopes","Mathieu Valbuena",2
+"Anthony Lopes","Rafael",6
+"Anthony Lopes","Maxime Gonalons",6
+"Anthony Lopes","Samuel Umtiti",24
+"Anthony Lopes","Christophe Jallet",7
+"Anthony Lopes","Steed Malbranque",3
+"Anthony Lopes","Aldo Kalulu",1
+"Anthony Lopes","Milan Biševac",1
+"Anthony Lopes","Rachid Ghezzal",2
+"Anthony Lopes","Maxwel Cornet",1
+"Anthony Lopes","Henri Bedimo",3
+"Mapou Yanga-Mbiwa","Anthony Lopes",16
+"Mapou Yanga-Mbiwa","Corentin Tolisso",20
+"Mapou Yanga-Mbiwa","Alexandre Lacazette",6
+"Mapou Yanga-Mbiwa","Jordan Ferri",15
+"Mapou Yanga-Mbiwa","Jérémy Morel",5
+"Mapou Yanga-Mbiwa","Mathieu Valbuena",7
+"Mapou Yanga-Mbiwa","Rafael",11
+"Mapou Yanga-Mbiwa","Maxime Gonalons",29
+"Mapou Yanga-Mbiwa","Samuel Umtiti",25
+"Mapou Yanga-Mbiwa","Christophe Jallet",11
+"Mapou Yanga-Mbiwa","Maxwel Cornet",5
+"Mapou Yanga-Mbiwa","Henri Bedimo",9
+"Mapou Yanga-Mbiwa","Sergi Darder",7
+"Mapou Yanga-Mbiwa","Milan Biševac",4
+"Corentin Tolisso","Anthony Lopes",3
+"Corentin Tolisso","Mapou Yanga-Mbiwa",20
+"Corentin Tolisso","Claudio Beauvue",5
+"Corentin Tolisso","Alexandre Lacazette",24
+"Corentin Tolisso","Jordan Ferri",32
+"Corentin Tolisso","Jérémy Morel",23
+"Corentin Tolisso","Mathieu Valbuena",32
+"Corentin Tolisso","Rafael",15
+"Corentin Tolisso","Maxime Gonalons",35
+"Corentin Tolisso","Samuel Umtiti",17
+"Corentin Tolisso","Christophe Jallet",17
+"Corentin Tolisso","Steed Malbranque",9
+"Corentin Tolisso","Aldo Kalulu",3
+"Corentin Tolisso","Milan Biševac",4
+"Corentin Tolisso","Sergi Darder",10
+"Corentin Tolisso","Rachid Ghezzal",12
+"Corentin Tolisso","Maxwel Cornet",4
+"Corentin Tolisso","Henri Bedimo",28
+"Corentin Tolisso","Clément Grenier",5
+"Claudio Beauvue","Mapou Yanga-Mbiwa",1
+"Claudio Beauvue","Corentin Tolisso",4
+"Claudio Beauvue","Alexandre Lacazette",4
+"Claudio Beauvue","Jordan Ferri",2
+"Claudio Beauvue","Jérémy Morel",2
+"Claudio Beauvue","Mathieu Valbuena",18
+"Claudio Beauvue","Rafael",3
+"Claudio Beauvue","Maxime Gonalons",2
+"Claudio Beauvue","Christophe Jallet",2
+"Claudio Beauvue","Aldo Kalulu",1
+"Claudio Beauvue","Sergi Darder",2
+"Claudio Beauvue","Rachid Ghezzal",1
+"Claudio Beauvue","Maxwel Cornet",1
+"Alexandre Lacazette","Mapou Yanga-Mbiwa",2
+"Alexandre Lacazette","Corentin Tolisso",19
+"Alexandre Lacazette","Claudio Beauvue",9
+"Alexandre Lacazette","Jordan Ferri",19
+"Alexandre Lacazette","Jérémy Morel",6
+"Alexandre Lacazette","Mathieu Valbuena",30
+"Alexandre Lacazette","Rafael",10
+"Alexandre Lacazette","Maxime Gonalons",14
+"Alexandre Lacazette","Samuel Umtiti",3
+"Alexandre Lacazette","Christophe Jallet",7
+"Alexandre Lacazette","Steed Malbranque",3
+"Alexandre Lacazette","Aldo Kalulu",3
+"Alexandre Lacazette","Milan Biševac",1
+"Alexandre Lacazette","Sergi Darder",8
+"Alexandre Lacazette","Rachid Ghezzal",7
+"Alexandre Lacazette","Maxwel Cornet",5
+"Alexandre Lacazette","Henri Bedimo",9
+"Alexandre Lacazette","Clément Grenier",3
+"Jordan Ferri","Mapou Yanga-Mbiwa",7
+"Jordan Ferri","Corentin Tolisso",25
+"Jordan Ferri","Claudio Beauvue",2
+"Jordan Ferri","Alexandre Lacazette",16
+"Jordan Ferri","Jérémy Morel",8
+"Jordan Ferri","Mathieu Valbuena",39
+"Jordan Ferri","Rafael",24
+"Jordan Ferri","Maxime Gonalons",17
+"Jordan Ferri","Samuel Umtiti",3
+"Jordan Ferri","Christophe Jallet",48
+"Jordan Ferri","Steed Malbranque",1
+"Jordan Ferri","Aldo Kalulu",3
+"Jordan Ferri","Milan Biševac",13
+"Jordan Ferri","Sergi Darder",1
+"Jordan Ferri","Rachid Ghezzal",10
+"Jordan Ferri","Henri Bedimo",10
+"Jérémy Morel","Anthony Lopes",6
+"Jérémy Morel","Mapou Yanga-Mbiwa",3
+"Jérémy Morel","Corentin Tolisso",24
+"Jérémy Morel","Claudio Beauvue",2
+"Jérémy Morel","Alexandre Lacazette",18
+"Jérémy Morel","Jordan Ferri",5
+"Jérémy Morel","Mathieu Valbuena",24
+"Jérémy Morel","Rafael",4
+"Jérémy Morel","Maxime Gonalons",14
+"Jérémy Morel","Samuel Umtiti",12
+"Jérémy Morel","Steed Malbranque",1
+"Jérémy Morel","Aldo Kalulu",3
+"Jérémy Morel","Sergi Darder",5
+"Jérémy Morel","Rachid Ghezzal",2
+"Jérémy Morel","Henri Bedimo",6
+"Jérémy Morel","Clément Grenier",7
+"Mathieu Valbuena","Mapou Yanga-Mbiwa",4
+"Mathieu Valbuena","Corentin Tolisso",24
+"Mathieu Valbuena","Claudio Beauvue",11
+"Mathieu Valbuena","Alexandre Lacazette",45
+"Mathieu Valbuena","Jordan Ferri",36
+"Mathieu Valbuena","Jérémy Morel",26
+"Mathieu Valbuena","Rafael",26
+"Mathieu Valbuena","Maxime Gonalons",9
+"Mathieu Valbuena","Samuel Umtiti",3
+"Mathieu Valbuena","Christophe Jallet",36
+"Mathieu Valbuena","Steed Malbranque",8
+"Mathieu Valbuena","Aldo Kalulu",14
+"Mathieu Valbuena","Milan Biševac",4
+"Mathieu Valbuena","Sergi Darder",5
+"Mathieu Valbuena","Rachid Ghezzal",11
+"Mathieu Valbuena","Maxwel Cornet",1
+"Mathieu Valbuena","Henri Bedimo",8
+"Rafael","Anthony Lopes",7
+"Rafael","Mapou Yanga-Mbiwa",17
+"Rafael","Corentin Tolisso",9
+"Rafael","Claudio Beauvue",3
+"Rafael","Alexandre Lacazette",10
+"Rafael","Jordan Ferri",15
+"Rafael","Jérémy Morel",2
+"Rafael","Mathieu Valbuena",27
+"Rafael","Maxime Gonalons",8
+"Rafael","Samuel Umtiti",3
+"Rafael","Christophe Jallet",9
+"Rafael","Steed Malbranque",3
+"Rafael","Rachid Ghezzal",1
+"Rafael","Maxwel Cornet",8
+"Rafael","Henri Bedimo",2
+"Rafael","Sergi Darder",11
+"Rafael","Milan Biševac",3
+"Rafael","Clément Grenier",1
+"Maxime Gonalons","Anthony Lopes",2
+"Maxime Gonalons","Mapou Yanga-Mbiwa",18
+"Maxime Gonalons","Corentin Tolisso",42
+"Maxime Gonalons","Claudio Beauvue",4
+"Maxime Gonalons","Alexandre Lacazette",8
+"Maxime Gonalons","Jordan Ferri",26
+"Maxime Gonalons","Jérémy Morel",24
+"Maxime Gonalons","Mathieu Valbuena",18
+"Maxime Gonalons","Rafael",14
+"Maxime Gonalons","Samuel Umtiti",17
+"Maxime Gonalons","Christophe Jallet",36
+"Maxime Gonalons","Steed Malbranque",2
+"Maxime Gonalons","Aldo Kalulu",1
+"Maxime Gonalons","Milan Biševac",7
+"Maxime Gonalons","Sergi Darder",17
+"Maxime Gonalons","Rachid Ghezzal",2
+"Maxime Gonalons","Maxwel Cornet",6
+"Maxime Gonalons","Henri Bedimo",10
+"Maxime Gonalons","Clément Grenier",4
+"Samuel Umtiti","Anthony Lopes",11
+"Samuel Umtiti","Mapou Yanga-Mbiwa",18
+"Samuel Umtiti","Corentin Tolisso",22
+"Samuel Umtiti","Claudio Beauvue",4
+"Samuel Umtiti","Alexandre Lacazette",9
+"Samuel Umtiti","Jordan Ferri",12
+"Samuel Umtiti","Jérémy Morel",20
+"Samuel Umtiti","Mathieu Valbuena",12
+"Samuel Umtiti","Rafael",1
+"Samuel Umtiti","Maxime Gonalons",15
+"Samuel Umtiti","Christophe Jallet",3
+"Samuel Umtiti","Aldo Kalulu",2
+"Samuel Umtiti","Milan Biševac",9
+"Samuel Umtiti","Sergi Darder",8
+"Samuel Umtiti","Rachid Ghezzal",3
+"Samuel Umtiti","Henri Bedimo",6
+"Christophe Jallet","Anthony Lopes",6
+"Christophe Jallet","Mapou Yanga-Mbiwa",12
+"Christophe Jallet","Corentin Tolisso",20
+"Christophe Jallet","Claudio Beauvue",5
+"Christophe Jallet","Alexandre Lacazette",13
+"Christophe Jallet","Jordan Ferri",37
+"Christophe Jallet","Jérémy Morel",1
+"Christophe Jallet","Mathieu Valbuena",45
+"Christophe Jallet","Rafael",8
+"Christophe Jallet","Maxime Gonalons",17
+"Christophe Jallet","Samuel Umtiti",8
+"Christophe Jallet","Steed Malbranque",2
+"Christophe Jallet","Aldo Kalulu",5
+"Christophe Jallet","Milan Biševac",2
+"Christophe Jallet","Sergi Darder",4
+"Christophe Jallet","Maxwel Cornet",1
+"Steed Malbranque","Corentin Tolisso",7
+"Steed Malbranque","Alexandre Lacazette",3
+"Steed Malbranque","Jordan Ferri",3
+"Steed Malbranque","Mathieu Valbuena",8
+"Steed Malbranque","Rafael",8
+"Steed Malbranque","Christophe Jallet",5
+"Steed Malbranque","Henri Bedimo",3
+"Aldo Kalulu","Mapou Yanga-Mbiwa",1
+"Aldo Kalulu","Corentin Tolisso",3
+"Aldo Kalulu","Alexandre Lacazette",3
+"Aldo Kalulu","Jordan Ferri",4
+"Aldo Kalulu","Jérémy Morel",2
+"Aldo Kalulu","Mathieu Valbuena",4
+"Aldo Kalulu","Maxime Gonalons",3
+"Aldo Kalulu","Samuel Umtiti",3
+"Aldo Kalulu","Christophe Jallet",4
+"Aldo Kalulu","Milan Biševac",1
+"Aldo Kalulu","Sergi Darder",1
+"Milan Biševac","Anthony Lopes",5
+"Milan Biševac","Corentin Tolisso",7
+"Milan Biševac","Alexandre Lacazette",1
+"Milan Biševac","Christophe Jallet",16
+"Milan Biševac","Sergi Darder",6
+"Milan Biševac","Jérémy Morel",1
+"Milan Biševac","Mathieu Valbuena",9
+"Milan Biševac","Maxime Gonalons",3
+"Milan Biševac","Samuel Umtiti",10
+"Milan Biševac","Aldo Kalulu",1
+"Milan Biševac","Jordan Ferri",7
+"Milan Biševac","Mapou Yanga-Mbiwa",3
+"Milan Biševac","Henri Bedimo",1
+"Milan Biševac","Steed Malbranque",2
+"Milan Biševac","Rafael",6
+"Sergi Darder","Anthony Lopes",2
+"Sergi Darder","Milan Biševac",1
+"Sergi Darder","Corentin Tolisso",12
+"Sergi Darder","Alexandre Lacazette",8
+"Sergi Darder","Christophe Jallet",7
+"Sergi Darder","Jérémy Morel",3
+"Sergi Darder","Mathieu Valbuena",10
+"Sergi Darder","Maxime Gonalons",12
+"Sergi Darder","Samuel Umtiti",6
+"Sergi Darder","Aldo Kalulu",4
+"Sergi Darder","Claudio Beauvue",2
+"Sergi Darder","Rachid Ghezzal",1
+"Sergi Darder","Jordan Ferri",3
+"Sergi Darder","Mapou Yanga-Mbiwa",2
+"Sergi Darder","Henri Bedimo",7
+"Sergi Darder","Rafael",9
+"Sergi Darder","Maxwel Cornet",7
+"Sergi Darder","Clément Grenier",2
+"Rachid Ghezzal","Anthony Lopes",1
+"Rachid Ghezzal","Corentin Tolisso",9
+"Rachid Ghezzal","Alexandre Lacazette",10
+"Rachid Ghezzal","Christophe Jallet",1
+"Rachid Ghezzal","Jérémy Morel",5
+"Rachid Ghezzal","Mathieu Valbuena",4
+"Rachid Ghezzal","Maxime Gonalons",1
+"Rachid Ghezzal","Samuel Umtiti",1
+"Rachid Ghezzal","Claudio Beauvue",2
+"Rachid Ghezzal","Jordan Ferri",8
+"Rachid Ghezzal","Henri Bedimo",5
+"Rachid Ghezzal","Steed Malbranque",1
+"Maxwel Cornet","Corentin Tolisso",6
+"Maxwel Cornet","Alexandre Lacazette",1
+"Maxwel Cornet","Jérémy Morel",2
+"Maxwel Cornet","Mathieu Valbuena",3
+"Maxwel Cornet","Rafael",11
+"Maxwel Cornet","Maxime Gonalons",2
+"Maxwel Cornet","Henri Bedimo",1
+"Maxwel Cornet","Sergi Darder",4
+"Maxwel Cornet","Bakary Koné",1
+"Henri Bedimo","Anthony Lopes",2
+"Henri Bedimo","Mapou Yanga-Mbiwa",9
+"Henri Bedimo","Corentin Tolisso",15
+"Henri Bedimo","Claudio Beauvue",2
+"Henri Bedimo","Alexandre Lacazette",17
+"Henri Bedimo","Christophe Jallet",1
+"Henri Bedimo","Sergi Darder",8
+"Henri Bedimo","Mathieu Valbuena",6
+"Henri Bedimo","Maxime Gonalons",5
+"Henri Bedimo","Samuel Umtiti",4
+"Henri Bedimo","Jordan Ferri",10
+"Henri Bedimo","Rafael",1
+"Henri Bedimo","Maxwel Cornet",3
+"Henri Bedimo","Milan Biševac",1
+"Henri Bedimo","Rachid Ghezzal",14
+"Henri Bedimo","Clément Grenier",8
+"Henri Bedimo","Jérémy Morel",7
+"Clément Grenier","Henri Bedimo",5
+"Clément Grenier","Corentin Tolisso",8
+"Clément Grenier","Alexandre Lacazette",4
+"Clément Grenier","Sergi Darder",3
+"Clément Grenier","Jérémy Morel",2
+"Clément Grenier","Maxime Gonalons",3
+"Clément Grenier","Maxwel Cornet",2
+"Bakary Koné","Mapou Yanga-Mbiwa",1
+"Bakary Koné","Maxwel Cornet",1

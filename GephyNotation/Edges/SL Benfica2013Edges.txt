@@ -1,0 +1,287 @@
+"Artur","Eduardo Salvio",7
+"Artur","Rodrigo",2
+"Artur","Nicolás Gaitán",3
+"Artur","Nemanja Matić",5
+"Artur","Ezequiel Garay",14
+"Artur","Melgarejo",8
+"Artur","Jardel",4
+"Artur","André Almeida",4
+"Artur","Enzo Peréz",5
+"Artur","Óscar Cardozo",5
+"Artur","Bruno César",3
+"Artur","Lima",6
+"Artur","Maxi Pereira",9
+"Artur","Ola John",4
+"Artur","André Gomes",2
+"Artur","Luisão",6
+"Pablo Aimar","Eduardo Salvio",4
+"Pablo Aimar","Rodrigo",2
+"Pablo Aimar","Nicolás Gaitán",10
+"Pablo Aimar","Nemanja Matić",4
+"Pablo Aimar","Ezequiel Garay",4
+"Pablo Aimar","André Almeida",1
+"Pablo Aimar","Enzo Peréz",3
+"Pablo Aimar","Lima",1
+"Eduardo Salvio","Pablo Aimar",2
+"Eduardo Salvio","Rodrigo",6
+"Eduardo Salvio","Nicolás Gaitán",5
+"Eduardo Salvio","Nemanja Matić",10
+"Eduardo Salvio","Ezequiel Garay",2
+"Eduardo Salvio","Melgarejo",4
+"Eduardo Salvio","Jardel",5
+"Eduardo Salvio","André Almeida",13
+"Eduardo Salvio","Enzo Peréz",22
+"Eduardo Salvio","Óscar Cardozo",8
+"Eduardo Salvio","Bruno César",5
+"Eduardo Salvio","Lima",16
+"Eduardo Salvio","Maxi Pereira",18
+"Eduardo Salvio","Carlos Martins",1
+"Eduardo Salvio","Luisão",2
+"Rodrigo","Artur",1
+"Rodrigo","Pablo Aimar",3
+"Rodrigo","Eduardo Salvio",3
+"Rodrigo","Nicolás Gaitán",2
+"Rodrigo","Nemanja Matić",6
+"Rodrigo","Ezequiel Garay",2
+"Rodrigo","Melgarejo",9
+"Rodrigo","Jardel",1
+"Rodrigo","Enzo Peréz",2
+"Rodrigo","Bruno César",4
+"Rodrigo","Nolito",2
+"Rodrigo","Lima",2
+"Rodrigo","Maxi Pereira",1
+"Rodrigo","Ola John",6
+"Rodrigo","André Gomes",1
+"Nicolás Gaitán","Pablo Aimar",2
+"Nicolás Gaitán","Eduardo Salvio",5
+"Nicolás Gaitán","Rodrigo",2
+"Nicolás Gaitán","Nemanja Matić",2
+"Nicolás Gaitán","Ezequiel Garay",4
+"Nicolás Gaitán","Melgarejo",9
+"Nicolás Gaitán","Jardel",1
+"Nicolás Gaitán","Enzo Peréz",3
+"Nicolás Gaitán","Óscar Cardozo",5
+"Nicolás Gaitán","Bruno César",2
+"Nicolás Gaitán","Lima",5
+"Nemanja Matić","Artur",3
+"Nemanja Matić","Pablo Aimar",1
+"Nemanja Matić","Eduardo Salvio",11
+"Nemanja Matić","Rodrigo",8
+"Nemanja Matić","Nicolás Gaitán",7
+"Nemanja Matić","Ezequiel Garay",16
+"Nemanja Matić","Melgarejo",13
+"Nemanja Matić","Jardel",7
+"Nemanja Matić","André Almeida",7
+"Nemanja Matić","Enzo Peréz",22
+"Nemanja Matić","Óscar Cardozo",1
+"Nemanja Matić","Bruno César",3
+"Nemanja Matić","Nolito",1
+"Nemanja Matić","Lima",8
+"Nemanja Matić","Maxi Pereira",7
+"Nemanja Matić","Carlos Martins",2
+"Nemanja Matić","Ola John",11
+"Nemanja Matić","Luisão",3
+"Nemanja Matić","André Gomes",4
+"Ezequiel Garay","Artur",17
+"Ezequiel Garay","Pablo Aimar",4
+"Ezequiel Garay","Eduardo Salvio",6
+"Ezequiel Garay","Rodrigo",2
+"Ezequiel Garay","Nicolás Gaitán",5
+"Ezequiel Garay","Nemanja Matić",12
+"Ezequiel Garay","Melgarejo",31
+"Ezequiel Garay","Jardel",22
+"Ezequiel Garay","André Almeida",8
+"Ezequiel Garay","Enzo Peréz",28
+"Ezequiel Garay","Óscar Cardozo",2
+"Ezequiel Garay","Bruno César",4
+"Ezequiel Garay","Nolito",1
+"Ezequiel Garay","Lima",6
+"Ezequiel Garay","Maxi Pereira",5
+"Ezequiel Garay","Carlos Martins",1
+"Ezequiel Garay","Ola John",16
+"Ezequiel Garay","André Gomes",4
+"Ezequiel Garay","Luisão",3
+"Melgarejo","Artur",6
+"Melgarejo","Pablo Aimar",2
+"Melgarejo","Eduardo Salvio",7
+"Melgarejo","Rodrigo",8
+"Melgarejo","Nicolás Gaitán",13
+"Melgarejo","Nemanja Matić",14
+"Melgarejo","Ezequiel Garay",27
+"Melgarejo","Jardel",5
+"Melgarejo","André Almeida",5
+"Melgarejo","Enzo Peréz",8
+"Melgarejo","Óscar Cardozo",5
+"Melgarejo","Bruno César",12
+"Melgarejo","Nolito",5
+"Melgarejo","Lima",9
+"Melgarejo","Maxi Pereira",1
+"Melgarejo","Carlos Martins",2
+"Melgarejo","Ola John",23
+"Melgarejo","André Gomes",4
+"Melgarejo","Luisão",2
+"Jardel","Artur",10
+"Jardel","Eduardo Salvio",15
+"Jardel","Rodrigo",3
+"Jardel","Nicolás Gaitán",2
+"Jardel","Nemanja Matić",5
+"Jardel","Ezequiel Garay",14
+"Jardel","Melgarejo",8
+"Jardel","André Almeida",12
+"Jardel","Enzo Peréz",9
+"Jardel","Óscar Cardozo",2
+"Jardel","Bruno César",4
+"Jardel","Maxi Pereira",14
+"Jardel","Carlos Martins",1
+"Jardel","André Gomes",1
+"André Almeida","Artur",8
+"André Almeida","Pablo Aimar",3
+"André Almeida","Eduardo Salvio",26
+"André Almeida","Rodrigo",3
+"André Almeida","Nemanja Matić",7
+"André Almeida","Ezequiel Garay",8
+"André Almeida","Melgarejo",7
+"André Almeida","Jardel",7
+"André Almeida","Enzo Peréz",12
+"André Almeida","Óscar Cardozo",4
+"André Almeida","Bruno César",5
+"André Almeida","Lima",6
+"André Almeida","Maxi Pereira",5
+"André Almeida","Ola John",3
+"André Almeida","André Gomes",6
+"André Almeida","Luisão",7
+"Enzo Peréz","Artur",1
+"Enzo Peréz","Pablo Aimar",3
+"Enzo Peréz","Eduardo Salvio",24
+"Enzo Peréz","Rodrigo",3
+"Enzo Peréz","Nicolás Gaitán",11
+"Enzo Peréz","Nemanja Matić",16
+"Enzo Peréz","Ezequiel Garay",14
+"Enzo Peréz","Melgarejo",14
+"Enzo Peréz","Jardel",10
+"Enzo Peréz","André Almeida",16
+"Enzo Peréz","Óscar Cardozo",3
+"Enzo Peréz","Bruno César",3
+"Enzo Peréz","Nolito",1
+"Enzo Peréz","Lima",17
+"Enzo Peréz","Maxi Pereira",6
+"Enzo Peréz","Ola John",7
+"Enzo Peréz","André Gomes",5
+"Enzo Peréz","Luisão",4
+"Óscar Cardozo","Eduardo Salvio",5
+"Óscar Cardozo","Nicolás Gaitán",1
+"Óscar Cardozo","Nemanja Matić",4
+"Óscar Cardozo","Ezequiel Garay",2
+"Óscar Cardozo","Melgarejo",3
+"Óscar Cardozo","André Almeida",5
+"Óscar Cardozo","Enzo Peréz",5
+"Óscar Cardozo","Bruno César",3
+"Óscar Cardozo","Lima",4
+"Óscar Cardozo","Maxi Pereira",1
+"Óscar Cardozo","Ola John",9
+"Óscar Cardozo","Luisão",2
+"Bruno César","Artur",1
+"Bruno César","Eduardo Salvio",5
+"Bruno César","Rodrigo",2
+"Bruno César","Nicolás Gaitán",2
+"Bruno César","Nemanja Matić",3
+"Bruno César","Ezequiel Garay",2
+"Bruno César","Melgarejo",4
+"Bruno César","Jardel",3
+"Bruno César","André Almeida",6
+"Bruno César","Enzo Peréz",4
+"Bruno César","Óscar Cardozo",2
+"Bruno César","Lima",9
+"Bruno César","Maxi Pereira",2
+"Bruno César","Ola John",2
+"Bruno César","André Gomes",2
+"Nolito","Pablo Aimar",1
+"Nolito","Rodrigo",2
+"Nolito","Nemanja Matić",1
+"Nolito","Ezequiel Garay",2
+"Nolito","Melgarejo",1
+"Nolito","Jardel",1
+"Nolito","Enzo Peréz",1
+"Nolito","Lima",2
+"Nolito","Luisão",1
+"Nolito","Ola John",1
+"Nolito","André Gomes",2
+"Lima","Bruno César",6
+"Lima","Maxi Pereira",5
+"Lima","Eduardo Salvio",15
+"Lima","Nicolás Gaitán",1
+"Lima","Nemanja Matić",10
+"Lima","Ezequiel Garay",4
+"Lima","Melgarejo",7
+"Lima","Jardel",2
+"Lima","Enzo Peréz",9
+"Lima","Nolito",1
+"Lima","Pablo Aimar",3
+"Lima","Rodrigo",3
+"Lima","Óscar Cardozo",1
+"Lima","Ola John",7
+"Lima","André Almeida",1
+"Lima","André Gomes",1
+"Maxi Pereira","Artur",4
+"Maxi Pereira","Bruno César",2
+"Maxi Pereira","Lima",6
+"Maxi Pereira","Eduardo Salvio",22
+"Maxi Pereira","Nicolás Gaitán",3
+"Maxi Pereira","Nemanja Matić",9
+"Maxi Pereira","Ezequiel Garay",5
+"Maxi Pereira","Jardel",5
+"Maxi Pereira","Enzo Peréz",10
+"Maxi Pereira","Nolito",1
+"Maxi Pereira","Pablo Aimar",1
+"Maxi Pereira","Carlos Martins",2
+"Maxi Pereira","Rodrigo",7
+"Maxi Pereira","Óscar Cardozo",3
+"Maxi Pereira","Ola John",12
+"Maxi Pereira","André Almeida",6
+"Maxi Pereira","André Gomes",1
+"Maxi Pereira","Luisão",1
+"Carlos Martins","Nemanja Matić",2
+"Carlos Martins","Ezequiel Garay",1
+"Carlos Martins","Melgarejo",1
+"Carlos Martins","Jardel",2
+"Carlos Martins","Nolito",1
+"Ola John","Bruno César",3
+"Ola John","Lima",8
+"Ola John","Maxi Pereira",9
+"Ola John","Eduardo Salvio",2
+"Ola John","Rodrigo",2
+"Ola John","Nemanja Matić",10
+"Ola John","Ezequiel Garay",3
+"Ola John","Melgarejo",15
+"Ola John","Enzo Peréz",9
+"Ola John","Óscar Cardozo",12
+"Ola John","Nicolás Gaitán",1
+"Ola John","André Almeida",5
+"Ola John","André Gomes",7
+"Ola John","Luisão",5
+"Ola John","Nolito",2
+"André Gomes","Maxi Pereira",4
+"André Gomes","Ola John",2
+"André Gomes","Rodrigo",3
+"André Gomes","Ezequiel Garay",6
+"André Gomes","Melgarejo",2
+"André Gomes","Jardel",2
+"André Gomes","André Almeida",2
+"André Gomes","Enzo Peréz",3
+"André Gomes","Óscar Cardozo",2
+"André Gomes","Bruno César",2
+"André Gomes","Luisão",1
+"André Gomes","Nolito",2
+"André Gomes","Nemanja Matić",4
+"Luisão","Artur",7
+"Luisão","Óscar Cardozo",1
+"Luisão","Ola John",2
+"Luisão","Eduardo Salvio",4
+"Luisão","Nemanja Matić",6
+"Luisão","Ezequiel Garay",10
+"Luisão","Melgarejo",2
+"Luisão","André Almeida",12
+"Luisão","Enzo Peréz",2
+"Luisão","Maxi Pereira",1
+"Luisão","Nolito",1
+"Luisão","André Gomes",2

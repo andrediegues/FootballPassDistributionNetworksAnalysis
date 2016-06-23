@@ -1,0 +1,256 @@
+"Urko Pardo","João Guilherme",8
+"Urko Pardo","Carlão",25
+"Urko Pardo","Tiago Gomes",3
+"Urko Pardo","Cillian Sheridan",8
+"Urko Pardo","Constantinos Charalambides",1
+"Urko Pardo","Marios Antoniades",4
+"Urko Pardo","Vinicius",7
+"Urko Pardo","Nuno Morais",6
+"Urko Pardo","Mário Sérgio",3
+"Urko Pardo","Tomás De Vincenti",8
+"Urko Pardo","Gustavo Manduca",2
+"Urko Pardo","Tasos Papazoglou",2
+"João Guilherme","Urko Pardo",12
+"João Guilherme","Carlão",46
+"João Guilherme","Tiago Gomes",14
+"João Guilherme","Cillian Sheridan",5
+"João Guilherme","Constantinos Charalambides",1
+"João Guilherme","Marios Antoniades",2
+"João Guilherme","Vinicius",28
+"João Guilherme","Nuno Morais",18
+"João Guilherme","Mário Sérgio",35
+"João Guilherme","Tomás De Vincenti",4
+"João Guilherme","Gustavo Manduca",14
+"João Guilherme","Tasos Papazoglou",1
+"João Guilherme","Stathis Aloneftis",2
+"João Guilherme","Rafik Djebbour",2
+"Carlão","Urko Pardo",36
+"Carlão","João Guilherme",56
+"Carlão","Tiago Gomes",8
+"Carlão","Cillian Sheridan",6
+"Carlão","Marios Antoniades",30
+"Carlão","Vinicius",20
+"Carlão","Nuno Morais",28
+"Carlão","Mário Sérgio",11
+"Carlão","Tomás De Vincenti",5
+"Carlão","Nektarios Alexandrou",1
+"Carlão","Gustavo Manduca",9
+"Carlão","Tasos Papazoglou",4
+"Carlão","George Efrem",7
+"Carlão","Stathis Aloneftis",8
+"Carlão","John Arne Riise",2
+"Carlão","Nicholas Ioannou",5
+"Carlão","Kostakis Artymatas",1
+"Tiago Gomes","Urko Pardo",2
+"Tiago Gomes","João Guilherme",11
+"Tiago Gomes","Carlão",8
+"Tiago Gomes","Cillian Sheridan",8
+"Tiago Gomes","Marios Antoniades",12
+"Tiago Gomes","Vinicius",21
+"Tiago Gomes","Nuno Morais",18
+"Tiago Gomes","Mário Sérgio",43
+"Tiago Gomes","Tomás De Vincenti",12
+"Tiago Gomes","Gustavo Manduca",13
+"Tiago Gomes","Tasos Papazoglou",3
+"Tiago Gomes","George Efrem",9
+"Tiago Gomes","Stathis Aloneftis",1
+"Tiago Gomes","Rafik Djebbour",4
+"Tiago Gomes","John Arne Riise",1
+"Tiago Gomes","Kostakis Artymatas",1
+"Tiago Gomes","Pieros Sotiriou",1
+"Cillian Sheridan","Urko Pardo",1
+"Cillian Sheridan","João Guilherme",1
+"Cillian Sheridan","Tiago Gomes",12
+"Cillian Sheridan","Constantinos Charalambides",1
+"Cillian Sheridan","Marios Antoniades",5
+"Cillian Sheridan","Vinicius",11
+"Cillian Sheridan","Nuno Morais",16
+"Cillian Sheridan","Mário Sérgio",3
+"Cillian Sheridan","Tomás De Vincenti",10
+"Cillian Sheridan","Nektarios Alexandrou",1
+"Cillian Sheridan","Gustavo Manduca",6
+"Cillian Sheridan","George Efrem",3
+"Cillian Sheridan","Stathis Aloneftis",2
+"Constantinos Charalambides","Urko Pardo",1
+"Constantinos Charalambides","João Guilherme",2
+"Constantinos Charalambides","Tiago Gomes",1
+"Constantinos Charalambides","Cillian Sheridan",1
+"Constantinos Charalambides","Marios Antoniades",1
+"Constantinos Charalambides","Vinicius",10
+"Constantinos Charalambides","Nuno Morais",1
+"Constantinos Charalambides","Mário Sérgio",2
+"Constantinos Charalambides","Tomás De Vincenti",1
+"Constantinos Charalambides","Gustavo Manduca",2
+"Marios Antoniades","Urko Pardo",9
+"Marios Antoniades","Carlão",13
+"Marios Antoniades","Tiago Gomes",6
+"Marios Antoniades","Cillian Sheridan",20
+"Marios Antoniades","Constantinos Charalambides",1
+"Marios Antoniades","Vinicius",10
+"Marios Antoniades","Nuno Morais",18
+"Marios Antoniades","Mário Sérgio",2
+"Marios Antoniades","Tomás De Vincenti",12
+"Marios Antoniades","Nektarios Alexandrou",5
+"Marios Antoniades","Gustavo Manduca",8
+"Marios Antoniades","Tasos Papazoglou",4
+"Marios Antoniades","George Efrem",4
+"Marios Antoniades","Stathis Aloneftis",17
+"Marios Antoniades","Rafik Djebbour",4
+"Marios Antoniades","Kostakis Artymatas",2
+"Vinicius","Urko Pardo",3
+"Vinicius","João Guilherme",40
+"Vinicius","Carlão",18
+"Vinicius","Tiago Gomes",25
+"Vinicius","Cillian Sheridan",10
+"Vinicius","Constantinos Charalambides",7
+"Vinicius","Marios Antoniades",14
+"Vinicius","Nuno Morais",34
+"Vinicius","Mário Sérgio",61
+"Vinicius","Tomás De Vincenti",19
+"Vinicius","Nektarios Alexandrou",6
+"Vinicius","Gustavo Manduca",20
+"Vinicius","Tasos Papazoglou",7
+"Vinicius","George Efrem",9
+"Vinicius","Stathis Aloneftis",7
+"Vinicius","Rafik Djebbour",7
+"Vinicius","John Arne Riise",3
+"Vinicius","Nicholas Ioannou",2
+"Nuno Morais","Urko Pardo",12
+"Nuno Morais","João Guilherme",11
+"Nuno Morais","Carlão",33
+"Nuno Morais","Tiago Gomes",21
+"Nuno Morais","Cillian Sheridan",6
+"Nuno Morais","Constantinos Charalambides",4
+"Nuno Morais","Marios Antoniades",23
+"Nuno Morais","Vinicius",35
+"Nuno Morais","Mário Sérgio",22
+"Nuno Morais","Tomás De Vincenti",15
+"Nuno Morais","Nektarios Alexandrou",5
+"Nuno Morais","Gustavo Manduca",20
+"Nuno Morais","Tasos Papazoglou",3
+"Nuno Morais","George Efrem",12
+"Nuno Morais","Stathis Aloneftis",8
+"Nuno Morais","Rafik Djebbour",4
+"Nuno Morais","John Arne Riise",3
+"Nuno Morais","Nicholas Ioannou",5
+"Mário Sérgio","Urko Pardo",12
+"Mário Sérgio","João Guilherme",29
+"Mário Sérgio","Carlão",11
+"Mário Sérgio","Tiago Gomes",51
+"Mário Sérgio","Cillian Sheridan",10
+"Mário Sérgio","Constantinos Charalambides",6
+"Mário Sérgio","Marios Antoniades",8
+"Mário Sérgio","Vinicius",42
+"Mário Sérgio","Nuno Morais",16
+"Mário Sérgio","Tomás De Vincenti",11
+"Mário Sérgio","Nektarios Alexandrou",2
+"Mário Sérgio","Gustavo Manduca",14
+"Mário Sérgio","George Efrem",7
+"Mário Sérgio","Stathis Aloneftis",2
+"Mário Sérgio","Rafik Djebbour",3
+"Mário Sérgio","Nicholas Ioannou",1
+"Mário Sérgio","Kostakis Artymatas",1
+"Tomás De Vincenti","Carlão",6
+"Tomás De Vincenti","Tiago Gomes",13
+"Tomás De Vincenti","Cillian Sheridan",5
+"Tomás De Vincenti","Constantinos Charalambides",3
+"Tomás De Vincenti","Marios Antoniades",9
+"Tomás De Vincenti","Vinicius",12
+"Tomás De Vincenti","Nuno Morais",16
+"Tomás De Vincenti","Mário Sérgio",16
+"Tomás De Vincenti","Gustavo Manduca",6
+"Tomás De Vincenti","George Efrem",2
+"Tomás De Vincenti","Stathis Aloneftis",3
+"Tomás De Vincenti","Rafik Djebbour",4
+"Nektarios Alexandrou","Carlão",1
+"Nektarios Alexandrou","Tiago Gomes",1
+"Nektarios Alexandrou","Cillian Sheridan",4
+"Nektarios Alexandrou","Marios Antoniades",5
+"Nektarios Alexandrou","Vinicius",5
+"Nektarios Alexandrou","Nuno Morais",6
+"Nektarios Alexandrou","George Efrem",1
+"Nektarios Alexandrou","Kostakis Artymatas",1
+"Gustavo Manduca","João Guilherme",6
+"Gustavo Manduca","Carlão",8
+"Gustavo Manduca","Tiago Gomes",13
+"Gustavo Manduca","Cillian Sheridan",6
+"Gustavo Manduca","Marios Antoniades",9
+"Gustavo Manduca","Vinicius",27
+"Gustavo Manduca","Nuno Morais",14
+"Gustavo Manduca","Mário Sérgio",9
+"Gustavo Manduca","Tomás De Vincenti",5
+"Gustavo Manduca","George Efrem",7
+"Gustavo Manduca","Stathis Aloneftis",6
+"Gustavo Manduca","Rafik Djebbour",9
+"Gustavo Manduca","Nicholas Ioannou",4
+"Tasos Papazoglou","Urko Pardo",4
+"Tasos Papazoglou","João Guilherme",1
+"Tasos Papazoglou","Carlão",4
+"Tasos Papazoglou","Tiago Gomes",2
+"Tasos Papazoglou","Cillian Sheridan",3
+"Tasos Papazoglou","Marios Antoniades",2
+"Tasos Papazoglou","Vinicius",1
+"Tasos Papazoglou","Mário Sérgio",5
+"Tasos Papazoglou","George Efrem",1
+"Tasos Papazoglou","Pieros Sotiriou",1
+"George Efrem","Urko Pardo",1
+"George Efrem","João Guilherme",2
+"George Efrem","Carlão",5
+"George Efrem","Tiago Gomes",10
+"George Efrem","Cillian Sheridan",6
+"George Efrem","Marios Antoniades",2
+"George Efrem","Vinicius",6
+"George Efrem","Gustavo Manduca",5
+"George Efrem","Nuno Morais",7
+"George Efrem","Mário Sérgio",6
+"George Efrem","Tomás De Vincenti",3
+"George Efrem","Rafik Djebbour",5
+"George Efrem","John Arne Riise",1
+"George Efrem","Nicholas Ioannou",1
+"George Efrem","Nektarios Alexandrou",2
+"George Efrem","Tasos Papazoglou",1
+"Stathis Aloneftis","Urko Pardo",1
+"Stathis Aloneftis","Carlão",4
+"Stathis Aloneftis","Tiago Gomes",1
+"Stathis Aloneftis","Cillian Sheridan",8
+"Stathis Aloneftis","Marios Antoniades",10
+"Stathis Aloneftis","Vinicius",3
+"Stathis Aloneftis","Gustavo Manduca",4
+"Stathis Aloneftis","Nuno Morais",4
+"Stathis Aloneftis","Mário Sérgio",2
+"Stathis Aloneftis","Tomás De Vincenti",3
+"Stathis Aloneftis","Rafik Djebbour",5
+"Stathis Aloneftis","Nicholas Ioannou",1
+"Stathis Aloneftis","Nektarios Alexandrou",1
+"Rafik Djebbour","Carlão",1
+"Rafik Djebbour","Tiago Gomes",4
+"Rafik Djebbour","Marios Antoniades",3
+"Rafik Djebbour","Vinicius",7
+"Rafik Djebbour","Gustavo Manduca",5
+"Rafik Djebbour","Nuno Morais",3
+"Rafik Djebbour","Mário Sérgio",5
+"Rafik Djebbour","Tomás De Vincenti",1
+"Rafik Djebbour","George Efrem",6
+"Rafik Djebbour","Stathis Aloneftis",4
+"Rafik Djebbour","Nicholas Ioannou",2
+"John Arne Riise","João Guilherme",1
+"John Arne Riise","Carlão",2
+"John Arne Riise","Tiago Gomes",1
+"John Arne Riise","Vinicius",1
+"John Arne Riise","Nuno Morais",3
+"John Arne Riise","Tomás De Vincenti",1
+"Nicholas Ioannou","João Guilherme",1
+"Nicholas Ioannou","Carlão",5
+"Nicholas Ioannou","George Efrem",2
+"Nicholas Ioannou","Gustavo Manduca",2
+"Nicholas Ioannou","Nuno Morais",2
+"Nicholas Ioannou","Tomás De Vincenti",1
+"Nicholas Ioannou","Stathis Aloneftis",2
+"Kostakis Artymatas","Tiago Gomes",3
+"Kostakis Artymatas","Nektarios Alexandrou",2
+"Kostakis Artymatas","Marios Antoniades",1
+"Kostakis Artymatas","Mário Sérgio",2
+"Kostakis Artymatas","Stathis Aloneftis",3
+"Pieros Sotiriou","Nektarios Alexandrou",1
+"Pieros Sotiriou","Nuno Morais",1
+"Pieros Sotiriou","Stathis Aloneftis",1

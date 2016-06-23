@@ -1,0 +1,319 @@
+"Joe Hart","Maicon",6
+"Joe Hart","Vincent Kompany",25
+"Joe Hart","Samir Nasri",6
+"Joe Hart","Javi García",5
+"Joe Hart","Gareth Barry",6
+"Joe Hart","David Silva",2
+"Joe Hart","Gaël Clichy",14
+"Joe Hart","Carlos Tévez",1
+"Joe Hart","Matija Nastasić",25
+"Joe Hart","Yaya Touré",12
+"Joe Hart","Pablo Zabaleta",8
+"Joe Hart","Edin Džeko",8
+"Joe Hart","Aleksandar Kolarov",4
+"Joe Hart","Sergio Agüero",3
+"Joe Hart","Jack Rodwell",1
+"Joe Hart","Mario Balotelli",4
+"Joe Hart","Micah Richards",2
+"Joe Hart","Joleon Lescott",2
+"Joe Hart","James Milner",2
+"Joe Hart","Scott Sinclair",2
+"Maicon","Joe Hart",1
+"Maicon","Vincent Kompany",13
+"Maicon","Samir Nasri",6
+"Maicon","Javi García",12
+"Maicon","Gareth Barry",5
+"Maicon","David Silva",14
+"Maicon","Carlos Tévez",14
+"Maicon","Matija Nastasić",4
+"Maicon","Yaya Touré",7
+"Maicon","Pablo Zabaleta",4
+"Maicon","Edin Džeko",12
+"Maicon","Aleksandar Kolarov",1
+"Maicon","Sergio Agüero",7
+"Maicon","Joleon Lescott",4
+"Maicon","Scott Sinclair",4
+"Maicon","Mario Balotelli",3
+"Vincent Kompany","Joe Hart",34
+"Vincent Kompany","Maicon",23
+"Vincent Kompany","Samir Nasri",20
+"Vincent Kompany","Javi García",21
+"Vincent Kompany","Gareth Barry",16
+"Vincent Kompany","David Silva",1
+"Vincent Kompany","Gaël Clichy",9
+"Vincent Kompany","Carlos Tévez",8
+"Vincent Kompany","Matija Nastasić",60
+"Vincent Kompany","Yaya Touré",30
+"Vincent Kompany","Pablo Zabaleta",31
+"Vincent Kompany","Edin Džeko",9
+"Vincent Kompany","Aleksandar Kolarov",2
+"Vincent Kompany","Sergio Agüero",2
+"Vincent Kompany","Jack Rodwell",9
+"Vincent Kompany","Mario Balotelli",2
+"Vincent Kompany","Micah Richards",14
+"Vincent Kompany","Joleon Lescott",39
+"Vincent Kompany","James Milner",6
+"Vincent Kompany","Scott Sinclair",2
+"Samir Nasri","Joe Hart",3
+"Samir Nasri","Maicon",2
+"Samir Nasri","Vincent Kompany",14
+"Samir Nasri","Javi García",7
+"Samir Nasri","Gareth Barry",10
+"Samir Nasri","David Silva",10
+"Samir Nasri","Gaël Clichy",17
+"Samir Nasri","Carlos Tévez",10
+"Samir Nasri","Matija Nastasić",7
+"Samir Nasri","Yaya Touré",40
+"Samir Nasri","Pablo Zabaleta",14
+"Samir Nasri","Edin Džeko",17
+"Samir Nasri","Aleksandar Kolarov",6
+"Samir Nasri","Sergio Agüero",12
+"Samir Nasri","Jack Rodwell",1
+"Samir Nasri","Mario Balotelli",3
+"Samir Nasri","Micah Richards",3
+"Samir Nasri","Joleon Lescott",4
+"Samir Nasri","James Milner",3
+"Javi García","Joe Hart",1
+"Javi García","Maicon",15
+"Javi García","Vincent Kompany",29
+"Javi García","Samir Nasri",5
+"Javi García","Gareth Barry",10
+"Javi García","David Silva",6
+"Javi García","Gaël Clichy",10
+"Javi García","Carlos Tévez",17
+"Javi García","Matija Nastasić",21
+"Javi García","Yaya Touré",22
+"Javi García","Pablo Zabaleta",11
+"Javi García","Edin Džeko",3
+"Javi García","Sergio Agüero",5
+"Javi García","James Milner",1
+"Javi García","Joleon Lescott",5
+"Gareth Barry","Joe Hart",2
+"Gareth Barry","Maicon",6
+"Gareth Barry","Vincent Kompany",18
+"Gareth Barry","Samir Nasri",18
+"Gareth Barry","Javi García",15
+"Gareth Barry","David Silva",4
+"Gareth Barry","Gaël Clichy",12
+"Gareth Barry","Carlos Tévez",12
+"Gareth Barry","Matija Nastasić",10
+"Gareth Barry","Yaya Touré",16
+"Gareth Barry","Pablo Zabaleta",4
+"Gareth Barry","Edin Džeko",7
+"Gareth Barry","Aleksandar Kolarov",1
+"Gareth Barry","Micah Richards",2
+"Gareth Barry","Joleon Lescott",13
+"Gareth Barry","James Milner",3
+"Gareth Barry","Sergio Agüero",4
+"Gareth Barry","Scott Sinclair",1
+"David Silva","Maicon",4
+"David Silva","Vincent Kompany",2
+"David Silva","Samir Nasri",8
+"David Silva","Javi García",10
+"David Silva","Gareth Barry",1
+"David Silva","Gaël Clichy",4
+"David Silva","Carlos Tévez",6
+"David Silva","Matija Nastasić",4
+"David Silva","Yaya Touré",29
+"David Silva","Pablo Zabaleta",10
+"David Silva","Edin Džeko",9
+"David Silva","Aleksandar Kolarov",9
+"David Silva","Sergio Agüero",11
+"David Silva","Jack Rodwell",2
+"Gaël Clichy","Joe Hart",8
+"Gaël Clichy","Vincent Kompany",13
+"Gaël Clichy","Samir Nasri",24
+"Gaël Clichy","Javi García",6
+"Gaël Clichy","Gareth Barry",14
+"Gaël Clichy","David Silva",7
+"Gaël Clichy","Carlos Tévez",9
+"Gaël Clichy","Matija Nastasić",22
+"Gaël Clichy","Yaya Touré",18
+"Gaël Clichy","Pablo Zabaleta",1
+"Gaël Clichy","Edin Džeko",6
+"Gaël Clichy","Aleksandar Kolarov",10
+"Gaël Clichy","Sergio Agüero",15
+"Gaël Clichy","Mario Balotelli",4
+"Gaël Clichy","Joleon Lescott",7
+"Gaël Clichy","James Milner",2
+"Carlos Tévez","Maicon",15
+"Carlos Tévez","Vincent Kompany",4
+"Carlos Tévez","Samir Nasri",11
+"Carlos Tévez","Javi García",14
+"Carlos Tévez","Gareth Barry",13
+"Carlos Tévez","David Silva",6
+"Carlos Tévez","Gaël Clichy",5
+"Carlos Tévez","Matija Nastasić",8
+"Carlos Tévez","Yaya Touré",8
+"Carlos Tévez","Pablo Zabaleta",4
+"Carlos Tévez","Edin Džeko",5
+"Carlos Tévez","Aleksandar Kolarov",2
+"Carlos Tévez","Micah Richards",1
+"Carlos Tévez","Joleon Lescott",3
+"Carlos Tévez","James Milner",1
+"Carlos Tévez","Sergio Agüero",2
+"Carlos Tévez","Mario Balotelli",1
+"Carlos Tévez","Scott Sinclair",3
+"Matija Nastasić","Joe Hart",11
+"Matija Nastasić","Maicon",9
+"Matija Nastasić","Vincent Kompany",52
+"Matija Nastasić","Samir Nasri",17
+"Matija Nastasić","Javi García",14
+"Matija Nastasić","Gareth Barry",11
+"Matija Nastasić","David Silva",4
+"Matija Nastasić","Gaël Clichy",25
+"Matija Nastasić","Carlos Tévez",12
+"Matija Nastasić","Yaya Touré",26
+"Matija Nastasić","Pablo Zabaleta",11
+"Matija Nastasić","Edin Džeko",16
+"Matija Nastasić","Aleksandar Kolarov",2
+"Matija Nastasić","Sergio Agüero",12
+"Matija Nastasić","Jack Rodwell",8
+"Matija Nastasić","Mario Balotelli",7
+"Matija Nastasić","Joleon Lescott",9
+"Matija Nastasić","Scott Sinclair",3
+"Yaya Touré","Joe Hart",4
+"Yaya Touré","Maicon",13
+"Yaya Touré","Vincent Kompany",34
+"Yaya Touré","Samir Nasri",32
+"Yaya Touré","Javi García",15
+"Yaya Touré","Gareth Barry",13
+"Yaya Touré","David Silva",19
+"Yaya Touré","Gaël Clichy",23
+"Yaya Touré","Carlos Tévez",9
+"Yaya Touré","Matija Nastasić",29
+"Yaya Touré","Pablo Zabaleta",18
+"Yaya Touré","Edin Džeko",6
+"Yaya Touré","Aleksandar Kolarov",7
+"Yaya Touré","Sergio Agüero",25
+"Yaya Touré","Jack Rodwell",6
+"Yaya Touré","Mario Balotelli",3
+"Yaya Touré","Micah Richards",6
+"Yaya Touré","Joleon Lescott",4
+"Yaya Touré","James Milner",3
+"Pablo Zabaleta","Joe Hart",4
+"Pablo Zabaleta","Maicon",5
+"Pablo Zabaleta","Vincent Kompany",29
+"Pablo Zabaleta","Samir Nasri",17
+"Pablo Zabaleta","Javi García",8
+"Pablo Zabaleta","Gareth Barry",4
+"Pablo Zabaleta","David Silva",18
+"Pablo Zabaleta","Carlos Tévez",7
+"Pablo Zabaleta","Matija Nastasić",10
+"Pablo Zabaleta","Yaya Touré",16
+"Pablo Zabaleta","Edin Džeko",6
+"Pablo Zabaleta","Aleksandar Kolarov",2
+"Pablo Zabaleta","Sergio Agüero",8
+"Pablo Zabaleta","Jack Rodwell",2
+"Pablo Zabaleta","James Milner",1
+"Pablo Zabaleta","Joleon Lescott",2
+"Edin Džeko","Joe Hart",1
+"Edin Džeko","Maicon",8
+"Edin Džeko","Vincent Kompany",4
+"Edin Džeko","Samir Nasri",11
+"Edin Džeko","Javi García",3
+"Edin Džeko","Gareth Barry",4
+"Edin Džeko","David Silva",4
+"Edin Džeko","Gaël Clichy",2
+"Edin Džeko","Carlos Tévez",8
+"Edin Džeko","Matija Nastasić",4
+"Edin Džeko","Yaya Touré",5
+"Edin Džeko","Pablo Zabaleta",2
+"Edin Džeko","Aleksandar Kolarov",5
+"Edin Džeko","Sergio Agüero",6
+"Edin Džeko","Mario Balotelli",2
+"Edin Džeko","Joleon Lescott",3
+"Edin Džeko","James Milner",2
+"Edin Džeko","Scott Sinclair",1
+"Aleksandar Kolarov","Joe Hart",2
+"Aleksandar Kolarov","Maicon",1
+"Aleksandar Kolarov","Vincent Kompany",6
+"Aleksandar Kolarov","Samir Nasri",5
+"Aleksandar Kolarov","Gareth Barry",3
+"Aleksandar Kolarov","David Silva",2
+"Aleksandar Kolarov","Gaël Clichy",3
+"Aleksandar Kolarov","Carlos Tévez",2
+"Aleksandar Kolarov","Matija Nastasić",4
+"Aleksandar Kolarov","Yaya Touré",5
+"Aleksandar Kolarov","Pablo Zabaleta",1
+"Aleksandar Kolarov","Edin Džeko",4
+"Aleksandar Kolarov","Sergio Agüero",5
+"Aleksandar Kolarov","Jack Rodwell",2
+"Aleksandar Kolarov","James Milner",1
+"Sergio Agüero","Vincent Kompany",4
+"Sergio Agüero","Pablo Zabaleta",3
+"Sergio Agüero","Samir Nasri",11
+"Sergio Agüero","Edin Džeko",9
+"Sergio Agüero","Javi García",5
+"Sergio Agüero","David Silva",7
+"Sergio Agüero","Gaël Clichy",8
+"Sergio Agüero","Matija Nastasić",5
+"Sergio Agüero","Yaya Touré",13
+"Sergio Agüero","Aleksandar Kolarov",3
+"Sergio Agüero","Mario Balotelli",3
+"Sergio Agüero","Micah Richards",1
+"Sergio Agüero","James Milner",2
+"Sergio Agüero","Gareth Barry",7
+"Sergio Agüero","Carlos Tévez",5
+"Sergio Agüero","Maicon",2
+"Jack Rodwell","Vincent Kompany",9
+"Jack Rodwell","Pablo Zabaleta",6
+"Jack Rodwell","Samir Nasri",2
+"Jack Rodwell","David Silva",2
+"Jack Rodwell","Gaël Clichy",3
+"Jack Rodwell","Matija Nastasić",6
+"Jack Rodwell","Yaya Touré",4
+"Jack Rodwell","Mario Balotelli",1
+"Mario Balotelli","Vincent Kompany",1
+"Mario Balotelli","Samir Nasri",2
+"Mario Balotelli","Sergio Agüero",4
+"Mario Balotelli","David Silva",1
+"Mario Balotelli","Gaël Clichy",3
+"Mario Balotelli","Matija Nastasić",2
+"Mario Balotelli","Yaya Touré",2
+"Mario Balotelli","Aleksandar Kolarov",1
+"Mario Balotelli","Micah Richards",1
+"Mario Balotelli","Gareth Barry",3
+"Mario Balotelli","Carlos Tévez",3
+"Micah Richards","Joe Hart",2
+"Micah Richards","Vincent Kompany",7
+"Micah Richards","Joleon Lescott",3
+"Micah Richards","James Milner",4
+"Micah Richards","Samir Nasri",2
+"Micah Richards","Edin Džeko",2
+"Micah Richards","Sergio Agüero",1
+"Micah Richards","Gaël Clichy",2
+"Micah Richards","Yaya Touré",9
+"Micah Richards","Carlos Tévez",1
+"Micah Richards","Mario Balotelli",1
+"Joleon Lescott","Joe Hart",6
+"Joleon Lescott","Micah Richards",1
+"Joleon Lescott","Vincent Kompany",34
+"Joleon Lescott","James Milner",4
+"Joleon Lescott","Samir Nasri",3
+"Joleon Lescott","Edin Džeko",1
+"Joleon Lescott","Sergio Agüero",4
+"Joleon Lescott","Gareth Barry",22
+"Joleon Lescott","Gaël Clichy",5
+"Joleon Lescott","Yaya Touré",6
+"Joleon Lescott","Carlos Tévez",4
+"Joleon Lescott","Maicon",1
+"Joleon Lescott","Scott Sinclair",1
+"Joleon Lescott","Javi García",9
+"Joleon Lescott","Matija Nastasić",8
+"Joleon Lescott","Pablo Zabaleta",2
+"James Milner","Micah Richards",4
+"James Milner","Vincent Kompany",4
+"James Milner","Joleon Lescott",2
+"James Milner","Samir Nasri",6
+"James Milner","Edin Džeko",4
+"James Milner","Sergio Agüero",2
+"James Milner","Gareth Barry",1
+"James Milner","Yaya Touré",3
+"James Milner","Carlos Tévez",1
+"Scott Sinclair","Maicon",2
+"Scott Sinclair","Joleon Lescott",1
+"Scott Sinclair","Samir Nasri",1
+"Scott Sinclair","Gareth Barry",3
+"Scott Sinclair","Carlos Tévez",2
+"Scott Sinclair","Matija Nastasić",2

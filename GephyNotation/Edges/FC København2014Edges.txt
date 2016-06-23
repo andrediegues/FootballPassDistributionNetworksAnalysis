@@ -1,0 +1,205 @@
+"Johan Wiland","Lars Jacobsen",17
+"Johan Wiland","Pierre Bengtsson",11
+"Johan Wiland","Olof Mellberg",13
+"Johan Wiland","Claudemir",8
+"Johan Wiland","Thomas Delaney",3
+"Johan Wiland","Fanendo Adi",4
+"Johan Wiland","Ragnar Sigurdsson",6
+"Johan Wiland","Nicolai Jørgensen",5
+"Johan Wiland","Daniel Braaten",9
+"Johan Wiland","Christián Bolaños",2
+"Johan Wiland","Rúrik Gíslason",7
+"Johan Wiland","Youssef Toutouh",5
+"Johan Wiland","Marvin Pourie",1
+"Johan Wiland","Igor Vetokele",2
+"Lars Jacobsen","Johan Wiland",9
+"Lars Jacobsen","Pierre Bengtsson",2
+"Lars Jacobsen","Olof Mellberg",23
+"Lars Jacobsen","Claudemir",36
+"Lars Jacobsen","Thomas Delaney",7
+"Lars Jacobsen","Fanendo Adi",4
+"Lars Jacobsen","Ragnar Sigurdsson",1
+"Lars Jacobsen","Nicolai Jørgensen",13
+"Lars Jacobsen","Daniel Braaten",4
+"Lars Jacobsen","Christián Bolaños",20
+"Lars Jacobsen","Rúrik Gíslason",10
+"Lars Jacobsen","Youssef Toutouh",3
+"Lars Jacobsen","Thomas Kristensen",9
+"Lars Jacobsen","Marvin Pourie",1
+"Lars Jacobsen","Igor Vetokele",5
+"Lars Jacobsen","Christoffer Remmer",4
+"Pierre Bengtsson","Johan Wiland",2
+"Pierre Bengtsson","Lars Jacobsen",1
+"Pierre Bengtsson","Olof Mellberg",3
+"Pierre Bengtsson","Claudemir",30
+"Pierre Bengtsson","Thomas Delaney",30
+"Pierre Bengtsson","Fanendo Adi",9
+"Pierre Bengtsson","Ragnar Sigurdsson",24
+"Pierre Bengtsson","Nicolai Jørgensen",18
+"Pierre Bengtsson","Daniel Braaten",20
+"Pierre Bengtsson","Christián Bolaños",4
+"Pierre Bengtsson","Rúrik Gíslason",13
+"Pierre Bengtsson","Youssef Toutouh",11
+"Pierre Bengtsson","Thomas Kristensen",4
+"Pierre Bengtsson","Marvin Pourie",1
+"Pierre Bengtsson","Danny Amankwaa",1
+"Pierre Bengtsson","Igor Vetokele",4
+"Olof Mellberg","Johan Wiland",12
+"Olof Mellberg","Lars Jacobsen",33
+"Olof Mellberg","Pierre Bengtsson",6
+"Olof Mellberg","Claudemir",19
+"Olof Mellberg","Thomas Delaney",10
+"Olof Mellberg","Fanendo Adi",2
+"Olof Mellberg","Ragnar Sigurdsson",33
+"Olof Mellberg","Nicolai Jørgensen",7
+"Olof Mellberg","Daniel Braaten",3
+"Olof Mellberg","Christián Bolaños",9
+"Olof Mellberg","Rúrik Gíslason",6
+"Olof Mellberg","Youssef Toutouh",2
+"Olof Mellberg","Thomas Kristensen",6
+"Olof Mellberg","Marvin Pourie",1
+"Olof Mellberg","Igor Vetokele",1
+"Claudemir","Johan Wiland",7
+"Claudemir","Lars Jacobsen",29
+"Claudemir","Pierre Bengtsson",33
+"Claudemir","Olof Mellberg",30
+"Claudemir","Thomas Delaney",35
+"Claudemir","Fanendo Adi",2
+"Claudemir","Ragnar Sigurdsson",22
+"Claudemir","Nicolai Jørgensen",13
+"Claudemir","Daniel Braaten",7
+"Claudemir","Christián Bolaños",29
+"Claudemir","Rúrik Gíslason",13
+"Claudemir","Youssef Toutouh",5
+"Claudemir","Thomas Kristensen",9
+"Claudemir","Danny Amankwaa",1
+"Claudemir","Igor Vetokele",5
+"Claudemir","Christoffer Remmer",1
+"Thomas Delaney","Johan Wiland",3
+"Thomas Delaney","Lars Jacobsen",10
+"Thomas Delaney","Pierre Bengtsson",35
+"Thomas Delaney","Olof Mellberg",12
+"Thomas Delaney","Claudemir",26
+"Thomas Delaney","Fanendo Adi",3
+"Thomas Delaney","Ragnar Sigurdsson",21
+"Thomas Delaney","Nicolai Jørgensen",10
+"Thomas Delaney","Daniel Braaten",6
+"Thomas Delaney","Christián Bolaños",7
+"Thomas Delaney","Rúrik Gíslason",10
+"Thomas Delaney","Youssef Toutouh",9
+"Thomas Delaney","Thomas Kristensen",5
+"Thomas Delaney","Marvin Pourie",1
+"Thomas Delaney","Igor Vetokele",1
+"Thomas Delaney","Christoffer Remmer",1
+"Fanendo Adi","Johan Wiland",1
+"Fanendo Adi","Pierre Bengtsson",3
+"Fanendo Adi","Claudemir",5
+"Fanendo Adi","Thomas Delaney",4
+"Fanendo Adi","Nicolai Jørgensen",4
+"Fanendo Adi","Daniel Braaten",1
+"Fanendo Adi","Christián Bolaños",7
+"Ragnar Sigurdsson","Johan Wiland",13
+"Ragnar Sigurdsson","Lars Jacobsen",9
+"Ragnar Sigurdsson","Pierre Bengtsson",25
+"Ragnar Sigurdsson","Olof Mellberg",21
+"Ragnar Sigurdsson","Claudemir",29
+"Ragnar Sigurdsson","Thomas Delaney",13
+"Ragnar Sigurdsson","Fanendo Adi",2
+"Ragnar Sigurdsson","Nicolai Jørgensen",3
+"Ragnar Sigurdsson","Daniel Braaten",2
+"Ragnar Sigurdsson","Christián Bolaños",2
+"Ragnar Sigurdsson","Rúrik Gíslason",10
+"Ragnar Sigurdsson","Youssef Toutouh",10
+"Ragnar Sigurdsson","Thomas Kristensen",5
+"Ragnar Sigurdsson","Marvin Pourie",1
+"Ragnar Sigurdsson","Igor Vetokele",2
+"Nicolai Jørgensen","Lars Jacobsen",6
+"Nicolai Jørgensen","Pierre Bengtsson",8
+"Nicolai Jørgensen","Olof Mellberg",3
+"Nicolai Jørgensen","Claudemir",16
+"Nicolai Jørgensen","Thomas Delaney",10
+"Nicolai Jørgensen","Fanendo Adi",6
+"Nicolai Jørgensen","Ragnar Sigurdsson",2
+"Nicolai Jørgensen","Daniel Braaten",2
+"Nicolai Jørgensen","Christián Bolaños",2
+"Nicolai Jørgensen","Georg Margreitter",1
+"Nicolai Jørgensen","Rúrik Gíslason",6
+"Nicolai Jørgensen","Youssef Toutouh",8
+"Nicolai Jørgensen","Thomas Kristensen",2
+"Nicolai Jørgensen","Marvin Pourie",2
+"Daniel Braaten","Johan Wiland",1
+"Daniel Braaten","Lars Jacobsen",3
+"Daniel Braaten","Pierre Bengtsson",6
+"Daniel Braaten","Claudemir",6
+"Daniel Braaten","Thomas Delaney",9
+"Daniel Braaten","Fanendo Adi",3
+"Daniel Braaten","Ragnar Sigurdsson",1
+"Daniel Braaten","Nicolai Jørgensen",6
+"Daniel Braaten","Youssef Toutouh",1
+"Christián Bolaños","Lars Jacobsen",21
+"Christián Bolaños","Pierre Bengtsson",2
+"Christián Bolaños","Olof Mellberg",2
+"Christián Bolaños","Claudemir",12
+"Christián Bolaños","Thomas Delaney",8
+"Christián Bolaños","Fanendo Adi",6
+"Christián Bolaños","Ragnar Sigurdsson",1
+"Christián Bolaños","Nicolai Jørgensen",4
+"Christián Bolaños","Daniel Braaten",1
+"Christián Bolaños","Rúrik Gíslason",5
+"Christián Bolaños","Youssef Toutouh",3
+"Christián Bolaños","Thomas Kristensen",3
+"Georg Margreitter","Pierre Bengtsson",1
+"Georg Margreitter","Ragnar Sigurdsson",1
+"Rúrik Gíslason","Lars Jacobsen",10
+"Rúrik Gíslason","Pierre Bengtsson",7
+"Rúrik Gíslason","Olof Mellberg",6
+"Rúrik Gíslason","Claudemir",15
+"Rúrik Gíslason","Thomas Delaney",7
+"Rúrik Gíslason","Fanendo Adi",1
+"Rúrik Gíslason","Ragnar Sigurdsson",1
+"Rúrik Gíslason","Nicolai Jørgensen",7
+"Rúrik Gíslason","Christián Bolaños",3
+"Rúrik Gíslason","Youssef Toutouh",5
+"Rúrik Gíslason","Thomas Kristensen",1
+"Rúrik Gíslason","Marvin Pourie",4
+"Rúrik Gíslason","Igor Vetokele",5
+"Youssef Toutouh","Lars Jacobsen",4
+"Youssef Toutouh","Pierre Bengtsson",10
+"Youssef Toutouh","Claudemir",7
+"Youssef Toutouh","Thomas Delaney",12
+"Youssef Toutouh","Ragnar Sigurdsson",3
+"Youssef Toutouh","Nicolai Jørgensen",6
+"Youssef Toutouh","Christián Bolaños",1
+"Youssef Toutouh","Rúrik Gíslason",6
+"Youssef Toutouh","Thomas Kristensen",1
+"Thomas Kristensen","Lars Jacobsen",3
+"Thomas Kristensen","Pierre Bengtsson",4
+"Thomas Kristensen","Claudemir",15
+"Thomas Kristensen","Thomas Delaney",6
+"Thomas Kristensen","Ragnar Sigurdsson",2
+"Thomas Kristensen","Nicolai Jørgensen",2
+"Thomas Kristensen","Rúrik Gíslason",5
+"Thomas Kristensen","Fanendo Adi",3
+"Thomas Kristensen","Christián Bolaños",2
+"Thomas Kristensen","Danny Amankwaa",3
+"Marvin Pourie","Lars Jacobsen",1
+"Marvin Pourie","Pierre Bengtsson",1
+"Marvin Pourie","Ragnar Sigurdsson",1
+"Marvin Pourie","Nicolai Jørgensen",1
+"Marvin Pourie","Rúrik Gíslason",1
+"Marvin Pourie","Igor Vetokele",1
+"Marvin Pourie","Christoffer Remmer",1
+"Danny Amankwaa","Pierre Bengtsson",2
+"Danny Amankwaa","Claudemir",1
+"Igor Vetokele","Lars Jacobsen",1
+"Igor Vetokele","Pierre Bengtsson",2
+"Igor Vetokele","Olof Mellberg",1
+"Igor Vetokele","Claudemir",1
+"Igor Vetokele","Thomas Delaney",2
+"Igor Vetokele","Rúrik Gíslason",2
+"Igor Vetokele","Youssef Toutouh",4
+"Igor Vetokele","Christián Bolaños",5
+"Christoffer Remmer","Lars Jacobsen",1
+"Christoffer Remmer","Olof Mellberg",1
+"Christoffer Remmer","Claudemir",2
+"Christoffer Remmer","Rúrik Gíslason",1

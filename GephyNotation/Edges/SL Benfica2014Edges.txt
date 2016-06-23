@@ -1,0 +1,310 @@
+"Artur","Luisão",21
+"Artur","Ljubomir Fejsa",4
+"Artur","Óscar Cardozo",8
+"Artur","Filip Djuričić",1
+"Artur","Guilherme Siqueira",6
+"Artur","Nemanja Matić",5
+"Artur","Ezequiel Garay",29
+"Artur","André Almeida",4
+"Artur","Enzo Pérez",3
+"Artur","Lazar Marković",2
+"Artur","Lima",5
+"Artur","Maxi Pereira",7
+"Artur","Nicolás Gaitán",4
+"Artur","Miralem Sulejmani",1
+"Artur","Rúben Amorim",3
+"Artur","Rodrigo",2
+"Artur","Ivan Cavaleiro",3
+"Artur","Sílvio",4
+"Luisão","Artur",16
+"Luisão","Ljubomir Fejsa",17
+"Luisão","Óscar Cardozo",2
+"Luisão","Filip Djuričić",1
+"Luisão","Guilherme Siqueira",6
+"Luisão","Nemanja Matić",22
+"Luisão","Ezequiel Garay",27
+"Luisão","André Almeida",22
+"Luisão","Enzo Pérez",23
+"Luisão","Lazar Marković",7
+"Luisão","Lima",7
+"Luisão","Maxi Pereira",27
+"Luisão","Ola John",4
+"Luisão","Nicolás Gaitán",7
+"Luisão","Miralem Sulejmani",2
+"Luisão","André Gomes",2
+"Luisão","Rúben Amorim",6
+"Luisão","Ivan Cavaleiro",1
+"Luisão","Sílvio",1
+"Ljubomir Fejsa","Artur",3
+"Ljubomir Fejsa","Luisão",25
+"Ljubomir Fejsa","Óscar Cardozo",3
+"Ljubomir Fejsa","Filip Djuričić",1
+"Ljubomir Fejsa","Guilherme Siqueira",8
+"Ljubomir Fejsa","Nemanja Matić",22
+"Ljubomir Fejsa","Ezequiel Garay",16
+"Ljubomir Fejsa","André Almeida",10
+"Ljubomir Fejsa","Enzo Pérez",19
+"Ljubomir Fejsa","Lazar Marković",13
+"Ljubomir Fejsa","Lima",11
+"Ljubomir Fejsa","Maxi Pereira",17
+"Ljubomir Fejsa","Nicolás Gaitán",10
+"Ljubomir Fejsa","Rodrigo",1
+"Ljubomir Fejsa","Ivan Cavaleiro",3
+"Ljubomir Fejsa","Sílvio",5
+"Óscar Cardozo","Luisão",1
+"Óscar Cardozo","Filip Djuričić",8
+"Óscar Cardozo","Guilherme Siqueira",2
+"Óscar Cardozo","Nemanja Matić",4
+"Óscar Cardozo","Ezequiel Garay",2
+"Óscar Cardozo","André Almeida",7
+"Óscar Cardozo","Enzo Pérez",9
+"Óscar Cardozo","Lazar Marković",7
+"Óscar Cardozo","Lima",3
+"Óscar Cardozo","Ola John",3
+"Óscar Cardozo","Nicolás Gaitán",6
+"Óscar Cardozo","Miralem Sulejmani",2
+"Óscar Cardozo","André Gomes",1
+"Óscar Cardozo","Rúben Amorim",3
+"Óscar Cardozo","Ivan Cavaleiro",2
+"Óscar Cardozo","Sílvio",1
+"Filip Djuričić","Luisão",1
+"Filip Djuričić","Ljubomir Fejsa",4
+"Filip Djuričić","Guilherme Siqueira",2
+"Filip Djuričić","Nemanja Matić",5
+"Filip Djuričić","André Almeida",4
+"Filip Djuričić","Enzo Pérez",5
+"Filip Djuričić","Lazar Marković",4
+"Filip Djuričić","Maxi Pereira",2
+"Filip Djuričić","Ola John",1
+"Filip Djuričić","Rúben Amorim",1
+"Filip Djuričić","Ivan Cavaleiro",1
+"Guilherme Siqueira","Artur",4
+"Guilherme Siqueira","Luisão",2
+"Guilherme Siqueira","Ljubomir Fejsa",6
+"Guilherme Siqueira","Óscar Cardozo",12
+"Guilherme Siqueira","Filip Djuričić",4
+"Guilherme Siqueira","Nemanja Matić",24
+"Guilherme Siqueira","Ezequiel Garay",19
+"Guilherme Siqueira","André Almeida",2
+"Guilherme Siqueira","Enzo Pérez",15
+"Guilherme Siqueira","Lazar Marković",9
+"Guilherme Siqueira","Lima",5
+"Guilherme Siqueira","Ola John",7
+"Guilherme Siqueira","Nicolás Gaitán",20
+"Guilherme Siqueira","Miralem Sulejmani",2
+"Guilherme Siqueira","André Gomes",2
+"Guilherme Siqueira","Rodrigo",1
+"Guilherme Siqueira","Ivan Cavaleiro",2
+"Nemanja Matić","Artur",2
+"Nemanja Matić","Luisão",21
+"Nemanja Matić","Ljubomir Fejsa",15
+"Nemanja Matić","Óscar Cardozo",8
+"Nemanja Matić","Filip Djuričić",14
+"Nemanja Matić","Guilherme Siqueira",23
+"Nemanja Matić","Ezequiel Garay",25
+"Nemanja Matić","André Almeida",19
+"Nemanja Matić","Enzo Pérez",35
+"Nemanja Matić","Lazar Marković",15
+"Nemanja Matić","Lima",18
+"Nemanja Matić","Maxi Pereira",8
+"Nemanja Matić","Ola John",2
+"Nemanja Matić","Nicolás Gaitán",27
+"Nemanja Matić","Miralem Sulejmani",6
+"Nemanja Matić","André Gomes",1
+"Nemanja Matić","Rúben Amorim",10
+"Nemanja Matić","Rodrigo",2
+"Nemanja Matić","Ivan Cavaleiro",1
+"Nemanja Matić","Sílvio",16
+"Ezequiel Garay","Artur",14
+"Ezequiel Garay","Luisão",26
+"Ezequiel Garay","Ljubomir Fejsa",11
+"Ezequiel Garay","Óscar Cardozo",5
+"Ezequiel Garay","Filip Djuričić",2
+"Ezequiel Garay","Guilherme Siqueira",30
+"Ezequiel Garay","Nemanja Matić",39
+"Ezequiel Garay","André Almeida",11
+"Ezequiel Garay","Enzo Pérez",19
+"Ezequiel Garay","Lazar Marković",5
+"Ezequiel Garay","Lima",4
+"Ezequiel Garay","Maxi Pereira",5
+"Ezequiel Garay","Ola John",4
+"Ezequiel Garay","Nicolás Gaitán",17
+"Ezequiel Garay","Miralem Sulejmani",1
+"Ezequiel Garay","André Gomes",2
+"Ezequiel Garay","Rúben Amorim",7
+"Ezequiel Garay","Ivan Cavaleiro",5
+"Ezequiel Garay","Sílvio",28
+"André Almeida","Artur",1
+"André Almeida","Luisão",10
+"André Almeida","Ljubomir Fejsa",12
+"André Almeida","Óscar Cardozo",9
+"André Almeida","Filip Djuričić",6
+"André Almeida","Guilherme Siqueira",1
+"André Almeida","Nemanja Matić",18
+"André Almeida","Ezequiel Garay",5
+"André Almeida","Enzo Pérez",24
+"André Almeida","Lazar Marković",8
+"André Almeida","Lima",11
+"André Almeida","Maxi Pereira",3
+"André Almeida","Ola John",11
+"André Almeida","Nicolás Gaitán",19
+"André Almeida","Miralem Sulejmani",2
+"André Almeida","André Gomes",2
+"André Almeida","Ivan Cavaleiro",1
+"Enzo Pérez","Artur",4
+"Enzo Pérez","Luisão",13
+"Enzo Pérez","Ljubomir Fejsa",15
+"Enzo Pérez","Óscar Cardozo",20
+"Enzo Pérez","Filip Djuričić",7
+"Enzo Pérez","Guilherme Siqueira",9
+"Enzo Pérez","Nemanja Matić",34
+"Enzo Pérez","Ezequiel Garay",15
+"Enzo Pérez","André Almeida",17
+"Enzo Pérez","Lazar Marković",16
+"Enzo Pérez","Lima",16
+"Enzo Pérez","Maxi Pereira",17
+"Enzo Pérez","Ola John",2
+"Enzo Pérez","Nicolás Gaitán",23
+"Enzo Pérez","Miralem Sulejmani",1
+"Enzo Pérez","André Gomes",4
+"Enzo Pérez","Rúben Amorim",8
+"Enzo Pérez","Ivan Cavaleiro",6
+"Enzo Pérez","Sílvio",7
+"Lazar Marković","Luisão",3
+"Lazar Marković","Ljubomir Fejsa",6
+"Lazar Marković","Óscar Cardozo",7
+"Lazar Marković","Filip Djuričić",2
+"Lazar Marković","Guilherme Siqueira",4
+"Lazar Marković","Nemanja Matić",16
+"Lazar Marković","Ezequiel Garay",7
+"Lazar Marković","André Almeida",3
+"Lazar Marković","Enzo Pérez",17
+"Lazar Marković","Lima",3
+"Lazar Marković","Maxi Pereira",16
+"Lazar Marković","Ola John",1
+"Lazar Marković","Nicolás Gaitán",9
+"Lazar Marković","André Gomes",3
+"Lazar Marković","Rúben Amorim",2
+"Lazar Marković","Sílvio",4
+"Lima","Luisão",1
+"Lima","Ljubomir Fejsa",4
+"Lima","Óscar Cardozo",3
+"Lima","Filip Djuričić",1
+"Lima","Nemanja Matić",15
+"Lima","Ezequiel Garay",2
+"Lima","André Almeida",2
+"Lima","Enzo Pérez",11
+"Lima","Lazar Marković",3
+"Lima","Maxi Pereira",4
+"Lima","Ola John",3
+"Lima","Nicolás Gaitán",21
+"Lima","Rúben Amorim",1
+"Lima","Rodrigo",1
+"Lima","Ivan Cavaleiro",1
+"Lima","Sílvio",2
+"Lima","Miralem Sulejmani",3
+"Maxi Pereira","Artur",6
+"Maxi Pereira","Luisão",13
+"Maxi Pereira","Ljubomir Fejsa",15
+"Maxi Pereira","Óscar Cardozo",2
+"Maxi Pereira","Filip Djuričić",1
+"Maxi Pereira","Nemanja Matić",16
+"Maxi Pereira","Ezequiel Garay",4
+"Maxi Pereira","André Almeida",1
+"Maxi Pereira","Enzo Pérez",21
+"Maxi Pereira","Lazar Marković",30
+"Maxi Pereira","Lima",9
+"Maxi Pereira","Ola John",1
+"Maxi Pereira","Rúben Amorim",2
+"Maxi Pereira","Nicolás Gaitán",9
+"Maxi Pereira","Sílvio",2
+"Maxi Pereira","Ivan Cavaleiro",6
+"Maxi Pereira","Miralem Sulejmani",1
+"Ola John","Luisão",2
+"Ola John","Ljubomir Fejsa",3
+"Ola John","Filip Djuričić",1
+"Ola John","Guilherme Siqueira",2
+"Ola John","Nemanja Matić",6
+"Ola John","André Almeida",8
+"Ola John","Enzo Pérez",4
+"Ola John","Lima",4
+"Ola John","Nicolás Gaitán",2
+"Nicolás Gaitán","Artur",3
+"Nicolás Gaitán","Luisão",7
+"Nicolás Gaitán","Ljubomir Fejsa",7
+"Nicolás Gaitán","Óscar Cardozo",8
+"Nicolás Gaitán","Filip Djuričić",5
+"Nicolás Gaitán","Guilherme Siqueira",18
+"Nicolás Gaitán","Nemanja Matić",20
+"Nicolás Gaitán","Ezequiel Garay",15
+"Nicolás Gaitán","André Almeida",11
+"Nicolás Gaitán","Enzo Pérez",18
+"Nicolás Gaitán","Lazar Marković",10
+"Nicolás Gaitán","Lima",11
+"Nicolás Gaitán","Ola John",1
+"Nicolás Gaitán","Rúben Amorim",9
+"Nicolás Gaitán","Ivan Cavaleiro",1
+"Nicolás Gaitán","Maxi Pereira",7
+"Nicolás Gaitán","Sílvio",16
+"Miralem Sulejmani","Luisão",1
+"Miralem Sulejmani","Ljubomir Fejsa",1
+"Miralem Sulejmani","Óscar Cardozo",2
+"Miralem Sulejmani","Guilherme Siqueira",3
+"Miralem Sulejmani","Nemanja Matić",3
+"Miralem Sulejmani","Ezequiel Garay",1
+"Miralem Sulejmani","André Almeida",1
+"Miralem Sulejmani","Enzo Pérez",2
+"Miralem Sulejmani","André Gomes",2
+"Miralem Sulejmani","Lazar Marković",2
+"Miralem Sulejmani","Lima",1
+"Miralem Sulejmani","Maxi Pereira",2
+"Miralem Sulejmani","Rodrigo",1
+"André Gomes","Ljubomir Fejsa",1
+"André Gomes","Óscar Cardozo",1
+"André Gomes","Guilherme Siqueira",3
+"André Gomes","Nicolás Gaitán",2
+"André Gomes","Nemanja Matić",4
+"André Gomes","Ezequiel Garay",2
+"André Gomes","André Almeida",3
+"André Gomes","Enzo Pérez",2
+"André Gomes","Miralem Sulejmani",2
+"André Gomes","Ivan Cavaleiro",1
+"Rúben Amorim","Luisão",1
+"Rúben Amorim","Óscar Cardozo",3
+"Rúben Amorim","Lima",1
+"Rúben Amorim","Guilherme Siqueira",1
+"Rúben Amorim","Nicolás Gaitán",7
+"Rúben Amorim","Nemanja Matić",12
+"Rúben Amorim","Ezequiel Garay",9
+"Rúben Amorim","Enzo Pérez",12
+"Rúben Amorim","Maxi Pereira",5
+"Rúben Amorim","Sílvio",13
+"Rúben Amorim","Lazar Marković",4
+"Rodrigo","Luisão",1
+"Rodrigo","Lima",2
+"Rodrigo","Guilherme Siqueira",2
+"Ivan Cavaleiro","Luisão",2
+"Ivan Cavaleiro","Óscar Cardozo",1
+"Ivan Cavaleiro","Lima",1
+"Ivan Cavaleiro","Nicolás Gaitán",2
+"Ivan Cavaleiro","Nemanja Matić",3
+"Ivan Cavaleiro","Ezequiel Garay",2
+"Ivan Cavaleiro","Enzo Pérez",3
+"Ivan Cavaleiro","Maxi Pereira",2
+"Ivan Cavaleiro","Sílvio",1
+"Ivan Cavaleiro","Miralem Sulejmani",2
+"Ivan Cavaleiro","André Gomes",1
+"Sílvio","Artur",1
+"Sílvio","Luisão",1
+"Sílvio","Rúben Amorim",14
+"Sílvio","Óscar Cardozo",1
+"Sílvio","Maxi Pereira",4
+"Sílvio","Nicolás Gaitán",37
+"Sílvio","Nemanja Matić",16
+"Sílvio","Ezequiel Garay",13
+"Sílvio","Enzo Pérez",8
+"Sílvio","Lazar Marković",6
+"Sílvio","Lima",5
+"Sílvio","Ivan Cavaleiro",1
+"Sílvio","Ljubomir Fejsa",4
+"Sílvio","Miralem Sulejmani",1

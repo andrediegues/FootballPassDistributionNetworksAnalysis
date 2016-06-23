@@ -3,7 +3,7 @@ package interpretation;
 import java.util.LinkedList;
 
 public class Player {
-	int id = -1;
+	public static int id = 0;
 	Team team;
 	int teamNumber;
 	String name;
@@ -30,6 +30,16 @@ public class Player {
 	}
 	
 	public void addPass(Player p, int numberOfPassesBetween){
-		passes.add(new Pass(this, p, numberOfPassesBetween));
+		boolean alreadyHaveConnection = false;
+		for(int i = 0; i < passes.size(); i++){
+			Pass pass = passes.get(i); 
+			if(this.name.equals(pass.origin.name) && p.name.equals(pass.destiny.name)){
+				alreadyHaveConnection = true;
+				pass.numberOfPasses += numberOfPassesBetween;
+			}
+		}
+		if(!alreadyHaveConnection){
+			passes.add(new Pass(this, p, numberOfPassesBetween));
+		}
 	}
 }

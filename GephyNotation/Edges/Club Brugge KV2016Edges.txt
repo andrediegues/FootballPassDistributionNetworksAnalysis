@@ -1,0 +1,147 @@
+"Sébastien Bruzzese","Oscar Duarte",8
+"Sébastien Bruzzese","Dion Cools",2
+"Sébastien Bruzzese","Laurens De Bock",1
+"Sébastien Bruzzese","Claudemir",1
+"Timmy Simons","Víctor Vázquez",1
+"Timmy Simons","Abdoulay Diaby",2
+"Oscar Duarte","Sébastien Bruzzese",2
+"Oscar Duarte","Víctor Vázquez",2
+"Oscar Duarte","Abdoulay Diaby",5
+"Oscar Duarte","Dion Cools",5
+"Oscar Duarte","Ruud Vormer",3
+"Oscar Duarte","Laurens De Bock",3
+"Oscar Duarte","Bolingoli Mbombo",5
+"Oscar Duarte","Claudemir",5
+"Oscar Duarte","Hans Vanaken",3
+"Oscar Duarte","Obbi Oulare",1
+"Oscar Duarte","Sinan Bolat",2
+"Oscar Duarte","Davy De fauw",6
+"Oscar Duarte","Tom De Sutter",2
+"Víctor Vázquez","Oscar Duarte",4
+"Víctor Vázquez","Abdoulay Diaby",6
+"Víctor Vázquez","Dion Cools",2
+"Víctor Vázquez","Ruud Vormer",2
+"Víctor Vázquez","Laurens De Bock",4
+"Víctor Vázquez","Tuur Dierckx",4
+"Víctor Vázquez","Bolingoli Mbombo",5
+"Víctor Vázquez","Claudemir",5
+"Víctor Vázquez","Castelletto",1
+"Víctor Vázquez","Tom De Sutter",1
+"Abdoulay Diaby","Timmy Simons",1
+"Abdoulay Diaby","Oscar Duarte",2
+"Abdoulay Diaby","Víctor Vázquez",3
+"Abdoulay Diaby","Ruud Vormer",4
+"Abdoulay Diaby","Laurens De Bock",4
+"Abdoulay Diaby","Tuur Dierckx",1
+"Abdoulay Diaby","Bolingoli Mbombo",5
+"Abdoulay Diaby","Claudemir",5
+"Abdoulay Diaby","Davy De fauw",1
+"Abdoulay Diaby","Castelletto",4
+"Abdoulay Diaby","Tom De Sutter",4
+"Dion Cools","Oscar Duarte",3
+"Dion Cools","Abdoulay Diaby",1
+"Dion Cools","Brandon Mechele",1
+"Dion Cools","Tuur Dierckx",3
+"Dion Cools","Bolingoli Mbombo",1
+"Dion Cools","Claudemir",1
+"Dion Cools","Tom De Sutter",1
+"Ruud Vormer","Sébastien Bruzzese",2
+"Ruud Vormer","Oscar Duarte",3
+"Ruud Vormer","Víctor Vázquez",4
+"Ruud Vormer","Abdoulay Diaby",4
+"Ruud Vormer","Dion Cools",3
+"Ruud Vormer","Laurens De Bock",4
+"Ruud Vormer","Tuur Dierckx",3
+"Ruud Vormer","Bolingoli Mbombo",3
+"Ruud Vormer","Claudemir",4
+"Ruud Vormer","Hans Vanaken",2
+"Ruud Vormer","Davy De fauw",4
+"Ruud Vormer","Castelletto",8
+"Ruud Vormer","Tom De Sutter",2
+"Laurens De Bock","Oscar Duarte",6
+"Laurens De Bock","Víctor Vázquez",2
+"Laurens De Bock","Abdoulay Diaby",3
+"Laurens De Bock","Dion Cools",1
+"Laurens De Bock","Ruud Vormer",3
+"Laurens De Bock","Tuur Dierckx",1
+"Laurens De Bock","Bolingoli Mbombo",6
+"Laurens De Bock","Claudemir",1
+"Laurens De Bock","Hans Vanaken",1
+"Laurens De Bock","Davy De fauw",5
+"Laurens De Bock","Tom De Sutter",2
+"Brandon Mechele","Dion Cools",1
+"Brandon Mechele","Tuur Dierckx",1
+"Tuur Dierckx","Víctor Vázquez",3
+"Tuur Dierckx","Abdoulay Diaby",1
+"Tuur Dierckx","Dion Cools",2
+"Tuur Dierckx","Ruud Vormer",1
+"Tuur Dierckx","Laurens De Bock",1
+"Tuur Dierckx","Claudemir",1
+"Tuur Dierckx","Hans Vanaken",2
+"Tuur Dierckx","Castelletto",1
+"Bolingoli Mbombo","Víctor Vázquez",5
+"Bolingoli Mbombo","Abdoulay Diaby",3
+"Bolingoli Mbombo","Ruud Vormer",3
+"Bolingoli Mbombo","Laurens De Bock",3
+"Bolingoli Mbombo","Tuur Dierckx",2
+"Bolingoli Mbombo","Claudemir",4
+"Bolingoli Mbombo","Tom De Sutter",2
+"Claudemir","Oscar Duarte",7
+"Claudemir","Víctor Vázquez",6
+"Claudemir","Abdoulay Diaby",1
+"Claudemir","Ruud Vormer",2
+"Claudemir","Laurens De Bock",1
+"Claudemir","Brandon Mechele",1
+"Claudemir","Tuur Dierckx",1
+"Claudemir","Bolingoli Mbombo",3
+"Claudemir","Hans Vanaken",2
+"Claudemir","Sinan Bolat",3
+"Claudemir","Davy De fauw",6
+"Claudemir","Castelletto",3
+"Claudemir","Tom De Sutter",3
+"Hans Vanaken","Oscar Duarte",1
+"Hans Vanaken","Dion Cools",2
+"Hans Vanaken","Tuur Dierckx",3
+"Hans Vanaken","Bolingoli Mbombo",1
+"Hans Vanaken","Claudemir",4
+"Hans Vanaken","Davy De fauw",1
+"Hans Vanaken","Castelletto",1
+"Hans Vanaken","Tom De Sutter",3
+"Sinan Bolat","Davy De fauw",13
+"Sinan Bolat","Oscar Duarte",5
+"Sinan Bolat","Claudemir",1
+"Sinan Bolat","Tom De Sutter",2
+"Sinan Bolat","Hans Vanaken",2
+"Sinan Bolat","Tuur Dierckx",2
+"Davy De fauw","Sinan Bolat",7
+"Davy De fauw","Oscar Duarte",2
+"Davy De fauw","Castelletto",9
+"Davy De fauw","Claudemir",5
+"Davy De fauw","Víctor Vázquez",2
+"Davy De fauw","Tom De Sutter",2
+"Davy De fauw","Abdoulay Diaby",3
+"Davy De fauw","Ruud Vormer",2
+"Davy De fauw","Laurens De Bock",4
+"Davy De fauw","Bolingoli Mbombo",2
+"Davy De fauw","Tuur Dierckx",2
+"Castelletto","Sinan Bolat",2
+"Castelletto","Davy De fauw",3
+"Castelletto","Oscar Duarte",1
+"Castelletto","Claudemir",2
+"Castelletto","Víctor Vázquez",1
+"Castelletto","Tom De Sutter",1
+"Castelletto","Abdoulay Diaby",6
+"Castelletto","Ruud Vormer",9
+"Castelletto","Hans Vanaken",1
+"Castelletto","Dion Cools",1
+"Castelletto","Tuur Dierckx",1
+"Tom De Sutter","Davy De fauw",1
+"Tom De Sutter","Oscar Duarte",1
+"Tom De Sutter","Castelletto",2
+"Tom De Sutter","Claudemir",2
+"Tom De Sutter","Víctor Vázquez",3
+"Tom De Sutter","Abdoulay Diaby",2
+"Tom De Sutter","Ruud Vormer",7
+"Tom De Sutter","Laurens De Bock",1
+"Tom De Sutter","Bolingoli Mbombo",1
+"Tom De Sutter","Hans Vanaken",2

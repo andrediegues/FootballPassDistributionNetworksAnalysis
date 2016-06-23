@@ -1,0 +1,196 @@
+"Matias Degra","André Leão",4
+"Matias Degra","Christian Irobiso",1
+"Matias Degra","Paolo Hurtado",1
+"Matias Degra","Nuno Santos",5
+"Matias Degra","Ricardo",11
+"Matias Degra","Sérgio Oliveira",1
+"Matias Degra","Rodrigo Antônio",2
+"Matias Degra","Filipe Anunciação",5
+"Matias Degra","Vítor",2
+"Matias Degra","Manuel José",1
+"Matias Degra","Carlão",5
+"Matias Degra","Grégory",4
+"Matias Degra","Hélder Lopes",3
+"Matias Degra","Rui Caetano",1
+"Marcos Romeu","Matias Degra",2
+"Marcos Romeu","André Leão",17
+"Marcos Romeu","Rui Miguel",5
+"Marcos Romeu","Paolo Hurtado",6
+"Marcos Romeu","Nuno Santos",12
+"Marcos Romeu","Ricardo",10
+"Marcos Romeu","Sérgio Oliveira",1
+"Marcos Romeu","Rodrigo Antônio",10
+"Marcos Romeu","Filipe Anunciação",1
+"Marcos Romeu","Vítor",7
+"Marcos Romeu","Manuel José",6
+"Marcos Romeu","Carlão",3
+"Marcos Romeu","Grégory",2
+"Marcos Romeu","Hélder Lopes",7
+"Marcos Romeu","Rui Caetano",4
+"André Leão","Matias Degra",1
+"André Leão","Marcos Romeu",17
+"André Leão","Christian Irobiso",6
+"André Leão","Rui Miguel",3
+"André Leão","Paolo Hurtado",5
+"André Leão","Nuno Santos",13
+"André Leão","Ricardo",7
+"André Leão","Sérgio Oliveira",5
+"André Leão","Rodrigo Antônio",9
+"André Leão","Filipe Anunciação",4
+"André Leão","Vítor",9
+"André Leão","Manuel José",3
+"André Leão","Carlão",4
+"André Leão","Grégory",7
+"André Leão","Hélder Lopes",8
+"André Leão","Rui Caetano",1
+"Christian Irobiso","Marcos Romeu",3
+"Christian Irobiso","André Leão",1
+"Christian Irobiso","Rui Miguel",1
+"Christian Irobiso","Paolo Hurtado",2
+"Christian Irobiso","Nuno Santos",2
+"Christian Irobiso","Sérgio Oliveira",2
+"Christian Irobiso","Rodrigo Antônio",4
+"Christian Irobiso","Vítor",1
+"Rui Miguel","Matias Degra",1
+"Rui Miguel","Marcos Romeu",2
+"Rui Miguel","André Leão",2
+"Rui Miguel","Christian Irobiso",1
+"Rui Miguel","Paolo Hurtado",4
+"Rui Miguel","Nuno Santos",1
+"Rui Miguel","Sérgio Oliveira",4
+"Rui Miguel","Rodrigo Antônio",2
+"Rui Miguel","Vítor",3
+"Rui Miguel","Manuel José",1
+"Rui Miguel","Hélder Lopes",1
+"Rui Miguel","Rui Caetano",1
+"Paolo Hurtado","Marcos Romeu",6
+"Paolo Hurtado","André Leão",3
+"Paolo Hurtado","Christian Irobiso",2
+"Paolo Hurtado","Rui Miguel",3
+"Paolo Hurtado","Nuno Santos",2
+"Paolo Hurtado","Ricardo",1
+"Paolo Hurtado","Sérgio Oliveira",3
+"Paolo Hurtado","Filipe Anunciação",2
+"Paolo Hurtado","Vítor",10
+"Paolo Hurtado","Carlão",4
+"Paolo Hurtado","Hélder Lopes",4
+"Nuno Santos","Matias Degra",4
+"Nuno Santos","Marcos Romeu",9
+"Nuno Santos","André Leão",15
+"Nuno Santos","Christian Irobiso",3
+"Nuno Santos","Rui Miguel",2
+"Nuno Santos","Paolo Hurtado",4
+"Nuno Santos","Ricardo",7
+"Nuno Santos","Sérgio Oliveira",6
+"Nuno Santos","Rodrigo Antônio",2
+"Nuno Santos","Filipe Anunciação",1
+"Nuno Santos","Vítor",3
+"Nuno Santos","Manuel José",8
+"Nuno Santos","Carlão",4
+"Nuno Santos","Grégory",4
+"Ricardo","Matias Degra",6
+"Ricardo","Marcos Romeu",3
+"Ricardo","André Leão",14
+"Ricardo","Paolo Hurtado",2
+"Ricardo","Nuno Santos",12
+"Ricardo","Sérgio Oliveira",2
+"Ricardo","Rodrigo Antônio",6
+"Ricardo","Filipe Anunciação",4
+"Ricardo","Vítor",7
+"Ricardo","Manuel José",2
+"Ricardo","Carlão",4
+"Ricardo","Grégory",4
+"Ricardo","Hélder Lopes",8
+"Ricardo","Rui Caetano",1
+"Sérgio Oliveira","Marcos Romeu",6
+"Sérgio Oliveira","André Leão",5
+"Sérgio Oliveira","Christian Irobiso",4
+"Sérgio Oliveira","Rui Miguel",2
+"Sérgio Oliveira","Paolo Hurtado",5
+"Sérgio Oliveira","Nuno Santos",5
+"Sérgio Oliveira","Ricardo",1
+"Sérgio Oliveira","Rodrigo Antônio",8
+"Sérgio Oliveira","Vítor",1
+"Sérgio Oliveira","Carlão",3
+"Rodrigo Antônio","Matias Degra",2
+"Rodrigo Antônio","Marcos Romeu",8
+"Rodrigo Antônio","André Leão",5
+"Rodrigo Antônio","Christian Irobiso",2
+"Rodrigo Antônio","Rui Miguel",3
+"Rodrigo Antônio","Paolo Hurtado",8
+"Rodrigo Antônio","Nuno Santos",1
+"Rodrigo Antônio","Ricardo",6
+"Rodrigo Antônio","Sérgio Oliveira",9
+"Rodrigo Antônio","Filipe Anunciação",4
+"Rodrigo Antônio","Vítor",11
+"Rodrigo Antônio","Manuel José",8
+"Rodrigo Antônio","Carlão",6
+"Rodrigo Antônio","Rui Caetano",3
+"Filipe Anunciação","Matias Degra",2
+"Filipe Anunciação","Marcos Romeu",4
+"Filipe Anunciação","André Leão",6
+"Filipe Anunciação","Christian Irobiso",1
+"Filipe Anunciação","Paolo Hurtado",2
+"Filipe Anunciação","Nuno Santos",2
+"Filipe Anunciação","Ricardo",3
+"Filipe Anunciação","Sérgio Oliveira",1
+"Filipe Anunciação","Rodrigo Antônio",7
+"Vítor","Marcos Romeu",13
+"Vítor","André Leão",9
+"Vítor","Christian Irobiso",2
+"Vítor","Rui Miguel",3
+"Vítor","Paolo Hurtado",9
+"Vítor","Nuno Santos",5
+"Vítor","Ricardo",9
+"Vítor","Sérgio Oliveira",3
+"Vítor","Rodrigo Antônio",8
+"Vítor","Manuel José",9
+"Vítor","Carlão",8
+"Vítor","Grégory",2
+"Vítor","Hélder Lopes",5
+"Vítor","Rui Caetano",1
+"Manuel José","Marcos Romeu",8
+"Manuel José","André Leão",2
+"Manuel José","Paolo Hurtado",2
+"Manuel José","Nuno Santos",6
+"Manuel José","Ricardo",1
+"Manuel José","Rodrigo Antônio",6
+"Manuel José","Filipe Anunciação",1
+"Manuel José","Vítor",10
+"Manuel José","Carlão",2
+"Manuel José","Grégory",1
+"Carlão","Marcos Romeu",4
+"Carlão","André Leão",4
+"Carlão","Paolo Hurtado",4
+"Carlão","Nuno Santos",1
+"Carlão","Ricardo",1
+"Carlão","Sérgio Oliveira",2
+"Carlão","Rodrigo Antônio",3
+"Carlão","Vítor",11
+"Carlão","Manuel José",9
+"Carlão","Hélder Lopes",2
+"Carlão","Rui Caetano",1
+"Grégory","Matias Degra",8
+"Grégory","Marcos Romeu",6
+"Grégory","Vítor",1
+"Grégory","André Leão",4
+"Grégory","Nuno Santos",4
+"Grégory","Ricardo",7
+"Grégory","Hélder Lopes",1
+"Grégory","Manuel José",2
+"Grégory","Rodrigo Antônio",1
+"Hélder Lopes","Matias Degra",2
+"Hélder Lopes","Marcos Romeu",1
+"Hélder Lopes","Vítor",6
+"Hélder Lopes","André Leão",8
+"Hélder Lopes","Grégory",2
+"Hélder Lopes","Paolo Hurtado",7
+"Hélder Lopes","Ricardo",6
+"Hélder Lopes","Manuel José",2
+"Hélder Lopes","Carlão",8
+"Hélder Lopes","Rui Miguel",3
+"Rui Caetano","Marcos Romeu",2
+"Rui Caetano","Vítor",3
+"Rui Caetano","André Leão",1
+"Rui Caetano","Carlão",2
+"Rui Caetano","Rodrigo Antônio",3

@@ -1,0 +1,294 @@
+"Beto","Mossoró",3
+"Beto","Hélder Barbosa",2
+"Beto","Lima",2
+"Beto","Ismaily",11
+"Beto","Leandro Salino",10
+"Beto","Paulo Vinícius",23
+"Beto","Custódio",12
+"Beto","Alan",9
+"Beto","Douglão",18
+"Beto","Hugo Viana",11
+"Beto","Ruben Amorim",3
+"Beto","Rúben Micael",5
+"Beto","Éder",5
+"Beto","Nuno André Coelho",11
+"Beto","Elderson",2
+"Beto","Zé Luis",1
+"Beto","Rúben Amorim",1
+"Mossoró","Beto",1
+"Mossoró","Hélder Barbosa",2
+"Mossoró","Lima",10
+"Mossoró","Ismaily",10
+"Mossoró","Leandro Salino",15
+"Mossoró","Paulo Vinícius",6
+"Mossoró","Custódio",9
+"Mossoró","Alan",26
+"Mossoró","Douglão",6
+"Mossoró","Hugo Viana",17
+"Mossoró","Ruben Amorim",1
+"Mossoró","Rúben Micael",14
+"Mossoró","Paulo César",3
+"Mossoró","Éder",5
+"Mossoró","Nuno André Coelho",6
+"Mossoró","Elderson",1
+"Mossoró","Zé Luis",2
+"Mossoró","Rúben Amorim",4
+"Mossoró","Quim",1
+"Hélder Barbosa","Mossoró",2
+"Hélder Barbosa","Ismaily",6
+"Hélder Barbosa","Leandro Salino",2
+"Hélder Barbosa","Paulo Vinícius",4
+"Hélder Barbosa","Custódio",3
+"Hélder Barbosa","Alan",2
+"Hélder Barbosa","Douglão",2
+"Hélder Barbosa","Hugo Viana",4
+"Hélder Barbosa","Ruben Amorim",1
+"Hélder Barbosa","Rúben Micael",5
+"Hélder Barbosa","Éder",1
+"Hélder Barbosa","Nuno André Coelho",1
+"Hélder Barbosa","Elderson",1
+"Hélder Barbosa","Zé Luis",2
+"Hélder Barbosa","Rúben Amorim",6
+"Lima","Mossoró",6
+"Lima","Hélder Barbosa",2
+"Lima","Ismaily",5
+"Lima","Leandro Salino",5
+"Lima","Paulo Vinícius",4
+"Lima","Custódio",4
+"Lima","Alan",11
+"Lima","Douglão",3
+"Lima","Hugo Viana",8
+"Lima","Ruben Amorim",2
+"Lima","Rúben Micael",4
+"Lima","Paulo César",1
+"Ismaily","Beto",2
+"Ismaily","Mossoró",18
+"Ismaily","Hélder Barbosa",11
+"Ismaily","Lima",3
+"Ismaily","Leandro Salino",11
+"Ismaily","Paulo Vinícius",14
+"Ismaily","Custódio",11
+"Ismaily","Alan",7
+"Ismaily","Douglão",4
+"Ismaily","Hugo Viana",28
+"Ismaily","Ruben Amorim",12
+"Ismaily","Rúben Micael",19
+"Ismaily","José Luís",1
+"Ismaily","Éder",5
+"Ismaily","Nuno André Coelho",14
+"Ismaily","Rúben Amorim",8
+"Ismaily","Quim",1
+"Ismaily","Elderson",3
+"Leandro Salino","Beto",6
+"Leandro Salino","Mossoró",21
+"Leandro Salino","Lima",6
+"Leandro Salino","Ismaily",7
+"Leandro Salino","Paulo Vinícius",9
+"Leandro Salino","Custódio",45
+"Leandro Salino","Alan",47
+"Leandro Salino","Douglão",41
+"Leandro Salino","Hugo Viana",24
+"Leandro Salino","Ruben Amorim",1
+"Leandro Salino","Rúben Micael",25
+"Leandro Salino","Paulo César",4
+"Leandro Salino","Éder",5
+"Leandro Salino","Nuno André Coelho",14
+"Leandro Salino","Elderson",2
+"Leandro Salino","Rúben Amorim",7
+"Leandro Salino","Quim",1
+"Paulo Vinícius","Beto",29
+"Paulo Vinícius","Mossoró",7
+"Paulo Vinícius","Hélder Barbosa",4
+"Paulo Vinícius","Lima",3
+"Paulo Vinícius","Ismaily",18
+"Paulo Vinícius","Leandro Salino",11
+"Paulo Vinícius","Custódio",23
+"Paulo Vinícius","Alan",2
+"Paulo Vinícius","Douglão",18
+"Paulo Vinícius","Hugo Viana",33
+"Paulo Vinícius","Ruben Amorim",5
+"Paulo Vinícius","Rúben Micael",6
+"Paulo Vinícius","Éder",2
+"Paulo Vinícius","Nuno André Coelho",10
+"Paulo Vinícius","Elderson",18
+"Paulo Vinícius","Quim",4
+"Paulo Vinícius","Rúben Amorim",12
+"Custódio","Beto",11
+"Custódio","Mossoró",15
+"Custódio","Hélder Barbosa",5
+"Custódio","Lima",1
+"Custódio","Ismaily",13
+"Custódio","Leandro Salino",39
+"Custódio","Paulo Vinícius",23
+"Custódio","Alan",40
+"Custódio","Douglão",22
+"Custódio","Hugo Viana",52
+"Custódio","Ruben Amorim",2
+"Custódio","Rúben Micael",14
+"Custódio","Paulo César",2
+"Custódio","Éder",12
+"Custódio","Nuno André Coelho",23
+"Custódio","Elderson",10
+"Custódio","Zé Luis",1
+"Custódio","Rúben Amorim",14
+"Custódio","Quim",1
+"Alan","Beto",3
+"Alan","Mossoró",20
+"Alan","Hélder Barbosa",1
+"Alan","Lima",9
+"Alan","Ismaily",13
+"Alan","Leandro Salino",45
+"Alan","Paulo Vinícius",7
+"Alan","Custódio",29
+"Alan","Douglão",11
+"Alan","Hugo Viana",24
+"Alan","Ruben Amorim",4
+"Alan","Rúben Micael",28
+"Alan","Éder",20
+"Alan","Nuno André Coelho",4
+"Alan","Elderson",4
+"Alan","Rúben Amorim",15
+"Alan","Carlão",1
+"Douglão","Beto",35
+"Douglão","Mossoró",4
+"Douglão","Hélder Barbosa",3
+"Douglão","Lima",2
+"Douglão","Ismaily",8
+"Douglão","Leandro Salino",27
+"Douglão","Paulo Vinícius",14
+"Douglão","Custódio",23
+"Douglão","Alan",11
+"Douglão","Hugo Viana",19
+"Douglão","Ruben Amorim",4
+"Douglão","Rúben Micael",6
+"Douglão","Paulo César",2
+"Douglão","Éder",2
+"Douglão","Nuno André Coelho",9
+"Douglão","Rúben Amorim",1
+"Douglão","Elderson",2
+"Hugo Viana","Beto",8
+"Hugo Viana","Mossoró",21
+"Hugo Viana","Hélder Barbosa",8
+"Hugo Viana","Lima",12
+"Hugo Viana","Ismaily",31
+"Hugo Viana","Leandro Salino",36
+"Hugo Viana","Paulo Vinícius",23
+"Hugo Viana","Custódio",38
+"Hugo Viana","Alan",32
+"Hugo Viana","Douglão",13
+"Hugo Viana","Ruben Amorim",11
+"Hugo Viana","Rúben Micael",35
+"Hugo Viana","Paulo César",3
+"Hugo Viana","Éder",16
+"Hugo Viana","Nuno André Coelho",9
+"Hugo Viana","Elderson",21
+"Hugo Viana","Zé Luis",1
+"Hugo Viana","Rúben Amorim",22
+"Ruben Amorim","Beto",1
+"Ruben Amorim","Mossoró",1
+"Ruben Amorim","Lima",2
+"Ruben Amorim","Ismaily",2
+"Ruben Amorim","Leandro Salino",1
+"Ruben Amorim","Paulo Vinícius",5
+"Ruben Amorim","Custódio",8
+"Ruben Amorim","Alan",7
+"Ruben Amorim","Hugo Viana",25
+"Ruben Amorim","Rúben Micael",5
+"Ruben Amorim","Éder",4
+"Ruben Amorim","Nuno André Coelho",1
+"Ruben Amorim","Djamal",2
+"Ruben Amorim","Elderson",6
+"Rúben Micael","Mossoró",17
+"Rúben Micael","Hélder Barbosa",11
+"Rúben Micael","Lima",11
+"Rúben Micael","Ismaily",13
+"Rúben Micael","Leandro Salino",18
+"Rúben Micael","Paulo Vinícius",2
+"Rúben Micael","Custódio",18
+"Rúben Micael","Alan",25
+"Rúben Micael","Douglão",1
+"Rúben Micael","Hugo Viana",40
+"Rúben Micael","Ruben Amorim",9
+"Rúben Micael","Éder",6
+"Rúben Micael","Nuno André Coelho",14
+"Rúben Micael","Elderson",7
+"Rúben Micael","Zé Luis",1
+"Rúben Micael","Rúben Amorim",12
+"José Luís","Custódio",1
+"Paulo César","Mossoró",4
+"Paulo César","Ismaily",1
+"Paulo César","Leandro Salino",2
+"Paulo César","Custódio",1
+"Paulo César","Hugo Viana",3
+"Paulo César","Rúben Micael",2
+"Éder","Ruben Amorim",4
+"Éder","Mossoró",1
+"Éder","Ismaily",4
+"Éder","Leandro Salino",6
+"Éder","Paulo Vinícius",2
+"Éder","Custódio",7
+"Éder","Alan",12
+"Éder","Douglão",1
+"Éder","Hugo Viana",10
+"Éder","Paulo César",1
+"Éder","Rúben Micael",14
+"Éder","Nuno André Coelho",1
+"Éder","Hélder Barbosa",2
+"Éder","Elderson",2
+"Éder","Rúben Amorim",6
+"Nuno André Coelho","Beto",8
+"Nuno André Coelho","Ruben Amorim",2
+"Nuno André Coelho","Rúben Micael",10
+"Nuno André Coelho","Éder",6
+"Nuno André Coelho","Ismaily",13
+"Nuno André Coelho","Leandro Salino",11
+"Nuno André Coelho","Paulo Vinícius",9
+"Nuno André Coelho","Custódio",23
+"Nuno André Coelho","Alan",14
+"Nuno André Coelho","Douglão",10
+"Nuno André Coelho","Hugo Viana",9
+"Nuno André Coelho","Elderson",11
+"Nuno André Coelho","Mossoró",5
+"Nuno André Coelho","Rúben Amorim",18
+"Nuno André Coelho","Quim",7
+"Nuno André Coelho","Carlão",1
+"Elderson","Beto",4
+"Elderson","Nuno André Coelho",6
+"Elderson","Ruben Amorim",12
+"Elderson","Rúben Micael",9
+"Elderson","Éder",4
+"Elderson","Leandro Salino",1
+"Elderson","Paulo Vinícius",15
+"Elderson","Custódio",9
+"Elderson","Alan",2
+"Elderson","Hugo Viana",16
+"Elderson","Mossoró",1
+"Elderson","Hélder Barbosa",1
+"Elderson","Rúben Amorim",11
+"Elderson","Douglão",1
+"Elderson","Quim",2
+"Elderson","Ismaily",9
+"Zé Luis","Hélder Barbosa",1
+"Rúben Amorim","Beto",3
+"Rúben Amorim","Nuno André Coelho",18
+"Rúben Amorim","Rúben Micael",16
+"Rúben Amorim","Éder",3
+"Rúben Amorim","Elderson",17
+"Rúben Amorim","Leandro Salino",2
+"Rúben Amorim","Custódio",19
+"Rúben Amorim","Alan",16
+"Rúben Amorim","Douglão",2
+"Rúben Amorim","Hugo Viana",20
+"Rúben Amorim","Mossoró",7
+"Rúben Amorim","Hélder Barbosa",4
+"Rúben Amorim","Zé Luis",1
+"Rúben Amorim","Ismaily",5
+"Rúben Amorim","Quim",2
+"Rúben Amorim","Paulo Vinícius",3
+"Quim","Nuno André Coelho",4
+"Quim","Rúben Amorim",1
+"Quim","Éder",4
+"Quim","Elderson",2
+"Quim","Leandro Salino",2
+"Quim","Paulo Vinícius",6
+"Quim","Alan",1

@@ -1,0 +1,268 @@
+"Silvio Proto","Lucas Biglia",12
+"Silvio Proto","Denis Odoi",2
+"Silvio Proto","Kanu",6
+"Silvio Proto","Milan Jovanović",5
+"Silvio Proto","Cheikhou Kouyaté",26
+"Silvio Proto","Sacha Kljestan",6
+"Silvio Proto","Behrang Safari",4
+"Silvio Proto","Dieudonné Mbokani",16
+"Silvio Proto","Marcin Wasilewski",23
+"Silvio Proto","Guillaume Gillet",18
+"Silvio Proto","Olexandr Yakovenko",3
+"Silvio Proto","Olivier Deschacht",6
+"Silvio Proto","Tom De Sutter",2
+"Silvio Proto","Massimo Bruno",3
+"Silvio Proto","Bram Nuytinck",17
+"Silvio Proto","Dennis Praet",1
+"Silvio Proto","Guillermo Molins",2
+"Lucas Biglia","Silvio Proto",11
+"Lucas Biglia","Denis Odoi",16
+"Lucas Biglia","Kanu",36
+"Lucas Biglia","Milan Jovanović",30
+"Lucas Biglia","Cheikhou Kouyaté",47
+"Lucas Biglia","Sacha Kljestan",51
+"Lucas Biglia","Behrang Safari",23
+"Lucas Biglia","Dieudonné Mbokani",33
+"Lucas Biglia","Marcin Wasilewski",37
+"Lucas Biglia","Guillaume Gillet",46
+"Lucas Biglia","Olexandr Yakovenko",10
+"Lucas Biglia","Olivier Deschacht",36
+"Lucas Biglia","Tom De Sutter",11
+"Lucas Biglia","Massimo Bruno",16
+"Lucas Biglia","Bram Nuytinck",32
+"Lucas Biglia","Dennis Praet",16
+"Lucas Biglia","Guillermo Molins",2
+"Denis Odoi","Silvio Proto",6
+"Denis Odoi","Lucas Biglia",14
+"Denis Odoi","Kanu",12
+"Denis Odoi","Milan Jovanović",1
+"Denis Odoi","Cheikhou Kouyaté",4
+"Denis Odoi","Sacha Kljestan",14
+"Denis Odoi","Dieudonné Mbokani",3
+"Denis Odoi","Marcin Wasilewski",15
+"Denis Odoi","Guillaume Gillet",20
+"Denis Odoi","Olexandr Yakovenko",1
+"Denis Odoi","Olivier Deschacht",1
+"Denis Odoi","Tom De Sutter",4
+"Denis Odoi","Massimo Bruno",1
+"Kanu","Silvio Proto",1
+"Kanu","Lucas Biglia",28
+"Kanu","Denis Odoi",5
+"Kanu","Milan Jovanović",13
+"Kanu","Cheikhou Kouyaté",5
+"Kanu","Sacha Kljestan",17
+"Kanu","Behrang Safari",1
+"Kanu","Dieudonné Mbokani",14
+"Kanu","Marcin Wasilewski",8
+"Kanu","Guillaume Gillet",24
+"Kanu","Olexandr Yakovenko",2
+"Kanu","Olivier Deschacht",11
+"Kanu","Tom De Sutter",3
+"Kanu","Massimo Bruno",4
+"Kanu","Bram Nuytinck",4
+"Kanu","Dennis Praet",1
+"Kanu","Guillermo Molins",3
+"Milan Jovanović","Silvio Proto",1
+"Milan Jovanović","Lucas Biglia",34
+"Milan Jovanović","Denis Odoi",1
+"Milan Jovanović","Kanu",11
+"Milan Jovanović","Cheikhou Kouyaté",9
+"Milan Jovanović","Sacha Kljestan",11
+"Milan Jovanović","Behrang Safari",5
+"Milan Jovanović","Dieudonné Mbokani",14
+"Milan Jovanović","Guillaume Gillet",9
+"Milan Jovanović","Olivier Deschacht",10
+"Milan Jovanović","Bram Nuytinck",5
+"Milan Jovanović","Massimo Bruno",6
+"Milan Jovanović","Dennis Praet",11
+"Cheikhou Kouyaté","Silvio Proto",35
+"Cheikhou Kouyaté","Lucas Biglia",56
+"Cheikhou Kouyaté","Denis Odoi",4
+"Cheikhou Kouyaté","Kanu",10
+"Cheikhou Kouyaté","Milan Jovanović",7
+"Cheikhou Kouyaté","Sacha Kljestan",28
+"Cheikhou Kouyaté","Behrang Safari",6
+"Cheikhou Kouyaté","Dieudonné Mbokani",12
+"Cheikhou Kouyaté","Marcin Wasilewski",33
+"Cheikhou Kouyaté","Guillaume Gillet",36
+"Cheikhou Kouyaté","Olexandr Yakovenko",3
+"Cheikhou Kouyaté","Olivier Deschacht",22
+"Cheikhou Kouyaté","Tom De Sutter",2
+"Cheikhou Kouyaté","Massimo Bruno",3
+"Cheikhou Kouyaté","Bram Nuytinck",17
+"Cheikhou Kouyaté","Dennis Praet",6
+"Cheikhou Kouyaté","Fernando Canesin",1
+"Sacha Kljestan","Silvio Proto",5
+"Sacha Kljestan","Lucas Biglia",46
+"Sacha Kljestan","Denis Odoi",21
+"Sacha Kljestan","Kanu",14
+"Sacha Kljestan","Milan Jovanović",16
+"Sacha Kljestan","Cheikhou Kouyaté",27
+"Sacha Kljestan","Behrang Safari",24
+"Sacha Kljestan","Dieudonné Mbokani",22
+"Sacha Kljestan","Marcin Wasilewski",16
+"Sacha Kljestan","Guillaume Gillet",36
+"Sacha Kljestan","Olexandr Yakovenko",8
+"Sacha Kljestan","Olivier Deschacht",18
+"Sacha Kljestan","Tom De Sutter",5
+"Sacha Kljestan","Roland Juhász",1
+"Sacha Kljestan","Massimo Bruno",11
+"Sacha Kljestan","Bram Nuytinck",10
+"Sacha Kljestan","Dennis Praet",10
+"Sacha Kljestan","Fernando Canesin",2
+"Behrang Safari","Silvio Proto",3
+"Behrang Safari","Lucas Biglia",20
+"Behrang Safari","Kanu",6
+"Behrang Safari","Milan Jovanović",21
+"Behrang Safari","Cheikhou Kouyaté",11
+"Behrang Safari","Sacha Kljestan",18
+"Behrang Safari","Dieudonné Mbokani",10
+"Behrang Safari","Guillaume Gillet",2
+"Behrang Safari","Olexandr Yakovenko",2
+"Behrang Safari","Bram Nuytinck",2
+"Behrang Safari","Dennis Praet",4
+"Behrang Safari","Massimo Bruno",3
+"Behrang Safari","Olivier Deschacht",5
+"Behrang Safari","Ronald Vargas",2
+"Dieudonné Mbokani","Silvio Proto",1
+"Dieudonné Mbokani","Lucas Biglia",20
+"Dieudonné Mbokani","Denis Odoi",4
+"Dieudonné Mbokani","Kanu",8
+"Dieudonné Mbokani","Milan Jovanović",18
+"Dieudonné Mbokani","Cheikhou Kouyaté",7
+"Dieudonné Mbokani","Sacha Kljestan",18
+"Dieudonné Mbokani","Behrang Safari",3
+"Dieudonné Mbokani","Marcin Wasilewski",1
+"Dieudonné Mbokani","Guillaume Gillet",7
+"Dieudonné Mbokani","Olexandr Yakovenko",4
+"Dieudonné Mbokani","Olivier Deschacht",8
+"Dieudonné Mbokani","Tom De Sutter",2
+"Dieudonné Mbokani","Massimo Bruno",10
+"Dieudonné Mbokani","Bram Nuytinck",4
+"Dieudonné Mbokani","Dennis Praet",9
+"Marcin Wasilewski","Silvio Proto",12
+"Marcin Wasilewski","Lucas Biglia",23
+"Marcin Wasilewski","Denis Odoi",13
+"Marcin Wasilewski","Kanu",13
+"Marcin Wasilewski","Milan Jovanović",3
+"Marcin Wasilewski","Cheikhou Kouyaté",29
+"Marcin Wasilewski","Sacha Kljestan",21
+"Marcin Wasilewski","Behrang Safari",1
+"Marcin Wasilewski","Dieudonné Mbokani",6
+"Marcin Wasilewski","Guillaume Gillet",33
+"Marcin Wasilewski","Olexandr Yakovenko",2
+"Marcin Wasilewski","Olivier Deschacht",4
+"Marcin Wasilewski","Tom De Sutter",4
+"Marcin Wasilewski","Bram Nuytinck",13
+"Marcin Wasilewski","Dennis Praet",4
+"Guillaume Gillet","Silvio Proto",12
+"Guillaume Gillet","Lucas Biglia",49
+"Guillaume Gillet","Denis Odoi",16
+"Guillaume Gillet","Kanu",28
+"Guillaume Gillet","Milan Jovanović",3
+"Guillaume Gillet","Cheikhou Kouyaté",25
+"Guillaume Gillet","Sacha Kljestan",33
+"Guillaume Gillet","Behrang Safari",3
+"Guillaume Gillet","Dieudonné Mbokani",18
+"Guillaume Gillet","Marcin Wasilewski",20
+"Guillaume Gillet","Olexandr Yakovenko",3
+"Guillaume Gillet","Olivier Deschacht",5
+"Guillaume Gillet","Tom De Sutter",6
+"Guillaume Gillet","Massimo Bruno",20
+"Guillaume Gillet","Bram Nuytinck",9
+"Guillaume Gillet","Dennis Praet",21
+"Guillaume Gillet","Guillermo Molins",4
+"Guillaume Gillet","Fernando Canesin",2
+"Olexandr Yakovenko","Silvio Proto",3
+"Olexandr Yakovenko","Lucas Biglia",6
+"Olexandr Yakovenko","Kanu",2
+"Olexandr Yakovenko","Milan Jovanović",2
+"Olexandr Yakovenko","Cheikhou Kouyaté",6
+"Olexandr Yakovenko","Sacha Kljestan",4
+"Olexandr Yakovenko","Behrang Safari",1
+"Olexandr Yakovenko","Dieudonné Mbokani",1
+"Olexandr Yakovenko","Marcin Wasilewski",2
+"Olexandr Yakovenko","Guillaume Gillet",2
+"Olexandr Yakovenko","Olivier Deschacht",13
+"Olexandr Yakovenko","Tom De Sutter",1
+"Olexandr Yakovenko","Roland Juhász",1
+"Olexandr Yakovenko","Bram Nuytinck",2
+"Olexandr Yakovenko","Dennis Praet",1
+"Olivier Deschacht","Silvio Proto",7
+"Olivier Deschacht","Lucas Biglia",35
+"Olivier Deschacht","Denis Odoi",1
+"Olivier Deschacht","Kanu",19
+"Olivier Deschacht","Cheikhou Kouyaté",12
+"Olivier Deschacht","Sacha Kljestan",26
+"Olivier Deschacht","Tom De Sutter",4
+"Olivier Deschacht","Dieudonné Mbokani",21
+"Olivier Deschacht","Marcin Wasilewski",1
+"Olivier Deschacht","Guillaume Gillet",8
+"Olivier Deschacht","Olexandr Yakovenko",10
+"Olivier Deschacht","Massimo Bruno",1
+"Olivier Deschacht","Bram Nuytinck",17
+"Olivier Deschacht","Dennis Praet",6
+"Olivier Deschacht","Milan Jovanović",20
+"Olivier Deschacht","Behrang Safari",8
+"Tom De Sutter","Olivier Deschacht",5
+"Tom De Sutter","Lucas Biglia",8
+"Tom De Sutter","Kanu",1
+"Tom De Sutter","Sacha Kljestan",5
+"Tom De Sutter","Dieudonné Mbokani",1
+"Tom De Sutter","Marcin Wasilewski",1
+"Tom De Sutter","Guillaume Gillet",4
+"Tom De Sutter","Olexandr Yakovenko",5
+"Tom De Sutter","Massimo Bruno",2
+"Tom De Sutter","Milan Jovanović",2
+"Tom De Sutter","Bram Nuytinck",3
+"Tom De Sutter","Dennis Praet",4
+"Roland Juhász","Olivier Deschacht",1
+"Roland Juhász","Lucas Biglia",1
+"Massimo Bruno","Olivier Deschacht",3
+"Massimo Bruno","Lucas Biglia",9
+"Massimo Bruno","Kanu",3
+"Massimo Bruno","Cheikhou Kouyaté",4
+"Massimo Bruno","Sacha Kljestan",6
+"Massimo Bruno","Dieudonné Mbokani",6
+"Massimo Bruno","Marcin Wasilewski",1
+"Massimo Bruno","Guillaume Gillet",17
+"Massimo Bruno","Dennis Praet",12
+"Massimo Bruno","Milan Jovanović",2
+"Bram Nuytinck","Silvio Proto",26
+"Bram Nuytinck","Olivier Deschacht",14
+"Bram Nuytinck","Lucas Biglia",35
+"Bram Nuytinck","Kanu",4
+"Bram Nuytinck","Cheikhou Kouyaté",17
+"Bram Nuytinck","Sacha Kljestan",8
+"Bram Nuytinck","Dieudonné Mbokani",7
+"Bram Nuytinck","Marcin Wasilewski",14
+"Bram Nuytinck","Guillaume Gillet",5
+"Bram Nuytinck","Massimo Bruno",3
+"Bram Nuytinck","Olexandr Yakovenko",2
+"Bram Nuytinck","Milan Jovanović",13
+"Bram Nuytinck","Tom De Sutter",2
+"Bram Nuytinck","Behrang Safari",5
+"Dennis Praet","Silvio Proto",1
+"Dennis Praet","Olivier Deschacht",7
+"Dennis Praet","Lucas Biglia",13
+"Dennis Praet","Kanu",1
+"Dennis Praet","Bram Nuytinck",2
+"Dennis Praet","Cheikhou Kouyaté",1
+"Dennis Praet","Sacha Kljestan",6
+"Dennis Praet","Dieudonné Mbokani",6
+"Dennis Praet","Marcin Wasilewski",3
+"Dennis Praet","Guillaume Gillet",17
+"Dennis Praet","Massimo Bruno",14
+"Dennis Praet","Milan Jovanović",13
+"Dennis Praet","Tom De Sutter",1
+"Dennis Praet","Behrang Safari",5
+"Guillermo Molins","Lucas Biglia",2
+"Guillermo Molins","Milan Jovanović",2
+"Guillermo Molins","Tom De Sutter",1
+"Guillermo Molins","Guillaume Gillet",5
+"Fernando Canesin","Lucas Biglia",2
+"Fernando Canesin","Cheikhou Kouyaté",1
+"Fernando Canesin","Guillaume Gillet",2
+"Fernando Canesin","Tom De Sutter",1
+"Ronald Vargas","Lucas Biglia",1
+"Ronald Vargas","Massimo Bruno",1

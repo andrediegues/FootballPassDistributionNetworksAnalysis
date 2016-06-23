@@ -1,0 +1,220 @@
+"Kenneth Vermeer","Toby Alderweireld",61
+"Kenneth Vermeer","Niklas Moisander",65
+"Kenneth Vermeer","Christian Poulsen",17
+"Kenneth Vermeer","Christian Eriksen",9
+"Kenneth Vermeer","Siem de Jong",3
+"Kenneth Vermeer","Daley Blind",21
+"Kenneth Vermeer","Derk Boerrigter",2
+"Kenneth Vermeer","Ricardo van Rhijn",12
+"Kenneth Vermeer","Ryan Babel",3
+"Kenneth Vermeer","Lasse Schøne",5
+"Kenneth Vermeer","Daniel Hoesen",1
+"Kenneth Vermeer","Eyong Enoh",2
+"Kenneth Vermeer","Viktor Fischer",1
+"Toby Alderweireld","Kenneth Vermeer",36
+"Toby Alderweireld","Niklas Moisander",74
+"Toby Alderweireld","Christian Poulsen",32
+"Toby Alderweireld","Christian Eriksen",12
+"Toby Alderweireld","Siem de Jong",30
+"Toby Alderweireld","Daley Blind",21
+"Toby Alderweireld","Tobias Sana",12
+"Toby Alderweireld","Derk Boerrigter",12
+"Toby Alderweireld","Ricardo van Rhijn",70
+"Toby Alderweireld","Ryan Babel",2
+"Toby Alderweireld","Lasse Schøne",12
+"Toby Alderweireld","Daniel Hoesen",3
+"Toby Alderweireld","Jody Lukoki",8
+"Toby Alderweireld","Fabian Sporkslede",4
+"Toby Alderweireld","Eyong Enoh",6
+"Toby Alderweireld","Viktor Fischer",2
+"Niklas Moisander","Kenneth Vermeer",53
+"Niklas Moisander","Toby Alderweireld",74
+"Niklas Moisander","Christian Poulsen",53
+"Niklas Moisander","Christian Eriksen",28
+"Niklas Moisander","Siem de Jong",32
+"Niklas Moisander","Daley Blind",68
+"Niklas Moisander","Tobias Sana",4
+"Niklas Moisander","Derk Boerrigter",13
+"Niklas Moisander","Ricardo van Rhijn",16
+"Niklas Moisander","Ryan Babel",9
+"Niklas Moisander","Lasse Schøne",18
+"Niklas Moisander","Daniel Hoesen",5
+"Niklas Moisander","Jody Lukoki",3
+"Niklas Moisander","Fabian Sporkslede",10
+"Niklas Moisander","Eyong Enoh",8
+"Niklas Moisander","Viktor Fischer",10
+"Christian Poulsen","Kenneth Vermeer",19
+"Christian Poulsen","Toby Alderweireld",40
+"Christian Poulsen","Niklas Moisander",44
+"Christian Poulsen","Christian Eriksen",33
+"Christian Poulsen","Siem de Jong",17
+"Christian Poulsen","Daley Blind",27
+"Christian Poulsen","Tobias Sana",8
+"Christian Poulsen","Derk Boerrigter",11
+"Christian Poulsen","Ricardo van Rhijn",26
+"Christian Poulsen","Ryan Babel",15
+"Christian Poulsen","Lasse Schøne",19
+"Christian Poulsen","Daniel Hoesen",4
+"Christian Poulsen","Jody Lukoki",4
+"Christian Poulsen","Eyong Enoh",3
+"Christian Poulsen","Viktor Fischer",3
+"Christian Eriksen","Kenneth Vermeer",2
+"Christian Eriksen","Toby Alderweireld",12
+"Christian Eriksen","Niklas Moisander",27
+"Christian Eriksen","Christian Poulsen",22
+"Christian Eriksen","Siem de Jong",27
+"Christian Eriksen","Daley Blind",28
+"Christian Eriksen","Tobias Sana",10
+"Christian Eriksen","Derk Boerrigter",20
+"Christian Eriksen","Ricardo van Rhijn",21
+"Christian Eriksen","Ryan Babel",12
+"Christian Eriksen","Lasse Schøne",21
+"Christian Eriksen","Daniel Hoesen",9
+"Christian Eriksen","Jody Lukoki",4
+"Christian Eriksen","Fabian Sporkslede",4
+"Christian Eriksen","Eyong Enoh",10
+"Christian Eriksen","Viktor Fischer",9
+"Siem de Jong","Kenneth Vermeer",7
+"Siem de Jong","Toby Alderweireld",22
+"Siem de Jong","Niklas Moisander",15
+"Siem de Jong","Christian Poulsen",15
+"Siem de Jong","Christian Eriksen",24
+"Siem de Jong","Daley Blind",20
+"Siem de Jong","Tobias Sana",6
+"Siem de Jong","Derk Boerrigter",15
+"Siem de Jong","Ricardo van Rhijn",28
+"Siem de Jong","Ryan Babel",16
+"Siem de Jong","Lasse Schøne",12
+"Siem de Jong","Daniel Hoesen",4
+"Siem de Jong","Jody Lukoki",6
+"Siem de Jong","Fabian Sporkslede",1
+"Siem de Jong","Eyong Enoh",3
+"Siem de Jong","Viktor Fischer",4
+"Daley Blind","Kenneth Vermeer",14
+"Daley Blind","Toby Alderweireld",8
+"Daley Blind","Niklas Moisander",64
+"Daley Blind","Christian Poulsen",28
+"Daley Blind","Christian Eriksen",40
+"Daley Blind","Siem de Jong",23
+"Daley Blind","Tobias Sana",4
+"Daley Blind","Derk Boerrigter",23
+"Daley Blind","Ricardo van Rhijn",1
+"Daley Blind","Ryan Babel",20
+"Daley Blind","Lasse Schøne",11
+"Daley Blind","Daniel Hoesen",6
+"Daley Blind","Jody Lukoki",1
+"Daley Blind","Eyong Enoh",15
+"Daley Blind","Viktor Fischer",18
+"Tobias Sana","Kenneth Vermeer",2
+"Tobias Sana","Toby Alderweireld",7
+"Tobias Sana","Christian Poulsen",7
+"Tobias Sana","Christian Eriksen",10
+"Tobias Sana","Siem de Jong",5
+"Tobias Sana","Daley Blind",3
+"Tobias Sana","Derk Boerrigter",3
+"Tobias Sana","Ricardo van Rhijn",15
+"Tobias Sana","Ryan Babel",7
+"Tobias Sana","Lasse Schøne",5
+"Derk Boerrigter","Kenneth Vermeer",1
+"Derk Boerrigter","Toby Alderweireld",2
+"Derk Boerrigter","Niklas Moisander",5
+"Derk Boerrigter","Christian Poulsen",14
+"Derk Boerrigter","Christian Eriksen",18
+"Derk Boerrigter","Siem de Jong",5
+"Derk Boerrigter","Daley Blind",12
+"Derk Boerrigter","Ricardo van Rhijn",14
+"Derk Boerrigter","Ryan Babel",7
+"Derk Boerrigter","Lasse Schøne",8
+"Derk Boerrigter","Daniel Hoesen",4
+"Derk Boerrigter","Eyong Enoh",4
+"Ricardo van Rhijn","Kenneth Vermeer",14
+"Ricardo van Rhijn","Toby Alderweireld",50
+"Ricardo van Rhijn","Niklas Moisander",22
+"Ricardo van Rhijn","Christian Poulsen",28
+"Ricardo van Rhijn","Christian Eriksen",24
+"Ricardo van Rhijn","Siem de Jong",27
+"Ricardo van Rhijn","Daley Blind",3
+"Ricardo van Rhijn","Tobias Sana",14
+"Ricardo van Rhijn","Derk Boerrigter",10
+"Ricardo van Rhijn","Ryan Babel",5
+"Ricardo van Rhijn","Lasse Schøne",32
+"Ricardo van Rhijn","Daniel Hoesen",2
+"Ricardo van Rhijn","Jody Lukoki",8
+"Ricardo van Rhijn","Fabian Sporkslede",1
+"Ricardo van Rhijn","Eyong Enoh",4
+"Ricardo van Rhijn","Viktor Fischer",1
+"Ryan Babel","Kenneth Vermeer",1
+"Ryan Babel","Toby Alderweireld",5
+"Ryan Babel","Niklas Moisander",3
+"Ryan Babel","Christian Poulsen",17
+"Ryan Babel","Christian Eriksen",9
+"Ryan Babel","Siem de Jong",12
+"Ryan Babel","Daley Blind",13
+"Ryan Babel","Tobias Sana",1
+"Ryan Babel","Derk Boerrigter",5
+"Ryan Babel","Ricardo van Rhijn",5
+"Ryan Babel","Lasse Schøne",6
+"Ryan Babel","Fabian Sporkslede",1
+"Lasse Schøne","Kenneth Vermeer",2
+"Lasse Schøne","Toby Alderweireld",14
+"Lasse Schøne","Niklas Moisander",24
+"Lasse Schøne","Christian Poulsen",11
+"Lasse Schøne","Christian Eriksen",26
+"Lasse Schøne","Siem de Jong",12
+"Lasse Schøne","Daley Blind",16
+"Lasse Schøne","Tobias Sana",7
+"Lasse Schøne","Derk Boerrigter",8
+"Lasse Schøne","Ricardo van Rhijn",19
+"Lasse Schøne","Ryan Babel",6
+"Lasse Schøne","Eyong Enoh",6
+"Lasse Schøne","Viktor Fischer",5
+"Lasse Schøne","Jody Lukoki",2
+"Lasse Schøne","Daniel Hoesen",3
+"Daniel Hoesen","Toby Alderweireld",2
+"Daniel Hoesen","Niklas Moisander",3
+"Daniel Hoesen","Christian Poulsen",3
+"Daniel Hoesen","Christian Eriksen",4
+"Daniel Hoesen","Siem de Jong",5
+"Daniel Hoesen","Daley Blind",3
+"Daniel Hoesen","Derk Boerrigter",4
+"Daniel Hoesen","Ricardo van Rhijn",4
+"Daniel Hoesen","Jody Lukoki",2
+"Daniel Hoesen","Lasse Schøne",3
+"Daniel Hoesen","Viktor Fischer",2
+"Jody Lukoki","Toby Alderweireld",4
+"Jody Lukoki","Christian Eriksen",4
+"Jody Lukoki","Siem de Jong",5
+"Jody Lukoki","Derk Boerrigter",1
+"Jody Lukoki","Ricardo van Rhijn",8
+"Jody Lukoki","Daniel Hoesen",1
+"Fabian Sporkslede","Toby Alderweireld",2
+"Fabian Sporkslede","Niklas Moisander",5
+"Fabian Sporkslede","Christian Eriksen",3
+"Fabian Sporkslede","Siem de Jong",1
+"Fabian Sporkslede","Daley Blind",3
+"Fabian Sporkslede","Derk Boerrigter",1
+"Fabian Sporkslede","Ricardo van Rhijn",2
+"Fabian Sporkslede","Ryan Babel",1
+"Fabian Sporkslede","Daniel Hoesen",2
+"Eyong Enoh","Toby Alderweireld",11
+"Eyong Enoh","Niklas Moisander",8
+"Eyong Enoh","Christian Poulsen",5
+"Eyong Enoh","Christian Eriksen",9
+"Eyong Enoh","Siem de Jong",1
+"Eyong Enoh","Daley Blind",11
+"Eyong Enoh","Lasse Schøne",2
+"Eyong Enoh","Ricardo van Rhijn",7
+"Eyong Enoh","Ryan Babel",1
+"Eyong Enoh","Derk Boerrigter",5
+"Eyong Enoh","Jody Lukoki",1
+"Viktor Fischer","Kenneth Vermeer",1
+"Viktor Fischer","Niklas Moisander",5
+"Viktor Fischer","Christian Poulsen",3
+"Viktor Fischer","Christian Eriksen",5
+"Viktor Fischer","Siem de Jong",3
+"Viktor Fischer","Daley Blind",10
+"Viktor Fischer","Lasse Schøne",7
+"Viktor Fischer","Derk Boerrigter",1
+"Viktor Fischer","Ricardo van Rhijn",1
+"Viktor Fischer","Eyong Enoh",1
+"Viktor Fischer","Daniel Hoesen",3

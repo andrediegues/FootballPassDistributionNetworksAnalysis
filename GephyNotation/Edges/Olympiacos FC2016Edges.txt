@@ -1,0 +1,226 @@
+"Roberto","Manuel da Costa",7
+"Roberto","Alejandro Domínguez",1
+"Roberto","Pajtim Kasami",6
+"Roberto","Omar Elabdellaoui",10
+"Roberto","Dimitris Siovas",31
+"Roberto","Arthur Masuaku",12
+"Roberto","Leandro Salino",2
+"Roberto","Felipe Pardo",8
+"Roberto","Ideye Brown",8
+"Roberto","Kostas Fortounis",1
+"Roberto","Hernâni",2
+"Roberto","Sebá",7
+"Roberto","Alberto Botía",3
+"Roberto","Alfred Finnbogason",1
+"Roberto","Luka Milivojević",7
+"Manuel da Costa","Roberto",7
+"Manuel da Costa","Pajtim Kasami",5
+"Manuel da Costa","Omar Elabdellaoui",19
+"Manuel da Costa","Dimitris Siovas",13
+"Manuel da Costa","Arthur Masuaku",5
+"Manuel da Costa","Leandro Salino",7
+"Manuel da Costa","Felipe Pardo",4
+"Manuel da Costa","Esteban Cambiasso",1
+"Manuel da Costa","Ideye Brown",2
+"Manuel da Costa","Kostas Fortounis",6
+"Manuel da Costa","Hernâni",3
+"Manuel da Costa","Sebá",1
+"Manuel da Costa","Luka Milivojević",8
+"Alejandro Domínguez","Manuel da Costa",3
+"Alejandro Domínguez","Pajtim Kasami",2
+"Alejandro Domínguez","Omar Elabdellaoui",5
+"Alejandro Domínguez","Arthur Masuaku",5
+"Alejandro Domínguez","Leandro Salino",1
+"Alejandro Domínguez","Felipe Pardo",3
+"Alejandro Domínguez","Ideye Brown",2
+"Alejandro Domínguez","Kostas Fortounis",2
+"Alejandro Domínguez","Hernâni",1
+"Alejandro Domínguez","Sebá",2
+"Alejandro Domínguez","Luka Milivojević",3
+"Alejandro Domínguez","Alfred Finnbogason",1
+"Pajtim Kasami","Roberto",1
+"Pajtim Kasami","Manuel da Costa",4
+"Pajtim Kasami","Alejandro Domínguez",4
+"Pajtim Kasami","Omar Elabdellaoui",11
+"Pajtim Kasami","Dimitris Siovas",15
+"Pajtim Kasami","Arthur Masuaku",37
+"Pajtim Kasami","Leandro Salino",6
+"Pajtim Kasami","Felipe Pardo",12
+"Pajtim Kasami","Esteban Cambiasso",6
+"Pajtim Kasami","Ideye Brown",15
+"Pajtim Kasami","Kostas Fortounis",15
+"Pajtim Kasami","Hernâni",2
+"Pajtim Kasami","Sebá",15
+"Pajtim Kasami","Alberto Botía",2
+"Pajtim Kasami","Luka Milivojević",6
+"Omar Elabdellaoui","Roberto",11
+"Omar Elabdellaoui","Manuel da Costa",13
+"Omar Elabdellaoui","Alejandro Domínguez",5
+"Omar Elabdellaoui","Pajtim Kasami",9
+"Omar Elabdellaoui","Dimitris Siovas",2
+"Omar Elabdellaoui","Leandro Salino",4
+"Omar Elabdellaoui","Felipe Pardo",24
+"Omar Elabdellaoui","Esteban Cambiasso",11
+"Omar Elabdellaoui","Ideye Brown",5
+"Omar Elabdellaoui","Kostas Fortounis",21
+"Omar Elabdellaoui","Hernâni",16
+"Omar Elabdellaoui","Sebá",7
+"Omar Elabdellaoui","Alberto Botía",6
+"Omar Elabdellaoui","Alfred Finnbogason",2
+"Omar Elabdellaoui","Luka Milivojević",21
+"Dimitris Siovas","Roberto",26
+"Dimitris Siovas","Manuel da Costa",11
+"Dimitris Siovas","Pajtim Kasami",20
+"Dimitris Siovas","Arthur Masuaku",34
+"Dimitris Siovas","Leandro Salino",2
+"Dimitris Siovas","Felipe Pardo",3
+"Dimitris Siovas","Esteban Cambiasso",5
+"Dimitris Siovas","Ideye Brown",11
+"Dimitris Siovas","Kostas Fortounis",10
+"Dimitris Siovas","Hernâni",3
+"Dimitris Siovas","Sebá",6
+"Dimitris Siovas","Alberto Botía",13
+"Dimitris Siovas","Alfred Finnbogason",1
+"Dimitris Siovas","Luka Milivojević",16
+"Arthur Masuaku","Roberto",5
+"Arthur Masuaku","Manuel da Costa",9
+"Arthur Masuaku","Alejandro Domínguez",5
+"Arthur Masuaku","Pajtim Kasami",19
+"Arthur Masuaku","Omar Elabdellaoui",6
+"Arthur Masuaku","Dimitris Siovas",28
+"Arthur Masuaku","Felipe Pardo",7
+"Arthur Masuaku","Esteban Cambiasso",5
+"Arthur Masuaku","Ideye Brown",17
+"Arthur Masuaku","Kostas Fortounis",19
+"Arthur Masuaku","Hernâni",5
+"Arthur Masuaku","Sebá",21
+"Arthur Masuaku","Luka Milivojević",15
+"Arthur Masuaku","Alfred Finnbogason",1
+"Leandro Salino","Roberto",2
+"Leandro Salino","Manuel da Costa",2
+"Leandro Salino","Alejandro Domínguez",2
+"Leandro Salino","Pajtim Kasami",9
+"Leandro Salino","Omar Elabdellaoui",5
+"Leandro Salino","Dimitris Siovas",2
+"Leandro Salino","Felipe Pardo",1
+"Leandro Salino","Esteban Cambiasso",5
+"Leandro Salino","Ideye Brown",3
+"Leandro Salino","Kostas Fortounis",3
+"Leandro Salino","Hernâni",1
+"Leandro Salino","Sebá",3
+"Leandro Salino","Alberto Botía",1
+"Leandro Salino","Luka Milivojević",3
+"Felipe Pardo","Manuel da Costa",1
+"Felipe Pardo","Alejandro Domínguez",1
+"Felipe Pardo","Pajtim Kasami",6
+"Felipe Pardo","Omar Elabdellaoui",17
+"Felipe Pardo","Arthur Masuaku",3
+"Felipe Pardo","Leandro Salino",3
+"Felipe Pardo","Esteban Cambiasso",1
+"Felipe Pardo","Ideye Brown",9
+"Felipe Pardo","Kostas Fortounis",13
+"Felipe Pardo","Sebá",4
+"Felipe Pardo","Alfred Finnbogason",2
+"Felipe Pardo","Luka Milivojević",5
+"Esteban Cambiasso","Manuel da Costa",2
+"Esteban Cambiasso","Pajtim Kasami",9
+"Esteban Cambiasso","Omar Elabdellaoui",10
+"Esteban Cambiasso","Dimitris Siovas",8
+"Esteban Cambiasso","Arthur Masuaku",8
+"Esteban Cambiasso","Leandro Salino",4
+"Esteban Cambiasso","Felipe Pardo",6
+"Esteban Cambiasso","Ideye Brown",6
+"Esteban Cambiasso","Kostas Fortounis",8
+"Esteban Cambiasso","Hernâni",1
+"Esteban Cambiasso","Sebá",3
+"Esteban Cambiasso","Alberto Botía",2
+"Esteban Cambiasso","Luka Milivojević",9
+"Ideye Brown","Alejandro Domínguez",4
+"Ideye Brown","Pajtim Kasami",12
+"Ideye Brown","Omar Elabdellaoui",2
+"Ideye Brown","Dimitris Siovas",2
+"Ideye Brown","Arthur Masuaku",13
+"Ideye Brown","Leandro Salino",6
+"Ideye Brown","Felipe Pardo",10
+"Ideye Brown","Esteban Cambiasso",7
+"Ideye Brown","Kostas Fortounis",23
+"Ideye Brown","Sebá",6
+"Ideye Brown","Alfred Finnbogason",1
+"Ideye Brown","Luka Milivojević",7
+"Kostas Fortounis","Roberto",2
+"Kostas Fortounis","Manuel da Costa",4
+"Kostas Fortounis","Alejandro Domínguez",2
+"Kostas Fortounis","Pajtim Kasami",16
+"Kostas Fortounis","Omar Elabdellaoui",18
+"Kostas Fortounis","Dimitris Siovas",8
+"Kostas Fortounis","Arthur Masuaku",14
+"Kostas Fortounis","Leandro Salino",4
+"Kostas Fortounis","Felipe Pardo",24
+"Kostas Fortounis","Esteban Cambiasso",5
+"Kostas Fortounis","Ideye Brown",15
+"Kostas Fortounis","Hernâni",8
+"Kostas Fortounis","Sebá",14
+"Kostas Fortounis","Alberto Botía",4
+"Kostas Fortounis","Alfred Finnbogason",1
+"Kostas Fortounis","Luka Milivojević",9
+"Hernâni","Roberto",1
+"Hernâni","Manuel da Costa",1
+"Hernâni","Alejandro Domínguez",2
+"Hernâni","Pajtim Kasami",1
+"Hernâni","Omar Elabdellaoui",7
+"Hernâni","Arthur Masuaku",3
+"Hernâni","Leandro Salino",1
+"Hernâni","Esteban Cambiasso",1
+"Hernâni","Ideye Brown",4
+"Hernâni","Kostas Fortounis",6
+"Hernâni","Sebá",1
+"Hernâni","Alberto Botía",1
+"Hernâni","Alfred Finnbogason",1
+"Sebá","Roberto",2
+"Sebá","Alejandro Domínguez",1
+"Sebá","Pajtim Kasami",11
+"Sebá","Omar Elabdellaoui",1
+"Sebá","Dimitris Siovas",1
+"Sebá","Arthur Masuaku",21
+"Sebá","Felipe Pardo",1
+"Sebá","Esteban Cambiasso",6
+"Sebá","Ideye Brown",12
+"Sebá","Kostas Fortounis",14
+"Sebá","Hernâni",2
+"Sebá","Alfred Finnbogason",2
+"Sebá","Luka Milivojević",1
+"Alberto Botía","Roberto",6
+"Alberto Botía","Kostas Fortounis",3
+"Alberto Botía","Pajtim Kasami",3
+"Alberto Botía","Omar Elabdellaoui",12
+"Alberto Botía","Dimitris Siovas",10
+"Alberto Botía","Leandro Salino",1
+"Alberto Botía","Felipe Pardo",1
+"Alberto Botía","Esteban Cambiasso",2
+"Alberto Botía","Sebá",1
+"Alberto Botía","Ideye Brown",4
+"Alberto Botía","Alfred Finnbogason",1
+"Alberto Botía","Hernâni",1
+"Alberto Botía","Luka Milivojević",14
+"Alberto Botía","Arthur Masuaku",1
+"Alfred Finnbogason","Kostas Fortounis",3
+"Alfred Finnbogason","Omar Elabdellaoui",2
+"Alfred Finnbogason","Leandro Salino",1
+"Alfred Finnbogason","Felipe Pardo",3
+"Alfred Finnbogason","Sebá",3
+"Alfred Finnbogason","Alejandro Domínguez",1
+"Luka Milivojević","Roberto",2
+"Luka Milivojević","Alberto Botía",9
+"Luka Milivojević","Kostas Fortounis",16
+"Luka Milivojević","Pajtim Kasami",12
+"Luka Milivojević","Omar Elabdellaoui",21
+"Luka Milivojević","Dimitris Siovas",19
+"Luka Milivojević","Arthur Masuaku",10
+"Luka Milivojević","Felipe Pardo",7
+"Luka Milivojević","Sebá",9
+"Luka Milivojević","Ideye Brown",8
+"Luka Milivojević","Manuel da Costa",18
+"Luka Milivojević","Alejandro Domínguez",6
+"Luka Milivojević","Leandro Salino",3
+"Luka Milivojević","Alfred Finnbogason",2
+"Luka Milivojević","Esteban Cambiasso",8

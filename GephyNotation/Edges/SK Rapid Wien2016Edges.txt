@@ -1,0 +1,140 @@
+"Ján Novota","Thanos Petsos",7
+"Ján Novota","Mario Sonnleitner",4
+"Ján Novota","Robert Berić",1
+"Ján Novota","Srdjan Grahovac",3
+"Ján Novota","Christopher Dibon",9
+"Ján Novota","Mario Pavelic",9
+"Ján Novota","Stephan Auer",2
+"Ján Novota","Stefan Schwab",1
+"Thanos Petsos","Ján Novota",3
+"Thanos Petsos","Mario Sonnleitner",13
+"Thanos Petsos","Robert Berić",2
+"Thanos Petsos","Louis Schaub",12
+"Thanos Petsos","Steffen Hofmann",9
+"Thanos Petsos","Florian Kainz",14
+"Thanos Petsos","Srdjan Grahovac",23
+"Thanos Petsos","Christopher Dibon",18
+"Thanos Petsos","Mario Pavelic",17
+"Thanos Petsos","Stephan Auer",14
+"Thanos Petsos","Schobesberger",6
+"Thanos Petsos","Deni Alar",1
+"Thanos Petsos","Stefan Schwab",2
+"Mario Sonnleitner","Ján Novota",3
+"Mario Sonnleitner","Thanos Petsos",19
+"Mario Sonnleitner","Robert Berić",7
+"Mario Sonnleitner","Louis Schaub",7
+"Mario Sonnleitner","Steffen Hofmann",3
+"Mario Sonnleitner","Florian Kainz",2
+"Mario Sonnleitner","Srdjan Grahovac",17
+"Mario Sonnleitner","Christopher Dibon",13
+"Mario Sonnleitner","Mario Pavelic",6
+"Mario Sonnleitner","Stephan Auer",5
+"Mario Sonnleitner","Schobesberger",2
+"Mario Sonnleitner","Stefan Schwab",1
+"Robert Berić","Thanos Petsos",2
+"Robert Berić","Mario Sonnleitner",1
+"Robert Berić","Louis Schaub",3
+"Robert Berić","Steffen Hofmann",11
+"Robert Berić","Florian Kainz",3
+"Robert Berić","Srdjan Grahovac",3
+"Robert Berić","Christopher Dibon",1
+"Robert Berić","Mario Pavelic",2
+"Robert Berić","Stephan Auer",8
+"Robert Berić","Schobesberger",1
+"Louis Schaub","Thanos Petsos",5
+"Louis Schaub","Mario Sonnleitner",2
+"Louis Schaub","Robert Berić",5
+"Louis Schaub","Steffen Hofmann",2
+"Louis Schaub","Florian Kainz",8
+"Louis Schaub","Srdjan Grahovac",6
+"Louis Schaub","Christopher Dibon",1
+"Louis Schaub","Mario Pavelic",7
+"Louis Schaub","Stephan Auer",2
+"Louis Schaub","Schobesberger",1
+"Louis Schaub","Stefan Schwab",2
+"Steffen Hofmann","Thanos Petsos",9
+"Steffen Hofmann","Mario Sonnleitner",6
+"Steffen Hofmann","Robert Berić",2
+"Steffen Hofmann","Louis Schaub",5
+"Steffen Hofmann","Florian Kainz",4
+"Steffen Hofmann","Srdjan Grahovac",11
+"Steffen Hofmann","Christopher Dibon",4
+"Steffen Hofmann","Stephan Auer",4
+"Florian Kainz","Ján Novota",1
+"Florian Kainz","Thanos Petsos",7
+"Florian Kainz","Mario Sonnleitner",1
+"Florian Kainz","Robert Berić",3
+"Florian Kainz","Louis Schaub",5
+"Florian Kainz","Steffen Hofmann",5
+"Florian Kainz","Srdjan Grahovac",4
+"Florian Kainz","Christopher Dibon",2
+"Florian Kainz","Mario Pavelic",1
+"Florian Kainz","Stephan Auer",9
+"Florian Kainz","Schobesberger",2
+"Florian Kainz","Stefan Schwab",1
+"Srdjan Grahovac","Ján Novota",2
+"Srdjan Grahovac","Thanos Petsos",17
+"Srdjan Grahovac","Mario Sonnleitner",14
+"Srdjan Grahovac","Robert Berić",2
+"Srdjan Grahovac","Louis Schaub",9
+"Srdjan Grahovac","Steffen Hofmann",7
+"Srdjan Grahovac","Florian Kainz",8
+"Srdjan Grahovac","Christopher Dibon",21
+"Srdjan Grahovac","Mario Pavelic",15
+"Srdjan Grahovac","Stephan Auer",14
+"Srdjan Grahovac","Deni Alar",2
+"Christopher Dibon","Ján Novota",16
+"Christopher Dibon","Thanos Petsos",18
+"Christopher Dibon","Mario Sonnleitner",20
+"Christopher Dibon","Robert Berić",2
+"Christopher Dibon","Louis Schaub",2
+"Christopher Dibon","Steffen Hofmann",5
+"Christopher Dibon","Florian Kainz",6
+"Christopher Dibon","Srdjan Grahovac",16
+"Christopher Dibon","Stephan Auer",12
+"Christopher Dibon","Stefan Schwab",2
+"Mario Pavelic","Ján Novota",4
+"Mario Pavelic","Thanos Petsos",14
+"Mario Pavelic","Mario Sonnleitner",9
+"Mario Pavelic","Robert Berić",1
+"Mario Pavelic","Louis Schaub",4
+"Mario Pavelic","Steffen Hofmann",6
+"Mario Pavelic","Florian Kainz",2
+"Mario Pavelic","Srdjan Grahovac",13
+"Mario Pavelic","Christopher Dibon",2
+"Mario Pavelic","Stephan Auer",2
+"Mario Pavelic","Schobesberger",1
+"Mario Pavelic","Stefan Schwab",2
+"Stephan Auer","Ján Novota",2
+"Stephan Auer","Thanos Petsos",16
+"Stephan Auer","Mario Sonnleitner",1
+"Stephan Auer","Robert Berić",5
+"Stephan Auer","Louis Schaub",3
+"Stephan Auer","Steffen Hofmann",8
+"Stephan Auer","Florian Kainz",9
+"Stephan Auer","Srdjan Grahovac",11
+"Stephan Auer","Christopher Dibon",11
+"Stephan Auer","Schobesberger",2
+"Stephan Auer","Deni Alar",2
+"Stephan Auer","Philipp Prosenik",1
+"Stephan Auer","Stefan Schwab",2
+"Schobesberger","Thanos Petsos",2
+"Schobesberger","Louis Schaub",1
+"Schobesberger","Florian Kainz",5
+"Schobesberger","Christopher Dibon",1
+"Schobesberger","Mario Pavelic",2
+"Schobesberger","Stephan Auer",1
+"Schobesberger","Philipp Prosenik",1
+"Schobesberger","Stefan Schwab",2
+"Deni Alar","Srdjan Grahovac",1
+"Deni Alar","Stephan Auer",2
+"Philipp Prosenik","Robert Berić",2
+"Stefan Schwab","Thanos Petsos",3
+"Stefan Schwab","Mario Sonnleitner",2
+"Stefan Schwab","Robert Berić",3
+"Stefan Schwab","Louis Schaub",1
+"Stefan Schwab","Florian Kainz",1
+"Stefan Schwab","Christopher Dibon",1
+"Stefan Schwab","Mario Pavelic",1
+"Stefan Schwab","Schobesberger",2
+"Stefan Schwab","Philipp Prosenik",2

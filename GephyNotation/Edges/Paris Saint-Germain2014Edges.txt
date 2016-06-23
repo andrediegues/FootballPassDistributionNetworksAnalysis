@@ -1,0 +1,336 @@
+"Salvatore Sirigu","Thiago Silva",17
+"Salvatore Sirigu","Marquinhos",25
+"Salvatore Sirigu","Thiago Motta",15
+"Salvatore Sirigu","Edinson Cavani",6
+"Salvatore Sirigu","Zlatan Ibrahimović",10
+"Salvatore Sirigu","Blaise Matuidi",8
+"Salvatore Sirigu","Maxwell",12
+"Salvatore Sirigu","Gregory van der Wiel",6
+"Salvatore Sirigu","Marco Verratti",16
+"Salvatore Sirigu","Lucas",6
+"Salvatore Sirigu","Ezequiel Lavezzi",3
+"Salvatore Sirigu","Adrien Rabiot",3
+"Salvatore Sirigu","Alex",19
+"Salvatore Sirigu","Zoumana Camara",7
+"Salvatore Sirigu","Javier Pastore",1
+"Salvatore Sirigu","Lucas Digne",3
+"Salvatore Sirigu","Kalifa Traoré",1
+"Salvatore Sirigu","Christophe Jallet",1
+"Thiago Silva","Salvatore Sirigu",5
+"Thiago Silva","Marquinhos",16
+"Thiago Silva","Thiago Motta",32
+"Thiago Silva","Edinson Cavani",5
+"Thiago Silva","Zlatan Ibrahimović",11
+"Thiago Silva","Blaise Matuidi",28
+"Thiago Silva","Maxwell",35
+"Thiago Silva","Gregory van der Wiel",16
+"Thiago Silva","Marco Verratti",35
+"Thiago Silva","Lucas",3
+"Thiago Silva","Jérémy Ménez",4
+"Thiago Silva","Ezequiel Lavezzi",5
+"Thiago Silva","Adrien Rabiot",2
+"Thiago Silva","Alex",19
+"Thiago Silva","Javier Pastore",2
+"Thiago Silva","Christophe Jallet",8
+"Thiago Silva","Yohan Cabaye",2
+"Marquinhos","Salvatore Sirigu",19
+"Marquinhos","Thiago Silva",23
+"Marquinhos","Thiago Motta",54
+"Marquinhos","Edinson Cavani",5
+"Marquinhos","Zlatan Ibrahimović",18
+"Marquinhos","Blaise Matuidi",36
+"Marquinhos","Maxwell",45
+"Marquinhos","Gregory van der Wiel",6
+"Marquinhos","Marco Verratti",49
+"Marquinhos","Lucas",1
+"Marquinhos","Jérémy Ménez",3
+"Marquinhos","Ezequiel Lavezzi",17
+"Marquinhos","Adrien Rabiot",21
+"Marquinhos","Alex",26
+"Marquinhos","Zoumana Camara",20
+"Marquinhos","Javier Pastore",6
+"Marquinhos","Lucas Digne",5
+"Thiago Motta","Salvatore Sirigu",9
+"Thiago Motta","Thiago Silva",32
+"Thiago Motta","Marquinhos",63
+"Thiago Motta","Edinson Cavani",46
+"Thiago Motta","Zlatan Ibrahimović",51
+"Thiago Motta","Blaise Matuidi",108
+"Thiago Motta","Maxwell",52
+"Thiago Motta","Gregory van der Wiel",37
+"Thiago Motta","Marco Verratti",140
+"Thiago Motta","Lucas",24
+"Thiago Motta","Jérémy Ménez",6
+"Thiago Motta","Ezequiel Lavezzi",31
+"Thiago Motta","Adrien Rabiot",28
+"Thiago Motta","Alex",38
+"Thiago Motta","Zoumana Camara",5
+"Thiago Motta","Javier Pastore",22
+"Thiago Motta","Lucas Digne",7
+"Thiago Motta","Kalifa Traoré",5
+"Thiago Motta","Christophe Jallet",8
+"Thiago Motta","Yohan Cabaye",6
+"Edinson Cavani","Salvatore Sirigu",1
+"Edinson Cavani","Thiago Silva",3
+"Edinson Cavani","Marquinhos",2
+"Edinson Cavani","Thiago Motta",37
+"Edinson Cavani","Zlatan Ibrahimović",18
+"Edinson Cavani","Blaise Matuidi",18
+"Edinson Cavani","Maxwell",17
+"Edinson Cavani","Gregory van der Wiel",22
+"Edinson Cavani","Marco Verratti",26
+"Edinson Cavani","Lucas",6
+"Edinson Cavani","Jérémy Ménez",3
+"Edinson Cavani","Ezequiel Lavezzi",11
+"Edinson Cavani","Adrien Rabiot",12
+"Edinson Cavani","Alex",7
+"Edinson Cavani","Lucas Digne",2
+"Edinson Cavani","Javier Pastore",4
+"Edinson Cavani","Kalifa Traoré",2
+"Edinson Cavani","Christophe Jallet",11
+"Zlatan Ibrahimović","Thiago Silva",4
+"Zlatan Ibrahimović","Marquinhos",6
+"Zlatan Ibrahimović","Thiago Motta",38
+"Zlatan Ibrahimović","Edinson Cavani",19
+"Zlatan Ibrahimović","Blaise Matuidi",36
+"Zlatan Ibrahimović","Maxwell",22
+"Zlatan Ibrahimović","Gregory van der Wiel",23
+"Zlatan Ibrahimović","Marco Verratti",40
+"Zlatan Ibrahimović","Lucas",7
+"Zlatan Ibrahimović","Jérémy Ménez",1
+"Zlatan Ibrahimović","Ezequiel Lavezzi",24
+"Zlatan Ibrahimović","Adrien Rabiot",6
+"Zlatan Ibrahimović","Alex",7
+"Zlatan Ibrahimović","Zoumana Camara",1
+"Zlatan Ibrahimović","Javier Pastore",1
+"Zlatan Ibrahimović","Christophe Jallet",4
+"Blaise Matuidi","Salvatore Sirigu",1
+"Blaise Matuidi","Thiago Silva",20
+"Blaise Matuidi","Marquinhos",36
+"Blaise Matuidi","Thiago Motta",62
+"Blaise Matuidi","Edinson Cavani",25
+"Blaise Matuidi","Zlatan Ibrahimović",37
+"Blaise Matuidi","Maxwell",93
+"Blaise Matuidi","Gregory van der Wiel",20
+"Blaise Matuidi","Marco Verratti",38
+"Blaise Matuidi","Lucas",8
+"Blaise Matuidi","Jérémy Ménez",6
+"Blaise Matuidi","Ezequiel Lavezzi",56
+"Blaise Matuidi","Adrien Rabiot",7
+"Blaise Matuidi","Alex",21
+"Blaise Matuidi","Zoumana Camara",6
+"Blaise Matuidi","Javier Pastore",5
+"Blaise Matuidi","Lucas Digne",6
+"Blaise Matuidi","Christophe Jallet",1
+"Blaise Matuidi","Yohan Cabaye",1
+"Maxwell","Salvatore Sirigu",6
+"Maxwell","Thiago Silva",29
+"Maxwell","Marquinhos",37
+"Maxwell","Thiago Motta",73
+"Maxwell","Edinson Cavani",24
+"Maxwell","Zlatan Ibrahimović",31
+"Maxwell","Blaise Matuidi",83
+"Maxwell","Gregory van der Wiel",1
+"Maxwell","Marco Verratti",48
+"Maxwell","Lucas",5
+"Maxwell","Jérémy Ménez",1
+"Maxwell","Ezequiel Lavezzi",51
+"Maxwell","Adrien Rabiot",11
+"Maxwell","Alex",7
+"Maxwell","Javier Pastore",7
+"Maxwell","Christophe Jallet",2
+"Maxwell","Yohan Cabaye",1
+"Gregory van der Wiel","Salvatore Sirigu",10
+"Gregory van der Wiel","Thiago Silva",8
+"Gregory van der Wiel","Marquinhos",10
+"Gregory van der Wiel","Thiago Motta",39
+"Gregory van der Wiel","Edinson Cavani",26
+"Gregory van der Wiel","Zlatan Ibrahimović",27
+"Gregory van der Wiel","Blaise Matuidi",16
+"Gregory van der Wiel","Maxwell",1
+"Gregory van der Wiel","Marco Verratti",42
+"Gregory van der Wiel","Lucas",28
+"Gregory van der Wiel","Jérémy Ménez",2
+"Gregory van der Wiel","Ezequiel Lavezzi",5
+"Gregory van der Wiel","Adrien Rabiot",3
+"Gregory van der Wiel","Alex",27
+"Gregory van der Wiel","Zoumana Camara",8
+"Gregory van der Wiel","Javier Pastore",4
+"Marco Verratti","Salvatore Sirigu",7
+"Marco Verratti","Thiago Silva",22
+"Marco Verratti","Marquinhos",31
+"Marco Verratti","Thiago Motta",166
+"Marco Verratti","Edinson Cavani",28
+"Marco Verratti","Zlatan Ibrahimović",68
+"Marco Verratti","Blaise Matuidi",62
+"Marco Verratti","Maxwell",34
+"Marco Verratti","Gregory van der Wiel",40
+"Marco Verratti","Lucas",25
+"Marco Verratti","Ezequiel Lavezzi",25
+"Marco Verratti","Adrien Rabiot",11
+"Marco Verratti","Alex",45
+"Marco Verratti","Zoumana Camara",2
+"Marco Verratti","Christophe Jallet",13
+"Lucas","Thiago Silva",4
+"Lucas","Thiago Motta",15
+"Lucas","Edinson Cavani",11
+"Lucas","Zlatan Ibrahimović",12
+"Lucas","Blaise Matuidi",9
+"Lucas","Maxwell",2
+"Lucas","Gregory van der Wiel",19
+"Lucas","Marco Verratti",18
+"Lucas","Jérémy Ménez",6
+"Lucas","Ezequiel Lavezzi",5
+"Lucas","Adrien Rabiot",6
+"Lucas","Alex",4
+"Lucas","Zoumana Camara",5
+"Lucas","Javier Pastore",4
+"Lucas","Lucas Digne",2
+"Lucas","Kalifa Traoré",1
+"Lucas","Christophe Jallet",12
+"Lucas","Yohan Cabaye",6
+"Jérémy Ménez","Thiago Silva",2
+"Jérémy Ménez","Marquinhos",2
+"Jérémy Ménez","Thiago Motta",12
+"Jérémy Ménez","Edinson Cavani",4
+"Jérémy Ménez","Blaise Matuidi",5
+"Jérémy Ménez","Gregory van der Wiel",2
+"Jérémy Ménez","Lucas",3
+"Jérémy Ménez","Ezequiel Lavezzi",3
+"Jérémy Ménez","Adrien Rabiot",5
+"Jérémy Ménez","Javier Pastore",6
+"Jérémy Ménez","Zoumana Camara",1
+"Jérémy Ménez","Lucas Digne",7
+"Jérémy Ménez","Kalifa Traoré",3
+"Ezequiel Lavezzi","Salvatore Sirigu",1
+"Ezequiel Lavezzi","Thiago Silva",5
+"Ezequiel Lavezzi","Marquinhos",9
+"Ezequiel Lavezzi","Thiago Motta",18
+"Ezequiel Lavezzi","Edinson Cavani",15
+"Ezequiel Lavezzi","Zlatan Ibrahimović",21
+"Ezequiel Lavezzi","Blaise Matuidi",37
+"Ezequiel Lavezzi","Maxwell",41
+"Ezequiel Lavezzi","Gregory van der Wiel",9
+"Ezequiel Lavezzi","Marco Verratti",15
+"Ezequiel Lavezzi","Lucas",8
+"Ezequiel Lavezzi","Jérémy Ménez",2
+"Ezequiel Lavezzi","Adrien Rabiot",2
+"Ezequiel Lavezzi","Alex",6
+"Ezequiel Lavezzi","Javier Pastore",1
+"Ezequiel Lavezzi","Kalifa Traoré",2
+"Ezequiel Lavezzi","Christophe Jallet",3
+"Ezequiel Lavezzi","Yohan Cabaye",2
+"Adrien Rabiot","Salvatore Sirigu",4
+"Adrien Rabiot","Thiago Silva",3
+"Adrien Rabiot","Marquinhos",10
+"Adrien Rabiot","Thiago Motta",28
+"Adrien Rabiot","Edinson Cavani",16
+"Adrien Rabiot","Zlatan Ibrahimović",5
+"Adrien Rabiot","Blaise Matuidi",11
+"Adrien Rabiot","Maxwell",10
+"Adrien Rabiot","Gregory van der Wiel",4
+"Adrien Rabiot","Marco Verratti",4
+"Adrien Rabiot","Lucas",7
+"Adrien Rabiot","Jérémy Ménez",7
+"Adrien Rabiot","Ezequiel Lavezzi",2
+"Adrien Rabiot","Alex",2
+"Adrien Rabiot","Zoumana Camara",9
+"Adrien Rabiot","Lucas Digne",7
+"Adrien Rabiot","Javier Pastore",6
+"Adrien Rabiot","Kalifa Traoré",5
+"Alex","Salvatore Sirigu",18
+"Alex","Marquinhos",41
+"Alex","Thiago Motta",60
+"Alex","Edinson Cavani",4
+"Alex","Zlatan Ibrahimović",5
+"Alex","Blaise Matuidi",17
+"Alex","Maxwell",4
+"Alex","Ezequiel Lavezzi",2
+"Alex","Gregory van der Wiel",22
+"Alex","Marco Verratti",70
+"Alex","Adrien Rabiot",2
+"Alex","Lucas",4
+"Alex","Thiago Silva",18
+"Alex","Jérémy Ménez",1
+"Alex","Javier Pastore",1
+"Alex","Christophe Jallet",10
+"Alex","Yohan Cabaye",2
+"Zoumana Camara","Salvatore Sirigu",14
+"Zoumana Camara","Marquinhos",8
+"Zoumana Camara","Thiago Motta",20
+"Zoumana Camara","Edinson Cavani",1
+"Zoumana Camara","Zlatan Ibrahimović",3
+"Zoumana Camara","Blaise Matuidi",7
+"Zoumana Camara","Ezequiel Lavezzi",2
+"Zoumana Camara","Gregory van der Wiel",7
+"Zoumana Camara","Marco Verratti",8
+"Zoumana Camara","Adrien Rabiot",5
+"Zoumana Camara","Lucas",5
+"Zoumana Camara","Jérémy Ménez",1
+"Zoumana Camara","Lucas Digne",1
+"Zoumana Camara","Javier Pastore",8
+"Zoumana Camara","Kalifa Traoré",2
+"Javier Pastore","Salvatore Sirigu",3
+"Javier Pastore","Marquinhos",5
+"Javier Pastore","Thiago Motta",13
+"Javier Pastore","Zlatan Ibrahimović",1
+"Javier Pastore","Alex",1
+"Javier Pastore","Blaise Matuidi",1
+"Javier Pastore","Maxwell",3
+"Javier Pastore","Ezequiel Lavezzi",1
+"Javier Pastore","Gregory van der Wiel",2
+"Javier Pastore","Lucas",8
+"Javier Pastore","Thiago Silva",1
+"Javier Pastore","Jérémy Ménez",10
+"Javier Pastore","Zoumana Camara",4
+"Javier Pastore","Edinson Cavani",8
+"Javier Pastore","Lucas Digne",2
+"Javier Pastore","Adrien Rabiot",9
+"Javier Pastore","Kalifa Traoré",7
+"Javier Pastore","Christophe Jallet",3
+"Javier Pastore","Yohan Cabaye",3
+"Lucas Digne","Salvatore Sirigu",1
+"Lucas Digne","Marquinhos",11
+"Lucas Digne","Zoumana Camara",2
+"Lucas Digne","Jérémy Ménez",12
+"Lucas Digne","Thiago Motta",3
+"Lucas Digne","Edinson Cavani",1
+"Lucas Digne","Adrien Rabiot",8
+"Lucas Digne","Javier Pastore",4
+"Lucas Digne","Lucas",1
+"Lucas Digne","Kalifa Traoré",1
+"Lucas Digne","Blaise Matuidi",4
+"Kalifa Traoré","Salvatore Sirigu",1
+"Kalifa Traoré","Zoumana Camara",7
+"Kalifa Traoré","Jérémy Ménez",3
+"Kalifa Traoré","Thiago Motta",1
+"Kalifa Traoré","Edinson Cavani",3
+"Kalifa Traoré","Lucas Digne",1
+"Kalifa Traoré","Adrien Rabiot",2
+"Kalifa Traoré","Javier Pastore",7
+"Kalifa Traoré","Lucas",14
+"Kalifa Traoré","Blaise Matuidi",1
+"Kalifa Traoré","Ezequiel Lavezzi",1
+"Christophe Jallet","Salvatore Sirigu",5
+"Christophe Jallet","Thiago Silva",2
+"Christophe Jallet","Thiago Motta",8
+"Christophe Jallet","Edinson Cavani",9
+"Christophe Jallet","Zlatan Ibrahimović",5
+"Christophe Jallet","Alex",3
+"Christophe Jallet","Blaise Matuidi",3
+"Christophe Jallet","Maxwell",2
+"Christophe Jallet","Ezequiel Lavezzi",5
+"Christophe Jallet","Marco Verratti",17
+"Christophe Jallet","Yohan Cabaye",6
+"Christophe Jallet","Javier Pastore",4
+"Christophe Jallet","Lucas",19
+"Christophe Jallet","Marquinhos",1
+"Yohan Cabaye","Thiago Silva",1
+"Yohan Cabaye","Thiago Motta",2
+"Yohan Cabaye","Edinson Cavani",4
+"Yohan Cabaye","Blaise Matuidi",3
+"Yohan Cabaye","Maxwell",1
+"Yohan Cabaye","Ezequiel Lavezzi",5
+"Yohan Cabaye","Christophe Jallet",5
+"Yohan Cabaye","Javier Pastore",2
+"Yohan Cabaye","Lucas",3

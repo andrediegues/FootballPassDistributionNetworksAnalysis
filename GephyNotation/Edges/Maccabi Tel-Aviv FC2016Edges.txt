@@ -1,0 +1,96 @@
+"Juan Pablo","Yuval Shpungin",1
+"Juan Pablo","Eran Zahavi",1
+"Juan Pablo","Tal Ben Haim II",1
+"Juan Pablo","Eytan Tibi",2
+"Juan Pablo","Omri Ben Harush",2
+"Juan Pablo","Tal Ben Haim I",4
+"Juan Pablo","Nosakhare Igiebor",3
+"Juan Pablo","Doe Miha",1
+"Juan Pablo","Nikola Mitrović",1
+"Juan Pablo","Dor Peretz",1
+"Yuval Shpungin","Juan Pablo",2
+"Yuval Shpungin","Gal Alberman",1
+"Yuval Shpungin","Eran Zahavi",1
+"Yuval Shpungin","Tal Ben Haim II",1
+"Yuval Shpungin","Tal Ben Haim I",2
+"Yuval Shpungin","Doe Miha",1
+"Yuval Shpungin","Nikola Mitrović",2
+"Gal Alberman","Juan Pablo",1
+"Gal Alberman","Yuval Shpungin",5
+"Gal Alberman","Eran Zahavi",3
+"Gal Alberman","Tal Ben Haim II",1
+"Gal Alberman","Eytan Tibi",3
+"Gal Alberman","Avraham Rikan",1
+"Gal Alberman","Tal Ben Haim I",4
+"Gal Alberman","Nikola Mitrović",2
+"Eran Zahavi","Yuval Shpungin",1
+"Eran Zahavi","Gal Alberman",1
+"Eran Zahavi","Eden Ben Basat",1
+"Eran Zahavi","Tal Ben Haim II",4
+"Eran Zahavi","Omri Ben Harush",2
+"Eran Zahavi","Avraham Rikan",2
+"Eran Zahavi","Nosakhare Igiebor",1
+"Eran Zahavi","Doe Miha",1
+"Eran Zahavi","Nikola Mitrović",2
+"Eran Zahavi","Dor Peretz",1
+"Eden Ben Basat","Gal Alberman",1
+"Eden Ben Basat","Eran Zahavi",2
+"Eden Ben Basat","Avraham Rikan",1
+"Tal Ben Haim II","Yuval Shpungin",2
+"Tal Ben Haim II","Eran Zahavi",1
+"Tal Ben Haim II","Omri Ben Harush",1
+"Tal Ben Haim II","Dor Peretz",1
+"Eytan Tibi","Juan Pablo",2
+"Eytan Tibi","Gal Alberman",3
+"Eytan Tibi","Omri Ben Harush",2
+"Eytan Tibi","Avraham Rikan",1
+"Eytan Tibi","Tal Ben Haim I",5
+"Eytan Tibi","Nosakhare Igiebor",1
+"Eytan Tibi","Nikola Mitrović",1
+"Eytan Tibi","Dor Peretz",1
+"Omri Ben Harush","Juan Pablo",1
+"Omri Ben Harush","Gal Alberman",2
+"Omri Ben Harush","Eran Zahavi",1
+"Omri Ben Harush","Tal Ben Haim II",1
+"Omri Ben Harush","Eytan Tibi",1
+"Omri Ben Harush","Avraham Rikan",2
+"Omri Ben Harush","Nosakhare Igiebor",2
+"Omri Ben Harush","Nikola Mitrović",1
+"Omri Ben Harush","Dor Peretz",1
+"Avraham Rikan","Yuval Shpungin",2
+"Avraham Rikan","Eran Zahavi",4
+"Avraham Rikan","Eden Ben Basat",1
+"Avraham Rikan","Tal Ben Haim II",1
+"Avraham Rikan","Omri Ben Harush",1
+"Avraham Rikan","Nikola Mitrović",2
+"Tal Ben Haim I","Juan Pablo",3
+"Tal Ben Haim I","Yuval Shpungin",3
+"Tal Ben Haim I","Gal Alberman",1
+"Tal Ben Haim I","Eran Zahavi",4
+"Tal Ben Haim I","Eden Ben Basat",1
+"Tal Ben Haim I","Tal Ben Haim II",1
+"Tal Ben Haim I","Eytan Tibi",4
+"Tal Ben Haim I","Omri Ben Harush",2
+"Tal Ben Haim I","Nosakhare Igiebor",1
+"Tal Ben Haim I","Nikola Mitrović",2
+"Nosakhare Igiebor","Juan Pablo",1
+"Nosakhare Igiebor","Gal Alberman",1
+"Nosakhare Igiebor","Eran Zahavi",1
+"Nosakhare Igiebor","Eytan Tibi",2
+"Nosakhare Igiebor","Avraham Rikan",1
+"Nosakhare Igiebor","Nikola Mitrović",4
+"Doe Miha","Eran Zahavi",2
+"Doe Miha","Tal Ben Haim II",2
+"Doe Miha","Nikola Mitrović",2
+"Nikola Mitrović","Yuval Shpungin",4
+"Nikola Mitrović","Gal Alberman",4
+"Nikola Mitrović","Eran Zahavi",1
+"Nikola Mitrović","Tal Ben Haim II",2
+"Nikola Mitrović","Omri Ben Harush",1
+"Nikola Mitrović","Avraham Rikan",9
+"Nikola Mitrović","Tal Ben Haim I",1
+"Nikola Mitrović","Nosakhare Igiebor",2
+"Dor Peretz","Eran Zahavi",1
+"Dor Peretz","Tal Ben Haim II",2
+"Dor Peretz","Doe Miha",1
+"Dor Peretz","Nikola Mitrović",1

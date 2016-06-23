@@ -1,0 +1,306 @@
+"Kevin Trapp","Thiago Silva",39
+"Kevin Trapp","Marco Verratti",4
+"Kevin Trapp","Thiago Motta",17
+"Kevin Trapp","Zlatan Ibrahimović",25
+"Kevin Trapp","Ángel Di María",8
+"Kevin Trapp","Blaise Matuidi",5
+"Kevin Trapp","Maxwell",38
+"Kevin Trapp","Gregory van der Wiel",7
+"Kevin Trapp","David Luiz",36
+"Kevin Trapp","Ezequiel Lavezzi",1
+"Kevin Trapp","Javier Pastore",4
+"Kevin Trapp","Serge Aurier",14
+"Kevin Trapp","Lucas",5
+"Kevin Trapp","Marquinhos",24
+"Kevin Trapp","Adrien Rabiot",2
+"Kevin Trapp","Benjamin Stambouli",2
+"Kevin Trapp","Layvin Kurzawa",3
+"Thiago Silva","Kevin Trapp",17
+"Thiago Silva","Marco Verratti",40
+"Thiago Silva","Thiago Motta",127
+"Thiago Silva","Edinson Cavani",9
+"Thiago Silva","Zlatan Ibrahimović",12
+"Thiago Silva","Ángel Di María",46
+"Thiago Silva","Blaise Matuidi",28
+"Thiago Silva","Maxwell",55
+"Thiago Silva","Gregory van der Wiel",26
+"Thiago Silva","David Luiz",61
+"Thiago Silva","Javier Pastore",11
+"Thiago Silva","Serge Aurier",39
+"Thiago Silva","Lucas",7
+"Thiago Silva","Marquinhos",48
+"Thiago Silva","Adrien Rabiot",54
+"Thiago Silva","Benjamin Stambouli",3
+"Marco Verratti","Kevin Trapp",4
+"Marco Verratti","Thiago Silva",28
+"Marco Verratti","Thiago Motta",139
+"Marco Verratti","Edinson Cavani",5
+"Marco Verratti","Zlatan Ibrahimović",43
+"Marco Verratti","Ángel Di María",71
+"Marco Verratti","Blaise Matuidi",33
+"Marco Verratti","Maxwell",17
+"Marco Verratti","Gregory van der Wiel",20
+"Marco Verratti","David Luiz",23
+"Marco Verratti","Ezequiel Lavezzi",2
+"Marco Verratti","Javier Pastore",7
+"Marco Verratti","Serge Aurier",17
+"Marco Verratti","Lucas",5
+"Marco Verratti","Marquinhos",26
+"Thiago Motta","Kevin Trapp",6
+"Thiago Motta","Thiago Silva",109
+"Thiago Motta","Marco Verratti",161
+"Thiago Motta","Edinson Cavani",28
+"Thiago Motta","Zlatan Ibrahimović",63
+"Thiago Motta","Ángel Di María",104
+"Thiago Motta","Blaise Matuidi",85
+"Thiago Motta","Maxwell",99
+"Thiago Motta","Gregory van der Wiel",28
+"Thiago Motta","David Luiz",57
+"Thiago Motta","Javier Pastore",16
+"Thiago Motta","Serge Aurier",22
+"Thiago Motta","Lucas",31
+"Thiago Motta","Marquinhos",40
+"Thiago Motta","Adrien Rabiot",78
+"Edinson Cavani","Kevin Trapp",1
+"Edinson Cavani","Thiago Silva",9
+"Edinson Cavani","Marco Verratti",9
+"Edinson Cavani","Thiago Motta",27
+"Edinson Cavani","Zlatan Ibrahimović",26
+"Edinson Cavani","Ángel Di María",30
+"Edinson Cavani","Blaise Matuidi",33
+"Edinson Cavani","Maxwell",43
+"Edinson Cavani","Gregory van der Wiel",5
+"Edinson Cavani","David Luiz",10
+"Edinson Cavani","Javier Pastore",5
+"Edinson Cavani","Serge Aurier",8
+"Edinson Cavani","Lucas",2
+"Edinson Cavani","Marquinhos",11
+"Edinson Cavani","Adrien Rabiot",21
+"Edinson Cavani","Benjamin Stambouli",3
+"Zlatan Ibrahimović","Kevin Trapp",1
+"Zlatan Ibrahimović","Thiago Silva",7
+"Zlatan Ibrahimović","Marco Verratti",36
+"Zlatan Ibrahimović","Thiago Motta",59
+"Zlatan Ibrahimović","Edinson Cavani",22
+"Zlatan Ibrahimović","Ángel Di María",38
+"Zlatan Ibrahimović","Blaise Matuidi",61
+"Zlatan Ibrahimović","Maxwell",43
+"Zlatan Ibrahimović","Gregory van der Wiel",22
+"Zlatan Ibrahimović","David Luiz",11
+"Zlatan Ibrahimović","Ezequiel Lavezzi",2
+"Zlatan Ibrahimović","Javier Pastore",3
+"Zlatan Ibrahimović","Serge Aurier",19
+"Zlatan Ibrahimović","Lucas",25
+"Zlatan Ibrahimović","Marquinhos",10
+"Zlatan Ibrahimović","Adrien Rabiot",26
+"Zlatan Ibrahimović","Benjamin Stambouli",4
+"Zlatan Ibrahimović","Layvin Kurzawa",7
+"Zlatan Ibrahimović","Christopher Nkunku",1
+"Ángel Di María","Thiago Silva",11
+"Ángel Di María","Marco Verratti",52
+"Ángel Di María","Thiago Motta",71
+"Ángel Di María","Edinson Cavani",28
+"Ángel Di María","Zlatan Ibrahimović",83
+"Ángel Di María","Blaise Matuidi",31
+"Ángel Di María","Maxwell",42
+"Ángel Di María","Gregory van der Wiel",38
+"Ángel Di María","David Luiz",16
+"Ángel Di María","Javier Pastore",7
+"Ángel Di María","Serge Aurier",28
+"Ángel Di María","Lucas",16
+"Ángel Di María","Marquinhos",16
+"Ángel Di María","Adrien Rabiot",38
+"Ángel Di María","Benjamin Stambouli",1
+"Blaise Matuidi","Kevin Trapp",3
+"Blaise Matuidi","Thiago Silva",18
+"Blaise Matuidi","Marco Verratti",19
+"Blaise Matuidi","Thiago Motta",85
+"Blaise Matuidi","Edinson Cavani",52
+"Blaise Matuidi","Zlatan Ibrahimović",60
+"Blaise Matuidi","Ángel Di María",26
+"Blaise Matuidi","Maxwell",112
+"Blaise Matuidi","Gregory van der Wiel",4
+"Blaise Matuidi","David Luiz",35
+"Blaise Matuidi","Ezequiel Lavezzi",15
+"Blaise Matuidi","Javier Pastore",11
+"Blaise Matuidi","Serge Aurier",2
+"Blaise Matuidi","Lucas",15
+"Blaise Matuidi","Marquinhos",8
+"Blaise Matuidi","Adrien Rabiot",34
+"Blaise Matuidi","Benjamin Stambouli",10
+"Blaise Matuidi","Layvin Kurzawa",10
+"Maxwell","Kevin Trapp",7
+"Maxwell","Thiago Silva",30
+"Maxwell","Marco Verratti",26
+"Maxwell","Thiago Motta",131
+"Maxwell","Edinson Cavani",59
+"Maxwell","Zlatan Ibrahimović",59
+"Maxwell","Ángel Di María",47
+"Maxwell","Blaise Matuidi",108
+"Maxwell","David Luiz",56
+"Maxwell","Ezequiel Lavezzi",5
+"Maxwell","Javier Pastore",15
+"Maxwell","Serge Aurier",5
+"Maxwell","Lucas",16
+"Maxwell","Marquinhos",11
+"Maxwell","Adrien Rabiot",31
+"Maxwell","Jean-Kévin Augustin",1
+"Gregory van der Wiel","Kevin Trapp",11
+"Gregory van der Wiel","Thiago Silva",21
+"Gregory van der Wiel","Marco Verratti",21
+"Gregory van der Wiel","Thiago Motta",10
+"Gregory van der Wiel","Edinson Cavani",4
+"Gregory van der Wiel","Zlatan Ibrahimović",17
+"Gregory van der Wiel","Ángel Di María",51
+"Gregory van der Wiel","Blaise Matuidi",7
+"Gregory van der Wiel","Maxwell",2
+"Gregory van der Wiel","David Luiz",8
+"Gregory van der Wiel","Ezequiel Lavezzi",3
+"Gregory van der Wiel","Javier Pastore",8
+"Gregory van der Wiel","Marquinhos",29
+"Gregory van der Wiel","Adrien Rabiot",30
+"Gregory van der Wiel","Benjamin Stambouli",21
+"Gregory van der Wiel","Lucas",25
+"Gregory van der Wiel","Christopher Nkunku",1
+"Gregory van der Wiel","Serge Aurier",15
+"David Luiz","Kevin Trapp",32
+"David Luiz","Thiago Silva",89
+"David Luiz","Marco Verratti",21
+"David Luiz","Thiago Motta",57
+"David Luiz","Edinson Cavani",9
+"David Luiz","Zlatan Ibrahimović",22
+"David Luiz","Ángel Di María",23
+"David Luiz","Blaise Matuidi",50
+"David Luiz","Maxwell",61
+"David Luiz","Gregory van der Wiel",4
+"David Luiz","Ezequiel Lavezzi",1
+"David Luiz","Javier Pastore",2
+"David Luiz","Serge Aurier",1
+"David Luiz","Lucas",3
+"David Luiz","Adrien Rabiot",19
+"David Luiz","Benjamin Stambouli",2
+"David Luiz","Marquinhos",16
+"David Luiz","Layvin Kurzawa",12
+"Ezequiel Lavezzi","Zlatan Ibrahimović",9
+"Ezequiel Lavezzi","Blaise Matuidi",12
+"Ezequiel Lavezzi","Maxwell",2
+"Ezequiel Lavezzi","Gregory van der Wiel",2
+"Ezequiel Lavezzi","David Luiz",1
+"Ezequiel Lavezzi","Javier Pastore",4
+"Ezequiel Lavezzi","Lucas",3
+"Ezequiel Lavezzi","Marquinhos",1
+"Ezequiel Lavezzi","Layvin Kurzawa",3
+"Ezequiel Lavezzi","Adrien Rabiot",1
+"Javier Pastore","Kevin Trapp",1
+"Javier Pastore","Thiago Silva",8
+"Javier Pastore","Marco Verratti",6
+"Javier Pastore","Thiago Motta",13
+"Javier Pastore","Edinson Cavani",6
+"Javier Pastore","Zlatan Ibrahimović",6
+"Javier Pastore","Ángel Di María",8
+"Javier Pastore","Blaise Matuidi",9
+"Javier Pastore","Maxwell",12
+"Javier Pastore","Gregory van der Wiel",8
+"Javier Pastore","David Luiz",1
+"Javier Pastore","Ezequiel Lavezzi",4
+"Javier Pastore","Serge Aurier",2
+"Javier Pastore","Lucas",5
+"Javier Pastore","Marquinhos",3
+"Javier Pastore","Adrien Rabiot",2
+"Serge Aurier","Kevin Trapp",3
+"Serge Aurier","Thiago Silva",36
+"Serge Aurier","Marco Verratti",20
+"Serge Aurier","Thiago Motta",23
+"Serge Aurier","Edinson Cavani",8
+"Serge Aurier","Zlatan Ibrahimović",17
+"Serge Aurier","Ángel Di María",35
+"Serge Aurier","Blaise Matuidi",4
+"Serge Aurier","Maxwell",5
+"Serge Aurier","David Luiz",1
+"Serge Aurier","Lucas",4
+"Serge Aurier","Marquinhos",6
+"Serge Aurier","Adrien Rabiot",21
+"Serge Aurier","Gregory van der Wiel",12
+"Lucas","Thiago Silva",3
+"Lucas","Marco Verratti",6
+"Lucas","Thiago Motta",21
+"Lucas","Edinson Cavani",3
+"Lucas","Zlatan Ibrahimović",25
+"Lucas","Ángel Di María",13
+"Lucas","Blaise Matuidi",14
+"Lucas","Maxwell",7
+"Lucas","Serge Aurier",2
+"Lucas","David Luiz",2
+"Lucas","Javier Pastore",5
+"Lucas","Marquinhos",9
+"Lucas","Adrien Rabiot",13
+"Lucas","Gregory van der Wiel",26
+"Lucas","Benjamin Stambouli",13
+"Lucas","Layvin Kurzawa",1
+"Marquinhos","Kevin Trapp",30
+"Marquinhos","Thiago Silva",55
+"Marquinhos","Marco Verratti",14
+"Marquinhos","Thiago Motta",29
+"Marquinhos","Edinson Cavani",4
+"Marquinhos","Zlatan Ibrahimović",9
+"Marquinhos","Ángel Di María",45
+"Marquinhos","Blaise Matuidi",10
+"Marquinhos","Maxwell",21
+"Marquinhos","Serge Aurier",10
+"Marquinhos","Lucas",17
+"Marquinhos","Javier Pastore",5
+"Marquinhos","Gregory van der Wiel",32
+"Marquinhos","Adrien Rabiot",27
+"Marquinhos","Benjamin Stambouli",15
+"Marquinhos","Layvin Kurzawa",1
+"Marquinhos","David Luiz",19
+"Adrien Rabiot","Kevin Trapp",4
+"Adrien Rabiot","Thiago Silva",34
+"Adrien Rabiot","Thiago Motta",68
+"Adrien Rabiot","Edinson Cavani",16
+"Adrien Rabiot","Zlatan Ibrahimović",27
+"Adrien Rabiot","Ángel Di María",41
+"Adrien Rabiot","Blaise Matuidi",33
+"Adrien Rabiot","Maxwell",28
+"Adrien Rabiot","Serge Aurier",30
+"Adrien Rabiot","David Luiz",28
+"Adrien Rabiot","Lucas",13
+"Adrien Rabiot","Marquinhos",32
+"Adrien Rabiot","Gregory van der Wiel",32
+"Adrien Rabiot","Benjamin Stambouli",15
+"Adrien Rabiot","Jean-Kévin Augustin",2
+"Adrien Rabiot","Layvin Kurzawa",11
+"Adrien Rabiot","Ezequiel Lavezzi",4
+"Adrien Rabiot","Christopher Nkunku",2
+"Adrien Rabiot","Javier Pastore",6
+"Benjamin Stambouli","Kevin Trapp",2
+"Benjamin Stambouli","Thiago Silva",4
+"Benjamin Stambouli","Marquinhos",13
+"Benjamin Stambouli","Edinson Cavani",1
+"Benjamin Stambouli","Zlatan Ibrahimović",7
+"Benjamin Stambouli","Ángel Di María",4
+"Benjamin Stambouli","Blaise Matuidi",13
+"Benjamin Stambouli","Gregory van der Wiel",15
+"Benjamin Stambouli","Adrien Rabiot",15
+"Benjamin Stambouli","Lucas",12
+"Benjamin Stambouli","Layvin Kurzawa",3
+"Benjamin Stambouli","Ezequiel Lavezzi",3
+"Benjamin Stambouli","David Luiz",2
+"Benjamin Stambouli","Christopher Nkunku",1
+"Jean-Kévin Augustin","Maxwell",2
+"Jean-Kévin Augustin","Adrien Rabiot",1
+"Layvin Kurzawa","Kevin Trapp",1
+"Layvin Kurzawa","Benjamin Stambouli",2
+"Layvin Kurzawa","Marquinhos",2
+"Layvin Kurzawa","Zlatan Ibrahimović",6
+"Layvin Kurzawa","Blaise Matuidi",8
+"Layvin Kurzawa","Ezequiel Lavezzi",9
+"Layvin Kurzawa","Gregory van der Wiel",1
+"Layvin Kurzawa","Adrien Rabiot",11
+"Layvin Kurzawa","David Luiz",9
+"Layvin Kurzawa","Edinson Cavani",2
+"Layvin Kurzawa","Christopher Nkunku",1
+"Christopher Nkunku","Layvin Kurzawa",3
+"Christopher Nkunku","Adrien Rabiot",1
+"Christopher Nkunku","David Luiz",1
+"Christopher Nkunku","Edinson Cavani",1

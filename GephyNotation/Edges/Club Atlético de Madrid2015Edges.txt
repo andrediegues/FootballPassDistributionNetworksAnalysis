@@ -1,0 +1,257 @@
+"Jan Oblak","Diego Godín",2
+"Jan Oblak","Raúl García",3
+"Jan Oblak","Mario Mandžukić",12
+"Jan Oblak","Arda Turan",2
+"Jan Oblak","Cristian Ansaldi",1
+"Jan Oblak","Juanfran",1
+"Jan Oblak","Miranda",3
+"Jan Oblak","Tiago",1
+"Jan Oblak","Jesús Gámez",1
+"Diego Godín","Jan Oblak",3
+"Diego Godín","Mario Suárez",19
+"Diego Godín","Koke",25
+"Diego Godín","Raúl García",7
+"Diego Godín","Mario Mandžukić",3
+"Diego Godín","Arda Turan",7
+"Diego Godín","Gabi",10
+"Diego Godín","Cristian Ansaldi",17
+"Diego Godín","Juanfran",11
+"Diego Godín","Miranda",7
+"Diego Godín","Antoine Griezmann",3
+"Diego Godín","Saúl Ñíguez",1
+"Diego Godín","Alessio Cerci",1
+"Diego Godín","Miguel Ángel Moyà",9
+"Diego Godín","Tiago",9
+"Diego Godín","Guilherme Siqueira",10
+"Diego Godín","José María Giménez",5
+"Diego Godín","Raúl Jiménez",1
+"Mario Suárez","Diego Godín",15
+"Mario Suárez","Koke",46
+"Mario Suárez","Raúl García",7
+"Mario Suárez","Mario Mandžukić",3
+"Mario Suárez","Arda Turan",14
+"Mario Suárez","Gabi",24
+"Mario Suárez","Cristian Ansaldi",9
+"Mario Suárez","Juanfran",22
+"Mario Suárez","Miranda",9
+"Mario Suárez","Antoine Griezmann",14
+"Mario Suárez","Saúl Ñíguez",5
+"Mario Suárez","Guilherme Siqueira",8
+"Mario Suárez","Cristian Rodríguez",1
+"Mario Suárez","José María Giménez",4
+"Mario Suárez","Raúl Jiménez",1
+"Mario Suárez","Fernando Torres",1
+"Koke","Diego Godín",21
+"Koke","Mario Suárez",31
+"Koke","Raúl García",27
+"Koke","Mario Mandžukić",18
+"Koke","Arda Turan",76
+"Koke","Gabi",21
+"Koke","Cristian Ansaldi",19
+"Koke","Juanfran",34
+"Koke","Miranda",7
+"Koke","Antoine Griezmann",22
+"Koke","Saúl Ñíguez",7
+"Koke","Alessio Cerci",1
+"Koke","Miguel Ángel Moyà",1
+"Koke","Tiago",14
+"Koke","Guilherme Siqueira",29
+"Koke","Cristian Rodríguez",1
+"Koke","José María Giménez",6
+"Koke","Raúl Jiménez",1
+"Koke","Jesús Gámez",5
+"Raúl García","Diego Godín",2
+"Raúl García","Mario Suárez",3
+"Raúl García","Koke",15
+"Raúl García","Mario Mandžukić",10
+"Raúl García","Arda Turan",16
+"Raúl García","Gabi",14
+"Raúl García","Cristian Ansaldi",2
+"Raúl García","Juanfran",30
+"Raúl García","Antoine Griezmann",3
+"Raúl García","Saúl Ñíguez",2
+"Raúl García","Alessio Cerci",1
+"Raúl García","Tiago",1
+"Raúl García","Guilherme Siqueira",3
+"Raúl García","Raúl Jiménez",1
+"Mario Mandžukić","Mario Suárez",3
+"Mario Mandžukić","Koke",11
+"Mario Mandžukić","Raúl García",6
+"Mario Mandžukić","Arda Turan",24
+"Mario Mandžukić","Gabi",3
+"Mario Mandžukić","Cristian Ansaldi",4
+"Mario Mandžukić","Juanfran",7
+"Mario Mandžukić","Antoine Griezmann",12
+"Mario Mandžukić","Saúl Ñíguez",6
+"Mario Mandžukić","Tiago",3
+"Mario Mandžukić","Guilherme Siqueira",4
+"Arda Turan","Diego Godín",5
+"Arda Turan","Mario Suárez",18
+"Arda Turan","Koke",83
+"Arda Turan","Raúl García",16
+"Arda Turan","Mario Mandžukić",15
+"Arda Turan","Gabi",31
+"Arda Turan","Cristian Ansaldi",10
+"Arda Turan","Juanfran",50
+"Arda Turan","Miranda",4
+"Arda Turan","Antoine Griezmann",14
+"Arda Turan","Saúl Ñíguez",15
+"Arda Turan","Tiago",9
+"Arda Turan","Guilherme Siqueira",17
+"Arda Turan","Jesús Gámez",3
+"Gabi","Diego Godín",19
+"Gabi","Mario Suárez",15
+"Gabi","Koke",33
+"Gabi","Raúl García",25
+"Gabi","Mario Mandžukić",4
+"Gabi","Arda Turan",34
+"Gabi","Cristian Ansaldi",7
+"Gabi","Juanfran",65
+"Gabi","Miranda",5
+"Gabi","Antoine Griezmann",12
+"Gabi","Miguel Ángel Moyà",2
+"Gabi","Guilherme Siqueira",7
+"Gabi","Tiago",7
+"Gabi","José María Giménez",16
+"Gabi","Raúl Jiménez",3
+"Cristian Ansaldi","Diego Godín",5
+"Cristian Ansaldi","Mario Suárez",7
+"Cristian Ansaldi","Koke",27
+"Cristian Ansaldi","Raúl García",3
+"Cristian Ansaldi","Mario Mandžukić",2
+"Cristian Ansaldi","Arda Turan",14
+"Cristian Ansaldi","Gabi",4
+"Cristian Ansaldi","Juanfran",2
+"Cristian Ansaldi","Miranda",3
+"Cristian Ansaldi","Antoine Griezmann",4
+"Cristian Ansaldi","Miguel Ángel Moyà",1
+"Cristian Ansaldi","Tiago",1
+"Cristian Ansaldi","Guilherme Siqueira",2
+"Cristian Ansaldi","José María Giménez",2
+"Juanfran","Diego Godín",5
+"Juanfran","Mario Suárez",28
+"Juanfran","Koke",24
+"Juanfran","Raúl García",27
+"Juanfran","Mario Mandžukić",13
+"Juanfran","Arda Turan",59
+"Juanfran","Gabi",55
+"Juanfran","Cristian Ansaldi",2
+"Juanfran","Miranda",8
+"Juanfran","Antoine Griezmann",13
+"Juanfran","Saúl Ñíguez",4
+"Juanfran","Alessio Cerci",6
+"Juanfran","Miguel Ángel Moyà",3
+"Juanfran","Tiago",15
+"Juanfran","Guilherme Siqueira",1
+"Juanfran","José María Giménez",6
+"Juanfran","Raúl Jiménez",1
+"Miranda","Jan Oblak",3
+"Miranda","Diego Godín",12
+"Miranda","Mario Suárez",6
+"Miranda","Koke",4
+"Miranda","Raúl García",5
+"Miranda","Mario Mandžukić",4
+"Miranda","Arda Turan",6
+"Miranda","Gabi",15
+"Miranda","Cristian Ansaldi",8
+"Miranda","Juanfran",19
+"Miranda","Antoine Griezmann",6
+"Miranda","Saúl Ñíguez",1
+"Miranda","Tiago",2
+"Miranda","Guilherme Siqueira",2
+"Miranda","Fernando Torres",1
+"Antoine Griezmann","Diego Godín",1
+"Antoine Griezmann","Mario Suárez",9
+"Antoine Griezmann","Koke",25
+"Antoine Griezmann","Raúl García",2
+"Antoine Griezmann","Mario Mandžukić",5
+"Antoine Griezmann","Arda Turan",17
+"Antoine Griezmann","Gabi",4
+"Antoine Griezmann","Cristian Ansaldi",5
+"Antoine Griezmann","Juanfran",10
+"Antoine Griezmann","Saúl Ñíguez",5
+"Antoine Griezmann","Tiago",4
+"Antoine Griezmann","Guilherme Siqueira",9
+"Antoine Griezmann","Raúl Jiménez",1
+"Antoine Griezmann","Jesús Gámez",2
+"Saúl Ñíguez","Diego Godín",1
+"Saúl Ñíguez","Mario Suárez",4
+"Saúl Ñíguez","Koke",6
+"Saúl Ñíguez","Mario Mandžukić",6
+"Saúl Ñíguez","Arda Turan",8
+"Saúl Ñíguez","Cristian Ansaldi",2
+"Saúl Ñíguez","Juanfran",8
+"Saúl Ñíguez","Miranda",2
+"Saúl Ñíguez","Antoine Griezmann",2
+"Saúl Ñíguez","Alessio Cerci",1
+"Saúl Ñíguez","Tiago",2
+"Saúl Ñíguez","Guilherme Siqueira",5
+"Saúl Ñíguez","Cristian Rodríguez",1
+"Saúl Ñíguez","Jesús Gámez",1
+"Alessio Cerci","Koke",2
+"Alessio Cerci","Arda Turan",2
+"Alessio Cerci","Antoine Griezmann",1
+"Alessio Cerci","Cristian Rodríguez",1
+"Miguel Ángel Moyà","Diego Godín",8
+"Miguel Ángel Moyà","Koke",2
+"Miguel Ángel Moyà","Raúl García",1
+"Miguel Ángel Moyà","Mario Mandžukić",2
+"Miguel Ángel Moyà","Arda Turan",1
+"Miguel Ángel Moyà","Cristian Ansaldi",4
+"Miguel Ángel Moyà","Saúl Ñíguez",1
+"Miguel Ángel Moyà","Juanfran",8
+"Miguel Ángel Moyà","Miranda",5
+"Miguel Ángel Moyà","Guilherme Siqueira",3
+"Miguel Ángel Moyà","Mario Suárez",1
+"Miguel Ángel Moyà","Cristian Rodríguez",1
+"Miguel Ángel Moyà","Gabi",1
+"Miguel Ángel Moyà","José María Giménez",7
+"Tiago","Diego Godín",6
+"Tiago","Koke",24
+"Tiago","Raúl García",3
+"Tiago","Arda Turan",13
+"Tiago","Cristian Ansaldi",7
+"Tiago","Saúl Ñíguez",4
+"Tiago","Juanfran",11
+"Tiago","Miranda",3
+"Tiago","Antoine Griezmann",3
+"Tiago","Gabi",9
+"Tiago","José María Giménez",2
+"Tiago","Jan Oblak",1
+"Tiago","Jesús Gámez",6
+"Guilherme Siqueira","Miguel Ángel Moyà",1
+"Guilherme Siqueira","Diego Godín",4
+"Guilherme Siqueira","Koke",26
+"Guilherme Siqueira","Mario Mandžukić",5
+"Guilherme Siqueira","Arda Turan",19
+"Guilherme Siqueira","Saúl Ñíguez",2
+"Guilherme Siqueira","Mario Suárez",6
+"Guilherme Siqueira","Antoine Griezmann",7
+"Guilherme Siqueira","Gabi",3
+"Guilherme Siqueira","Fernando Torres",1
+"Cristian Rodríguez","Guilherme Siqueira",2
+"Cristian Rodríguez","Koke",1
+"Cristian Rodríguez","Raúl García",2
+"José María Giménez","Miguel Ángel Moyà",5
+"José María Giménez","Diego Godín",9
+"José María Giménez","Tiago",1
+"José María Giménez","Koke",5
+"José María Giménez","Raúl García",1
+"José María Giménez","Arda Turan",2
+"José María Giménez","Gabi",15
+"José María Giménez","Cristian Ansaldi",2
+"José María Giménez","Juanfran",7
+"José María Giménez","Mario Suárez",3
+"José María Giménez","Guilherme Siqueira",1
+"Raúl Jiménez","Diego Godín",1
+"Raúl Jiménez","Koke",1
+"Raúl Jiménez","Juanfran",2
+"Raúl Jiménez","Antoine Griezmann",2
+"Jesús Gámez","Diego Godín",1
+"Jesús Gámez","Tiago",4
+"Jesús Gámez","Koke",5
+"Jesús Gámez","Antoine Griezmann",1
+"Jesús Gámez","Mario Mandžukić",1
+"Jesús Gámez","Arda Turan",2
+"Jesús Gámez","Saúl Ñíguez",1
+"Jesús Gámez","Miranda",1

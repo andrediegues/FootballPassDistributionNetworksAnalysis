@@ -1,0 +1,239 @@
+"Andriy Pyatov","Tomáš Hübschman",3
+"Andriy Pyatov","Olexandr Kucher",32
+"Andriy Pyatov","Fernandinho",11
+"Andriy Pyatov","Luiz Adriano",9
+"Andriy Pyatov","Willian",5
+"Andriy Pyatov","Henrik Mkhitaryan",7
+"Andriy Pyatov","Răzvan Raţ",21
+"Andriy Pyatov","Darijo Srna",15
+"Andriy Pyatov","Yaroslav Rakitskiy",29
+"Andriy Pyatov","Ilsinho",2
+"Andriy Pyatov","Alex Teixeira",2
+"Andriy Pyatov","Taras Stepanenko",6
+"Andriy Pyatov","Henrikh Mkhitaryan",3
+"Andriy Pyatov","Eduardo",2
+"Andriy Pyatov","Dmytro Chygrynskiy",1
+"Andriy Pyatov","Taison",1
+"Tomáš Hübschman","Andriy Pyatov",6
+"Tomáš Hübschman","Olexandr Kucher",26
+"Tomáš Hübschman","Fernandinho",38
+"Tomáš Hübschman","Luiz Adriano",1
+"Tomáš Hübschman","Willian",19
+"Tomáš Hübschman","Henrik Mkhitaryan",10
+"Tomáš Hübschman","Răzvan Raţ",27
+"Tomáš Hübschman","Darijo Srna",24
+"Tomáš Hübschman","Yaroslav Rakitskiy",30
+"Tomáš Hübschman","Ilsinho",2
+"Tomáš Hübschman","Douglas Costa",3
+"Tomáš Hübschman","Alex Teixeira",10
+"Tomáš Hübschman","Henrikh Mkhitaryan",6
+"Tomáš Hübschman","Dmytro Chygrynskiy",2
+"Tomáš Hübschman","Taison",4
+"Tomáš Hübschman","Eduardo",1
+"Olexandr Kucher","Andriy Pyatov",34
+"Olexandr Kucher","Tomáš Hübschman",26
+"Olexandr Kucher","Fernandinho",37
+"Olexandr Kucher","Luiz Adriano",10
+"Olexandr Kucher","Willian",12
+"Olexandr Kucher","Henrik Mkhitaryan",5
+"Olexandr Kucher","Răzvan Raţ",17
+"Olexandr Kucher","Darijo Srna",84
+"Olexandr Kucher","Yaroslav Rakitskiy",86
+"Olexandr Kucher","Ilsinho",5
+"Olexandr Kucher","Marko Dević",1
+"Olexandr Kucher","Douglas Costa",1
+"Olexandr Kucher","Alex Teixeira",18
+"Olexandr Kucher","Taras Stepanenko",7
+"Olexandr Kucher","Henrikh Mkhitaryan",2
+"Olexandr Kucher","Taison",1
+"Fernandinho","Andriy Pyatov",3
+"Fernandinho","Tomáš Hübschman",29
+"Fernandinho","Olexandr Kucher",30
+"Fernandinho","Luiz Adriano",13
+"Fernandinho","Willian",38
+"Fernandinho","Henrik Mkhitaryan",20
+"Fernandinho","Răzvan Raţ",28
+"Fernandinho","Darijo Srna",75
+"Fernandinho","Yaroslav Rakitskiy",21
+"Fernandinho","Ilsinho",9
+"Fernandinho","Marko Dević",3
+"Fernandinho","Douglas Costa",6
+"Fernandinho","Alex Teixeira",33
+"Fernandinho","Taras Stepanenko",7
+"Fernandinho","Henrikh Mkhitaryan",20
+"Fernandinho","Eduardo",2
+"Fernandinho","Dmytro Chygrynskiy",5
+"Luiz Adriano","Tomáš Hübschman",5
+"Luiz Adriano","Olexandr Kucher",4
+"Luiz Adriano","Fernandinho",15
+"Luiz Adriano","Willian",8
+"Luiz Adriano","Henrik Mkhitaryan",14
+"Luiz Adriano","Răzvan Raţ",4
+"Luiz Adriano","Darijo Srna",9
+"Luiz Adriano","Yaroslav Rakitskiy",4
+"Luiz Adriano","Ilsinho",1
+"Luiz Adriano","Douglas Costa",5
+"Luiz Adriano","Alex Teixeira",7
+"Luiz Adriano","Taras Stepanenko",1
+"Luiz Adriano","Henrikh Mkhitaryan",4
+"Luiz Adriano","Taison",1
+"Willian","Andriy Pyatov",5
+"Willian","Tomáš Hübschman",19
+"Willian","Olexandr Kucher",8
+"Willian","Fernandinho",43
+"Willian","Luiz Adriano",11
+"Willian","Henrik Mkhitaryan",16
+"Willian","Răzvan Raţ",27
+"Willian","Darijo Srna",30
+"Willian","Yaroslav Rakitskiy",14
+"Willian","Ilsinho",3
+"Willian","Alex Teixeira",11
+"Willian","Taras Stepanenko",8
+"Willian","Henrikh Mkhitaryan",7
+"Henrik Mkhitaryan","Andriy Pyatov",1
+"Henrik Mkhitaryan","Tomáš Hübschman",9
+"Henrik Mkhitaryan","Olexandr Kucher",4
+"Henrik Mkhitaryan","Fernandinho",14
+"Henrik Mkhitaryan","Luiz Adriano",5
+"Henrik Mkhitaryan","Willian",21
+"Henrik Mkhitaryan","Răzvan Raţ",7
+"Henrik Mkhitaryan","Darijo Srna",10
+"Henrik Mkhitaryan","Yaroslav Rakitskiy",4
+"Henrik Mkhitaryan","Ilsinho",2
+"Henrik Mkhitaryan","Douglas Costa",3
+"Henrik Mkhitaryan","Alex Teixeira",10
+"Răzvan Raţ","Andriy Pyatov",7
+"Răzvan Raţ","Tomáš Hübschman",24
+"Răzvan Raţ","Olexandr Kucher",18
+"Răzvan Raţ","Fernandinho",21
+"Răzvan Raţ","Luiz Adriano",7
+"Răzvan Raţ","Willian",43
+"Răzvan Raţ","Henrik Mkhitaryan",12
+"Răzvan Raţ","Darijo Srna",4
+"Răzvan Raţ","Yaroslav Rakitskiy",55
+"Răzvan Raţ","Ilsinho",4
+"Răzvan Raţ","Douglas Costa",8
+"Răzvan Raţ","Alex Teixeira",13
+"Răzvan Raţ","Taras Stepanenko",10
+"Răzvan Raţ","Henrikh Mkhitaryan",24
+"Răzvan Raţ","Eduardo",3
+"Răzvan Raţ","Dmytro Chygrynskiy",6
+"Răzvan Raţ","Taison",9
+"Darijo Srna","Andriy Pyatov",19
+"Darijo Srna","Tomáš Hübschman",23
+"Darijo Srna","Olexandr Kucher",72
+"Darijo Srna","Fernandinho",75
+"Darijo Srna","Luiz Adriano",11
+"Darijo Srna","Willian",23
+"Darijo Srna","Henrik Mkhitaryan",19
+"Darijo Srna","Răzvan Raţ",17
+"Darijo Srna","Yaroslav Rakitskiy",29
+"Darijo Srna","Ilsinho",11
+"Darijo Srna","Marko Dević",2
+"Darijo Srna","Douglas Costa",11
+"Darijo Srna","Alex Teixeira",34
+"Darijo Srna","Taras Stepanenko",9
+"Darijo Srna","Henrikh Mkhitaryan",16
+"Darijo Srna","Eduardo",2
+"Darijo Srna","Dmytro Chygrynskiy",7
+"Darijo Srna","Taison",2
+"Yaroslav Rakitskiy","Andriy Pyatov",20
+"Yaroslav Rakitskiy","Tomáš Hübschman",19
+"Yaroslav Rakitskiy","Olexandr Kucher",62
+"Yaroslav Rakitskiy","Fernandinho",21
+"Yaroslav Rakitskiy","Luiz Adriano",9
+"Yaroslav Rakitskiy","Willian",18
+"Yaroslav Rakitskiy","Henrik Mkhitaryan",12
+"Yaroslav Rakitskiy","Răzvan Raţ",57
+"Yaroslav Rakitskiy","Darijo Srna",22
+"Yaroslav Rakitskiy","Ilsinho",1
+"Yaroslav Rakitskiy","Marko Dević",2
+"Yaroslav Rakitskiy","Douglas Costa",2
+"Yaroslav Rakitskiy","Alex Teixeira",9
+"Yaroslav Rakitskiy","Taras Stepanenko",6
+"Yaroslav Rakitskiy","Henrikh Mkhitaryan",8
+"Yaroslav Rakitskiy","Eduardo",1
+"Yaroslav Rakitskiy","Dmytro Chygrynskiy",12
+"Ilsinho","Olexandr Kucher",3
+"Ilsinho","Fernandinho",9
+"Ilsinho","Willian",3
+"Ilsinho","Henrik Mkhitaryan",5
+"Ilsinho","Răzvan Raţ",1
+"Ilsinho","Darijo Srna",11
+"Ilsinho","Marko Dević",1
+"Ilsinho","Henrikh Mkhitaryan",1
+"Ilsinho","Eduardo",2
+"Marko Dević","Fernandinho",1
+"Marko Dević","Willian",1
+"Marko Dević","Henrik Mkhitaryan",1
+"Marko Dević","Răzvan Raţ",1
+"Marko Dević","Darijo Srna",2
+"Marko Dević","Taras Stepanenko",1
+"Marko Dević","Henrikh Mkhitaryan",1
+"Douglas Costa","Olexandr Kucher",1
+"Douglas Costa","Fernandinho",8
+"Douglas Costa","Luiz Adriano",2
+"Douglas Costa","Willian",1
+"Douglas Costa","Henrik Mkhitaryan",1
+"Douglas Costa","Răzvan Raţ",4
+"Douglas Costa","Darijo Srna",9
+"Douglas Costa","Yaroslav Rakitskiy",3
+"Douglas Costa","Alex Teixeira",2
+"Douglas Costa","Henrikh Mkhitaryan",4
+"Alex Teixeira","Tomáš Hübschman",8
+"Alex Teixeira","Olexandr Kucher",7
+"Alex Teixeira","Fernandinho",33
+"Alex Teixeira","Luiz Adriano",5
+"Alex Teixeira","Willian",9
+"Alex Teixeira","Henrik Mkhitaryan",4
+"Alex Teixeira","Răzvan Raţ",10
+"Alex Teixeira","Darijo Srna",42
+"Alex Teixeira","Yaroslav Rakitskiy",7
+"Alex Teixeira","Douglas Costa",1
+"Alex Teixeira","Taras Stepanenko",6
+"Alex Teixeira","Henrikh Mkhitaryan",6
+"Alex Teixeira","Dmytro Chygrynskiy",2
+"Alex Teixeira","Taison",4
+"Taras Stepanenko","Andriy Pyatov",6
+"Taras Stepanenko","Olexandr Kucher",13
+"Taras Stepanenko","Fernandinho",6
+"Taras Stepanenko","Willian",4
+"Taras Stepanenko","Henrikh Mkhitaryan",2
+"Taras Stepanenko","Răzvan Raţ",11
+"Taras Stepanenko","Alex Teixeira",3
+"Taras Stepanenko","Darijo Srna",9
+"Taras Stepanenko","Yaroslav Rakitskiy",8
+"Taras Stepanenko","Ilsinho",2
+"Henrikh Mkhitaryan","Andriy Pyatov",1
+"Henrikh Mkhitaryan","Olexandr Kucher",1
+"Henrikh Mkhitaryan","Taras Stepanenko",1
+"Henrikh Mkhitaryan","Fernandinho",11
+"Henrikh Mkhitaryan","Luiz Adriano",8
+"Henrikh Mkhitaryan","Willian",11
+"Henrikh Mkhitaryan","Răzvan Raţ",18
+"Henrikh Mkhitaryan","Alex Teixeira",5
+"Henrikh Mkhitaryan","Darijo Srna",15
+"Henrikh Mkhitaryan","Yaroslav Rakitskiy",3
+"Henrikh Mkhitaryan","Eduardo",1
+"Henrikh Mkhitaryan","Douglas Costa",6
+"Henrikh Mkhitaryan","Ilsinho",1
+"Henrikh Mkhitaryan","Marko Dević",4
+"Henrikh Mkhitaryan","Tomáš Hübschman",8
+"Henrikh Mkhitaryan","Taison",8
+"Eduardo","Fernandinho",2
+"Eduardo","Henrikh Mkhitaryan",5
+"Eduardo","Alex Teixeira",2
+"Eduardo","Darijo Srna",1
+"Eduardo","Douglas Costa",1
+"Dmytro Chygrynskiy","Tomáš Hübschman",1
+"Dmytro Chygrynskiy","Fernandinho",5
+"Dmytro Chygrynskiy","Răzvan Raţ",4
+"Dmytro Chygrynskiy","Taison",1
+"Dmytro Chygrynskiy","Darijo Srna",12
+"Dmytro Chygrynskiy","Yaroslav Rakitskiy",8
+"Taison","Tomáš Hübschman",7
+"Taison","Fernandinho",3
+"Taison","Henrikh Mkhitaryan",11
+"Taison","Răzvan Raţ",7
+"Taison","Alex Teixeira",5
+"Taison","Yaroslav Rakitskiy",2

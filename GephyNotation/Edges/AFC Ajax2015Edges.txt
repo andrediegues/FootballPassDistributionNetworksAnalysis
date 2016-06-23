@@ -1,0 +1,266 @@
+"Jasper Cillessen","Ricardo van Rhijn",14
+"Jasper Cillessen","Joël Veltman",25
+"Jasper Cillessen","Niklas Moisander",42
+"Jasper Cillessen","Nicolai Boilesen",6
+"Jasper Cillessen","Kolbeinn Sigthórsson",1
+"Jasper Cillessen","Davy Klaassen",3
+"Jasper Cillessen","Lucas Andersen",2
+"Jasper Cillessen","Thulani Serero",6
+"Jasper Cillessen","Nick Viergever",13
+"Jasper Cillessen","Niki Zimling",3
+"Jasper Cillessen","Jairo Riedewald",1
+"Jasper Cillessen","Arkadiusz Milik",1
+"Jasper Cillessen","Stefano Denswil",4
+"Jasper Cillessen","Mike van der Hoorn",5
+"Ricardo van Rhijn","Jasper Cillessen",14
+"Ricardo van Rhijn","Joël Veltman",73
+"Ricardo van Rhijn","Niklas Moisander",37
+"Ricardo van Rhijn","Nicolai Boilesen",4
+"Ricardo van Rhijn","Kolbeinn Sigthórsson",1
+"Ricardo van Rhijn","Davy Klaassen",26
+"Ricardo van Rhijn","Lucas Andersen",18
+"Ricardo van Rhijn","Lasse Schöne",46
+"Ricardo van Rhijn","Thulani Serero",22
+"Ricardo van Rhijn","Nick Viergever",9
+"Ricardo van Rhijn","Anwar El Ghazi",15
+"Ricardo van Rhijn","Niki Zimling",13
+"Ricardo van Rhijn","Ricardo Kishna",12
+"Ricardo van Rhijn","Jairo Riedewald",4
+"Ricardo van Rhijn","Arkadiusz Milik",4
+"Ricardo van Rhijn","Stefano Denswil",5
+"Ricardo van Rhijn","Mike van der Hoorn",6
+"Joël Veltman","Jasper Cillessen",27
+"Joël Veltman","Ricardo van Rhijn",76
+"Joël Veltman","Niklas Moisander",104
+"Joël Veltman","Nicolai Boilesen",9
+"Joël Veltman","Davy Klaassen",12
+"Joël Veltman","Lucas Andersen",8
+"Joël Veltman","Lasse Schöne",14
+"Joël Veltman","Thulani Serero",28
+"Joël Veltman","Nick Viergever",30
+"Joël Veltman","Anwar El Ghazi",10
+"Joël Veltman","Niki Zimling",15
+"Joël Veltman","Ricardo Kishna",5
+"Joël Veltman","Jairo Riedewald",11
+"Joël Veltman","Arkadiusz Milik",6
+"Joël Veltman","Richairo Zivkovic",1
+"Niklas Moisander","Jasper Cillessen",20
+"Niklas Moisander","Ricardo van Rhijn",23
+"Niklas Moisander","Joël Veltman",108
+"Niklas Moisander","Nicolai Boilesen",52
+"Niklas Moisander","Kolbeinn Sigthórsson",4
+"Niklas Moisander","Davy Klaassen",14
+"Niklas Moisander","Lucas Andersen",10
+"Niklas Moisander","Lasse Schöne",13
+"Niklas Moisander","Thulani Serero",26
+"Niklas Moisander","Nick Viergever",52
+"Niklas Moisander","Arek Milik",1
+"Niklas Moisander","Anwar El Ghazi",1
+"Niklas Moisander","Niki Zimling",11
+"Niklas Moisander","Ricardo Kishna",13
+"Niklas Moisander","Jairo Riedewald",8
+"Niklas Moisander","Arkadiusz Milik",1
+"Nicolai Boilesen","Jasper Cillessen",7
+"Nicolai Boilesen","Ricardo van Rhijn",3
+"Nicolai Boilesen","Joël Veltman",11
+"Nicolai Boilesen","Niklas Moisander",29
+"Nicolai Boilesen","Kolbeinn Sigthórsson",8
+"Nicolai Boilesen","Davy Klaassen",5
+"Nicolai Boilesen","Lucas Andersen",29
+"Nicolai Boilesen","Lasse Schöne",16
+"Nicolai Boilesen","Thulani Serero",23
+"Nicolai Boilesen","Nick Viergever",18
+"Nicolai Boilesen","Arek Milik",2
+"Nicolai Boilesen","Anwar El Ghazi",1
+"Nicolai Boilesen","Niki Zimling",6
+"Nicolai Boilesen","Ricardo Kishna",2
+"Nicolai Boilesen","Stefano Denswil",1
+"Kolbeinn Sigthórsson","Ricardo van Rhijn",1
+"Kolbeinn Sigthórsson","Joël Veltman",2
+"Kolbeinn Sigthórsson","Niklas Moisander",3
+"Kolbeinn Sigthórsson","Nicolai Boilesen",3
+"Kolbeinn Sigthórsson","Davy Klaassen",6
+"Kolbeinn Sigthórsson","Lucas Andersen",7
+"Kolbeinn Sigthórsson","Lasse Schöne",5
+"Kolbeinn Sigthórsson","Thulani Serero",6
+"Kolbeinn Sigthórsson","Nick Viergever",1
+"Kolbeinn Sigthórsson","Niki Zimling",1
+"Kolbeinn Sigthórsson","Ricardo Kishna",2
+"Davy Klaassen","Jasper Cillessen",2
+"Davy Klaassen","Ricardo van Rhijn",38
+"Davy Klaassen","Joël Veltman",10
+"Davy Klaassen","Niklas Moisander",4
+"Davy Klaassen","Nicolai Boilesen",9
+"Davy Klaassen","Kolbeinn Sigthórsson",6
+"Davy Klaassen","Lucas Andersen",8
+"Davy Klaassen","Lasse Schöne",27
+"Davy Klaassen","Thulani Serero",25
+"Davy Klaassen","Nick Viergever",15
+"Davy Klaassen","Anwar El Ghazi",16
+"Davy Klaassen","Niki Zimling",10
+"Davy Klaassen","Ricardo Kishna",7
+"Davy Klaassen","Jairo Riedewald",5
+"Davy Klaassen","Arkadiusz Milik",5
+"Davy Klaassen","Stefano Denswil",3
+"Davy Klaassen","Mike van der Hoorn",11
+"Lucas Andersen","Ricardo van Rhijn",18
+"Lucas Andersen","Joël Veltman",2
+"Lucas Andersen","Niklas Moisander",9
+"Lucas Andersen","Nicolai Boilesen",23
+"Lucas Andersen","Kolbeinn Sigthórsson",3
+"Lucas Andersen","Davy Klaassen",15
+"Lucas Andersen","Lasse Schöne",27
+"Lucas Andersen","Thulani Serero",33
+"Lucas Andersen","Nick Viergever",17
+"Lucas Andersen","Arek Milik",1
+"Lucas Andersen","Anwar El Ghazi",2
+"Lucas Andersen","Niki Zimling",12
+"Lucas Andersen","Ricardo Kishna",19
+"Lucas Andersen","Arkadiusz Milik",8
+"Lucas Andersen","Stefano Denswil",6
+"Lucas Andersen","Mike van der Hoorn",1
+"Lasse Schöne","Ricardo van Rhijn",39
+"Lasse Schöne","Joël Veltman",12
+"Lasse Schöne","Niklas Moisander",5
+"Lasse Schöne","Nicolai Boilesen",14
+"Lasse Schöne","Kolbeinn Sigthórsson",8
+"Lasse Schöne","Davy Klaassen",33
+"Lasse Schöne","Lucas Andersen",21
+"Lasse Schöne","Thulani Serero",12
+"Lasse Schöne","Nick Viergever",14
+"Lasse Schöne","Niki Zimling",10
+"Lasse Schöne","Ricardo Kishna",8
+"Lasse Schöne","Jairo Riedewald",1
+"Lasse Schöne","Arkadiusz Milik",13
+"Lasse Schöne","Stefano Denswil",3
+"Lasse Schöne","Mike van der Hoorn",2
+"Thulani Serero","Jasper Cillessen",1
+"Thulani Serero","Ricardo van Rhijn",37
+"Thulani Serero","Joël Veltman",31
+"Thulani Serero","Niklas Moisander",20
+"Thulani Serero","Nicolai Boilesen",24
+"Thulani Serero","Kolbeinn Sigthórsson",3
+"Thulani Serero","Davy Klaassen",20
+"Thulani Serero","Lucas Andersen",38
+"Thulani Serero","Lasse Schöne",18
+"Thulani Serero","Nick Viergever",23
+"Thulani Serero","Anwar El Ghazi",2
+"Thulani Serero","Niki Zimling",6
+"Thulani Serero","Ricardo Kishna",20
+"Thulani Serero","Jairo Riedewald",6
+"Thulani Serero","Arkadiusz Milik",6
+"Thulani Serero","Stefano Denswil",4
+"Thulani Serero","Mike van der Hoorn",4
+"Thulani Serero","Richairo Zivkovic",1
+"Nick Viergever","Jasper Cillessen",5
+"Nick Viergever","Ricardo van Rhijn",7
+"Nick Viergever","Joël Veltman",24
+"Nick Viergever","Niklas Moisander",44
+"Nick Viergever","Nicolai Boilesen",18
+"Nick Viergever","Kolbeinn Sigthórsson",6
+"Nick Viergever","Davy Klaassen",13
+"Nick Viergever","Lucas Andersen",24
+"Nick Viergever","Lasse Schöne",14
+"Nick Viergever","Thulani Serero",20
+"Nick Viergever","Anwar El Ghazi",1
+"Nick Viergever","Niki Zimling",7
+"Nick Viergever","Ricardo Kishna",27
+"Nick Viergever","Jairo Riedewald",2
+"Nick Viergever","Arkadiusz Milik",5
+"Nick Viergever","Mike van der Hoorn",1
+"Nick Viergever","Stefano Denswil",11
+"Arek Milik","Niklas Moisander",1
+"Arek Milik","Davy Klaassen",1
+"Arek Milik","Lucas Andersen",1
+"Anwar El Ghazi","Jasper Cillessen",1
+"Anwar El Ghazi","Ricardo van Rhijn",9
+"Anwar El Ghazi","Joël Veltman",1
+"Anwar El Ghazi","Niklas Moisander",1
+"Anwar El Ghazi","Nicolai Boilesen",1
+"Anwar El Ghazi","Kolbeinn Sigthórsson",2
+"Anwar El Ghazi","Davy Klaassen",7
+"Anwar El Ghazi","Thulani Serero",1
+"Anwar El Ghazi","Arkadiusz Milik",1
+"Niki Zimling","Jasper Cillessen",2
+"Niki Zimling","Ricardo van Rhijn",17
+"Niki Zimling","Joël Veltman",10
+"Niki Zimling","Niklas Moisander",15
+"Niki Zimling","Nicolai Boilesen",7
+"Niki Zimling","Kolbeinn Sigthórsson",4
+"Niki Zimling","Davy Klaassen",5
+"Niki Zimling","Lucas Andersen",14
+"Niki Zimling","Lasse Schöne",10
+"Niki Zimling","Thulani Serero",14
+"Niki Zimling","Nick Viergever",5
+"Niki Zimling","Arek Milik",1
+"Niki Zimling","Ricardo Kishna",3
+"Niki Zimling","Arkadiusz Milik",1
+"Niki Zimling","Mike van der Hoorn",1
+"Niki Zimling","Stefano Denswil",4
+"Ricardo Kishna","Ricardo van Rhijn",9
+"Ricardo Kishna","Joël Veltman",4
+"Ricardo Kishna","Niklas Moisander",6
+"Ricardo Kishna","Nicolai Boilesen",1
+"Ricardo Kishna","Kolbeinn Sigthórsson",1
+"Ricardo Kishna","Davy Klaassen",8
+"Ricardo Kishna","Lucas Andersen",16
+"Ricardo Kishna","Lasse Schöne",7
+"Ricardo Kishna","Thulani Serero",18
+"Ricardo Kishna","Nick Viergever",11
+"Ricardo Kishna","Anwar El Ghazi",1
+"Ricardo Kishna","Niki Zimling",1
+"Ricardo Kishna","Jairo Riedewald",4
+"Ricardo Kishna","Arkadiusz Milik",4
+"Ricardo Kishna","Richairo Zivkovic",1
+"Jairo Riedewald","Jasper Cillessen",1
+"Jairo Riedewald","Ricardo van Rhijn",7
+"Jairo Riedewald","Joël Veltman",9
+"Jairo Riedewald","Niklas Moisander",2
+"Jairo Riedewald","Davy Klaassen",3
+"Jairo Riedewald","Ricardo Kishna",8
+"Jairo Riedewald","Lucas Andersen",1
+"Jairo Riedewald","Lasse Schöne",5
+"Jairo Riedewald","Nick Viergever",5
+"Jairo Riedewald","Arkadiusz Milik",4
+"Jairo Riedewald","Anwar El Ghazi",1
+"Jairo Riedewald","Nicolai Boilesen",1
+"Jairo Riedewald","Thulani Serero",5
+"Arkadiusz Milik","Ricardo van Rhijn",5
+"Arkadiusz Milik","Niklas Moisander",3
+"Arkadiusz Milik","Davy Klaassen",6
+"Arkadiusz Milik","Ricardo Kishna",6
+"Arkadiusz Milik","Lucas Andersen",8
+"Arkadiusz Milik","Lasse Schöne",8
+"Arkadiusz Milik","Nick Viergever",4
+"Arkadiusz Milik","Niki Zimling",2
+"Arkadiusz Milik","Jairo Riedewald",1
+"Arkadiusz Milik","Anwar El Ghazi",1
+"Arkadiusz Milik","Nicolai Boilesen",1
+"Arkadiusz Milik","Thulani Serero",6
+"Arkadiusz Milik","Stefano Denswil",1
+"Arkadiusz Milik","Mike van der Hoorn",1
+"Stefano Denswil","Jasper Cillessen",7
+"Stefano Denswil","Ricardo van Rhijn",3
+"Stefano Denswil","Nicolai Boilesen",1
+"Stefano Denswil","Davy Klaassen",1
+"Stefano Denswil","Lucas Andersen",13
+"Stefano Denswil","Lasse Schöne",2
+"Stefano Denswil","Thulani Serero",5
+"Stefano Denswil","Arkadiusz Milik",1
+"Stefano Denswil","Mike van der Hoorn",18
+"Stefano Denswil","Ricardo Kishna",7
+"Stefano Denswil","Nick Viergever",7
+"Stefano Denswil","Niki Zimling",1
+"Mike van der Hoorn","Jasper Cillessen",2
+"Mike van der Hoorn","Ricardo van Rhijn",5
+"Mike van der Hoorn","Davy Klaassen",12
+"Mike van der Hoorn","Ricardo Kishna",2
+"Mike van der Hoorn","Lucas Andersen",3
+"Mike van der Hoorn","Arkadiusz Milik",3
+"Mike van der Hoorn","Lasse Schöne",5
+"Mike van der Hoorn","Stefano Denswil",16
+"Mike van der Hoorn","Thulani Serero",3
+"Mike van der Hoorn","Nick Viergever",3
+"Mike van der Hoorn","Niki Zimling",5
+"Richairo Zivkovic","Ricardo van Rhijn",1
+"Richairo Zivkovic","Thulani Serero",2

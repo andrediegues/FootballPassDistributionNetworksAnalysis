@@ -1,0 +1,176 @@
+"Andriy Pyatov","Olexandr Kucher",38
+"Andriy Pyatov","Luiz Adriano",7
+"Andriy Pyatov","Vyacheslav Shevchuk",1
+"Andriy Pyatov","Fernando",1
+"Andriy Pyatov","Douglas Costa",4
+"Andriy Pyatov","Taison",4
+"Andriy Pyatov","Alex Teixeira",7
+"Andriy Pyatov","Darijo Srna",5
+"Andriy Pyatov","Yaroslav Rakitskiy",17
+"Andriy Pyatov","Taras Stepanenko",7
+"Andriy Pyatov","Fred",3
+"Andriy Pyatov","Facundo Ferreyra",1
+"Tomáš Hübschman","Andriy Pyatov",1
+"Tomáš Hübschman","Olexandr Kucher",6
+"Tomáš Hübschman","Luiz Adriano",3
+"Tomáš Hübschman","Vyacheslav Shevchuk",11
+"Tomáš Hübschman","Fernando",6
+"Tomáš Hübschman","Douglas Costa",4
+"Tomáš Hübschman","Taison",9
+"Tomáš Hübschman","Alex Teixeira",3
+"Tomáš Hübschman","Darijo Srna",8
+"Tomáš Hübschman","Yaroslav Rakitskiy",5
+"Olexandr Kucher","Andriy Pyatov",36
+"Olexandr Kucher","Tomáš Hübschman",5
+"Olexandr Kucher","Luiz Adriano",5
+"Olexandr Kucher","Vyacheslav Shevchuk",4
+"Olexandr Kucher","Fernando",18
+"Olexandr Kucher","Douglas Costa",21
+"Olexandr Kucher","Taison",7
+"Olexandr Kucher","Alex Teixeira",6
+"Olexandr Kucher","Darijo Srna",83
+"Olexandr Kucher","Yaroslav Rakitskiy",49
+"Olexandr Kucher","Taras Stepanenko",11
+"Olexandr Kucher","Fred",18
+"Olexandr Kucher","Bernard",3
+"Olexandr Kucher","Ilsinho",1
+"Luiz Adriano","Tomáš Hübschman",1
+"Luiz Adriano","Olexandr Kucher",4
+"Luiz Adriano","Vyacheslav Shevchuk",1
+"Luiz Adriano","Fernando",3
+"Luiz Adriano","Douglas Costa",5
+"Luiz Adriano","Taison",5
+"Luiz Adriano","Alex Teixeira",6
+"Luiz Adriano","Darijo Srna",10
+"Luiz Adriano","Yaroslav Rakitskiy",2
+"Luiz Adriano","Taras Stepanenko",2
+"Luiz Adriano","Fred",6
+"Luiz Adriano","Bernard",2
+"Vyacheslav Shevchuk","Andriy Pyatov",4
+"Vyacheslav Shevchuk","Tomáš Hübschman",5
+"Vyacheslav Shevchuk","Olexandr Kucher",5
+"Vyacheslav Shevchuk","Luiz Adriano",4
+"Vyacheslav Shevchuk","Fernando",2
+"Vyacheslav Shevchuk","Douglas Costa",10
+"Vyacheslav Shevchuk","Taison",22
+"Vyacheslav Shevchuk","Alex Teixeira",15
+"Vyacheslav Shevchuk","Darijo Srna",2
+"Vyacheslav Shevchuk","Yaroslav Rakitskiy",22
+"Vyacheslav Shevchuk","Taras Stepanenko",7
+"Vyacheslav Shevchuk","Fred",2
+"Vyacheslav Shevchuk","Bernard",6
+"Vyacheslav Shevchuk","Eduardo",1
+"Fernando","Tomáš Hübschman",5
+"Fernando","Olexandr Kucher",19
+"Fernando","Luiz Adriano",3
+"Fernando","Vyacheslav Shevchuk",2
+"Fernando","Douglas Costa",9
+"Fernando","Taison",5
+"Fernando","Alex Teixeira",4
+"Fernando","Darijo Srna",28
+"Fernando","Yaroslav Rakitskiy",7
+"Fernando","Taras Stepanenko",1
+"Douglas Costa","Andriy Pyatov",1
+"Douglas Costa","Tomáš Hübschman",3
+"Douglas Costa","Olexandr Kucher",10
+"Douglas Costa","Luiz Adriano",2
+"Douglas Costa","Vyacheslav Shevchuk",6
+"Douglas Costa","Fernando",7
+"Douglas Costa","Taison",12
+"Douglas Costa","Alex Teixeira",11
+"Douglas Costa","Darijo Srna",36
+"Douglas Costa","Yaroslav Rakitskiy",1
+"Douglas Costa","Taras Stepanenko",4
+"Douglas Costa","Fred",13
+"Douglas Costa","Bernard",3
+"Taison","Tomáš Hübschman",11
+"Taison","Olexandr Kucher",11
+"Taison","Luiz Adriano",2
+"Taison","Vyacheslav Shevchuk",23
+"Taison","Fernando",4
+"Taison","Douglas Costa",9
+"Taison","Alex Teixeira",17
+"Taison","Darijo Srna",19
+"Taison","Yaroslav Rakitskiy",17
+"Taison","Taras Stepanenko",3
+"Taison","Fred",5
+"Taison","Facundo Ferreyra",1
+"Taison","Ilsinho",2
+"Taison","Eduardo",1
+"Alex Teixeira","Tomáš Hübschman",1
+"Alex Teixeira","Olexandr Kucher",2
+"Alex Teixeira","Luiz Adriano",12
+"Alex Teixeira","Vyacheslav Shevchuk",9
+"Alex Teixeira","Fernando",8
+"Alex Teixeira","Douglas Costa",13
+"Alex Teixeira","Taison",18
+"Alex Teixeira","Darijo Srna",14
+"Alex Teixeira","Yaroslav Rakitskiy",3
+"Alex Teixeira","Taras Stepanenko",3
+"Alex Teixeira","Fred",10
+"Alex Teixeira","Bernard",6
+"Darijo Srna","Andriy Pyatov",9
+"Darijo Srna","Tomáš Hübschman",6
+"Darijo Srna","Olexandr Kucher",70
+"Darijo Srna","Luiz Adriano",19
+"Darijo Srna","Vyacheslav Shevchuk",1
+"Darijo Srna","Fernando",27
+"Darijo Srna","Douglas Costa",34
+"Darijo Srna","Taison",10
+"Darijo Srna","Alex Teixeira",26
+"Darijo Srna","Yaroslav Rakitskiy",15
+"Darijo Srna","Taras Stepanenko",2
+"Darijo Srna","Fred",23
+"Darijo Srna","Bernard",4
+"Yaroslav Rakitskiy","Andriy Pyatov",15
+"Yaroslav Rakitskiy","Tomáš Hübschman",4
+"Yaroslav Rakitskiy","Olexandr Kucher",45
+"Yaroslav Rakitskiy","Luiz Adriano",7
+"Yaroslav Rakitskiy","Vyacheslav Shevchuk",17
+"Yaroslav Rakitskiy","Fernando",7
+"Yaroslav Rakitskiy","Douglas Costa",5
+"Yaroslav Rakitskiy","Taison",23
+"Yaroslav Rakitskiy","Alex Teixeira",8
+"Yaroslav Rakitskiy","Darijo Srna",10
+"Yaroslav Rakitskiy","Taras Stepanenko",8
+"Yaroslav Rakitskiy","Fred",4
+"Yaroslav Rakitskiy","Bernard",4
+"Yaroslav Rakitskiy","Ilsinho",1
+"Taras Stepanenko","Andriy Pyatov",3
+"Taras Stepanenko","Olexandr Kucher",10
+"Taras Stepanenko","Luiz Adriano",5
+"Taras Stepanenko","Vyacheslav Shevchuk",10
+"Taras Stepanenko","Douglas Costa",7
+"Taras Stepanenko","Taison",4
+"Taras Stepanenko","Alex Teixeira",5
+"Taras Stepanenko","Darijo Srna",4
+"Taras Stepanenko","Yaroslav Rakitskiy",5
+"Taras Stepanenko","Fred",6
+"Taras Stepanenko","Bernard",4
+"Fred","Andriy Pyatov",4
+"Fred","Olexandr Kucher",11
+"Fred","Luiz Adriano",4
+"Fred","Vyacheslav Shevchuk",2
+"Fred","Douglas Costa",15
+"Fred","Taison",8
+"Fred","Alex Teixeira",13
+"Fred","Darijo Srna",22
+"Fred","Yaroslav Rakitskiy",3
+"Fred","Taras Stepanenko",5
+"Fred","Bernard",3
+"Fred","Eduardo",1
+"Bernard","Luiz Adriano",1
+"Bernard","Vyacheslav Shevchuk",5
+"Bernard","Douglas Costa",2
+"Bernard","Taison",1
+"Bernard","Alex Teixeira",2
+"Bernard","Darijo Srna",5
+"Bernard","Yaroslav Rakitskiy",1
+"Bernard","Taras Stepanenko",3
+"Bernard","Fred",2
+"Bernard","Facundo Ferreyra",1
+"Facundo Ferreyra","Taison",1
+"Ilsinho","Darijo Srna",4
+"Eduardo","Vyacheslav Shevchuk",1
+"Eduardo","Facundo Ferreyra",2
+"Eduardo","Taison",1

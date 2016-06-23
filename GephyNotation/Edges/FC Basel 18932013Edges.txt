@@ -1,0 +1,133 @@
+"Yann Sommer","Park Joo Ho",4
+"Yann Sommer","Aleksandar Dragovic",3
+"Yann Sommer","Marco Streller",4
+"Yann Sommer","Fabian Frei",5
+"Yann Sommer","Marcelo Díaz",1
+"Yann Sommer","Cabral",4
+"Yann Sommer","Gastón Sauro",4
+"Yann Sommer","Markus Steinhöfer",1
+"Park Joo Ho","Yann Sommer",1
+"Park Joo Ho","Aleksandar Dragovic",16
+"Park Joo Ho","David Degen",9
+"Park Joo Ho","Marco Streller",4
+"Park Joo Ho","Alexander Frei",2
+"Park Joo Ho","Fabian Frei",3
+"Park Joo Ho","Marcelo Díaz",7
+"Park Joo Ho","Cabral",4
+"Park Joo Ho","Gastón Sauro",3
+"Park Joo Ho","Jacques Zoua",10
+"Aleksandar Dragovic","Yann Sommer",4
+"Aleksandar Dragovic","Park Joo Ho",12
+"Aleksandar Dragovic","David Degen",1
+"Aleksandar Dragovic","Marco Streller",5
+"Aleksandar Dragovic","Alexander Frei",2
+"Aleksandar Dragovic","Fabian Frei",2
+"Aleksandar Dragovic","Marcelo Díaz",4
+"Aleksandar Dragovic","Cabral",7
+"Aleksandar Dragovic","Gastón Sauro",12
+"Aleksandar Dragovic","Markus Steinhöfer",1
+"Aleksandar Dragovic","Stephan Andrist",1
+"Aleksandar Dragovic","Jacques Zoua",4
+"David Degen","Park Joo Ho",9
+"David Degen","Aleksandar Dragovic",2
+"David Degen","Marco Streller",3
+"David Degen","Alexander Frei",2
+"David Degen","Fabian Frei",1
+"David Degen","Marcelo Díaz",3
+"David Degen","Cabral",3
+"David Degen","Markus Steinhöfer",1
+"Marco Streller","Park Joo Ho",1
+"Marco Streller","Aleksandar Dragovic",2
+"Marco Streller","David Degen",4
+"Marco Streller","Alexander Frei",2
+"Marco Streller","Fabian Frei",3
+"Marco Streller","Cabral",3
+"Marco Streller","Gastón Sauro",1
+"Marco Streller","Markus Steinhöfer",1
+"Marco Streller","Stephan Andrist",2
+"Alexander Frei","Park Joo Ho",1
+"Alexander Frei","Aleksandar Dragovic",2
+"Alexander Frei","Fabian Frei",9
+"Alexander Frei","Marcelo Díaz",7
+"Alexander Frei","Cabral",1
+"Alexander Frei","Gastón Sauro",1
+"Alexander Frei","Markus Steinhöfer",7
+"Alexander Frei","Stephan Andrist",2
+"Alexander Frei","Jacques Zoua",1
+"Fabian Frei","Park Joo Ho",7
+"Fabian Frei","Aleksandar Dragovic",2
+"Fabian Frei","David Degen",2
+"Fabian Frei","Marco Streller",6
+"Fabian Frei","Alexander Frei",7
+"Fabian Frei","Marcelo Díaz",7
+"Fabian Frei","Cabral",12
+"Fabian Frei","Gastón Sauro",5
+"Fabian Frei","Markus Steinhöfer",13
+"Fabian Frei","Fabian Schär",1
+"Fabian Frei","Jacques Zoua",4
+"Marcelo Díaz","Yann Sommer",2
+"Marcelo Díaz","Park Joo Ho",6
+"Marcelo Díaz","Aleksandar Dragovic",4
+"Marcelo Díaz","David Degen",3
+"Marcelo Díaz","Marco Streller",2
+"Marcelo Díaz","Alexander Frei",5
+"Marcelo Díaz","Fabian Frei",9
+"Marcelo Díaz","Cabral",6
+"Marcelo Díaz","Gastón Sauro",11
+"Marcelo Díaz","Markus Steinhöfer",7
+"Cabral","Yann Sommer",1
+"Cabral","Park Joo Ho",10
+"Cabral","Aleksandar Dragovic",6
+"Cabral","David Degen",2
+"Cabral","Marco Streller",2
+"Cabral","Alexander Frei",4
+"Cabral","Fabian Frei",16
+"Cabral","Marcelo Díaz",14
+"Cabral","Gastón Sauro",9
+"Cabral","Markus Steinhöfer",9
+"Cabral","Fabian Schär",1
+"Cabral","Stephan Andrist",1
+"Cabral","Jacques Zoua",3
+"Gastón Sauro","Yann Sommer",3
+"Gastón Sauro","Aleksandar Dragovic",11
+"Gastón Sauro","David Degen",1
+"Gastón Sauro","Marco Streller",1
+"Gastón Sauro","Alexander Frei",1
+"Gastón Sauro","Fabian Frei",4
+"Gastón Sauro","Marcelo Díaz",10
+"Gastón Sauro","Cabral",14
+"Gastón Sauro","Markus Steinhöfer",4
+"Gastón Sauro","Fabian Schär",1
+"Gastón Sauro","Stephan Andrist",1
+"Markus Steinhöfer","Yann Sommer",2
+"Markus Steinhöfer","Park Joo Ho",3
+"Markus Steinhöfer","David Degen",2
+"Markus Steinhöfer","Marco Streller",4
+"Markus Steinhöfer","Alexander Frei",3
+"Markus Steinhöfer","Fabian Frei",13
+"Markus Steinhöfer","Marcelo Díaz",9
+"Markus Steinhöfer","Cabral",12
+"Markus Steinhöfer","Gastón Sauro",4
+"Markus Steinhöfer","Fabian Schär",1
+"Markus Steinhöfer","Stephan Andrist",2
+"Markus Steinhöfer","Jacques Zoua",2
+"Fabian Schär","Aleksandar Dragovic",2
+"Fabian Schär","Marco Streller",1
+"Fabian Schär","Fabian Frei",1
+"Stephan Andrist","Park Joo Ho",1
+"Stephan Andrist","Marco Streller",1
+"Stephan Andrist","Alexander Frei",2
+"Stephan Andrist","Fabian Frei",1
+"Stephan Andrist","Cabral",1
+"Stephan Andrist","Markus Steinhöfer",4
+"Stephan Andrist","Fabian Schär",1
+"Stephan Andrist","Jacques Zoua",2
+"Jacques Zoua","Park Joo Ho",2
+"Jacques Zoua","Aleksandar Dragovic",3
+"Jacques Zoua","Marco Streller",2
+"Jacques Zoua","Alexander Frei",3
+"Jacques Zoua","Fabian Frei",3
+"Jacques Zoua","Marcelo Díaz",3
+"Jacques Zoua","Cabral",2
+"Jacques Zoua","Markus Steinhöfer",1
+"Jacques Zoua","Stephan Andrist",1

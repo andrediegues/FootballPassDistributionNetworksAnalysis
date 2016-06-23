@@ -1,0 +1,182 @@
+"Roberto","Giannis Maniatis",4
+"Roberto","Alberto Botía",18
+"Roberto","Luka Milivojević",5
+"Roberto","Ibrahim Afellay",3
+"Roberto","Kostas Mitroglou",2
+"Roberto","Alejandro Domínguez",2
+"Roberto","Pajtim Kasami",9
+"Roberto","Omar Elabdellaoui",12
+"Roberto","Éric Abidal",23
+"Roberto","Arthur Masuaku",20
+"Roberto","Delvin N'Dinga",4
+"Giannis Maniatis","Roberto",3
+"Giannis Maniatis","Alberto Botía",15
+"Giannis Maniatis","Luka Milivojević",19
+"Giannis Maniatis","Ibrahim Afellay",8
+"Giannis Maniatis","Kostas Mitroglou",4
+"Giannis Maniatis","Alejandro Domínguez",26
+"Giannis Maniatis","Pajtim Kasami",13
+"Giannis Maniatis","Omar Elabdellaoui",39
+"Giannis Maniatis","Éric Abidal",4
+"Giannis Maniatis","Arthur Masuaku",15
+"Giannis Maniatis","Delvin N'Dinga",17
+"Giannis Maniatis","David Fuster",5
+"Giannis Maniatis","Jimmy Durmaz",2
+"Alberto Botía","Roberto",27
+"Alberto Botía","Giannis Maniatis",16
+"Alberto Botía","Luka Milivojević",23
+"Alberto Botía","Ibrahim Afellay",6
+"Alberto Botía","Kostas Mitroglou",4
+"Alberto Botía","Alejandro Domínguez",5
+"Alberto Botía","Pajtim Kasami",6
+"Alberto Botía","Omar Elabdellaoui",49
+"Alberto Botía","Éric Abidal",23
+"Alberto Botía","Arthur Masuaku",10
+"Alberto Botía","Delvin N'Dinga",23
+"Alberto Botía","David Fuster",5
+"Alberto Botía","Andreas Bouchalakis",2
+"Luka Milivojević","Roberto",3
+"Luka Milivojević","Giannis Maniatis",21
+"Luka Milivojević","Alberto Botía",21
+"Luka Milivojević","Ibrahim Afellay",9
+"Luka Milivojević","Kostas Mitroglou",5
+"Luka Milivojević","Alejandro Domínguez",13
+"Luka Milivojević","Pajtim Kasami",5
+"Luka Milivojević","Omar Elabdellaoui",29
+"Luka Milivojević","Éric Abidal",14
+"Luka Milivojević","Arthur Masuaku",20
+"Luka Milivojević","Delvin N'Dinga",20
+"Luka Milivojević","David Fuster",2
+"Luka Milivojević","Jimmy Durmaz",3
+"Luka Milivojević","Andreas Bouchalakis",4
+"Ibrahim Afellay","Giannis Maniatis",7
+"Ibrahim Afellay","Alberto Botía",7
+"Ibrahim Afellay","Luka Milivojević",13
+"Ibrahim Afellay","Kostas Mitroglou",9
+"Ibrahim Afellay","Alejandro Domínguez",14
+"Ibrahim Afellay","Pajtim Kasami",7
+"Ibrahim Afellay","Omar Elabdellaoui",14
+"Ibrahim Afellay","Éric Abidal",6
+"Ibrahim Afellay","Arthur Masuaku",24
+"Ibrahim Afellay","Delvin N'Dinga",7
+"Ibrahim Afellay","David Fuster",1
+"Ibrahim Afellay","Dimitris Diamantakos",1
+"Kostas Mitroglou","Giannis Maniatis",12
+"Kostas Mitroglou","Alberto Botía",1
+"Kostas Mitroglou","Luka Milivojević",8
+"Kostas Mitroglou","Ibrahim Afellay",9
+"Kostas Mitroglou","Alejandro Domínguez",13
+"Kostas Mitroglou","Pajtim Kasami",11
+"Kostas Mitroglou","Omar Elabdellaoui",2
+"Kostas Mitroglou","Éric Abidal",3
+"Kostas Mitroglou","Arthur Masuaku",10
+"Kostas Mitroglou","Delvin N'Dinga",7
+"Kostas Mitroglou","David Fuster",2
+"Kostas Mitroglou","Kostas Giannoulis",1
+"Alejandro Domínguez","Giannis Maniatis",17
+"Alejandro Domínguez","Alberto Botía",4
+"Alejandro Domínguez","Luka Milivojević",20
+"Alejandro Domínguez","Ibrahim Afellay",11
+"Alejandro Domínguez","Kostas Mitroglou",17
+"Alejandro Domínguez","Pajtim Kasami",15
+"Alejandro Domínguez","Omar Elabdellaoui",21
+"Alejandro Domínguez","Éric Abidal",10
+"Alejandro Domínguez","Arthur Masuaku",13
+"Alejandro Domínguez","Delvin N'Dinga",10
+"Alejandro Domínguez","David Fuster",4
+"Alejandro Domínguez","Jimmy Durmaz",5
+"Pajtim Kasami","Giannis Maniatis",9
+"Pajtim Kasami","Alberto Botía",1
+"Pajtim Kasami","Luka Milivojević",9
+"Pajtim Kasami","Ibrahim Afellay",13
+"Pajtim Kasami","Kostas Mitroglou",13
+"Pajtim Kasami","Alejandro Domínguez",11
+"Pajtim Kasami","Omar Elabdellaoui",15
+"Pajtim Kasami","Éric Abidal",4
+"Pajtim Kasami","Arthur Masuaku",28
+"Pajtim Kasami","Delvin N'Dinga",13
+"Pajtim Kasami","David Fuster",3
+"Pajtim Kasami","Dimitris Diamantakos",2
+"Pajtim Kasami","Andreas Bouchalakis",2
+"Omar Elabdellaoui","Roberto",10
+"Omar Elabdellaoui","Giannis Maniatis",43
+"Omar Elabdellaoui","Alberto Botía",43
+"Omar Elabdellaoui","Luka Milivojević",15
+"Omar Elabdellaoui","Ibrahim Afellay",11
+"Omar Elabdellaoui","Kostas Mitroglou",6
+"Omar Elabdellaoui","Alejandro Domínguez",15
+"Omar Elabdellaoui","Pajtim Kasami",19
+"Omar Elabdellaoui","Éric Abidal",2
+"Omar Elabdellaoui","Arthur Masuaku",2
+"Omar Elabdellaoui","Delvin N'Dinga",23
+"Omar Elabdellaoui","David Fuster",4
+"Omar Elabdellaoui","Jimmy Durmaz",7
+"Omar Elabdellaoui","Andreas Bouchalakis",1
+"Éric Abidal","Roberto",18
+"Éric Abidal","Giannis Maniatis",8
+"Éric Abidal","Alberto Botía",25
+"Éric Abidal","Luka Milivojević",12
+"Éric Abidal","Ibrahim Afellay",14
+"Éric Abidal","Kostas Mitroglou",4
+"Éric Abidal","Alejandro Domínguez",5
+"Éric Abidal","Pajtim Kasami",8
+"Éric Abidal","Omar Elabdellaoui",6
+"Éric Abidal","Arthur Masuaku",14
+"Éric Abidal","Delvin N'Dinga",28
+"Éric Abidal","David Fuster",6
+"Éric Abidal","Andreas Bouchalakis",1
+"Arthur Masuaku","Roberto",7
+"Arthur Masuaku","Giannis Maniatis",9
+"Arthur Masuaku","Alberto Botía",5
+"Arthur Masuaku","Luka Milivojević",18
+"Arthur Masuaku","Ibrahim Afellay",32
+"Arthur Masuaku","Kostas Mitroglou",14
+"Arthur Masuaku","Alejandro Domínguez",22
+"Arthur Masuaku","Pajtim Kasami",29
+"Arthur Masuaku","Éric Abidal",25
+"Arthur Masuaku","Delvin N'Dinga",16
+"Arthur Masuaku","David Fuster",5
+"Arthur Masuaku","Dimitris Diamantakos",1
+"Arthur Masuaku","Andreas Bouchalakis",1
+"Delvin N'Dinga","Roberto",1
+"Delvin N'Dinga","Giannis Maniatis",22
+"Delvin N'Dinga","Alberto Botía",30
+"Delvin N'Dinga","Luka Milivojević",20
+"Delvin N'Dinga","Ibrahim Afellay",12
+"Delvin N'Dinga","Kostas Mitroglou",1
+"Delvin N'Dinga","Alejandro Domínguez",15
+"Delvin N'Dinga","Pajtim Kasami",14
+"Delvin N'Dinga","Omar Elabdellaoui",33
+"Delvin N'Dinga","Éric Abidal",13
+"Delvin N'Dinga","Arthur Masuaku",34
+"Delvin N'Dinga","David Fuster",8
+"Delvin N'Dinga","Andreas Bouchalakis",7
+"David Fuster","Giannis Maniatis",4
+"David Fuster","Luka Milivojević",1
+"David Fuster","Ibrahim Afellay",2
+"David Fuster","Kostas Mitroglou",8
+"David Fuster","Alejandro Domínguez",6
+"David Fuster","Pajtim Kasami",5
+"David Fuster","Omar Elabdellaoui",6
+"David Fuster","Éric Abidal",1
+"David Fuster","Arthur Masuaku",2
+"David Fuster","Delvin N'Dinga",6
+"David Fuster","Kostas Giannoulis",1
+"Kostas Giannoulis","Kostas Mitroglou",2
+"Kostas Giannoulis","Arthur Masuaku",1
+"Kostas Giannoulis","David Fuster",1
+"Jimmy Durmaz","Luka Milivojević",1
+"Jimmy Durmaz","Kostas Mitroglou",1
+"Jimmy Durmaz","Omar Elabdellaoui",3
+"Jimmy Durmaz","Arthur Masuaku",1
+"Jimmy Durmaz","Alejandro Domínguez",3
+"Dimitris Diamantakos","Omar Elabdellaoui",1
+"Dimitris Diamantakos","David Fuster",1
+"Andreas Bouchalakis","Alberto Botía",1
+"Andreas Bouchalakis","Luka Milivojević",2
+"Andreas Bouchalakis","Delvin N'Dinga",4
+"Andreas Bouchalakis","Omar Elabdellaoui",1
+"Andreas Bouchalakis","Éric Abidal",2
+"Andreas Bouchalakis","Arthur Masuaku",3
+"Andreas Bouchalakis","Pajtim Kasami",2
+"Andreas Bouchalakis","David Fuster",1

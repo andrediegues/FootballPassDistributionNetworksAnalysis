@@ -1,0 +1,440 @@
+"Christian Abbiati","Mattia De Sciglio",7
+"Christian Abbiati","Philippe Mexès",13
+"Christian Abbiati","Antonio Nocerino",4
+"Christian Abbiati","Kevin-Prince Boateng",5
+"Christian Abbiati","Giampaolo Pazzini",8
+"Christian Abbiati","Mathieu Flamini",1
+"Christian Abbiati","Daniele Bonera",9
+"Christian Abbiati","Urby Emanuelson",4
+"Christian Abbiati","Nigel de Jong",4
+"Christian Abbiati","Luca Antonini",5
+"Christian Abbiati","Kévin Constant",3
+"Christian Abbiati","Mario Yepes",7
+"Christian Abbiati","Stephan El Shaarawy",1
+"Christian Abbiati","Cristián Zapata",7
+"Christian Abbiati","Riccardo Montolivo",3
+"Christian Abbiati","Ignazio Abate",4
+"Christian Abbiati","Bojan Krkić",6
+"Christian Abbiati","Pato",2
+"Christian Abbiati","Francesco Acerbi",4
+"Christian Abbiati","Massimo Ambrosini",3
+"Christian Abbiati","M'Baye Niang",1
+"Mattia De Sciglio","Christian Abbiati",6
+"Mattia De Sciglio","Philippe Mexès",15
+"Mattia De Sciglio","Kevin-Prince Boateng",19
+"Mattia De Sciglio","Giampaolo Pazzini",10
+"Mattia De Sciglio","Mathieu Flamini",21
+"Mattia De Sciglio","Daniele Bonera",7
+"Mattia De Sciglio","Urby Emanuelson",17
+"Mattia De Sciglio","Nigel de Jong",12
+"Mattia De Sciglio","Kévin Constant",1
+"Mattia De Sciglio","Mario Yepes",2
+"Mattia De Sciglio","Stephan El Shaarawy",2
+"Mattia De Sciglio","Marco Amelia",1
+"Mattia De Sciglio","Francesco Acerbi",1
+"Mattia De Sciglio","Riccardo Montolivo",18
+"Mattia De Sciglio","Massimo Ambrosini",10
+"Mattia De Sciglio","Pato",3
+"Mattia De Sciglio","Bojan Krkić",10
+"Mattia De Sciglio","Robinho",4
+"Mattia De Sciglio","Cristián Zapata",6
+"Mattia De Sciglio","Djamel Mesbah",1
+"Philippe Mexès","Christian Abbiati",9
+"Philippe Mexès","Mattia De Sciglio",20
+"Philippe Mexès","Antonio Nocerino",2
+"Philippe Mexès","Kevin-Prince Boateng",8
+"Philippe Mexès","Giampaolo Pazzini",4
+"Philippe Mexès","Mathieu Flamini",6
+"Philippe Mexès","Daniele Bonera",13
+"Philippe Mexès","Urby Emanuelson",12
+"Philippe Mexès","Nigel de Jong",10
+"Philippe Mexès","Luca Antonini",7
+"Philippe Mexès","Kévin Constant",20
+"Philippe Mexès","Mario Yepes",5
+"Philippe Mexès","Stephan El Shaarawy",8
+"Philippe Mexès","Marco Amelia",4
+"Philippe Mexès","Francesco Acerbi",3
+"Philippe Mexès","Riccardo Montolivo",27
+"Philippe Mexès","Massimo Ambrosini",4
+"Philippe Mexès","Bojan Krkić",2
+"Philippe Mexès","Ignazio Abate",3
+"Philippe Mexès","Cristián Zapata",9
+"Philippe Mexès","Sulley Muntari",8
+"Antonio Nocerino","Mattia De Sciglio",1
+"Antonio Nocerino","Kevin-Prince Boateng",5
+"Antonio Nocerino","Giampaolo Pazzini",3
+"Antonio Nocerino","Mathieu Flamini",2
+"Antonio Nocerino","Daniele Bonera",3
+"Antonio Nocerino","Urby Emanuelson",5
+"Antonio Nocerino","Nigel de Jong",8
+"Antonio Nocerino","Luca Antonini",9
+"Antonio Nocerino","Kévin Constant",3
+"Antonio Nocerino","Mario Yepes",2
+"Antonio Nocerino","Stephan El Shaarawy",13
+"Antonio Nocerino","Cristián Zapata",1
+"Antonio Nocerino","Riccardo Montolivo",2
+"Antonio Nocerino","Ignazio Abate",1
+"Antonio Nocerino","Bojan Krkić",2
+"Antonio Nocerino","Pato",1
+"Kevin-Prince Boateng","Christian Abbiati",2
+"Kevin-Prince Boateng","Mattia De Sciglio",13
+"Kevin-Prince Boateng","Philippe Mexès",4
+"Kevin-Prince Boateng","Antonio Nocerino",4
+"Kevin-Prince Boateng","Giampaolo Pazzini",5
+"Kevin-Prince Boateng","Mathieu Flamini",4
+"Kevin-Prince Boateng","Daniele Bonera",2
+"Kevin-Prince Boateng","Urby Emanuelson",15
+"Kevin-Prince Boateng","Nigel de Jong",12
+"Kevin-Prince Boateng","Luca Antonini",3
+"Kevin-Prince Boateng","Kévin Constant",2
+"Kevin-Prince Boateng","Stephan El Shaarawy",16
+"Kevin-Prince Boateng","Cristián Zapata",14
+"Kevin-Prince Boateng","Riccardo Montolivo",18
+"Kevin-Prince Boateng","Ignazio Abate",16
+"Kevin-Prince Boateng","Bojan Krkić",8
+"Kevin-Prince Boateng","Pato",1
+"Kevin-Prince Boateng","Robinho",4
+"Kevin-Prince Boateng","Francesco Acerbi",4
+"Kevin-Prince Boateng","Djamel Mesbah",6
+"Kevin-Prince Boateng","Massimo Ambrosini",8
+"Kevin-Prince Boateng","Sulley Muntari",6
+"Kevin-Prince Boateng","M'Baye Niang",4
+"Giampaolo Pazzini","Philippe Mexès",1
+"Giampaolo Pazzini","Antonio Nocerino",1
+"Giampaolo Pazzini","Kevin-Prince Boateng",8
+"Giampaolo Pazzini","Mathieu Flamini",2
+"Giampaolo Pazzini","Urby Emanuelson",5
+"Giampaolo Pazzini","Nigel de Jong",3
+"Giampaolo Pazzini","Kévin Constant",1
+"Giampaolo Pazzini","Stephan El Shaarawy",4
+"Giampaolo Pazzini","Cristián Zapata",2
+"Giampaolo Pazzini","Riccardo Montolivo",1
+"Giampaolo Pazzini","Ignazio Abate",1
+"Giampaolo Pazzini","Bojan Krkić",2
+"Giampaolo Pazzini","Francesco Acerbi",1
+"Giampaolo Pazzini","Massimo Ambrosini",3
+"Giampaolo Pazzini","Sulley Muntari",3
+"Mathieu Flamini","Mattia De Sciglio",14
+"Mathieu Flamini","Philippe Mexès",1
+"Mathieu Flamini","Antonio Nocerino",1
+"Mathieu Flamini","Kevin-Prince Boateng",8
+"Mathieu Flamini","Giampaolo Pazzini",1
+"Mathieu Flamini","Daniele Bonera",1
+"Mathieu Flamini","Urby Emanuelson",4
+"Mathieu Flamini","Nigel de Jong",2
+"Mathieu Flamini","Luca Antonini",3
+"Mathieu Flamini","Mario Yepes",1
+"Mathieu Flamini","Stephan El Shaarawy",1
+"Mathieu Flamini","Francesco Acerbi",2
+"Mathieu Flamini","Cristián Zapata",3
+"Mathieu Flamini","Bojan Krkić",7
+"Mathieu Flamini","Massimo Ambrosini",7
+"Mathieu Flamini","Robinho",1
+"Mathieu Flamini","Riccardo Montolivo",2
+"Mathieu Flamini","M'Baye Niang",1
+"Mathieu Flamini","Ignazio Abate",3
+"Daniele Bonera","Christian Abbiati",11
+"Daniele Bonera","Mattia De Sciglio",4
+"Daniele Bonera","Philippe Mexès",28
+"Daniele Bonera","Antonio Nocerino",4
+"Daniele Bonera","Kevin-Prince Boateng",1
+"Daniele Bonera","Giampaolo Pazzini",3
+"Daniele Bonera","Mathieu Flamini",2
+"Daniele Bonera","Urby Emanuelson",6
+"Daniele Bonera","Nigel de Jong",18
+"Daniele Bonera","Luca Antonini",9
+"Daniele Bonera","Kévin Constant",11
+"Daniele Bonera","Stephan El Shaarawy",8
+"Daniele Bonera","Cristián Zapata",6
+"Daniele Bonera","Riccardo Montolivo",10
+"Daniele Bonera","Ignazio Abate",2
+"Daniele Bonera","Bojan Krkić",5
+"Daniele Bonera","Marco Amelia",4
+"Daniele Bonera","Francesco Acerbi",3
+"Daniele Bonera","Massimo Ambrosini",3
+"Daniele Bonera","Pato",2
+"Urby Emanuelson","Christian Abbiati",1
+"Urby Emanuelson","Mattia De Sciglio",8
+"Urby Emanuelson","Philippe Mexès",5
+"Urby Emanuelson","Antonio Nocerino",10
+"Urby Emanuelson","Kevin-Prince Boateng",14
+"Urby Emanuelson","Giampaolo Pazzini",4
+"Urby Emanuelson","Mathieu Flamini",3
+"Urby Emanuelson","Daniele Bonera",1
+"Urby Emanuelson","Nigel de Jong",8
+"Urby Emanuelson","Luca Antonini",3
+"Urby Emanuelson","Kévin Constant",3
+"Urby Emanuelson","Stephan El Shaarawy",8
+"Urby Emanuelson","Cristián Zapata",8
+"Urby Emanuelson","Riccardo Montolivo",15
+"Urby Emanuelson","Ignazio Abate",2
+"Urby Emanuelson","Bojan Krkić",19
+"Urby Emanuelson","Marco Amelia",1
+"Urby Emanuelson","Francesco Acerbi",8
+"Urby Emanuelson","Massimo Ambrosini",4
+"Urby Emanuelson","Pato",4
+"Urby Emanuelson","Robinho",5
+"Urby Emanuelson","Djamel Mesbah",5
+"Nigel de Jong","Christian Abbiati",5
+"Nigel de Jong","Mattia De Sciglio",11
+"Nigel de Jong","Philippe Mexès",6
+"Nigel de Jong","Antonio Nocerino",12
+"Nigel de Jong","Kevin-Prince Boateng",9
+"Nigel de Jong","Giampaolo Pazzini",3
+"Nigel de Jong","Mathieu Flamini",1
+"Nigel de Jong","Daniele Bonera",16
+"Nigel de Jong","Urby Emanuelson",8
+"Nigel de Jong","Luca Antonini",11
+"Nigel de Jong","Kévin Constant",14
+"Nigel de Jong","Mario Yepes",5
+"Nigel de Jong","Stephan El Shaarawy",10
+"Nigel de Jong","Cristián Zapata",4
+"Nigel de Jong","Riccardo Montolivo",17
+"Nigel de Jong","Ignazio Abate",6
+"Nigel de Jong","Bojan Krkić",9
+"Nigel de Jong","Pato",9
+"Nigel de Jong","Robinho",2
+"Luca Antonini","Christian Abbiati",2
+"Luca Antonini","Antonio Nocerino",11
+"Luca Antonini","Kevin-Prince Boateng",7
+"Luca Antonini","Giampaolo Pazzini",4
+"Luca Antonini","Mathieu Flamini",1
+"Luca Antonini","Daniele Bonera",9
+"Luca Antonini","Urby Emanuelson",3
+"Luca Antonini","Nigel de Jong",9
+"Luca Antonini","Kévin Constant",1
+"Luca Antonini","Mario Yepes",2
+"Luca Antonini","Stephan El Shaarawy",9
+"Luca Antonini","Cristián Zapata",1
+"Luca Antonini","Riccardo Montolivo",6
+"Luca Antonini","Ignazio Abate",1
+"Luca Antonini","Bojan Krkić",1
+"Kévin Constant","Christian Abbiati",3
+"Kévin Constant","Mattia De Sciglio",4
+"Kévin Constant","Philippe Mexès",7
+"Kévin Constant","Antonio Nocerino",3
+"Kévin Constant","Kevin-Prince Boateng",7
+"Kévin Constant","Giampaolo Pazzini",1
+"Kévin Constant","Daniele Bonera",11
+"Kévin Constant","Urby Emanuelson",1
+"Kévin Constant","Nigel de Jong",17
+"Kévin Constant","Luca Antonini",1
+"Kévin Constant","Mario Yepes",3
+"Kévin Constant","Stephan El Shaarawy",22
+"Kévin Constant","Marco Amelia",1
+"Kévin Constant","Francesco Acerbi",7
+"Kévin Constant","Riccardo Montolivo",17
+"Kévin Constant","Massimo Ambrosini",6
+"Kévin Constant","Pato",7
+"Kévin Constant","Bojan Krkić",7
+"Kévin Constant","Ignazio Abate",1
+"Kévin Constant","Robinho",5
+"Kévin Constant","Cristián Zapata",2
+"Kévin Constant","Sulley Muntari",6
+"Kévin Constant","M'Baye Niang",2
+"Mario Yepes","Christian Abbiati",1
+"Mario Yepes","Mattia De Sciglio",1
+"Mario Yepes","Philippe Mexès",6
+"Mario Yepes","Antonio Nocerino",6
+"Mario Yepes","Kevin-Prince Boateng",2
+"Mario Yepes","Nigel de Jong",5
+"Mario Yepes","Luca Antonini",1
+"Mario Yepes","Kévin Constant",5
+"Mario Yepes","Stephan El Shaarawy",3
+"Mario Yepes","Riccardo Montolivo",6
+"Mario Yepes","Bojan Krkić",2
+"Mario Yepes","Pato",1
+"Stephan El Shaarawy","Mattia De Sciglio",1
+"Stephan El Shaarawy","Philippe Mexès",2
+"Stephan El Shaarawy","Antonio Nocerino",5
+"Stephan El Shaarawy","Kevin-Prince Boateng",10
+"Stephan El Shaarawy","Giampaolo Pazzini",5
+"Stephan El Shaarawy","Daniele Bonera",3
+"Stephan El Shaarawy","Urby Emanuelson",7
+"Stephan El Shaarawy","Nigel de Jong",10
+"Stephan El Shaarawy","Luca Antonini",8
+"Stephan El Shaarawy","Kévin Constant",22
+"Stephan El Shaarawy","Mario Yepes",1
+"Stephan El Shaarawy","Cristián Zapata",3
+"Stephan El Shaarawy","Riccardo Montolivo",12
+"Stephan El Shaarawy","Ignazio Abate",4
+"Stephan El Shaarawy","Bojan Krkić",5
+"Stephan El Shaarawy","Francesco Acerbi",2
+"Stephan El Shaarawy","Massimo Ambrosini",4
+"Stephan El Shaarawy","Pato",2
+"Stephan El Shaarawy","Robinho",5
+"Stephan El Shaarawy","Sulley Muntari",4
+"Stephan El Shaarawy","M'Baye Niang",2
+"Cristián Zapata","Christian Abbiati",5
+"Cristián Zapata","Kevin-Prince Boateng",8
+"Cristián Zapata","Riccardo Montolivo",21
+"Cristián Zapata","Ignazio Abate",17
+"Cristián Zapata","Bojan Krkić",4
+"Cristián Zapata","Daniele Bonera",3
+"Cristián Zapata","Urby Emanuelson",3
+"Cristián Zapata","Nigel de Jong",4
+"Cristián Zapata","Luca Antonini",2
+"Cristián Zapata","Stephan El Shaarawy",5
+"Cristián Zapata","Mario Yepes",1
+"Cristián Zapata","Mattia De Sciglio",16
+"Cristián Zapata","Philippe Mexès",6
+"Cristián Zapata","Kévin Constant",3
+"Cristián Zapata","Francesco Acerbi",12
+"Cristián Zapata","Djamel Mesbah",1
+"Cristián Zapata","Mathieu Flamini",6
+"Cristián Zapata","Massimo Ambrosini",11
+"Cristián Zapata","Robinho",2
+"Cristián Zapata","Sulley Muntari",2
+"Cristián Zapata","M'Baye Niang",2
+"Riccardo Montolivo","Christian Abbiati",1
+"Riccardo Montolivo","Kevin-Prince Boateng",26
+"Riccardo Montolivo","Cristián Zapata",9
+"Riccardo Montolivo","Ignazio Abate",18
+"Riccardo Montolivo","Bojan Krkić",18
+"Riccardo Montolivo","Daniele Bonera",21
+"Riccardo Montolivo","Urby Emanuelson",15
+"Riccardo Montolivo","Nigel de Jong",16
+"Riccardo Montolivo","Luca Antonini",1
+"Riccardo Montolivo","Stephan El Shaarawy",17
+"Riccardo Montolivo","Antonio Nocerino",3
+"Riccardo Montolivo","Giampaolo Pazzini",4
+"Riccardo Montolivo","Mario Yepes",3
+"Riccardo Montolivo","Mattia De Sciglio",29
+"Riccardo Montolivo","Philippe Mexès",13
+"Riccardo Montolivo","Francesco Acerbi",3
+"Riccardo Montolivo","Kévin Constant",8
+"Riccardo Montolivo","Massimo Ambrosini",5
+"Riccardo Montolivo","Pato",4
+"Riccardo Montolivo","Robinho",5
+"Riccardo Montolivo","Sulley Muntari",7
+"Riccardo Montolivo","M'Baye Niang",5
+"Ignazio Abate","Kevin-Prince Boateng",12
+"Ignazio Abate","Cristián Zapata",21
+"Ignazio Abate","Riccardo Montolivo",15
+"Ignazio Abate","Bojan Krkić",1
+"Ignazio Abate","Daniele Bonera",2
+"Ignazio Abate","Urby Emanuelson",1
+"Ignazio Abate","Nigel de Jong",2
+"Ignazio Abate","Luca Antonini",1
+"Ignazio Abate","Stephan El Shaarawy",4
+"Ignazio Abate","Giampaolo Pazzini",2
+"Ignazio Abate","Philippe Mexès",2
+"Ignazio Abate","Pato",1
+"Ignazio Abate","Kévin Constant",1
+"Ignazio Abate","Robinho",1
+"Ignazio Abate","Sulley Muntari",1
+"Ignazio Abate","Massimo Ambrosini",4
+"Ignazio Abate","M'Baye Niang",6
+"Ignazio Abate","Mathieu Flamini",3
+"Bojan Krkić","Kevin-Prince Boateng",16
+"Bojan Krkić","Cristián Zapata",2
+"Bojan Krkić","Riccardo Montolivo",15
+"Bojan Krkić","Ignazio Abate",2
+"Bojan Krkić","Daniele Bonera",2
+"Bojan Krkić","Urby Emanuelson",5
+"Bojan Krkić","Nigel de Jong",3
+"Bojan Krkić","Luca Antonini",2
+"Bojan Krkić","Stephan El Shaarawy",4
+"Bojan Krkić","Antonio Nocerino",3
+"Bojan Krkić","Giampaolo Pazzini",2
+"Bojan Krkić","Mattia De Sciglio",10
+"Bojan Krkić","Philippe Mexès",3
+"Bojan Krkić","Francesco Acerbi",5
+"Bojan Krkić","Kévin Constant",5
+"Bojan Krkić","Massimo Ambrosini",2
+"Bojan Krkić","Pato",1
+"Bojan Krkić","Robinho",2
+"Bojan Krkić","Mathieu Flamini",1
+"Bojan Krkić","Sulley Muntari",2
+"Marco Amelia","Philippe Mexès",9
+"Marco Amelia","Francesco Acerbi",5
+"Marco Amelia","Riccardo Montolivo",2
+"Marco Amelia","Kévin Constant",3
+"Marco Amelia","Massimo Ambrosini",1
+"Marco Amelia","Daniele Bonera",4
+"Marco Amelia","Stephan El Shaarawy",2
+"Francesco Acerbi","Marco Amelia",3
+"Francesco Acerbi","Mattia De Sciglio",7
+"Francesco Acerbi","Philippe Mexès",1
+"Francesco Acerbi","Giampaolo Pazzini",2
+"Francesco Acerbi","Riccardo Montolivo",4
+"Francesco Acerbi","Kévin Constant",2
+"Francesco Acerbi","Massimo Ambrosini",12
+"Francesco Acerbi","Daniele Bonera",2
+"Francesco Acerbi","Urby Emanuelson",17
+"Francesco Acerbi","Stephan El Shaarawy",4
+"Francesco Acerbi","Bojan Krkić",1
+"Francesco Acerbi","Christian Abbiati",5
+"Francesco Acerbi","Kevin-Prince Boateng",10
+"Francesco Acerbi","Djamel Mesbah",6
+"Francesco Acerbi","Mathieu Flamini",2
+"Francesco Acerbi","Cristián Zapata",7
+"Francesco Acerbi","Robinho",1
+"Massimo Ambrosini","Marco Amelia",1
+"Massimo Ambrosini","Mattia De Sciglio",5
+"Massimo Ambrosini","Philippe Mexès",9
+"Massimo Ambrosini","Giampaolo Pazzini",2
+"Massimo Ambrosini","Francesco Acerbi",15
+"Massimo Ambrosini","Riccardo Montolivo",7
+"Massimo Ambrosini","Kévin Constant",7
+"Massimo Ambrosini","Daniele Bonera",2
+"Massimo Ambrosini","Urby Emanuelson",8
+"Massimo Ambrosini","Stephan El Shaarawy",9
+"Massimo Ambrosini","Bojan Krkić",5
+"Massimo Ambrosini","Christian Abbiati",1
+"Massimo Ambrosini","Kevin-Prince Boateng",16
+"Massimo Ambrosini","Djamel Mesbah",4
+"Massimo Ambrosini","Mathieu Flamini",7
+"Massimo Ambrosini","Cristián Zapata",12
+"Massimo Ambrosini","Sulley Muntari",7
+"Massimo Ambrosini","Ignazio Abate",5
+"Massimo Ambrosini","M'Baye Niang",4
+"Pato","Mattia De Sciglio",2
+"Pato","Riccardo Montolivo",2
+"Pato","Kévin Constant",2
+"Pato","Urby Emanuelson",3
+"Pato","Stephan El Shaarawy",1
+"Pato","Bojan Krkić",2
+"Pato","Ignazio Abate",1
+"Pato","Nigel de Jong",2
+"Robinho","Philippe Mexès",3
+"Robinho","Riccardo Montolivo",5
+"Robinho","Ignazio Abate",1
+"Robinho","Kévin Constant",4
+"Robinho","Bojan Krkić",4
+"Robinho","Urby Emanuelson",1
+"Robinho","Stephan El Shaarawy",2
+"Robinho","Mattia De Sciglio",2
+"Robinho","Kevin-Prince Boateng",3
+"Robinho","Giampaolo Pazzini",1
+"Robinho","Francesco Acerbi",1
+"Robinho","Mathieu Flamini",1
+"Robinho","Cristián Zapata",1
+"Robinho","Massimo Ambrosini",1
+"Djamel Mesbah","Kevin-Prince Boateng",2
+"Djamel Mesbah","Giampaolo Pazzini",2
+"Djamel Mesbah","Francesco Acerbi",2
+"Djamel Mesbah","Mathieu Flamini",2
+"Djamel Mesbah","Bojan Krkić",4
+"Djamel Mesbah","Massimo Ambrosini",2
+"Djamel Mesbah","Urby Emanuelson",5
+"Sulley Muntari","Christian Abbiati",1
+"Sulley Muntari","Philippe Mexès",7
+"Sulley Muntari","Kevin-Prince Boateng",1
+"Sulley Muntari","Giampaolo Pazzini",1
+"Sulley Muntari","Cristián Zapata",4
+"Sulley Muntari","Riccardo Montolivo",7
+"Sulley Muntari","Ignazio Abate",1
+"Sulley Muntari","Kévin Constant",4
+"Sulley Muntari","Massimo Ambrosini",6
+"Sulley Muntari","Stephan El Shaarawy",7
+"Sulley Muntari","Bakaye Traoré",1
+"Sulley Muntari","M'Baye Niang",1
+"Sulley Muntari","Mathieu Flamini",1
+"Sulley Muntari","Robinho",1
+"Sulley Muntari","Bojan Krkić",3
+"M'Baye Niang","Kevin-Prince Boateng",3
+"M'Baye Niang","Riccardo Montolivo",3
+"M'Baye Niang","Kévin Constant",1
+"M'Baye Niang","Stephan El Shaarawy",1
+"M'Baye Niang","Mathieu Flamini",1

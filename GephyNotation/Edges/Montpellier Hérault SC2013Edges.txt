@@ -1,0 +1,377 @@
+"Geoffrey Jourdren","Garry Bocaly",1
+"Geoffrey Jourdren","Mapou Yanga-Mbiwa",10
+"Geoffrey Jourdren","Hilton",10
+"Geoffrey Jourdren","Henri Bedimo",7
+"Geoffrey Jourdren","Anthony Mounier",2
+"Geoffrey Jourdren","Marco Estrada",3
+"Geoffrey Jourdren","Suleyman Camara",3
+"Geoffrey Jourdren","Rémi Cabella",1
+"Geoffrey Jourdren","Jamel Saihi",2
+"Geoffrey Jourdren","Karim Aït-Fana",2
+"Geoffrey Jourdren","Benjamin Stambouli",1
+"Geoffrey Jourdren","Rémy Cabella",1
+"Geoffrey Jourdren","Joris Marveaux",3
+"Geoffrey Jourdren","Daniel Congré",6
+"Geoffrey Jourdren","Abdel El Kaoutari",1
+"Geoffrey Jourdren","Jonas Martin",1
+"Garry Bocaly","Geoffrey Jourdren",3
+"Garry Bocaly","Mapou Yanga-Mbiwa",20
+"Garry Bocaly","Hilton",3
+"Garry Bocaly","Henri Bedimo",2
+"Garry Bocaly","Anthony Mounier",2
+"Garry Bocaly","Younés Belhanda",4
+"Garry Bocaly","Marco Estrada",1
+"Garry Bocaly","Suleyman Camara",2
+"Garry Bocaly","Rémi Cabella",8
+"Garry Bocaly","Jamel Saihi",22
+"Garry Bocaly","Emanuel Herrera",2
+"Garry Bocaly","Younes Belhanda",6
+"Garry Bocaly","Souleymane Camara",8
+"Garry Bocaly","Rémy Cabella",11
+"Garry Bocaly","Joris Marveaux",1
+"Mapou Yanga-Mbiwa","Geoffrey Jourdren",4
+"Mapou Yanga-Mbiwa","Garry Bocaly",28
+"Mapou Yanga-Mbiwa","Hilton",37
+"Mapou Yanga-Mbiwa","Henri Bedimo",12
+"Mapou Yanga-Mbiwa","Anthony Mounier",3
+"Mapou Yanga-Mbiwa","Younés Belhanda",5
+"Mapou Yanga-Mbiwa","Marco Estrada",13
+"Mapou Yanga-Mbiwa","Suleyman Camara",4
+"Mapou Yanga-Mbiwa","Rémi Cabella",8
+"Mapou Yanga-Mbiwa","Jamel Saihi",23
+"Mapou Yanga-Mbiwa","Emanuel Herrera",2
+"Mapou Yanga-Mbiwa","Karim Aït-Fana",4
+"Mapou Yanga-Mbiwa","Benjamin Stambouli",19
+"Mapou Yanga-Mbiwa","Younes Belhanda",11
+"Mapou Yanga-Mbiwa","Souleymane Camara",4
+"Mapou Yanga-Mbiwa","Rémy Cabella",23
+"Mapou Yanga-Mbiwa","Joris Marveaux",8
+"Mapou Yanga-Mbiwa","Daniel Congré",14
+"Mapou Yanga-Mbiwa","Laurent Pionnier",1
+"Mapou Yanga-Mbiwa","John Utaka",3
+"Mapou Yanga-Mbiwa","Gaëtan Charbonnier",4
+"Mapou Yanga-Mbiwa","Abdel El Kaoutari",2
+"Mapou Yanga-Mbiwa","Mathieu Deplagne",5
+"Mapou Yanga-Mbiwa","Jonas Martin",4
+"Mapou Yanga-Mbiwa","Jonathan Ligali",5
+"Hilton","Geoffrey Jourdren",10
+"Hilton","Garry Bocaly",5
+"Hilton","Mapou Yanga-Mbiwa",51
+"Hilton","Henri Bedimo",27
+"Hilton","Anthony Mounier",14
+"Hilton","Younés Belhanda",3
+"Hilton","Marco Estrada",14
+"Hilton","Suleyman Camara",2
+"Hilton","Rémi Cabella",4
+"Hilton","Jamel Saihi",12
+"Hilton","Emanuel Herrera",2
+"Hilton","Karim Aït-Fana",2
+"Hilton","Benjamin Stambouli",13
+"Hilton","Younes Belhanda",17
+"Hilton","Souleymane Camara",5
+"Hilton","Rémy Cabella",6
+"Hilton","Joris Marveaux",6
+"Hilton","Daniel Congré",2
+"Hilton","Jonathan Tinhan",4
+"Hilton","Laurent Pionnier",3
+"Hilton","John Utaka",2
+"Hilton","Jonathan Ligali",2
+"Hilton","Romain Pitau",1
+"Henri Bedimo","Geoffrey Jourdren",3
+"Henri Bedimo","Mapou Yanga-Mbiwa",7
+"Henri Bedimo","Hilton",23
+"Henri Bedimo","Anthony Mounier",31
+"Henri Bedimo","Younés Belhanda",3
+"Henri Bedimo","Marco Estrada",24
+"Henri Bedimo","Suleyman Camara",1
+"Henri Bedimo","Rémi Cabella",2
+"Henri Bedimo","Jamel Saihi",16
+"Henri Bedimo","Emanuel Herrera",2
+"Henri Bedimo","Karim Aït-Fana",6
+"Henri Bedimo","Benjamin Stambouli",5
+"Henri Bedimo","Laurent Pionnier",4
+"Henri Bedimo","John Utaka",12
+"Henri Bedimo","Gaëtan Charbonnier",3
+"Henri Bedimo","Younes Belhanda",22
+"Henri Bedimo","Rémy Cabella",10
+"Henri Bedimo","Joris Marveaux",1
+"Henri Bedimo","Souleymane Camara",3
+"Henri Bedimo","Daniel Congré",3
+"Henri Bedimo","Abdel El Kaoutari",9
+"Henri Bedimo","Mathieu Deplagne",3
+"Henri Bedimo","Jonas Martin",1
+"Henri Bedimo","Jonathan Ligali",1
+"Henri Bedimo","Romain Pitau",1
+"Anthony Mounier","Mapou Yanga-Mbiwa",5
+"Anthony Mounier","Hilton",4
+"Anthony Mounier","Henri Bedimo",15
+"Anthony Mounier","Younés Belhanda",1
+"Anthony Mounier","Marco Estrada",15
+"Anthony Mounier","Suleyman Camara",1
+"Anthony Mounier","Rémi Cabella",1
+"Anthony Mounier","Jamel Saihi",2
+"Anthony Mounier","Emanuel Herrera",3
+"Anthony Mounier","Benjamin Stambouli",3
+"Anthony Mounier","Gaëtan Charbonnier",3
+"Anthony Mounier","Younes Belhanda",17
+"Anthony Mounier","Rémy Cabella",11
+"Anthony Mounier","Joris Marveaux",3
+"Anthony Mounier","Souleymane Camara",5
+"Anthony Mounier","Daniel Congré",1
+"Anthony Mounier","Abdel El Kaoutari",1
+"Anthony Mounier","Romain Pitau",2
+"Younés Belhanda","Garry Bocaly",6
+"Younés Belhanda","Mapou Yanga-Mbiwa",3
+"Younés Belhanda","Anthony Mounier",4
+"Younés Belhanda","Marco Estrada",5
+"Younés Belhanda","Suleyman Camara",1
+"Younés Belhanda","Rémi Cabella",1
+"Younés Belhanda","Jamel Saihi",4
+"Marco Estrada","Geoffrey Jourdren",3
+"Marco Estrada","Garry Bocaly",4
+"Marco Estrada","Mapou Yanga-Mbiwa",13
+"Marco Estrada","Hilton",23
+"Marco Estrada","Henri Bedimo",32
+"Marco Estrada","Anthony Mounier",10
+"Marco Estrada","Younés Belhanda",3
+"Marco Estrada","Suleyman Camara",3
+"Marco Estrada","Rémi Cabella",2
+"Marco Estrada","Jamel Saihi",12
+"Marco Estrada","Emanuel Herrera",2
+"Marco Estrada","Karim Aït-Fana",3
+"Marco Estrada","Benjamin Stambouli",14
+"Marco Estrada","Younes Belhanda",14
+"Marco Estrada","Souleymane Camara",2
+"Marco Estrada","Rémy Cabella",10
+"Marco Estrada","Daniel Congré",7
+"Marco Estrada","Gaëtan Charbonnier",1
+"Marco Estrada","Abdel El Kaoutari",13
+"Marco Estrada","Mathieu Deplagne",6
+"Marco Estrada","Jonathan Ligali",2
+"Marco Estrada","Romain Pitau",4
+"Suleyman Camara","Geoffrey Jourdren",1
+"Suleyman Camara","Garry Bocaly",2
+"Suleyman Camara","Mapou Yanga-Mbiwa",2
+"Suleyman Camara","Anthony Mounier",3
+"Suleyman Camara","Marco Estrada",3
+"Suleyman Camara","Jamel Saihi",4
+"Rémi Cabella","Garry Bocaly",9
+"Rémi Cabella","Mapou Yanga-Mbiwa",6
+"Rémi Cabella","Henri Bedimo",1
+"Rémi Cabella","Younés Belhanda",4
+"Rémi Cabella","Marco Estrada",2
+"Rémi Cabella","Suleyman Camara",4
+"Rémi Cabella","Jamel Saihi",5
+"Rémi Cabella","Karim Aït-Fana",1
+"Jamel Saihi","Geoffrey Jourdren",2
+"Jamel Saihi","Garry Bocaly",10
+"Jamel Saihi","Mapou Yanga-Mbiwa",28
+"Jamel Saihi","Hilton",20
+"Jamel Saihi","Henri Bedimo",10
+"Jamel Saihi","Anthony Mounier",10
+"Jamel Saihi","Younés Belhanda",11
+"Jamel Saihi","Marco Estrada",9
+"Jamel Saihi","Suleyman Camara",2
+"Jamel Saihi","Rémi Cabella",10
+"Jamel Saihi","Karim Aït-Fana",2
+"Jamel Saihi","Benjamin Stambouli",8
+"Jamel Saihi","Younes Belhanda",17
+"Jamel Saihi","Souleymane Camara",4
+"Jamel Saihi","Rémy Cabella",17
+"Jamel Saihi","Joris Marveaux",6
+"Jamel Saihi","Daniel Congré",2
+"Jamel Saihi","Jonathan Tinhan",2
+"Jamel Saihi","John Utaka",3
+"Jamel Saihi","Gaëtan Charbonnier",2
+"Emanuel Herrera","Anthony Mounier",2
+"Emanuel Herrera","Younés Belhanda",1
+"Emanuel Herrera","Marco Estrada",2
+"Emanuel Herrera","Rémi Cabella",1
+"Emanuel Herrera","Benjamin Stambouli",1
+"Emanuel Herrera","Rémy Cabella",5
+"Emanuel Herrera","Romain Pitau",1
+"Karim Aït-Fana","Mapou Yanga-Mbiwa",5
+"Karim Aït-Fana","Hilton",3
+"Karim Aït-Fana","Henri Bedimo",2
+"Karim Aït-Fana","Younés Belhanda",1
+"Karim Aït-Fana","Marco Estrada",3
+"Karim Aït-Fana","Rémi Cabella",1
+"Karim Aït-Fana","Jamel Saihi",4
+"Karim Aït-Fana","Emanuel Herrera",1
+"Karim Aït-Fana","Benjamin Stambouli",9
+"Karim Aït-Fana","Younes Belhanda",1
+"Karim Aït-Fana","Souleymane Camara",2
+"Karim Aït-Fana","Rémy Cabella",1
+"Benjamin Stambouli","Geoffrey Jourdren",1
+"Benjamin Stambouli","Garry Bocaly",1
+"Benjamin Stambouli","Mapou Yanga-Mbiwa",12
+"Benjamin Stambouli","Hilton",15
+"Benjamin Stambouli","Henri Bedimo",4
+"Benjamin Stambouli","Anthony Mounier",10
+"Benjamin Stambouli","Younés Belhanda",1
+"Benjamin Stambouli","Marco Estrada",20
+"Benjamin Stambouli","Jamel Saihi",12
+"Benjamin Stambouli","Emanuel Herrera",2
+"Benjamin Stambouli","Karim Aït-Fana",15
+"Benjamin Stambouli","Younes Belhanda",6
+"Benjamin Stambouli","Souleymane Camara",10
+"Benjamin Stambouli","Rémy Cabella",17
+"Benjamin Stambouli","Daniel Congré",4
+"Benjamin Stambouli","John Utaka",2
+"Benjamin Stambouli","Gaëtan Charbonnier",1
+"Younes Belhanda","Garry Bocaly",3
+"Younes Belhanda","Mapou Yanga-Mbiwa",15
+"Younes Belhanda","Hilton",4
+"Younes Belhanda","Marco Estrada",17
+"Younes Belhanda","Karim Aït-Fana",3
+"Younes Belhanda","Souleymane Camara",10
+"Younes Belhanda","Rémy Cabella",27
+"Younes Belhanda","Benjamin Stambouli",2
+"Younes Belhanda","Jamel Saihi",13
+"Younes Belhanda","Joris Marveaux",6
+"Younes Belhanda","Daniel Congré",3
+"Younes Belhanda","Jonathan Tinhan",1
+"Younes Belhanda","Laurent Pionnier",1
+"Younes Belhanda","Henri Bedimo",12
+"Younes Belhanda","John Utaka",3
+"Younes Belhanda","Anthony Mounier",14
+"Younes Belhanda","Gaëtan Charbonnier",2
+"Younes Belhanda","Abdel El Kaoutari",4
+"Younes Belhanda","Mathieu Deplagne",3
+"Younes Belhanda","Emanuel Herrera",2
+"Younes Belhanda","Jonas Martin",2
+"Younes Belhanda","Romain Pitau",1
+"Souleymane Camara","Garry Bocaly",4
+"Souleymane Camara","Mapou Yanga-Mbiwa",2
+"Souleymane Camara","Hilton",3
+"Souleymane Camara","Younes Belhanda",6
+"Souleymane Camara","Marco Estrada",4
+"Souleymane Camara","Karim Aït-Fana",2
+"Souleymane Camara","Rémy Cabella",9
+"Souleymane Camara","Benjamin Stambouli",5
+"Souleymane Camara","Jamel Saihi",5
+"Souleymane Camara","Joris Marveaux",6
+"Souleymane Camara","Daniel Congré",3
+"Souleymane Camara","Jonathan Tinhan",1
+"Souleymane Camara","John Utaka",2
+"Souleymane Camara","Anthony Mounier",3
+"Rémy Cabella","Garry Bocaly",10
+"Rémy Cabella","Mapou Yanga-Mbiwa",15
+"Rémy Cabella","Hilton",9
+"Rémy Cabella","Younes Belhanda",17
+"Rémy Cabella","Marco Estrada",13
+"Rémy Cabella","Souleymane Camara",11
+"Rémy Cabella","Benjamin Stambouli",13
+"Rémy Cabella","Jamel Saihi",13
+"Rémy Cabella","Joris Marveaux",6
+"Rémy Cabella","Daniel Congré",6
+"Rémy Cabella","Jonathan Tinhan",1
+"Rémy Cabella","Henri Bedimo",7
+"Rémy Cabella","John Utaka",2
+"Rémy Cabella","Anthony Mounier",21
+"Rémy Cabella","Gaëtan Charbonnier",3
+"Rémy Cabella","Abdel El Kaoutari",2
+"Rémy Cabella","Mathieu Deplagne",6
+"Rémy Cabella","Emanuel Herrera",3
+"Rémy Cabella","Romain Pitau",3
+"Joris Marveaux","Geoffrey Jourdren",1
+"Joris Marveaux","Garry Bocaly",8
+"Joris Marveaux","Mapou Yanga-Mbiwa",4
+"Joris Marveaux","Hilton",8
+"Joris Marveaux","Younes Belhanda",8
+"Joris Marveaux","Souleymane Camara",6
+"Joris Marveaux","Rémy Cabella",4
+"Joris Marveaux","Benjamin Stambouli",1
+"Joris Marveaux","Jamel Saihi",3
+"Joris Marveaux","Jonathan Tinhan",2
+"Joris Marveaux","Henri Bedimo",7
+"Joris Marveaux","John Utaka",1
+"Joris Marveaux","Anthony Mounier",1
+"Daniel Congré","Geoffrey Jourdren",6
+"Daniel Congré","Mapou Yanga-Mbiwa",14
+"Daniel Congré","Hilton",3
+"Daniel Congré","Younes Belhanda",5
+"Daniel Congré","Marco Estrada",10
+"Daniel Congré","Souleymane Camara",7
+"Daniel Congré","Rémy Cabella",10
+"Daniel Congré","Benjamin Stambouli",4
+"Daniel Congré","Jamel Saihi",2
+"Daniel Congré","Joris Marveaux",3
+"Daniel Congré","Henri Bedimo",3
+"Daniel Congré","Anthony Mounier",3
+"Daniel Congré","Gaëtan Charbonnier",1
+"Daniel Congré","Abdel El Kaoutari",6
+"Daniel Congré","Mathieu Deplagne",7
+"Daniel Congré","Emanuel Herrera",1
+"Daniel Congré","Jonas Martin",3
+"Jonathan Tinhan","Garry Bocaly",1
+"Jonathan Tinhan","Hilton",2
+"Jonathan Tinhan","Henri Bedimo",1
+"Laurent Pionnier","Mapou Yanga-Mbiwa",3
+"Laurent Pionnier","Hilton",2
+"Laurent Pionnier","Henri Bedimo",4
+"Laurent Pionnier","John Utaka",1
+"Laurent Pionnier","Gaëtan Charbonnier",1
+"Laurent Pionnier","Younes Belhanda",2
+"Laurent Pionnier","Benjamin Stambouli",1
+"John Utaka","Mapou Yanga-Mbiwa",1
+"John Utaka","Hilton",1
+"John Utaka","Henri Bedimo",5
+"John Utaka","Gaëtan Charbonnier",1
+"John Utaka","Younes Belhanda",7
+"John Utaka","Rémy Cabella",1
+"John Utaka","Benjamin Stambouli",3
+"John Utaka","Jamel Saihi",1
+"John Utaka","Marco Estrada",1
+"Gaëtan Charbonnier","Laurent Pionnier",1
+"Gaëtan Charbonnier","Mapou Yanga-Mbiwa",5
+"Gaëtan Charbonnier","Hilton",1
+"Gaëtan Charbonnier","Henri Bedimo",1
+"Gaëtan Charbonnier","John Utaka",1
+"Gaëtan Charbonnier","Anthony Mounier",3
+"Gaëtan Charbonnier","Younes Belhanda",2
+"Gaëtan Charbonnier","Rémy Cabella",5
+"Gaëtan Charbonnier","Jamel Saihi",3
+"Gaëtan Charbonnier","Marco Estrada",1
+"Gaëtan Charbonnier","Jonathan Tinhan",1
+"Abdel El Kaoutari","Geoffrey Jourdren",5
+"Abdel El Kaoutari","Mapou Yanga-Mbiwa",2
+"Abdel El Kaoutari","Henri Bedimo",4
+"Abdel El Kaoutari","Anthony Mounier",2
+"Abdel El Kaoutari","Gaëtan Charbonnier",1
+"Abdel El Kaoutari","Younes Belhanda",6
+"Abdel El Kaoutari","Daniel Congré",3
+"Abdel El Kaoutari","Marco Estrada",9
+"Abdel El Kaoutari","Rémy Cabella",3
+"Abdel El Kaoutari","Mathieu Deplagne",2
+"Mathieu Deplagne","Geoffrey Jourdren",2
+"Mathieu Deplagne","Mapou Yanga-Mbiwa",6
+"Mathieu Deplagne","Henri Bedimo",2
+"Mathieu Deplagne","Anthony Mounier",2
+"Mathieu Deplagne","Younes Belhanda",2
+"Mathieu Deplagne","Daniel Congré",7
+"Mathieu Deplagne","Marco Estrada",3
+"Mathieu Deplagne","Rémy Cabella",3
+"Mathieu Deplagne","Abdel El Kaoutari",2
+"Mathieu Deplagne","Jonas Martin",1
+"Jonas Martin","Mapou Yanga-Mbiwa",1
+"Jonas Martin","Henri Bedimo",1
+"Jonas Martin","Younes Belhanda",3
+"Jonas Martin","Daniel Congré",3
+"Jonas Martin","Mathieu Deplagne",2
+"Jonas Martin","Joris Marveaux",1
+"Jonathan Ligali","Hilton",1
+"Jonathan Ligali","Anthony Mounier",1
+"Jonathan Ligali","Emanuel Herrera",2
+"Jonathan Ligali","Daniel Congré",1
+"Jonathan Ligali","Marco Estrada",1
+"Jonathan Ligali","Souleymane Camara",3
+"Jonathan Ligali","Rémy Cabella",2
+"Jonathan Ligali","Benjamin Stambouli",2
+"Jonathan Ligali","John Utaka",1
+"Jonathan Ligali","Younes Belhanda",1
+"Romain Pitau","Henri Bedimo",1
+"Romain Pitau","Anthony Mounier",1
+"Romain Pitau","Emanuel Herrera",4
+"Romain Pitau","Marco Estrada",3
+"Romain Pitau","Rémy Cabella",4
