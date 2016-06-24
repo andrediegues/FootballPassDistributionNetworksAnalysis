@@ -1,358 +1,359 @@
-"Mathew Ryan","Rúben Vezo",5
-"Mathew Ryan","Shkodran Mustafi",5
-"Mathew Ryan","Sofiane Feghouli",6
-"Mathew Ryan","Antonio Barragán",2
-"Mathew Ryan","Álvaro Negredo",10
-"Mathew Ryan","Pablo Piatti",1
-"Rúben Vezo","Mathew Ryan",4
-"Rúben Vezo","Shkodran Mustafi",6
-"Rúben Vezo","Sofiane Feghouli",9
-"Rúben Vezo","Paco Alcácer",1
-"Rúben Vezo","Daniel Parejo",13
-"Rúben Vezo","José Gayà",12
-"Rúben Vezo","Enzo Pérez",11
-"Rúben Vezo","Rodrigo",4
-"Rúben Vezo","Antonio Barragán",2
-"Rúben Vezo","Rodrigo De Paul",1
-"Rúben Vezo","Álvaro Negredo",1
-"Rúben Vezo","Pablo Piatti",3
-"Rúben Vezo","Javi Fuego",1
-"Rúben Vezo","Jaume Doménech",3
-"Rúben Vezo","João Cancelo",7
-"Rúben Vezo","André Gomes",1
-"Rúben Vezo","Aymen Abdennour",9
-"Rúben Vezo","Rafael Mir",2
-"Rúben Vezo","Santi Mina",1
-"Shkodran Mustafi","Mathew Ryan",5
-"Shkodran Mustafi","Rúben Vezo",4
-"Shkodran Mustafi","Sofiane Feghouli",18
-"Shkodran Mustafi","Paco Alcácer",4
-"Shkodran Mustafi","Daniel Parejo",50
-"Shkodran Mustafi","José Gayà",6
-"Shkodran Mustafi","Enzo Pérez",18
-"Shkodran Mustafi","Rodrigo",5
-"Shkodran Mustafi","Antonio Barragán",12
-"Shkodran Mustafi","Rodrigo De Paul",3
-"Shkodran Mustafi","Álvaro Negredo",3
-"Shkodran Mustafi","Pablo Piatti",2
-"Shkodran Mustafi","Javi Fuego",25
-"Shkodran Mustafi","Jaume Doménech",9
-"Shkodran Mustafi","João Cancelo",30
-"Shkodran Mustafi","Aymen Abdennour",25
-"Shkodran Mustafi","André Gomes",3
-"Shkodran Mustafi","Santos",4
-"Shkodran Mustafi","Santi Mina",6
-"Shkodran Mustafi","Danilo",1
-"Sofiane Feghouli","Rúben Vezo",4
-"Sofiane Feghouli","Shkodran Mustafi",7
-"Sofiane Feghouli","Paco Alcácer",14
-"Sofiane Feghouli","Daniel Parejo",34
-"Sofiane Feghouli","José Gayà",2
-"Sofiane Feghouli","Enzo Pérez",18
-"Sofiane Feghouli","Rodrigo",5
-"Sofiane Feghouli","Antonio Barragán",16
-"Sofiane Feghouli","Rodrigo De Paul",2
-"Sofiane Feghouli","Álvaro Negredo",5
-"Sofiane Feghouli","Pablo Piatti",7
-"Sofiane Feghouli","Javi Fuego",9
-"Sofiane Feghouli","João Cancelo",45
-"Sofiane Feghouli","Aymen Abdennour",1
-"Sofiane Feghouli","André Gomes",12
-"Sofiane Feghouli","Lucas Orbán",2
-"Sofiane Feghouli","Santi Mina",3
-"Sofiane Feghouli","Danilo",2
-"Paco Alcácer","Rúben Vezo",1
-"Paco Alcácer","Sofiane Feghouli",10
-"Paco Alcácer","Daniel Parejo",14
-"Paco Alcácer","José Gayà",2
-"Paco Alcácer","Enzo Pérez",5
-"Paco Alcácer","Rodrigo",1
-"Paco Alcácer","Antonio Barragán",3
-"Paco Alcácer","Rodrigo De Paul",3
-"Paco Alcácer","Álvaro Negredo",2
-"Paco Alcácer","Pablo Piatti",1
-"Paco Alcácer","Javi Fuego",2
-"Paco Alcácer","Danilo Barbosa",1
-"Paco Alcácer","Jaume Doménech",1
-"Paco Alcácer","João Cancelo",1
-"Paco Alcácer","Aymen Abdennour",1
-"Paco Alcácer","André Gomes",13
-"Paco Alcácer","Santos",2
-"Paco Alcácer","Santi Mina",5
-"Paco Alcácer","Danilo",2
-"Paco Alcácer","Rafael Mir",1
-"Daniel Parejo","Rúben Vezo",5
-"Daniel Parejo","Shkodran Mustafi",20
-"Daniel Parejo","Sofiane Feghouli",50
-"Daniel Parejo","Paco Alcácer",25
-"Daniel Parejo","José Gayà",33
-"Daniel Parejo","Enzo Pérez",55
-"Daniel Parejo","Rodrigo",13
-"Daniel Parejo","Antonio Barragán",18
-"Daniel Parejo","Rodrigo De Paul",13
-"Daniel Parejo","Álvaro Negredo",21
-"Daniel Parejo","Pablo Piatti",15
-"Daniel Parejo","Javi Fuego",38
-"Daniel Parejo","Jaume Doménech",2
-"Daniel Parejo","João Cancelo",37
-"Daniel Parejo","Aymen Abdennour",6
-"Daniel Parejo","André Gomes",32
-"Daniel Parejo","Lucas Orbán",1
-"Daniel Parejo","Santos",4
-"Daniel Parejo","Santi Mina",20
-"Daniel Parejo","Danilo",6
-"Daniel Parejo","Rafael Mir",4
-"José Gayà","Mathew Ryan",2
-"José Gayà","Rúben Vezo",11
-"José Gayà","Shkodran Mustafi",5
-"José Gayà","Paco Alcácer",8
-"José Gayà","Daniel Parejo",22
-"José Gayà","Enzo Pérez",25
-"José Gayà","Rodrigo",7
-"José Gayà","Antonio Barragán",1
-"José Gayà","Rodrigo De Paul",11
-"José Gayà","Álvaro Negredo",3
-"José Gayà","Pablo Piatti",23
-"José Gayà","Javi Fuego",13
-"José Gayà","Jaume Doménech",4
-"José Gayà","João Cancelo",2
-"José Gayà","Aymen Abdennour",24
-"José Gayà","André Gomes",26
-"José Gayà","Santos",12
-"José Gayà","Santi Mina",24
-"José Gayà","Danilo",2
-"José Gayà","Rafael Mir",5
-"Enzo Pérez","Rúben Vezo",20
-"Enzo Pérez","Shkodran Mustafi",25
-"Enzo Pérez","Sofiane Feghouli",17
-"Enzo Pérez","Paco Alcácer",6
-"Enzo Pérez","Daniel Parejo",62
-"Enzo Pérez","José Gayà",33
-"Enzo Pérez","Rodrigo",5
-"Enzo Pérez","Antonio Barragán",10
-"Enzo Pérez","Rodrigo De Paul",9
-"Enzo Pérez","Álvaro Negredo",3
-"Enzo Pérez","Pablo Piatti",19
-"Enzo Pérez","Javi Fuego",19
-"Enzo Pérez","Jaume Doménech",2
-"Enzo Pérez","João Cancelo",18
-"Enzo Pérez","Aymen Abdennour",15
-"Enzo Pérez","André Gomes",13
-"Enzo Pérez","Lucas Orbán",3
-"Enzo Pérez","Aderlan Santos",1
-"Enzo Pérez","Santos",2
-"Enzo Pérez","Santi Mina",6
-"Enzo Pérez","Rafael Mir",1
-"Rodrigo","Rúben Vezo",1
-"Rodrigo","Shkodran Mustafi",2
-"Rodrigo","Sofiane Feghouli",5
-"Rodrigo","Paco Alcácer",1
-"Rodrigo","Daniel Parejo",8
-"Rodrigo","José Gayà",7
-"Rodrigo","Enzo Pérez",4
-"Rodrigo","Antonio Barragán",3
-"Rodrigo","Rodrigo De Paul",3
-"Rodrigo","Álvaro Negredo",2
-"Rodrigo","Pablo Piatti",1
-"Rodrigo","Javi Fuego",2
-"Rodrigo","João Cancelo",7
-"Rodrigo","André Gomes",3
-"Antonio Barragán","Mathew Ryan",1
-"Antonio Barragán","Shkodran Mustafi",10
-"Antonio Barragán","Sofiane Feghouli",26
-"Antonio Barragán","Daniel Parejo",14
-"Antonio Barragán","Enzo Pérez",8
-"Antonio Barragán","Rodrigo",1
-"Antonio Barragán","Rodrigo De Paul",1
-"Antonio Barragán","Álvaro Negredo",1
-"Antonio Barragán","Pablo Piatti",3
-"Antonio Barragán","Javi Fuego",8
-"Antonio Barragán","Jaume Doménech",1
-"Antonio Barragán","Santos",1
-"Antonio Barragán","João Cancelo",4
-"Antonio Barragán","André Gomes",1
-"Rodrigo De Paul","Rúben Vezo",1
-"Rodrigo De Paul","Shkodran Mustafi",2
-"Rodrigo De Paul","Sofiane Feghouli",7
-"Rodrigo De Paul","Daniel Parejo",9
-"Rodrigo De Paul","José Gayà",18
-"Rodrigo De Paul","Enzo Pérez",6
-"Rodrigo De Paul","Rodrigo",4
-"Rodrigo De Paul","Antonio Barragán",1
-"Rodrigo De Paul","Javi Fuego",2
-"Rodrigo De Paul","João Cancelo",2
-"Rodrigo De Paul","Aymen Abdennour",2
-"Rodrigo De Paul","Danilo",1
-"Rodrigo De Paul","Santi Mina",3
-"Álvaro Negredo","Shkodran Mustafi",1
-"Álvaro Negredo","Sofiane Feghouli",7
-"Álvaro Negredo","Paco Alcácer",2
-"Álvaro Negredo","Daniel Parejo",15
-"Álvaro Negredo","José Gayà",2
-"Álvaro Negredo","Enzo Pérez",5
-"Álvaro Negredo","Rodrigo",4
-"Álvaro Negredo","Antonio Barragán",1
-"Álvaro Negredo","Rodrigo De Paul",1
-"Álvaro Negredo","Pablo Piatti",6
-"Álvaro Negredo","Javi Fuego",6
-"Álvaro Negredo","Jaume Doménech",1
-"Álvaro Negredo","João Cancelo",6
-"Álvaro Negredo","André Gomes",2
-"Pablo Piatti","Shkodran Mustafi",1
-"Pablo Piatti","Sofiane Feghouli",2
-"Pablo Piatti","Paco Alcácer",1
-"Pablo Piatti","Daniel Parejo",18
-"Pablo Piatti","José Gayà",25
-"Pablo Piatti","Enzo Pérez",13
-"Pablo Piatti","Rodrigo",4
-"Pablo Piatti","Álvaro Negredo",5
-"Pablo Piatti","Javi Fuego",6
-"Pablo Piatti","Aymen Abdennour",2
-"Pablo Piatti","André Gomes",5
-"Pablo Piatti","Lucas Orbán",7
-"Pablo Piatti","Santos",1
-"Pablo Piatti","Santi Mina",1
-"Pablo Piatti","Danilo",1
-"Javi Fuego","Mathew Ryan",1
-"Javi Fuego","Rúben Vezo",4
-"Javi Fuego","Shkodran Mustafi",29
-"Javi Fuego","Sofiane Feghouli",12
-"Javi Fuego","Paco Alcácer",3
-"Javi Fuego","Daniel Parejo",42
-"Javi Fuego","José Gayà",27
-"Javi Fuego","Enzo Pérez",21
-"Javi Fuego","Rodrigo",3
-"Javi Fuego","Antonio Barragán",6
-"Javi Fuego","Rodrigo De Paul",4
-"Javi Fuego","Álvaro Negredo",6
-"Javi Fuego","Pablo Piatti",9
-"Javi Fuego","Jaume Doménech",3
-"Javi Fuego","João Cancelo",21
-"Javi Fuego","Aymen Abdennour",8
-"Javi Fuego","André Gomes",9
-"Javi Fuego","Lucas Orbán",3
-"Javi Fuego","Santos",7
-"Javi Fuego","Santi Mina",9
-"Javi Fuego","Danilo",2
-"Danilo Barbosa","Daniel Parejo",1
-"Danilo Barbosa","Pablo Piatti",2
-"Jaume Doménech","João Cancelo",7
-"Jaume Doménech","Shkodran Mustafi",15
-"Jaume Doménech","Álvaro Negredo",1
-"Jaume Doménech","Sofiane Feghouli",2
-"Jaume Doménech","Daniel Parejo",4
-"Jaume Doménech","Pablo Piatti",1
-"Jaume Doménech","José Gayà",5
-"Jaume Doménech","Enzo Pérez",5
-"Jaume Doménech","Javi Fuego",7
-"Jaume Doménech","Aymen Abdennour",19
-"Jaume Doménech","Paco Alcácer",2
-"Jaume Doménech","Rodrigo",3
-"Jaume Doménech","André Gomes",7
-"Jaume Doménech","Santi Mina",4
-"Jaume Doménech","Danilo",3
-"Jaume Doménech","Antonio Barragán",3
-"Jaume Doménech","Rúben Vezo",1
-"João Cancelo","Jaume Doménech",3
-"João Cancelo","Shkodran Mustafi",22
-"João Cancelo","Álvaro Negredo",3
-"João Cancelo","Sofiane Feghouli",48
-"João Cancelo","Daniel Parejo",17
-"João Cancelo","Pablo Piatti",3
-"João Cancelo","José Gayà",3
-"João Cancelo","Enzo Pérez",17
-"João Cancelo","Javi Fuego",13
-"João Cancelo","Aymen Abdennour",5
-"João Cancelo","Paco Alcácer",4
-"João Cancelo","Rodrigo",6
-"João Cancelo","André Gomes",10
-"João Cancelo","Santos",1
-"João Cancelo","Santi Mina",7
-"João Cancelo","Antonio Barragán",3
-"João Cancelo","Rúben Vezo",8
-"João Cancelo","Rodrigo De Paul",1
-"Aymen Abdennour","Jaume Doménech",9
-"Aymen Abdennour","João Cancelo",4
-"Aymen Abdennour","Shkodran Mustafi",21
-"Aymen Abdennour","Sofiane Feghouli",3
-"Aymen Abdennour","Daniel Parejo",42
-"Aymen Abdennour","Pablo Piatti",12
-"Aymen Abdennour","José Gayà",28
-"Aymen Abdennour","Enzo Pérez",17
-"Aymen Abdennour","Javi Fuego",15
-"Aymen Abdennour","Paco Alcácer",2
-"Aymen Abdennour","André Gomes",9
-"Aymen Abdennour","Lucas Orbán",5
-"Aymen Abdennour","Rúben Vezo",4
-"Aymen Abdennour","Rafael Mir",1
-"Aymen Abdennour","Danilo",2
-"Aymen Abdennour","Rodrigo De Paul",2
-"Aymen Abdennour","Santi Mina",1
-"André Gomes","Jaume Doménech",2
-"André Gomes","João Cancelo",4
-"André Gomes","Shkodran Mustafi",4
-"André Gomes","Álvaro Negredo",2
-"André Gomes","Sofiane Feghouli",9
-"André Gomes","Daniel Parejo",16
-"André Gomes","Pablo Piatti",3
-"André Gomes","José Gayà",34
-"André Gomes","Enzo Pérez",17
-"André Gomes","Javi Fuego",4
-"André Gomes","Aymen Abdennour",6
-"André Gomes","Paco Alcácer",14
-"André Gomes","Rodrigo",2
-"André Gomes","Santos",3
-"André Gomes","Santi Mina",10
-"André Gomes","Antonio Barragán",1
-"André Gomes","Rúben Vezo",4
-"André Gomes","Rafael Mir",7
-"André Gomes","Rodrigo De Paul",3
-"Lucas Orbán","Álvaro Negredo",1
-"Lucas Orbán","Daniel Parejo",3
-"Lucas Orbán","Pablo Piatti",6
-"Lucas Orbán","Enzo Pérez",1
-"Lucas Orbán","Javi Fuego",2
-"Lucas Orbán","Aymen Abdennour",4
-"Lucas Orbán","Aderlan Santos",1
-"Lucas Orbán","Rodrigo",1
-"Aderlan Santos","Jaume Doménech",1
-"Aderlan Santos","Enzo Pérez",1
-"Aderlan Santos","Rodrigo",1
-"Santos","Jaume Doménech",9
-"Santos","Shkodran Mustafi",11
-"Santos","Paco Alcácer",3
-"Santos","Daniel Parejo",1
-"Santos","José Gayà",6
-"Santos","Javi Fuego",4
-"Santos","André Gomes",3
-"Santos","Santi Mina",2
-"Santos","Rodrigo",1
-"Santos","Enzo Pérez",2
-"Santos","Antonio Barragán",1
-"Santi Mina","João Cancelo",8
-"Santi Mina","Shkodran Mustafi",3
-"Santi Mina","Sofiane Feghouli",3
-"Santi Mina","Paco Alcácer",4
-"Santi Mina","Daniel Parejo",14
-"Santi Mina","José Gayà",12
-"Santi Mina","Javi Fuego",6
-"Santi Mina","André Gomes",12
-"Santi Mina","Danilo",2
-"Santi Mina","Enzo Pérez",2
-"Santi Mina","Rodrigo De Paul",2
-"Danilo","João Cancelo",4
-"Danilo","Shkodran Mustafi",1
-"Danilo","Sofiane Feghouli",2
-"Danilo","Paco Alcácer",2
-"Danilo","Daniel Parejo",2
-"Danilo","José Gayà",1
-"Danilo","André Gomes",2
-"Danilo","Santi Mina",1
-"Danilo","Pablo Piatti",1
-"Danilo","Rodrigo De Paul",3
-"Rafael Mir","Rúben Vezo",1
-"Rafael Mir","Sofiane Feghouli",1
-"Rafael Mir","Daniel Parejo",3
-"Rafael Mir","José Gayà",4
-"Rafael Mir","André Gomes",4
-"Rafael Mir","Aymen Abdennour",1
+Source,Target,Weight
+"25","3",5
+"25","5",5
+"25","8",6
+"25","19",2
+"25","7",10
+"25","11",1
+"3","25",4
+"3","5",6
+"3","8",9
+"3","9",1
+"3","10",13
+"3","14",12
+"3","15",11
+"3","17",4
+"3","19",2
+"3","20",1
+"3","7",1
+"3","11",3
+"3","18",1
+"3","24",3
+"3","2",7
+"3","21",1
+"3","23",9
+"3","37",2
+"3","22",1
+"5","25",5
+"5","3",4
+"5","8",18
+"5","9",4
+"5","10",50
+"5","14",6
+"5","15",18
+"5","17",5
+"5","19",12
+"5","20",3
+"5","7",3
+"5","11",2
+"5","18",25
+"5","24",9
+"5","2",30
+"5","23",25
+"5","21",3
+"5","4",4
+"5","22",6
+"5","12",1
+"8","3",4
+"8","5",7
+"8","9",14
+"8","10",34
+"8","14",2
+"8","15",18
+"8","17",5
+"8","19",16
+"8","20",2
+"8","7",5
+"8","11",7
+"8","18",9
+"8","2",45
+"8","23",1
+"8","21",12
+"8","6",2
+"8","22",3
+"8","12",2
+"9","3",1
+"9","8",10
+"9","10",14
+"9","14",2
+"9","15",5
+"9","17",1
+"9","19",3
+"9","20",3
+"9","7",2
+"9","11",1
+"9","18",2
+"9","12",1
+"9","24",1
+"9","2",1
+"9","23",1
+"9","21",13
+"9","4",2
+"9","22",5
+"9","12",2
+"9","37",1
+"10","3",5
+"10","5",20
+"10","8",50
+"10","9",25
+"10","14",33
+"10","15",55
+"10","17",13
+"10","19",18
+"10","20",13
+"10","7",21
+"10","11",15
+"10","18",38
+"10","24",2
+"10","2",37
+"10","23",6
+"10","21",32
+"10","6",1
+"10","4",4
+"10","22",20
+"10","12",6
+"10","37",4
+"14","25",2
+"14","3",11
+"14","5",5
+"14","9",8
+"14","10",22
+"14","15",25
+"14","17",7
+"14","19",1
+"14","20",11
+"14","7",3
+"14","11",23
+"14","18",13
+"14","24",4
+"14","2",2
+"14","23",24
+"14","21",26
+"14","4",12
+"14","22",24
+"14","12",2
+"14","37",5
+"15","3",20
+"15","5",25
+"15","8",17
+"15","9",6
+"15","10",62
+"15","14",33
+"15","17",5
+"15","19",10
+"15","20",9
+"15","7",3
+"15","11",19
+"15","18",19
+"15","24",2
+"15","2",18
+"15","23",15
+"15","21",13
+"15","6",3
+"15","4",1
+"15","4",2
+"15","22",6
+"15","37",1
+"17","3",1
+"17","5",2
+"17","8",5
+"17","9",1
+"17","10",8
+"17","14",7
+"17","15",4
+"17","19",3
+"17","20",3
+"17","7",2
+"17","11",1
+"17","18",2
+"17","2",7
+"17","21",3
+"19","25",1
+"19","5",10
+"19","8",26
+"19","10",14
+"19","15",8
+"19","17",1
+"19","20",1
+"19","7",1
+"19","11",3
+"19","18",8
+"19","24",1
+"19","4",1
+"19","2",4
+"19","21",1
+"20","3",1
+"20","5",2
+"20","8",7
+"20","10",9
+"20","14",18
+"20","15",6
+"20","17",4
+"20","19",1
+"20","18",2
+"20","2",2
+"20","23",2
+"20","12",1
+"20","22",3
+"7","5",1
+"7","8",7
+"7","9",2
+"7","10",15
+"7","14",2
+"7","15",5
+"7","17",4
+"7","19",1
+"7","20",1
+"7","11",6
+"7","18",6
+"7","24",1
+"7","2",6
+"7","21",2
+"11","5",1
+"11","8",2
+"11","9",1
+"11","10",18
+"11","14",25
+"11","15",13
+"11","17",4
+"11","7",5
+"11","18",6
+"11","23",2
+"11","21",5
+"11","6",7
+"11","4",1
+"11","22",1
+"11","12",1
+"18","25",1
+"18","3",4
+"18","5",29
+"18","8",12
+"18","9",3
+"18","10",42
+"18","14",27
+"18","15",21
+"18","17",3
+"18","19",6
+"18","20",4
+"18","7",6
+"18","11",9
+"18","24",3
+"18","2",21
+"18","23",8
+"18","21",9
+"18","6",3
+"18","4",7
+"18","22",9
+"18","12",2
+"12","10",1
+"12","11",2
+"24","2",7
+"24","5",15
+"24","7",1
+"24","8",2
+"24","10",4
+"24","11",1
+"24","14",5
+"24","15",5
+"24","18",7
+"24","23",19
+"24","9",2
+"24","17",3
+"24","21",7
+"24","22",4
+"24","12",3
+"24","19",3
+"24","3",1
+"2","24",3
+"2","5",22
+"2","7",3
+"2","8",48
+"2","10",17
+"2","11",3
+"2","14",3
+"2","15",17
+"2","18",13
+"2","23",5
+"2","9",4
+"2","17",6
+"2","21",10
+"2","4",1
+"2","22",7
+"2","19",3
+"2","3",8
+"2","20",1
+"23","24",9
+"23","2",4
+"23","5",21
+"23","8",3
+"23","10",42
+"23","11",12
+"23","14",28
+"23","15",17
+"23","18",15
+"23","9",2
+"23","21",9
+"23","6",5
+"23","3",4
+"23","37",1
+"23","12",2
+"23","20",2
+"23","22",1
+"21","24",2
+"21","2",4
+"21","5",4
+"21","7",2
+"21","8",9
+"21","10",16
+"21","11",3
+"21","14",34
+"21","15",17
+"21","18",4
+"21","23",6
+"21","9",14
+"21","17",2
+"21","4",3
+"21","22",10
+"21","19",1
+"21","3",4
+"21","37",7
+"21","20",3
+"6","7",1
+"6","10",3
+"6","11",6
+"6","15",1
+"6","18",2
+"6","23",4
+"6","4",1
+"6","17",1
+"4","24",1
+"4","15",1
+"4","17",1
+"4","24",9
+"4","5",11
+"4","9",3
+"4","10",1
+"4","14",6
+"4","18",4
+"4","21",3
+"4","22",2
+"4","17",1
+"4","15",2
+"4","19",1
+"22","2",8
+"22","5",3
+"22","8",3
+"22","9",4
+"22","10",14
+"22","14",12
+"22","18",6
+"22","21",12
+"22","12",2
+"22","15",2
+"22","20",2
+"12","2",4
+"12","5",1
+"12","8",2
+"12","9",2
+"12","10",2
+"12","14",1
+"12","21",2
+"12","22",1
+"12","11",1
+"12","20",3
+"37","3",1
+"37","8",1
+"37","10",3
+"37","14",4
+"37","21",4
+"37","23",1

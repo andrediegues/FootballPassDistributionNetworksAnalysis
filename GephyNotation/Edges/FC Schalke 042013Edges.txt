@@ -1,273 +1,274 @@
-"Lars Unnerstall","Benedikt Höwedes",8
-"Lars Unnerstall","Lewis Holtby",2
-"Lars Unnerstall","Jermaine Jones",3
-"Lars Unnerstall","Kyriakos Papadopoulos",13
-"Lars Unnerstall","Jefferson Farfán",4
-"Lars Unnerstall","Christian Fuchs",11
-"Lars Unnerstall","Klaas-Jan Huntelaar",6
-"Lars Unnerstall","Tranquillo Barnetta",2
-"Lars Unnerstall","Joel Matip",16
-"Lars Unnerstall","Roman Neustädter",7
-"Lars Unnerstall","Ibrahim Afellay",1
-"Lars Unnerstall","Marco Höger",1
-"Lars Unnerstall","Julian Draxler",1
-"Benedikt Höwedes","Lars Unnerstall",17
-"Benedikt Höwedes","Lewis Holtby",23
-"Benedikt Höwedes","Jermaine Jones",25
-"Benedikt Höwedes","Kyriakos Papadopoulos",23
-"Benedikt Höwedes","Jefferson Farfán",35
-"Benedikt Höwedes","Christian Fuchs",17
-"Benedikt Höwedes","Klaas-Jan Huntelaar",7
-"Benedikt Höwedes","Tranquillo Barnetta",7
-"Benedikt Höwedes","Joel Matip",12
-"Benedikt Höwedes","Roman Neustädter",25
-"Benedikt Höwedes","Ibrahim Afellay",5
-"Benedikt Höwedes","Marco Höger",6
-"Benedikt Höwedes","Julian Draxler",10
-"Benedikt Höwedes","Teemu Pukki",2
-"Benedikt Höwedes","Atsuto Uchida",15
-"Benedikt Höwedes","Christoph Metzelder",1
-"Lewis Holtby","Benedikt Höwedes",11
-"Lewis Holtby","Jermaine Jones",11
-"Lewis Holtby","Kyriakos Papadopoulos",6
-"Lewis Holtby","Jefferson Farfán",16
-"Lewis Holtby","Christian Fuchs",18
-"Lewis Holtby","Klaas-Jan Huntelaar",20
-"Lewis Holtby","Tranquillo Barnetta",8
-"Lewis Holtby","Joel Matip",6
-"Lewis Holtby","Roman Neustädter",30
-"Lewis Holtby","Ibrahim Afellay",15
-"Lewis Holtby","Marco Höger",6
-"Lewis Holtby","Julian Draxler",16
-"Lewis Holtby","Teemu Pukki",5
-"Lewis Holtby","Atsuto Uchida",5
-"Lewis Holtby","Ciprian Marica",6
-"Lewis Holtby","Christoph Metzelder",2
-"Lewis Holtby","Sead Kolasinac",4
-"Lewis Holtby","Chinedu Obasi",1
-"Jermaine Jones","Lars Unnerstall",6
-"Jermaine Jones","Benedikt Höwedes",18
-"Jermaine Jones","Lewis Holtby",15
-"Jermaine Jones","Kyriakos Papadopoulos",5
-"Jermaine Jones","Jefferson Farfán",36
-"Jermaine Jones","Christian Fuchs",12
-"Jermaine Jones","Klaas-Jan Huntelaar",9
-"Jermaine Jones","Tranquillo Barnetta",1
-"Jermaine Jones","Joel Matip",6
-"Jermaine Jones","Roman Neustädter",11
-"Jermaine Jones","Ibrahim Afellay",4
-"Jermaine Jones","Julian Draxler",1
-"Jermaine Jones","Atsuto Uchida",8
-"Jermaine Jones","Ciprian Marica",2
-"Jermaine Jones","Teemu Pukki",2
-"Kyriakos Papadopoulos","Lars Unnerstall",11
-"Kyriakos Papadopoulos","Benedikt Höwedes",29
-"Kyriakos Papadopoulos","Lewis Holtby",8
-"Kyriakos Papadopoulos","Jermaine Jones",7
-"Kyriakos Papadopoulos","Jefferson Farfán",14
-"Kyriakos Papadopoulos","Christian Fuchs",5
-"Kyriakos Papadopoulos","Klaas-Jan Huntelaar",7
-"Kyriakos Papadopoulos","Tranquillo Barnetta",1
-"Kyriakos Papadopoulos","Joel Matip",24
-"Kyriakos Papadopoulos","Roman Neustädter",25
-"Kyriakos Papadopoulos","Ibrahim Afellay",1
-"Kyriakos Papadopoulos","Marco Höger",17
-"Kyriakos Papadopoulos","Julian Draxler",5
-"Kyriakos Papadopoulos","Teemu Pukki",1
-"Kyriakos Papadopoulos","Atsuto Uchida",7
-"Jefferson Farfán","Lars Unnerstall",1
-"Jefferson Farfán","Benedikt Höwedes",37
-"Jefferson Farfán","Lewis Holtby",15
-"Jefferson Farfán","Jermaine Jones",27
-"Jefferson Farfán","Kyriakos Papadopoulos",12
-"Jefferson Farfán","Klaas-Jan Huntelaar",11
-"Jefferson Farfán","Tranquillo Barnetta",4
-"Jefferson Farfán","Joel Matip",4
-"Jefferson Farfán","Roman Neustädter",15
-"Jefferson Farfán","Ibrahim Afellay",4
-"Jefferson Farfán","Marco Höger",12
-"Jefferson Farfán","Julian Draxler",2
-"Jefferson Farfán","Teemu Pukki",3
-"Jefferson Farfán","Atsuto Uchida",16
-"Jefferson Farfán","Ciprian Marica",1
-"Christian Fuchs","Lars Unnerstall",10
-"Christian Fuchs","Benedikt Höwedes",8
-"Christian Fuchs","Lewis Holtby",21
-"Christian Fuchs","Jermaine Jones",6
-"Christian Fuchs","Kyriakos Papadopoulos",7
-"Christian Fuchs","Jefferson Farfán",2
-"Christian Fuchs","Klaas-Jan Huntelaar",21
-"Christian Fuchs","Tranquillo Barnetta",5
-"Christian Fuchs","Joel Matip",17
-"Christian Fuchs","Roman Neustädter",31
-"Christian Fuchs","Ibrahim Afellay",47
-"Christian Fuchs","Marco Höger",3
-"Christian Fuchs","Julian Draxler",13
-"Christian Fuchs","Teemu Pukki",5
-"Christian Fuchs","Atsuto Uchida",3
-"Klaas-Jan Huntelaar","Lars Unnerstall",1
-"Klaas-Jan Huntelaar","Benedikt Höwedes",8
-"Klaas-Jan Huntelaar","Lewis Holtby",14
-"Klaas-Jan Huntelaar","Jermaine Jones",9
-"Klaas-Jan Huntelaar","Kyriakos Papadopoulos",3
-"Klaas-Jan Huntelaar","Jefferson Farfán",12
-"Klaas-Jan Huntelaar","Christian Fuchs",14
-"Klaas-Jan Huntelaar","Tranquillo Barnetta",3
-"Klaas-Jan Huntelaar","Joel Matip",2
-"Klaas-Jan Huntelaar","Roman Neustädter",17
-"Klaas-Jan Huntelaar","Ibrahim Afellay",9
-"Klaas-Jan Huntelaar","Marco Höger",3
-"Klaas-Jan Huntelaar","Julian Draxler",6
-"Klaas-Jan Huntelaar","Teemu Pukki",3
-"Klaas-Jan Huntelaar","Atsuto Uchida",2
-"Tranquillo Barnetta","Lars Unnerstall",1
-"Tranquillo Barnetta","Benedikt Höwedes",1
-"Tranquillo Barnetta","Lewis Holtby",8
-"Tranquillo Barnetta","Jermaine Jones",5
-"Tranquillo Barnetta","Jefferson Farfán",3
-"Tranquillo Barnetta","Christian Fuchs",2
-"Tranquillo Barnetta","Klaas-Jan Huntelaar",3
-"Tranquillo Barnetta","Joel Matip",1
-"Tranquillo Barnetta","Roman Neustädter",9
-"Tranquillo Barnetta","Ibrahim Afellay",5
-"Tranquillo Barnetta","Marco Höger",2
-"Tranquillo Barnetta","Julian Draxler",2
-"Tranquillo Barnetta","Teemu Pukki",5
-"Tranquillo Barnetta","Atsuto Uchida",5
-"Tranquillo Barnetta","Ciprian Marica",1
-"Tranquillo Barnetta","Sead Kolasinac",4
-"Joel Matip","Lars Unnerstall",14
-"Joel Matip","Benedikt Höwedes",19
-"Joel Matip","Lewis Holtby",7
-"Joel Matip","Jermaine Jones",7
-"Joel Matip","Kyriakos Papadopoulos",20
-"Joel Matip","Jefferson Farfán",4
-"Joel Matip","Christian Fuchs",37
-"Joel Matip","Klaas-Jan Huntelaar",9
-"Joel Matip","Tranquillo Barnetta",1
-"Joel Matip","Roman Neustädter",20
-"Joel Matip","Ibrahim Afellay",11
-"Joel Matip","Marco Höger",1
-"Joel Matip","Julian Draxler",1
-"Roman Neustädter","Lars Unnerstall",8
-"Roman Neustädter","Benedikt Höwedes",33
-"Roman Neustädter","Lewis Holtby",26
-"Roman Neustädter","Jermaine Jones",20
-"Roman Neustädter","Kyriakos Papadopoulos",24
-"Roman Neustädter","Jefferson Farfán",31
-"Roman Neustädter","Christian Fuchs",26
-"Roman Neustädter","Klaas-Jan Huntelaar",16
-"Roman Neustädter","Tranquillo Barnetta",9
-"Roman Neustädter","Joel Matip",24
-"Roman Neustädter","Ibrahim Afellay",9
-"Roman Neustädter","Marco Höger",13
-"Roman Neustädter","Julian Draxler",21
-"Roman Neustädter","Teemu Pukki",10
-"Roman Neustädter","Atsuto Uchida",18
-"Roman Neustädter","Ciprian Marica",1
-"Roman Neustädter","Christoph Metzelder",3
-"Roman Neustädter","Sead Kolasinac",2
-"Ibrahim Afellay","Lars Unnerstall",2
-"Ibrahim Afellay","Benedikt Höwedes",15
-"Ibrahim Afellay","Lewis Holtby",16
-"Ibrahim Afellay","Jermaine Jones",7
-"Ibrahim Afellay","Kyriakos Papadopoulos",2
-"Ibrahim Afellay","Jefferson Farfán",11
-"Ibrahim Afellay","Christian Fuchs",22
-"Ibrahim Afellay","Klaas-Jan Huntelaar",6
-"Ibrahim Afellay","Tranquillo Barnetta",4
-"Ibrahim Afellay","Joel Matip",6
-"Ibrahim Afellay","Roman Neustädter",18
-"Ibrahim Afellay","Marco Höger",6
-"Ibrahim Afellay","Teemu Pukki",1
-"Ibrahim Afellay","Atsuto Uchida",2
-"Marco Höger","Lars Unnerstall",1
-"Marco Höger","Benedikt Höwedes",2
-"Marco Höger","Lewis Holtby",13
-"Marco Höger","Kyriakos Papadopoulos",9
-"Marco Höger","Jefferson Farfán",12
-"Marco Höger","Christian Fuchs",4
-"Marco Höger","Klaas-Jan Huntelaar",5
-"Marco Höger","Tranquillo Barnetta",2
-"Marco Höger","Joel Matip",1
-"Marco Höger","Roman Neustädter",12
-"Marco Höger","Ibrahim Afellay",1
-"Marco Höger","Teemu Pukki",4
-"Marco Höger","Atsuto Uchida",22
-"Julian Draxler","Benedikt Höwedes",3
-"Julian Draxler","Lewis Holtby",11
-"Julian Draxler","Jermaine Jones",3
-"Julian Draxler","Kyriakos Papadopoulos",5
-"Julian Draxler","Jefferson Farfán",2
-"Julian Draxler","Christian Fuchs",10
-"Julian Draxler","Klaas-Jan Huntelaar",9
-"Julian Draxler","Tranquillo Barnetta",4
-"Julian Draxler","Joel Matip",2
-"Julian Draxler","Roman Neustädter",10
-"Julian Draxler","Marco Höger",1
-"Julian Draxler","Teemu Pukki",2
-"Julian Draxler","Atsuto Uchida",1
-"Julian Draxler","Ciprian Marica",6
-"Julian Draxler","Timo Hildebrand",1
-"Julian Draxler","Christoph Metzelder",3
-"Julian Draxler","Sead Kolasinac",3
-"Julian Draxler","Chinedu Obasi",1
-"Teemu Pukki","Lewis Holtby",4
-"Teemu Pukki","Marco Höger",2
-"Teemu Pukki","Kyriakos Papadopoulos",2
-"Teemu Pukki","Atsuto Uchida",1
-"Teemu Pukki","Christian Fuchs",4
-"Teemu Pukki","Klaas-Jan Huntelaar",2
-"Teemu Pukki","Julian Draxler",2
-"Teemu Pukki","Roman Neustädter",4
-"Teemu Pukki","Tranquillo Barnetta",3
-"Teemu Pukki","Jermaine Jones",4
-"Teemu Pukki","Ciprian Marica",1
-"Teemu Pukki","Christoph Metzelder",1
-"Atsuto Uchida","Lars Unnerstall",3
-"Atsuto Uchida","Benedikt Höwedes",13
-"Atsuto Uchida","Lewis Holtby",3
-"Atsuto Uchida","Marco Höger",14
-"Atsuto Uchida","Kyriakos Papadopoulos",9
-"Atsuto Uchida","Teemu Pukki",4
-"Atsuto Uchida","Christian Fuchs",1
-"Atsuto Uchida","Klaas-Jan Huntelaar",3
-"Atsuto Uchida","Julian Draxler",3
-"Atsuto Uchida","Roman Neustädter",15
-"Atsuto Uchida","Ibrahim Afellay",4
-"Atsuto Uchida","Jefferson Farfán",20
-"Atsuto Uchida","Tranquillo Barnetta",5
-"Atsuto Uchida","Joel Matip",4
-"Atsuto Uchida","Ciprian Marica",2
-"Atsuto Uchida","Jermaine Jones",4
-"Ciprian Marica","Lewis Holtby",2
-"Ciprian Marica","Roman Neustädter",1
-"Ciprian Marica","Tranquillo Barnetta",3
-"Ciprian Marica","Julian Draxler",6
-"Ciprian Marica","Teemu Pukki",3
-"Ciprian Marica","Sead Kolasinac",2
-"Timo Hildebrand","Benedikt Höwedes",1
-"Timo Hildebrand","Ciprian Marica",2
-"Timo Hildebrand","Lewis Holtby",5
-"Timo Hildebrand","Teemu Pukki",1
-"Timo Hildebrand","Christoph Metzelder",2
-"Timo Hildebrand","Atsuto Uchida",1
-"Timo Hildebrand","Roman Neustädter",2
-"Timo Hildebrand","Sead Kolasinac",4
-"Christoph Metzelder","Timo Hildebrand",1
-"Christoph Metzelder","Benedikt Höwedes",4
-"Christoph Metzelder","Ciprian Marica",1
-"Christoph Metzelder","Lewis Holtby",6
-"Christoph Metzelder","Teemu Pukki",2
-"Christoph Metzelder","Tranquillo Barnetta",2
-"Christoph Metzelder","Julian Draxler",1
-"Christoph Metzelder","Roman Neustädter",3
-"Christoph Metzelder","Sead Kolasinac",3
-"Sead Kolasinac","Timo Hildebrand",1
-"Sead Kolasinac","Lewis Holtby",6
-"Sead Kolasinac","Teemu Pukki",1
-"Sead Kolasinac","Christoph Metzelder",4
-"Sead Kolasinac","Tranquillo Barnetta",4
-"Sead Kolasinac","Julian Draxler",4
-"Sead Kolasinac","Roman Neustädter",5
-"Sead Kolasinac","Klaas-Jan Huntelaar",1
+Source,Target,Weight
+"36","4",8
+"36","10",2
+"36","13",3
+"36","14",13
+"36","17",4
+"36","23",11
+"36","25",6
+"36","27",2
+"36","32",16
+"36","33",7
+"36","11",1
+"36","12",1
+"36","31",1
+"4","36",17
+"4","10",23
+"4","13",25
+"4","14",23
+"4","17",35
+"4","23",17
+"4","25",7
+"4","27",7
+"4","32",12
+"4","33",25
+"4","11",5
+"4","12",6
+"4","31",10
+"4","20",2
+"4","22",15
+"4","21",1
+"10","4",11
+"10","13",11
+"10","14",6
+"10","17",16
+"10","23",18
+"10","25",20
+"10","27",8
+"10","32",6
+"10","33",30
+"10","11",15
+"10","12",6
+"10","31",16
+"10","20",5
+"10","22",5
+"10","8",6
+"10","21",2
+"10","35",4
+"10","19",1
+"13","36",6
+"13","4",18
+"13","10",15
+"13","14",5
+"13","17",36
+"13","23",12
+"13","25",9
+"13","27",1
+"13","32",6
+"13","33",11
+"13","11",4
+"13","31",1
+"13","22",8
+"13","8",2
+"13","20",2
+"14","36",11
+"14","4",29
+"14","10",8
+"14","13",7
+"14","17",14
+"14","23",5
+"14","25",7
+"14","27",1
+"14","32",24
+"14","33",25
+"14","11",1
+"14","12",17
+"14","31",5
+"14","20",1
+"14","22",7
+"17","36",1
+"17","4",37
+"17","10",15
+"17","13",27
+"17","14",12
+"17","25",11
+"17","27",4
+"17","32",4
+"17","33",15
+"17","11",4
+"17","12",12
+"17","31",2
+"17","20",3
+"17","22",16
+"17","8",1
+"23","36",10
+"23","4",8
+"23","10",21
+"23","13",6
+"23","14",7
+"23","17",2
+"23","25",21
+"23","27",5
+"23","32",17
+"23","33",31
+"23","11",47
+"23","12",3
+"23","31",13
+"23","20",5
+"23","22",3
+"25","36",1
+"25","4",8
+"25","10",14
+"25","13",9
+"25","14",3
+"25","17",12
+"25","23",14
+"25","27",3
+"25","32",2
+"25","33",17
+"25","11",9
+"25","12",3
+"25","31",6
+"25","20",3
+"25","22",2
+"27","36",1
+"27","4",1
+"27","10",8
+"27","13",5
+"27","17",3
+"27","23",2
+"27","25",3
+"27","32",1
+"27","33",9
+"27","11",5
+"27","12",2
+"27","31",2
+"27","20",5
+"27","22",5
+"27","8",1
+"27","35",4
+"32","36",14
+"32","4",19
+"32","10",7
+"32","13",7
+"32","14",20
+"32","17",4
+"32","23",37
+"32","25",9
+"32","27",1
+"32","33",20
+"32","11",11
+"32","12",1
+"32","31",1
+"33","36",8
+"33","4",33
+"33","10",26
+"33","13",20
+"33","14",24
+"33","17",31
+"33","23",26
+"33","25",16
+"33","27",9
+"33","32",24
+"33","11",9
+"33","12",13
+"33","31",21
+"33","20",10
+"33","22",18
+"33","8",1
+"33","21",3
+"33","35",2
+"11","36",2
+"11","4",15
+"11","10",16
+"11","13",7
+"11","14",2
+"11","17",11
+"11","23",22
+"11","25",6
+"11","27",4
+"11","32",6
+"11","33",18
+"11","12",6
+"11","20",1
+"11","22",2
+"12","36",1
+"12","4",2
+"12","10",13
+"12","14",9
+"12","17",12
+"12","23",4
+"12","25",5
+"12","27",2
+"12","32",1
+"12","33",12
+"12","11",1
+"12","20",4
+"12","22",22
+"31","4",3
+"31","10",11
+"31","13",3
+"31","14",5
+"31","17",2
+"31","23",10
+"31","25",9
+"31","27",4
+"31","32",2
+"31","33",10
+"31","12",1
+"31","20",2
+"31","22",1
+"31","8",6
+"31","34",1
+"31","21",3
+"31","35",3
+"31","19",1
+"20","10",4
+"20","12",2
+"20","14",2
+"20","22",1
+"20","23",4
+"20","25",2
+"20","31",2
+"20","33",4
+"20","27",3
+"20","13",4
+"20","8",1
+"20","21",1
+"22","36",3
+"22","4",13
+"22","10",3
+"22","12",14
+"22","14",9
+"22","20",4
+"22","23",1
+"22","25",3
+"22","31",3
+"22","33",15
+"22","11",4
+"22","17",20
+"22","27",5
+"22","32",4
+"22","8",2
+"22","13",4
+"8","10",2
+"8","33",1
+"8","27",3
+"8","31",6
+"8","20",3
+"8","35",2
+"34","4",1
+"34","8",2
+"34","10",5
+"34","20",1
+"34","21",2
+"34","22",1
+"34","33",2
+"34","35",4
+"21","34",1
+"21","4",4
+"21","8",1
+"21","10",6
+"21","20",2
+"21","27",2
+"21","31",1
+"21","33",3
+"21","35",3
+"35","34",1
+"35","10",6
+"35","20",1
+"35","21",4
+"35","27",4
+"35","31",4
+"35","33",5
+"35","25",1

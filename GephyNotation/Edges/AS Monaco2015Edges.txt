@@ -1,307 +1,308 @@
-"Danijel Subašić","Fabinho",10
-"Danijel Subašić","Layvin Kurzawa",22
-"Danijel Subašić","Ricardo Carvalho",7
-"Danijel Subašić","João Moutinho",4
-"Danijel Subašić","Dimitar Berbatov",1
-"Danijel Subašić","Geoffrey Kondogbia",1
-"Danijel Subašić","Andrea Raggi",16
-"Danijel Subašić","Jérémy Toulalan",2
-"Danijel Subašić","Nabil Dirar",1
-"Danijel Subašić","Wallace",1
-"Danijel Subašić","Anthony Martial",4
-"Danijel Subašić","Ferreira-Carrasco",5
-"Danijel Subašić","Lacina Traoré",1
-"Danijel Subašić","Aymen Abdennour",7
-"Fabinho","Danijel Subašić",8
-"Fabinho","Layvin Kurzawa",3
-"Fabinho","Ricardo Carvalho",7
-"Fabinho","João Moutinho",47
-"Fabinho","Dimitar Berbatov",9
-"Fabinho","Lucas Ocampos",1
-"Fabinho","Yannick Ferreira-Carrasco",8
-"Fabinho","Geoffrey Kondogbia",21
-"Fabinho","Andrea Raggi",16
-"Fabinho","Jérémy Toulalan",15
-"Fabinho","Nabil Dirar",41
-"Fabinho","Wallace",4
-"Fabinho","Bernardo Silva",21
-"Fabinho","Anthony Martial",15
-"Fabinho","Ferreira-Carrasco",15
-"Fabinho","Lacina Traoré",1
-"Fabinho","Aymen Abdennour",7
-"Fabinho","Tiémoué Bakayoko",3
-"Fabinho","Elderson",4
-"Fabinho","Almamy Tourè",1
-"Fabinho","Matheus Carvalho",1
-"Layvin Kurzawa","Danijel Subašić",7
-"Layvin Kurzawa","Fabinho",6
-"Layvin Kurzawa","Ricardo Carvalho",17
-"Layvin Kurzawa","João Moutinho",7
-"Layvin Kurzawa","Dimitar Berbatov",10
-"Layvin Kurzawa","Lucas Ocampos",15
-"Layvin Kurzawa","Yannick Ferreira-Carrasco",6
-"Layvin Kurzawa","Geoffrey Kondogbia",45
-"Layvin Kurzawa","Andrea Raggi",2
-"Layvin Kurzawa","Jérémy Toulalan",19
-"Layvin Kurzawa","Wallace",1
-"Layvin Kurzawa","Bernardo Silva",4
-"Layvin Kurzawa","Anthony Martial",6
-"Layvin Kurzawa","Ferreira-Carrasco",15
-"Layvin Kurzawa","Aymen Abdennour",20
-"Ricardo Carvalho","Danijel Subašić",10
-"Ricardo Carvalho","Fabinho",10
-"Ricardo Carvalho","Layvin Kurzawa",12
-"Ricardo Carvalho","João Moutinho",9
-"Ricardo Carvalho","Dimitar Berbatov",1
-"Ricardo Carvalho","Lucas Ocampos",5
-"Ricardo Carvalho","Yannick Ferreira-Carrasco",1
-"Ricardo Carvalho","Geoffrey Kondogbia",15
-"Ricardo Carvalho","Andrea Raggi",29
-"Ricardo Carvalho","Jérémy Toulalan",15
-"Ricardo Carvalho","Nabil Dirar",4
-"Ricardo Carvalho","Anthony Martial",2
-"Ricardo Carvalho","Aymen Abdennour",1
-"João Moutinho","Danijel Subašić",1
-"João Moutinho","Fabinho",67
-"João Moutinho","Layvin Kurzawa",26
-"João Moutinho","Ricardo Carvalho",3
-"João Moutinho","Dimitar Berbatov",15
-"João Moutinho","Lucas Ocampos",9
-"João Moutinho","Yannick Ferreira-Carrasco",7
-"João Moutinho","Geoffrey Kondogbia",44
-"João Moutinho","Andrea Raggi",14
-"João Moutinho","Jérémy Toulalan",23
-"João Moutinho","Nabil Dirar",38
-"João Moutinho","Wallace",3
-"João Moutinho","Bernardo Silva",19
-"João Moutinho","Valère Germain",1
-"João Moutinho","Anthony Martial",17
-"João Moutinho","Ferreira-Carrasco",27
-"João Moutinho","Lacina Traoré",4
-"João Moutinho","Aymen Abdennour",10
-"João Moutinho","Tiémoué Bakayoko",3
-"João Moutinho","Elderson",2
-"João Moutinho","Almamy Tourè",6
-"João Moutinho","Matheus Carvalho",1
-"Dimitar Berbatov","Fabinho",8
-"Dimitar Berbatov","Layvin Kurzawa",3
-"Dimitar Berbatov","Ricardo Carvalho",1
-"Dimitar Berbatov","João Moutinho",26
-"Dimitar Berbatov","Lucas Ocampos",5
-"Dimitar Berbatov","Yannick Ferreira-Carrasco",4
-"Dimitar Berbatov","Geoffrey Kondogbia",19
-"Dimitar Berbatov","Andrea Raggi",2
-"Dimitar Berbatov","Jérémy Toulalan",10
-"Dimitar Berbatov","Nabil Dirar",13
-"Dimitar Berbatov","Wallace",1
-"Dimitar Berbatov","Anthony Martial",5
-"Dimitar Berbatov","Aymen Abdennour",5
-"Dimitar Berbatov","Tiémoué Bakayoko",3
-"Dimitar Berbatov","Elderson",4
-"Dimitar Berbatov","Almamy Tourè",1
-"Lucas Ocampos","Fabinho",2
-"Lucas Ocampos","Layvin Kurzawa",14
-"Lucas Ocampos","Ricardo Carvalho",5
-"Lucas Ocampos","João Moutinho",6
-"Lucas Ocampos","Dimitar Berbatov",3
-"Lucas Ocampos","Geoffrey Kondogbia",12
-"Lucas Ocampos","Jérémy Toulalan",5
-"Lucas Ocampos","Nabil Dirar",1
-"Lucas Ocampos","Ferreira-Carrasco",1
-"Lucas Ocampos","Lacina Traoré",1
-"Yannick Ferreira-Carrasco","Fabinho",5
-"Yannick Ferreira-Carrasco","Layvin Kurzawa",5
-"Yannick Ferreira-Carrasco","João Moutinho",4
-"Yannick Ferreira-Carrasco","Dimitar Berbatov",3
-"Yannick Ferreira-Carrasco","Lucas Ocampos",2
-"Yannick Ferreira-Carrasco","Geoffrey Kondogbia",7
-"Yannick Ferreira-Carrasco","Andrea Raggi",1
-"Yannick Ferreira-Carrasco","Jérémy Toulalan",3
-"Yannick Ferreira-Carrasco","Valère Germain",1
-"Yannick Ferreira-Carrasco","Anthony Martial",1
-"Geoffrey Kondogbia","Danijel Subašić",3
-"Geoffrey Kondogbia","Fabinho",17
-"Geoffrey Kondogbia","Layvin Kurzawa",61
-"Geoffrey Kondogbia","Ricardo Carvalho",23
-"Geoffrey Kondogbia","João Moutinho",36
-"Geoffrey Kondogbia","Dimitar Berbatov",14
-"Geoffrey Kondogbia","Lucas Ocampos",18
-"Geoffrey Kondogbia","Yannick Ferreira-Carrasco",6
-"Geoffrey Kondogbia","Andrea Raggi",11
-"Geoffrey Kondogbia","Jérémy Toulalan",19
-"Geoffrey Kondogbia","Nabil Dirar",23
-"Geoffrey Kondogbia","Wallace",8
-"Geoffrey Kondogbia","Bernardo Silva",11
-"Geoffrey Kondogbia","Anthony Martial",20
-"Geoffrey Kondogbia","Ferreira-Carrasco",15
-"Geoffrey Kondogbia","Lacina Traoré",3
-"Geoffrey Kondogbia","Aymen Abdennour",9
-"Geoffrey Kondogbia","Elderson",8
-"Andrea Raggi","Danijel Subašić",24
-"Andrea Raggi","Fabinho",35
-"Andrea Raggi","Layvin Kurzawa",5
-"Andrea Raggi","Ricardo Carvalho",15
-"Andrea Raggi","João Moutinho",14
-"Andrea Raggi","Dimitar Berbatov",2
-"Andrea Raggi","Yannick Ferreira-Carrasco",1
-"Andrea Raggi","Geoffrey Kondogbia",4
-"Andrea Raggi","Jérémy Toulalan",22
-"Andrea Raggi","Nabil Dirar",6
-"Andrea Raggi","Bernardo Silva",5
-"Andrea Raggi","Valère Germain",2
-"Andrea Raggi","Anthony Martial",4
-"Andrea Raggi","Ferreira-Carrasco",6
-"Andrea Raggi","Lacina Traoré",1
-"Andrea Raggi","Aymen Abdennour",8
-"Andrea Raggi","Tiémoué Bakayoko",4
-"Jérémy Toulalan","Danijel Subašić",5
-"Jérémy Toulalan","Fabinho",29
-"Jérémy Toulalan","Layvin Kurzawa",18
-"Jérémy Toulalan","Ricardo Carvalho",7
-"Jérémy Toulalan","João Moutinho",32
-"Jérémy Toulalan","Dimitar Berbatov",14
-"Jérémy Toulalan","Lucas Ocampos",6
-"Jérémy Toulalan","Yannick Ferreira-Carrasco",3
-"Jérémy Toulalan","Geoffrey Kondogbia",26
-"Jérémy Toulalan","Andrea Raggi",24
-"Jérémy Toulalan","Nabil Dirar",21
-"Jérémy Toulalan","Wallace",5
-"Jérémy Toulalan","Bernardo Silva",7
-"Jérémy Toulalan","Valère Germain",1
-"Jérémy Toulalan","Anthony Martial",9
-"Jérémy Toulalan","Ferreira-Carrasco",15
-"Jérémy Toulalan","Lacina Traoré",1
-"Jérémy Toulalan","Aymen Abdennour",7
-"Jérémy Toulalan","Tiémoué Bakayoko",5
-"Nabil Dirar","Danijel Subašić",3
-"Nabil Dirar","Fabinho",37
-"Nabil Dirar","Layvin Kurzawa",3
-"Nabil Dirar","Ricardo Carvalho",2
-"Nabil Dirar","João Moutinho",29
-"Nabil Dirar","Dimitar Berbatov",12
-"Nabil Dirar","Lucas Ocampos",5
-"Nabil Dirar","Yannick Ferreira-Carrasco",2
-"Nabil Dirar","Geoffrey Kondogbia",17
-"Nabil Dirar","Andrea Raggi",4
-"Nabil Dirar","Jérémy Toulalan",15
-"Nabil Dirar","Wallace",8
-"Nabil Dirar","Valère Germain",1
-"Nabil Dirar","Anthony Martial",9
-"Nabil Dirar","Ferreira-Carrasco",9
-"Nabil Dirar","Lacina Traoré",1
-"Nabil Dirar","Aymen Abdennour",1
-"Nabil Dirar","Tiémoué Bakayoko",2
-"Nabil Dirar","Almamy Tourè",5
-"Wallace","Danijel Subašić",7
-"Wallace","Fabinho",8
-"Wallace","João Moutinho",2
-"Wallace","Dimitar Berbatov",1
-"Wallace","Geoffrey Kondogbia",7
-"Wallace","Andrea Raggi",1
-"Wallace","Jérémy Toulalan",4
-"Wallace","Nabil Dirar",2
-"Wallace","Aymen Abdennour",11
-"Wallace","Elderson",1
-"Wallace","Almamy Tourè",7
-"Bernardo Silva","Fabinho",17
-"Bernardo Silva","Layvin Kurzawa",4
-"Bernardo Silva","Ricardo Carvalho",1
-"Bernardo Silva","João Moutinho",19
-"Bernardo Silva","Dimitar Berbatov",2
-"Bernardo Silva","Yannick Ferreira-Carrasco",3
-"Bernardo Silva","Geoffrey Kondogbia",6
-"Bernardo Silva","Andrea Raggi",4
-"Bernardo Silva","Jérémy Toulalan",2
-"Bernardo Silva","Nabil Dirar",2
-"Bernardo Silva","Wallace",1
-"Bernardo Silva","Anthony Martial",5
-"Bernardo Silva","Aymen Abdennour",3
-"Bernardo Silva","Ferreira-Carrasco",11
-"Valère Germain","Layvin Kurzawa",1
-"Valère Germain","João Moutinho",1
-"Valère Germain","Yannick Ferreira-Carrasco",1
-"Valère Germain","Ferreira-Carrasco",1
-"Anthony Martial","Fabinho",7
-"Anthony Martial","Layvin Kurzawa",15
-"Anthony Martial","Nabil Dirar",9
-"Anthony Martial","João Moutinho",16
-"Anthony Martial","Dimitar Berbatov",3
-"Anthony Martial","Lucas Ocampos",1
-"Anthony Martial","Geoffrey Kondogbia",10
-"Anthony Martial","Andrea Raggi",2
-"Anthony Martial","Jérémy Toulalan",4
-"Anthony Martial","Bernardo Silva",4
-"Anthony Martial","Yannick Ferreira-Carrasco",1
-"Anthony Martial","Ferreira-Carrasco",9
-"Anthony Martial","Tiémoué Bakayoko",1
-"Anthony Martial","Elderson",3
-"Anthony Martial","Almamy Tourè",1
-"Ferreira-Carrasco","Fabinho",13
-"Ferreira-Carrasco","Layvin Kurzawa",10
-"Ferreira-Carrasco","João Moutinho",20
-"Ferreira-Carrasco","Lacina Traoré",2
-"Ferreira-Carrasco","Geoffrey Kondogbia",15
-"Ferreira-Carrasco","Andrea Raggi",3
-"Ferreira-Carrasco","Jérémy Toulalan",3
-"Ferreira-Carrasco","Nabil Dirar",3
-"Ferreira-Carrasco","Anthony Martial",8
-"Ferreira-Carrasco","Aymen Abdennour",3
-"Ferreira-Carrasco","Dimitar Berbatov",6
-"Ferreira-Carrasco","Tiémoué Bakayoko",7
-"Ferreira-Carrasco","Bernardo Silva",9
-"Ferreira-Carrasco","Elderson",3
-"Ferreira-Carrasco","Almamy Tourè",1
-"Lacina Traoré","Ricardo Carvalho",1
-"Lacina Traoré","João Moutinho",1
-"Lacina Traoré","Lucas Ocampos",2
-"Lacina Traoré","Ferreira-Carrasco",1
-"Lacina Traoré","Geoffrey Kondogbia",1
-"Lacina Traoré","Nabil Dirar",2
-"Aymen Abdennour","Danijel Subašić",15
-"Aymen Abdennour","Fabinho",6
-"Aymen Abdennour","Nabil Dirar",1
-"Aymen Abdennour","João Moutinho",7
-"Aymen Abdennour","Dimitar Berbatov",4
-"Aymen Abdennour","Wallace",9
-"Aymen Abdennour","Tiémoué Bakayoko",1
-"Aymen Abdennour","Ferreira-Carrasco",3
-"Aymen Abdennour","Andrea Raggi",15
-"Aymen Abdennour","Jérémy Toulalan",3
-"Aymen Abdennour","Bernardo Silva",1
-"Aymen Abdennour","Anthony Martial",6
-"Aymen Abdennour","Elderson",7
-"Aymen Abdennour","Geoffrey Kondogbia",16
-"Aymen Abdennour","Layvin Kurzawa",19
-"Aymen Abdennour","Ricardo Carvalho",5
-"Tiémoué Bakayoko","Fabinho",3
-"Tiémoué Bakayoko","Aymen Abdennour",1
-"Tiémoué Bakayoko","Nabil Dirar",6
-"Tiémoué Bakayoko","João Moutinho",7
-"Tiémoué Bakayoko","Dimitar Berbatov",3
-"Tiémoué Bakayoko","Wallace",2
-"Tiémoué Bakayoko","Ferreira-Carrasco",5
-"Tiémoué Bakayoko","Andrea Raggi",3
-"Tiémoué Bakayoko","Jérémy Toulalan",6
-"Tiémoué Bakayoko","Anthony Martial",1
-"Elderson","Danijel Subašić",2
-"Elderson","Fabinho",2
-"Elderson","Aymen Abdennour",2
-"Elderson","João Moutinho",2
-"Elderson","Dimitar Berbatov",5
-"Elderson","Wallace",1
-"Elderson","Geoffrey Kondogbia",1
-"Elderson","Anthony Martial",3
-"Elderson","Layvin Kurzawa",1
-"Elderson","Ferreira-Carrasco",3
-"Almamy Tourè","Danijel Subašić",2
-"Almamy Tourè","Fabinho",3
-"Almamy Tourè","Aymen Abdennour",1
-"Almamy Tourè","Nabil Dirar",2
-"Almamy Tourè","João Moutinho",3
-"Almamy Tourè","Dimitar Berbatov",3
-"Almamy Tourè","Wallace",3
-"Almamy Tourè","Geoffrey Kondogbia",3
-"Almamy Tourè","Anthony Martial",1
-"Matheus Carvalho","João Moutinho",1
-"Matheus Carvalho","Geoffrey Kondogbia",2
-"Matheus Carvalho","Dimitar Berbatov",1
+Source,Target,Weight
+"1","2",10
+"1","3",22
+"1","6",7
+"1","8",4
+"1","9",1
+"1","22",1
+"1","24",16
+"1","28",2
+"1","7",1
+"1","13",1
+"1","23",4
+"1","17",5
+"1","19",1
+"1","5",7
+"2","1",8
+"2","3",3
+"2","6",7
+"2","8",47
+"2","9",9
+"2","11",1
+"2","17",8
+"2","22",21
+"2","24",16
+"2","28",15
+"2","7",41
+"2","13",4
+"2","15",21
+"2","23",15
+"2","17",15
+"2","19",1
+"2","5",7
+"2","14",3
+"2","21",4
+"2","38",1
+"2","12",1
+"3","1",7
+"3","2",6
+"3","6",17
+"3","8",7
+"3","9",10
+"3","11",15
+"3","17",6
+"3","22",45
+"3","24",2
+"3","28",19
+"3","13",1
+"3","15",4
+"3","23",6
+"3","17",15
+"3","5",20
+"6","1",10
+"6","2",10
+"6","3",12
+"6","8",9
+"6","9",1
+"6","11",5
+"6","17",1
+"6","22",15
+"6","24",29
+"6","28",15
+"6","7",4
+"6","23",2
+"6","5",1
+"8","1",1
+"8","2",67
+"8","3",26
+"8","6",3
+"8","9",15
+"8","11",9
+"8","17",7
+"8","22",44
+"8","24",14
+"8","28",23
+"8","7",38
+"8","13",3
+"8","15",19
+"8","18",1
+"8","23",17
+"8","17",27
+"8","19",4
+"8","5",10
+"8","14",3
+"8","21",2
+"8","38",6
+"8","12",1
+"9","2",8
+"9","3",3
+"9","6",1
+"9","8",26
+"9","11",5
+"9","17",4
+"9","22",19
+"9","24",2
+"9","28",10
+"9","7",13
+"9","13",1
+"9","23",5
+"9","5",5
+"9","14",3
+"9","21",4
+"9","38",1
+"11","2",2
+"11","3",14
+"11","6",5
+"11","8",6
+"11","9",3
+"11","22",12
+"11","28",5
+"11","7",1
+"11","17",1
+"11","19",1
+"17","2",5
+"17","3",5
+"17","8",4
+"17","9",3
+"17","11",2
+"17","22",7
+"17","24",1
+"17","28",3
+"17","18",1
+"17","23",1
+"22","1",3
+"22","2",17
+"22","3",61
+"22","6",23
+"22","8",36
+"22","9",14
+"22","11",18
+"22","17",6
+"22","24",11
+"22","28",19
+"22","7",23
+"22","13",8
+"22","15",11
+"22","23",20
+"22","17",15
+"22","19",3
+"22","5",9
+"22","21",8
+"24","1",24
+"24","2",35
+"24","3",5
+"24","6",15
+"24","8",14
+"24","9",2
+"24","17",1
+"24","22",4
+"24","28",22
+"24","7",6
+"24","15",5
+"24","18",2
+"24","23",4
+"24","17",6
+"24","19",1
+"24","5",8
+"24","14",4
+"28","1",5
+"28","2",29
+"28","3",18
+"28","6",7
+"28","8",32
+"28","9",14
+"28","11",6
+"28","17",3
+"28","22",26
+"28","24",24
+"28","7",21
+"28","13",5
+"28","15",7
+"28","18",1
+"28","23",9
+"28","17",15
+"28","19",1
+"28","5",7
+"28","14",5
+"7","1",3
+"7","2",37
+"7","3",3
+"7","6",2
+"7","8",29
+"7","9",12
+"7","11",5
+"7","17",2
+"7","22",17
+"7","24",4
+"7","28",15
+"7","13",8
+"7","18",1
+"7","23",9
+"7","17",9
+"7","19",1
+"7","5",1
+"7","14",2
+"7","38",5
+"13","1",7
+"13","2",8
+"13","8",2
+"13","9",1
+"13","22",7
+"13","24",1
+"13","28",4
+"13","7",2
+"13","5",11
+"13","21",1
+"13","38",7
+"15","2",17
+"15","3",4
+"15","6",1
+"15","8",19
+"15","9",2
+"15","17",3
+"15","22",6
+"15","24",4
+"15","28",2
+"15","7",2
+"15","13",1
+"15","23",5
+"15","5",3
+"15","17",11
+"18","3",1
+"18","8",1
+"18","17",1
+"18","17",1
+"23","2",7
+"23","3",15
+"23","7",9
+"23","8",16
+"23","9",3
+"23","11",1
+"23","22",10
+"23","24",2
+"23","28",4
+"23","15",4
+"23","17",1
+"23","17",9
+"23","14",1
+"23","21",3
+"23","38",1
+"17","2",13
+"17","3",10
+"17","8",20
+"17","19",2
+"17","22",15
+"17","24",3
+"17","28",3
+"17","7",3
+"17","23",8
+"17","5",3
+"17","9",6
+"17","14",7
+"17","15",9
+"17","21",3
+"17","38",1
+"19","6",1
+"19","8",1
+"19","11",2
+"19","17",1
+"19","22",1
+"19","7",2
+"5","1",15
+"5","2",6
+"5","7",1
+"5","8",7
+"5","9",4
+"5","13",9
+"5","14",1
+"5","17",3
+"5","24",15
+"5","28",3
+"5","15",1
+"5","23",6
+"5","21",7
+"5","22",16
+"5","3",19
+"5","6",5
+"14","2",3
+"14","5",1
+"14","7",6
+"14","8",7
+"14","9",3
+"14","13",2
+"14","17",5
+"14","24",3
+"14","28",6
+"14","23",1
+"21","1",2
+"21","2",2
+"21","5",2
+"21","8",2
+"21","9",5
+"21","13",1
+"21","22",1
+"21","23",3
+"21","3",1
+"21","17",3
+"38","1",2
+"38","2",3
+"38","5",1
+"38","7",2
+"38","8",3
+"38","9",3
+"38","13",3
+"38","22",3
+"38","23",1
+"12","8",1
+"12","22",2
+"12","9",1

@@ -1,228 +1,229 @@
-"Igor Akinfeev","Mário Fernandes",5
-"Igor Akinfeev","Sergei Ignashevich",21
-"Igor Akinfeev","Zoran Tošić",7
-"Igor Akinfeev","Kirill Nababkin",1
-"Igor Akinfeev","Ahmed Musa",2
-"Igor Akinfeev","Georgi Milanov",5
-"Igor Akinfeev","Vasili Berezutski",15
-"Igor Akinfeev","Roman Eremenko",5
-"Igor Akinfeev","Bebras Natcho",7
-"Igor Akinfeev","Seydou Doumbia",2
-"Igor Akinfeev","Dmitri Efremov",1
-"Igor Akinfeev","Georgi Schennikov",3
-"Igor Akinfeev","Aleksei Berezutski",2
-"Igor Akinfeev","Pontus Wernbloom",1
-"Igor Akinfeev","Alan Dzagoev",6
-"Mário Fernandes","Igor Akinfeev",5
-"Mário Fernandes","Sergei Ignashevich",10
-"Mário Fernandes","Zoran Tošić",29
-"Mário Fernandes","Kirill Nababkin",3
-"Mário Fernandes","Ahmed Musa",21
-"Mário Fernandes","Georgi Milanov",9
-"Mário Fernandes","Vasili Berezutski",29
-"Mário Fernandes","Roman Eremenko",25
-"Mário Fernandes","Bebras Natcho",24
-"Mário Fernandes","Seydou Doumbia",4
-"Mário Fernandes","Dmitri Efremov",9
-"Mário Fernandes","Georgi Schennikov",1
-"Mário Fernandes","Aleksandrs Cauņa",4
-"Mário Fernandes","Pontus Wernbloom",3
-"Mário Fernandes","Alan Dzagoev",5
-"Sergei Ignashevich","Igor Akinfeev",12
-"Sergei Ignashevich","Mário Fernandes",17
-"Sergei Ignashevich","Zoran Tošić",4
-"Sergei Ignashevich","Kirill Nababkin",3
-"Sergei Ignashevich","Ahmed Musa",7
-"Sergei Ignashevich","Georgi Milanov",11
-"Sergei Ignashevich","Vasili Berezutski",31
-"Sergei Ignashevich","Roman Eremenko",17
-"Sergei Ignashevich","Bebras Natcho",26
-"Sergei Ignashevich","Seydou Doumbia",8
-"Sergei Ignashevich","Dmitri Efremov",2
-"Sergei Ignashevich","Georgi Schennikov",20
-"Sergei Ignashevich","Aleksei Berezutski",6
-"Sergei Ignashevich","Aleksandrs Cauņa",2
-"Sergei Ignashevich","Pontus Wernbloom",3
-"Sergei Ignashevich","Alan Dzagoev",14
-"Zoran Tošić","Igor Akinfeev",1
-"Zoran Tošić","Mário Fernandes",23
-"Zoran Tošić","Sergei Ignashevich",5
-"Zoran Tošić","Kirill Nababkin",1
-"Zoran Tošić","Ahmed Musa",4
-"Zoran Tošić","Georgi Milanov",10
-"Zoran Tošić","Vasili Berezutski",3
-"Zoran Tošić","Roman Eremenko",15
-"Zoran Tošić","Bebras Natcho",20
-"Zoran Tošić","Seydou Doumbia",1
-"Zoran Tošić","Aleksei Berezutski",2
-"Zoran Tošić","Alan Dzagoev",1
-"Kirill Nababkin","Igor Akinfeev",2
-"Kirill Nababkin","Sergei Ignashevich",1
-"Kirill Nababkin","Zoran Tošić",1
-"Kirill Nababkin","Ahmed Musa",2
-"Kirill Nababkin","Georgi Milanov",2
-"Kirill Nababkin","Vasili Berezutski",2
-"Kirill Nababkin","Roman Eremenko",2
-"Kirill Nababkin","Bebras Natcho",3
-"Kirill Nababkin","Pontus Wernbloom",1
-"Kirill Nababkin","Alan Dzagoev",2
-"Ahmed Musa","Igor Akinfeev",3
-"Ahmed Musa","Mário Fernandes",15
-"Ahmed Musa","Sergei Ignashevich",2
-"Ahmed Musa","Zoran Tošić",4
-"Ahmed Musa","Kirill Nababkin",3
-"Ahmed Musa","Georgi Milanov",8
-"Ahmed Musa","Vasili Berezutski",10
-"Ahmed Musa","Roman Eremenko",13
-"Ahmed Musa","Bebras Natcho",9
-"Ahmed Musa","Seydou Doumbia",16
-"Ahmed Musa","Dmitri Efremov",3
-"Ahmed Musa","Georgi Schennikov",3
-"Ahmed Musa","Aleksei Berezutski",2
-"Ahmed Musa","Pontus Wernbloom",3
-"Ahmed Musa","Alan Dzagoev",3
-"Georgi Milanov","Igor Akinfeev",1
-"Georgi Milanov","Mário Fernandes",14
-"Georgi Milanov","Sergei Ignashevich",6
-"Georgi Milanov","Zoran Tošić",7
-"Georgi Milanov","Kirill Nababkin",3
-"Georgi Milanov","Ahmed Musa",9
-"Georgi Milanov","Vasili Berezutski",4
-"Georgi Milanov","Roman Eremenko",24
-"Georgi Milanov","Bebras Natcho",19
-"Georgi Milanov","Seydou Doumbia",8
-"Georgi Milanov","Kirill Panchenko",4
-"Georgi Milanov","Dmitri Efremov",2
-"Georgi Milanov","Georgi Schennikov",20
-"Georgi Milanov","Aleksei Berezutski",8
-"Georgi Milanov","Pontus Wernbloom",1
-"Georgi Milanov","Alan Dzagoev",1
-"Vasili Berezutski","Igor Akinfeev",16
-"Vasili Berezutski","Mário Fernandes",32
-"Vasili Berezutski","Sergei Ignashevich",29
-"Vasili Berezutski","Zoran Tošić",9
-"Vasili Berezutski","Kirill Nababkin",6
-"Vasili Berezutski","Ahmed Musa",10
-"Vasili Berezutski","Georgi Milanov",10
-"Vasili Berezutski","Roman Eremenko",16
-"Vasili Berezutski","Bebras Natcho",45
-"Vasili Berezutski","Seydou Doumbia",1
-"Vasili Berezutski","Kirill Panchenko",2
-"Vasili Berezutski","Dmitri Efremov",2
-"Vasili Berezutski","Georgi Schennikov",11
-"Vasili Berezutski","Aleksei Berezutski",2
-"Vasili Berezutski","Aleksandrs Cauņa",5
-"Vasili Berezutski","Pontus Wernbloom",5
-"Vasili Berezutski","Alan Dzagoev",5
-"Roman Eremenko","Mário Fernandes",15
-"Roman Eremenko","Sergei Ignashevich",12
-"Roman Eremenko","Zoran Tošić",21
-"Roman Eremenko","Kirill Nababkin",3
-"Roman Eremenko","Ahmed Musa",26
-"Roman Eremenko","Georgi Milanov",29
-"Roman Eremenko","Vasili Berezutski",12
-"Roman Eremenko","Bebras Natcho",48
-"Roman Eremenko","Seydou Doumbia",18
-"Roman Eremenko","Dmitri Efremov",4
-"Roman Eremenko","Georgi Schennikov",15
-"Roman Eremenko","Aleksei Berezutski",4
-"Roman Eremenko","Aleksandrs Cauņa",3
-"Roman Eremenko","Pontus Wernbloom",7
-"Roman Eremenko","Alan Dzagoev",16
-"Bebras Natcho","Mário Fernandes",24
-"Bebras Natcho","Sergei Ignashevich",23
-"Bebras Natcho","Zoran Tošić",16
-"Bebras Natcho","Kirill Nababkin",3
-"Bebras Natcho","Ahmed Musa",29
-"Bebras Natcho","Georgi Milanov",20
-"Bebras Natcho","Vasili Berezutski",36
-"Bebras Natcho","Roman Eremenko",48
-"Bebras Natcho","Seydou Doumbia",13
-"Bebras Natcho","Kirill Panchenko",6
-"Bebras Natcho","Dmitri Efremov",5
-"Bebras Natcho","Georgi Schennikov",18
-"Bebras Natcho","Aleksei Berezutski",7
-"Bebras Natcho","Aleksandrs Cauņa",6
-"Bebras Natcho","Pontus Wernbloom",8
-"Bebras Natcho","Alan Dzagoev",19
-"Seydou Doumbia","Mário Fernandes",3
-"Seydou Doumbia","Sergei Ignashevich",1
-"Seydou Doumbia","Zoran Tošić",1
-"Seydou Doumbia","Ahmed Musa",11
-"Seydou Doumbia","Georgi Milanov",8
-"Seydou Doumbia","Vasili Berezutski",4
-"Seydou Doumbia","Roman Eremenko",16
-"Seydou Doumbia","Bebras Natcho",5
-"Seydou Doumbia","Dmitri Efremov",1
-"Seydou Doumbia","Georgi Schennikov",2
-"Seydou Doumbia","Alan Dzagoev",9
-"Kirill Panchenko","Ahmed Musa",1
-"Kirill Panchenko","Georgi Milanov",1
-"Kirill Panchenko","Bebras Natcho",2
-"Kirill Panchenko","Seydou Doumbia",2
-"Kirill Panchenko","Dmitri Efremov",2
-"Dmitri Efremov","Mário Fernandes",5
-"Dmitri Efremov","Ahmed Musa",1
-"Dmitri Efremov","Georgi Milanov",5
-"Dmitri Efremov","Vasili Berezutski",3
-"Dmitri Efremov","Roman Eremenko",2
-"Dmitri Efremov","Bebras Natcho",5
-"Dmitri Efremov","Seydou Doumbia",3
-"Dmitri Efremov","Georgi Schennikov",1
-"Dmitri Efremov","Pontus Wernbloom",1
-"Dmitri Efremov","Alan Dzagoev",1
-"Georgi Schennikov","Igor Akinfeev",5
-"Georgi Schennikov","Mário Fernandes",3
-"Georgi Schennikov","Sergei Ignashevich",12
-"Georgi Schennikov","Ahmed Musa",9
-"Georgi Schennikov","Georgi Milanov",18
-"Georgi Schennikov","Vasili Berezutski",7
-"Georgi Schennikov","Roman Eremenko",19
-"Georgi Schennikov","Bebras Natcho",16
-"Georgi Schennikov","Seydou Doumbia",2
-"Georgi Schennikov","Kirill Panchenko",1
-"Georgi Schennikov","Aleksei Berezutski",7
-"Georgi Schennikov","Aleksandrs Cauņa",2
-"Georgi Schennikov","Pontus Wernbloom",1
-"Georgi Schennikov","Alan Dzagoev",8
-"Aleksei Berezutski","Igor Akinfeev",4
-"Aleksei Berezutski","Sergei Ignashevich",5
-"Aleksei Berezutski","Ahmed Musa",2
-"Aleksei Berezutski","Georgi Milanov",6
-"Aleksei Berezutski","Vasili Berezutski",1
-"Aleksei Berezutski","Roman Eremenko",7
-"Aleksei Berezutski","Georgi Schennikov",15
-"Aleksei Berezutski","Bebras Natcho",8
-"Aleksandrs Cauņa","Mário Fernandes",3
-"Aleksandrs Cauņa","Ahmed Musa",3
-"Aleksandrs Cauņa","Vasili Berezutski",4
-"Aleksandrs Cauņa","Roman Eremenko",7
-"Aleksandrs Cauņa","Georgi Schennikov",2
-"Aleksandrs Cauņa","Bebras Natcho",1
-"Aleksandrs Cauņa","Seydou Doumbia",1
-"Aleksandrs Cauņa","Alan Dzagoev",1
-"Pontus Wernbloom","Igor Akinfeev",1
-"Pontus Wernbloom","Mário Fernandes",6
-"Pontus Wernbloom","Sergei Ignashevich",8
-"Pontus Wernbloom","Alan Dzagoev",6
-"Pontus Wernbloom","Ahmed Musa",2
-"Pontus Wernbloom","Vasili Berezutski",4
-"Pontus Wernbloom","Roman Eremenko",5
-"Pontus Wernbloom","Bebras Natcho",9
-"Pontus Wernbloom","Seydou Doumbia",4
-"Pontus Wernbloom","Georgi Milanov",2
-"Pontus Wernbloom","Kirill Nababkin",1
-"Pontus Wernbloom","Zoran Tošić",1
-"Alan Dzagoev","Mário Fernandes",3
-"Alan Dzagoev","Pontus Wernbloom",5
-"Alan Dzagoev","Sergei Ignashevich",5
-"Alan Dzagoev","Ahmed Musa",8
-"Alan Dzagoev","Vasili Berezutski",4
-"Alan Dzagoev","Roman Eremenko",17
-"Alan Dzagoev","Georgi Schennikov",7
-"Alan Dzagoev","Bebras Natcho",24
-"Alan Dzagoev","Seydou Doumbia",5
-"Alan Dzagoev","Dmitri Efremov",1
-"Alan Dzagoev","Aleksandrs Cauņa",1
-"Alan Dzagoev","Zoran Tošić",2
-"Alan Dzagoev","Kirill Nababkin",1
+Source,Target,Weight
+"35","2",5
+"35","4",21
+"35","7",7
+"35","14",1
+"35","18",2
+"35","23",5
+"35","24",15
+"35","25",5
+"35","66",7
+"35","88",2
+"35","15",1
+"35","42",3
+"35","6",2
+"35","3",1
+"35","10",6
+"2","35",5
+"2","4",10
+"2","7",29
+"2","14",3
+"2","18",21
+"2","23",9
+"2","24",29
+"2","25",25
+"2","66",24
+"2","88",4
+"2","15",9
+"2","42",1
+"2","19",4
+"2","3",3
+"2","10",5
+"4","35",12
+"4","2",17
+"4","7",4
+"4","14",3
+"4","18",7
+"4","23",11
+"4","24",31
+"4","25",17
+"4","66",26
+"4","88",8
+"4","15",2
+"4","42",20
+"4","6",6
+"4","19",2
+"4","3",3
+"4","10",14
+"7","35",1
+"7","2",23
+"7","4",5
+"7","14",1
+"7","18",4
+"7","23",10
+"7","24",3
+"7","25",15
+"7","66",20
+"7","88",1
+"7","6",2
+"7","10",1
+"14","35",2
+"14","4",1
+"14","7",1
+"14","18",2
+"14","23",2
+"14","24",2
+"14","25",2
+"14","66",3
+"14","3",1
+"14","10",2
+"18","35",3
+"18","2",15
+"18","4",2
+"18","7",4
+"18","14",3
+"18","23",8
+"18","24",10
+"18","25",13
+"18","66",9
+"18","88",16
+"18","15",3
+"18","42",3
+"18","6",2
+"18","3",3
+"18","10",3
+"23","35",1
+"23","2",14
+"23","4",6
+"23","7",7
+"23","14",3
+"23","18",9
+"23","24",4
+"23","25",24
+"23","66",19
+"23","88",8
+"23","8",4
+"23","15",2
+"23","42",20
+"23","6",8
+"23","3",1
+"23","10",1
+"24","35",16
+"24","2",32
+"24","4",29
+"24","7",9
+"24","14",6
+"24","18",10
+"24","23",10
+"24","25",16
+"24","66",45
+"24","88",1
+"24","8",2
+"24","15",2
+"24","42",11
+"24","6",2
+"24","19",5
+"24","3",5
+"24","10",5
+"25","2",15
+"25","4",12
+"25","7",21
+"25","14",3
+"25","18",26
+"25","23",29
+"25","24",12
+"25","66",48
+"25","88",18
+"25","15",4
+"25","42",15
+"25","6",4
+"25","19",3
+"25","3",7
+"25","10",16
+"66","2",24
+"66","4",23
+"66","7",16
+"66","14",3
+"66","18",29
+"66","23",20
+"66","24",36
+"66","25",48
+"66","88",13
+"66","8",6
+"66","15",5
+"66","42",18
+"66","6",7
+"66","19",6
+"66","3",8
+"66","10",19
+"88","2",3
+"88","4",1
+"88","7",1
+"88","18",11
+"88","23",8
+"88","24",4
+"88","25",16
+"88","66",5
+"88","15",1
+"88","42",2
+"88","10",9
+"8","18",1
+"8","23",1
+"8","66",2
+"8","88",2
+"8","15",2
+"15","2",5
+"15","18",1
+"15","23",5
+"15","24",3
+"15","25",2
+"15","66",5
+"15","88",3
+"15","42",1
+"15","3",1
+"15","10",1
+"42","35",5
+"42","2",3
+"42","4",12
+"42","18",9
+"42","23",18
+"42","24",7
+"42","25",19
+"42","66",16
+"42","88",2
+"42","8",1
+"42","6",7
+"42","19",2
+"42","3",1
+"42","10",8
+"6","35",4
+"6","4",5
+"6","18",2
+"6","23",6
+"6","24",1
+"6","25",7
+"6","42",15
+"6","66",8
+"19","2",3
+"19","18",3
+"19","24",4
+"19","25",7
+"19","42",2
+"19","66",1
+"19","88",1
+"19","10",1
+"3","35",1
+"3","2",6
+"3","4",8
+"3","10",6
+"3","18",2
+"3","24",4
+"3","25",5
+"3","66",9
+"3","88",4
+"3","23",2
+"3","14",1
+"3","7",1
+"10","2",3
+"10","3",5
+"10","4",5
+"10","18",8
+"10","24",4
+"10","25",17
+"10","42",7
+"10","66",24
+"10","88",5
+"10","15",1
+"10","19",1
+"10","7",2
+"10","14",1

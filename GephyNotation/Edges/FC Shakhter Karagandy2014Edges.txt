@@ -1,103 +1,104 @@
-"Aleksandr Mokin","Gediminas Vičius",8
-"Aleksandr Mokin","Andrei Finonchenko",2
-"Aleksandr Mokin","Andrei Poryvaev",2
-"Aleksandr Mokin","Aldin Džidić",2
-"Aleksandr Mokin","Sergei Maliy",2
-"Aleksandr Mokin","Gevorg Ghazaryan",2
-"Aleksandr Mokin","Aleksandar Simčević",1
-"Aleksandr Mokin","Roger Cañas",2
-"Aleksandr Mokin","Sergei Khizhnichenko",7
-"Aleksandr Mokin","Igor Zenkovich",1
-"Gediminas Vičius","Aleksandr Mokin",1
-"Gediminas Vičius","Nikola Vasiljević",4
-"Gediminas Vičius","Andrei Finonchenko",1
-"Gediminas Vičius","Andrei Poryvaev",2
-"Gediminas Vičius","Aldin Džidić",7
-"Gediminas Vičius","Sergei Maliy",3
-"Gediminas Vičius","Gevorg Ghazaryan",11
-"Gediminas Vičius","Aleksandar Simčević",8
-"Gediminas Vičius","Roger Cañas",6
-"Gediminas Vičius","Sergei Khizhnichenko",9
-"Nikola Vasiljević","Aleksandr Mokin",4
-"Nikola Vasiljević","Gediminas Vičius",2
-"Nikola Vasiljević","Andrei Finonchenko",1
-"Nikola Vasiljević","Andrei Poryvaev",1
-"Nikola Vasiljević","Aldin Džidić",6
-"Nikola Vasiljević","Sergei Maliy",4
-"Nikola Vasiljević","Aleksandar Simčević",1
-"Nikola Vasiljević","Sergei Khizhnichenko",2
-"Andrei Finonchenko","Gediminas Vičius",1
-"Andrei Finonchenko","Nikola Vasiljević",1
-"Andrei Finonchenko","Aldin Džidić",1
-"Andrei Finonchenko","Sergei Maliy",1
-"Andrei Finonchenko","Gevorg Ghazaryan",4
-"Andrei Finonchenko","Aleksandar Simčević",5
-"Andrei Finonchenko","Roger Cañas",4
-"Andrei Finonchenko","Sergei Khizhnichenko",8
-"Andrei Poryvaev","Aleksandr Mokin",1
-"Andrei Poryvaev","Gediminas Vičius",6
-"Andrei Poryvaev","Andrei Finonchenko",2
-"Andrei Poryvaev","Aldin Džidić",1
-"Andrei Poryvaev","Sergei Maliy",3
-"Andrei Poryvaev","Gevorg Ghazaryan",11
-"Andrei Poryvaev","Roger Cañas",5
-"Andrei Poryvaev","Sergei Khizhnichenko",5
-"Aldin Džidić","Aleksandr Mokin",3
-"Aldin Džidić","Gediminas Vičius",5
-"Aldin Džidić","Andrei Finonchenko",4
-"Aldin Džidić","Andrei Poryvaev",9
-"Aldin Džidić","Sergei Maliy",2
-"Aldin Džidić","Gevorg Ghazaryan",3
-"Aldin Džidić","Aleksandar Simčević",3
-"Aldin Džidić","Roger Cañas",4
-"Aldin Džidić","Sergei Khizhnichenko",5
-"Aldin Džidić","Igor Zenkovich",2
-"Sergei Maliy","Aleksandr Mokin",1
-"Sergei Maliy","Gediminas Vičius",5
-"Sergei Maliy","Nikola Vasiljević",1
-"Sergei Maliy","Andrei Finonchenko",5
-"Sergei Maliy","Andrei Poryvaev",2
-"Sergei Maliy","Aldin Džidić",1
-"Sergei Maliy","Gevorg Ghazaryan",7
-"Sergei Maliy","Aleksandar Simčević",9
-"Sergei Maliy","Roger Cañas",6
-"Sergei Maliy","Sergei Khizhnichenko",2
-"Gevorg Ghazaryan","Gediminas Vičius",9
-"Gevorg Ghazaryan","Nikola Vasiljević",3
-"Gevorg Ghazaryan","Andrei Finonchenko",3
-"Gevorg Ghazaryan","Andrei Poryvaev",7
-"Gevorg Ghazaryan","Aldin Džidić",3
-"Gevorg Ghazaryan","Sergei Maliy",1
-"Gevorg Ghazaryan","Aleksandar Simčević",3
-"Gevorg Ghazaryan","Roger Cañas",12
-"Gevorg Ghazaryan","Sergei Khizhnichenko",8
-"Gevorg Ghazaryan","Igor Zenkovich",1
-"Aleksandar Simčević","Aleksandr Mokin",1
-"Aleksandar Simčević","Gediminas Vičius",2
-"Aleksandar Simčević","Nikola Vasiljević",3
-"Aleksandar Simčević","Andrei Finonchenko",2
-"Aleksandar Simčević","Aldin Džidić",5
-"Aleksandar Simčević","Sergei Maliy",7
-"Aleksandar Simčević","Gevorg Ghazaryan",3
-"Aleksandar Simčević","Roger Cañas",7
-"Aleksandar Simčević","Sergei Khizhnichenko",7
-"Roger Cañas","Aleksandr Mokin",1
-"Roger Cañas","Gediminas Vičius",7
-"Roger Cañas","Nikola Vasiljević",2
-"Roger Cañas","Andrei Finonchenko",4
-"Roger Cañas","Andrei Poryvaev",7
-"Roger Cañas","Aldin Džidić",5
-"Roger Cañas","Sergei Maliy",4
-"Roger Cañas","Gevorg Ghazaryan",10
-"Roger Cañas","Aleksandar Simčević",2
-"Roger Cañas","Sergei Khizhnichenko",9
-"Sergei Khizhnichenko","Gediminas Vičius",3
-"Sergei Khizhnichenko","Nikola Vasiljević",1
-"Sergei Khizhnichenko","Andrei Finonchenko",8
-"Sergei Khizhnichenko","Andrei Poryvaev",5
-"Sergei Khizhnichenko","Gevorg Ghazaryan",3
-"Sergei Khizhnichenko","Aleksandar Simčević",4
-"Sergei Khizhnichenko","Roger Cañas",3
-"Sergei Khizhnichenko","Igor Zenkovich",4
-"Igor Zenkovich","Gediminas Vičius",1
-"Igor Zenkovich","Sergei Khizhnichenko",1
+Source,Target,Weight
+"35","3",8
+"35","14",2
+"35","17",2
+"35","20",2
+"35","25",2
+"35","28",2
+"35","87",1
+"35","88",2
+"35","91",7
+"35","78",1
+"3","35",1
+"3","4",4
+"3","14",1
+"3","17",2
+"3","20",7
+"3","25",3
+"3","28",11
+"3","87",8
+"3","88",6
+"3","91",9
+"4","35",4
+"4","3",2
+"4","14",1
+"4","17",1
+"4","20",6
+"4","25",4
+"4","87",1
+"4","91",2
+"14","3",1
+"14","4",1
+"14","20",1
+"14","25",1
+"14","28",4
+"14","87",5
+"14","88",4
+"14","91",8
+"17","35",1
+"17","3",6
+"17","14",2
+"17","20",1
+"17","25",3
+"17","28",11
+"17","88",5
+"17","91",5
+"20","35",3
+"20","3",5
+"20","14",4
+"20","17",9
+"20","25",2
+"20","28",3
+"20","87",3
+"20","88",4
+"20","91",5
+"20","78",2
+"25","35",1
+"25","3",5
+"25","4",1
+"25","14",5
+"25","17",2
+"25","20",1
+"25","28",7
+"25","87",9
+"25","88",6
+"25","91",2
+"28","3",9
+"28","4",3
+"28","14",3
+"28","17",7
+"28","20",3
+"28","25",1
+"28","87",3
+"28","88",12
+"28","91",8
+"28","78",1
+"87","35",1
+"87","3",2
+"87","4",3
+"87","14",2
+"87","20",5
+"87","25",7
+"87","28",3
+"87","88",7
+"87","91",7
+"88","35",1
+"88","3",7
+"88","4",2
+"88","14",4
+"88","17",7
+"88","20",5
+"88","25",4
+"88","28",10
+"88","87",2
+"88","91",9
+"91","3",3
+"91","4",1
+"91","14",8
+"91","17",5
+"91","28",3
+"91","87",4
+"91","88",3
+"91","78",4
+"78","3",1
+"78","91",1

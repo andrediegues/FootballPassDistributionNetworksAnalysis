@@ -1,174 +1,175 @@
-"Péter Gulácsi","André Ramalho",7
-"Péter Gulácsi","Christian Schwegler",3
-"Péter Gulácsi","Marcel Sabitzer",1
-"Péter Gulácsi","Sadio Mané",4
-"Péter Gulácsi","Stefan Ilsanker",2
-"Péter Gulácsi","Franz Schiemer",2
-"Péter Gulácsi","Naby Keita",1
-"Péter Gulácsi","Alan",1
-"Péter Gulácsi","Martin Hinteregger",3
-"Péter Gulácsi","Peter Ankersen",2
-"André Ramalho","Péter Gulácsi",4
-"André Ramalho","Christian Schwegler",10
-"André Ramalho","Marcel Sabitzer",3
-"André Ramalho","Stefan Ilsanker",5
-"André Ramalho","Franz Schiemer",5
-"André Ramalho","Andreas Ulmer",3
-"André Ramalho","Christoph Leitgeb",4
-"André Ramalho","Jonatan Soriano",2
-"André Ramalho","Kevin Kampl",5
-"André Ramalho","Naby Keita",3
-"André Ramalho","Alan",2
-"André Ramalho","Massimo Bruno",3
-"André Ramalho","Martin Hinteregger",9
-"André Ramalho","Peter Ankersen",4
-"André Ramalho","Valentino Lazaro",2
-"Christian Schwegler","André Ramalho",8
-"Christian Schwegler","Marcel Sabitzer",5
-"Christian Schwegler","Sadio Mané",1
-"Christian Schwegler","Stefan Ilsanker",4
-"Christian Schwegler","Franz Schiemer",1
-"Christian Schwegler","Christoph Leitgeb",7
-"Christian Schwegler","Jonatan Soriano",4
-"Christian Schwegler","Kevin Kampl",11
-"Christian Schwegler","Naby Keita",3
-"Christian Schwegler","Massimo Bruno",1
-"Christian Schwegler","Martin Hinteregger",1
-"Christian Schwegler","Valentino Lazaro",1
-"Marcel Sabitzer","Christian Schwegler",4
-"Marcel Sabitzer","Sadio Mané",2
-"Marcel Sabitzer","Andreas Ulmer",2
-"Marcel Sabitzer","Jonatan Soriano",6
-"Marcel Sabitzer","Kevin Kampl",8
-"Marcel Sabitzer","Peter Ankersen",3
-"Sadio Mané","Marcel Sabitzer",4
-"Sadio Mané","Stefan Ilsanker",2
-"Sadio Mané","Andreas Ulmer",6
-"Sadio Mané","Christoph Leitgeb",9
-"Sadio Mané","Jonatan Soriano",2
-"Sadio Mané","Kevin Kampl",9
-"Stefan Ilsanker","Péter Gulácsi",2
-"Stefan Ilsanker","André Ramalho",6
-"Stefan Ilsanker","Christian Schwegler",19
-"Stefan Ilsanker","Marcel Sabitzer",4
-"Stefan Ilsanker","Sadio Mané",3
-"Stefan Ilsanker","Franz Schiemer",1
-"Stefan Ilsanker","Andreas Ulmer",7
-"Stefan Ilsanker","Christoph Leitgeb",3
-"Stefan Ilsanker","Jonatan Soriano",5
-"Stefan Ilsanker","Kevin Kampl",6
-"Stefan Ilsanker","Naby Keita",5
-"Stefan Ilsanker","Alan",5
-"Stefan Ilsanker","Massimo Bruno",4
-"Stefan Ilsanker","Martin Hinteregger",3
-"Stefan Ilsanker","Peter Ankersen",4
-"Franz Schiemer","Péter Gulácsi",1
-"Franz Schiemer","André Ramalho",5
-"Franz Schiemer","Christian Schwegler",3
-"Franz Schiemer","Marcel Sabitzer",3
-"Franz Schiemer","Sadio Mané",4
-"Franz Schiemer","Stefan Ilsanker",2
-"Franz Schiemer","Andreas Ulmer",7
-"Franz Schiemer","Christoph Leitgeb",2
-"Franz Schiemer","Jonatan Soriano",2
-"Franz Schiemer","Kevin Kampl",4
-"Franz Schiemer","Alan",1
-"Andreas Ulmer","André Ramalho",2
-"Andreas Ulmer","Christian Schwegler",1
-"Andreas Ulmer","Marcel Sabitzer",3
-"Andreas Ulmer","Sadio Mané",6
-"Andreas Ulmer","Stefan Ilsanker",3
-"Andreas Ulmer","Franz Schiemer",2
-"Andreas Ulmer","Christoph Leitgeb",1
-"Andreas Ulmer","Jonatan Soriano",6
-"Andreas Ulmer","Kevin Kampl",3
-"Andreas Ulmer","Massimo Bruno",1
-"Christoph Leitgeb","André Ramalho",5
-"Christoph Leitgeb","Christian Schwegler",6
-"Christoph Leitgeb","Marcel Sabitzer",4
-"Christoph Leitgeb","Sadio Mané",2
-"Christoph Leitgeb","Stefan Ilsanker",8
-"Christoph Leitgeb","Franz Schiemer",2
-"Christoph Leitgeb","Andreas Ulmer",2
-"Christoph Leitgeb","Jonatan Soriano",13
-"Christoph Leitgeb","Kevin Kampl",14
-"Christoph Leitgeb","Alan",2
-"Christoph Leitgeb","Massimo Bruno",2
-"Christoph Leitgeb","Martin Hinteregger",1
-"Christoph Leitgeb","Peter Ankersen",5
-"Jonatan Soriano","Marcel Sabitzer",4
-"Jonatan Soriano","Sadio Mané",5
-"Jonatan Soriano","Stefan Ilsanker",5
-"Jonatan Soriano","Christoph Leitgeb",6
-"Jonatan Soriano","Kevin Kampl",12
-"Jonatan Soriano","Naby Keita",6
-"Jonatan Soriano","Alan",6
-"Jonatan Soriano","Massimo Bruno",3
-"Jonatan Soriano","Martin Hinteregger",1
-"Jonatan Soriano","Peter Ankersen",2
-"Jonatan Soriano","Valentino Lazaro",1
-"Kevin Kampl","André Ramalho",1
-"Kevin Kampl","Christian Schwegler",6
-"Kevin Kampl","Marcel Sabitzer",5
-"Kevin Kampl","Sadio Mané",6
-"Kevin Kampl","Stefan Ilsanker",8
-"Kevin Kampl","Andreas Ulmer",4
-"Kevin Kampl","Christoph Leitgeb",16
-"Kevin Kampl","Jonatan Soriano",8
-"Kevin Kampl","Naby Keita",2
-"Kevin Kampl","Alan",4
-"Kevin Kampl","Massimo Bruno",2
-"Kevin Kampl","Martin Hinteregger",8
-"Kevin Kampl","Peter Ankersen",2
-"Kevin Kampl","Valentino Lazaro",1
-"Naby Keita","Christian Schwegler",6
-"Naby Keita","Stefan Ilsanker",2
-"Naby Keita","Franz Schiemer",1
-"Naby Keita","Christoph Leitgeb",4
-"Naby Keita","Jonatan Soriano",2
-"Naby Keita","Kevin Kampl",3
-"Naby Keita","Alan",2
-"Naby Keita","Massimo Bruno",5
-"Naby Keita","Martin Hinteregger",2
-"Alan","Christian Schwegler",1
-"Alan","Marcel Sabitzer",2
-"Alan","Stefan Ilsanker",3
-"Alan","Christoph Leitgeb",1
-"Alan","Jonatan Soriano",1
-"Alan","Kevin Kampl",3
-"Alan","Naby Keita",3
-"Alan","Massimo Bruno",2
-"Alan","Martin Hinteregger",1
-"Alan","Peter Ankersen",1
-"Alan","Valentino Lazaro",1
-"Massimo Bruno","Christian Schwegler",1
-"Massimo Bruno","Marcel Sabitzer",1
-"Massimo Bruno","Stefan Ilsanker",2
-"Massimo Bruno","Andreas Ulmer",3
-"Massimo Bruno","Jonatan Soriano",5
-"Massimo Bruno","Kevin Kampl",1
-"Massimo Bruno","Naby Keita",1
-"Massimo Bruno","Alan",1
-"Massimo Bruno","Peter Ankersen",1
-"Martin Hinteregger","Péter Gulácsi",2
-"Martin Hinteregger","André Ramalho",2
-"Martin Hinteregger","Stefan Ilsanker",1
-"Martin Hinteregger","Christoph Leitgeb",2
-"Martin Hinteregger","Jonatan Soriano",8
-"Martin Hinteregger","Alan",2
-"Martin Hinteregger","Kevin Kampl",4
-"Martin Hinteregger","Massimo Bruno",1
-"Martin Hinteregger","Peter Ankersen",9
-"Peter Ankersen","Péter Gulácsi",2
-"Peter Ankersen","André Ramalho",2
-"Peter Ankersen","Stefan Ilsanker",1
-"Peter Ankersen","Christoph Leitgeb",5
-"Peter Ankersen","Alan",2
-"Peter Ankersen","Martin Hinteregger",4
-"Peter Ankersen","Kevin Kampl",4
-"Peter Ankersen","Marcel Sabitzer",2
-"Peter Ankersen","Valentino Lazaro",1
-"Valentino Lazaro","André Ramalho",1
-"Valentino Lazaro","Stefan Ilsanker",1
-"Valentino Lazaro","Jonatan Soriano",1
-"Valentino Lazaro","Alan",1
+Source,Target,Weight
+"31","5",7
+"31","6",3
+"31","7",1
+"31","10",4
+"31","13",2
+"31","15",2
+"31","8",1
+"31","27",1
+"31","36",3
+"31","4",2
+"5","31",4
+"5","6",10
+"5","7",3
+"5","13",5
+"5","15",5
+"5","17",3
+"5","24",4
+"5","26",2
+"5","44",5
+"5","8",3
+"5","27",2
+"5","77",3
+"5","36",9
+"5","4",4
+"5","37",2
+"6","5",8
+"6","7",5
+"6","10",1
+"6","13",4
+"6","15",1
+"6","24",7
+"6","26",4
+"6","44",11
+"6","8",3
+"6","77",1
+"6","36",1
+"6","37",1
+"7","6",4
+"7","10",2
+"7","17",2
+"7","26",6
+"7","44",8
+"7","4",3
+"10","7",4
+"10","13",2
+"10","17",6
+"10","24",9
+"10","26",2
+"10","44",9
+"13","31",2
+"13","5",6
+"13","6",19
+"13","7",4
+"13","10",3
+"13","15",1
+"13","17",7
+"13","24",3
+"13","26",5
+"13","44",6
+"13","8",5
+"13","27",5
+"13","77",4
+"13","36",3
+"13","4",4
+"15","31",1
+"15","5",5
+"15","6",3
+"15","7",3
+"15","10",4
+"15","13",2
+"15","17",7
+"15","24",2
+"15","26",2
+"15","44",4
+"15","27",1
+"17","5",2
+"17","6",1
+"17","7",3
+"17","10",6
+"17","13",3
+"17","15",2
+"17","24",1
+"17","26",6
+"17","44",3
+"17","77",1
+"24","5",5
+"24","6",6
+"24","7",4
+"24","10",2
+"24","13",8
+"24","15",2
+"24","17",2
+"24","26",13
+"24","44",14
+"24","27",2
+"24","77",2
+"24","36",1
+"24","4",5
+"26","7",4
+"26","10",5
+"26","13",5
+"26","24",6
+"26","44",12
+"26","8",6
+"26","27",6
+"26","77",3
+"26","36",1
+"26","4",2
+"26","37",1
+"44","5",1
+"44","6",6
+"44","7",5
+"44","10",6
+"44","13",8
+"44","17",4
+"44","24",16
+"44","26",8
+"44","8",2
+"44","27",4
+"44","77",2
+"44","36",8
+"44","4",2
+"44","37",1
+"8","6",6
+"8","13",2
+"8","15",1
+"8","24",4
+"8","26",2
+"8","44",3
+"8","27",2
+"8","77",5
+"8","36",2
+"27","6",1
+"27","7",2
+"27","13",3
+"27","24",1
+"27","26",1
+"27","44",3
+"27","8",3
+"27","77",2
+"27","36",1
+"27","4",1
+"27","37",1
+"77","6",1
+"77","7",1
+"77","13",2
+"77","17",3
+"77","26",5
+"77","44",1
+"77","8",1
+"77","27",1
+"77","4",1
+"36","31",2
+"36","5",2
+"36","13",1
+"36","24",2
+"36","26",8
+"36","27",2
+"36","44",4
+"36","77",1
+"36","4",9
+"4","31",2
+"4","5",2
+"4","13",1
+"4","24",5
+"4","27",2
+"4","36",4
+"4","44",4
+"4","7",2
+"4","37",1
+"37","5",1
+"37","13",1
+"37","26",1
+"37","27",1

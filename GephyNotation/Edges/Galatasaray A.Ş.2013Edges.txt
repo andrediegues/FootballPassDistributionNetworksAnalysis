@@ -1,255 +1,256 @@
-"Fernando Muslera","Hamit Altıntop",9
-"Fernando Muslera","Selçuk İnan",2
-"Fernando Muslera","Felipe Melo",4
-"Fernando Muslera","Dany Nounkeu",8
-"Fernando Muslera","Burak Yılmaz",2
-"Fernando Muslera","Umut Bulut",4
-"Fernando Muslera","Hakan Balta",1
-"Fernando Muslera","Semih Kaya",6
-"Fernando Muslera","Emmanuel Eboué",11
-"Fernando Muslera","Nordin Amrabat",6
-"Fernando Muslera","Johan Elmander",7
-"Fernando Muslera","Albert Riera",16
-"Fernando Muslera","Yekta Kurtuluş",1
-"Fernando Muslera","Cris",3
-"Hamit Altıntop","Fernando Muslera",1
-"Hamit Altıntop","Selçuk İnan",24
-"Hamit Altıntop","Felipe Melo",14
-"Hamit Altıntop","Dany Nounkeu",10
-"Hamit Altıntop","Burak Yılmaz",9
-"Hamit Altıntop","Umut Bulut",4
-"Hamit Altıntop","Hakan Balta",3
-"Hamit Altıntop","Semih Kaya",3
-"Hamit Altıntop","Emmanuel Eboué",32
-"Hamit Altıntop","Nordin Amrabat",8
-"Hamit Altıntop","Aydın Yılmaz",1
-"Hamit Altıntop","Johan Elmander",9
-"Hamit Altıntop","Emre Çolak",2
-"Hamit Altıntop","Cris",1
-"Hamit Altıntop","Yekta Kurtuluş",3
-"Hamit Altıntop","Engin Baytar",3
-"Selçuk İnan","Fernando Muslera",3
-"Selçuk İnan","Hamit Altıntop",24
-"Selçuk İnan","Felipe Melo",31
-"Selçuk İnan","Dany Nounkeu",35
-"Selçuk İnan","Burak Yılmaz",20
-"Selçuk İnan","Umut Bulut",17
-"Selçuk İnan","Hakan Balta",5
-"Selçuk İnan","Semih Kaya",18
-"Selçuk İnan","Emmanuel Eboué",50
-"Selçuk İnan","Nordin Amrabat",17
-"Selçuk İnan","Aydın Yılmaz",14
-"Selçuk İnan","Johan Elmander",8
-"Selçuk İnan","Emre Çolak",23
-"Selçuk İnan","Albert Riera",35
-"Selçuk İnan","Yekta Kurtuluş",13
-"Selçuk İnan","Sabri Sarıoğlu",1
-"Selçuk İnan","Cris",11
-"Felipe Melo","Fernando Muslera",4
-"Felipe Melo","Hamit Altıntop",12
-"Felipe Melo","Selçuk İnan",29
-"Felipe Melo","Dany Nounkeu",28
-"Felipe Melo","Burak Yılmaz",11
-"Felipe Melo","Umut Bulut",1
-"Felipe Melo","Hakan Balta",2
-"Felipe Melo","Semih Kaya",15
-"Felipe Melo","Emmanuel Eboué",24
-"Felipe Melo","Nordin Amrabat",22
-"Felipe Melo","Aydın Yılmaz",4
-"Felipe Melo","Johan Elmander",5
-"Felipe Melo","Emre Çolak",16
-"Felipe Melo","Albert Riera",22
-"Felipe Melo","Engin Baytar",3
-"Dany Nounkeu","Fernando Muslera",20
-"Dany Nounkeu","Hamit Altıntop",11
-"Dany Nounkeu","Selçuk İnan",43
-"Dany Nounkeu","Felipe Melo",34
-"Dany Nounkeu","Burak Yılmaz",8
-"Dany Nounkeu","Umut Bulut",4
-"Dany Nounkeu","Hakan Balta",3
-"Dany Nounkeu","Semih Kaya",23
-"Dany Nounkeu","Emmanuel Eboué",17
-"Dany Nounkeu","Nordin Amrabat",9
-"Dany Nounkeu","Aydın Yılmaz",2
-"Dany Nounkeu","Johan Elmander",2
-"Dany Nounkeu","Emre Çolak",27
-"Dany Nounkeu","Albert Riera",43
-"Dany Nounkeu","Yekta Kurtuluş",9
-"Dany Nounkeu","Sabri Sarıoğlu",4
-"Dany Nounkeu","Cris",14
-"Dany Nounkeu","Engin Baytar",1
-"Burak Yılmaz","Hamit Altıntop",15
-"Burak Yılmaz","Selçuk İnan",15
-"Burak Yılmaz","Felipe Melo",5
-"Burak Yılmaz","Dany Nounkeu",5
-"Burak Yılmaz","Umut Bulut",5
-"Burak Yılmaz","Semih Kaya",2
-"Burak Yılmaz","Emmanuel Eboué",7
-"Burak Yılmaz","Nordin Amrabat",10
-"Burak Yılmaz","Aydın Yılmaz",2
-"Burak Yılmaz","Johan Elmander",4
-"Burak Yılmaz","Emre Çolak",8
-"Burak Yılmaz","Albert Riera",2
-"Burak Yılmaz","Yekta Kurtuluş",1
-"Burak Yılmaz","Cris",2
-"Umut Bulut","Hamit Altıntop",3
-"Umut Bulut","Selçuk İnan",5
-"Umut Bulut","Felipe Melo",2
-"Umut Bulut","Dany Nounkeu",2
-"Umut Bulut","Burak Yılmaz",4
-"Umut Bulut","Semih Kaya",2
-"Umut Bulut","Emmanuel Eboué",3
-"Umut Bulut","Nordin Amrabat",4
-"Umut Bulut","Aydın Yılmaz",2
-"Umut Bulut","Johan Elmander",3
-"Umut Bulut","Emre Çolak",3
-"Umut Bulut","Albert Riera",4
-"Umut Bulut","Yekta Kurtuluş",1
-"Hakan Balta","Hamit Altıntop",2
-"Hakan Balta","Selçuk İnan",5
-"Hakan Balta","Felipe Melo",4
-"Hakan Balta","Dany Nounkeu",3
-"Hakan Balta","Burak Yılmaz",4
-"Hakan Balta","Semih Kaya",2
-"Hakan Balta","Nordin Amrabat",2
-"Hakan Balta","Aydın Yılmaz",1
-"Hakan Balta","Johan Elmander",2
-"Hakan Balta","Emre Çolak",2
-"Semih Kaya","Fernando Muslera",5
-"Semih Kaya","Hamit Altıntop",5
-"Semih Kaya","Selçuk İnan",29
-"Semih Kaya","Felipe Melo",20
-"Semih Kaya","Dany Nounkeu",35
-"Semih Kaya","Burak Yılmaz",5
-"Semih Kaya","Umut Bulut",2
-"Semih Kaya","Hakan Balta",4
-"Semih Kaya","Emmanuel Eboué",21
-"Semih Kaya","Nordin Amrabat",6
-"Semih Kaya","Aydın Yılmaz",4
-"Semih Kaya","Johan Elmander",2
-"Semih Kaya","Emre Çolak",5
-"Semih Kaya","Albert Riera",15
-"Semih Kaya","Yekta Kurtuluş",2
-"Semih Kaya","Sabri Sarıoğlu",5
-"Emmanuel Eboué","Fernando Muslera",7
-"Emmanuel Eboué","Hamit Altıntop",37
-"Emmanuel Eboué","Selçuk İnan",40
-"Emmanuel Eboué","Felipe Melo",29
-"Emmanuel Eboué","Dany Nounkeu",14
-"Emmanuel Eboué","Burak Yılmaz",16
-"Emmanuel Eboué","Umut Bulut",6
-"Emmanuel Eboué","Hakan Balta",1
-"Emmanuel Eboué","Semih Kaya",34
-"Emmanuel Eboué","Nordin Amrabat",17
-"Emmanuel Eboué","Aydın Yılmaz",11
-"Emmanuel Eboué","Johan Elmander",5
-"Emmanuel Eboué","Emre Çolak",11
-"Emmanuel Eboué","Albert Riera",4
-"Emmanuel Eboué","Yekta Kurtuluş",7
-"Emmanuel Eboué","Cris",6
-"Emmanuel Eboué","Engin Baytar",2
-"Nordin Amrabat","Fernando Muslera",1
-"Nordin Amrabat","Hamit Altıntop",7
-"Nordin Amrabat","Selçuk İnan",20
-"Nordin Amrabat","Felipe Melo",13
-"Nordin Amrabat","Dany Nounkeu",10
-"Nordin Amrabat","Burak Yılmaz",11
-"Nordin Amrabat","Umut Bulut",5
-"Nordin Amrabat","Hakan Balta",3
-"Nordin Amrabat","Semih Kaya",3
-"Nordin Amrabat","Emmanuel Eboué",7
-"Nordin Amrabat","Johan Elmander",5
-"Nordin Amrabat","Emre Çolak",4
-"Nordin Amrabat","Albert Riera",19
-"Aydın Yılmaz","Hamit Altıntop",1
-"Aydın Yılmaz","Selçuk İnan",10
-"Aydın Yılmaz","Felipe Melo",3
-"Aydın Yılmaz","Dany Nounkeu",3
-"Aydın Yılmaz","Burak Yılmaz",3
-"Aydın Yılmaz","Umut Bulut",2
-"Aydın Yılmaz","Semih Kaya",3
-"Aydın Yılmaz","Emmanuel Eboué",4
-"Aydın Yılmaz","Nordin Amrabat",2
-"Aydın Yılmaz","Johan Elmander",1
-"Aydın Yılmaz","Emre Çolak",2
-"Aydın Yılmaz","Albert Riera",2
-"Johan Elmander","Hamit Altıntop",10
-"Johan Elmander","Selçuk İnan",4
-"Johan Elmander","Felipe Melo",2
-"Johan Elmander","Dany Nounkeu",1
-"Johan Elmander","Burak Yılmaz",8
-"Johan Elmander","Umut Bulut",2
-"Johan Elmander","Hakan Balta",1
-"Johan Elmander","Emmanuel Eboué",3
-"Johan Elmander","Nordin Amrabat",6
-"Johan Elmander","Emre Çolak",1
-"Johan Elmander","Albert Riera",3
-"Emre Çolak","Fernando Muslera",1
-"Emre Çolak","Hamit Altıntop",2
-"Emre Çolak","Selçuk İnan",32
-"Emre Çolak","Felipe Melo",17
-"Emre Çolak","Dany Nounkeu",7
-"Emre Çolak","Burak Yılmaz",7
-"Emre Çolak","Umut Bulut",7
-"Emre Çolak","Hakan Balta",3
-"Emre Çolak","Semih Kaya",4
-"Emre Çolak","Emmanuel Eboué",6
-"Emre Çolak","Nordin Amrabat",9
-"Emre Çolak","Aydın Yılmaz",2
-"Emre Çolak","Johan Elmander",1
-"Emre Çolak","Albert Riera",26
-"Emre Çolak","Yekta Kurtuluş",16
-"Emre Çolak","Sabri Sarıoğlu",2
-"Emre Çolak","Cris",1
-"Albert Riera","Fernando Muslera",4
-"Albert Riera","Selçuk İnan",31
-"Albert Riera","Felipe Melo",27
-"Albert Riera","Dany Nounkeu",26
-"Albert Riera","Burak Yılmaz",12
-"Albert Riera","Umut Bulut",6
-"Albert Riera","Semih Kaya",9
-"Albert Riera","Emmanuel Eboué",5
-"Albert Riera","Emre Çolak",46
-"Albert Riera","Nordin Amrabat",33
-"Albert Riera","Aydın Yılmaz",4
-"Albert Riera","Johan Elmander",7
-"Albert Riera","Yekta Kurtuluş",4
-"Albert Riera","Hamit Altıntop",2
-"Albert Riera","Cris",1
-"Albert Riera","Engin Baytar",3
-"Yekta Kurtuluş","Fernando Muslera",2
-"Yekta Kurtuluş","Selçuk İnan",19
-"Yekta Kurtuluş","Albert Riera",9
-"Yekta Kurtuluş","Dany Nounkeu",5
-"Yekta Kurtuluş","Burak Yılmaz",3
-"Yekta Kurtuluş","Umut Bulut",7
-"Yekta Kurtuluş","Semih Kaya",1
-"Yekta Kurtuluş","Emmanuel Eboué",6
-"Yekta Kurtuluş","Emre Çolak",13
-"Yekta Kurtuluş","Cris",2
-"Yekta Kurtuluş","Hamit Altıntop",5
-"Sabri Sarıoğlu","Selçuk İnan",1
-"Sabri Sarıoğlu","Albert Riera",1
-"Sabri Sarıoğlu","Dany Nounkeu",3
-"Sabri Sarıoğlu","Semih Kaya",1
-"Sabri Sarıoğlu","Nordin Amrabat",2
-"Sabri Sarıoğlu","Burak Yılmaz",1
-"Sabri Sarıoğlu","Emre Çolak",1
-"Cris","Fernando Muslera",5
-"Cris","Hamit Altıntop",1
-"Cris","Selçuk İnan",5
-"Cris","Albert Riera",2
-"Cris","Dany Nounkeu",16
-"Cris","Umut Bulut",2
-"Cris","Emmanuel Eboué",11
-"Cris","Yekta Kurtuluş",5
-"Cris","Emre Çolak",1
-"Cris","Nordin Amrabat",1
-"Engin Baytar","Hamit Altıntop",1
-"Engin Baytar","Selçuk İnan",3
-"Engin Baytar","Felipe Melo",5
-"Engin Baytar","Albert Riera",3
-"Engin Baytar","Dany Nounkeu",1
-"Engin Baytar","Burak Yılmaz",1
-"Engin Baytar","Emmanuel Eboué",1
-"Engin Baytar","Nordin Amrabat",1
+Source,Target,Weight
+"25","4",9
+"25","8",2
+"25","10",4
+"25","13",8
+"25","17",2
+"25","19",4
+"25","22",1
+"25","26",6
+"25","27",11
+"25","53",6
+"25","9",7
+"25","11",16
+"25","35",1
+"25","3",3
+"4","25",1
+"4","8",24
+"4","10",14
+"4","13",10
+"4","17",9
+"4","19",4
+"4","22",3
+"4","26",3
+"4","27",32
+"4","53",8
+"4","7",1
+"4","9",9
+"4","52",2
+"4","3",1
+"4","35",3
+"4","50",3
+"8","25",3
+"8","4",24
+"8","10",31
+"8","13",35
+"8","17",20
+"8","19",17
+"8","22",5
+"8","26",18
+"8","27",50
+"8","53",17
+"8","7",14
+"8","9",8
+"8","52",23
+"8","11",35
+"8","35",13
+"8","55",1
+"8","3",11
+"10","25",4
+"10","4",12
+"10","8",29
+"10","13",28
+"10","17",11
+"10","19",1
+"10","22",2
+"10","26",15
+"10","27",24
+"10","53",22
+"10","7",4
+"10","9",5
+"10","52",16
+"10","11",22
+"10","50",3
+"13","25",20
+"13","4",11
+"13","8",43
+"13","10",34
+"13","17",8
+"13","19",4
+"13","22",3
+"13","26",23
+"13","27",17
+"13","53",9
+"13","7",2
+"13","9",2
+"13","52",27
+"13","11",43
+"13","35",9
+"13","55",4
+"13","3",14
+"13","50",1
+"17","4",15
+"17","8",15
+"17","10",5
+"17","13",5
+"17","19",5
+"17","26",2
+"17","27",7
+"17","53",10
+"17","7",2
+"17","9",4
+"17","52",8
+"17","11",2
+"17","35",1
+"17","3",2
+"19","4",3
+"19","8",5
+"19","10",2
+"19","13",2
+"19","17",4
+"19","26",2
+"19","27",3
+"19","53",4
+"19","7",2
+"19","9",3
+"19","52",3
+"19","11",4
+"19","35",1
+"22","4",2
+"22","8",5
+"22","10",4
+"22","13",3
+"22","17",4
+"22","26",2
+"22","53",2
+"22","7",1
+"22","9",2
+"22","52",2
+"26","25",5
+"26","4",5
+"26","8",29
+"26","10",20
+"26","13",35
+"26","17",5
+"26","19",2
+"26","22",4
+"26","27",21
+"26","53",6
+"26","7",4
+"26","9",2
+"26","52",5
+"26","11",15
+"26","35",2
+"26","55",5
+"27","25",7
+"27","4",37
+"27","8",40
+"27","10",29
+"27","13",14
+"27","17",16
+"27","19",6
+"27","22",1
+"27","26",34
+"27","53",17
+"27","7",11
+"27","9",5
+"27","52",11
+"27","11",4
+"27","35",7
+"27","3",6
+"27","50",2
+"53","25",1
+"53","4",7
+"53","8",20
+"53","10",13
+"53","13",10
+"53","17",11
+"53","19",5
+"53","22",3
+"53","26",3
+"53","27",7
+"53","9",5
+"53","52",4
+"53","11",19
+"7","4",1
+"7","8",10
+"7","10",3
+"7","13",3
+"7","17",3
+"7","19",2
+"7","26",3
+"7","27",4
+"7","53",2
+"7","9",1
+"7","52",2
+"7","11",2
+"9","4",10
+"9","8",4
+"9","10",2
+"9","13",1
+"9","17",8
+"9","19",2
+"9","22",1
+"9","27",3
+"9","53",6
+"9","52",1
+"9","11",3
+"52","25",1
+"52","4",2
+"52","8",32
+"52","10",17
+"52","13",7
+"52","17",7
+"52","19",7
+"52","22",3
+"52","26",4
+"52","27",6
+"52","53",9
+"52","7",2
+"52","9",1
+"52","11",26
+"52","35",16
+"52","55",2
+"52","3",1
+"11","25",4
+"11","8",31
+"11","10",27
+"11","13",26
+"11","17",12
+"11","19",6
+"11","26",9
+"11","27",5
+"11","52",46
+"11","53",33
+"11","7",4
+"11","9",7
+"11","35",4
+"11","4",2
+"11","3",1
+"11","50",3
+"35","25",2
+"35","8",19
+"35","11",9
+"35","13",5
+"35","17",3
+"35","19",7
+"35","26",1
+"35","27",6
+"35","52",13
+"35","3",2
+"35","4",5
+"55","8",1
+"55","11",1
+"55","13",3
+"55","26",1
+"55","53",2
+"55","17",1
+"55","52",1
+"3","25",5
+"3","4",1
+"3","8",5
+"3","11",2
+"3","13",16
+"3","19",2
+"3","27",11
+"3","35",5
+"3","52",1
+"3","53",1
+"50","4",1
+"50","8",3
+"50","10",5
+"50","11",3
+"50","13",1
+"50","17",1
+"50","27",1
+"50","53",1

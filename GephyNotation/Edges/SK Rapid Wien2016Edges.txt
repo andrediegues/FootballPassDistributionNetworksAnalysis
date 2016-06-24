@@ -1,140 +1,141 @@
-"Ján Novota","Thanos Petsos",7
-"Ján Novota","Mario Sonnleitner",4
-"Ján Novota","Robert Berić",1
-"Ján Novota","Srdjan Grahovac",3
-"Ján Novota","Christopher Dibon",9
-"Ján Novota","Mario Pavelic",9
-"Ján Novota","Stephan Auer",2
-"Ján Novota","Stefan Schwab",1
-"Thanos Petsos","Ján Novota",3
-"Thanos Petsos","Mario Sonnleitner",13
-"Thanos Petsos","Robert Berić",2
-"Thanos Petsos","Louis Schaub",12
-"Thanos Petsos","Steffen Hofmann",9
-"Thanos Petsos","Florian Kainz",14
-"Thanos Petsos","Srdjan Grahovac",23
-"Thanos Petsos","Christopher Dibon",18
-"Thanos Petsos","Mario Pavelic",17
-"Thanos Petsos","Stephan Auer",14
-"Thanos Petsos","Schobesberger",6
-"Thanos Petsos","Deni Alar",1
-"Thanos Petsos","Stefan Schwab",2
-"Mario Sonnleitner","Ján Novota",3
-"Mario Sonnleitner","Thanos Petsos",19
-"Mario Sonnleitner","Robert Berić",7
-"Mario Sonnleitner","Louis Schaub",7
-"Mario Sonnleitner","Steffen Hofmann",3
-"Mario Sonnleitner","Florian Kainz",2
-"Mario Sonnleitner","Srdjan Grahovac",17
-"Mario Sonnleitner","Christopher Dibon",13
-"Mario Sonnleitner","Mario Pavelic",6
-"Mario Sonnleitner","Stephan Auer",5
-"Mario Sonnleitner","Schobesberger",2
-"Mario Sonnleitner","Stefan Schwab",1
-"Robert Berić","Thanos Petsos",2
-"Robert Berić","Mario Sonnleitner",1
-"Robert Berić","Louis Schaub",3
-"Robert Berić","Steffen Hofmann",11
-"Robert Berić","Florian Kainz",3
-"Robert Berić","Srdjan Grahovac",3
-"Robert Berić","Christopher Dibon",1
-"Robert Berić","Mario Pavelic",2
-"Robert Berić","Stephan Auer",8
-"Robert Berić","Schobesberger",1
-"Louis Schaub","Thanos Petsos",5
-"Louis Schaub","Mario Sonnleitner",2
-"Louis Schaub","Robert Berić",5
-"Louis Schaub","Steffen Hofmann",2
-"Louis Schaub","Florian Kainz",8
-"Louis Schaub","Srdjan Grahovac",6
-"Louis Schaub","Christopher Dibon",1
-"Louis Schaub","Mario Pavelic",7
-"Louis Schaub","Stephan Auer",2
-"Louis Schaub","Schobesberger",1
-"Louis Schaub","Stefan Schwab",2
-"Steffen Hofmann","Thanos Petsos",9
-"Steffen Hofmann","Mario Sonnleitner",6
-"Steffen Hofmann","Robert Berić",2
-"Steffen Hofmann","Louis Schaub",5
-"Steffen Hofmann","Florian Kainz",4
-"Steffen Hofmann","Srdjan Grahovac",11
-"Steffen Hofmann","Christopher Dibon",4
-"Steffen Hofmann","Stephan Auer",4
-"Florian Kainz","Ján Novota",1
-"Florian Kainz","Thanos Petsos",7
-"Florian Kainz","Mario Sonnleitner",1
-"Florian Kainz","Robert Berić",3
-"Florian Kainz","Louis Schaub",5
-"Florian Kainz","Steffen Hofmann",5
-"Florian Kainz","Srdjan Grahovac",4
-"Florian Kainz","Christopher Dibon",2
-"Florian Kainz","Mario Pavelic",1
-"Florian Kainz","Stephan Auer",9
-"Florian Kainz","Schobesberger",2
-"Florian Kainz","Stefan Schwab",1
-"Srdjan Grahovac","Ján Novota",2
-"Srdjan Grahovac","Thanos Petsos",17
-"Srdjan Grahovac","Mario Sonnleitner",14
-"Srdjan Grahovac","Robert Berić",2
-"Srdjan Grahovac","Louis Schaub",9
-"Srdjan Grahovac","Steffen Hofmann",7
-"Srdjan Grahovac","Florian Kainz",8
-"Srdjan Grahovac","Christopher Dibon",21
-"Srdjan Grahovac","Mario Pavelic",15
-"Srdjan Grahovac","Stephan Auer",14
-"Srdjan Grahovac","Deni Alar",2
-"Christopher Dibon","Ján Novota",16
-"Christopher Dibon","Thanos Petsos",18
-"Christopher Dibon","Mario Sonnleitner",20
-"Christopher Dibon","Robert Berić",2
-"Christopher Dibon","Louis Schaub",2
-"Christopher Dibon","Steffen Hofmann",5
-"Christopher Dibon","Florian Kainz",6
-"Christopher Dibon","Srdjan Grahovac",16
-"Christopher Dibon","Stephan Auer",12
-"Christopher Dibon","Stefan Schwab",2
-"Mario Pavelic","Ján Novota",4
-"Mario Pavelic","Thanos Petsos",14
-"Mario Pavelic","Mario Sonnleitner",9
-"Mario Pavelic","Robert Berić",1
-"Mario Pavelic","Louis Schaub",4
-"Mario Pavelic","Steffen Hofmann",6
-"Mario Pavelic","Florian Kainz",2
-"Mario Pavelic","Srdjan Grahovac",13
-"Mario Pavelic","Christopher Dibon",2
-"Mario Pavelic","Stephan Auer",2
-"Mario Pavelic","Schobesberger",1
-"Mario Pavelic","Stefan Schwab",2
-"Stephan Auer","Ján Novota",2
-"Stephan Auer","Thanos Petsos",16
-"Stephan Auer","Mario Sonnleitner",1
-"Stephan Auer","Robert Berić",5
-"Stephan Auer","Louis Schaub",3
-"Stephan Auer","Steffen Hofmann",8
-"Stephan Auer","Florian Kainz",9
-"Stephan Auer","Srdjan Grahovac",11
-"Stephan Auer","Christopher Dibon",11
-"Stephan Auer","Schobesberger",2
-"Stephan Auer","Deni Alar",2
-"Stephan Auer","Philipp Prosenik",1
-"Stephan Auer","Stefan Schwab",2
-"Schobesberger","Thanos Petsos",2
-"Schobesberger","Louis Schaub",1
-"Schobesberger","Florian Kainz",5
-"Schobesberger","Christopher Dibon",1
-"Schobesberger","Mario Pavelic",2
-"Schobesberger","Stephan Auer",1
-"Schobesberger","Philipp Prosenik",1
-"Schobesberger","Stefan Schwab",2
-"Deni Alar","Srdjan Grahovac",1
-"Deni Alar","Stephan Auer",2
-"Philipp Prosenik","Robert Berić",2
-"Stefan Schwab","Thanos Petsos",3
-"Stefan Schwab","Mario Sonnleitner",2
-"Stefan Schwab","Robert Berić",3
-"Stefan Schwab","Louis Schaub",1
-"Stefan Schwab","Florian Kainz",1
-"Stefan Schwab","Christopher Dibon",1
-"Stefan Schwab","Mario Pavelic",1
-"Stefan Schwab","Schobesberger",2
-"Stefan Schwab","Philipp Prosenik",2
+Source,Target,Weight
+"1","5",7
+"1","6",4
+"1","9",1
+"1","15",3
+"1","17",9
+"1","22",9
+"1","24",2
+"1","8",1
+"5","1",3
+"5","6",13
+"5","9",2
+"5","10",12
+"5","11",9
+"5","14",14
+"5","15",23
+"5","17",18
+"5","22",17
+"5","24",14
+"5","7",6
+"5","33",1
+"5","8",2
+"6","1",3
+"6","5",19
+"6","9",7
+"6","10",7
+"6","11",3
+"6","14",2
+"6","15",17
+"6","17",13
+"6","22",6
+"6","24",5
+"6","7",2
+"6","8",1
+"9","5",2
+"9","6",1
+"9","10",3
+"9","11",11
+"9","14",3
+"9","15",3
+"9","17",1
+"9","22",2
+"9","24",8
+"9","7",1
+"10","5",5
+"10","6",2
+"10","9",5
+"10","11",2
+"10","14",8
+"10","15",6
+"10","17",1
+"10","22",7
+"10","24",2
+"10","7",1
+"10","8",2
+"11","5",9
+"11","6",6
+"11","9",2
+"11","10",5
+"11","14",4
+"11","15",11
+"11","17",4
+"11","24",4
+"14","1",1
+"14","5",7
+"14","6",1
+"14","9",3
+"14","10",5
+"14","11",5
+"14","15",4
+"14","17",2
+"14","22",1
+"14","24",9
+"14","7",2
+"14","8",1
+"15","1",2
+"15","5",17
+"15","6",14
+"15","9",2
+"15","10",9
+"15","11",7
+"15","14",8
+"15","17",21
+"15","22",15
+"15","24",14
+"15","33",2
+"17","1",16
+"17","5",18
+"17","6",20
+"17","9",2
+"17","10",2
+"17","11",5
+"17","14",6
+"17","15",16
+"17","24",12
+"17","8",2
+"22","1",4
+"22","5",14
+"22","6",9
+"22","9",1
+"22","10",4
+"22","11",6
+"22","14",2
+"22","15",13
+"22","17",2
+"22","24",2
+"22","7",1
+"22","8",2
+"24","1",2
+"24","5",16
+"24","6",1
+"24","9",5
+"24","10",3
+"24","11",8
+"24","14",9
+"24","15",11
+"24","17",11
+"24","7",2
+"24","33",2
+"24","38",1
+"24","8",2
+"7","5",2
+"7","10",1
+"7","14",5
+"7","17",1
+"7","22",2
+"7","24",1
+"7","38",1
+"7","8",2
+"33","15",1
+"33","24",2
+"38","9",2
+"8","5",3
+"8","6",2
+"8","9",3
+"8","10",1
+"8","14",1
+"8","17",1
+"8","22",1
+"8","7",2
+"8","38",2

@@ -1,258 +1,259 @@
-"Maxym Koval","Danilo Silva",3
-"Maxym Koval","Miguel Veloso",5
-"Maxym Koval","Andriy Yarmolenko",2
-"Maxym Koval","Taras Mikhalik",7
-"Maxym Koval","Denys Garmash",2
-"Maxym Koval","Taye Taiwo",8
-"Maxym Koval","Yevhen Khacheridi",2
-"Maxym Koval","Raffael",1
-"Maxym Koval","Betão",6
-"Maxym Koval","Ognjen Vukojević",3
-"Maxym Koval","Oleh Gusev",1
-"Maxym Koval","Artem Milevskiy",2
-"Maxym Koval","Marco Ruben",1
-"Maxym Koval","Dudu",3
-"Danilo Silva","Maxym Koval",2
-"Danilo Silva","Miguel Veloso",23
-"Danilo Silva","Andriy Yarmolenko",23
-"Danilo Silva","Ideye Brown",7
-"Danilo Silva","Taras Mikhalik",9
-"Danilo Silva","Denys Garmash",6
-"Danilo Silva","Niko Kranjčar",6
-"Danilo Silva","Taye Taiwo",1
-"Danilo Silva","Yevhen Khacheridi",6
-"Danilo Silva","Raffael",4
-"Danilo Silva","Betão",8
-"Danilo Silva","Ognjen Vukojević",11
-"Danilo Silva","Oleh Gusev",10
-"Danilo Silva","Olexandr Shovkovskiy",2
-"Danilo Silva","Lukman Haruna",4
-"Danilo Silva","Dudu",1
-"Danilo Silva","Artem Milevskiy",2
-"Danilo Silva","Andriy Bogdanov",2
-"Miguel Veloso","Maxym Koval",2
-"Miguel Veloso","Danilo Silva",19
-"Miguel Veloso","Andriy Yarmolenko",17
-"Miguel Veloso","Ideye Brown",17
-"Miguel Veloso","Taras Mikhalik",9
-"Miguel Veloso","Denys Garmash",16
-"Miguel Veloso","Niko Kranjčar",12
-"Miguel Veloso","Taye Taiwo",32
-"Miguel Veloso","Yevhen Khacheridi",19
-"Miguel Veloso","Raffael",7
-"Miguel Veloso","Betão",11
-"Miguel Veloso","Ognjen Vukojević",13
-"Miguel Veloso","Oleh Gusev",19
-"Miguel Veloso","Admir Mehmedi",1
-"Miguel Veloso","Artem Milevskiy",4
-"Miguel Veloso","Lukman Haruna",4
-"Miguel Veloso","Dudu",1
-"Miguel Veloso","Andriy Bogdanov",2
-"Andriy Yarmolenko","Maxym Koval",1
-"Andriy Yarmolenko","Danilo Silva",15
-"Andriy Yarmolenko","Miguel Veloso",20
-"Andriy Yarmolenko","Ideye Brown",10
-"Andriy Yarmolenko","Taras Mikhalik",8
-"Andriy Yarmolenko","Denys Garmash",10
-"Andriy Yarmolenko","Niko Kranjčar",9
-"Andriy Yarmolenko","Taye Taiwo",9
-"Andriy Yarmolenko","Yevhen Khacheridi",1
-"Andriy Yarmolenko","Betão",12
-"Andriy Yarmolenko","Ognjen Vukojević",10
-"Andriy Yarmolenko","Oleh Gusev",3
-"Andriy Yarmolenko","Artem Milevskiy",1
-"Andriy Yarmolenko","Marco Ruben",1
-"Andriy Yarmolenko","Lukman Haruna",1
-"Andriy Yarmolenko","Dudu",1
-"Andriy Yarmolenko","Andriy Bogdanov",2
-"Ideye Brown","Maxym Koval",1
-"Ideye Brown","Danilo Silva",4
-"Ideye Brown","Miguel Veloso",15
-"Ideye Brown","Andriy Yarmolenko",12
-"Ideye Brown","Taras Mikhalik",2
-"Ideye Brown","Denys Garmash",7
-"Ideye Brown","Niko Kranjčar",2
-"Ideye Brown","Taye Taiwo",4
-"Ideye Brown","Yevhen Khacheridi",1
-"Ideye Brown","Raffael",1
-"Ideye Brown","Betão",2
-"Ideye Brown","Ognjen Vukojević",4
-"Ideye Brown","Oleh Gusev",6
-"Taras Mikhalik","Maxym Koval",5
-"Taras Mikhalik","Danilo Silva",12
-"Taras Mikhalik","Miguel Veloso",9
-"Taras Mikhalik","Andriy Yarmolenko",7
-"Taras Mikhalik","Ideye Brown",4
-"Taras Mikhalik","Denys Garmash",8
-"Taras Mikhalik","Niko Kranjčar",4
-"Taras Mikhalik","Taye Taiwo",6
-"Taras Mikhalik","Yevhen Khacheridi",13
-"Taras Mikhalik","Raffael",4
-"Taras Mikhalik","Betão",9
-"Taras Mikhalik","Ognjen Vukojević",15
-"Taras Mikhalik","Oleh Gusev",4
-"Taras Mikhalik","Olexandr Shovkovskiy",9
-"Taras Mikhalik","Artem Milevskiy",1
-"Taras Mikhalik","Marco Ruben",1
-"Denys Garmash","Danilo Silva",10
-"Denys Garmash","Miguel Veloso",17
-"Denys Garmash","Andriy Yarmolenko",8
-"Denys Garmash","Ideye Brown",9
-"Denys Garmash","Taras Mikhalik",4
-"Denys Garmash","Niko Kranjčar",4
-"Denys Garmash","Taye Taiwo",8
-"Denys Garmash","Yevhen Khacheridi",6
-"Denys Garmash","Raffael",7
-"Denys Garmash","Betão",4
-"Denys Garmash","Ognjen Vukojević",3
-"Denys Garmash","Oleh Gusev",6
-"Denys Garmash","Admir Mehmedi",1
-"Denys Garmash","Lukman Haruna",5
-"Denys Garmash","Dudu",2
-"Denys Garmash","Artem Milevskiy",1
-"Niko Kranjčar","Danilo Silva",7
-"Niko Kranjčar","Miguel Veloso",4
-"Niko Kranjčar","Andriy Yarmolenko",8
-"Niko Kranjčar","Ideye Brown",3
-"Niko Kranjčar","Taras Mikhalik",1
-"Niko Kranjčar","Denys Garmash",5
-"Niko Kranjčar","Taye Taiwo",7
-"Niko Kranjčar","Raffael",7
-"Niko Kranjčar","Betão",4
-"Niko Kranjčar","Ognjen Vukojević",2
-"Niko Kranjčar","Oleh Gusev",1
-"Taye Taiwo","Maxym Koval",7
-"Taye Taiwo","Danilo Silva",5
-"Taye Taiwo","Miguel Veloso",29
-"Taye Taiwo","Andriy Yarmolenko",10
-"Taye Taiwo","Ideye Brown",16
-"Taye Taiwo","Taras Mikhalik",6
-"Taye Taiwo","Denys Garmash",13
-"Taye Taiwo","Niko Kranjčar",7
-"Taye Taiwo","Yevhen Khacheridi",17
-"Taye Taiwo","Raffael",8
-"Taye Taiwo","Betão",11
-"Taye Taiwo","Ognjen Vukojević",16
-"Taye Taiwo","Oleh Gusev",18
-"Taye Taiwo","Olexandr Shovkovskiy",6
-"Taye Taiwo","Marco Ruben",1
-"Taye Taiwo","Lukman Haruna",2
-"Taye Taiwo","Dudu",7
-"Taye Taiwo","Andriy Bogdanov",1
-"Yevhen Khacheridi","Maxym Koval",6
-"Yevhen Khacheridi","Danilo Silva",9
-"Yevhen Khacheridi","Miguel Veloso",20
-"Yevhen Khacheridi","Andriy Yarmolenko",5
-"Yevhen Khacheridi","Ideye Brown",6
-"Yevhen Khacheridi","Taras Mikhalik",18
-"Yevhen Khacheridi","Denys Garmash",14
-"Yevhen Khacheridi","Niko Kranjčar",1
-"Yevhen Khacheridi","Taye Taiwo",25
-"Yevhen Khacheridi","Raffael",1
-"Yevhen Khacheridi","Betão",8
-"Yevhen Khacheridi","Ognjen Vukojević",13
-"Yevhen Khacheridi","Oleh Gusev",9
-"Yevhen Khacheridi","Olexandr Shovkovskiy",9
-"Yevhen Khacheridi","Admir Mehmedi",1
-"Yevhen Khacheridi","Artem Milevskiy",1
-"Yevhen Khacheridi","Marco Ruben",3
-"Yevhen Khacheridi","Lukman Haruna",2
-"Yevhen Khacheridi","Dudu",1
-"Yevhen Khacheridi","Andriy Bogdanov",3
-"Raffael","Danilo Silva",7
-"Raffael","Miguel Veloso",9
-"Raffael","Andriy Yarmolenko",3
-"Raffael","Ideye Brown",3
-"Raffael","Taras Mikhalik",3
-"Raffael","Denys Garmash",3
-"Raffael","Niko Kranjčar",5
-"Raffael","Taye Taiwo",7
-"Raffael","Yevhen Khacheridi",1
-"Raffael","Betão",2
-"Raffael","Ognjen Vukojević",7
-"Raffael","Oleh Gusev",1
-"Raffael","Admir Mehmedi",1
-"Betão","Maxym Koval",3
-"Betão","Danilo Silva",11
-"Betão","Miguel Veloso",9
-"Betão","Andriy Yarmolenko",21
-"Betão","Ideye Brown",3
-"Betão","Taras Mikhalik",13
-"Betão","Denys Garmash",4
-"Betão","Niko Kranjčar",3
-"Betão","Taye Taiwo",11
-"Betão","Yevhen Khacheridi",11
-"Betão","Ognjen Vukojević",10
-"Betão","Oleh Gusev",2
-"Betão","Olexandr Shovkovskiy",2
-"Betão","Artem Milevskiy",2
-"Betão","Marco Ruben",4
-"Betão","Lukman Haruna",5
-"Betão","Dudu",1
-"Betão","Andriy Bogdanov",1
-"Ognjen Vukojević","Maxym Koval",1
-"Ognjen Vukojević","Danilo Silva",4
-"Ognjen Vukojević","Miguel Veloso",19
-"Ognjen Vukojević","Andriy Yarmolenko",10
-"Ognjen Vukojević","Ideye Brown",5
-"Ognjen Vukojević","Taras Mikhalik",19
-"Ognjen Vukojević","Denys Garmash",5
-"Ognjen Vukojević","Niko Kranjčar",7
-"Ognjen Vukojević","Taye Taiwo",17
-"Ognjen Vukojević","Yevhen Khacheridi",17
-"Ognjen Vukojević","Raffael",8
-"Ognjen Vukojević","Betão",11
-"Ognjen Vukojević","Oleh Gusev",6
-"Ognjen Vukojević","Olexandr Shovkovskiy",1
-"Ognjen Vukojević","Artem Milevskiy",2
-"Oleh Gusev","Danilo Silva",8
-"Oleh Gusev","Miguel Veloso",8
-"Oleh Gusev","Andriy Yarmolenko",1
-"Oleh Gusev","Ideye Brown",10
-"Oleh Gusev","Denys Garmash",3
-"Oleh Gusev","Niko Kranjčar",1
-"Oleh Gusev","Taye Taiwo",10
-"Oleh Gusev","Yevhen Khacheridi",3
-"Oleh Gusev","Betão",1
-"Oleh Gusev","Ognjen Vukojević",7
-"Oleh Gusev","Artem Milevskiy",1
-"Oleh Gusev","Lukman Haruna",4
-"Olexandr Shovkovskiy","Danilo Silva",3
-"Olexandr Shovkovskiy","Miguel Veloso",2
-"Olexandr Shovkovskiy","Ognjen Vukojević",3
-"Olexandr Shovkovskiy","Andriy Yarmolenko",5
-"Olexandr Shovkovskiy","Taras Mikhalik",12
-"Olexandr Shovkovskiy","Oleh Gusev",2
-"Olexandr Shovkovskiy","Taye Taiwo",3
-"Olexandr Shovkovskiy","Yevhen Khacheridi",4
-"Olexandr Shovkovskiy","Denys Garmash",3
-"Admir Mehmedi","Danilo Silva",1
-"Artem Milevskiy","Miguel Veloso",1
-"Artem Milevskiy","Ognjen Vukojević",1
-"Artem Milevskiy","Andriy Yarmolenko",4
-"Artem Milevskiy","Oleh Gusev",2
-"Artem Milevskiy","Ideye Brown",1
-"Artem Milevskiy","Dudu",1
-"Marco Ruben","Miguel Veloso",1
-"Marco Ruben","Ognjen Vukojević",1
-"Marco Ruben","Andriy Yarmolenko",2
-"Marco Ruben","Artem Milevskiy",1
-"Marco Ruben","Oleh Gusev",1
-"Marco Ruben","Yevhen Khacheridi",1
-"Lukman Haruna","Betão",3
-"Lukman Haruna","Miguel Veloso",3
-"Lukman Haruna","Andriy Yarmolenko",3
-"Lukman Haruna","Oleh Gusev",3
-"Lukman Haruna","Ideye Brown",4
-"Lukman Haruna","Danilo Silva",3
-"Lukman Haruna","Denys Garmash",4
-"Lukman Haruna","Dudu",2
-"Dudu","Betão",2
-"Dudu","Miguel Veloso",3
-"Dudu","Denys Garmash",1
-"Dudu","Taye Taiwo",2
-"Andriy Bogdanov","Danilo Silva",5
-"Andriy Bogdanov","Miguel Veloso",1
-"Andriy Bogdanov","Yevhen Khacheridi",1
-"Andriy Bogdanov","Dudu",1
-"Andriy Bogdanov","Artem Milevskiy",1
+Source,Target,Weight
+"35","2",3
+"35","4",5
+"35","9",2
+"35","17",7
+"35","19",2
+"35","33",8
+"35","34",2
+"35","85",1
+"35","3",6
+"35","5",3
+"35","20",1
+"35","10",2
+"35","15",1
+"35","99",3
+"2","35",2
+"2","4",23
+"2","9",23
+"2","11",7
+"2","17",9
+"2","19",6
+"2","21",6
+"2","33",1
+"2","34",6
+"2","85",4
+"2","3",8
+"2","5",11
+"2","20",10
+"2","1",2
+"2","25",4
+"2","99",1
+"2","10",2
+"2","23",2
+"4","35",2
+"4","2",19
+"4","9",17
+"4","11",17
+"4","17",9
+"4","19",16
+"4","21",12
+"4","33",32
+"4","34",19
+"4","85",7
+"4","3",11
+"4","5",13
+"4","20",19
+"4","13",1
+"4","10",4
+"4","25",4
+"4","99",1
+"4","23",2
+"9","35",1
+"9","2",15
+"9","4",20
+"9","11",10
+"9","17",8
+"9","19",10
+"9","21",9
+"9","33",9
+"9","34",1
+"9","3",12
+"9","5",10
+"9","20",3
+"9","10",1
+"9","15",1
+"9","25",1
+"9","99",1
+"9","23",2
+"11","35",1
+"11","2",4
+"11","4",15
+"11","9",12
+"11","17",2
+"11","19",7
+"11","21",2
+"11","33",4
+"11","34",1
+"11","85",1
+"11","3",2
+"11","5",4
+"11","20",6
+"17","35",5
+"17","2",12
+"17","4",9
+"17","9",7
+"17","11",4
+"17","19",8
+"17","21",4
+"17","33",6
+"17","34",13
+"17","85",4
+"17","3",9
+"17","5",15
+"17","20",4
+"17","1",9
+"17","10",1
+"17","15",1
+"19","2",10
+"19","4",17
+"19","9",8
+"19","11",9
+"19","17",4
+"19","21",4
+"19","33",8
+"19","34",6
+"19","85",7
+"19","3",4
+"19","5",3
+"19","20",6
+"19","13",1
+"19","25",5
+"19","99",2
+"19","10",1
+"21","2",7
+"21","4",4
+"21","9",8
+"21","11",3
+"21","17",1
+"21","19",5
+"21","33",7
+"21","85",7
+"21","3",4
+"21","5",2
+"21","20",1
+"33","35",7
+"33","2",5
+"33","4",29
+"33","9",10
+"33","11",16
+"33","17",6
+"33","19",13
+"33","21",7
+"33","34",17
+"33","85",8
+"33","3",11
+"33","5",16
+"33","20",18
+"33","1",6
+"33","15",1
+"33","25",2
+"33","99",7
+"33","23",1
+"34","35",6
+"34","2",9
+"34","4",20
+"34","9",5
+"34","11",6
+"34","17",18
+"34","19",14
+"34","21",1
+"34","33",25
+"34","85",1
+"34","3",8
+"34","5",13
+"34","20",9
+"34","1",9
+"34","13",1
+"34","10",1
+"34","15",3
+"34","25",2
+"34","99",1
+"34","23",3
+"85","2",7
+"85","4",9
+"85","9",3
+"85","11",3
+"85","17",3
+"85","19",3
+"85","21",5
+"85","33",7
+"85","34",1
+"85","3",2
+"85","5",7
+"85","20",1
+"85","13",1
+"3","35",3
+"3","2",11
+"3","4",9
+"3","9",21
+"3","11",3
+"3","17",13
+"3","19",4
+"3","21",3
+"3","33",11
+"3","34",11
+"3","5",10
+"3","20",2
+"3","1",2
+"3","10",2
+"3","15",4
+"3","25",5
+"3","99",1
+"3","23",1
+"5","35",1
+"5","2",4
+"5","4",19
+"5","9",10
+"5","11",5
+"5","17",19
+"5","19",5
+"5","21",7
+"5","33",17
+"5","34",17
+"5","85",8
+"5","3",11
+"5","20",6
+"5","1",1
+"5","10",2
+"20","2",8
+"20","4",8
+"20","9",1
+"20","11",10
+"20","19",3
+"20","21",1
+"20","33",10
+"20","34",3
+"20","3",1
+"20","5",7
+"20","10",1
+"20","25",4
+"1","2",3
+"1","4",2
+"1","5",3
+"1","9",5
+"1","17",12
+"1","20",2
+"1","33",3
+"1","34",4
+"1","19",3
+"13","2",1
+"10","4",1
+"10","5",1
+"10","9",4
+"10","20",2
+"10","11",1
+"10","99",1
+"15","4",1
+"15","5",1
+"15","9",2
+"15","10",1
+"15","20",1
+"15","34",1
+"25","3",3
+"25","4",3
+"25","9",3
+"25","20",3
+"25","11",4
+"25","2",3
+"25","19",4
+"25","99",2
+"99","3",2
+"99","4",3
+"99","19",1
+"99","33",2
+"23","2",5
+"23","4",1
+"23","34",1
+"23","99",1
+"23","10",1

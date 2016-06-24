@@ -10,13 +10,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class GetData {
-
-	/**
-	 * @param args
-	 * @throws IOException 
-	 */
 	public static void main(String[] args) throws IOException {
-		// TODO Auto-generated method stub
 		int n_min = 2013;
 		int n_max = 2017;
 		int m_min = -2;
@@ -42,42 +36,8 @@ public class GetData {
 		}
 	}
 
-	private static void parseToGML(Season s) {
-		// TODO Auto-generated method stub
-		//criar para cada equipa um grafo de passes da season s
-		
-	}
-
-	private static void parseToTableNotation(Season s) throws IOException {
-		// TODO Auto-generated method stub
-		//criar para cada equipa um ficheiro com os nos e outro com as arestas na season s
-		while(!s.teams.isEmpty()){	
-			Team t = s.teams.remove();
-			File nodes = new File("/home/andre/workspace/IIC/GephyNotation/Nodes/" + t.name + s.year + "Nodes.txt");
-			File edges = new File("/home/andre/workspace/IIC/GephyNotation/Edges/" + t.name + s.year + "Edges.txt");
-			FileWriter fwNodes = new FileWriter(nodes.getAbsoluteFile());
-			FileWriter fwEdges = new FileWriter(edges);
-			BufferedWriter bwNodes = new BufferedWriter(fwNodes);
-			BufferedWriter bwEdges = new BufferedWriter(fwEdges);
-			while(!t.players.isEmpty()){
-				Player p = t.players.remove();
-				bwNodes.write(p.teamNumber + ",\"" + p.name+"\"");
-				bwNodes.append('\n');
-				while(!p.passes.isEmpty()){
-					Pass pass = p.passes.remove();
-					if(pass.numberOfPasses != 0){
-						bwEdges.write("\"" + pass.origin.name + "\",\"" + pass.destiny.name + "\"," + pass.numberOfPasses);
-						bwEdges.append('\n');
-					}
-				}
-			}
-			bwNodes.close();
-			bwEdges.close();
-		}
-	}
-
+	
 	private static void collectData(File file, Season s) throws FileNotFoundException {
-		// TODO Auto-generated method stub
 		Scanner in = new Scanner(file);
 		
 		Match match;
@@ -112,18 +72,17 @@ public class GetData {
 			s.addTeamToSeason(ht);
 		}
 		if(!awayTeamExists){
-			//System.out.println("away team nao existe");
 			at = new Team(awayTeamName, s);
 			s.addTeamToSeason(at);
 		}
 		
 		MatchScore matchScore;
 		int homeScore = in.nextInt();
-		//System.out.println("-!! " + homeScore);
 		int awayScore = in.nextInt();
-		//System.out.println("??? " + awayScore);
 		matchScore = new MatchScore(homeScore, awayScore);
+	
 		//home team
+		
 		int numberOfPlayersHomeTeam = in.nextInt();
 		int[][] matrixOfPassesHomeTeam = new int[numberOfPlayersHomeTeam][numberOfPlayersHomeTeam];
 		for(int i = 0; i < numberOfPlayersHomeTeam; i++){
@@ -188,7 +147,6 @@ public class GetData {
 		in.nextLine();
 		String[] homeTeamPlayersName = new String[numberOfPlayersHomeTeam];
 		String name = in.nextLine();
-		//System.out.println("!player: " + name);
 		if(Character.isDigit(name.charAt(0))){
 			for(int i = 0; i < numberOfPlayersHomeTeam; i++){
 				homeTeamPlayersName[i] = in.nextLine();
@@ -198,7 +156,6 @@ public class GetData {
 			homeTeamPlayersName[0] = name;
 			for(int i = 1; i < numberOfPlayersHomeTeam; i++){
 				homeTeamPlayersName[i] = in.nextLine();
-				//System.out.println("home | player: " + homeTeamPlayersName[i]);
 			}
 		}
 		
@@ -207,7 +164,6 @@ public class GetData {
 		if(Character.isDigit(name.charAt(0))){
 			for(int i = 0; i < numberOfPlayersAwayTeam; i++){
 				awayTeamPlayersName[i] = in.nextLine();
-				//System.out.println("away | player: " + awayTeamPlayersName[i]);
 			}
 		}
 		else{
@@ -231,13 +187,11 @@ public class GetData {
 			}
 			if(!exists){
 				homeTeamPlayers[i] = new Player(ht, s, homeTeamNumberOfPlayer[i], homeTeamPlayersName[i], homeTeamTimePlayed[i]);
-				//homeTeamPlayers[i].id++;
 				ht.players.addLast(homeTeamPlayers[i]);
 			}
 		}
 		for(int i = 0; i < numberOfPlayersAwayTeam; i++){
 			boolean exists = false;
-			//System.out.println("away | player: " + awayTeamPlayersName[i]);
 			for(int j = 0; j < at.players.size(); j++){
 				if(awayTeamPlayersName[i].equals(at.players.get(j).name)){
 					at.players.get(j).totalTimePlayed += awayTeamTimePlayed[i];
@@ -247,7 +201,6 @@ public class GetData {
 			}
 			if(!exists){
 				awayTeamPlayers[i] = new Player(at, s, awayTeamNumberOfPlayer[i], awayTeamPlayersName[i], awayTeamTimePlayed[i]);
-				//awayTeamPlayers[i].id++;
 				at.players.addLast(awayTeamPlayers[i]);
 			}
 		}
@@ -257,6 +210,68 @@ public class GetData {
 		ht.matches.addLast(match);
 		at.matches.addLast(match);
 		in.close();
+	}
+	private static void parseToGML(Season s) throws IOException {
+		//criar para cada equipa um grafo de passes da season s
+		Season current = s;
+		while(!current.teams.isEmpty()){
+			Team t = current.teams.remove();
+			File file = new File("/home/andre/workspace/IIC/GML/" + t.name + current.year + ".gml");
+			FileWriter fw = new FileWriter(file);
+			BufferedWriter bw = new BufferedWriter(fw);
+			createGMLCode(bw, t);
+			bw.close();
+		}		
+	}
+
+	private static void createGMLCode(BufferedWriter bw, Team t) throws IOException {
+		bw.write("graph [ directed 1 label \"" + t.name + " - " + t.season.year + "\"");
+		
+		for(int i = 0; i < t.players.size(); i++){
+			Player p = t.players.get(i);
+			bw.write(" node [ id " + p.teamNumber + " name \"" + p.name + "\" ]");
+		}
+		while(!t.players.isEmpty()){
+			Player p = t.players.remove();
+			while(!p.passes.isEmpty()){
+				Pass pass = p.passes.remove();
+				if(pass.numberOfPasses != 0)
+					bw.write(" edge [ source " + pass.origin.teamNumber + " target " + pass.destiny.teamNumber + " weight " + pass.numberOfPasses + " ]");
+			}
+		}
+		bw.write("]");
+	}
+
+	private static void parseToTableNotation(Season s) throws IOException {
+		//criar para cada equipa um ficheiro com os nos e outro com as arestas na season s
+		Season current = s;
+		while(!current.teams.isEmpty()){	
+			Team t = current.teams.remove();
+			File nodes = new File("/home/andre/workspace/IIC/GephyNotation/Nodes/" + t.name + current.year + "Nodes.txt");
+			File edges = new File("/home/andre/workspace/IIC/GephyNotation/Edges/" + t.name + current.year + "Edges.txt");
+			FileWriter fwNodes = new FileWriter(nodes.getAbsoluteFile());
+			FileWriter fwEdges = new FileWriter(edges);
+			BufferedWriter bwNodes = new BufferedWriter(fwNodes);
+			bwNodes.write("TeamNumber,Name");
+			bwNodes.append('\n');
+			BufferedWriter bwEdges = new BufferedWriter(fwEdges);
+			bwEdges.write("Source,Target,Weight");
+			bwEdges.append('\n');
+			while(!t.players.isEmpty()){
+				Player p = t.players.remove();
+				bwNodes.write(p.teamNumber + ",\"" + p.name+"\"");
+				bwNodes.append('\n');
+				while(!p.passes.isEmpty()){
+					Pass pass = p.passes.remove();
+					if(pass.numberOfPasses != 0){
+						bwEdges.write("\"" + pass.origin.teamNumber + "\",\"" + pass.destiny.teamNumber + "\"," + pass.numberOfPasses);
+						bwEdges.append('\n');
+					}
+				}
+			}
+			bwNodes.close();
+			bwEdges.close();
+		}
 	}
 
 }

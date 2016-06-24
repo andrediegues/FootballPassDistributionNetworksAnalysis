@@ -1,172 +1,173 @@
-"Anthony Lopes","Milan Biševac",4
-"Anthony Lopes","Gueïda Fofana",8
-"Anthony Lopes","Clément Grenier",3
-"Anthony Lopes","Yoann Gourcuff",5
-"Anthony Lopes","Alexandre Lacazette",1
-"Anthony Lopes","Miguel Lopes",5
-"Anthony Lopes","Maxime Gonalons",1
-"Anthony Lopes","Yassine Benzia",2
-"Anthony Lopes","Fares Bahlouli",1
-"Anthony Lopes","Bakary Koné",1
-"Anthony Lopes","Samuel Umtiti",3
-"Anthony Lopes","Nabil Fekir",1
-"Henri Bedimo","Anthony Lopes",4
-"Henri Bedimo","Gueïda Fofana",12
-"Henri Bedimo","Clément Grenier",9
-"Henri Bedimo","Yoann Gourcuff",17
-"Henri Bedimo","Alexandre Lacazette",4
-"Henri Bedimo","Miguel Lopes",2
-"Henri Bedimo","Maxime Gonalons",16
-"Henri Bedimo","Fares Bahlouli",5
-"Henri Bedimo","Bakary Koné",2
-"Henri Bedimo","Samuel Umtiti",7
-"Henri Bedimo","Jordan Ferri",1
-"Henri Bedimo","Nabil Fekir",2
-"Milan Biševac","Anthony Lopes",3
-"Milan Biševac","Gueïda Fofana",7
-"Milan Biševac","Clément Grenier",2
-"Milan Biševac","Yoann Gourcuff",2
-"Milan Biševac","Miguel Lopes",6
-"Milan Biševac","Steed Malbranque",1
-"Milan Biševac","Maxime Gonalons",6
-"Milan Biševac","Yassine Benzia",1
-"Gueïda Fofana","Anthony Lopes",3
-"Gueïda Fofana","Henri Bedimo",10
-"Gueïda Fofana","Milan Biševac",5
-"Gueïda Fofana","Clément Grenier",12
-"Gueïda Fofana","Yoann Gourcuff",10
-"Gueïda Fofana","Alexandre Lacazette",6
-"Gueïda Fofana","Miguel Lopes",18
-"Gueïda Fofana","Steed Malbranque",2
-"Gueïda Fofana","Maxime Gonalons",11
-"Gueïda Fofana","Yassine Benzia",5
-"Gueïda Fofana","Gaël Danic",2
-"Gueïda Fofana","Bakary Koné",3
-"Gueïda Fofana","Samuel Umtiti",2
-"Gueïda Fofana","Jordan Ferri",1
-"Gueïda Fofana","Nabil Fekir",6
-"Clément Grenier","Anthony Lopes",1
-"Clément Grenier","Henri Bedimo",4
-"Clément Grenier","Gueïda Fofana",4
-"Clément Grenier","Yoann Gourcuff",7
-"Clément Grenier","Alexandre Lacazette",9
-"Clément Grenier","Miguel Lopes",10
-"Clément Grenier","Steed Malbranque",5
-"Clément Grenier","Maxime Gonalons",6
-"Clément Grenier","Yassine Benzia",6
-"Clément Grenier","Gaël Danic",2
-"Clément Grenier","Fares Bahlouli",1
-"Clément Grenier","Samuel Umtiti",1
-"Clément Grenier","Jordan Ferri",2
-"Clément Grenier","Nabil Fekir",2
-"Yoann Gourcuff","Anthony Lopes",1
-"Yoann Gourcuff","Henri Bedimo",19
-"Yoann Gourcuff","Milan Biševac",1
-"Yoann Gourcuff","Gueïda Fofana",10
-"Yoann Gourcuff","Clément Grenier",16
-"Yoann Gourcuff","Alexandre Lacazette",2
-"Yoann Gourcuff","Miguel Lopes",6
-"Yoann Gourcuff","Steed Malbranque",3
-"Yoann Gourcuff","Maxime Gonalons",16
-"Yoann Gourcuff","Yassine Benzia",2
-"Yoann Gourcuff","Gaël Danic",4
-"Yoann Gourcuff","Bakary Koné",2
-"Yoann Gourcuff","Samuel Umtiti",4
-"Alexandre Lacazette","Henri Bedimo",3
-"Alexandre Lacazette","Milan Biševac",2
-"Alexandre Lacazette","Gueïda Fofana",4
-"Alexandre Lacazette","Clément Grenier",6
-"Alexandre Lacazette","Yoann Gourcuff",3
-"Alexandre Lacazette","Miguel Lopes",4
-"Alexandre Lacazette","Steed Malbranque",1
-"Alexandre Lacazette","Maxime Gonalons",1
-"Alexandre Lacazette","Yassine Benzia",2
-"Alexandre Lacazette","Fares Bahlouli",1
-"Alexandre Lacazette","Bakary Koné",1
-"Alexandre Lacazette","Nabil Fekir",1
-"Miguel Lopes","Anthony Lopes",1
-"Miguel Lopes","Henri Bedimo",1
-"Miguel Lopes","Milan Biševac",6
-"Miguel Lopes","Gueïda Fofana",7
-"Miguel Lopes","Clément Grenier",17
-"Miguel Lopes","Yoann Gourcuff",5
-"Miguel Lopes","Alexandre Lacazette",6
-"Miguel Lopes","Steed Malbranque",3
-"Miguel Lopes","Maxime Gonalons",4
-"Miguel Lopes","Yassine Benzia",9
-"Miguel Lopes","Gaël Danic",3
-"Miguel Lopes","Fares Bahlouli",10
-"Miguel Lopes","Bakary Koné",6
-"Miguel Lopes","Samuel Umtiti",1
-"Miguel Lopes","Nabil Fekir",8
-"Steed Malbranque","Henri Bedimo",1
-"Steed Malbranque","Milan Biševac",5
-"Steed Malbranque","Gueïda Fofana",2
-"Steed Malbranque","Clément Grenier",4
-"Steed Malbranque","Yoann Gourcuff",1
-"Steed Malbranque","Alexandre Lacazette",2
-"Steed Malbranque","Miguel Lopes",4
-"Steed Malbranque","Maxime Gonalons",3
-"Maxime Gonalons","Henri Bedimo",9
-"Maxime Gonalons","Milan Biševac",1
-"Maxime Gonalons","Gueïda Fofana",19
-"Maxime Gonalons","Clément Grenier",10
-"Maxime Gonalons","Yoann Gourcuff",20
-"Maxime Gonalons","Alexandre Lacazette",3
-"Maxime Gonalons","Miguel Lopes",10
-"Maxime Gonalons","Steed Malbranque",7
-"Maxime Gonalons","Yassine Benzia",2
-"Maxime Gonalons","Gaël Danic",1
-"Maxime Gonalons","Fares Bahlouli",1
-"Maxime Gonalons","Bakary Koné",4
-"Maxime Gonalons","Samuel Umtiti",5
-"Maxime Gonalons","Nabil Fekir",1
-"Yassine Benzia","Henri Bedimo",2
-"Yassine Benzia","Gueïda Fofana",3
-"Yassine Benzia","Clément Grenier",2
-"Yassine Benzia","Yoann Gourcuff",5
-"Yassine Benzia","Alexandre Lacazette",1
-"Yassine Benzia","Miguel Lopes",7
-"Yassine Benzia","Maxime Gonalons",3
-"Gaël Danic","Henri Bedimo",2
-"Gaël Danic","Gueïda Fofana",1
-"Gaël Danic","Clément Grenier",4
-"Gaël Danic","Miguel Lopes",2
-"Gaël Danic","Maxime Gonalons",2
-"Gaël Danic","Fares Bahlouli",1
-"Fares Bahlouli","Gueïda Fofana",2
-"Fares Bahlouli","Clément Grenier",5
-"Fares Bahlouli","Yoann Gourcuff",1
-"Fares Bahlouli","Alexandre Lacazette",1
-"Fares Bahlouli","Miguel Lopes",4
-"Fares Bahlouli","Maxime Gonalons",2
-"Bakary Koné","Anthony Lopes",3
-"Bakary Koné","Henri Bedimo",5
-"Bakary Koné","Gueïda Fofana",9
-"Bakary Koné","Yoann Gourcuff",4
-"Bakary Koné","Miguel Lopes",9
-"Bakary Koné","Maxime Gonalons",4
-"Bakary Koné","Samuel Umtiti",6
-"Bakary Koné","Yassine Benzia",2
-"Bakary Koné","Fares Bahlouli",1
-"Bakary Koné","Nabil Fekir",1
-"Samuel Umtiti","Anthony Lopes",3
-"Samuel Umtiti","Henri Bedimo",3
-"Samuel Umtiti","Bakary Koné",8
-"Samuel Umtiti","Gueïda Fofana",2
-"Samuel Umtiti","Clément Grenier",4
-"Samuel Umtiti","Yoann Gourcuff",5
-"Samuel Umtiti","Alexandre Lacazette",1
-"Samuel Umtiti","Miguel Lopes",1
-"Samuel Umtiti","Maxime Gonalons",7
-"Samuel Umtiti","Yassine Benzia",1
-"Samuel Umtiti","Jordan Ferri",2
-"Jordan Ferri","Henri Bedimo",1
-"Jordan Ferri","Alexandre Lacazette",1
-"Jordan Ferri","Nabil Fekir",1
-"Nabil Fekir","Henri Bedimo",2
-"Nabil Fekir","Bakary Koné",1
-"Nabil Fekir","Gueïda Fofana",7
-"Nabil Fekir","Alexandre Lacazette",1
-"Nabil Fekir","Miguel Lopes",3
-"Nabil Fekir","Maxime Gonalons",2
+Source,Target,Weight
+"16","5",4
+"16","6",8
+"16","7",3
+"16","8",5
+"16","10",1
+"16","13",5
+"16","21",1
+"16","25",2
+"16","29",1
+"16","4",1
+"16","23",3
+"16","31",1
+"3","16",4
+"3","6",12
+"3","7",9
+"3","8",17
+"3","10",4
+"3","13",2
+"3","21",16
+"3","29",5
+"3","4",2
+"3","23",7
+"3","12",1
+"3","31",2
+"5","16",3
+"5","6",7
+"5","7",2
+"5","8",2
+"5","13",6
+"5","17",1
+"5","21",6
+"5","25",1
+"6","16",3
+"6","3",10
+"6","5",5
+"6","7",12
+"6","8",10
+"6","10",6
+"6","13",18
+"6","17",2
+"6","21",11
+"6","25",5
+"6","20",2
+"6","4",3
+"6","23",2
+"6","12",1
+"6","31",6
+"7","16",1
+"7","3",4
+"7","6",4
+"7","8",7
+"7","10",9
+"7","13",10
+"7","17",5
+"7","21",6
+"7","25",6
+"7","20",2
+"7","29",1
+"7","23",1
+"7","12",2
+"7","31",2
+"8","16",1
+"8","3",19
+"8","5",1
+"8","6",10
+"8","7",16
+"8","10",2
+"8","13",6
+"8","17",3
+"8","21",16
+"8","25",2
+"8","20",4
+"8","4",2
+"8","23",4
+"10","3",3
+"10","5",2
+"10","6",4
+"10","7",6
+"10","8",3
+"10","13",4
+"10","17",1
+"10","21",1
+"10","25",2
+"10","29",1
+"10","4",1
+"10","31",1
+"13","16",1
+"13","3",1
+"13","5",6
+"13","6",7
+"13","7",17
+"13","8",5
+"13","10",6
+"13","17",3
+"13","21",4
+"13","25",9
+"13","20",3
+"13","29",10
+"13","4",6
+"13","23",1
+"13","31",8
+"17","3",1
+"17","5",5
+"17","6",2
+"17","7",4
+"17","8",1
+"17","10",2
+"17","13",4
+"17","21",3
+"21","3",9
+"21","5",1
+"21","6",19
+"21","7",10
+"21","8",20
+"21","10",3
+"21","13",10
+"21","17",7
+"21","25",2
+"21","20",1
+"21","29",1
+"21","4",4
+"21","23",5
+"21","31",1
+"25","3",2
+"25","6",3
+"25","7",2
+"25","8",5
+"25","10",1
+"25","13",7
+"25","21",3
+"20","3",2
+"20","6",1
+"20","7",4
+"20","13",2
+"20","21",2
+"20","29",1
+"29","6",2
+"29","7",5
+"29","8",1
+"29","10",1
+"29","13",4
+"29","21",2
+"4","16",3
+"4","3",5
+"4","6",9
+"4","8",4
+"4","13",9
+"4","21",4
+"4","23",6
+"4","25",2
+"4","29",1
+"4","31",1
+"23","16",3
+"23","3",3
+"23","4",8
+"23","6",2
+"23","7",4
+"23","8",5
+"23","10",1
+"23","13",1
+"23","21",7
+"23","25",1
+"23","12",2
+"12","3",1
+"12","10",1
+"12","31",1
+"31","3",2
+"31","4",1
+"31","6",7
+"31","10",1
+"31","13",3
+"31","21",2

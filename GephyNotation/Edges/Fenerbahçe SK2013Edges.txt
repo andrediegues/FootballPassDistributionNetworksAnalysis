@@ -1,125 +1,126 @@
-"Mert Günok","Egemen Korkmaz",6
-"Mert Günok","Hasan Ali Kaldırım",2
-"Mert Günok","Mehmet Topal",1
-"Mert Günok","Joseph Yobo",3
-"Mert Günok","Moussa Sow",1
-"Mert Günok","Dirk Kuyt",3
-"Mert Günok","Gökhan Gönül",3
-"Egemen Korkmaz","Mert Günok",2
-"Egemen Korkmaz","Hasan Ali Kaldırım",8
-"Egemen Korkmaz","Mehmet Topal",4
-"Egemen Korkmaz","Joseph Yobo",15
-"Egemen Korkmaz","Moussa Sow",1
-"Egemen Korkmaz","Dirk Kuyt",2
-"Egemen Korkmaz","Selçuk Şahin",9
-"Egemen Korkmaz","Miloš Krasić",1
-"Egemen Korkmaz","Miroslav Stoch",1
-"Hasan Ali Kaldırım","Mert Günok",1
-"Hasan Ali Kaldırım","Egemen Korkmaz",7
-"Hasan Ali Kaldırım","Mehmet Topal",2
-"Hasan Ali Kaldırım","Joseph Yobo",3
-"Hasan Ali Kaldırım","Moussa Sow",6
-"Hasan Ali Kaldırım","Dirk Kuyt",2
-"Hasan Ali Kaldırım","Selçuk Şahin",4
-"Hasan Ali Kaldırım","Miloš Krasić",4
-"Hasan Ali Kaldırım","Mehmet Topuz",3
-"Hasan Ali Kaldırım","Gökhan Gönül",3
-"Hasan Ali Kaldırım","Miroslav Stoch",14
-"Hasan Ali Kaldırım","Alex",1
-"Hasan Ali Kaldırım","Cristian",1
-"Mehmet Topal","Mert Günok",1
-"Mehmet Topal","Egemen Korkmaz",7
-"Mehmet Topal","Hasan Ali Kaldırım",5
-"Mehmet Topal","Joseph Yobo",5
-"Mehmet Topal","Moussa Sow",2
-"Mehmet Topal","Dirk Kuyt",2
-"Mehmet Topal","Selçuk Şahin",2
-"Mehmet Topal","Mehmet Topuz",2
-"Mehmet Topal","Gökhan Gönül",9
-"Mehmet Topal","Miroslav Stoch",2
-"Mehmet Topal","Alex",2
-"Mehmet Topal","Cristian",2
-"Joseph Yobo","Mert Günok",4
-"Joseph Yobo","Egemen Korkmaz",6
-"Joseph Yobo","Hasan Ali Kaldırım",4
-"Joseph Yobo","Mehmet Topal",8
-"Joseph Yobo","Moussa Sow",1
-"Joseph Yobo","Dirk Kuyt",2
-"Joseph Yobo","Selçuk Şahin",2
-"Joseph Yobo","Mehmet Topuz",4
-"Joseph Yobo","Gökhan Gönül",3
-"Joseph Yobo","Miroslav Stoch",3
-"Joseph Yobo","Cristian",3
-"Moussa Sow","Egemen Korkmaz",1
-"Moussa Sow","Hasan Ali Kaldırım",3
-"Moussa Sow","Mehmet Topal",2
-"Moussa Sow","Dirk Kuyt",3
-"Moussa Sow","Selçuk Şahin",1
-"Moussa Sow","Mehmet Topuz",1
-"Moussa Sow","Gökhan Gönül",2
-"Moussa Sow","Miroslav Stoch",1
-"Moussa Sow","Alex",2
-"Dirk Kuyt","Mert Günok",1
-"Dirk Kuyt","Hasan Ali Kaldırım",6
-"Dirk Kuyt","Mehmet Topal",1
-"Dirk Kuyt","Joseph Yobo",1
-"Dirk Kuyt","Moussa Sow",1
-"Dirk Kuyt","Selçuk Şahin",5
-"Dirk Kuyt","Miloš Krasić",1
-"Dirk Kuyt","Mehmet Topuz",3
-"Dirk Kuyt","Gökhan Gönül",7
-"Dirk Kuyt","Miroslav Stoch",1
-"Dirk Kuyt","Cristian",1
-"Selçuk Şahin","Mert Günok",1
-"Selçuk Şahin","Egemen Korkmaz",8
-"Selçuk Şahin","Hasan Ali Kaldırım",8
-"Selçuk Şahin","Mehmet Topal",5
-"Selçuk Şahin","Joseph Yobo",2
-"Selçuk Şahin","Dirk Kuyt",1
-"Selçuk Şahin","Mehmet Topuz",1
-"Selçuk Şahin","Miroslav Stoch",1
-"Miloš Krasić","Hasan Ali Kaldırım",2
-"Miloš Krasić","Moussa Sow",1
-"Miloš Krasić","Dirk Kuyt",2
-"Mehmet Topuz","Egemen Korkmaz",2
-"Mehmet Topuz","Mehmet Topal",1
-"Mehmet Topuz","Joseph Yobo",1
-"Mehmet Topuz","Moussa Sow",1
-"Mehmet Topuz","Dirk Kuyt",4
-"Mehmet Topuz","Gökhan Gönül",3
-"Mehmet Topuz","Miroslav Stoch",2
-"Mehmet Topuz","Alex",2
-"Gökhan Gönül","Mert Günok",2
-"Gökhan Gönül","Egemen Korkmaz",3
-"Gökhan Gönül","Hasan Ali Kaldırım",2
-"Gökhan Gönül","Mehmet Topal",9
-"Gökhan Gönül","Joseph Yobo",2
-"Gökhan Gönül","Moussa Sow",5
-"Gökhan Gönül","Dirk Kuyt",7
-"Gökhan Gönül","Selçuk Şahin",2
-"Gökhan Gönül","Miloš Krasić",1
-"Gökhan Gönül","Mehmet Topuz",5
-"Gökhan Gönül","Miroslav Stoch",1
-"Gökhan Gönül","Alex",1
-"Miroslav Stoch","Egemen Korkmaz",1
-"Miroslav Stoch","Hasan Ali Kaldırım",8
-"Miroslav Stoch","Mehmet Topal",1
-"Miroslav Stoch","Moussa Sow",4
-"Miroslav Stoch","Dirk Kuyt",2
-"Miroslav Stoch","Selçuk Şahin",1
-"Miroslav Stoch","Mehmet Topuz",1
-"Miroslav Stoch","Cristian",2
-"Alex","Mehmet Topal",4
-"Alex","Dirk Kuyt",1
-"Alex","Mehmet Topuz",1
-"Alex","Gökhan Gönül",2
-"Alex","Miroslav Stoch",1
-"Alex","Cristian",1
-"Cristian","Hasan Ali Kaldırım",1
-"Cristian","Mehmet Topal",1
-"Cristian","Joseph Yobo",1
-"Cristian","Moussa Sow",1
-"Cristian","Dirk Kuyt",2
-"Cristian","Gökhan Gönül",2
-"Cristian","Miroslav Stoch",1
-"Cristian","Alex",3
+Source,Target,Weight
+"34","2",6
+"34","3",2
+"34","5",1
+"34","6",3
+"34","7",1
+"34","11",3
+"34","77",3
+"2","34",2
+"2","3",8
+"2","5",4
+"2","6",15
+"2","7",1
+"2","11",2
+"2","21",9
+"2","27",1
+"2","9",1
+"3","34",1
+"3","2",7
+"3","5",2
+"3","6",3
+"3","7",6
+"3","11",2
+"3","21",4
+"3","27",4
+"3","38",3
+"3","77",3
+"3","9",14
+"3","10",1
+"3","16",1
+"5","34",1
+"5","2",7
+"5","3",5
+"5","6",5
+"5","7",2
+"5","11",2
+"5","21",2
+"5","38",2
+"5","77",9
+"5","9",2
+"5","10",2
+"5","16",2
+"6","34",4
+"6","2",6
+"6","3",4
+"6","5",8
+"6","7",1
+"6","11",2
+"6","21",2
+"6","38",4
+"6","77",3
+"6","9",3
+"6","16",3
+"7","2",1
+"7","3",3
+"7","5",2
+"7","11",3
+"7","21",1
+"7","38",1
+"7","77",2
+"7","9",1
+"7","10",2
+"11","34",1
+"11","3",6
+"11","5",1
+"11","6",1
+"11","7",1
+"11","21",5
+"11","27",1
+"11","38",3
+"11","77",7
+"11","9",1
+"11","16",1
+"21","34",1
+"21","2",8
+"21","3",8
+"21","5",5
+"21","6",2
+"21","11",1
+"21","38",1
+"21","9",1
+"27","3",2
+"27","7",1
+"27","11",2
+"38","2",2
+"38","5",1
+"38","6",1
+"38","7",1
+"38","11",4
+"38","77",3
+"38","9",2
+"38","10",2
+"77","34",2
+"77","2",3
+"77","3",2
+"77","5",9
+"77","6",2
+"77","7",5
+"77","11",7
+"77","21",2
+"77","27",1
+"77","38",5
+"77","9",1
+"77","10",1
+"9","2",1
+"9","3",8
+"9","5",1
+"9","7",4
+"9","11",2
+"9","21",1
+"9","38",1
+"9","16",2
+"10","5",4
+"10","11",1
+"10","38",1
+"10","77",2
+"10","9",1
+"10","16",1
+"16","3",1
+"16","5",1
+"16","6",1
+"16","7",1
+"16","11",2
+"16","77",2
+"16","9",1
+"16","10",3

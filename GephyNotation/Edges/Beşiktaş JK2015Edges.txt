@@ -1,145 +1,146 @@
-"Tolga Zengin","İsmail Köybaşı",2
-"Tolga Zengin","Mustafa Pektemek",6
-"Tolga Zengin","Oğuzhan Özyakup",1
-"Tolga Zengin","Pedro Franco",6
-"Tolga Zengin","Necip Uysal",1
-"Tolga Zengin","Ersan Gülüm",3
-"Tolga Zengin","Ramon Motta",3
-"Tolga Zengin","Atiba Hutchinson",2
-"İsmail Köybaşı","Tolga Zengin",3
-"İsmail Köybaşı","Veli Kavlak",5
-"İsmail Köybaşı","Demba Ba",6
-"İsmail Köybaşı","Olcay Şahan",1
-"İsmail Köybaşı","Mustafa Pektemek",5
-"İsmail Köybaşı","Oğuzhan Özyakup",12
-"İsmail Köybaşı","Pedro Franco",14
-"İsmail Köybaşı","Necip Uysal",9
-"İsmail Köybaşı","Ersan Gülüm",2
-"İsmail Köybaşı","Ramon Motta",5
-"İsmail Köybaşı","Gökhan Töre",11
-"İsmail Köybaşı","Kerim Koyunlu",1
-"İsmail Köybaşı","Atiba Hutchinson",3
-"Veli Kavlak","İsmail Köybaşı",6
-"Veli Kavlak","Demba Ba",3
-"Veli Kavlak","Olcay Şahan",4
-"Veli Kavlak","Mustafa Pektemek",4
-"Veli Kavlak","Oğuzhan Özyakup",8
-"Veli Kavlak","Pedro Franco",5
-"Veli Kavlak","Necip Uysal",7
-"Veli Kavlak","Ersan Gülüm",11
-"Veli Kavlak","Ramon Motta",11
-"Veli Kavlak","Gökhan Töre",2
-"Veli Kavlak","Kerim Koyunlu",2
-"Veli Kavlak","Atiba Hutchinson",8
-"Demba Ba","İsmail Köybaşı",8
-"Demba Ba","Olcay Şahan",5
-"Demba Ba","Mustafa Pektemek",5
-"Demba Ba","Oğuzhan Özyakup",4
-"Demba Ba","Pedro Franco",3
-"Demba Ba","Necip Uysal",2
-"Demba Ba","Ersan Gülüm",3
-"Demba Ba","Ramon Motta",1
-"Demba Ba","Gökhan Töre",2
-"Demba Ba","Kerim Koyunlu",1
-"Demba Ba","Cenk Tosun",2
-"Demba Ba","Atiba Hutchinson",2
-"Olcay Şahan","İsmail Köybaşı",2
-"Olcay Şahan","Veli Kavlak",3
-"Olcay Şahan","Demba Ba",6
-"Olcay Şahan","Mustafa Pektemek",2
-"Olcay Şahan","Oğuzhan Özyakup",8
-"Olcay Şahan","Necip Uysal",2
-"Olcay Şahan","Ramon Motta",6
-"Olcay Şahan","Atiba Hutchinson",1
-"Mustafa Pektemek","İsmail Köybaşı",11
-"Mustafa Pektemek","Veli Kavlak",4
-"Mustafa Pektemek","Demba Ba",6
-"Mustafa Pektemek","Olcay Şahan",2
-"Mustafa Pektemek","Oğuzhan Özyakup",10
-"Mustafa Pektemek","Pedro Franco",3
-"Mustafa Pektemek","Necip Uysal",2
-"Mustafa Pektemek","Ramon Motta",3
-"Mustafa Pektemek","Atiba Hutchinson",6
-"Oğuzhan Özyakup","İsmail Köybaşı",11
-"Oğuzhan Özyakup","Veli Kavlak",12
-"Oğuzhan Özyakup","Demba Ba",6
-"Oğuzhan Özyakup","Olcay Şahan",7
-"Oğuzhan Özyakup","Mustafa Pektemek",11
-"Oğuzhan Özyakup","Pedro Franco",2
-"Oğuzhan Özyakup","Necip Uysal",2
-"Oğuzhan Özyakup","Ersan Gülüm",4
-"Oğuzhan Özyakup","Ramon Motta",12
-"Oğuzhan Özyakup","Gökhan Töre",5
-"Oğuzhan Özyakup","Atiba Hutchinson",6
-"Pedro Franco","Tolga Zengin",5
-"Pedro Franco","İsmail Köybaşı",10
-"Pedro Franco","Veli Kavlak",9
-"Pedro Franco","Demba Ba",6
-"Pedro Franco","Olcay Şahan",1
-"Pedro Franco","Mustafa Pektemek",5
-"Pedro Franco","Oğuzhan Özyakup",5
-"Pedro Franco","Necip Uysal",5
-"Pedro Franco","Ersan Gülüm",23
-"Pedro Franco","Ramon Motta",5
-"Pedro Franco","Gökhan Töre",3
-"Pedro Franco","Atiba Hutchinson",9
-"Necip Uysal","Tolga Zengin",1
-"Necip Uysal","İsmail Köybaşı",7
-"Necip Uysal","Veli Kavlak",7
-"Necip Uysal","Demba Ba",1
-"Necip Uysal","Olcay Şahan",2
-"Necip Uysal","Mustafa Pektemek",3
-"Necip Uysal","Oğuzhan Özyakup",6
-"Necip Uysal","Pedro Franco",6
-"Necip Uysal","Ersan Gülüm",2
-"Necip Uysal","Ramon Motta",4
-"Necip Uysal","Gökhan Töre",4
-"Necip Uysal","Kerim Koyunlu",1
-"Necip Uysal","Atiba Hutchinson",2
-"Ersan Gülüm","Tolga Zengin",4
-"Ersan Gülüm","İsmail Köybaşı",1
-"Ersan Gülüm","Veli Kavlak",7
-"Ersan Gülüm","Demba Ba",4
-"Ersan Gülüm","Olcay Şahan",4
-"Ersan Gülüm","Mustafa Pektemek",2
-"Ersan Gülüm","Oğuzhan Özyakup",5
-"Ersan Gülüm","Pedro Franco",18
-"Ersan Gülüm","Ramon Motta",17
-"Ersan Gülüm","Gökhan Töre",1
-"Ersan Gülüm","Atiba Hutchinson",6
-"Ramon Motta","Tolga Zengin",1
-"Ramon Motta","İsmail Köybaşı",5
-"Ramon Motta","Veli Kavlak",14
-"Ramon Motta","Demba Ba",5
-"Ramon Motta","Olcay Şahan",5
-"Ramon Motta","Mustafa Pektemek",2
-"Ramon Motta","Oğuzhan Özyakup",11
-"Ramon Motta","Necip Uysal",2
-"Ramon Motta","Ersan Gülüm",14
-"Ramon Motta","Gökhan Töre",2
-"Ramon Motta","Kerim Koyunlu",1
-"Ramon Motta","Atiba Hutchinson",13
-"Gökhan Töre","İsmail Köybaşı",3
-"Gökhan Töre","Veli Kavlak",2
-"Gökhan Töre","Demba Ba",2
-"Gökhan Töre","Oğuzhan Özyakup",5
-"Gökhan Töre","Necip Uysal",1
-"Gökhan Töre","Kerim Koyunlu",2
-"Gökhan Töre","Atiba Hutchinson",3
-"Kerim Koyunlu","İsmail Köybaşı",1
-"Kerim Koyunlu","Veli Kavlak",2
-"Kerim Koyunlu","Mustafa Pektemek",1
-"Kerim Koyunlu","Ramon Motta",3
-"Cenk Tosun","Veli Kavlak",1
-"Cenk Tosun","Pedro Franco",1
-"Atiba Hutchinson","İsmail Köybaşı",12
-"Atiba Hutchinson","Veli Kavlak",7
-"Atiba Hutchinson","Demba Ba",3
-"Atiba Hutchinson","Olcay Şahan",3
-"Atiba Hutchinson","Mustafa Pektemek",5
-"Atiba Hutchinson","Oğuzhan Özyakup",14
-"Atiba Hutchinson","Pedro Franco",10
-"Atiba Hutchinson","Ersan Gülüm",4
-"Atiba Hutchinson","Ramon Motta",13
-"Atiba Hutchinson","Gökhan Töre",2
-"Atiba Hutchinson","Necip Uysal",1
+Source,Target,Weight
+"29","3",2
+"29","11",6
+"29","15",1
+"29","19",6
+"29","20",1
+"29","22",3
+"29","31",3
+"29","13",2
+"3","29",3
+"3","8",5
+"3","9",6
+"3","10",1
+"3","11",5
+"3","15",12
+"3","19",14
+"3","20",9
+"3","22",2
+"3","31",5
+"3","7",11
+"3","21",1
+"3","13",3
+"8","3",6
+"8","9",3
+"8","10",4
+"8","11",4
+"8","15",8
+"8","19",5
+"8","20",7
+"8","22",11
+"8","31",11
+"8","7",2
+"8","21",2
+"8","13",8
+"9","3",8
+"9","10",5
+"9","11",5
+"9","15",4
+"9","19",3
+"9","20",2
+"9","22",3
+"9","31",1
+"9","7",2
+"9","21",1
+"9","23",2
+"9","13",2
+"10","3",2
+"10","8",3
+"10","9",6
+"10","11",2
+"10","15",8
+"10","20",2
+"10","31",6
+"10","13",1
+"11","3",11
+"11","8",4
+"11","9",6
+"11","10",2
+"11","15",10
+"11","19",3
+"11","20",2
+"11","31",3
+"11","13",6
+"15","3",11
+"15","8",12
+"15","9",6
+"15","10",7
+"15","11",11
+"15","19",2
+"15","20",2
+"15","22",4
+"15","31",12
+"15","7",5
+"15","13",6
+"19","29",5
+"19","3",10
+"19","8",9
+"19","9",6
+"19","10",1
+"19","11",5
+"19","15",5
+"19","20",5
+"19","22",23
+"19","31",5
+"19","7",3
+"19","13",9
+"20","29",1
+"20","3",7
+"20","8",7
+"20","9",1
+"20","10",2
+"20","11",3
+"20","15",6
+"20","19",6
+"20","22",2
+"20","31",4
+"20","7",4
+"20","21",1
+"20","13",2
+"22","29",4
+"22","3",1
+"22","8",7
+"22","9",4
+"22","10",4
+"22","11",2
+"22","15",5
+"22","19",18
+"22","31",17
+"22","7",1
+"22","13",6
+"31","29",1
+"31","3",5
+"31","8",14
+"31","9",5
+"31","10",5
+"31","11",2
+"31","15",11
+"31","20",2
+"31","22",14
+"31","7",2
+"31","21",1
+"31","13",13
+"7","3",3
+"7","8",2
+"7","9",2
+"7","15",5
+"7","20",1
+"7","21",2
+"7","13",3
+"21","3",1
+"21","8",2
+"21","11",1
+"21","31",3
+"23","8",1
+"23","19",1
+"13","3",12
+"13","8",7
+"13","9",3
+"13","10",3
+"13","11",5
+"13","15",14
+"13","19",10
+"13","22",4
+"13","31",13
+"13","7",2
+"13","20",1

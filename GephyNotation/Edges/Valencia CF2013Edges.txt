@@ -1,367 +1,368 @@
-"Diego Alves","Aly Cissokho",3
-"Diego Alves","Adil Rami",7
-"Diego Alves","Sofiane Feghouli",2
-"Diego Alves","Roberto Soldado",4
-"Diego Alves","João Pereira",6
-"Diego Alves","Andrés Guardado",1
-"Diego Alves","Ricardo Costa",2
-"Diego Alves","Antonio Barragán",1
-"Diego Alves","Fernando Gago",1
-"Diego Alves","David Albelda",1
-"Diego Alves","Éver Banega",1
-"Aly Cissokho","Diego Alves",1
-"Aly Cissokho","Adil Rami",4
-"Aly Cissokho","Jonas",25
-"Aly Cissokho","Sofiane Feghouli",6
-"Aly Cissokho","Roberto Soldado",12
-"Aly Cissokho","João Pereira",1
-"Aly Cissokho","Andrés Guardado",50
-"Aly Cissokho","Ricardo Costa",13
-"Aly Cissokho","Daniel Parejo",11
-"Aly Cissokho","Tino Costa",40
-"Aly Cissokho","Antonio Barragán",3
-"Aly Cissokho","Jonathan Viera",1
-"Aly Cissokho","Nelson Valdez",8
-"Aly Cissokho","Vicente Guaita",1
-"Aly Cissokho","Fernando Gago",22
-"Aly Cissokho","Víctor Ruiz",9
-"Aly Cissokho","Carlos Delgado",7
-"Aly Cissokho","David Albelda",4
-"Aly Cissokho","Éver Banega",14
-"Aly Cissokho","Pablo Piatti",1
-"Aly Cissokho","Jérémy Mathieu",10
-"Adil Rami","Diego Alves",10
-"Adil Rami","Aly Cissokho",7
-"Adil Rami","Jonas",4
-"Adil Rami","Sofiane Feghouli",13
-"Adil Rami","Roberto Soldado",6
-"Adil Rami","João Pereira",38
-"Adil Rami","Andrés Guardado",6
-"Adil Rami","Ricardo Costa",40
-"Adil Rami","Daniel Parejo",11
-"Adil Rami","Tino Costa",18
-"Adil Rami","Jonathan Viera",2
-"Adil Rami","Nelson Valdez",4
-"Adil Rami","Fernando Gago",10
-"Adil Rami","David Albelda",9
-"Adil Rami","Éver Banega",5
-"Adil Rami","Vicente Guaita",12
-"Adil Rami","Víctor Ruiz",8
-"Adil Rami","Pablo Piatti",1
-"Adil Rami","Sergio Canales",1
-"Jonas","Aly Cissokho",17
-"Jonas","Adil Rami",7
-"Jonas","Sofiane Feghouli",10
-"Jonas","Roberto Soldado",11
-"Jonas","João Pereira",8
-"Jonas","Andrés Guardado",12
-"Jonas","Ricardo Costa",3
-"Jonas","Daniel Parejo",8
-"Jonas","Tino Costa",21
-"Jonas","Antonio Barragán",5
-"Jonas","Nelson Valdez",7
-"Jonas","Fernando Gago",9
-"Jonas","Víctor Ruiz",10
-"Jonas","Carlos Delgado",1
-"Jonas","David Albelda",4
-"Jonas","Éver Banega",15
-"Jonas","Pablo Piatti",1
-"Jonas","Jérémy Mathieu",2
-"Sofiane Feghouli","Aly Cissokho",4
-"Sofiane Feghouli","Adil Rami",8
-"Sofiane Feghouli","Jonas",18
-"Sofiane Feghouli","Roberto Soldado",22
-"Sofiane Feghouli","João Pereira",23
-"Sofiane Feghouli","Andrés Guardado",12
-"Sofiane Feghouli","Ricardo Costa",11
-"Sofiane Feghouli","Daniel Parejo",11
-"Sofiane Feghouli","Tino Costa",18
-"Sofiane Feghouli","Antonio Barragán",12
-"Sofiane Feghouli","Nelson Valdez",2
-"Sofiane Feghouli","Fernando Gago",11
-"Sofiane Feghouli","Víctor Ruiz",2
-"Sofiane Feghouli","Carlos Delgado",1
-"Sofiane Feghouli","David Albelda",10
-"Sofiane Feghouli","Éver Banega",12
-"Sofiane Feghouli","Sergio Canales",2
-"Roberto Soldado","Aly Cissokho",5
-"Roberto Soldado","Adil Rami",3
-"Roberto Soldado","Jonas",10
-"Roberto Soldado","Sofiane Feghouli",18
-"Roberto Soldado","João Pereira",5
-"Roberto Soldado","Andrés Guardado",14
-"Roberto Soldado","Ricardo Costa",2
-"Roberto Soldado","Daniel Parejo",10
-"Roberto Soldado","Tino Costa",12
-"Roberto Soldado","Antonio Barragán",6
-"Roberto Soldado","Nelson Valdez",2
-"Roberto Soldado","Fernando Gago",5
-"Roberto Soldado","Víctor Ruiz",2
-"Roberto Soldado","Carlos Delgado",1
-"Roberto Soldado","David Albelda",3
-"Roberto Soldado","Éver Banega",4
-"Roberto Soldado","Pablo Piatti",1
-"João Pereira","Diego Alves",1
-"João Pereira","Aly Cissokho",3
-"João Pereira","Adil Rami",28
-"João Pereira","Jonas",3
-"João Pereira","Sofiane Feghouli",35
-"João Pereira","Roberto Soldado",3
-"João Pereira","Andrés Guardado",6
-"João Pereira","Ricardo Costa",3
-"João Pereira","Daniel Parejo",23
-"João Pereira","Tino Costa",27
-"João Pereira","Antonio Barragán",9
-"João Pereira","Jonathan Viera",1
-"João Pereira","Nelson Valdez",1
-"João Pereira","Vicente Guaita",1
-"João Pereira","Fernando Gago",13
-"João Pereira","Víctor Ruiz",1
-"João Pereira","David Albelda",5
-"João Pereira","Éver Banega",1
-"João Pereira","Sergio Canales",2
-"Andrés Guardado","Diego Alves",1
-"Andrés Guardado","Aly Cissokho",37
-"Andrés Guardado","Adil Rami",3
-"Andrés Guardado","Jonas",18
-"Andrés Guardado","Sofiane Feghouli",8
-"Andrés Guardado","Roberto Soldado",8
-"Andrés Guardado","João Pereira",7
-"Andrés Guardado","Ricardo Costa",18
-"Andrés Guardado","Daniel Parejo",10
-"Andrés Guardado","Tino Costa",52
-"Andrés Guardado","Jonathan Viera",1
-"Andrés Guardado","Nelson Valdez",4
-"Andrés Guardado","Vicente Guaita",1
-"Andrés Guardado","Fernando Gago",20
-"Andrés Guardado","Víctor Ruiz",5
-"Andrés Guardado","Carlos Delgado",7
-"Andrés Guardado","David Albelda",2
-"Andrés Guardado","Éver Banega",12
-"Andrés Guardado","Pablo Piatti",3
-"Andrés Guardado","Sergio Canales",19
-"Ricardo Costa","Diego Alves",6
-"Ricardo Costa","Aly Cissokho",26
-"Ricardo Costa","Adil Rami",38
-"Ricardo Costa","Jonas",9
-"Ricardo Costa","Sofiane Feghouli",13
-"Ricardo Costa","Roberto Soldado",6
-"Ricardo Costa","João Pereira",6
-"Ricardo Costa","Andrés Guardado",23
-"Ricardo Costa","Daniel Parejo",15
-"Ricardo Costa","Tino Costa",24
-"Ricardo Costa","Antonio Barragán",1
-"Ricardo Costa","Jonathan Viera",3
-"Ricardo Costa","Nelson Valdez",1
-"Ricardo Costa","Fernando Gago",8
-"Ricardo Costa","David Albelda",6
-"Ricardo Costa","Éver Banega",6
-"Ricardo Costa","Vicente Guaita",15
-"Ricardo Costa","Víctor Ruiz",4
-"Ricardo Costa","Pablo Piatti",2
-"Ricardo Costa","Sergio Canales",2
-"Daniel Parejo","Aly Cissokho",9
-"Daniel Parejo","Adil Rami",19
-"Daniel Parejo","Jonas",5
-"Daniel Parejo","Sofiane Feghouli",12
-"Daniel Parejo","Roberto Soldado",12
-"Daniel Parejo","João Pereira",19
-"Daniel Parejo","Andrés Guardado",19
-"Daniel Parejo","Ricardo Costa",16
-"Daniel Parejo","Tino Costa",38
-"Daniel Parejo","Antonio Barragán",7
-"Daniel Parejo","Jonathan Viera",4
-"Daniel Parejo","Nelson Valdez",3
-"Daniel Parejo","Vicente Guaita",3
-"Daniel Parejo","Fernando Gago",2
-"Daniel Parejo","Víctor Ruiz",8
-"Daniel Parejo","Carlos Delgado",1
-"Daniel Parejo","Éver Banega",17
-"Daniel Parejo","David Albelda",1
-"Daniel Parejo","Sergio Canales",9
-"Daniel Parejo","Jérémy Mathieu",7
-"Tino Costa","Diego Alves",2
-"Tino Costa","Aly Cissokho",38
-"Tino Costa","Adil Rami",32
-"Tino Costa","Jonas",20
-"Tino Costa","Sofiane Feghouli",18
-"Tino Costa","Roberto Soldado",18
-"Tino Costa","João Pereira",16
-"Tino Costa","Andrés Guardado",43
-"Tino Costa","Ricardo Costa",30
-"Tino Costa","Daniel Parejo",33
-"Tino Costa","Antonio Barragán",6
-"Tino Costa","Jonathan Viera",1
-"Tino Costa","Nelson Valdez",8
-"Tino Costa","Vicente Guaita",1
-"Tino Costa","Fernando Gago",40
-"Tino Costa","Víctor Ruiz",20
-"Tino Costa","Carlos Delgado",14
-"Tino Costa","David Albelda",15
-"Tino Costa","Éver Banega",32
-"Tino Costa","Pablo Piatti",5
-"Tino Costa","Sergio Canales",6
-"Tino Costa","Jérémy Mathieu",7
-"Antonio Barragán","Aly Cissokho",2
-"Antonio Barragán","Adil Rami",3
-"Antonio Barragán","Jonas",9
-"Antonio Barragán","Sofiane Feghouli",13
-"Antonio Barragán","Roberto Soldado",8
-"Antonio Barragán","João Pereira",5
-"Antonio Barragán","Andrés Guardado",2
-"Antonio Barragán","Daniel Parejo",8
-"Antonio Barragán","Tino Costa",7
-"Antonio Barragán","Vicente Guaita",7
-"Antonio Barragán","Fernando Gago",5
-"Antonio Barragán","Víctor Ruiz",14
-"Antonio Barragán","Carlos Delgado",1
-"Antonio Barragán","David Albelda",3
-"Antonio Barragán","Éver Banega",2
-"Antonio Barragán","Jérémy Mathieu",3
-"Antonio Barragán","Pablo Piatti",2
-"Jonathan Viera","Aly Cissokho",2
-"Jonathan Viera","Adil Rami",2
-"Jonathan Viera","João Pereira",1
-"Jonathan Viera","Andrés Guardado",1
-"Jonathan Viera","Daniel Parejo",2
-"Jonathan Viera","Tino Costa",3
-"Jonathan Viera","Nelson Valdez",3
-"Jonathan Viera","Fernando Gago",1
-"Jonathan Viera","Pablo Piatti",1
-"Jonathan Viera","Sergio Canales",1
-"Nelson Valdez","Aly Cissokho",3
-"Nelson Valdez","Adil Rami",4
-"Nelson Valdez","Jonas",3
-"Nelson Valdez","Roberto Soldado",2
-"Nelson Valdez","Andrés Guardado",6
-"Nelson Valdez","Ricardo Costa",3
-"Nelson Valdez","Daniel Parejo",3
-"Nelson Valdez","Tino Costa",2
-"Nelson Valdez","Jonathan Viera",2
-"Nelson Valdez","Fernando Gago",1
-"Nelson Valdez","Víctor Ruiz",1
-"Nelson Valdez","David Albelda",2
-"Nelson Valdez","Éver Banega",5
-"Nelson Valdez","Pablo Piatti",1
-"Vicente Guaita","Aly Cissokho",10
-"Vicente Guaita","Fernando Gago",2
-"Vicente Guaita","Jonas",4
-"Vicente Guaita","Sofiane Feghouli",8
-"Vicente Guaita","Roberto Soldado",6
-"Vicente Guaita","Antonio Barragán",4
-"Vicente Guaita","Andrés Guardado",10
-"Vicente Guaita","Víctor Ruiz",16
-"Vicente Guaita","Tino Costa",9
-"Vicente Guaita","Carlos Delgado",5
-"Vicente Guaita","João Pereira",3
-"Vicente Guaita","Nelson Valdez",4
-"Vicente Guaita","Daniel Parejo",4
-"Vicente Guaita","Adil Rami",11
-"Vicente Guaita","Ricardo Costa",6
-"Vicente Guaita","David Albelda",3
-"Vicente Guaita","Éver Banega",3
-"Vicente Guaita","Sergio Canales",4
-"Vicente Guaita","Jérémy Mathieu",7
-"Fernando Gago","Vicente Guaita",1
-"Fernando Gago","Aly Cissokho",28
-"Fernando Gago","Jonas",6
-"Fernando Gago","Sofiane Feghouli",15
-"Fernando Gago","Roberto Soldado",8
-"Fernando Gago","Antonio Barragán",3
-"Fernando Gago","Andrés Guardado",15
-"Fernando Gago","Víctor Ruiz",12
-"Fernando Gago","Tino Costa",38
-"Fernando Gago","Carlos Delgado",13
-"Fernando Gago","João Pereira",15
-"Fernando Gago","Nelson Valdez",1
-"Fernando Gago","Daniel Parejo",2
-"Fernando Gago","Adil Rami",18
-"Fernando Gago","David Albelda",4
-"Fernando Gago","Ricardo Costa",10
-"Fernando Gago","Éver Banega",4
-"Fernando Gago","Pablo Piatti",1
-"Fernando Gago","Jonathan Viera",3
-"Víctor Ruiz","Vicente Guaita",6
-"Víctor Ruiz","Aly Cissokho",16
-"Víctor Ruiz","Fernando Gago",18
-"Víctor Ruiz","Jonas",10
-"Víctor Ruiz","Sofiane Feghouli",9
-"Víctor Ruiz","Roberto Soldado",2
-"Víctor Ruiz","Antonio Barragán",19
-"Víctor Ruiz","Andrés Guardado",7
-"Víctor Ruiz","Tino Costa",19
-"Víctor Ruiz","Carlos Delgado",15
-"Víctor Ruiz","Nelson Valdez",4
-"Víctor Ruiz","Daniel Parejo",8
-"Víctor Ruiz","Adil Rami",13
-"Víctor Ruiz","David Albelda",9
-"Víctor Ruiz","Pablo Piatti",1
-"Víctor Ruiz","Jérémy Mathieu",11
-"Víctor Ruiz","Éver Banega",1
-"Carlos Delgado","Vicente Guaita",7
-"Carlos Delgado","Aly Cissokho",11
-"Carlos Delgado","Fernando Gago",12
-"Carlos Delgado","Jonas",2
-"Carlos Delgado","Antonio Barragán",2
-"Carlos Delgado","Andrés Guardado",6
-"Carlos Delgado","Víctor Ruiz",12
-"Carlos Delgado","Tino Costa",6
-"Carlos Delgado","João Pereira",1
-"David Albelda","Aly Cissokho",13
-"David Albelda","Adil Rami",6
-"David Albelda","Fernando Gago",7
-"David Albelda","Sofiane Feghouli",7
-"David Albelda","Roberto Soldado",6
-"David Albelda","João Pereira",4
-"David Albelda","Andrés Guardado",3
-"David Albelda","Ricardo Costa",3
-"David Albelda","Tino Costa",16
-"David Albelda","Jonas",2
-"David Albelda","Antonio Barragán",4
-"David Albelda","Vicente Guaita",3
-"David Albelda","Daniel Parejo",1
-"David Albelda","Víctor Ruiz",11
-"David Albelda","Jérémy Mathieu",6
-"Éver Banega","Aly Cissokho",6
-"Éver Banega","Adil Rami",5
-"Éver Banega","Fernando Gago",4
-"Éver Banega","Sofiane Feghouli",11
-"Éver Banega","Roberto Soldado",11
-"Éver Banega","João Pereira",6
-"Éver Banega","Andrés Guardado",11
-"Éver Banega","Ricardo Costa",4
-"Éver Banega","Tino Costa",22
-"Éver Banega","Jonas",11
-"Éver Banega","Antonio Barragán",1
-"Éver Banega","Nelson Valdez",4
-"Éver Banega","Daniel Parejo",16
-"Éver Banega","Víctor Ruiz",2
-"Éver Banega","Jérémy Mathieu",3
-"Pablo Piatti","Aly Cissokho",2
-"Pablo Piatti","Jonas",3
-"Pablo Piatti","Nelson Valdez",1
-"Pablo Piatti","Ricardo Costa",2
-"Pablo Piatti","Tino Costa",5
-"Pablo Piatti","Fernando Gago",1
-"Pablo Piatti","Antonio Barragán",1
-"Pablo Piatti","Daniel Parejo",2
-"Pablo Piatti","Éver Banega",1
-"Sergio Canales","Sofiane Feghouli",2
-"Sergio Canales","Roberto Soldado",1
-"Sergio Canales","João Pereira",1
-"Sergio Canales","Andrés Guardado",17
-"Sergio Canales","Ricardo Costa",4
-"Sergio Canales","Daniel Parejo",10
-"Sergio Canales","Tino Costa",4
-"Sergio Canales","Jonathan Viera",1
-"Sergio Canales","Nelson Valdez",2
-"Jérémy Mathieu","Vicente Guaita",2
-"Jérémy Mathieu","Aly Cissokho",9
-"Jérémy Mathieu","David Albelda",6
-"Jérémy Mathieu","Jonas",3
-"Jérémy Mathieu","Sofiane Feghouli",1
-"Jérémy Mathieu","Antonio Barragán",2
-"Jérémy Mathieu","Víctor Ruiz",15
-"Jérémy Mathieu","Daniel Parejo",5
-"Jérémy Mathieu","Tino Costa",12
-"Jérémy Mathieu","Éver Banega",2
+Source,Target,Weight
+"1","3",3
+"1","4",7
+"1","8",2
+"1","9",4
+"1","12",6
+"1","17",1
+"1","20",2
+"1","14",1
+"1","5",1
+"1","6",1
+"1","10",1
+"3","1",1
+"3","4",4
+"3","7",25
+"3","8",6
+"3","9",12
+"3","12",1
+"3","17",50
+"3","20",13
+"3","21",11
+"3","24",40
+"3","14",3
+"3","15",1
+"3","16",8
+"3","13",1
+"3","5",22
+"3","18",9
+"3","30",7
+"3","6",4
+"3","10",14
+"3","11",1
+"3","22",10
+"4","1",10
+"4","3",7
+"4","7",4
+"4","8",13
+"4","9",6
+"4","12",38
+"4","17",6
+"4","20",40
+"4","21",11
+"4","24",18
+"4","15",2
+"4","16",4
+"4","5",10
+"4","6",9
+"4","10",5
+"4","13",12
+"4","18",8
+"4","11",1
+"4","23",1
+"7","3",17
+"7","4",7
+"7","8",10
+"7","9",11
+"7","12",8
+"7","17",12
+"7","20",3
+"7","21",8
+"7","24",21
+"7","14",5
+"7","16",7
+"7","5",9
+"7","18",10
+"7","30",1
+"7","6",4
+"7","10",15
+"7","11",1
+"7","22",2
+"8","3",4
+"8","4",8
+"8","7",18
+"8","9",22
+"8","12",23
+"8","17",12
+"8","20",11
+"8","21",11
+"8","24",18
+"8","14",12
+"8","16",2
+"8","5",11
+"8","18",2
+"8","30",1
+"8","6",10
+"8","10",12
+"8","23",2
+"9","3",5
+"9","4",3
+"9","7",10
+"9","8",18
+"9","12",5
+"9","17",14
+"9","20",2
+"9","21",10
+"9","24",12
+"9","14",6
+"9","16",2
+"9","5",5
+"9","18",2
+"9","30",1
+"9","6",3
+"9","10",4
+"9","11",1
+"12","1",1
+"12","3",3
+"12","4",28
+"12","7",3
+"12","8",35
+"12","9",3
+"12","17",6
+"12","20",3
+"12","21",23
+"12","24",27
+"12","14",9
+"12","15",1
+"12","16",1
+"12","13",1
+"12","5",13
+"12","18",1
+"12","6",5
+"12","10",1
+"12","23",2
+"17","1",1
+"17","3",37
+"17","4",3
+"17","7",18
+"17","8",8
+"17","9",8
+"17","12",7
+"17","20",18
+"17","21",10
+"17","24",52
+"17","15",1
+"17","16",4
+"17","13",1
+"17","5",20
+"17","18",5
+"17","30",7
+"17","6",2
+"17","10",12
+"17","11",3
+"17","23",19
+"20","1",6
+"20","3",26
+"20","4",38
+"20","7",9
+"20","8",13
+"20","9",6
+"20","12",6
+"20","17",23
+"20","21",15
+"20","24",24
+"20","14",1
+"20","15",3
+"20","16",1
+"20","5",8
+"20","6",6
+"20","10",6
+"20","13",15
+"20","18",4
+"20","11",2
+"20","23",2
+"21","3",9
+"21","4",19
+"21","7",5
+"21","8",12
+"21","9",12
+"21","12",19
+"21","17",19
+"21","20",16
+"21","24",38
+"21","14",7
+"21","15",4
+"21","16",3
+"21","13",3
+"21","5",2
+"21","18",8
+"21","30",1
+"21","10",17
+"21","6",1
+"21","23",9
+"21","22",7
+"24","1",2
+"24","3",38
+"24","4",32
+"24","7",20
+"24","8",18
+"24","9",18
+"24","12",16
+"24","17",43
+"24","20",30
+"24","21",33
+"24","14",6
+"24","15",1
+"24","16",8
+"24","13",1
+"24","5",40
+"24","18",20
+"24","30",14
+"24","6",15
+"24","10",32
+"24","11",5
+"24","23",6
+"24","22",7
+"14","3",2
+"14","4",3
+"14","7",9
+"14","8",13
+"14","9",8
+"14","12",5
+"14","17",2
+"14","21",8
+"14","24",7
+"14","13",7
+"14","5",5
+"14","18",14
+"14","30",1
+"14","6",3
+"14","10",2
+"14","22",3
+"14","11",2
+"15","3",2
+"15","4",2
+"15","12",1
+"15","17",1
+"15","21",2
+"15","24",3
+"15","16",3
+"15","5",1
+"15","11",1
+"15","23",1
+"16","3",3
+"16","4",4
+"16","7",3
+"16","9",2
+"16","17",6
+"16","20",3
+"16","21",3
+"16","24",2
+"16","15",2
+"16","5",1
+"16","18",1
+"16","6",2
+"16","10",5
+"16","11",1
+"13","3",10
+"13","5",2
+"13","7",4
+"13","8",8
+"13","9",6
+"13","14",4
+"13","17",10
+"13","18",16
+"13","24",9
+"13","30",5
+"13","12",3
+"13","16",4
+"13","21",4
+"13","4",11
+"13","20",6
+"13","6",3
+"13","10",3
+"13","23",4
+"13","22",7
+"5","13",1
+"5","3",28
+"5","7",6
+"5","8",15
+"5","9",8
+"5","14",3
+"5","17",15
+"5","18",12
+"5","24",38
+"5","30",13
+"5","12",15
+"5","16",1
+"5","21",2
+"5","4",18
+"5","6",4
+"5","20",10
+"5","10",4
+"5","11",1
+"5","15",3
+"18","13",6
+"18","3",16
+"18","5",18
+"18","7",10
+"18","8",9
+"18","9",2
+"18","14",19
+"18","17",7
+"18","24",19
+"18","30",15
+"18","16",4
+"18","21",8
+"18","4",13
+"18","6",9
+"18","11",1
+"18","22",11
+"18","10",1
+"30","13",7
+"30","3",11
+"30","5",12
+"30","7",2
+"30","14",2
+"30","17",6
+"30","18",12
+"30","24",6
+"30","12",1
+"6","3",13
+"6","4",6
+"6","5",7
+"6","8",7
+"6","9",6
+"6","12",4
+"6","17",3
+"6","20",3
+"6","24",16
+"6","7",2
+"6","14",4
+"6","13",3
+"6","21",1
+"6","18",11
+"6","22",6
+"10","3",6
+"10","4",5
+"10","5",4
+"10","8",11
+"10","9",11
+"10","12",6
+"10","17",11
+"10","20",4
+"10","24",22
+"10","7",11
+"10","14",1
+"10","16",4
+"10","21",16
+"10","18",2
+"10","22",3
+"11","3",2
+"11","7",3
+"11","16",1
+"11","20",2
+"11","24",5
+"11","5",1
+"11","14",1
+"11","21",2
+"11","10",1
+"23","8",2
+"23","9",1
+"23","12",1
+"23","17",17
+"23","20",4
+"23","21",10
+"23","24",4
+"23","15",1
+"23","16",2
+"22","13",2
+"22","3",9
+"22","6",6
+"22","7",3
+"22","8",1
+"22","14",2
+"22","18",15
+"22","21",5
+"22","24",12
+"22","10",2

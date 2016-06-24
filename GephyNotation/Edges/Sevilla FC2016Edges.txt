@@ -1,239 +1,240 @@
-"Sergio Rico","Benoît Trémoulinas",4
-"Sergio Rico","Grzegorz Krychowiak",12
-"Sergio Rico","Kolodziejczak",46
-"Sergio Rico","Kevin Gameiro",1
-"Sergio Rico","José Antonio Reyes",2
-"Sergio Rico","Steven N'Zonzi",2
-"Sergio Rico","Marco Andreolli",14
-"Sergio Rico","Éver Banega",5
-"Sergio Rico","Vitolo",5
-"Sergio Rico","Coke",10
-"Sergio Rico","Michael Krohn-Dehli",4
-"Sergio Rico","Yevhen Konoplyanka",4
-"Sergio Rico","Vicente Iborra",1
-"Sergio Rico","Adil Rami",25
-"Sergio Rico","Fernando Llorente",3
-"Benoît Trémoulinas","Sergio Rico",5
-"Benoît Trémoulinas","Grzegorz Krychowiak",19
-"Benoît Trémoulinas","Kolodziejczak",53
-"Benoît Trémoulinas","Kevin Gameiro",6
-"Benoît Trémoulinas","José Antonio Reyes",10
-"Benoît Trémoulinas","Steven N'Zonzi",12
-"Benoît Trémoulinas","Marco Andreolli",1
-"Benoît Trémoulinas","Éver Banega",26
-"Benoît Trémoulinas","Vitolo",4
-"Benoît Trémoulinas","Coke",1
-"Benoît Trémoulinas","Michael Krohn-Dehli",14
-"Benoît Trémoulinas","Ciro Immobile",1
-"Benoît Trémoulinas","Yevhen Konoplyanka",34
-"Benoît Trémoulinas","Vicente Iborra",3
-"Benoît Trémoulinas","Adil Rami",6
-"Benoît Trémoulinas","Fernando Llorente",1
-"Grzegorz Krychowiak","Sergio Rico",12
-"Grzegorz Krychowiak","Benoît Trémoulinas",37
-"Grzegorz Krychowiak","Kolodziejczak",48
-"Grzegorz Krychowiak","Kevin Gameiro",7
-"Grzegorz Krychowiak","José Antonio Reyes",11
-"Grzegorz Krychowiak","Steven N'Zonzi",17
-"Grzegorz Krychowiak","Marco Andreolli",14
-"Grzegorz Krychowiak","Éver Banega",52
-"Grzegorz Krychowiak","Vitolo",18
-"Grzegorz Krychowiak","Coke",31
-"Grzegorz Krychowiak","Michael Krohn-Dehli",28
-"Grzegorz Krychowiak","Yevhen Konoplyanka",10
-"Grzegorz Krychowiak","Vicente Iborra",2
-"Grzegorz Krychowiak","Adil Rami",29
-"Grzegorz Krychowiak","Mariano Ferreira",4
-"Kolodziejczak","Sergio Rico",37
-"Kolodziejczak","Benoît Trémoulinas",43
-"Kolodziejczak","Grzegorz Krychowiak",49
-"Kolodziejczak","Kevin Gameiro",5
-"Kolodziejczak","José Antonio Reyes",5
-"Kolodziejczak","Steven N'Zonzi",23
-"Kolodziejczak","Marco Andreolli",18
-"Kolodziejczak","Éver Banega",47
-"Kolodziejczak","Vitolo",3
-"Kolodziejczak","Coke",6
-"Kolodziejczak","Michael Krohn-Dehli",22
-"Kolodziejczak","Yevhen Konoplyanka",16
-"Kolodziejczak","Vicente Iborra",12
-"Kolodziejczak","Adil Rami",21
-"Kolodziejczak","Fernando Llorente",2
-"Kevin Gameiro","Benoît Trémoulinas",3
-"Kevin Gameiro","Grzegorz Krychowiak",2
-"Kevin Gameiro","José Antonio Reyes",5
-"Kevin Gameiro","Steven N'Zonzi",3
-"Kevin Gameiro","Éver Banega",8
-"Kevin Gameiro","Vitolo",8
-"Kevin Gameiro","Coke",8
-"Kevin Gameiro","Michael Krohn-Dehli",6
-"Kevin Gameiro","Yevhen Konoplyanka",5
-"Kevin Gameiro","Vicente Iborra",3
-"Kevin Gameiro","Adil Rami",2
-"José Antonio Reyes","Benoît Trémoulinas",8
-"José Antonio Reyes","Grzegorz Krychowiak",6
-"José Antonio Reyes","Kolodziejczak",2
-"José Antonio Reyes","Kevin Gameiro",4
-"José Antonio Reyes","Steven N'Zonzi",4
-"José Antonio Reyes","Marco Andreolli",4
-"José Antonio Reyes","Éver Banega",5
-"José Antonio Reyes","Vitolo",3
-"José Antonio Reyes","Coke",8
-"José Antonio Reyes","Michael Krohn-Dehli",5
-"José Antonio Reyes","Ciro Immobile",3
-"José Antonio Reyes","Yevhen Konoplyanka",5
-"José Antonio Reyes","Vicente Iborra",1
-"Steven N'Zonzi","Sergio Rico",2
-"Steven N'Zonzi","Benoît Trémoulinas",21
-"Steven N'Zonzi","Grzegorz Krychowiak",17
-"Steven N'Zonzi","Kolodziejczak",20
-"Steven N'Zonzi","Kevin Gameiro",1
-"Steven N'Zonzi","José Antonio Reyes",5
-"Steven N'Zonzi","Marco Andreolli",15
-"Steven N'Zonzi","Éver Banega",23
-"Steven N'Zonzi","Vitolo",7
-"Steven N'Zonzi","Coke",21
-"Steven N'Zonzi","Michael Krohn-Dehli",10
-"Steven N'Zonzi","Yevhen Konoplyanka",8
-"Steven N'Zonzi","Adil Rami",8
-"Steven N'Zonzi","Mariano Ferreira",3
-"Marco Andreolli","Sergio Rico",6
-"Marco Andreolli","Benoît Trémoulinas",1
-"Marco Andreolli","Grzegorz Krychowiak",20
-"Marco Andreolli","Kolodziejczak",26
-"Marco Andreolli","Kevin Gameiro",1
-"Marco Andreolli","José Antonio Reyes",3
-"Marco Andreolli","Steven N'Zonzi",16
-"Marco Andreolli","Éver Banega",4
-"Marco Andreolli","Vitolo",3
-"Marco Andreolli","Coke",23
-"Marco Andreolli","Michael Krohn-Dehli",6
-"Marco Andreolli","Yevhen Konoplyanka",2
-"Éver Banega","Benoît Trémoulinas",44
-"Éver Banega","Grzegorz Krychowiak",31
-"Éver Banega","Kolodziejczak",17
-"Éver Banega","Kevin Gameiro",8
-"Éver Banega","José Antonio Reyes",8
-"Éver Banega","Steven N'Zonzi",15
-"Éver Banega","Marco Andreolli",2
-"Éver Banega","Vitolo",52
-"Éver Banega","Coke",38
-"Éver Banega","Michael Krohn-Dehli",21
-"Éver Banega","Yevhen Konoplyanka",29
-"Éver Banega","Adil Rami",19
-"Éver Banega","Vicente Iborra",5
-"Éver Banega","Mariano Ferreira",7
-"Éver Banega","Fernando Llorente",2
-"Vitolo","Sergio Rico",1
-"Vitolo","Benoît Trémoulinas",10
-"Vitolo","Grzegorz Krychowiak",11
-"Vitolo","Kolodziejczak",3
-"Vitolo","Kevin Gameiro",6
-"Vitolo","José Antonio Reyes",1
-"Vitolo","Steven N'Zonzi",9
-"Vitolo","Marco Andreolli",1
-"Vitolo","Éver Banega",32
-"Vitolo","Coke",28
-"Vitolo","Michael Krohn-Dehli",13
-"Vitolo","Yevhen Konoplyanka",8
-"Vitolo","Adil Rami",1
-"Vitolo","Vicente Iborra",5
-"Vitolo","Mariano Ferreira",5
-"Vitolo","Fernando Llorente",2
-"Coke","Sergio Rico",3
-"Coke","Benoît Trémoulinas",2
-"Coke","Grzegorz Krychowiak",15
-"Coke","Kolodziejczak",3
-"Coke","Kevin Gameiro",14
-"Coke","José Antonio Reyes",4
-"Coke","Steven N'Zonzi",23
-"Coke","Marco Andreolli",15
-"Coke","Éver Banega",22
-"Coke","Vitolo",27
-"Coke","Michael Krohn-Dehli",11
-"Coke","Yevhen Konoplyanka",11
-"Coke","Vicente Iborra",5
-"Coke","Juan Muñoz",1
-"Coke","Adil Rami",18
-"Coke","Fernando Llorente",5
-"Michael Krohn-Dehli","Sergio Rico",5
-"Michael Krohn-Dehli","Benoît Trémoulinas",16
-"Michael Krohn-Dehli","Grzegorz Krychowiak",28
-"Michael Krohn-Dehli","Kolodziejczak",17
-"Michael Krohn-Dehli","Kevin Gameiro",4
-"Michael Krohn-Dehli","José Antonio Reyes",10
-"Michael Krohn-Dehli","Steven N'Zonzi",7
-"Michael Krohn-Dehli","Marco Andreolli",3
-"Michael Krohn-Dehli","Éver Banega",22
-"Michael Krohn-Dehli","Vitolo",11
-"Michael Krohn-Dehli","Coke",14
-"Michael Krohn-Dehli","Ciro Immobile",1
-"Michael Krohn-Dehli","Yevhen Konoplyanka",10
-"Michael Krohn-Dehli","Vicente Iborra",5
-"Michael Krohn-Dehli","Adil Rami",8
-"Michael Krohn-Dehli","Mariano Ferreira",9
-"Michael Krohn-Dehli","Fernando Llorente",1
-"Ciro Immobile","Grzegorz Krychowiak",1
-"Ciro Immobile","Éver Banega",1
-"Ciro Immobile","Yevhen Konoplyanka",2
-"Ciro Immobile","Juan Muñoz",1
-"Yevhen Konoplyanka","Benoît Trémoulinas",45
-"Yevhen Konoplyanka","Grzegorz Krychowiak",2
-"Yevhen Konoplyanka","Kolodziejczak",1
-"Yevhen Konoplyanka","Kevin Gameiro",2
-"Yevhen Konoplyanka","José Antonio Reyes",2
-"Yevhen Konoplyanka","Steven N'Zonzi",4
-"Yevhen Konoplyanka","Marco Andreolli",3
-"Yevhen Konoplyanka","Éver Banega",25
-"Yevhen Konoplyanka","Vitolo",7
-"Yevhen Konoplyanka","Coke",9
-"Yevhen Konoplyanka","Michael Krohn-Dehli",9
-"Yevhen Konoplyanka","Vicente Iborra",2
-"Yevhen Konoplyanka","Juan Muñoz",1
-"Yevhen Konoplyanka","Mariano Ferreira",1
-"Yevhen Konoplyanka","Fernando Llorente",3
-"Vicente Iborra","Benoît Trémoulinas",2
-"Vicente Iborra","Grzegorz Krychowiak",5
-"Vicente Iborra","Kolodziejczak",6
-"Vicente Iborra","Michael Krohn-Dehli",3
-"Vicente Iborra","Kevin Gameiro",2
-"Vicente Iborra","Marco Andreolli",3
-"Vicente Iborra","Yevhen Konoplyanka",4
-"Vicente Iborra","Coke",8
-"Vicente Iborra","Adil Rami",6
-"Vicente Iborra","Éver Banega",7
-"Vicente Iborra","Vitolo",6
-"Vicente Iborra","Fernando Llorente",2
-"Juan Muñoz","Vicente Iborra",1
-"Adil Rami","Sergio Rico",17
-"Adil Rami","Benoît Trémoulinas",6
-"Adil Rami","Grzegorz Krychowiak",33
-"Adil Rami","Kolodziejczak",40
-"Adil Rami","Vicente Iborra",4
-"Adil Rami","Kevin Gameiro",4
-"Adil Rami","Éver Banega",20
-"Adil Rami","Vitolo",6
-"Adil Rami","Yevhen Konoplyanka",3
-"Adil Rami","Coke",16
-"Adil Rami","Michael Krohn-Dehli",6
-"Adil Rami","Steven N'Zonzi",11
-"Adil Rami","Mariano Ferreira",1
-"Adil Rami","Fernando Llorente",1
-"Mariano Ferreira","Sergio Rico",1
-"Mariano Ferreira","Benoît Trémoulinas",1
-"Mariano Ferreira","Adil Rami",1
-"Mariano Ferreira","Grzegorz Krychowiak",8
-"Mariano Ferreira","Kolodziejczak",1
-"Mariano Ferreira","Éver Banega",1
-"Mariano Ferreira","Vitolo",6
-"Mariano Ferreira","Michael Krohn-Dehli",4
-"Mariano Ferreira","Steven N'Zonzi",1
-"Mariano Ferreira","Fernando Llorente",1
-"Mariano Ferreira","Ciro Immobile",2
-"Fernando Llorente","Adil Rami",1
-"Fernando Llorente","Grzegorz Krychowiak",1
-"Fernando Llorente","Vicente Iborra",1
-"Fernando Llorente","Éver Banega",8
-"Fernando Llorente","Vitolo",4
-"Fernando Llorente","Yevhen Konoplyanka",4
-"Fernando Llorente","Coke",5
+Source,Target,Weight
+"1","2",4
+"1","4",12
+"1","5",46
+"1","9",1
+"1","10",2
+"1","15",2
+"1","17",14
+"1","19",5
+"1","20",5
+"1","23",10
+"1","7",4
+"1","22",4
+"1","8",1
+"1","3",25
+"1","24",3
+"2","1",5
+"2","4",19
+"2","5",53
+"2","9",6
+"2","10",10
+"2","15",12
+"2","17",1
+"2","19",26
+"2","20",4
+"2","23",1
+"2","7",14
+"2","11",1
+"2","22",34
+"2","8",3
+"2","3",6
+"2","24",1
+"4","1",12
+"4","2",37
+"4","5",48
+"4","9",7
+"4","10",11
+"4","15",17
+"4","17",14
+"4","19",52
+"4","20",18
+"4","23",31
+"4","7",28
+"4","22",10
+"4","8",2
+"4","3",29
+"4","25",4
+"5","1",37
+"5","2",43
+"5","4",49
+"5","9",5
+"5","10",5
+"5","15",23
+"5","17",18
+"5","19",47
+"5","20",3
+"5","23",6
+"5","7",22
+"5","22",16
+"5","8",12
+"5","3",21
+"5","24",2
+"9","2",3
+"9","4",2
+"9","10",5
+"9","15",3
+"9","19",8
+"9","20",8
+"9","23",8
+"9","7",6
+"9","22",5
+"9","8",3
+"9","3",2
+"10","2",8
+"10","4",6
+"10","5",2
+"10","9",4
+"10","15",4
+"10","17",4
+"10","19",5
+"10","20",3
+"10","23",8
+"10","7",5
+"10","11",3
+"10","22",5
+"10","8",1
+"15","1",2
+"15","2",21
+"15","4",17
+"15","5",20
+"15","9",1
+"15","10",5
+"15","17",15
+"15","19",23
+"15","20",7
+"15","23",21
+"15","7",10
+"15","22",8
+"15","3",8
+"15","25",3
+"17","1",6
+"17","2",1
+"17","4",20
+"17","5",26
+"17","9",1
+"17","10",3
+"17","15",16
+"17","19",4
+"17","20",3
+"17","23",23
+"17","7",6
+"17","22",2
+"19","2",44
+"19","4",31
+"19","5",17
+"19","9",8
+"19","10",8
+"19","15",15
+"19","17",2
+"19","20",52
+"19","23",38
+"19","7",21
+"19","22",29
+"19","3",19
+"19","8",5
+"19","25",7
+"19","24",2
+"20","1",1
+"20","2",10
+"20","4",11
+"20","5",3
+"20","9",6
+"20","10",1
+"20","15",9
+"20","17",1
+"20","19",32
+"20","23",28
+"20","7",13
+"20","22",8
+"20","3",1
+"20","8",5
+"20","25",5
+"20","24",2
+"23","1",3
+"23","2",2
+"23","4",15
+"23","5",3
+"23","9",14
+"23","10",4
+"23","15",23
+"23","17",15
+"23","19",22
+"23","20",27
+"23","7",11
+"23","22",11
+"23","8",5
+"23","30",1
+"23","3",18
+"23","24",5
+"7","1",5
+"7","2",16
+"7","4",28
+"7","5",17
+"7","9",4
+"7","10",10
+"7","15",7
+"7","17",3
+"7","19",22
+"7","20",11
+"7","23",14
+"7","11",1
+"7","22",10
+"7","8",5
+"7","3",8
+"7","25",9
+"7","24",1
+"11","4",1
+"11","19",1
+"11","22",2
+"11","30",1
+"22","2",45
+"22","4",2
+"22","5",1
+"22","9",2
+"22","10",2
+"22","15",4
+"22","17",3
+"22","19",25
+"22","20",7
+"22","23",9
+"22","7",9
+"22","8",2
+"22","30",1
+"22","25",1
+"22","24",3
+"8","2",2
+"8","4",5
+"8","5",6
+"8","7",3
+"8","9",2
+"8","17",3
+"8","22",4
+"8","23",8
+"8","3",6
+"8","19",7
+"8","20",6
+"8","24",2
+"30","8",1
+"3","1",17
+"3","2",6
+"3","4",33
+"3","5",40
+"3","8",4
+"3","9",4
+"3","19",20
+"3","20",6
+"3","22",3
+"3","23",16
+"3","7",6
+"3","15",11
+"3","25",1
+"3","24",1
+"25","1",1
+"25","2",1
+"25","3",1
+"25","4",8
+"25","5",1
+"25","19",1
+"25","20",6
+"25","7",4
+"25","15",1
+"25","24",1
+"25","11",2
+"24","3",1
+"24","4",1
+"24","8",1
+"24","19",8
+"24","20",4
+"24","22",4
+"24","23",5

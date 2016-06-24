@@ -1,408 +1,409 @@
-"Roman Weidenfeller","Neven Subotić",17
-"Roman Weidenfeller","Sebastian Kehl",1
-"Roman Weidenfeller","Sven Bender",1
-"Roman Weidenfeller","Ciro Immobile",1
-"Roman Weidenfeller","Henrikh Mkhitaryan",1
-"Roman Weidenfeller","Pierre-Emerick Aubameyang",1
-"Roman Weidenfeller","Kevin Grosskreutz",1
-"Roman Weidenfeller","Sokratis Papastathopoulos",2
-"Roman Weidenfeller","Marcel Schmelzer",3
-"Roman Weidenfeller","Erik Durm",7
-"Roman Weidenfeller","Adrián Ramos",2
-"Roman Weidenfeller","Matthias Ginter",14
-"Roman Weidenfeller","Łukasz Piszczek",1
-"Roman Weidenfeller","Mats Hummels",3
-"Roman Weidenfeller","İlkay Gündoğan",4
-"Roman Weidenfeller","Aubameyang",2
-"Roman Weidenfeller","Marco Reus",2
-"Roman Weidenfeller","Nuri Şahin",1
-"Roman Weidenfeller","Papastathopoulos",1
-"Roman Weidenfeller","Oliver Kirch",3
-"Neven Subotić","Roman Weidenfeller",20
-"Neven Subotić","Sebastian Kehl",6
-"Neven Subotić","Sven Bender",27
-"Neven Subotić","Ciro Immobile",8
-"Neven Subotić","Henrikh Mkhitaryan",10
-"Neven Subotić","Pierre-Emerick Aubameyang",4
-"Neven Subotić","Kevin Grosskreutz",13
-"Neven Subotić","Sokratis Papastathopoulos",16
-"Neven Subotić","Marcel Schmelzer",6
-"Neven Subotić","Erik Durm",21
-"Neven Subotić","Adrián Ramos",3
-"Neven Subotić","Matthias Ginter",16
-"Neven Subotić","Shinji Kagawa",10
-"Neven Subotić","Łukasz Piszczek",17
-"Neven Subotić","Mats Hummels",11
-"Neven Subotić","İlkay Gündoğan",30
-"Neven Subotić","Aubameyang",2
-"Neven Subotić","Mitchell Langerak",1
-"Neven Subotić","Nuri Şahin",9
-"Neven Subotić","Jakub Błaszczykowski",6
-"Neven Subotić","Oliver Kirch",4
-"Neven Subotić","Marco Reus",1
-"Neven Subotić","Kevin Kampl",3
-"Neven Subotić","Papastathopoulos",4
-"Sebastian Kehl","Neven Subotić",14
-"Sebastian Kehl","Sven Bender",10
-"Sebastian Kehl","Ciro Immobile",6
-"Sebastian Kehl","Henrikh Mkhitaryan",3
-"Sebastian Kehl","Pierre-Emerick Aubameyang",10
-"Sebastian Kehl","Kevin Grosskreutz",3
-"Sebastian Kehl","Sokratis Papastathopoulos",9
-"Sebastian Kehl","Marcel Schmelzer",10
-"Sebastian Kehl","Erik Durm",3
-"Sebastian Kehl","Shinji Kagawa",6
-"Sebastian Kehl","Łukasz Piszczek",9
-"Sebastian Kehl","Mats Hummels",1
-"Sven Bender","Roman Weidenfeller",4
-"Sven Bender","Neven Subotić",18
-"Sven Bender","Sebastian Kehl",12
-"Sven Bender","Ciro Immobile",6
-"Sven Bender","Henrikh Mkhitaryan",18
-"Sven Bender","Pierre-Emerick Aubameyang",7
-"Sven Bender","Kevin Grosskreutz",8
-"Sven Bender","Sokratis Papastathopoulos",8
-"Sven Bender","Marcel Schmelzer",21
-"Sven Bender","Erik Durm",1
-"Sven Bender","Miloš Jojić",2
-"Sven Bender","Adrián Ramos",2
-"Sven Bender","Matthias Ginter",10
-"Sven Bender","Shinji Kagawa",6
-"Sven Bender","Łukasz Piszczek",20
-"Sven Bender","Mats Hummels",5
-"Sven Bender","İlkay Gündoğan",28
-"Sven Bender","Aubameyang",6
-"Sven Bender","Marco Reus",2
-"Sven Bender","Kevin Kampl",3
-"Sven Bender","Papastathopoulos",6
-"Sven Bender","Oliver Kirch",5
-"Ciro Immobile","Roman Weidenfeller",2
-"Ciro Immobile","Neven Subotić",2
-"Ciro Immobile","Sebastian Kehl",4
-"Ciro Immobile","Sven Bender",6
-"Ciro Immobile","Henrikh Mkhitaryan",8
-"Ciro Immobile","Pierre-Emerick Aubameyang",7
-"Ciro Immobile","Kevin Grosskreutz",5
-"Ciro Immobile","Sokratis Papastathopoulos",1
-"Ciro Immobile","Marcel Schmelzer",2
-"Ciro Immobile","Erik Durm",6
-"Ciro Immobile","Matthias Ginter",2
-"Ciro Immobile","Shinji Kagawa",9
-"Ciro Immobile","Łukasz Piszczek",5
-"Ciro Immobile","İlkay Gündoğan",15
-"Ciro Immobile","Aubameyang",6
-"Ciro Immobile","Nuri Şahin",6
-"Ciro Immobile","Oliver Kirch",1
-"Ciro Immobile","Marco Reus",3
-"Henrikh Mkhitaryan","Neven Subotić",4
-"Henrikh Mkhitaryan","Sebastian Kehl",1
-"Henrikh Mkhitaryan","Sven Bender",11
-"Henrikh Mkhitaryan","Ciro Immobile",10
-"Henrikh Mkhitaryan","Pierre-Emerick Aubameyang",3
-"Henrikh Mkhitaryan","Kevin Grosskreutz",9
-"Henrikh Mkhitaryan","Marcel Schmelzer",19
-"Henrikh Mkhitaryan","Erik Durm",18
-"Henrikh Mkhitaryan","Miloš Jojić",1
-"Henrikh Mkhitaryan","Adrián Ramos",2
-"Henrikh Mkhitaryan","Matthias Ginter",8
-"Henrikh Mkhitaryan","İlkay Gündoğan",27
-"Henrikh Mkhitaryan","Aubameyang",9
-"Henrikh Mkhitaryan","Łukasz Piszczek",4
-"Henrikh Mkhitaryan","Shinji Kagawa",6
-"Henrikh Mkhitaryan","Nuri Şahin",14
-"Henrikh Mkhitaryan","Jakub Błaszczykowski",2
-"Henrikh Mkhitaryan","Oliver Kirch",3
-"Henrikh Mkhitaryan","Marco Reus",11
-"Henrikh Mkhitaryan","Mats Hummels",1
-"Henrikh Mkhitaryan","Papastathopoulos",3
-"Henrikh Mkhitaryan","Kevin Kampl",4
-"Pierre-Emerick Aubameyang","Sebastian Kehl",5
-"Pierre-Emerick Aubameyang","Sven Bender",2
-"Pierre-Emerick Aubameyang","Ciro Immobile",10
-"Pierre-Emerick Aubameyang","Henrikh Mkhitaryan",5
-"Pierre-Emerick Aubameyang","Kevin Grosskreutz",2
-"Pierre-Emerick Aubameyang","Sokratis Papastathopoulos",1
-"Pierre-Emerick Aubameyang","Marcel Schmelzer",5
-"Pierre-Emerick Aubameyang","Erik Durm",3
-"Pierre-Emerick Aubameyang","Adrián Ramos",2
-"Pierre-Emerick Aubameyang","Matthias Ginter",1
-"Pierre-Emerick Aubameyang","Shinji Kagawa",6
-"Pierre-Emerick Aubameyang","Łukasz Piszczek",1
-"Kevin Grosskreutz","Roman Weidenfeller",1
-"Kevin Grosskreutz","Neven Subotić",6
-"Kevin Grosskreutz","Sebastian Kehl",3
-"Kevin Grosskreutz","Sven Bender",7
-"Kevin Grosskreutz","Ciro Immobile",13
-"Kevin Grosskreutz","Henrikh Mkhitaryan",3
-"Kevin Grosskreutz","Pierre-Emerick Aubameyang",5
-"Kevin Grosskreutz","Sokratis Papastathopoulos",1
-"Kevin Grosskreutz","Marcel Schmelzer",12
-"Kevin Grosskreutz","Erik Durm",7
-"Kevin Grosskreutz","Adrián Ramos",1
-"Kevin Grosskreutz","Matthias Ginter",2
-"Kevin Grosskreutz","Shinji Kagawa",9
-"Kevin Grosskreutz","Łukasz Piszczek",9
-"Kevin Grosskreutz","İlkay Gündoğan",6
-"Kevin Grosskreutz","Aubameyang",4
-"Kevin Grosskreutz","Nuri Şahin",5
-"Kevin Grosskreutz","Jakub Błaszczykowski",2
-"Kevin Grosskreutz","Oliver Kirch",2
-"Sokratis Papastathopoulos","Roman Weidenfeller",7
-"Sokratis Papastathopoulos","Neven Subotić",12
-"Sokratis Papastathopoulos","Sebastian Kehl",8
-"Sokratis Papastathopoulos","Sven Bender",7
-"Sokratis Papastathopoulos","Ciro Immobile",4
-"Sokratis Papastathopoulos","Pierre-Emerick Aubameyang",5
-"Sokratis Papastathopoulos","Kevin Grosskreutz",2
-"Sokratis Papastathopoulos","Marcel Schmelzer",11
-"Sokratis Papastathopoulos","Erik Durm",2
-"Sokratis Papastathopoulos","Łukasz Piszczek",2
-"Marcel Schmelzer","Neven Subotić",7
-"Marcel Schmelzer","Sebastian Kehl",9
-"Marcel Schmelzer","Sven Bender",19
-"Marcel Schmelzer","Ciro Immobile",17
-"Marcel Schmelzer","Henrikh Mkhitaryan",21
-"Marcel Schmelzer","Pierre-Emerick Aubameyang",2
-"Marcel Schmelzer","Kevin Grosskreutz",12
-"Marcel Schmelzer","Sokratis Papastathopoulos",4
-"Marcel Schmelzer","Adrián Ramos",2
-"Marcel Schmelzer","Matthias Ginter",14
-"Marcel Schmelzer","Shinji Kagawa",6
-"Marcel Schmelzer","Mats Hummels",16
-"Marcel Schmelzer","İlkay Gündoğan",25
-"Marcel Schmelzer","Aubameyang",1
-"Marcel Schmelzer","Mitchell Langerak",1
-"Marcel Schmelzer","Nuri Şahin",15
-"Marcel Schmelzer","Oliver Kirch",1
-"Marcel Schmelzer","Marco Reus",11
-"Marcel Schmelzer","Kevin Kampl",1
-"Erik Durm","Roman Weidenfeller",4
-"Erik Durm","Neven Subotić",17
-"Erik Durm","Sebastian Kehl",8
-"Erik Durm","Sven Bender",1
-"Erik Durm","Ciro Immobile",1
-"Erik Durm","Henrikh Mkhitaryan",10
-"Erik Durm","Pierre-Emerick Aubameyang",1
-"Erik Durm","Kevin Grosskreutz",4
-"Erik Durm","Sokratis Papastathopoulos",1
-"Erik Durm","Miloš Jojić",2
-"Erik Durm","Matthias Ginter",9
-"Erik Durm","Shinji Kagawa",7
-"Erik Durm","Łukasz Piszczek",1
-"Erik Durm","İlkay Gündoğan",8
-"Erik Durm","Nuri Şahin",6
-"Erik Durm","Aubameyang",1
-"Miloš Jojić","Neven Subotić",1
-"Miloš Jojić","Sven Bender",1
-"Miloš Jojić","Ciro Immobile",1
-"Miloš Jojić","Henrikh Mkhitaryan",1
-"Miloš Jojić","Kevin Grosskreutz",1
-"Miloš Jojić","Erik Durm",2
-"Miloš Jojić","Łukasz Piszczek",1
-"Adrián Ramos","Neven Subotić",1
-"Adrián Ramos","Sebastian Kehl",2
-"Adrián Ramos","Sven Bender",2
-"Adrián Ramos","Henrikh Mkhitaryan",1
-"Adrián Ramos","Pierre-Emerick Aubameyang",3
-"Adrián Ramos","Marcel Schmelzer",1
-"Adrián Ramos","Erik Durm",1
-"Adrián Ramos","Matthias Ginter",2
-"Adrián Ramos","Shinji Kagawa",4
-"Adrián Ramos","Łukasz Piszczek",1
-"Adrián Ramos","İlkay Gündoğan",5
-"Adrián Ramos","Aubameyang",1
-"Adrián Ramos","Marco Reus",1
-"Adrián Ramos","Papastathopoulos",1
-"Adrián Ramos","Jakub Błaszczykowski",1
-"Adrián Ramos","Oliver Kirch",2
-"Matthias Ginter","Roman Weidenfeller",10
-"Matthias Ginter","Neven Subotić",21
-"Matthias Ginter","Sven Bender",12
-"Matthias Ginter","Ciro Immobile",7
-"Matthias Ginter","Henrikh Mkhitaryan",13
-"Matthias Ginter","Kevin Grosskreutz",5
-"Matthias Ginter","Sokratis Papastathopoulos",1
-"Matthias Ginter","Marcel Schmelzer",26
-"Matthias Ginter","Erik Durm",4
-"Matthias Ginter","Adrián Ramos",4
-"Matthias Ginter","İlkay Gündoğan",38
-"Matthias Ginter","Aubameyang",2
-"Matthias Ginter","Łukasz Piszczek",2
-"Matthias Ginter","Shinji Kagawa",6
-"Matthias Ginter","Mitchell Langerak",4
-"Matthias Ginter","Nuri Şahin",12
-"Matthias Ginter","Oliver Kirch",3
-"Matthias Ginter","Mats Hummels",4
-"Shinji Kagawa","Roman Weidenfeller",1
-"Shinji Kagawa","Neven Subotić",7
-"Shinji Kagawa","Sebastian Kehl",6
-"Shinji Kagawa","Sven Bender",4
-"Shinji Kagawa","Ciro Immobile",14
-"Shinji Kagawa","Pierre-Emerick Aubameyang",8
-"Shinji Kagawa","Kevin Grosskreutz",10
-"Shinji Kagawa","Sokratis Papastathopoulos",2
-"Shinji Kagawa","Łukasz Piszczek",7
-"Shinji Kagawa","Marcel Schmelzer",8
-"Shinji Kagawa","Adrián Ramos",2
-"Shinji Kagawa","Erik Durm",4
-"Shinji Kagawa","İlkay Gündoğan",9
-"Shinji Kagawa","Henrikh Mkhitaryan",4
-"Shinji Kagawa","Matthias Ginter",3
-"Shinji Kagawa","Nuri Şahin",6
-"Łukasz Piszczek","Roman Weidenfeller",1
-"Łukasz Piszczek","Neven Subotić",11
-"Łukasz Piszczek","Sebastian Kehl",5
-"Łukasz Piszczek","Sven Bender",23
-"Łukasz Piszczek","Shinji Kagawa",9
-"Łukasz Piszczek","Ciro Immobile",2
-"Łukasz Piszczek","Pierre-Emerick Aubameyang",2
-"Łukasz Piszczek","Kevin Grosskreutz",13
-"Łukasz Piszczek","Mats Hummels",1
-"Łukasz Piszczek","Adrián Ramos",2
-"Łukasz Piszczek","İlkay Gündoğan",8
-"Łukasz Piszczek","Henrikh Mkhitaryan",8
-"Łukasz Piszczek","Aubameyang",5
-"Łukasz Piszczek","Miloš Jojić",1
-"Łukasz Piszczek","Marco Reus",1
-"Łukasz Piszczek","Nuri Şahin",2
-"Łukasz Piszczek","Papastathopoulos",3
-"Mats Hummels","Roman Weidenfeller",3
-"Mats Hummels","Neven Subotić",6
-"Mats Hummels","Sven Bender",4
-"Mats Hummels","Shinji Kagawa",1
-"Mats Hummels","Ciro Immobile",2
-"Mats Hummels","Pierre-Emerick Aubameyang",1
-"Mats Hummels","Łukasz Piszczek",1
-"Mats Hummels","Marcel Schmelzer",17
-"Mats Hummels","İlkay Gündoğan",12
-"Mats Hummels","Henrikh Mkhitaryan",6
-"Mats Hummels","Marco Reus",6
-"Mats Hummels","Aubameyang",2
-"Mats Hummels","Nuri Şahin",3
-"Mats Hummels","Papastathopoulos",16
-"Mats Hummels","Jakub Błaszczykowski",4
-"Mats Hummels","Oliver Kirch",5
-"Mats Hummels","Matthias Ginter",3
-"Mats Hummels","Kevin Kampl",7
-"İlkay Gündoğan","Roman Weidenfeller",6
-"İlkay Gündoğan","Neven Subotić",37
-"İlkay Gündoğan","Sven Bender",25
-"İlkay Gündoğan","Ciro Immobile",19
-"İlkay Gündoğan","Henrikh Mkhitaryan",40
-"İlkay Gündoğan","Aubameyang",14
-"İlkay Gündoğan","Kevin Grosskreutz",7
-"İlkay Gündoğan","Łukasz Piszczek",15
-"İlkay Gündoğan","Matthias Ginter",31
-"İlkay Gündoğan","Marcel Schmelzer",33
-"İlkay Gündoğan","Shinji Kagawa",14
-"İlkay Gündoğan","Miloš Jojić",2
-"İlkay Gündoğan","Adrián Ramos",5
-"İlkay Gündoğan","Mitchell Langerak",3
-"İlkay Gündoğan","Nuri Şahin",28
-"İlkay Gündoğan","Erik Durm",5
-"İlkay Gündoğan","Jakub Błaszczykowski",10
-"İlkay Gündoğan","Oliver Kirch",10
-"İlkay Gündoğan","Marco Reus",10
-"İlkay Gündoğan","Mats Hummels",15
-"İlkay Gündoğan","Papastathopoulos",16
-"İlkay Gündoğan","Kevin Kampl",4
-"Aubameyang","Sven Bender",4
-"Aubameyang","İlkay Gündoğan",10
-"Aubameyang","Ciro Immobile",8
-"Aubameyang","Henrikh Mkhitaryan",4
-"Aubameyang","Kevin Grosskreutz",4
-"Aubameyang","Łukasz Piszczek",6
-"Aubameyang","Marcel Schmelzer",2
-"Aubameyang","Nuri Şahin",1
-"Aubameyang","Jakub Błaszczykowski",1
-"Aubameyang","Oliver Kirch",5
-"Aubameyang","Marco Reus",3
-"Aubameyang","Papastathopoulos",2
-"Aubameyang","Kevin Kampl",1
-"Mitchell Langerak","Neven Subotić",6
-"Mitchell Langerak","Shinji Kagawa",1
-"Mitchell Langerak","İlkay Gündoğan",1
-"Mitchell Langerak","Henrikh Mkhitaryan",2
-"Mitchell Langerak","Matthias Ginter",3
-"Mitchell Langerak","Erik Durm",1
-"Nuri Şahin","Mitchell Langerak",1
-"Nuri Şahin","Neven Subotić",7
-"Nuri Şahin","Shinji Kagawa",3
-"Nuri Şahin","İlkay Gündoğan",31
-"Nuri Şahin","Ciro Immobile",4
-"Nuri Şahin","Henrikh Mkhitaryan",13
-"Nuri Şahin","Kevin Grosskreutz",4
-"Nuri Şahin","Matthias Ginter",22
-"Nuri Şahin","Marcel Schmelzer",18
-"Nuri Şahin","Erik Durm",9
-"Nuri Şahin","Jakub Błaszczykowski",1
-"Nuri Şahin","Aubameyang",1
-"Nuri Şahin","Oliver Kirch",5
-"Nuri Şahin","Roman Weidenfeller",1
-"Nuri Şahin","Marco Reus",2
-"Nuri Şahin","Mats Hummels",7
-"Nuri Şahin","Papastathopoulos",1
-"Nuri Şahin","Łukasz Piszczek",3
-"Jakub Błaszczykowski","Neven Subotić",2
-"Jakub Błaszczykowski","İlkay Gündoğan",6
-"Jakub Błaszczykowski","Ciro Immobile",1
-"Jakub Błaszczykowski","Henrikh Mkhitaryan",1
-"Jakub Błaszczykowski","Nuri Şahin",2
-"Jakub Błaszczykowski","Kevin Grosskreutz",2
-"Jakub Błaszczykowski","Matthias Ginter",1
-"Jakub Błaszczykowski","Aubameyang",1
-"Jakub Błaszczykowski","Oliver Kirch",5
-"Jakub Błaszczykowski","Papastathopoulos",1
-"Jakub Błaszczykowski","Kevin Kampl",8
-"Jakub Błaszczykowski","Adrián Ramos",2
-"Oliver Kirch","Neven Subotić",6
-"Oliver Kirch","İlkay Gündoğan",13
-"Oliver Kirch","Ciro Immobile",1
-"Oliver Kirch","Henrikh Mkhitaryan",10
-"Oliver Kirch","Nuri Şahin",3
-"Oliver Kirch","Kevin Grosskreutz",1
-"Oliver Kirch","Matthias Ginter",2
-"Oliver Kirch","Jakub Błaszczykowski",5
-"Oliver Kirch","Aubameyang",6
-"Oliver Kirch","Marco Reus",2
-"Oliver Kirch","Mats Hummels",4
-"Oliver Kirch","Papastathopoulos",3
-"Oliver Kirch","Kevin Kampl",5
-"Marco Reus","İlkay Gündoğan",10
-"Marco Reus","Ciro Immobile",6
-"Marco Reus","Henrikh Mkhitaryan",6
-"Marco Reus","Mats Hummels",2
-"Marco Reus","Aubameyang",3
-"Marco Reus","Nuri Şahin",1
-"Marco Reus","Papastathopoulos",10
-"Marco Reus","Marcel Schmelzer",14
-"Marco Reus","Oliver Kirch",4
-"Marco Reus","Matthias Ginter",1
-"Marco Reus","Neven Subotić",1
-"Marco Reus","Sven Bender",3
-"Marco Reus","Kevin Kampl",3
-"Papastathopoulos","Roman Weidenfeller",4
-"Papastathopoulos","İlkay Gündoğan",8
-"Papastathopoulos","Henrikh Mkhitaryan",3
-"Papastathopoulos","Marco Reus",9
-"Papastathopoulos","Mats Hummels",6
-"Papastathopoulos","Aubameyang",1
-"Papastathopoulos","Nuri Şahin",2
-"Papastathopoulos","Łukasz Piszczek",3
-"Papastathopoulos","Marcel Schmelzer",2
-"Papastathopoulos","Jakub Błaszczykowski",2
-"Papastathopoulos","Oliver Kirch",3
-"Papastathopoulos","Matthias Ginter",1
-"Papastathopoulos","Neven Subotić",7
-"Papastathopoulos","Sven Bender",8
-"Papastathopoulos","Kevin Kampl",7
-"Kevin Kampl","Neven Subotić",2
-"Kevin Kampl","Sven Bender",5
-"Kevin Kampl","İlkay Gündoğan",10
-"Kevin Kampl","Marco Reus",3
-"Kevin Kampl","Mats Hummels",3
-"Kevin Kampl","Papastathopoulos",1
-"Kevin Kampl","Marcel Schmelzer",5
-"Kevin Kampl","Jakub Błaszczykowski",2
-"Kevin Kampl","Adrián Ramos",2
-"Kevin Kampl","Oliver Kirch",4
+Source,Target,Weight
+"1","4",17
+"1","5",1
+"1","6",1
+"1","9",1
+"1","10",1
+"1","17",1
+"1","19",1
+"1","25",2
+"1","29",3
+"1","37",7
+"1","20",2
+"1","28",14
+"1","26",1
+"1","15",3
+"1","8",4
+"1","17",2
+"1","11",2
+"1","18",1
+"1","25",1
+"1","21",3
+"4","1",20
+"4","5",6
+"4","6",27
+"4","9",8
+"4","10",10
+"4","17",4
+"4","19",13
+"4","25",16
+"4","29",6
+"4","37",21
+"4","20",3
+"4","28",16
+"4","7",10
+"4","26",17
+"4","15",11
+"4","8",30
+"4","17",2
+"4","22",1
+"4","18",9
+"4","16",6
+"4","21",4
+"4","11",1
+"4","23",3
+"4","25",4
+"5","4",14
+"5","6",10
+"5","9",6
+"5","10",3
+"5","17",10
+"5","19",3
+"5","25",9
+"5","29",10
+"5","37",3
+"5","7",6
+"5","26",9
+"5","15",1
+"6","1",4
+"6","4",18
+"6","5",12
+"6","9",6
+"6","10",18
+"6","17",7
+"6","19",8
+"6","25",8
+"6","29",21
+"6","37",1
+"6","14",2
+"6","20",2
+"6","28",10
+"6","7",6
+"6","26",20
+"6","15",5
+"6","8",28
+"6","17",6
+"6","11",2
+"6","23",3
+"6","25",6
+"6","21",5
+"9","1",2
+"9","4",2
+"9","5",4
+"9","6",6
+"9","10",8
+"9","17",7
+"9","19",5
+"9","25",1
+"9","29",2
+"9","37",6
+"9","28",2
+"9","7",9
+"9","26",5
+"9","8",15
+"9","17",6
+"9","18",6
+"9","21",1
+"9","11",3
+"10","4",4
+"10","5",1
+"10","6",11
+"10","9",10
+"10","17",3
+"10","19",9
+"10","29",19
+"10","37",18
+"10","14",1
+"10","20",2
+"10","28",8
+"10","8",27
+"10","17",9
+"10","26",4
+"10","7",6
+"10","18",14
+"10","16",2
+"10","21",3
+"10","11",11
+"10","15",1
+"10","25",3
+"10","23",4
+"17","5",5
+"17","6",2
+"17","9",10
+"17","10",5
+"17","19",2
+"17","25",1
+"17","29",5
+"17","37",3
+"17","20",2
+"17","28",1
+"17","7",6
+"17","26",1
+"19","1",1
+"19","4",6
+"19","5",3
+"19","6",7
+"19","9",13
+"19","10",3
+"19","17",5
+"19","25",1
+"19","29",12
+"19","37",7
+"19","20",1
+"19","28",2
+"19","7",9
+"19","26",9
+"19","8",6
+"19","17",4
+"19","18",5
+"19","16",2
+"19","21",2
+"25","1",7
+"25","4",12
+"25","5",8
+"25","6",7
+"25","9",4
+"25","17",5
+"25","19",2
+"25","29",11
+"25","37",2
+"25","26",2
+"29","4",7
+"29","5",9
+"29","6",19
+"29","9",17
+"29","10",21
+"29","17",2
+"29","19",12
+"29","25",4
+"29","20",2
+"29","28",14
+"29","7",6
+"29","15",16
+"29","8",25
+"29","17",1
+"29","22",1
+"29","18",15
+"29","21",1
+"29","11",11
+"29","23",1
+"37","1",4
+"37","4",17
+"37","5",8
+"37","6",1
+"37","9",1
+"37","10",10
+"37","17",1
+"37","19",4
+"37","25",1
+"37","14",2
+"37","28",9
+"37","7",7
+"37","26",1
+"37","8",8
+"37","18",6
+"37","17",1
+"14","4",1
+"14","6",1
+"14","9",1
+"14","10",1
+"14","19",1
+"14","37",2
+"14","26",1
+"20","4",1
+"20","5",2
+"20","6",2
+"20","10",1
+"20","17",3
+"20","29",1
+"20","37",1
+"20","28",2
+"20","7",4
+"20","26",1
+"20","8",5
+"20","17",1
+"20","11",1
+"20","25",1
+"20","16",1
+"20","21",2
+"28","1",10
+"28","4",21
+"28","6",12
+"28","9",7
+"28","10",13
+"28","19",5
+"28","25",1
+"28","29",26
+"28","37",4
+"28","20",4
+"28","8",38
+"28","17",2
+"28","26",2
+"28","7",6
+"28","22",4
+"28","18",12
+"28","21",3
+"28","15",4
+"7","1",1
+"7","4",7
+"7","5",6
+"7","6",4
+"7","9",14
+"7","17",8
+"7","19",10
+"7","25",2
+"7","26",7
+"7","29",8
+"7","20",2
+"7","37",4
+"7","8",9
+"7","10",4
+"7","28",3
+"7","18",6
+"26","1",1
+"26","4",11
+"26","5",5
+"26","6",23
+"26","7",9
+"26","9",2
+"26","17",2
+"26","19",13
+"26","15",1
+"26","20",2
+"26","8",8
+"26","10",8
+"26","17",5
+"26","14",1
+"26","11",1
+"26","18",2
+"26","25",3
+"15","1",3
+"15","4",6
+"15","6",4
+"15","7",1
+"15","9",2
+"15","17",1
+"15","26",1
+"15","29",17
+"15","8",12
+"15","10",6
+"15","11",6
+"15","17",2
+"15","18",3
+"15","25",16
+"15","16",4
+"15","21",5
+"15","28",3
+"15","23",7
+"8","1",6
+"8","4",37
+"8","6",25
+"8","9",19
+"8","10",40
+"8","17",14
+"8","19",7
+"8","26",15
+"8","28",31
+"8","29",33
+"8","7",14
+"8","14",2
+"8","20",5
+"8","22",3
+"8","18",28
+"8","37",5
+"8","16",10
+"8","21",10
+"8","11",10
+"8","15",15
+"8","25",16
+"8","23",4
+"17","6",4
+"17","8",10
+"17","9",8
+"17","10",4
+"17","19",4
+"17","26",6
+"17","29",2
+"17","18",1
+"17","16",1
+"17","21",5
+"17","11",3
+"17","25",2
+"17","23",1
+"22","4",6
+"22","7",1
+"22","8",1
+"22","10",2
+"22","28",3
+"22","37",1
+"18","22",1
+"18","4",7
+"18","7",3
+"18","8",31
+"18","9",4
+"18","10",13
+"18","19",4
+"18","28",22
+"18","29",18
+"18","37",9
+"18","16",1
+"18","17",1
+"18","21",5
+"18","1",1
+"18","11",2
+"18","15",7
+"18","25",1
+"18","26",3
+"16","4",2
+"16","8",6
+"16","9",1
+"16","10",1
+"16","18",2
+"16","19",2
+"16","28",1
+"16","17",1
+"16","21",5
+"16","25",1
+"16","23",8
+"16","20",2
+"21","4",6
+"21","8",13
+"21","9",1
+"21","10",10
+"21","18",3
+"21","19",1
+"21","28",2
+"21","16",5
+"21","17",6
+"21","11",2
+"21","15",4
+"21","25",3
+"21","23",5
+"11","8",10
+"11","9",6
+"11","10",6
+"11","15",2
+"11","17",3
+"11","18",1
+"11","25",10
+"11","29",14
+"11","21",4
+"11","28",1
+"11","4",1
+"11","6",3
+"11","23",3
+"25","1",4
+"25","8",8
+"25","10",3
+"25","11",9
+"25","15",6
+"25","17",1
+"25","18",2
+"25","26",3
+"25","29",2
+"25","16",2
+"25","21",3
+"25","28",1
+"25","4",7
+"25","6",8
+"25","23",7
+"23","4",2
+"23","6",5
+"23","8",10
+"23","11",3
+"23","15",3
+"23","25",1
+"23","29",5
+"23","16",2
+"23","20",2
+"23","21",4

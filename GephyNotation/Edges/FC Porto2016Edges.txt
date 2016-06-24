@@ -1,197 +1,198 @@
-"Iker Casillas","Maxi Pereira",5
-"Iker Casillas","Bruno Martins Indi",11
-"Iker Casillas","Maicon",10
-"Iker Casillas","Rúben Neves",3
-"Iker Casillas","Yacine Brahimi",4
-"Iker Casillas","Vincent Aboubakar",8
-"Iker Casillas","Hector Herrera",2
-"Iker Casillas","Miguel Layún",6
-"Iker Casillas","Danilo",5
-"Iker Casillas","Cristian Tello",5
-"Iker Casillas","Iván Marcano",26
-"Iker Casillas","Giannelli Imbula",2
-"Maxi Pereira","Iker Casillas",3
-"Maxi Pereira","Bruno Martins Indi",2
-"Maxi Pereira","Maicon",18
-"Maxi Pereira","Rúben Neves",16
-"Maxi Pereira","Yacine Brahimi",20
-"Maxi Pereira","Vincent Aboubakar",4
-"Maxi Pereira","Hector Herrera",11
-"Maxi Pereira","André André",9
-"Maxi Pereira","Danilo",8
-"Maxi Pereira","Cristian Tello",8
-"Maxi Pereira","Jesús Corona",2
-"Maxi Pereira","Iván Marcano",1
-"Maxi Pereira","Giannelli Imbula",2
-"Bruno Martins Indi","Iker Casillas",19
-"Bruno Martins Indi","Maxi Pereira",7
-"Bruno Martins Indi","Maicon",8
-"Bruno Martins Indi","Rúben Neves",12
-"Bruno Martins Indi","Yacine Brahimi",16
-"Bruno Martins Indi","Vincent Aboubakar",7
-"Bruno Martins Indi","Hector Herrera",4
-"Bruno Martins Indi","André André",3
-"Bruno Martins Indi","Miguel Layún",19
-"Bruno Martins Indi","Danilo",19
-"Bruno Martins Indi","Cristian Tello",4
-"Bruno Martins Indi","Jesús Corona",7
-"Bruno Martins Indi","Iván Marcano",17
-"Bruno Martins Indi","Giannelli Imbula",17
-"Maicon","Iker Casillas",7
-"Maicon","Maxi Pereira",18
-"Maicon","Bruno Martins Indi",9
-"Maicon","Rúben Neves",3
-"Maicon","Yacine Brahimi",3
-"Maicon","Vincent Aboubakar",5
-"Maicon","Hector Herrera",7
-"Maicon","André André",7
-"Maicon","Miguel Layún",6
-"Maicon","Danilo",10
-"Maicon","Cristian Tello",2
-"Maicon","Jesús Corona",2
-"Maicon","Iván Marcano",11
-"Maicon","Giannelli Imbula",3
-"Rúben Neves","Iker Casillas",1
-"Rúben Neves","Maxi Pereira",22
-"Rúben Neves","Bruno Martins Indi",18
-"Rúben Neves","Maicon",6
-"Rúben Neves","Yacine Brahimi",14
-"Rúben Neves","Vincent Aboubakar",10
-"Rúben Neves","Hector Herrera",3
-"Rúben Neves","André André",18
-"Rúben Neves","Miguel Layún",21
-"Rúben Neves","Danilo",35
-"Rúben Neves","Pablo Osvaldo",1
-"Rúben Neves","Cristian Tello",10
-"Rúben Neves","Jesús Corona",6
-"Rúben Neves","Iván Marcano",5
-"Rúben Neves","Giannelli Imbula",10
-"Yacine Brahimi","Iker Casillas",2
-"Yacine Brahimi","Maxi Pereira",6
-"Yacine Brahimi","Bruno Martins Indi",11
-"Yacine Brahimi","Rúben Neves",19
-"Yacine Brahimi","Vincent Aboubakar",14
-"Yacine Brahimi","Hector Herrera",14
-"Yacine Brahimi","André André",5
-"Yacine Brahimi","Miguel Layún",20
-"Yacine Brahimi","Danilo",17
-"Yacine Brahimi","Cristian Tello",3
-"Yacine Brahimi","Jesús Corona",3
-"Yacine Brahimi","Iván Marcano",3
-"Yacine Brahimi","Giannelli Imbula",23
-"Vincent Aboubakar","Maxi Pereira",4
-"Vincent Aboubakar","Bruno Martins Indi",2
-"Vincent Aboubakar","Rúben Neves",10
-"Vincent Aboubakar","Yacine Brahimi",11
-"Vincent Aboubakar","André André",13
-"Vincent Aboubakar","Miguel Layún",6
-"Vincent Aboubakar","Danilo",5
-"Vincent Aboubakar","Cristian Tello",6
-"Vincent Aboubakar","Jesús Corona",2
-"Vincent Aboubakar","Iván Marcano",1
-"Vincent Aboubakar","Giannelli Imbula",11
-"Hector Herrera","Iker Casillas",1
-"Hector Herrera","Maxi Pereira",12
-"Hector Herrera","Bruno Martins Indi",3
-"Hector Herrera","Maicon",1
-"Hector Herrera","Rúben Neves",5
-"Hector Herrera","Yacine Brahimi",12
-"Hector Herrera","Vincent Aboubakar",2
-"Hector Herrera","Miguel Layún",9
-"Hector Herrera","Danilo",13
-"Hector Herrera","Jesús Corona",4
-"Hector Herrera","Iván Marcano",2
-"Hector Herrera","Giannelli Imbula",7
-"André André","Maxi Pereira",5
-"André André","Bruno Martins Indi",6
-"André André","Maicon",2
-"André André","Rúben Neves",14
-"André André","Yacine Brahimi",4
-"André André","Vincent Aboubakar",9
-"André André","Hector Herrera",2
-"André André","Miguel Layún",6
-"André André","Danilo",8
-"André André","Cristian Tello",5
-"André André","Jesús Corona",1
-"André André","Iván Marcano",1
-"André André","Giannelli Imbula",4
-"Miguel Layún","Iker Casillas",6
-"Miguel Layún","Maxi Pereira",2
-"Miguel Layún","Bruno Martins Indi",11
-"Miguel Layún","Maicon",3
-"Miguel Layún","Rúben Neves",19
-"Miguel Layún","Yacine Brahimi",20
-"Miguel Layún","Vincent Aboubakar",7
-"Miguel Layún","Hector Herrera",6
-"Miguel Layún","André André",4
-"Miguel Layún","Danilo",11
-"Miguel Layún","Cristian Tello",10
-"Miguel Layún","Jesús Corona",12
-"Miguel Layún","Iván Marcano",10
-"Miguel Layún","Giannelli Imbula",4
-"Miguel Layún","Evandro",1
-"Danilo","Iker Casillas",4
-"Danilo","Maxi Pereira",24
-"Danilo","Bruno Martins Indi",14
-"Danilo","Maicon",9
-"Danilo","Rúben Neves",27
-"Danilo","Yacine Brahimi",33
-"Danilo","Vincent Aboubakar",12
-"Danilo","Hector Herrera",8
-"Danilo","André André",6
-"Danilo","Miguel Layún",19
-"Danilo","Cristian Tello",3
-"Danilo","Jesús Corona",9
-"Danilo","Iván Marcano",22
-"Danilo","Giannelli Imbula",11
-"Pablo Osvaldo","Bruno Martins Indi",1
-"Pablo Osvaldo","Rúben Neves",1
-"Cristian Tello","Maxi Pereira",6
-"Cristian Tello","Bruno Martins Indi",1
-"Cristian Tello","Rúben Neves",9
-"Cristian Tello","Yacine Brahimi",2
-"Cristian Tello","Vincent Aboubakar",2
-"Cristian Tello","André André",5
-"Cristian Tello","Miguel Layún",9
-"Cristian Tello","Danilo",6
-"Cristian Tello","Jesús Corona",3
-"Cristian Tello","Giannelli Imbula",4
-"Jesús Corona","Maxi Pereira",1
-"Jesús Corona","Bruno Martins Indi",4
-"Jesús Corona","Rúben Neves",1
-"Jesús Corona","Yacine Brahimi",10
-"Jesús Corona","Vincent Aboubakar",3
-"Jesús Corona","Hector Herrera",2
-"Jesús Corona","André André",2
-"Jesús Corona","Miguel Layún",7
-"Jesús Corona","Danilo",3
-"Jesús Corona","Giannelli Imbula",3
-"Iván Marcano","Iker Casillas",10
-"Iván Marcano","Bruno Martins Indi",25
-"Iván Marcano","Maicon",12
-"Iván Marcano","Rúben Neves",12
-"Iván Marcano","Yacine Brahimi",9
-"Iván Marcano","Vincent Aboubakar",6
-"Iván Marcano","André André",1
-"Iván Marcano","Danilo",21
-"Iván Marcano","Giannelli Imbula",11
-"Iván Marcano","Pablo Osvaldo",1
-"Iván Marcano","Miguel Layún",10
-"Iván Marcano","Cristian Tello",3
-"Iván Marcano","Jesús Corona",1
-"Iván Marcano","Hector Herrera",1
-"Giannelli Imbula","Maxi Pereira",6
-"Giannelli Imbula","Bruno Martins Indi",13
-"Giannelli Imbula","Maicon",2
-"Giannelli Imbula","Iván Marcano",5
-"Giannelli Imbula","Rúben Neves",14
-"Giannelli Imbula","Yacine Brahimi",22
-"Giannelli Imbula","Vincent Aboubakar",4
-"Giannelli Imbula","André André",7
-"Giannelli Imbula","Danilo",21
-"Giannelli Imbula","Evandro",2
-"Giannelli Imbula","Miguel Layún",7
-"Giannelli Imbula","Cristian Tello",1
-"Giannelli Imbula","Jesús Corona",7
-"Giannelli Imbula","Hector Herrera",4
-"Evandro","Vincent Aboubakar",1
+Source,Target,Weight
+"12","2",5
+"12","3",11
+"12","4",10
+"12","6",3
+"12","8",4
+"12","9",8
+"12","16",2
+"12","21",6
+"12","22",5
+"12","11",5
+"12","5",26
+"12","25",2
+"2","12",3
+"2","3",2
+"2","4",18
+"2","6",16
+"2","8",20
+"2","9",4
+"2","16",11
+"2","20",9
+"2","22",8
+"2","11",8
+"2","17",2
+"2","5",1
+"2","25",2
+"3","12",19
+"3","2",7
+"3","4",8
+"3","6",12
+"3","8",16
+"3","9",7
+"3","16",4
+"3","20",3
+"3","21",19
+"3","22",19
+"3","11",4
+"3","17",7
+"3","5",17
+"3","25",17
+"4","12",7
+"4","2",18
+"4","3",9
+"4","6",3
+"4","8",3
+"4","9",5
+"4","16",7
+"4","20",7
+"4","21",6
+"4","22",10
+"4","11",2
+"4","17",2
+"4","5",11
+"4","25",3
+"6","12",1
+"6","2",22
+"6","3",18
+"6","4",6
+"6","8",14
+"6","9",10
+"6","16",3
+"6","20",18
+"6","21",21
+"6","22",35
+"6","10",1
+"6","11",10
+"6","17",6
+"6","5",5
+"6","25",10
+"8","12",2
+"8","2",6
+"8","3",11
+"8","6",19
+"8","9",14
+"8","16",14
+"8","20",5
+"8","21",20
+"8","22",17
+"8","11",3
+"8","17",3
+"8","5",3
+"8","25",23
+"9","2",4
+"9","3",2
+"9","6",10
+"9","8",11
+"9","20",13
+"9","21",6
+"9","22",5
+"9","11",6
+"9","17",2
+"9","5",1
+"9","25",11
+"16","12",1
+"16","2",12
+"16","3",3
+"16","4",1
+"16","6",5
+"16","8",12
+"16","9",2
+"16","21",9
+"16","22",13
+"16","17",4
+"16","5",2
+"16","25",7
+"20","2",5
+"20","3",6
+"20","4",2
+"20","6",14
+"20","8",4
+"20","9",9
+"20","16",2
+"20","21",6
+"20","22",8
+"20","11",5
+"20","17",1
+"20","5",1
+"20","25",4
+"21","12",6
+"21","2",2
+"21","3",11
+"21","4",3
+"21","6",19
+"21","8",20
+"21","9",7
+"21","16",6
+"21","20",4
+"21","22",11
+"21","11",10
+"21","17",12
+"21","5",10
+"21","25",4
+"21","15",1
+"22","12",4
+"22","2",24
+"22","3",14
+"22","4",9
+"22","6",27
+"22","8",33
+"22","9",12
+"22","16",8
+"22","20",6
+"22","21",19
+"22","11",3
+"22","17",9
+"22","5",22
+"22","25",11
+"10","3",1
+"10","6",1
+"11","2",6
+"11","3",1
+"11","6",9
+"11","8",2
+"11","9",2
+"11","20",5
+"11","21",9
+"11","22",6
+"11","17",3
+"11","25",4
+"17","2",1
+"17","3",4
+"17","6",1
+"17","8",10
+"17","9",3
+"17","16",2
+"17","20",2
+"17","21",7
+"17","22",3
+"17","25",3
+"5","12",10
+"5","3",25
+"5","4",12
+"5","6",12
+"5","8",9
+"5","9",6
+"5","20",1
+"5","22",21
+"5","25",11
+"5","10",1
+"5","21",10
+"5","11",3
+"5","17",1
+"5","16",1
+"25","2",6
+"25","3",13
+"25","4",2
+"25","5",5
+"25","6",14
+"25","8",22
+"25","9",4
+"25","20",7
+"25","22",21
+"25","15",2
+"25","21",7
+"25","11",1
+"25","17",7
+"25","16",4
+"15","9",1

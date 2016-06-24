@@ -1,346 +1,347 @@
-"Víctor Valdés","Gerard Piqué",35
-"Víctor Valdés","Cesc Fàbregas",2
-"Víctor Valdés","Andrés Iniesta",6
-"Víctor Valdés","Alexis Sánchez",3
-"Víctor Valdés","Lionel Messi",1
-"Víctor Valdés","Neymar",4
-"Víctor Valdés","Javier Mascherano",17
-"Víctor Valdés","Sergio Busquets",15
-"Víctor Valdés","Adriano",5
-"Víctor Valdés","Daniel Alves",9
-"Víctor Valdés","Xavi Hernández",7
-"Víctor Valdés","Pedro Rodríguez",1
-"Víctor Valdés","Marc Bartra",7
-"Víctor Valdés","Cristian Tello",1
-"Víctor Valdés","Jordi Alba",4
-"Gerard Piqué","Víctor Valdés",30
-"Gerard Piqué","Cesc Fàbregas",32
-"Gerard Piqué","Andrés Iniesta",24
-"Gerard Piqué","Alexis Sánchez",27
-"Gerard Piqué","Lionel Messi",21
-"Gerard Piqué","Neymar",19
-"Gerard Piqué","Javier Mascherano",81
-"Gerard Piqué","Sergio Busquets",66
-"Gerard Piqué","Adriano",21
-"Gerard Piqué","Daniel Alves",27
-"Gerard Piqué","Xavi Hernández",70
-"Gerard Piqué","Pedro Rodríguez",11
-"Gerard Piqué","Marc Bartra",6
-"Gerard Piqué","Alex Song",20
-"Gerard Piqué","Cristian Tello",2
-"Gerard Piqué","José Manuel Pinto",11
-"Gerard Piqué","Martín Montoya",11
-"Gerard Piqué","Carles Puyol",11
-"Gerard Piqué","Sergi Roberto",5
-"Gerard Piqué","Patric Gabarron",1
-"Gerard Piqué","Jordi Alba",2
-"Cesc Fàbregas","Gerard Piqué",15
-"Cesc Fàbregas","Andrés Iniesta",88
-"Cesc Fàbregas","Alexis Sánchez",13
-"Cesc Fàbregas","Lionel Messi",47
-"Cesc Fàbregas","Neymar",46
-"Cesc Fàbregas","Javier Mascherano",17
-"Cesc Fàbregas","Sergio Busquets",30
-"Cesc Fàbregas","Adriano",13
-"Cesc Fàbregas","Daniel Alves",37
-"Cesc Fàbregas","Xavi Hernández",59
-"Cesc Fàbregas","Pedro Rodríguez",8
-"Cesc Fàbregas","Marc Bartra",7
-"Cesc Fàbregas","Alex Song",7
-"Cesc Fàbregas","José Manuel Pinto",1
-"Cesc Fàbregas","Martín Montoya",4
-"Cesc Fàbregas","Patric Gabarron",1
-"Cesc Fàbregas","Jordi Alba",37
-"Andrés Iniesta","Víctor Valdés",5
-"Andrés Iniesta","Gerard Piqué",17
-"Andrés Iniesta","Cesc Fàbregas",97
-"Andrés Iniesta","Alexis Sánchez",8
-"Andrés Iniesta","Lionel Messi",54
-"Andrés Iniesta","Neymar",106
-"Andrés Iniesta","Javier Mascherano",15
-"Andrés Iniesta","Sergio Busquets",71
-"Andrés Iniesta","Adriano",55
-"Andrés Iniesta","Daniel Alves",35
-"Andrés Iniesta","Xavi Hernández",105
-"Andrés Iniesta","Pedro Rodríguez",14
-"Andrés Iniesta","Marc Bartra",4
-"Andrés Iniesta","Alex Song",13
-"Andrés Iniesta","Cristian Tello",4
-"Andrés Iniesta","Martín Montoya",11
-"Andrés Iniesta","Carles Puyol",3
-"Andrés Iniesta","Sergi Roberto",4
-"Andrés Iniesta","Patric Gabarron",1
-"Andrés Iniesta","Adama Traoré",1
-"Andrés Iniesta","Jordi Alba",50
-"Alexis Sánchez","Gerard Piqué",11
-"Alexis Sánchez","Cesc Fàbregas",8
-"Alexis Sánchez","Andrés Iniesta",14
-"Alexis Sánchez","Lionel Messi",12
-"Alexis Sánchez","Neymar",8
-"Alexis Sánchez","Javier Mascherano",2
-"Alexis Sánchez","Sergio Busquets",16
-"Alexis Sánchez","Adriano",2
-"Alexis Sánchez","Daniel Alves",44
-"Alexis Sánchez","Xavi Hernández",34
-"Alexis Sánchez","Pedro Rodríguez",2
-"Alexis Sánchez","Martín Montoya",12
-"Alexis Sánchez","Sergi Roberto",5
-"Lionel Messi","Gerard Piqué",4
-"Lionel Messi","Cesc Fàbregas",31
-"Lionel Messi","Andrés Iniesta",54
-"Lionel Messi","Alexis Sánchez",23
-"Lionel Messi","Neymar",27
-"Lionel Messi","Javier Mascherano",10
-"Lionel Messi","Sergio Busquets",34
-"Lionel Messi","Adriano",5
-"Lionel Messi","Daniel Alves",72
-"Lionel Messi","Xavi Hernández",86
-"Lionel Messi","Marc Bartra",2
-"Lionel Messi","Jordi Alba",12
-"Lionel Messi","Sergi Roberto",1
-"Neymar","Gerard Piqué",8
-"Neymar","Cesc Fàbregas",24
-"Neymar","Andrés Iniesta",73
-"Neymar","Alexis Sánchez",5
-"Neymar","Lionel Messi",28
-"Neymar","Javier Mascherano",8
-"Neymar","Sergio Busquets",30
-"Neymar","Adriano",49
-"Neymar","Daniel Alves",31
-"Neymar","Xavi Hernández",59
-"Neymar","Pedro Rodríguez",13
-"Neymar","Marc Bartra",2
-"Neymar","Alex Song",6
-"Neymar","Cristian Tello",1
-"Neymar","Martín Montoya",8
-"Neymar","Sergi Roberto",3
-"Neymar","Jordi Alba",9
-"Javier Mascherano","Víctor Valdés",21
-"Javier Mascherano","Gerard Piqué",72
-"Javier Mascherano","Cesc Fàbregas",33
-"Javier Mascherano","Andrés Iniesta",43
-"Javier Mascherano","Alexis Sánchez",5
-"Javier Mascherano","Lionel Messi",15
-"Javier Mascherano","Neymar",29
-"Javier Mascherano","Sergio Busquets",53
-"Javier Mascherano","Adriano",38
-"Javier Mascherano","Daniel Alves",33
-"Javier Mascherano","Xavi Hernández",79
-"Javier Mascherano","Pedro Rodríguez",6
-"Javier Mascherano","Marc Bartra",14
-"Javier Mascherano","Alex Song",9
-"Javier Mascherano","José Manuel Pinto",19
-"Javier Mascherano","Martín Montoya",3
-"Javier Mascherano","Carles Puyol",1
-"Javier Mascherano","Sergi Roberto",14
-"Javier Mascherano","Patric Gabarron",4
-"Javier Mascherano","Cristian Tello",1
-"Javier Mascherano","Jordi Alba",36
-"Sergio Busquets","Víctor Valdés",8
-"Sergio Busquets","Gerard Piqué",64
-"Sergio Busquets","Cesc Fàbregas",55
-"Sergio Busquets","Andrés Iniesta",109
-"Sergio Busquets","Alexis Sánchez",22
-"Sergio Busquets","Lionel Messi",62
-"Sergio Busquets","Neymar",23
-"Sergio Busquets","Javier Mascherano",59
-"Sergio Busquets","Adriano",29
-"Sergio Busquets","Daniel Alves",67
-"Sergio Busquets","Xavi Hernández",172
-"Sergio Busquets","Pedro Rodríguez",16
-"Sergio Busquets","Marc Bartra",20
-"Sergio Busquets","Alex Song",2
-"Sergio Busquets","Cristian Tello",2
-"Sergio Busquets","José Manuel Pinto",3
-"Sergio Busquets","Martín Montoya",3
-"Sergio Busquets","Sergi Roberto",19
-"Sergio Busquets","Jordi Alba",36
-"Adriano","Víctor Valdés",3
-"Adriano","Gerard Piqué",30
-"Adriano","Cesc Fàbregas",15
-"Adriano","Andrés Iniesta",51
-"Adriano","Alexis Sánchez",4
-"Adriano","Lionel Messi",3
-"Adriano","Neymar",64
-"Adriano","Javier Mascherano",42
-"Adriano","Sergio Busquets",32
-"Adriano","Daniel Alves",4
-"Adriano","Xavi Hernández",39
-"Adriano","Pedro Rodríguez",18
-"Adriano","Marc Bartra",5
-"Adriano","Alex Song",4
-"Adriano","Cristian Tello",7
-"Adriano","Martín Montoya",2
-"Adriano","Sergi Roberto",14
-"Daniel Alves","Víctor Valdés",5
-"Daniel Alves","Gerard Piqué",41
-"Daniel Alves","Cesc Fàbregas",41
-"Daniel Alves","Andrés Iniesta",33
-"Daniel Alves","Alexis Sánchez",38
-"Daniel Alves","Lionel Messi",104
-"Daniel Alves","Neymar",53
-"Daniel Alves","Javier Mascherano",13
-"Daniel Alves","Sergio Busquets",71
-"Daniel Alves","Adriano",3
-"Daniel Alves","Xavi Hernández",131
-"Daniel Alves","Pedro Rodríguez",9
-"Daniel Alves","Marc Bartra",23
-"Daniel Alves","Jordi Alba",5
-"Daniel Alves","Sergi Roberto",3
-"Daniel Alves","José Manuel Pinto",1
-"Xavi Hernández","Gerard Piqué",49
-"Xavi Hernández","Cesc Fàbregas",68
-"Xavi Hernández","Andrés Iniesta",112
-"Xavi Hernández","Alexis Sánchez",65
-"Xavi Hernández","Lionel Messi",107
-"Xavi Hernández","Neymar",83
-"Xavi Hernández","Javier Mascherano",37
-"Xavi Hernández","Sergio Busquets",153
-"Xavi Hernández","Adriano",32
-"Xavi Hernández","Daniel Alves",175
-"Xavi Hernández","Pedro Rodríguez",27
-"Xavi Hernández","Marc Bartra",29
-"Xavi Hernández","Alex Song",10
-"Xavi Hernández","Cristian Tello",3
-"Xavi Hernández","José Manuel Pinto",1
-"Xavi Hernández","Martín Montoya",15
-"Xavi Hernández","Carles Puyol",8
-"Xavi Hernández","Sergi Roberto",21
-"Xavi Hernández","Patric Gabarron",3
-"Xavi Hernández","Jordi Alba",30
-"Pedro Rodríguez","Gerard Piqué",4
-"Pedro Rodríguez","Cesc Fàbregas",10
-"Pedro Rodríguez","Andrés Iniesta",15
-"Pedro Rodríguez","Alexis Sánchez",3
-"Pedro Rodríguez","Lionel Messi",1
-"Pedro Rodríguez","Neymar",10
-"Pedro Rodríguez","Javier Mascherano",3
-"Pedro Rodríguez","Sergio Busquets",14
-"Pedro Rodríguez","Adriano",14
-"Pedro Rodríguez","Daniel Alves",14
-"Pedro Rodríguez","Xavi Hernández",32
-"Pedro Rodríguez","Marc Bartra",2
-"Pedro Rodríguez","Alex Song",4
-"Pedro Rodríguez","Cristian Tello",2
-"Pedro Rodríguez","Martín Montoya",1
-"Pedro Rodríguez","Carles Puyol",2
-"Pedro Rodríguez","Sergi Roberto",11
-"Pedro Rodríguez","Patric Gabarron",1
-"Pedro Rodríguez","Jean Marie Dongou",1
-"Pedro Rodríguez","Jordi Alba",5
-"Marc Bartra","Víctor Valdés",7
-"Marc Bartra","Gerard Piqué",7
-"Marc Bartra","Cesc Fàbregas",7
-"Marc Bartra","Andrés Iniesta",4
-"Marc Bartra","Alexis Sánchez",1
-"Marc Bartra","Lionel Messi",2
-"Marc Bartra","Neymar",4
-"Marc Bartra","Javier Mascherano",24
-"Marc Bartra","Sergio Busquets",19
-"Marc Bartra","Adriano",3
-"Marc Bartra","Daniel Alves",21
-"Marc Bartra","Xavi Hernández",29
-"Marc Bartra","Pedro Rodríguez",5
-"Marc Bartra","José Manuel Pinto",9
-"Marc Bartra","Jordi Alba",7
-"Alex Song","Gerard Piqué",7
-"Alex Song","Cesc Fàbregas",5
-"Alex Song","Xavi Hernández",15
-"Alex Song","Pedro Rodríguez",4
-"Alex Song","Andrés Iniesta",22
-"Alex Song","Neymar",4
-"Alex Song","Sergio Busquets",2
-"Alex Song","Adriano",4
-"Alex Song","Daniel Alves",2
-"Alex Song","Cristian Tello",1
-"Alex Song","Javier Mascherano",17
-"Alex Song","José Manuel Pinto",3
-"Alex Song","Martín Montoya",7
-"Alex Song","Carles Puyol",1
-"Alex Song","Sergi Roberto",5
-"Alex Song","Patric Gabarron",2
-"Cristian Tello","Xavi Hernández",4
-"Cristian Tello","Andrés Iniesta",4
-"Cristian Tello","Neymar",1
-"Cristian Tello","Sergio Busquets",1
-"Cristian Tello","Adriano",5
-"Cristian Tello","Alex Song",1
-"Cristian Tello","Sergi Roberto",3
-"José Manuel Pinto","Gerard Piqué",10
-"José Manuel Pinto","Cesc Fàbregas",1
-"José Manuel Pinto","Xavi Hernández",4
-"José Manuel Pinto","Pedro Rodríguez",2
-"José Manuel Pinto","Neymar",3
-"José Manuel Pinto","Javier Mascherano",27
-"José Manuel Pinto","Alex Song",4
-"José Manuel Pinto","Patric Gabarron",1
-"José Manuel Pinto","Alexis Sánchez",1
-"José Manuel Pinto","Sergio Busquets",10
-"José Manuel Pinto","Adriano",2
-"José Manuel Pinto","Lionel Messi",1
-"José Manuel Pinto","Jordi Alba",11
-"José Manuel Pinto","Daniel Alves",2
-"José Manuel Pinto","Marc Bartra",2
-"Martín Montoya","José Manuel Pinto",1
-"Martín Montoya","Gerard Piqué",15
-"Martín Montoya","Cesc Fàbregas",6
-"Martín Montoya","Xavi Hernández",11
-"Martín Montoya","Pedro Rodríguez",3
-"Martín Montoya","Andrés Iniesta",11
-"Martín Montoya","Neymar",12
-"Martín Montoya","Javier Mascherano",6
-"Martín Montoya","Alex Song",4
-"Martín Montoya","Sergi Roberto",5
-"Martín Montoya","Adama Traoré",2
-"Martín Montoya","Alexis Sánchez",13
-"Martín Montoya","Sergio Busquets",6
-"Martín Montoya","Cristian Tello",1
-"Carles Puyol","Martín Montoya",1
-"Carles Puyol","Gerard Piqué",11
-"Carles Puyol","Cesc Fàbregas",5
-"Carles Puyol","Xavi Hernández",4
-"Carles Puyol","Pedro Rodríguez",9
-"Carles Puyol","Andrés Iniesta",2
-"Carles Puyol","Alex Song",2
-"Sergi Roberto","Martín Montoya",4
-"Sergi Roberto","Gerard Piqué",6
-"Sergi Roberto","Xavi Hernández",15
-"Sergi Roberto","Pedro Rodríguez",13
-"Sergi Roberto","Andrés Iniesta",4
-"Sergi Roberto","Neymar",9
-"Sergi Roberto","Javier Mascherano",6
-"Sergi Roberto","Alex Song",9
-"Sergi Roberto","Patric Gabarron",1
-"Sergi Roberto","Alexis Sánchez",7
-"Sergi Roberto","Sergio Busquets",16
-"Sergi Roberto","Adriano",14
-"Sergi Roberto","Cristian Tello",3
-"Sergi Roberto","Jean Marie Dongou",1
-"Sergi Roberto","Víctor Valdés",1
-"Sergi Roberto","Lionel Messi",1
-"Sergi Roberto","Jordi Alba",2
-"Sergi Roberto","Daniel Alves",3
-"Patric Gabarron","Gerard Piqué",1
-"Patric Gabarron","Xavi Hernández",2
-"Patric Gabarron","Pedro Rodríguez",3
-"Patric Gabarron","Andrés Iniesta",4
-"Patric Gabarron","Alex Song",2
-"Patric Gabarron","Sergi Roberto",3
-"Jean Marie Dongou","Martín Montoya",1
-"Jean Marie Dongou","Gerard Piqué",1
-"Jean Marie Dongou","Sergi Roberto",1
-"Jordi Alba","Víctor Valdés",1
-"Jordi Alba","Gerard Piqué",1
-"Jordi Alba","Cesc Fàbregas",54
-"Jordi Alba","Xavi Hernández",25
-"Jordi Alba","Andrés Iniesta",88
-"Jordi Alba","Alexis Sánchez",2
-"Jordi Alba","Lionel Messi",6
-"Jordi Alba","Javier Mascherano",56
-"Jordi Alba","Sergio Busquets",37
-"Jordi Alba","Daniel Alves",5
-"Jordi Alba","Neymar",11
-"Jordi Alba","Sergi Roberto",2
-"Jordi Alba","José Manuel Pinto",4
-"Jordi Alba","Marc Bartra",4
-"Jordi Alba","Pedro Rodríguez",10
+Source,Target,Weight
+"1","3",35
+"1","4",2
+"1","8",6
+"1","9",3
+"1","10",1
+"1","11",4
+"1","14",17
+"1","16",15
+"1","21",5
+"1","22",9
+"1","6",7
+"1","7",1
+"1","15",7
+"1","20",1
+"1","18",4
+"3","1",30
+"3","4",32
+"3","8",24
+"3","9",27
+"3","10",21
+"3","11",19
+"3","14",81
+"3","16",66
+"3","21",21
+"3","22",27
+"3","6",70
+"3","7",11
+"3","15",6
+"3","17",20
+"3","20",2
+"3","13",11
+"3","2",11
+"3","5",11
+"3","24",5
+"3","27",1
+"3","18",2
+"4","3",15
+"4","8",88
+"4","9",13
+"4","10",47
+"4","11",46
+"4","14",17
+"4","16",30
+"4","21",13
+"4","22",37
+"4","6",59
+"4","7",8
+"4","15",7
+"4","17",7
+"4","13",1
+"4","2",4
+"4","27",1
+"4","18",37
+"8","1",5
+"8","3",17
+"8","4",97
+"8","9",8
+"8","10",54
+"8","11",106
+"8","14",15
+"8","16",71
+"8","21",55
+"8","22",35
+"8","6",105
+"8","7",14
+"8","15",4
+"8","17",13
+"8","20",4
+"8","2",11
+"8","5",3
+"8","24",4
+"8","27",1
+"8","28",1
+"8","18",50
+"9","3",11
+"9","4",8
+"9","8",14
+"9","10",12
+"9","11",8
+"9","14",2
+"9","16",16
+"9","21",2
+"9","22",44
+"9","6",34
+"9","7",2
+"9","2",12
+"9","24",5
+"10","3",4
+"10","4",31
+"10","8",54
+"10","9",23
+"10","11",27
+"10","14",10
+"10","16",34
+"10","21",5
+"10","22",72
+"10","6",86
+"10","15",2
+"10","18",12
+"10","24",1
+"11","3",8
+"11","4",24
+"11","8",73
+"11","9",5
+"11","10",28
+"11","14",8
+"11","16",30
+"11","21",49
+"11","22",31
+"11","6",59
+"11","7",13
+"11","15",2
+"11","17",6
+"11","20",1
+"11","2",8
+"11","24",3
+"11","18",9
+"14","1",21
+"14","3",72
+"14","4",33
+"14","8",43
+"14","9",5
+"14","10",15
+"14","11",29
+"14","16",53
+"14","21",38
+"14","22",33
+"14","6",79
+"14","7",6
+"14","15",14
+"14","17",9
+"14","13",19
+"14","2",3
+"14","5",1
+"14","24",14
+"14","27",4
+"14","20",1
+"14","18",36
+"16","1",8
+"16","3",64
+"16","4",55
+"16","8",109
+"16","9",22
+"16","10",62
+"16","11",23
+"16","14",59
+"16","21",29
+"16","22",67
+"16","6",172
+"16","7",16
+"16","15",20
+"16","17",2
+"16","20",2
+"16","13",3
+"16","2",3
+"16","24",19
+"16","18",36
+"21","1",3
+"21","3",30
+"21","4",15
+"21","8",51
+"21","9",4
+"21","10",3
+"21","11",64
+"21","14",42
+"21","16",32
+"21","22",4
+"21","6",39
+"21","7",18
+"21","15",5
+"21","17",4
+"21","20",7
+"21","2",2
+"21","24",14
+"22","1",5
+"22","3",41
+"22","4",41
+"22","8",33
+"22","9",38
+"22","10",104
+"22","11",53
+"22","14",13
+"22","16",71
+"22","21",3
+"22","6",131
+"22","7",9
+"22","15",23
+"22","18",5
+"22","24",3
+"22","13",1
+"6","3",49
+"6","4",68
+"6","8",112
+"6","9",65
+"6","10",107
+"6","11",83
+"6","14",37
+"6","16",153
+"6","21",32
+"6","22",175
+"6","7",27
+"6","15",29
+"6","17",10
+"6","20",3
+"6","13",1
+"6","2",15
+"6","5",8
+"6","24",21
+"6","27",3
+"6","18",30
+"7","3",4
+"7","4",10
+"7","8",15
+"7","9",3
+"7","10",1
+"7","11",10
+"7","14",3
+"7","16",14
+"7","21",14
+"7","22",14
+"7","6",32
+"7","15",2
+"7","17",4
+"7","20",2
+"7","2",1
+"7","5",2
+"7","24",11
+"7","27",1
+"7","29",1
+"7","18",5
+"15","1",7
+"15","3",7
+"15","4",7
+"15","8",4
+"15","9",1
+"15","10",2
+"15","11",4
+"15","14",24
+"15","16",19
+"15","21",3
+"15","22",21
+"15","6",29
+"15","7",5
+"15","13",9
+"15","18",7
+"17","3",7
+"17","4",5
+"17","6",15
+"17","7",4
+"17","8",22
+"17","11",4
+"17","16",2
+"17","21",4
+"17","22",2
+"17","20",1
+"17","14",17
+"17","13",3
+"17","2",7
+"17","5",1
+"17","24",5
+"17","27",2
+"20","6",4
+"20","8",4
+"20","11",1
+"20","16",1
+"20","21",5
+"20","17",1
+"20","24",3
+"13","3",10
+"13","4",1
+"13","6",4
+"13","7",2
+"13","11",3
+"13","14",27
+"13","17",4
+"13","27",1
+"13","9",1
+"13","16",10
+"13","21",2
+"13","10",1
+"13","18",11
+"13","22",2
+"13","15",2
+"2","13",1
+"2","3",15
+"2","4",6
+"2","6",11
+"2","7",3
+"2","8",11
+"2","11",12
+"2","14",6
+"2","17",4
+"2","24",5
+"2","28",2
+"2","9",13
+"2","16",6
+"2","20",1
+"5","2",1
+"5","3",11
+"5","4",5
+"5","6",4
+"5","7",9
+"5","8",2
+"5","17",2
+"24","2",4
+"24","3",6
+"24","6",15
+"24","7",13
+"24","8",4
+"24","11",9
+"24","14",6
+"24","17",9
+"24","27",1
+"24","9",7
+"24","16",16
+"24","21",14
+"24","20",3
+"24","29",1
+"24","1",1
+"24","10",1
+"24","18",2
+"24","22",3
+"27","3",1
+"27","6",2
+"27","7",3
+"27","8",4
+"27","17",2
+"27","24",3
+"29","2",1
+"29","3",1
+"29","24",1
+"18","1",1
+"18","3",1
+"18","4",54
+"18","6",25
+"18","8",88
+"18","9",2
+"18","10",6
+"18","14",56
+"18","16",37
+"18","22",5
+"18","11",11
+"18","24",2
+"18","13",4
+"18","15",4
+"18","7",10

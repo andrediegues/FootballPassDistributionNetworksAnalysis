@@ -1,104 +1,105 @@
-"Bernd Leno","Emir Spahić",1
-"Bernd Leno","Stefan Kiessling",2
-"Bernd Leno","Ömer Toprak",1
-"Stefan Reinartz","Emir Spahić",2
-"Stefan Reinartz","Simon Rolfes",3
-"Stefan Reinartz","Son Heung-Min",2
-"Stefan Reinartz","Emre Can",3
-"Stefan Reinartz","Stefan Kiessling",4
-"Stefan Reinartz","Sebastian Boenisch",1
-"Stefan Reinartz","Sidney Sam",5
-"Stefan Reinartz","Ömer Toprak",2
-"Stefan Reinartz","Giulio Donati",5
-"Stefan Reinartz","Lars Bender",2
-"Stefan Reinartz","Eren Derdiyok",1
-"Stefan Reinartz","Robbie Kruse",3
-"Emir Spahić","Bernd Leno",4
-"Emir Spahić","Stefan Reinartz",2
-"Emir Spahić","Simon Rolfes",3
-"Emir Spahić","Son Heung-Min",1
-"Emir Spahić","Emre Can",3
-"Emir Spahić","Stefan Kiessling",1
-"Emir Spahić","Sebastian Boenisch",8
-"Emir Spahić","Sidney Sam",2
-"Emir Spahić","Ömer Toprak",3
-"Emir Spahić","Giulio Donati",3
-"Emir Spahić","Lars Bender",1
-"Simon Rolfes","Stefan Reinartz",5
-"Simon Rolfes","Emir Spahić",1
-"Simon Rolfes","Son Heung-Min",4
-"Simon Rolfes","Emre Can",3
-"Simon Rolfes","Stefan Kiessling",3
-"Simon Rolfes","Sebastian Boenisch",8
-"Simon Rolfes","Ömer Toprak",1
-"Simon Rolfes","Giulio Donati",1
-"Simon Rolfes","Robbie Kruse",1
-"Son Heung-Min","Emir Spahić",2
-"Son Heung-Min","Simon Rolfes",8
-"Son Heung-Min","Emre Can",3
-"Son Heung-Min","Stefan Kiessling",1
-"Son Heung-Min","Sidney Sam",2
-"Son Heung-Min","Giulio Donati",1
-"Emre Can","Bernd Leno",1
-"Emre Can","Stefan Reinartz",4
-"Emre Can","Emir Spahić",1
-"Emre Can","Simon Rolfes",4
-"Emre Can","Son Heung-Min",4
-"Emre Can","Stefan Kiessling",1
-"Emre Can","Sebastian Boenisch",5
-"Emre Can","Sidney Sam",5
-"Emre Can","Ömer Toprak",4
-"Emre Can","Giulio Donati",8
-"Stefan Kiessling","Stefan Reinartz",4
-"Stefan Kiessling","Simon Rolfes",4
-"Stefan Kiessling","Sidney Sam",3
-"Stefan Kiessling","Giulio Donati",1
-"Sebastian Boenisch","Stefan Reinartz",4
-"Sebastian Boenisch","Emir Spahić",1
-"Sebastian Boenisch","Simon Rolfes",2
-"Sebastian Boenisch","Son Heung-Min",6
-"Sebastian Boenisch","Emre Can",5
-"Sebastian Boenisch","Stefan Kiessling",1
-"Sebastian Boenisch","Sidney Sam",1
-"Sebastian Boenisch","Ömer Toprak",1
-"Sebastian Boenisch","Lars Bender",2
-"Sidney Sam","Stefan Reinartz",5
-"Sidney Sam","Emir Spahić",1
-"Sidney Sam","Simon Rolfes",2
-"Sidney Sam","Son Heung-Min",1
-"Sidney Sam","Emre Can",7
-"Sidney Sam","Stefan Kiessling",2
-"Sidney Sam","Sebastian Boenisch",3
-"Sidney Sam","Ömer Toprak",3
-"Sidney Sam","Giulio Donati",7
-"Sidney Sam","Lars Bender",2
-"Ömer Toprak","Bernd Leno",2
-"Ömer Toprak","Stefan Reinartz",4
-"Ömer Toprak","Emir Spahić",3
-"Ömer Toprak","Simon Rolfes",1
-"Ömer Toprak","Emre Can",2
-"Ömer Toprak","Stefan Kiessling",2
-"Ömer Toprak","Sidney Sam",3
-"Ömer Toprak","Giulio Donati",6
-"Ömer Toprak","Lars Bender",1
-"Giulio Donati","Bernd Leno",2
-"Giulio Donati","Stefan Reinartz",5
-"Giulio Donati","Emir Spahić",1
-"Giulio Donati","Simon Rolfes",2
-"Giulio Donati","Son Heung-Min",3
-"Giulio Donati","Emre Can",5
-"Giulio Donati","Stefan Kiessling",1
-"Giulio Donati","Sidney Sam",13
-"Giulio Donati","Ömer Toprak",3
-"Giulio Donati","Lars Bender",6
-"Lars Bender","Stefan Reinartz",1
-"Lars Bender","Emir Spahić",1
-"Lars Bender","Sidney Sam",1
-"Lars Bender","Ömer Toprak",1
-"Lars Bender","Giulio Donati",4
-"Lars Bender","Eren Derdiyok",1
-"Eren Derdiyok","Ömer Toprak",1
-"Eren Derdiyok","Giulio Donati",1
-"Robbie Kruse","Simon Rolfes",1
-"Robbie Kruse","Emre Can",2
-"Robbie Kruse","Giulio Donati",1
+Source,Target,Weight
+"1","5",1
+"1","11",2
+"1","21",1
+"3","5",2
+"3","6",3
+"3","7",2
+"3","10",3
+"3","11",4
+"3","17",1
+"3","18",5
+"3","21",2
+"3","26",5
+"3","8",2
+"3","9",1
+"3","23",3
+"5","1",4
+"5","3",2
+"5","6",3
+"5","7",1
+"5","10",3
+"5","11",1
+"5","17",8
+"5","18",2
+"5","21",3
+"5","26",3
+"5","8",1
+"6","3",5
+"6","5",1
+"6","7",4
+"6","10",3
+"6","11",3
+"6","17",8
+"6","21",1
+"6","26",1
+"6","23",1
+"7","5",2
+"7","6",8
+"7","10",3
+"7","11",1
+"7","18",2
+"7","26",1
+"10","1",1
+"10","3",4
+"10","5",1
+"10","6",4
+"10","7",4
+"10","11",1
+"10","17",5
+"10","18",5
+"10","21",4
+"10","26",8
+"11","3",4
+"11","6",4
+"11","18",3
+"11","26",1
+"17","3",4
+"17","5",1
+"17","6",2
+"17","7",6
+"17","10",5
+"17","11",1
+"17","18",1
+"17","21",1
+"17","8",2
+"18","3",5
+"18","5",1
+"18","6",2
+"18","7",1
+"18","10",7
+"18","11",2
+"18","17",3
+"18","21",3
+"18","26",7
+"18","8",2
+"21","1",2
+"21","3",4
+"21","5",3
+"21","6",1
+"21","10",2
+"21","11",2
+"21","18",3
+"21","26",6
+"21","8",1
+"26","1",2
+"26","3",5
+"26","5",1
+"26","6",2
+"26","7",3
+"26","10",5
+"26","11",1
+"26","18",13
+"26","21",3
+"26","8",6
+"8","3",1
+"8","5",1
+"8","18",1
+"8","21",1
+"8","26",4
+"8","9",1
+"9","21",1
+"9","26",1
+"23","6",1
+"23","10",2
+"23","26",1

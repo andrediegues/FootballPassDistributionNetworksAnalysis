@@ -1,177 +1,178 @@
-"Nicolai Larsen","Patrick Kristensen",4
-"Nicolai Larsen","Kenneth Emil Petersen",6
-"Nicolai Larsen","Rasmus Würtz",9
-"Nicolai Larsen","Mathias Wichmann",1
-"Nicolai Larsen","Kasper Risgård",1
-"Nicolai Larsen","Nicolaj Thomsen",2
-"Nicolai Larsen","Rasmus Thelander",9
-"Nicolai Larsen","Jakob Blaabjerg",15
-"Nicolai Larsen","Henrik Dalsgaard",1
-"Nicolai Larsen","Thomas Enevoldsen",1
-"Nicolai Larsen","Donny Gorter",2
-"Patrick Kristensen","Nicolai Larsen",3
-"Patrick Kristensen","Kenneth Emil Petersen",16
-"Patrick Kristensen","Rasmus Würtz",9
-"Patrick Kristensen","Nicklas Helenius",2
-"Patrick Kristensen","Mathias Wichmann",6
-"Patrick Kristensen","Anders K. Jacobsen",2
-"Patrick Kristensen","Kasper Risgård",3
-"Patrick Kristensen","Nicolaj Thomsen",4
-"Patrick Kristensen","Rasmus Thelander",2
-"Patrick Kristensen","Thomas Enevoldsen",2
-"Patrick Kristensen","Frederik Børsting",4
-"Kenneth Emil Petersen","Nicolai Larsen",7
-"Kenneth Emil Petersen","Patrick Kristensen",14
-"Kenneth Emil Petersen","Rasmus Würtz",25
-"Kenneth Emil Petersen","Nicklas Helenius",2
-"Kenneth Emil Petersen","Mathias Wichmann",8
-"Kenneth Emil Petersen","Anders K. Jacobsen",4
-"Kenneth Emil Petersen","Kasper Risgård",12
-"Kenneth Emil Petersen","Nicolaj Thomsen",5
-"Kenneth Emil Petersen","Rasmus Thelander",54
-"Kenneth Emil Petersen","Jakob Blaabjerg",2
-"Kenneth Emil Petersen","Henrik Dalsgaard",2
-"Kenneth Emil Petersen","Viktor Ahlmann",1
-"Kenneth Emil Petersen","Thomas Enevoldsen",3
-"Kenneth Emil Petersen","Frederik Børsting",3
-"Kenneth Emil Petersen","Donny Gorter",1
-"Rasmus Würtz","Nicolai Larsen",2
-"Rasmus Würtz","Patrick Kristensen",6
-"Rasmus Würtz","Kenneth Emil Petersen",21
-"Rasmus Würtz","Nicklas Helenius",8
-"Rasmus Würtz","Mathias Wichmann",9
-"Rasmus Würtz","Anders K. Jacobsen",4
-"Rasmus Würtz","Kasper Risgård",18
-"Rasmus Würtz","Nicolaj Thomsen",11
-"Rasmus Würtz","Rasmus Thelander",17
-"Rasmus Würtz","Jakob Blaabjerg",25
-"Rasmus Würtz","Mathias Thrane",3
-"Rasmus Würtz","Henrik Dalsgaard",6
-"Rasmus Würtz","Viktor Ahlmann",1
-"Rasmus Würtz","Thomas Enevoldsen",8
-"Rasmus Würtz","Frederik Børsting",6
-"Rasmus Würtz","Donny Gorter",3
-"Nicklas Helenius","Patrick Kristensen",4
-"Nicklas Helenius","Kenneth Emil Petersen",1
-"Nicklas Helenius","Rasmus Würtz",4
-"Nicklas Helenius","Mathias Wichmann",4
-"Nicklas Helenius","Anders K. Jacobsen",5
-"Nicklas Helenius","Kasper Risgård",3
-"Nicklas Helenius","Nicolaj Thomsen",5
-"Nicklas Helenius","Jakob Blaabjerg",2
-"Nicklas Helenius","Thomas Enevoldsen",1
-"Nicklas Helenius","Donny Gorter",1
-"Mathias Wichmann","Patrick Kristensen",11
-"Mathias Wichmann","Kenneth Emil Petersen",12
-"Mathias Wichmann","Rasmus Würtz",9
-"Mathias Wichmann","Anders K. Jacobsen",1
-"Mathias Wichmann","Kasper Risgård",2
-"Mathias Wichmann","Nicolaj Thomsen",1
-"Mathias Wichmann","Rasmus Thelander",5
-"Mathias Wichmann","Henrik Dalsgaard",3
-"Mathias Wichmann","Viktor Ahlmann",1
-"Anders K. Jacobsen","Patrick Kristensen",1
-"Anders K. Jacobsen","Rasmus Würtz",5
-"Anders K. Jacobsen","Nicklas Helenius",2
-"Anders K. Jacobsen","Mathias Wichmann",1
-"Anders K. Jacobsen","Kasper Risgård",4
-"Anders K. Jacobsen","Nicolaj Thomsen",6
-"Anders K. Jacobsen","Jakob Blaabjerg",4
-"Anders K. Jacobsen","Henrik Dalsgaard",2
-"Anders K. Jacobsen","Thomas Enevoldsen",3
-"Anders K. Jacobsen","Frederik Børsting",2
-"Anders K. Jacobsen","Donny Gorter",1
-"Kasper Risgård","Patrick Kristensen",5
-"Kasper Risgård","Kenneth Emil Petersen",8
-"Kasper Risgård","Rasmus Würtz",27
-"Kasper Risgård","Nicklas Helenius",5
-"Kasper Risgård","Mathias Wichmann",4
-"Kasper Risgård","Anders K. Jacobsen",4
-"Kasper Risgård","Nicolaj Thomsen",9
-"Kasper Risgård","Rasmus Thelander",4
-"Kasper Risgård","Jakob Blaabjerg",7
-"Kasper Risgård","Henrik Dalsgaard",5
-"Kasper Risgård","Viktor Ahlmann",2
-"Kasper Risgård","Thomas Enevoldsen",4
-"Kasper Risgård","Frederik Børsting",2
-"Kasper Risgård","Donny Gorter",1
-"Nicolaj Thomsen","Patrick Kristensen",4
-"Nicolaj Thomsen","Kenneth Emil Petersen",3
-"Nicolaj Thomsen","Rasmus Würtz",8
-"Nicolaj Thomsen","Nicklas Helenius",5
-"Nicolaj Thomsen","Mathias Wichmann",3
-"Nicolaj Thomsen","Anders K. Jacobsen",6
-"Nicolaj Thomsen","Kasper Risgård",13
-"Nicolaj Thomsen","Rasmus Thelander",12
-"Nicolaj Thomsen","Jakob Blaabjerg",16
-"Nicolaj Thomsen","Henrik Dalsgaard",1
-"Nicolaj Thomsen","Viktor Ahlmann",2
-"Nicolaj Thomsen","Thomas Enevoldsen",1
-"Nicolaj Thomsen","Frederik Børsting",1
-"Nicolaj Thomsen","Donny Gorter",1
-"Rasmus Thelander","Nicolai Larsen",5
-"Rasmus Thelander","Patrick Kristensen",4
-"Rasmus Thelander","Kenneth Emil Petersen",46
-"Rasmus Thelander","Rasmus Würtz",12
-"Rasmus Thelander","Nicklas Helenius",1
-"Rasmus Thelander","Mathias Wichmann",5
-"Rasmus Thelander","Anders K. Jacobsen",1
-"Rasmus Thelander","Kasper Risgård",5
-"Rasmus Thelander","Nicolaj Thomsen",16
-"Rasmus Thelander","Jakob Blaabjerg",52
-"Rasmus Thelander","Mathias Thrane",2
-"Rasmus Thelander","Henrik Dalsgaard",4
-"Rasmus Thelander","Thomas Enevoldsen",3
-"Rasmus Thelander","Donny Gorter",1
-"Jakob Blaabjerg","Nicolai Larsen",3
-"Jakob Blaabjerg","Patrick Kristensen",2
-"Jakob Blaabjerg","Kenneth Emil Petersen",4
-"Jakob Blaabjerg","Rasmus Würtz",16
-"Jakob Blaabjerg","Nicklas Helenius",6
-"Jakob Blaabjerg","Mathias Wichmann",2
-"Jakob Blaabjerg","Anders K. Jacobsen",5
-"Jakob Blaabjerg","Kasper Risgård",17
-"Jakob Blaabjerg","Nicolaj Thomsen",26
-"Jakob Blaabjerg","Rasmus Thelander",28
-"Jakob Blaabjerg","Thomas Enevoldsen",2
-"Jakob Blaabjerg","Frederik Børsting",1
-"Mathias Thrane","Kenneth Emil Petersen",1
-"Mathias Thrane","Rasmus Würtz",1
-"Mathias Thrane","Mathias Wichmann",1
-"Mathias Thrane","Rasmus Thelander",2
-"Henrik Dalsgaard","Nicolai Larsen",1
-"Henrik Dalsgaard","Kenneth Emil Petersen",3
-"Henrik Dalsgaard","Rasmus Würtz",5
-"Henrik Dalsgaard","Mathias Wichmann",1
-"Henrik Dalsgaard","Anders K. Jacobsen",1
-"Henrik Dalsgaard","Kasper Risgård",1
-"Henrik Dalsgaard","Nicolaj Thomsen",2
-"Henrik Dalsgaard","Rasmus Thelander",2
-"Henrik Dalsgaard","Thomas Enevoldsen",2
-"Henrik Dalsgaard","Donny Gorter",1
-"Viktor Ahlmann","Rasmus Würtz",1
-"Viktor Ahlmann","Mathias Wichmann",2
-"Viktor Ahlmann","Nicolaj Thomsen",1
-"Thomas Enevoldsen","Kenneth Emil Petersen",3
-"Thomas Enevoldsen","Rasmus Würtz",2
-"Thomas Enevoldsen","Anders K. Jacobsen",3
-"Thomas Enevoldsen","Kasper Risgård",6
-"Thomas Enevoldsen","Nicolaj Thomsen",1
-"Thomas Enevoldsen","Frederik Børsting",2
-"Thomas Enevoldsen","Jakob Blaabjerg",1
-"Thomas Enevoldsen","Donny Gorter",2
-"Thomas Enevoldsen","Nicklas Helenius",6
-"Thomas Enevoldsen","Henrik Dalsgaard",2
-"Frederik Børsting","Patrick Kristensen",6
-"Frederik Børsting","Kenneth Emil Petersen",3
-"Frederik Børsting","Rasmus Würtz",1
-"Frederik Børsting","Anders K. Jacobsen",2
-"Frederik Børsting","Kasper Risgård",5
-"Frederik Børsting","Nicolaj Thomsen",3
-"Frederik Børsting","Rasmus Thelander",1
-"Frederik Børsting","Jakob Blaabjerg",1
-"Donny Gorter","Thomas Enevoldsen",2
-"Donny Gorter","Rasmus Würtz",1
-"Donny Gorter","Kasper Risgård",1
-"Donny Gorter","Nicolaj Thomsen",2
-"Donny Gorter","Rasmus Thelander",4
+Source,Target,Weight
+"1","2",4
+"1","5",6
+"1","8",9
+"1","14",1
+"1","21",1
+"1","23",2
+"1","26",9
+"1","31",15
+"1","20",1
+"1","7",1
+"1","6",2
+"2","1",3
+"2","5",16
+"2","8",9
+"2","11",2
+"2","14",6
+"2","18",2
+"2","21",3
+"2","23",4
+"2","26",2
+"2","7",2
+"2","25",4
+"5","1",7
+"5","2",14
+"5","8",25
+"5","11",2
+"5","14",8
+"5","18",4
+"5","21",12
+"5","23",5
+"5","26",54
+"5","31",2
+"5","20",2
+"5","28",1
+"5","7",3
+"5","25",3
+"5","6",1
+"8","1",2
+"8","2",6
+"8","5",21
+"8","11",8
+"8","14",9
+"8","18",4
+"8","21",18
+"8","23",11
+"8","26",17
+"8","31",25
+"8","16",3
+"8","20",6
+"8","28",1
+"8","7",8
+"8","25",6
+"8","6",3
+"11","2",4
+"11","5",1
+"11","8",4
+"11","14",4
+"11","18",5
+"11","21",3
+"11","23",5
+"11","31",2
+"11","7",1
+"11","6",1
+"14","2",11
+"14","5",12
+"14","8",9
+"14","18",1
+"14","21",2
+"14","23",1
+"14","26",5
+"14","20",3
+"14","28",1
+"18","2",1
+"18","8",5
+"18","11",2
+"18","14",1
+"18","21",4
+"18","23",6
+"18","31",4
+"18","20",2
+"18","7",3
+"18","25",2
+"18","6",1
+"21","2",5
+"21","5",8
+"21","8",27
+"21","11",5
+"21","14",4
+"21","18",4
+"21","23",9
+"21","26",4
+"21","31",7
+"21","20",5
+"21","28",2
+"21","7",4
+"21","25",2
+"21","6",1
+"23","2",4
+"23","5",3
+"23","8",8
+"23","11",5
+"23","14",3
+"23","18",6
+"23","21",13
+"23","26",12
+"23","31",16
+"23","20",1
+"23","28",2
+"23","7",1
+"23","25",1
+"23","6",1
+"26","1",5
+"26","2",4
+"26","5",46
+"26","8",12
+"26","11",1
+"26","14",5
+"26","18",1
+"26","21",5
+"26","23",16
+"26","31",52
+"26","16",2
+"26","20",4
+"26","7",3
+"26","6",1
+"31","1",3
+"31","2",2
+"31","5",4
+"31","8",16
+"31","11",6
+"31","14",2
+"31","18",5
+"31","21",17
+"31","23",26
+"31","26",28
+"31","7",2
+"31","25",1
+"16","5",1
+"16","8",1
+"16","14",1
+"16","26",2
+"20","1",1
+"20","5",3
+"20","8",5
+"20","14",1
+"20","18",1
+"20","21",1
+"20","23",2
+"20","26",2
+"20","7",2
+"20","6",1
+"28","8",1
+"28","14",2
+"28","23",1
+"7","5",3
+"7","8",2
+"7","18",3
+"7","21",6
+"7","23",1
+"7","25",2
+"7","31",1
+"7","6",2
+"7","11",6
+"7","20",2
+"25","2",6
+"25","5",3
+"25","8",1
+"25","18",2
+"25","21",5
+"25","23",3
+"25","26",1
+"25","31",1
+"6","7",2
+"6","8",1
+"6","21",1
+"6","23",2
+"6","26",4

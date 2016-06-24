@@ -1,114 +1,115 @@
-"Orestis Karnezis","Ibrahim Sissoko",2
-"Orestis Karnezis","Jean-Alain Boumsong",5
-"Orestis Karnezis","Bruno Fornaroli",1
-"Orestis Karnezis","Loukas Vyntra",1
-"Orestis Karnezis","Kostas Katsouranis",1
-"Orestis Karnezis","Nikos Spyropoulos",1
-"Orestis Karnezis","José Manuel Velázquez",2
-"Orestis Karnezis","André Pinto",1
-"Orestis Karnezis","Lazaros Christodoulopoulos",1
-"Ibrahim Sissoko","Vitolo",3
-"Ibrahim Sissoko","Charis Mavrias",3
-"Ibrahim Sissoko","Bruno Fornaroli",4
-"Ibrahim Sissoko","Zeca",2
-"Ibrahim Sissoko","Loukas Vyntra",3
-"Ibrahim Sissoko","Kostas Katsouranis",5
-"Ibrahim Sissoko","Nikos Spyropoulos",3
-"Ibrahim Sissoko","José Manuel Velázquez",1
-"Ibrahim Sissoko","Lazaros Christodoulopoulos",3
-"Jean-Alain Boumsong","Vitolo",4
-"Jean-Alain Boumsong","Charis Mavrias",1
-"Jean-Alain Boumsong","Bruno Fornaroli",1
-"Jean-Alain Boumsong","Zeca",2
-"Jean-Alain Boumsong","Loukas Vyntra",1
-"Jean-Alain Boumsong","Kostas Katsouranis",5
-"Jean-Alain Boumsong","Nikos Spyropoulos",3
-"Jean-Alain Boumsong","José Manuel Velázquez",9
-"Jean-Alain Boumsong","Lazaros Christodoulopoulos",1
-"Vitolo","Ibrahim Sissoko",6
-"Vitolo","Jean-Alain Boumsong",2
-"Vitolo","Charis Mavrias",2
-"Vitolo","Bruno Fornaroli",2
-"Vitolo","Zeca",2
-"Vitolo","Loukas Vyntra",6
-"Vitolo","Kostas Katsouranis",9
-"Vitolo","Nikos Spyropoulos",3
-"Vitolo","José Manuel Velázquez",6
-"Vitolo","André Pinto",4
-"Vitolo","Toché",3
-"Vitolo","Lazaros Christodoulopoulos",3
-"Charis Mavrias","Ibrahim Sissoko",1
-"Charis Mavrias","Vitolo",2
-"Charis Mavrias","Zeca",1
-"Charis Mavrias","Loukas Vyntra",1
-"Charis Mavrias","Kostas Katsouranis",3
-"Charis Mavrias","Nikos Spyropoulos",3
-"Charis Mavrias","José Manuel Velázquez",1
-"Charis Mavrias","Lazaros Christodoulopoulos",1
-"Bruno Fornaroli","Ibrahim Sissoko",5
-"Bruno Fornaroli","Jean-Alain Boumsong",1
-"Bruno Fornaroli","Vitolo",1
-"Bruno Fornaroli","Charis Mavrias",1
-"Bruno Fornaroli","Loukas Vyntra",4
-"Bruno Fornaroli","Kostas Katsouranis",2
-"Bruno Fornaroli","Nikos Spyropoulos",1
-"Bruno Fornaroli","Lazaros Christodoulopoulos",2
-"Zeca","Orestis Karnezis",1
-"Zeca","Ibrahim Sissoko",1
-"Zeca","Charis Mavrias",1
-"Zeca","Loukas Vyntra",4
-"Zeca","Kostas Katsouranis",3
-"Loukas Vyntra","Orestis Karnezis",1
-"Loukas Vyntra","Ibrahim Sissoko",3
-"Loukas Vyntra","Jean-Alain Boumsong",4
-"Loukas Vyntra","Vitolo",7
-"Loukas Vyntra","Charis Mavrias",2
-"Loukas Vyntra","Bruno Fornaroli",2
-"Loukas Vyntra","Zeca",2
-"Loukas Vyntra","Kostas Katsouranis",10
-"Loukas Vyntra","José Manuel Velázquez",1
-"Loukas Vyntra","André Pinto",3
-"Loukas Vyntra","Toché",1
-"Loukas Vyntra","Lazaros Christodoulopoulos",4
-"Kostas Katsouranis","Ibrahim Sissoko",9
-"Kostas Katsouranis","Jean-Alain Boumsong",4
-"Kostas Katsouranis","Vitolo",12
-"Kostas Katsouranis","Charis Mavrias",8
-"Kostas Katsouranis","Bruno Fornaroli",3
-"Kostas Katsouranis","Zeca",1
-"Kostas Katsouranis","Loukas Vyntra",6
-"Kostas Katsouranis","Nikos Spyropoulos",4
-"Kostas Katsouranis","José Manuel Velázquez",5
-"Kostas Katsouranis","André Pinto",1
-"Kostas Katsouranis","Lazaros Christodoulopoulos",5
-"Nikos Spyropoulos","Ibrahim Sissoko",9
-"Nikos Spyropoulos","Vitolo",5
-"Nikos Spyropoulos","Charis Mavrias",3
-"Nikos Spyropoulos","Bruno Fornaroli",4
-"Nikos Spyropoulos","Zeca",1
-"Nikos Spyropoulos","Kostas Katsouranis",2
-"Nikos Spyropoulos","José Manuel Velázquez",6
-"Nikos Spyropoulos","Toché",2
-"Nikos Spyropoulos","Lazaros Christodoulopoulos",3
-"José Manuel Velázquez","Orestis Karnezis",1
-"José Manuel Velázquez","Jean-Alain Boumsong",5
-"José Manuel Velázquez","Vitolo",5
-"José Manuel Velázquez","Kostas Katsouranis",8
-"José Manuel Velázquez","Nikos Spyropoulos",6
-"José Manuel Velázquez","André Pinto",4
-"José Manuel Velázquez","Lazaros Christodoulopoulos",1
-"André Pinto","Orestis Karnezis",1
-"André Pinto","Vitolo",4
-"André Pinto","Charis Mavrias",1
-"André Pinto","Loukas Vyntra",3
-"André Pinto","Kostas Katsouranis",3
-"André Pinto","José Manuel Velázquez",4
-"Toché","Vitolo",2
-"Toché","Lazaros Christodoulopoulos",3
-"Lazaros Christodoulopoulos","Vitolo",2
-"Lazaros Christodoulopoulos","Charis Mavrias",1
-"Lazaros Christodoulopoulos","Bruno Fornaroli",2
-"Lazaros Christodoulopoulos","Loukas Vyntra",3
-"Lazaros Christodoulopoulos","Kostas Katsouranis",4
-"Lazaros Christodoulopoulos","Nikos Spyropoulos",4
-"Lazaros Christodoulopoulos","André Pinto",2
+Source,Target,Weight
+"27","3",2
+"27","4",5
+"27","14",1
+"27","24",1
+"27","29",1
+"27","31",1
+"27","44",2
+"27","5",1
+"27","10",1
+"3","6",3
+"3","7",3
+"3","14",4
+"3","17",2
+"3","24",3
+"3","29",5
+"3","31",3
+"3","44",1
+"3","10",3
+"4","6",4
+"4","7",1
+"4","14",1
+"4","17",2
+"4","24",1
+"4","29",5
+"4","31",3
+"4","44",9
+"4","10",1
+"6","3",6
+"6","4",2
+"6","7",2
+"6","14",2
+"6","17",2
+"6","24",6
+"6","29",9
+"6","31",3
+"6","44",6
+"6","5",4
+"6","9",3
+"6","10",3
+"7","3",1
+"7","6",2
+"7","17",1
+"7","24",1
+"7","29",3
+"7","31",3
+"7","44",1
+"7","10",1
+"14","3",5
+"14","4",1
+"14","6",1
+"14","7",1
+"14","24",4
+"14","29",2
+"14","31",1
+"14","10",2
+"17","27",1
+"17","3",1
+"17","7",1
+"17","24",4
+"17","29",3
+"24","27",1
+"24","3",3
+"24","4",4
+"24","6",7
+"24","7",2
+"24","14",2
+"24","17",2
+"24","29",10
+"24","44",1
+"24","5",3
+"24","9",1
+"24","10",4
+"29","3",9
+"29","4",4
+"29","6",12
+"29","7",8
+"29","14",3
+"29","17",1
+"29","24",6
+"29","31",4
+"29","44",5
+"29","5",1
+"29","10",5
+"31","3",9
+"31","6",5
+"31","7",3
+"31","14",4
+"31","17",1
+"31","29",2
+"31","44",6
+"31","9",2
+"31","10",3
+"44","27",1
+"44","4",5
+"44","6",5
+"44","29",8
+"44","31",6
+"44","5",4
+"44","10",1
+"5","27",1
+"5","6",4
+"5","7",1
+"5","24",3
+"5","29",3
+"5","44",4
+"9","6",2
+"9","10",3
+"10","6",2
+"10","7",1
+"10","14",2
+"10","24",3
+"10","29",4
+"10","31",4
+"10","5",2

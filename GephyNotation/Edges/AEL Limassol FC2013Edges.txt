@@ -1,154 +1,155 @@
-"Matias Degra","Dosa Júnior",7
-"Matias Degra","Edmar",4
-"Matias Degra","Marios Nikolaou",1
-"Matias Degra","Marcos Airosa",2
-"Matias Degra","Carlitos",2
-"Matias Degra","Edwin Ouon",8
-"Matias Degra","Dédé",2
-"Matias Degra","Vouho",3
-"Matias Degra","Rui Miguel",3
-"Matias Degra","Gilberto",1
-"Matias Degra","Chris Dickson",5
-"Matias Degra","Monteiro",1
-"Matias Degra","Maykon",1
-"Dosa Júnior","Matias Degra",8
-"Dosa Júnior","Edmar",1
-"Dosa Júnior","Marios Nikolaou",8
-"Dosa Júnior","Paulo Sérgio",4
-"Dosa Júnior","Marcos Airosa",4
-"Dosa Júnior","Carlitos",10
-"Dosa Júnior","Edwin Ouon",13
-"Dosa Júnior","Dédé",14
-"Dosa Júnior","Vouho",3
-"Dosa Júnior","Rui Miguel",4
-"Dosa Júnior","Gilberto",1
-"Edmar","Dosa Júnior",1
-"Edmar","Marios Nikolaou",3
-"Edmar","Luciano Bebê",1
-"Edmar","Marcos Airosa",6
-"Edmar","Carlitos",2
-"Edmar","Edwin Ouon",2
-"Edmar","Dédé",3
-"Edmar","Vouho",4
-"Edmar","Rui Miguel",2
-"Edmar","Monteiro",1
-"Marios Nikolaou","Matias Degra",2
-"Marios Nikolaou","Dosa Júnior",11
-"Marios Nikolaou","Edmar",5
-"Marios Nikolaou","Paulo Sérgio",1
-"Marios Nikolaou","Luciano Bebê",1
-"Marios Nikolaou","Marcos Airosa",3
-"Marios Nikolaou","Carlitos",5
-"Marios Nikolaou","Edwin Ouon",10
-"Marios Nikolaou","Dédé",5
-"Marios Nikolaou","Vouho",9
-"Marios Nikolaou","Rui Miguel",3
-"Marios Nikolaou","Gilberto",1
-"Marios Nikolaou","Chris Dickson",2
-"Marios Nikolaou","Monteiro",1
-"Paulo Sérgio","Dosa Júnior",1
-"Paulo Sérgio","Marios Nikolaou",1
-"Paulo Sérgio","Luciano Bebê",2
-"Paulo Sérgio","Carlitos",5
-"Paulo Sérgio","Edwin Ouon",2
-"Paulo Sérgio","Vouho",1
-"Paulo Sérgio","Rui Miguel",1
-"Luciano Bebê","Dosa Júnior",1
-"Luciano Bebê","Edmar",2
-"Luciano Bebê","Marios Nikolaou",4
-"Luciano Bebê","Marcos Airosa",1
-"Luciano Bebê","Carlitos",1
-"Luciano Bebê","Edwin Ouon",1
-"Luciano Bebê","Dédé",1
-"Luciano Bebê","Vouho",1
-"Marcos Airosa","Matias Degra",1
-"Marcos Airosa","Dosa Júnior",2
-"Marcos Airosa","Edmar",5
-"Marcos Airosa","Marios Nikolaou",4
-"Marcos Airosa","Paulo Sérgio",3
-"Marcos Airosa","Luciano Bebê",4
-"Marcos Airosa","Carlitos",2
-"Marcos Airosa","Edwin Ouon",7
-"Marcos Airosa","Dédé",2
-"Marcos Airosa","Vouho",3
-"Marcos Airosa","Rui Miguel",5
-"Marcos Airosa","Gilberto",4
-"Marcos Airosa","Chris Dickson",1
-"Marcos Airosa","Monteiro",1
-"Carlitos","Matias Degra",1
-"Carlitos","Dosa Júnior",20
-"Carlitos","Edmar",5
-"Carlitos","Marios Nikolaou",8
-"Carlitos","Paulo Sérgio",4
-"Carlitos","Luciano Bebê",3
-"Carlitos","Marcos Airosa",3
-"Carlitos","Edwin Ouon",1
-"Carlitos","Dédé",6
-"Carlitos","Vouho",1
-"Carlitos","Rui Miguel",5
-"Carlitos","Gilberto",1
-"Carlitos","Maykon",1
-"Edwin Ouon","Matias Degra",15
-"Edwin Ouon","Dosa Júnior",10
-"Edwin Ouon","Edmar",2
-"Edwin Ouon","Marios Nikolaou",6
-"Edwin Ouon","Paulo Sérgio",1
-"Edwin Ouon","Marcos Airosa",11
-"Edwin Ouon","Carlitos",2
-"Edwin Ouon","Dédé",6
-"Edwin Ouon","Vouho",3
-"Edwin Ouon","Rui Miguel",2
-"Edwin Ouon","Maykon",1
-"Dédé","Matias Degra",3
-"Dédé","Dosa Júnior",6
-"Dédé","Edmar",8
-"Dédé","Marios Nikolaou",10
-"Dédé","Paulo Sérgio",1
-"Dédé","Marcos Airosa",3
-"Dédé","Carlitos",3
-"Dédé","Edwin Ouon",8
-"Dédé","Vouho",2
-"Dédé","Rui Miguel",3
-"Dédé","Gilberto",3
-"Dédé","Maykon",1
-"Vouho","Dosa Júnior",1
-"Vouho","Edmar",6
-"Vouho","Marios Nikolaou",2
-"Vouho","Paulo Sérgio",2
-"Vouho","Luciano Bebê",2
-"Vouho","Carlitos",2
-"Vouho","Rui Miguel",5
-"Vouho","Gilberto",3
-"Vouho","Chris Dickson",2
-"Rui Miguel","Matias Degra",1
-"Rui Miguel","Dosa Júnior",1
-"Rui Miguel","Edmar",3
-"Rui Miguel","Marios Nikolaou",6
-"Rui Miguel","Marcos Airosa",3
-"Rui Miguel","Carlitos",3
-"Rui Miguel","Edwin Ouon",2
-"Rui Miguel","Dédé",5
-"Rui Miguel","Vouho",9
-"Rui Miguel","Gilberto",5
-"Rui Miguel","Monteiro",3
-"Gilberto","Dosa Júnior",2
-"Gilberto","Marios Nikolaou",2
-"Gilberto","Marcos Airosa",4
-"Gilberto","Carlitos",1
-"Gilberto","Edwin Ouon",1
-"Gilberto","Dédé",3
-"Gilberto","Vouho",3
-"Gilberto","Rui Miguel",3
-"Chris Dickson","Marios Nikolaou",2
-"Chris Dickson","Dédé",1
-"Chris Dickson","Rui Miguel",4
-"Monteiro","Rui Miguel",1
-"Monteiro","Edmar",1
-"Monteiro","Marios Nikolaou",1
-"Monteiro","Marcos Airosa",2
-"Monteiro","Carlitos",3
-"Monteiro","Vouho",2
-"Maykon","Marios Nikolaou",1
-"Maykon","Marcos Airosa",1
-"Maykon","Vouho",1
-"Maykon","Gilberto",1
+Source,Target,Weight
+"32","2",7
+"32","11",4
+"32","12",1
+"32","21",2
+"32","23",2
+"32","29",8
+"32","77",2
+"32","99",3
+"32","10",3
+"32","70",1
+"32","84",5
+"32","7",1
+"32","3",1
+"2","32",8
+"2","11",1
+"2","12",8
+"2","17",4
+"2","21",4
+"2","23",10
+"2","29",13
+"2","77",14
+"2","99",3
+"2","10",4
+"2","70",1
+"11","2",1
+"11","12",3
+"11","20",1
+"11","21",6
+"11","23",2
+"11","29",2
+"11","77",3
+"11","99",4
+"11","10",2
+"11","7",1
+"12","32",2
+"12","2",11
+"12","11",5
+"12","17",1
+"12","20",1
+"12","21",3
+"12","23",5
+"12","29",10
+"12","77",5
+"12","99",9
+"12","10",3
+"12","70",1
+"12","84",2
+"12","7",1
+"17","2",1
+"17","12",1
+"17","20",2
+"17","23",5
+"17","29",2
+"17","99",1
+"17","10",1
+"20","2",1
+"20","11",2
+"20","12",4
+"20","21",1
+"20","23",1
+"20","29",1
+"20","77",1
+"20","99",1
+"21","32",1
+"21","2",2
+"21","11",5
+"21","12",4
+"21","17",3
+"21","20",4
+"21","23",2
+"21","29",7
+"21","77",2
+"21","99",3
+"21","10",5
+"21","70",4
+"21","84",1
+"21","7",1
+"23","32",1
+"23","2",20
+"23","11",5
+"23","12",8
+"23","17",4
+"23","20",3
+"23","21",3
+"23","29",1
+"23","77",6
+"23","99",1
+"23","10",5
+"23","70",1
+"23","3",1
+"29","32",15
+"29","2",10
+"29","11",2
+"29","12",6
+"29","17",1
+"29","21",11
+"29","23",2
+"29","77",6
+"29","99",3
+"29","10",2
+"29","3",1
+"77","32",3
+"77","2",6
+"77","11",8
+"77","12",10
+"77","17",1
+"77","21",3
+"77","23",3
+"77","29",8
+"77","99",2
+"77","10",3
+"77","70",3
+"77","3",1
+"99","2",1
+"99","11",6
+"99","12",2
+"99","17",2
+"99","20",2
+"99","23",2
+"99","10",5
+"99","70",3
+"99","84",2
+"10","32",1
+"10","2",1
+"10","11",3
+"10","12",6
+"10","21",3
+"10","23",3
+"10","29",2
+"10","77",5
+"10","99",9
+"10","70",5
+"10","7",3
+"70","2",2
+"70","12",2
+"70","21",4
+"70","23",1
+"70","29",1
+"70","77",3
+"70","99",3
+"70","10",3
+"84","12",2
+"84","77",1
+"84","10",4
+"7","10",1
+"7","11",1
+"7","12",1
+"7","21",2
+"7","23",3
+"7","99",2
+"3","12",1
+"3","21",1
+"3","99",1
+"3","70",1

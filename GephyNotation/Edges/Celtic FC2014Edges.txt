@@ -1,292 +1,293 @@
-"Fraser Forster","Emilio Izaguirre",13
-"Fraser Forster","Virgil van Dijk",9
-"Fraser Forster","Scott Brown",3
-"Fraser Forster","Giorgos Samaras",11
-"Fraser Forster","Kris Commons",4
-"Fraser Forster","Joe Ledley",4
-"Fraser Forster","Charlie Mulgrew",8
-"Fraser Forster","Steven Mouyokolo",2
-"Fraser Forster","Mikael Lustig",9
-"Fraser Forster","James Forrest",3
-"Fraser Forster","Adam Matthews",1
-"Fraser Forster","Efe Ambrose",13
-"Fraser Forster","Anthony Stokes",10
-"Fraser Forster","Derk Boerrigter",1
-"Fraser Forster","Nir Biton",1
-"Fraser Forster","Teemu Pukki",1
-"Fraser Forster","Giorgios Samaras",31
-"Emilio Izaguirre","Fraser Forster",8
-"Emilio Izaguirre","Virgil van Dijk",21
-"Emilio Izaguirre","Scott Brown",14
-"Emilio Izaguirre","Giorgos Samaras",13
-"Emilio Izaguirre","Kris Commons",14
-"Emilio Izaguirre","Joe Ledley",25
-"Emilio Izaguirre","Charlie Mulgrew",60
-"Emilio Izaguirre","Steven Mouyokolo",2
-"Emilio Izaguirre","Mikael Lustig",4
-"Emilio Izaguirre","James Forrest",7
-"Emilio Izaguirre","Efe Ambrose",8
-"Emilio Izaguirre","Anthony Stokes",21
-"Emilio Izaguirre","Derk Boerrigter",18
-"Emilio Izaguirre","Teemu Pukki",6
-"Emilio Izaguirre","Giorgios Samaras",39
-"Emilio Izaguirre","Beram Kayal",5
-"Virgil van Dijk","Fraser Forster",20
-"Virgil van Dijk","Emilio Izaguirre",34
-"Virgil van Dijk","Scott Brown",9
-"Virgil van Dijk","Giorgos Samaras",5
-"Virgil van Dijk","Kris Commons",2
-"Virgil van Dijk","Joe Ledley",11
-"Virgil van Dijk","Charlie Mulgrew",13
-"Virgil van Dijk","Steven Mouyokolo",8
-"Virgil van Dijk","Mikael Lustig",7
-"Virgil van Dijk","James Forrest",10
-"Virgil van Dijk","Adam Matthews",6
-"Virgil van Dijk","Baldé",1
-"Virgil van Dijk","Efe Ambrose",41
-"Virgil van Dijk","Anthony Stokes",11
-"Virgil van Dijk","Derk Boerrigter",2
-"Virgil van Dijk","Nir Biton",1
-"Virgil van Dijk","Teemu Pukki",4
-"Virgil van Dijk","Giorgios Samaras",15
-"Virgil van Dijk","Beram Kayal",3
-"Scott Brown","Fraser Forster",4
-"Scott Brown","Emilio Izaguirre",15
-"Scott Brown","Virgil van Dijk",14
-"Scott Brown","Giorgos Samaras",5
-"Scott Brown","Kris Commons",14
-"Scott Brown","Joe Ledley",21
-"Scott Brown","Charlie Mulgrew",26
-"Scott Brown","Steven Mouyokolo",7
-"Scott Brown","Mikael Lustig",38
-"Scott Brown","James Forrest",22
-"Scott Brown","Adam Matthews",30
-"Scott Brown","Efe Ambrose",12
-"Scott Brown","Anthony Stokes",6
-"Scott Brown","Derk Boerrigter",1
-"Scott Brown","Nir Biton",1
-"Scott Brown","Giorgios Samaras",5
-"Giorgos Samaras","Emilio Izaguirre",7
-"Giorgos Samaras","Virgil van Dijk",3
-"Giorgos Samaras","Scott Brown",8
-"Giorgos Samaras","Kris Commons",7
-"Giorgos Samaras","Joe Ledley",8
-"Giorgos Samaras","Charlie Mulgrew",7
-"Giorgos Samaras","Steven Mouyokolo",1
-"Giorgos Samaras","Mikael Lustig",1
-"Giorgos Samaras","James Forrest",2
-"Giorgos Samaras","Adam Matthews",5
-"Giorgos Samaras","Baldé",1
-"Giorgos Samaras","Efe Ambrose",3
-"Giorgos Samaras","Anthony Stokes",4
-"Giorgos Samaras","Nir Biton",1
-"Kris Commons","Fraser Forster",1
-"Kris Commons","Emilio Izaguirre",12
-"Kris Commons","Virgil van Dijk",6
-"Kris Commons","Scott Brown",13
-"Kris Commons","Giorgos Samaras",13
-"Kris Commons","Joe Ledley",2
-"Kris Commons","Charlie Mulgrew",19
-"Kris Commons","Steven Mouyokolo",1
-"Kris Commons","Mikael Lustig",15
-"Kris Commons","James Forrest",8
-"Kris Commons","Adam Matthews",7
-"Kris Commons","Efe Ambrose",5
-"Kris Commons","Anthony Stokes",9
-"Kris Commons","Giorgios Samaras",6
-"Kris Commons","Beram Kayal",1
-"Joe Ledley","Fraser Forster",2
-"Joe Ledley","Emilio Izaguirre",33
-"Joe Ledley","Virgil van Dijk",14
-"Joe Ledley","Scott Brown",20
-"Joe Ledley","Giorgos Samaras",8
-"Joe Ledley","Kris Commons",15
-"Joe Ledley","Charlie Mulgrew",51
-"Joe Ledley","Steven Mouyokolo",6
-"Joe Ledley","Mikael Lustig",13
-"Joe Ledley","James Forrest",7
-"Joe Ledley","Adam Matthews",4
-"Joe Ledley","Efe Ambrose",8
-"Joe Ledley","Anthony Stokes",3
-"Joe Ledley","Derk Boerrigter",4
-"Joe Ledley","Giorgios Samaras",5
-"Joe Ledley","Teemu Pukki",1
-"Joe Ledley","Nir Biton",3
-"Charlie Mulgrew","Fraser Forster",5
-"Charlie Mulgrew","Emilio Izaguirre",48
-"Charlie Mulgrew","Virgil van Dijk",20
-"Charlie Mulgrew","Scott Brown",22
-"Charlie Mulgrew","Giorgos Samaras",28
-"Charlie Mulgrew","Kris Commons",18
-"Charlie Mulgrew","Joe Ledley",37
-"Charlie Mulgrew","Steven Mouyokolo",8
-"Charlie Mulgrew","Mikael Lustig",29
-"Charlie Mulgrew","James Forrest",28
-"Charlie Mulgrew","Adam Matthews",10
-"Charlie Mulgrew","Baldé",1
-"Charlie Mulgrew","Efe Ambrose",30
-"Charlie Mulgrew","Anthony Stokes",19
-"Charlie Mulgrew","Derk Boerrigter",7
-"Charlie Mulgrew","Nir Biton",1
-"Charlie Mulgrew","Teemu Pukki",5
-"Charlie Mulgrew","Giorgios Samaras",18
-"Charlie Mulgrew","Beram Kayal",6
-"Charlie Mulgrew","Tom Rogic",3
-"Steven Mouyokolo","Fraser Forster",3
-"Steven Mouyokolo","Emilio Izaguirre",1
-"Steven Mouyokolo","Virgil van Dijk",8
-"Steven Mouyokolo","Scott Brown",6
-"Steven Mouyokolo","Giorgos Samaras",1
-"Steven Mouyokolo","Kris Commons",1
-"Steven Mouyokolo","Joe Ledley",4
-"Steven Mouyokolo","Charlie Mulgrew",3
-"Steven Mouyokolo","Mikael Lustig",10
-"Steven Mouyokolo","James Forrest",2
-"Steven Mouyokolo","Adam Matthews",6
-"Mikael Lustig","Fraser Forster",16
-"Mikael Lustig","Emilio Izaguirre",4
-"Mikael Lustig","Virgil van Dijk",15
-"Mikael Lustig","Scott Brown",44
-"Mikael Lustig","Giorgos Samaras",6
-"Mikael Lustig","Kris Commons",31
-"Mikael Lustig","Joe Ledley",20
-"Mikael Lustig","Charlie Mulgrew",50
-"Mikael Lustig","Steven Mouyokolo",6
-"Mikael Lustig","James Forrest",34
-"Mikael Lustig","Adam Matthews",12
-"Mikael Lustig","Efe Ambrose",37
-"Mikael Lustig","Anthony Stokes",15
-"Mikael Lustig","Derk Boerrigter",7
-"Mikael Lustig","Nir Biton",6
-"Mikael Lustig","Teemu Pukki",5
-"Mikael Lustig","Giorgios Samaras",7
-"Mikael Lustig","Beram Kayal",13
-"Mikael Lustig","Tom Rogic",2
-"James Forrest","Fraser Forster",1
-"James Forrest","Emilio Izaguirre",4
-"James Forrest","Virgil van Dijk",3
-"James Forrest","Scott Brown",13
-"James Forrest","Giorgos Samaras",3
-"James Forrest","Kris Commons",9
-"James Forrest","Joe Ledley",13
-"James Forrest","Charlie Mulgrew",16
-"James Forrest","Steven Mouyokolo",3
-"James Forrest","Mikael Lustig",32
-"James Forrest","Adam Matthews",3
-"James Forrest","Efe Ambrose",4
-"James Forrest","Anthony Stokes",7
-"James Forrest","Derk Boerrigter",1
-"James Forrest","Giorgios Samaras",4
-"James Forrest","Teemu Pukki",5
-"James Forrest","Beram Kayal",6
-"Adam Matthews","Fraser Forster",4
-"Adam Matthews","Emilio Izaguirre",2
-"Adam Matthews","Virgil van Dijk",9
-"Adam Matthews","Scott Brown",23
-"Adam Matthews","Giorgos Samaras",3
-"Adam Matthews","Kris Commons",12
-"Adam Matthews","Joe Ledley",7
-"Adam Matthews","Charlie Mulgrew",5
-"Adam Matthews","Steven Mouyokolo",1
-"Adam Matthews","Mikael Lustig",21
-"Adam Matthews","James Forrest",9
-"Adam Matthews","Efe Ambrose",11
-"Adam Matthews","Anthony Stokes",6
-"Adam Matthews","Derk Boerrigter",6
-"Adam Matthews","Nir Biton",2
-"Adam Matthews","Teemu Pukki",3
-"Adam Matthews","Giorgios Samaras",2
-"Baldé","Kris Commons",1
-"Efe Ambrose","Fraser Forster",20
-"Efe Ambrose","Adam Matthews",18
-"Efe Ambrose","Scott Brown",19
-"Efe Ambrose","Giorgos Samaras",3
-"Efe Ambrose","Anthony Stokes",7
-"Efe Ambrose","Kris Commons",10
-"Efe Ambrose","Joe Ledley",6
-"Efe Ambrose","Charlie Mulgrew",27
-"Efe Ambrose","Mikael Lustig",59
-"Efe Ambrose","James Forrest",13
-"Efe Ambrose","Virgil van Dijk",26
-"Efe Ambrose","Derk Boerrigter",5
-"Efe Ambrose","Emilio Izaguirre",8
-"Efe Ambrose","Nir Biton",3
-"Efe Ambrose","Teemu Pukki",6
-"Efe Ambrose","Giorgios Samaras",9
-"Efe Ambrose","Beram Kayal",7
-"Efe Ambrose","Tom Rogic",1
-"Anthony Stokes","Adam Matthews",4
-"Anthony Stokes","Efe Ambrose",2
-"Anthony Stokes","Scott Brown",2
-"Anthony Stokes","Giorgos Samaras",5
-"Anthony Stokes","Kris Commons",17
-"Anthony Stokes","Joe Ledley",2
-"Anthony Stokes","Charlie Mulgrew",6
-"Anthony Stokes","Mikael Lustig",9
-"Anthony Stokes","James Forrest",6
-"Anthony Stokes","Virgil van Dijk",3
-"Anthony Stokes","Derk Boerrigter",2
-"Anthony Stokes","Emilio Izaguirre",11
-"Anthony Stokes","Teemu Pukki",2
-"Anthony Stokes","Giorgios Samaras",10
-"Anthony Stokes","Beram Kayal",2
-"Derk Boerrigter","Fraser Forster",2
-"Derk Boerrigter","Adam Matthews",7
-"Derk Boerrigter","Efe Ambrose",2
-"Derk Boerrigter","Scott Brown",1
-"Derk Boerrigter","Giorgos Samaras",1
-"Derk Boerrigter","Anthony Stokes",1
-"Derk Boerrigter","Kris Commons",1
-"Derk Boerrigter","Joe Ledley",5
-"Derk Boerrigter","Charlie Mulgrew",4
-"Derk Boerrigter","Mikael Lustig",5
-"Derk Boerrigter","James Forrest",1
-"Derk Boerrigter","Emilio Izaguirre",11
-"Derk Boerrigter","Teemu Pukki",1
-"Derk Boerrigter","Giorgios Samaras",2
-"Nir Biton","Adam Matthews",1
-"Nir Biton","Emilio Izaguirre",1
-"Nir Biton","Efe Ambrose",3
-"Nir Biton","Virgil van Dijk",2
-"Nir Biton","Scott Brown",1
-"Nir Biton","Mikael Lustig",4
-"Nir Biton","Derk Boerrigter",4
-"Nir Biton","Teemu Pukki",3
-"Nir Biton","Joe Ledley",1
-"Teemu Pukki","Adam Matthews",2
-"Teemu Pukki","Emilio Izaguirre",1
-"Teemu Pukki","Scott Brown",2
-"Teemu Pukki","Giorgos Samaras",1
-"Teemu Pukki","Anthony Stokes",6
-"Teemu Pukki","Mikael Lustig",2
-"Teemu Pukki","Derk Boerrigter",1
-"Teemu Pukki","Giorgios Samaras",7
-"Teemu Pukki","Beram Kayal",3
-"Teemu Pukki","James Forrest",6
-"Giorgios Samaras","Fraser Forster",1
-"Giorgios Samaras","Adam Matthews",3
-"Giorgios Samaras","Emilio Izaguirre",16
-"Giorgios Samaras","Efe Ambrose",3
-"Giorgios Samaras","Virgil van Dijk",8
-"Giorgios Samaras","Scott Brown",7
-"Giorgios Samaras","Anthony Stokes",12
-"Giorgios Samaras","Kris Commons",6
-"Giorgios Samaras","Charlie Mulgrew",9
-"Giorgios Samaras","Mikael Lustig",6
-"Giorgios Samaras","Teemu Pukki",2
-"Giorgios Samaras","Beram Kayal",3
-"Giorgios Samaras","James Forrest",3
-"Giorgios Samaras","Joe Ledley",4
-"Giorgios Samaras","Amido Baldé",1
-"Beram Kayal","Fraser Forster",3
-"Beram Kayal","Efe Ambrose",7
-"Beram Kayal","Virgil van Dijk",3
-"Beram Kayal","Giorgios Samaras",3
-"Beram Kayal","Anthony Stokes",1
-"Beram Kayal","Kris Commons",2
-"Beram Kayal","Charlie Mulgrew",6
-"Beram Kayal","Mikael Lustig",13
-"Beram Kayal","Teemu Pukki",1
-"Beram Kayal","James Forrest",4
-"Tom Rogic","Charlie Mulgrew",3
-"Tom Rogic","Mikael Lustig",1
+Source,Target,Weight
+"1","3",13
+"1","5",9
+"1","8",3
+"1","9",11
+"1","15",4
+"1","16",4
+"1","21",8
+"1","22",2
+"1","23",9
+"1","49",3
+"1","2",1
+"1","4",13
+"1","10",10
+"1","11",1
+"1","6",1
+"1","20",1
+"1","9",31
+"3","1",8
+"3","5",21
+"3","8",14
+"3","9",13
+"3","15",14
+"3","16",25
+"3","21",60
+"3","22",2
+"3","23",4
+"3","49",7
+"3","4",8
+"3","10",21
+"3","11",18
+"3","20",6
+"3","9",39
+"3","33",5
+"5","1",20
+"5","3",34
+"5","8",9
+"5","9",5
+"5","15",2
+"5","16",11
+"5","21",13
+"5","22",8
+"5","23",7
+"5","49",10
+"5","2",6
+"5","17",1
+"5","4",41
+"5","10",11
+"5","11",2
+"5","6",1
+"5","20",4
+"5","9",15
+"5","33",3
+"8","1",4
+"8","3",15
+"8","5",14
+"8","9",5
+"8","15",14
+"8","16",21
+"8","21",26
+"8","22",7
+"8","23",38
+"8","49",22
+"8","2",30
+"8","4",12
+"8","10",6
+"8","11",1
+"8","6",1
+"8","9",5
+"9","3",7
+"9","5",3
+"9","8",8
+"9","15",7
+"9","16",8
+"9","21",7
+"9","22",1
+"9","23",1
+"9","49",2
+"9","2",5
+"9","17",1
+"9","4",3
+"9","10",4
+"9","6",1
+"15","1",1
+"15","3",12
+"15","5",6
+"15","8",13
+"15","9",13
+"15","16",2
+"15","21",19
+"15","22",1
+"15","23",15
+"15","49",8
+"15","2",7
+"15","4",5
+"15","10",9
+"15","9",6
+"15","33",1
+"16","1",2
+"16","3",33
+"16","5",14
+"16","8",20
+"16","9",8
+"16","15",15
+"16","21",51
+"16","22",6
+"16","23",13
+"16","49",7
+"16","2",4
+"16","4",8
+"16","10",3
+"16","11",4
+"16","9",5
+"16","20",1
+"16","6",3
+"21","1",5
+"21","3",48
+"21","5",20
+"21","8",22
+"21","9",28
+"21","15",18
+"21","16",37
+"21","22",8
+"21","23",29
+"21","49",28
+"21","2",10
+"21","17",1
+"21","4",30
+"21","10",19
+"21","11",7
+"21","6",1
+"21","20",5
+"21","9",18
+"21","33",6
+"21","18",3
+"22","1",3
+"22","3",1
+"22","5",8
+"22","8",6
+"22","9",1
+"22","15",1
+"22","16",4
+"22","21",3
+"22","23",10
+"22","49",2
+"22","2",6
+"23","1",16
+"23","3",4
+"23","5",15
+"23","8",44
+"23","9",6
+"23","15",31
+"23","16",20
+"23","21",50
+"23","22",6
+"23","49",34
+"23","2",12
+"23","4",37
+"23","10",15
+"23","11",7
+"23","6",6
+"23","20",5
+"23","9",7
+"23","33",13
+"23","18",2
+"49","1",1
+"49","3",4
+"49","5",3
+"49","8",13
+"49","9",3
+"49","15",9
+"49","16",13
+"49","21",16
+"49","22",3
+"49","23",32
+"49","2",3
+"49","4",4
+"49","10",7
+"49","11",1
+"49","9",4
+"49","20",5
+"49","33",6
+"2","1",4
+"2","3",2
+"2","5",9
+"2","8",23
+"2","9",3
+"2","15",12
+"2","16",7
+"2","21",5
+"2","22",1
+"2","23",21
+"2","49",9
+"2","4",11
+"2","10",6
+"2","11",6
+"2","6",2
+"2","20",3
+"2","9",2
+"17","15",1
+"4","1",20
+"4","2",18
+"4","8",19
+"4","9",3
+"4","10",7
+"4","15",10
+"4","16",6
+"4","21",27
+"4","23",59
+"4","49",13
+"4","5",26
+"4","11",5
+"4","3",8
+"4","6",3
+"4","20",6
+"4","9",9
+"4","33",7
+"4","18",1
+"10","2",4
+"10","4",2
+"10","8",2
+"10","9",5
+"10","15",17
+"10","16",2
+"10","21",6
+"10","23",9
+"10","49",6
+"10","5",3
+"10","11",2
+"10","3",11
+"10","20",2
+"10","9",10
+"10","33",2
+"11","1",2
+"11","2",7
+"11","4",2
+"11","8",1
+"11","9",1
+"11","10",1
+"11","15",1
+"11","16",5
+"11","21",4
+"11","23",5
+"11","49",1
+"11","3",11
+"11","20",1
+"11","9",2
+"6","2",1
+"6","3",1
+"6","4",3
+"6","5",2
+"6","8",1
+"6","23",4
+"6","11",4
+"6","20",3
+"6","16",1
+"20","2",2
+"20","3",1
+"20","8",2
+"20","9",1
+"20","10",6
+"20","23",2
+"20","11",1
+"20","9",7
+"20","33",3
+"20","49",6
+"9","1",1
+"9","2",3
+"9","3",16
+"9","4",3
+"9","5",8
+"9","8",7
+"9","10",12
+"9","15",6
+"9","21",9
+"9","23",6
+"9","20",2
+"9","33",3
+"9","49",3
+"9","16",4
+"9","17",1
+"33","1",3
+"33","4",7
+"33","5",3
+"33","9",3
+"33","10",1
+"33","15",2
+"33","21",6
+"33","23",13
+"33","20",1
+"33","49",4
+"18","21",3
+"18","23",1

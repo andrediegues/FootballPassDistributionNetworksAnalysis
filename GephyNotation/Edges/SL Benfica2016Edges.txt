@@ -1,351 +1,352 @@
-"Júlio César","Luisão",8
-"Júlio César","Andreas Samaris",6
-"Júlio César","Nicolás Gaitán",2
-"Júlio César","Kostas Mitroglou",4
-"Júlio César","Jonas",6
-"Júlio César","Eliseu",3
-"Júlio César","Gonçalo Guedes",4
-"Júlio César","Talisca",2
-"Júlio César","Jardel",36
-"Júlio César","Nélson Semedo",7
-"Júlio César","Ljubomir Fejsa",1
-"Júlio César","Raúl Jiménez",3
-"Júlio César","André Almeida",4
-"Júlio César","Lisandro López",18
-"Júlio César","Sílvio",2
-"Júlio César","Renato Sanches",2
-"Júlio César","Victor Lindelöf",11
-"Luisão","Júlio César",5
-"Luisão","Andreas Samaris",16
-"Luisão","Kostas Mitroglou",1
-"Luisão","Jonas",1
-"Luisão","Eliseu",1
-"Luisão","Gonçalo Guedes",3
-"Luisão","Talisca",11
-"Luisão","Jardel",22
-"Luisão","Nélson Semedo",19
-"Luisão","Ljubomir Fejsa",2
-"Luisão","Raúl Jiménez",1
-"Luisão","Pizzi",4
-"Luisão","André Almeida",7
-"Andreas Samaris","Júlio César",10
-"Andreas Samaris","Luisão",17
-"Andreas Samaris","Nicolás Gaitán",18
-"Andreas Samaris","Kostas Mitroglou",5
-"Andreas Samaris","Jonas",17
-"Andreas Samaris","Eliseu",17
-"Andreas Samaris","Gonçalo Guedes",10
-"Andreas Samaris","Talisca",5
-"Andreas Samaris","Jardel",23
-"Andreas Samaris","Nélson Semedo",15
-"Andreas Samaris","Ljubomir Fejsa",8
-"Andreas Samaris","Raúl Jiménez",6
-"Andreas Samaris","Pizzi",17
-"Andreas Samaris","André Almeida",14
-"Andreas Samaris","Lisandro López",4
-"Andreas Samaris","Sílvio",8
-"Andreas Samaris","Renato Sanches",19
-"Andreas Samaris","Victor Lindelöf",15
-"Andreas Samaris","Carcela-González",4
-"Andreas Samaris","Ederson",3
-"Nicolás Gaitán","Andreas Samaris",10
-"Nicolás Gaitán","Kostas Mitroglou",12
-"Nicolás Gaitán","Jonas",19
-"Nicolás Gaitán","Eliseu",44
-"Nicolás Gaitán","Gonçalo Guedes",6
-"Nicolás Gaitán","Talisca",5
-"Nicolás Gaitán","Jardel",6
-"Nicolás Gaitán","Ljubomir Fejsa",6
-"Nicolás Gaitán","Raúl Jiménez",7
-"Nicolás Gaitán","Pizzi",17
-"Nicolás Gaitán","André Almeida",1
-"Nicolás Gaitán","Renato Sanches",7
-"Nicolás Gaitán","Victor Lindelöf",4
-"Kostas Mitroglou","Luisão",2
-"Kostas Mitroglou","Andreas Samaris",1
-"Kostas Mitroglou","Nicolás Gaitán",12
-"Kostas Mitroglou","Jonas",9
-"Kostas Mitroglou","Eliseu",6
-"Kostas Mitroglou","Gonçalo Guedes",4
-"Kostas Mitroglou","Talisca",2
-"Kostas Mitroglou","Jardel",1
-"Kostas Mitroglou","Ljubomir Fejsa",3
-"Kostas Mitroglou","Raúl Jiménez",2
-"Kostas Mitroglou","Pizzi",9
-"Kostas Mitroglou","Renato Sanches",7
-"Kostas Mitroglou","Carcela-González",1
-"Jonas","Luisão",4
-"Jonas","Andreas Samaris",13
-"Jonas","Nicolás Gaitán",24
-"Jonas","Kostas Mitroglou",9
-"Jonas","Eliseu",13
-"Jonas","Gonçalo Guedes",11
-"Jonas","Talisca",6
-"Jonas","Jardel",4
-"Jonas","Nélson Semedo",8
-"Jonas","Ljubomir Fejsa",7
-"Jonas","Raúl Jiménez",14
-"Jonas","Pizzi",42
-"Jonas","André Almeida",13
-"Jonas","Lisandro López",5
-"Jonas","Sílvio",3
-"Jonas","Renato Sanches",14
-"Jonas","Victor Lindelöf",4
-"Jonas","Eduardo Salvio",1
-"Eliseu","Júlio César",6
-"Eliseu","Luisão",2
-"Eliseu","Andreas Samaris",13
-"Eliseu","Nicolás Gaitán",67
-"Eliseu","Kostas Mitroglou",9
-"Eliseu","Jonas",23
-"Eliseu","Gonçalo Guedes",13
-"Eliseu","Talisca",8
-"Eliseu","Jardel",36
-"Eliseu","Ljubomir Fejsa",15
-"Eliseu","Raúl Jiménez",12
-"Eliseu","Pizzi",14
-"Eliseu","André Almeida",2
-"Eliseu","Lisandro López",1
-"Eliseu","Renato Sanches",24
-"Eliseu","Bryan Cristante",1
-"Eliseu","Carcela-González",6
-"Eliseu","Victor Lindelöf",6
-"Eliseu","Ederson",6
-"Eliseu","Eduardo Salvio",1
-"Gonçalo Guedes","Luisão",2
-"Gonçalo Guedes","Andreas Samaris",10
-"Gonçalo Guedes","Nicolás Gaitán",4
-"Gonçalo Guedes","Kostas Mitroglou",3
-"Gonçalo Guedes","Jonas",17
-"Gonçalo Guedes","Eliseu",6
-"Gonçalo Guedes","Talisca",7
-"Gonçalo Guedes","Jardel",4
-"Gonçalo Guedes","Nélson Semedo",9
-"Gonçalo Guedes","Ljubomir Fejsa",1
-"Gonçalo Guedes","Raúl Jiménez",7
-"Gonçalo Guedes","Pizzi",7
-"Gonçalo Guedes","André Almeida",3
-"Gonçalo Guedes","Sílvio",1
-"Gonçalo Guedes","Renato Sanches",6
-"Gonçalo Guedes","Bryan Cristante",1
-"Gonçalo Guedes","Carcela-González",1
-"Gonçalo Guedes","Victor Lindelöf",2
-"Talisca","Júlio César",1
-"Talisca","Luisão",5
-"Talisca","Andreas Samaris",12
-"Talisca","Nicolás Gaitán",4
-"Talisca","Kostas Mitroglou",4
-"Talisca","Jonas",4
-"Talisca","Eliseu",5
-"Talisca","Gonçalo Guedes",7
-"Talisca","Jardel",6
-"Talisca","Nélson Semedo",4
-"Talisca","Pizzi",2
-"Talisca","Renato Sanches",5
-"Talisca","André Almeida",4
-"Talisca","Victor Lindelöf",1
-"Talisca","Luka Jović",1
-"Jardel","Júlio César",24
-"Jardel","Luisão",21
-"Jardel","Andreas Samaris",23
-"Jardel","Nicolás Gaitán",16
-"Jardel","Kostas Mitroglou",2
-"Jardel","Jonas",9
-"Jardel","Eliseu",89
-"Jardel","Gonçalo Guedes",7
-"Jardel","Talisca",7
-"Jardel","Nélson Semedo",1
-"Jardel","Ljubomir Fejsa",17
-"Jardel","Raúl Jiménez",5
-"Jardel","Pizzi",12
-"Jardel","André Almeida",3
-"Jardel","Lisandro López",18
-"Jardel","Sílvio",1
-"Jardel","Renato Sanches",42
-"Jardel","Bryan Cristante",1
-"Jardel","Carcela-González",2
-"Jardel","Victor Lindelöf",17
-"Jardel","Ederson",8
-"Jardel","Eduardo Salvio",1
-"Nélson Semedo","Júlio César",1
-"Nélson Semedo","Luisão",8
-"Nélson Semedo","Andreas Samaris",12
-"Nélson Semedo","Nicolás Gaitán",3
-"Nélson Semedo","Kostas Mitroglou",4
-"Nélson Semedo","Jonas",7
-"Nélson Semedo","Eliseu",1
-"Nélson Semedo","Gonçalo Guedes",14
-"Nélson Semedo","Talisca",1
-"Nélson Semedo","Ljubomir Fejsa",5
-"Nélson Semedo","Raúl Jiménez",3
-"Nélson Semedo","Pizzi",12
-"Nélson Semedo","André Almeida",3
-"Nélson Semedo","Renato Sanches",3
-"Ljubomir Fejsa","Júlio César",1
-"Ljubomir Fejsa","Andreas Samaris",5
-"Ljubomir Fejsa","Nicolás Gaitán",5
-"Ljubomir Fejsa","Kostas Mitroglou",6
-"Ljubomir Fejsa","Jonas",11
-"Ljubomir Fejsa","Eliseu",22
-"Ljubomir Fejsa","Gonçalo Guedes",6
-"Ljubomir Fejsa","Talisca",1
-"Ljubomir Fejsa","Jardel",19
-"Ljubomir Fejsa","Nélson Semedo",8
-"Ljubomir Fejsa","Raúl Jiménez",5
-"Ljubomir Fejsa","Pizzi",15
-"Ljubomir Fejsa","André Almeida",21
-"Ljubomir Fejsa","Lisandro López",5
-"Ljubomir Fejsa","Renato Sanches",31
-"Ljubomir Fejsa","Carcela-González",4
-"Ljubomir Fejsa","Ederson",4
-"Ljubomir Fejsa","Victor Lindelöf",9
-"Ljubomir Fejsa","Eduardo Salvio",1
-"Raúl Jiménez","Luisão",1
-"Raúl Jiménez","Andreas Samaris",4
-"Raúl Jiménez","Nicolás Gaitán",7
-"Raúl Jiménez","Kostas Mitroglou",3
-"Raúl Jiménez","Jonas",8
-"Raúl Jiménez","Eliseu",6
-"Raúl Jiménez","Gonçalo Guedes",6
-"Raúl Jiménez","Talisca",2
-"Raúl Jiménez","Jardel",1
-"Raúl Jiménez","Nélson Semedo",7
-"Raúl Jiménez","Pizzi",15
-"Raúl Jiménez","André Almeida",4
-"Raúl Jiménez","Sílvio",1
-"Raúl Jiménez","Renato Sanches",6
-"Raúl Jiménez","Bryan Cristante",1
-"Raúl Jiménez","Carcela-González",4
-"Raúl Jiménez","Eduardo Salvio",3
-"Pizzi","Andreas Samaris",6
-"Pizzi","Nicolás Gaitán",20
-"Pizzi","Kostas Mitroglou",12
-"Pizzi","Jonas",38
-"Pizzi","Eliseu",18
-"Pizzi","Gonçalo Guedes",7
-"Pizzi","Talisca",4
-"Pizzi","Jardel",12
-"Pizzi","Nélson Semedo",14
-"Pizzi","Ljubomir Fejsa",21
-"Pizzi","Raúl Jiménez",8
-"Pizzi","André Almeida",28
-"Pizzi","Lisandro López",6
-"Pizzi","Sílvio",4
-"Pizzi","Renato Sanches",23
-"Pizzi","Bryan Cristante",1
-"Pizzi","Victor Lindelöf",4
-"Pizzi","Ederson",2
-"Pizzi","Eduardo Salvio",6
-"André Almeida","Júlio César",3
-"André Almeida","Luisão",3
-"André Almeida","Andreas Samaris",12
-"André Almeida","Raúl Jiménez",9
-"André Almeida","Nicolás Gaitán",2
-"André Almeida","Jonas",15
-"André Almeida","Eliseu",3
-"André Almeida","Gonçalo Guedes",3
-"André Almeida","Jardel",4
-"André Almeida","Nélson Semedo",6
-"André Almeida","Ljubomir Fejsa",7
-"André Almeida","Kostas Mitroglou",1
-"André Almeida","Pizzi",40
-"André Almeida","Lisandro López",14
-"André Almeida","Renato Sanches",16
-"André Almeida","Carcela-González",2
-"André Almeida","Victor Lindelöf",18
-"André Almeida","Ederson",4
-"André Almeida","Eduardo Salvio",6
-"Lisandro López","Júlio César",9
-"Lisandro López","Andreas Samaris",7
-"Lisandro López","Raúl Jiménez",1
-"Lisandro López","Jonas",3
-"Lisandro López","Eliseu",6
-"Lisandro López","Gonçalo Guedes",2
-"Lisandro López","Pizzi",6
-"Lisandro López","Sílvio",5
-"Lisandro López","Jardel",23
-"Lisandro López","Renato Sanches",16
-"Lisandro López","Bryan Cristante",2
-"Lisandro López","Talisca",1
-"Lisandro López","André Almeida",15
-"Lisandro López","Ljubomir Fejsa",14
-"Lisandro López","Nicolás Gaitán",3
-"Sílvio","Júlio César",1
-"Sílvio","Lisandro López",3
-"Sílvio","Andreas Samaris",7
-"Sílvio","Raúl Jiménez",1
-"Sílvio","Jonas",3
-"Sílvio","Pizzi",6
-"Sílvio","Jardel",1
-"Renato Sanches","Júlio César",2
-"Renato Sanches","Lisandro López",14
-"Renato Sanches","Andreas Samaris",19
-"Renato Sanches","Raúl Jiménez",9
-"Renato Sanches","Jonas",24
-"Renato Sanches","Eliseu",22
-"Renato Sanches","Gonçalo Guedes",9
-"Renato Sanches","Pizzi",30
-"Renato Sanches","Jardel",19
-"Renato Sanches","Bryan Cristante",2
-"Renato Sanches","Talisca",2
-"Renato Sanches","André Almeida",27
-"Renato Sanches","Ljubomir Fejsa",19
-"Renato Sanches","Nicolás Gaitán",28
-"Renato Sanches","Kostas Mitroglou",6
-"Renato Sanches","Carcela-González",5
-"Renato Sanches","Victor Lindelöf",12
-"Renato Sanches","Ederson",1
-"Renato Sanches","Nélson Semedo",2
-"Renato Sanches","Eduardo Salvio",3
-"Bryan Cristante","Lisandro López",2
-"Bryan Cristante","Eliseu",3
-"Bryan Cristante","Pizzi",1
-"Bryan Cristante","Jardel",2
-"Bryan Cristante","Renato Sanches",3
-"Carcela-González","Ljubomir Fejsa",2
-"Carcela-González","Eliseu",3
-"Carcela-González","Gonçalo Guedes",1
-"Carcela-González","Pizzi",1
-"Carcela-González","Jardel",2
-"Carcela-González","André Almeida",2
-"Carcela-González","Renato Sanches",6
-"Carcela-González","Raúl Jiménez",3
-"Carcela-González","Andreas Samaris",2
-"Carcela-González","Victor Lindelöf",1
-"Victor Lindelöf","Júlio César",4
-"Victor Lindelöf","Andreas Samaris",16
-"Victor Lindelöf","Nicolás Gaitán",4
-"Victor Lindelöf","Kostas Mitroglou",3
-"Victor Lindelöf","Jonas",3
-"Victor Lindelöf","Eliseu",12
-"Victor Lindelöf","Pizzi",3
-"Victor Lindelöf","Jardel",32
-"Victor Lindelöf","André Almeida",21
-"Victor Lindelöf","Renato Sanches",14
-"Victor Lindelöf","Carcela-González",1
-"Victor Lindelöf","Ederson",10
-"Victor Lindelöf","Ljubomir Fejsa",7
-"Victor Lindelöf","Gonçalo Guedes",2
-"Ederson","Ljubomir Fejsa",2
-"Ederson","Andreas Samaris",2
-"Ederson","Nicolás Gaitán",3
-"Ederson","Kostas Mitroglou",3
-"Ederson","Victor Lindelöf",13
-"Ederson","Jonas",3
-"Ederson","Eliseu",3
-"Ederson","Pizzi",1
-"Ederson","Renato Sanches",2
-"Ederson","Raúl Jiménez",8
-"Ederson","Eduardo Salvio",1
-"Ederson","Talisca",1
-"Ederson","Jardel",6
-"Ederson","André Almeida",2
-"Ederson","Carcela-González",1
-"Eduardo Salvio","Ljubomir Fejsa",1
-"Eduardo Salvio","Pizzi",4
-"Eduardo Salvio","Nélson Semedo",1
-"Eduardo Salvio","Renato Sanches",3
-"Eduardo Salvio","Raúl Jiménez",4
-"Eduardo Salvio","Talisca",1
-"Eduardo Salvio","Jardel",1
-"Eduardo Salvio","André Almeida",3
+Source,Target,Weight
+"12","4",8
+"12","7",6
+"12","10",2
+"12","11",4
+"12","17",6
+"12","19",3
+"12","20",4
+"12","30",2
+"12","33",36
+"12","50",7
+"12","5",1
+"12","9",3
+"12","34",4
+"12","2",18
+"12","28",2
+"12","85",2
+"12","14",11
+"4","12",5
+"4","7",16
+"4","11",1
+"4","17",1
+"4","19",1
+"4","20",3
+"4","30",11
+"4","33",22
+"4","50",19
+"4","5",2
+"4","9",1
+"4","21",4
+"4","34",7
+"7","12",10
+"7","4",17
+"7","10",18
+"7","11",5
+"7","17",17
+"7","19",17
+"7","20",10
+"7","30",5
+"7","33",23
+"7","50",15
+"7","5",8
+"7","9",6
+"7","21",17
+"7","34",14
+"7","2",4
+"7","28",8
+"7","85",19
+"7","14",15
+"7","39",4
+"7","1",3
+"10","7",10
+"10","11",12
+"10","17",19
+"10","19",44
+"10","20",6
+"10","30",5
+"10","33",6
+"10","5",6
+"10","9",7
+"10","21",17
+"10","34",1
+"10","85",7
+"10","14",4
+"11","4",2
+"11","7",1
+"11","10",12
+"11","17",9
+"11","19",6
+"11","20",4
+"11","30",2
+"11","33",1
+"11","5",3
+"11","9",2
+"11","21",9
+"11","85",7
+"11","39",1
+"17","4",4
+"17","7",13
+"17","10",24
+"17","11",9
+"17","19",13
+"17","20",11
+"17","30",6
+"17","33",4
+"17","50",8
+"17","5",7
+"17","9",14
+"17","21",42
+"17","34",13
+"17","2",5
+"17","28",3
+"17","85",14
+"17","14",4
+"17","18",1
+"19","12",6
+"19","4",2
+"19","7",13
+"19","10",67
+"19","11",9
+"19","17",23
+"19","20",13
+"19","30",8
+"19","33",36
+"19","5",15
+"19","9",12
+"19","21",14
+"19","34",2
+"19","2",1
+"19","85",24
+"19","24",1
+"19","39",6
+"19","14",6
+"19","1",6
+"19","18",1
+"20","4",2
+"20","7",10
+"20","10",4
+"20","11",3
+"20","17",17
+"20","19",6
+"20","30",7
+"20","33",4
+"20","50",9
+"20","5",1
+"20","9",7
+"20","21",7
+"20","34",3
+"20","28",1
+"20","85",6
+"20","24",1
+"20","39",1
+"20","14",2
+"30","12",1
+"30","4",5
+"30","7",12
+"30","10",4
+"30","11",4
+"30","17",4
+"30","19",5
+"30","20",7
+"30","33",6
+"30","50",4
+"30","21",2
+"30","85",5
+"30","34",4
+"30","14",1
+"30","35",1
+"33","12",24
+"33","4",21
+"33","7",23
+"33","10",16
+"33","11",2
+"33","17",9
+"33","19",89
+"33","20",7
+"33","30",7
+"33","50",1
+"33","5",17
+"33","9",5
+"33","21",12
+"33","34",3
+"33","2",18
+"33","28",1
+"33","85",42
+"33","24",1
+"33","39",2
+"33","14",17
+"33","1",8
+"33","18",1
+"50","12",1
+"50","4",8
+"50","7",12
+"50","10",3
+"50","11",4
+"50","17",7
+"50","19",1
+"50","20",14
+"50","30",1
+"50","5",5
+"50","9",3
+"50","21",12
+"50","34",3
+"50","85",3
+"5","12",1
+"5","7",5
+"5","10",5
+"5","11",6
+"5","17",11
+"5","19",22
+"5","20",6
+"5","30",1
+"5","33",19
+"5","50",8
+"5","9",5
+"5","21",15
+"5","34",21
+"5","2",5
+"5","85",31
+"5","39",4
+"5","1",4
+"5","14",9
+"5","18",1
+"9","4",1
+"9","7",4
+"9","10",7
+"9","11",3
+"9","17",8
+"9","19",6
+"9","20",6
+"9","30",2
+"9","33",1
+"9","50",7
+"9","21",15
+"9","34",4
+"9","28",1
+"9","85",6
+"9","24",1
+"9","39",4
+"9","18",3
+"21","7",6
+"21","10",20
+"21","11",12
+"21","17",38
+"21","19",18
+"21","20",7
+"21","30",4
+"21","33",12
+"21","50",14
+"21","5",21
+"21","9",8
+"21","34",28
+"21","2",6
+"21","28",4
+"21","85",23
+"21","24",1
+"21","14",4
+"21","1",2
+"21","18",6
+"34","12",3
+"34","4",3
+"34","7",12
+"34","9",9
+"34","10",2
+"34","17",15
+"34","19",3
+"34","20",3
+"34","33",4
+"34","50",6
+"34","5",7
+"34","11",1
+"34","21",40
+"34","2",14
+"34","85",16
+"34","39",2
+"34","14",18
+"34","1",4
+"34","18",6
+"2","12",9
+"2","7",7
+"2","9",1
+"2","17",3
+"2","19",6
+"2","20",2
+"2","21",6
+"2","28",5
+"2","33",23
+"2","85",16
+"2","24",2
+"2","30",1
+"2","34",15
+"2","5",14
+"2","10",3
+"28","12",1
+"28","2",3
+"28","7",7
+"28","9",1
+"28","17",3
+"28","21",6
+"28","33",1
+"85","12",2
+"85","2",14
+"85","7",19
+"85","9",9
+"85","17",24
+"85","19",22
+"85","20",9
+"85","21",30
+"85","33",19
+"85","24",2
+"85","30",2
+"85","34",27
+"85","5",19
+"85","10",28
+"85","11",6
+"85","39",5
+"85","14",12
+"85","1",1
+"85","50",2
+"85","18",3
+"24","2",2
+"24","19",3
+"24","21",1
+"24","33",2
+"24","85",3
+"39","5",2
+"39","19",3
+"39","20",1
+"39","21",1
+"39","33",2
+"39","34",2
+"39","85",6
+"39","9",3
+"39","7",2
+"39","14",1
+"14","12",4
+"14","7",16
+"14","10",4
+"14","11",3
+"14","17",3
+"14","19",12
+"14","21",3
+"14","33",32
+"14","34",21
+"14","85",14
+"14","39",1
+"14","1",10
+"14","5",7
+"14","20",2
+"1","5",2
+"1","7",2
+"1","10",3
+"1","11",3
+"1","14",13
+"1","17",3
+"1","19",3
+"1","21",1
+"1","85",2
+"1","9",8
+"1","18",1
+"1","30",1
+"1","33",6
+"1","34",2
+"1","39",1
+"18","5",1
+"18","21",4
+"18","50",1
+"18","85",3
+"18","9",4
+"18","30",1
+"18","33",1
+"18","34",3

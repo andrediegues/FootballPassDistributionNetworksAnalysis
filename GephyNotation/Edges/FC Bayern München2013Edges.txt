@@ -1,369 +1,370 @@
-"Manuel Neuer","Dante",52
-"Manuel Neuer","Franck Ribéry",6
-"Manuel Neuer","Javi Martínez",8
-"Manuel Neuer","Arjen Robben",9
-"Manuel Neuer","Claudio Pizarro",1
-"Manuel Neuer","Jérôme Boateng",33
-"Manuel Neuer","Philipp Lahm",24
-"Manuel Neuer","Holger Badstuber",7
-"Manuel Neuer","Bastian Schweinsteiger",27
-"Manuel Neuer","Toni Kroos",6
-"Manuel Neuer","Mario Mandžukić",13
-"Manuel Neuer","Thomas Müller",23
-"Manuel Neuer","Luiz Gustavo",4
-"Manuel Neuer","Xherdan Shaqiri",4
-"Manuel Neuer","David Alaba",24
-"Manuel Neuer","Anatoliy Tymoshchuk",3
-"Manuel Neuer","Mario Gomez",4
-"Manuel Neuer","Daniel Van Buyten",9
-"Manuel Neuer","Rafinha",4
-"Manuel Neuer","Diego Contento",3
-"Dante","Manuel Neuer",50
-"Dante","Franck Ribéry",33
-"Dante","Javi Martínez",38
-"Dante","Arjen Robben",11
-"Dante","Claudio Pizarro",8
-"Dante","Jérôme Boateng",56
-"Dante","Philipp Lahm",39
-"Dante","Holger Badstuber",53
-"Dante","Bastian Schweinsteiger",80
-"Dante","Toni Kroos",41
-"Dante","Mario Mandžukić",9
-"Dante","Thomas Müller",13
-"Dante","Luiz Gustavo",8
-"Dante","Xherdan Shaqiri",4
-"Dante","David Alaba",62
-"Dante","Anatoliy Tymoshchuk",7
-"Dante","Mario Gomez",1
-"Dante","Daniel Van Buyten",26
-"Dante","Rafinha",3
-"Dante","Diego Contento",7
-"Franck Ribéry","Manuel Neuer",5
-"Franck Ribéry","Dante",27
-"Franck Ribéry","Javi Martínez",32
-"Franck Ribéry","Arjen Robben",22
-"Franck Ribéry","Claudio Pizarro",7
-"Franck Ribéry","Jérôme Boateng",21
-"Franck Ribéry","Philipp Lahm",37
-"Franck Ribéry","Holger Badstuber",22
-"Franck Ribéry","Bastian Schweinsteiger",64
-"Franck Ribéry","Toni Kroos",36
-"Franck Ribéry","Mario Mandžukić",19
-"Franck Ribéry","Thomas Müller",35
-"Franck Ribéry","Luiz Gustavo",10
-"Franck Ribéry","Xherdan Shaqiri",5
-"Franck Ribéry","David Alaba",77
-"Franck Ribéry","Anatoliy Tymoshchuk",5
-"Franck Ribéry","Mario Gomez",3
-"Franck Ribéry","Daniel Van Buyten",3
-"Franck Ribéry","Rafinha",4
-"Franck Ribéry","Diego Contento",1
-"Javi Martínez","Manuel Neuer",4
-"Javi Martínez","Dante",38
-"Javi Martínez","Franck Ribéry",42
-"Javi Martínez","Arjen Robben",17
-"Javi Martínez","Claudio Pizarro",4
-"Javi Martínez","Jérôme Boateng",30
-"Javi Martínez","Philipp Lahm",82
-"Javi Martínez","Holger Badstuber",16
-"Javi Martínez","Bastian Schweinsteiger",54
-"Javi Martínez","Toni Kroos",32
-"Javi Martínez","Mario Mandžukić",10
-"Javi Martínez","Thomas Müller",17
-"Javi Martínez","Luiz Gustavo",7
-"Javi Martínez","Xherdan Shaqiri",1
-"Javi Martínez","David Alaba",39
-"Javi Martínez","Anatoliy Tymoshchuk",4
-"Javi Martínez","Mario Gomez",1
-"Javi Martínez","Daniel Van Buyten",11
-"Arjen Robben","Manuel Neuer",3
-"Arjen Robben","Dante",5
-"Arjen Robben","Franck Ribéry",26
-"Arjen Robben","Javi Martínez",16
-"Arjen Robben","Claudio Pizarro",12
-"Arjen Robben","Jérôme Boateng",12
-"Arjen Robben","Philipp Lahm",71
-"Arjen Robben","Holger Badstuber",6
-"Arjen Robben","Bastian Schweinsteiger",25
-"Arjen Robben","Toni Kroos",9
-"Arjen Robben","Mario Mandžukić",15
-"Arjen Robben","Thomas Müller",42
-"Arjen Robben","Luiz Gustavo",10
-"Arjen Robben","David Alaba",11
-"Arjen Robben","Xherdan Shaqiri",2
-"Arjen Robben","Anatoliy Tymoshchuk",1
-"Arjen Robben","Daniel Van Buyten",6
-"Arjen Robben","Mario Gomez",2
-"Arjen Robben","Rafinha",2
-"Claudio Pizarro","Dante",3
-"Claudio Pizarro","Franck Ribéry",9
-"Claudio Pizarro","Javi Martínez",5
-"Claudio Pizarro","Arjen Robben",8
-"Claudio Pizarro","Jérôme Boateng",3
-"Claudio Pizarro","Philipp Lahm",6
-"Claudio Pizarro","Holger Badstuber",1
-"Claudio Pizarro","Bastian Schweinsteiger",7
-"Claudio Pizarro","Toni Kroos",7
-"Claudio Pizarro","Thomas Müller",8
-"Claudio Pizarro","Luiz Gustavo",2
-"Claudio Pizarro","Xherdan Shaqiri",5
-"Claudio Pizarro","David Alaba",4
-"Claudio Pizarro","Anatoliy Tymoshchuk",2
-"Jérôme Boateng","Manuel Neuer",32
-"Jérôme Boateng","Dante",64
-"Jérôme Boateng","Franck Ribéry",17
-"Jérôme Boateng","Javi Martínez",24
-"Jérôme Boateng","Arjen Robben",13
-"Jérôme Boateng","Claudio Pizarro",6
-"Jérôme Boateng","Philipp Lahm",60
-"Jérôme Boateng","Holger Badstuber",8
-"Jérôme Boateng","Bastian Schweinsteiger",26
-"Jérôme Boateng","Toni Kroos",14
-"Jérôme Boateng","Mario Mandžukić",10
-"Jérôme Boateng","Thomas Müller",12
-"Jérôme Boateng","Luiz Gustavo",11
-"Jérôme Boateng","Xherdan Shaqiri",4
-"Jérôme Boateng","David Alaba",10
-"Jérôme Boateng","Anatoliy Tymoshchuk",8
-"Jérôme Boateng","Daniel Van Buyten",12
-"Jérôme Boateng","Rafinha",2
-"Jérôme Boateng","Diego Contento",15
-"Jérôme Boateng","Mario Gomez",2
-"Philipp Lahm","Manuel Neuer",30
-"Philipp Lahm","Dante",53
-"Philipp Lahm","Franck Ribéry",41
-"Philipp Lahm","Javi Martínez",66
-"Philipp Lahm","Arjen Robben",65
-"Philipp Lahm","Claudio Pizarro",10
-"Philipp Lahm","Jérôme Boateng",51
-"Philipp Lahm","Holger Badstuber",6
-"Philipp Lahm","Bastian Schweinsteiger",71
-"Philipp Lahm","Toni Kroos",47
-"Philipp Lahm","Mario Mandžukić",27
-"Philipp Lahm","Thomas Müller",78
-"Philipp Lahm","Luiz Gustavo",21
-"Philipp Lahm","Xherdan Shaqiri",4
-"Philipp Lahm","David Alaba",11
-"Philipp Lahm","Anatoliy Tymoshchuk",3
-"Philipp Lahm","Mario Gomez",1
-"Philipp Lahm","Daniel Van Buyten",35
-"Holger Badstuber","Manuel Neuer",10
-"Holger Badstuber","Dante",48
-"Holger Badstuber","Franck Ribéry",36
-"Holger Badstuber","Javi Martínez",14
-"Holger Badstuber","Arjen Robben",10
-"Holger Badstuber","Claudio Pizarro",1
-"Holger Badstuber","Jérôme Boateng",10
-"Holger Badstuber","Philipp Lahm",9
-"Holger Badstuber","Bastian Schweinsteiger",25
-"Holger Badstuber","Toni Kroos",28
-"Holger Badstuber","Mario Mandžukić",3
-"Holger Badstuber","Thomas Müller",8
-"Holger Badstuber","Luiz Gustavo",8
-"Holger Badstuber","Xherdan Shaqiri",5
-"Holger Badstuber","David Alaba",8
-"Bastian Schweinsteiger","Manuel Neuer",14
-"Bastian Schweinsteiger","Dante",48
-"Bastian Schweinsteiger","Franck Ribéry",74
-"Bastian Schweinsteiger","Javi Martínez",45
-"Bastian Schweinsteiger","Arjen Robben",39
-"Bastian Schweinsteiger","Claudio Pizarro",14
-"Bastian Schweinsteiger","Jérôme Boateng",33
-"Bastian Schweinsteiger","Philipp Lahm",75
-"Bastian Schweinsteiger","Holger Badstuber",18
-"Bastian Schweinsteiger","Toni Kroos",20
-"Bastian Schweinsteiger","Mario Mandžukić",17
-"Bastian Schweinsteiger","Thomas Müller",49
-"Bastian Schweinsteiger","Luiz Gustavo",10
-"Bastian Schweinsteiger","Xherdan Shaqiri",13
-"Bastian Schweinsteiger","David Alaba",62
-"Bastian Schweinsteiger","Anatoliy Tymoshchuk",9
-"Bastian Schweinsteiger","Mario Gomez",5
-"Bastian Schweinsteiger","Daniel Van Buyten",13
-"Bastian Schweinsteiger","Rafinha",4
-"Bastian Schweinsteiger","Diego Contento",9
-"Toni Kroos","Manuel Neuer",2
-"Toni Kroos","Dante",23
-"Toni Kroos","Franck Ribéry",30
-"Toni Kroos","Javi Martínez",32
-"Toni Kroos","Arjen Robben",17
-"Toni Kroos","Claudio Pizarro",10
-"Toni Kroos","Jérôme Boateng",14
-"Toni Kroos","Philipp Lahm",38
-"Toni Kroos","Holger Badstuber",14
-"Toni Kroos","Bastian Schweinsteiger",28
-"Toni Kroos","Mario Mandžukić",13
-"Toni Kroos","Thomas Müller",28
-"Toni Kroos","Luiz Gustavo",12
-"Toni Kroos","Xherdan Shaqiri",6
-"Toni Kroos","David Alaba",18
-"Toni Kroos","Anatoliy Tymoshchuk",5
-"Toni Kroos","Mario Gomez",4
-"Toni Kroos","Daniel Van Buyten",8
-"Toni Kroos","Rafinha",3
-"Toni Kroos","Diego Contento",2
-"Mario Mandžukić","Dante",1
-"Mario Mandžukić","Franck Ribéry",22
-"Mario Mandžukić","Javi Martínez",13
-"Mario Mandžukić","Arjen Robben",20
-"Mario Mandžukić","Jérôme Boateng",1
-"Mario Mandžukić","Philipp Lahm",18
-"Mario Mandžukić","Bastian Schweinsteiger",11
-"Mario Mandžukić","Toni Kroos",8
-"Mario Mandžukić","Thomas Müller",27
-"Mario Mandžukić","Luiz Gustavo",7
-"Mario Mandžukić","Xherdan Shaqiri",2
-"Mario Mandžukić","David Alaba",2
-"Mario Mandžukić","Daniel Van Buyten",2
-"Mario Mandžukić","Anatoliy Tymoshchuk",2
-"Thomas Müller","Manuel Neuer",3
-"Thomas Müller","Dante",7
-"Thomas Müller","Franck Ribéry",29
-"Thomas Müller","Javi Martínez",25
-"Thomas Müller","Arjen Robben",39
-"Thomas Müller","Claudio Pizarro",4
-"Thomas Müller","Jérôme Boateng",8
-"Thomas Müller","Philipp Lahm",45
-"Thomas Müller","Holger Badstuber",6
-"Thomas Müller","Bastian Schweinsteiger",30
-"Thomas Müller","Toni Kroos",21
-"Thomas Müller","Mario Mandžukić",20
-"Thomas Müller","Luiz Gustavo",11
-"Thomas Müller","Xherdan Shaqiri",4
-"Thomas Müller","David Alaba",17
-"Thomas Müller","Anatoliy Tymoshchuk",5
-"Thomas Müller","Mario Gomez",5
-"Thomas Müller","Daniel Van Buyten",3
-"Thomas Müller","Rafinha",8
-"Thomas Müller","Diego Contento",3
-"Luiz Gustavo","Manuel Neuer",3
-"Luiz Gustavo","Dante",17
-"Luiz Gustavo","Franck Ribéry",23
-"Luiz Gustavo","Javi Martínez",9
-"Luiz Gustavo","Arjen Robben",7
-"Luiz Gustavo","Jérôme Boateng",7
-"Luiz Gustavo","Philipp Lahm",25
-"Luiz Gustavo","Holger Badstuber",20
-"Luiz Gustavo","Bastian Schweinsteiger",13
-"Luiz Gustavo","Toni Kroos",10
-"Luiz Gustavo","Mario Mandžukić",6
-"Luiz Gustavo","Thomas Müller",9
-"Luiz Gustavo","Xherdan Shaqiri",4
-"Luiz Gustavo","David Alaba",14
-"Luiz Gustavo","Daniel Van Buyten",9
-"Luiz Gustavo","Rafinha",1
-"Xherdan Shaqiri","Manuel Neuer",1
-"Xherdan Shaqiri","Dante",6
-"Xherdan Shaqiri","Franck Ribéry",4
-"Xherdan Shaqiri","Javi Martínez",3
-"Xherdan Shaqiri","Mario Mandžukić",2
-"Xherdan Shaqiri","Jérôme Boateng",6
-"Xherdan Shaqiri","Philipp Lahm",6
-"Xherdan Shaqiri","Thomas Müller",6
-"Xherdan Shaqiri","Holger Badstuber",5
-"Xherdan Shaqiri","Luiz Gustavo",4
-"Xherdan Shaqiri","Toni Kroos",7
-"Xherdan Shaqiri","Claudio Pizarro",2
-"Xherdan Shaqiri","Bastian Schweinsteiger",13
-"Xherdan Shaqiri","David Alaba",6
-"Xherdan Shaqiri","Arjen Robben",2
-"Xherdan Shaqiri","Anatoliy Tymoshchuk",4
-"Xherdan Shaqiri","Mario Gomez",8
-"Xherdan Shaqiri","Daniel Van Buyten",3
-"Xherdan Shaqiri","Rafinha",5
-"Xherdan Shaqiri","Diego Contento",5
-"David Alaba","Manuel Neuer",13
-"David Alaba","Dante",69
-"David Alaba","Franck Ribéry",118
-"David Alaba","Javi Martínez",30
-"David Alaba","Mario Mandžukić",13
-"David Alaba","Jérôme Boateng",9
-"David Alaba","Philipp Lahm",9
-"David Alaba","Thomas Müller",25
-"David Alaba","Holger Badstuber",8
-"David Alaba","Bastian Schweinsteiger",61
-"David Alaba","Toni Kroos",18
-"David Alaba","Xherdan Shaqiri",4
-"David Alaba","Luiz Gustavo",10
-"David Alaba","Arjen Robben",13
-"David Alaba","Claudio Pizarro",8
-"David Alaba","Anatoliy Tymoshchuk",6
-"David Alaba","Mario Gomez",3
-"David Alaba","Daniel Van Buyten",7
-"David Alaba","Diego Contento",6
-"Anatoliy Tymoshchuk","Manuel Neuer",1
-"Anatoliy Tymoshchuk","Dante",7
-"Anatoliy Tymoshchuk","Franck Ribéry",3
-"Anatoliy Tymoshchuk","Javi Martínez",1
-"Anatoliy Tymoshchuk","Arjen Robben",2
-"Anatoliy Tymoshchuk","Claudio Pizarro",1
-"Anatoliy Tymoshchuk","Jérôme Boateng",13
-"Anatoliy Tymoshchuk","Philipp Lahm",3
-"Anatoliy Tymoshchuk","Thomas Müller",3
-"Anatoliy Tymoshchuk","David Alaba",8
-"Anatoliy Tymoshchuk","Bastian Schweinsteiger",7
-"Anatoliy Tymoshchuk","Xherdan Shaqiri",8
-"Anatoliy Tymoshchuk","Toni Kroos",7
-"Anatoliy Tymoshchuk","Daniel Van Buyten",12
-"Anatoliy Tymoshchuk","Rafinha",20
-"Anatoliy Tymoshchuk","Diego Contento",9
-"Anatoliy Tymoshchuk","Mario Gomez",1
-"Anatoliy Tymoshchuk","Mario Mandžukić",1
-"Mario Gomez","Manuel Neuer",1
-"Mario Gomez","Franck Ribéry",4
-"Mario Gomez","Javi Martínez",1
-"Mario Gomez","Philipp Lahm",1
-"Mario Gomez","Thomas Müller",4
-"Mario Gomez","David Alaba",2
-"Mario Gomez","Bastian Schweinsteiger",5
-"Mario Gomez","Toni Kroos",5
-"Mario Gomez","Xherdan Shaqiri",3
-"Mario Gomez","Rafinha",1
-"Mario Gomez","Jérôme Boateng",2
-"Mario Gomez","Diego Contento",1
-"Mario Gomez","Anatoliy Tymoshchuk",3
-"Mario Gomez","Arjen Robben",2
-"Daniel Van Buyten","Manuel Neuer",26
-"Daniel Van Buyten","Xherdan Shaqiri",4
-"Daniel Van Buyten","Rafinha",13
-"Daniel Van Buyten","Jérôme Boateng",14
-"Daniel Van Buyten","Thomas Müller",15
-"Daniel Van Buyten","Diego Contento",1
-"Daniel Van Buyten","Bastian Schweinsteiger",18
-"Daniel Van Buyten","Mario Gomez",1
-"Daniel Van Buyten","Toni Kroos",6
-"Daniel Van Buyten","Anatoliy Tymoshchuk",12
-"Daniel Van Buyten","Dante",22
-"Daniel Van Buyten","Franck Ribéry",6
-"Daniel Van Buyten","David Alaba",8
-"Daniel Van Buyten","Javi Martínez",13
-"Daniel Van Buyten","Mario Mandžukić",9
-"Daniel Van Buyten","Philipp Lahm",42
-"Daniel Van Buyten","Arjen Robben",7
-"Daniel Van Buyten","Luiz Gustavo",7
-"Rafinha","Manuel Neuer",4
-"Rafinha","Daniel Van Buyten",8
-"Rafinha","Xherdan Shaqiri",11
-"Rafinha","Jérôme Boateng",2
-"Rafinha","Thomas Müller",10
-"Rafinha","Diego Contento",2
-"Rafinha","Bastian Schweinsteiger",6
-"Rafinha","Mario Gomez",3
-"Rafinha","Toni Kroos",3
-"Rafinha","Anatoliy Tymoshchuk",17
-"Rafinha","Dante",5
-"Rafinha","Franck Ribéry",4
-"Rafinha","David Alaba",3
-"Diego Contento","Manuel Neuer",1
-"Diego Contento","Daniel Van Buyten",4
-"Diego Contento","Xherdan Shaqiri",8
-"Diego Contento","Rafinha",1
-"Diego Contento","Jérôme Boateng",5
-"Diego Contento","Thomas Müller",3
-"Diego Contento","Bastian Schweinsteiger",8
-"Diego Contento","Mario Gomez",3
-"Diego Contento","Toni Kroos",8
-"Diego Contento","Anatoliy Tymoshchuk",6
-"Diego Contento","Dante",5
-"Diego Contento","Franck Ribéry",5
-"Diego Contento","David Alaba",7
+Source,Target,Weight
+"1","4",52
+"1","7",6
+"1","8",8
+"1","10",9
+"1","14",1
+"1","17",33
+"1","21",24
+"1","28",7
+"1","31",27
+"1","39",6
+"1","9",13
+"1","25",23
+"1","30",4
+"1","11",4
+"1","27",24
+"1","44",3
+"1","33",4
+"1","5",9
+"1","13",4
+"1","26",3
+"4","1",50
+"4","7",33
+"4","8",38
+"4","10",11
+"4","14",8
+"4","17",56
+"4","21",39
+"4","28",53
+"4","31",80
+"4","39",41
+"4","9",9
+"4","25",13
+"4","30",8
+"4","11",4
+"4","27",62
+"4","44",7
+"4","33",1
+"4","5",26
+"4","13",3
+"4","26",7
+"7","1",5
+"7","4",27
+"7","8",32
+"7","10",22
+"7","14",7
+"7","17",21
+"7","21",37
+"7","28",22
+"7","31",64
+"7","39",36
+"7","9",19
+"7","25",35
+"7","30",10
+"7","11",5
+"7","27",77
+"7","44",5
+"7","33",3
+"7","5",3
+"7","13",4
+"7","26",1
+"8","1",4
+"8","4",38
+"8","7",42
+"8","10",17
+"8","14",4
+"8","17",30
+"8","21",82
+"8","28",16
+"8","31",54
+"8","39",32
+"8","9",10
+"8","25",17
+"8","30",7
+"8","11",1
+"8","27",39
+"8","44",4
+"8","33",1
+"8","5",11
+"10","1",3
+"10","4",5
+"10","7",26
+"10","8",16
+"10","14",12
+"10","17",12
+"10","21",71
+"10","28",6
+"10","31",25
+"10","39",9
+"10","9",15
+"10","25",42
+"10","30",10
+"10","27",11
+"10","11",2
+"10","44",1
+"10","5",6
+"10","33",2
+"10","13",2
+"14","4",3
+"14","7",9
+"14","8",5
+"14","10",8
+"14","17",3
+"14","21",6
+"14","28",1
+"14","31",7
+"14","39",7
+"14","25",8
+"14","30",2
+"14","11",5
+"14","27",4
+"14","44",2
+"17","1",32
+"17","4",64
+"17","7",17
+"17","8",24
+"17","10",13
+"17","14",6
+"17","21",60
+"17","28",8
+"17","31",26
+"17","39",14
+"17","9",10
+"17","25",12
+"17","30",11
+"17","11",4
+"17","27",10
+"17","44",8
+"17","5",12
+"17","13",2
+"17","26",15
+"17","33",2
+"21","1",30
+"21","4",53
+"21","7",41
+"21","8",66
+"21","10",65
+"21","14",10
+"21","17",51
+"21","28",6
+"21","31",71
+"21","39",47
+"21","9",27
+"21","25",78
+"21","30",21
+"21","11",4
+"21","27",11
+"21","44",3
+"21","33",1
+"21","5",35
+"28","1",10
+"28","4",48
+"28","7",36
+"28","8",14
+"28","10",10
+"28","14",1
+"28","17",10
+"28","21",9
+"28","31",25
+"28","39",28
+"28","9",3
+"28","25",8
+"28","30",8
+"28","11",5
+"28","27",8
+"31","1",14
+"31","4",48
+"31","7",74
+"31","8",45
+"31","10",39
+"31","14",14
+"31","17",33
+"31","21",75
+"31","28",18
+"31","39",20
+"31","9",17
+"31","25",49
+"31","30",10
+"31","11",13
+"31","27",62
+"31","44",9
+"31","33",5
+"31","5",13
+"31","13",4
+"31","26",9
+"39","1",2
+"39","4",23
+"39","7",30
+"39","8",32
+"39","10",17
+"39","14",10
+"39","17",14
+"39","21",38
+"39","28",14
+"39","31",28
+"39","9",13
+"39","25",28
+"39","30",12
+"39","11",6
+"39","27",18
+"39","44",5
+"39","33",4
+"39","5",8
+"39","13",3
+"39","26",2
+"9","4",1
+"9","7",22
+"9","8",13
+"9","10",20
+"9","17",1
+"9","21",18
+"9","31",11
+"9","39",8
+"9","25",27
+"9","30",7
+"9","11",2
+"9","27",2
+"9","5",2
+"9","44",2
+"25","1",3
+"25","4",7
+"25","7",29
+"25","8",25
+"25","10",39
+"25","14",4
+"25","17",8
+"25","21",45
+"25","28",6
+"25","31",30
+"25","39",21
+"25","9",20
+"25","30",11
+"25","11",4
+"25","27",17
+"25","44",5
+"25","33",5
+"25","5",3
+"25","13",8
+"25","26",3
+"30","1",3
+"30","4",17
+"30","7",23
+"30","8",9
+"30","10",7
+"30","17",7
+"30","21",25
+"30","28",20
+"30","31",13
+"30","39",10
+"30","9",6
+"30","25",9
+"30","11",4
+"30","27",14
+"30","5",9
+"30","13",1
+"11","1",1
+"11","4",6
+"11","7",4
+"11","8",3
+"11","9",2
+"11","17",6
+"11","21",6
+"11","25",6
+"11","28",5
+"11","30",4
+"11","39",7
+"11","14",2
+"11","31",13
+"11","27",6
+"11","10",2
+"11","44",4
+"11","33",8
+"11","5",3
+"11","13",5
+"11","26",5
+"27","1",13
+"27","4",69
+"27","7",118
+"27","8",30
+"27","9",13
+"27","17",9
+"27","21",9
+"27","25",25
+"27","28",8
+"27","31",61
+"27","39",18
+"27","11",4
+"27","30",10
+"27","10",13
+"27","14",8
+"27","44",6
+"27","33",3
+"27","5",7
+"27","26",6
+"44","1",1
+"44","4",7
+"44","7",3
+"44","8",1
+"44","10",2
+"44","14",1
+"44","17",13
+"44","21",3
+"44","25",3
+"44","27",8
+"44","31",7
+"44","11",8
+"44","39",7
+"44","5",12
+"44","13",20
+"44","26",9
+"44","33",1
+"44","9",1
+"33","1",1
+"33","7",4
+"33","8",1
+"33","21",1
+"33","25",4
+"33","27",2
+"33","31",5
+"33","39",5
+"33","11",3
+"33","13",1
+"33","17",2
+"33","26",1
+"33","44",3
+"33","10",2
+"5","1",26
+"5","11",4
+"5","13",13
+"5","17",14
+"5","25",15
+"5","26",1
+"5","31",18
+"5","33",1
+"5","39",6
+"5","44",12
+"5","4",22
+"5","7",6
+"5","27",8
+"5","8",13
+"5","9",9
+"5","21",42
+"5","10",7
+"5","30",7
+"13","1",4
+"13","5",8
+"13","11",11
+"13","17",2
+"13","25",10
+"13","26",2
+"13","31",6
+"13","33",3
+"13","39",3
+"13","44",17
+"13","4",5
+"13","7",4
+"13","27",3
+"26","1",1
+"26","5",4
+"26","11",8
+"26","13",1
+"26","17",5
+"26","25",3
+"26","31",8
+"26","33",3
+"26","39",8
+"26","44",6
+"26","4",5
+"26","7",5
+"26","27",7

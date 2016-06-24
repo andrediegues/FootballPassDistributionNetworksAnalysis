@@ -1,375 +1,376 @@
-"Fabiano","Danilo",16
-"Fabiano","Bruno Martins Indi",36
-"Fabiano","Maicon",56
-"Fabiano","Casemiro",8
-"Fabiano","Yacine Brahimi",2
-"Fabiano","Jackson Martínez",10
-"Fabiano","Hector Herrera",4
-"Fabiano","Alex Sandro",12
-"Fabiano","Óliver Torres",3
-"Fabiano","Rúben Neves",1
-"Fabiano","Ricardo Quaresma",3
-"Fabiano","Cristian Tello",1
-"Fabiano","Diego Reyes",8
-"Fabiano","Ricardo",1
-"Fabiano","Vincent Aboubakar",2
-"Fabiano","Iván Marcano",24
-"Fabiano","Hernâni",1
-"Danilo","Fabiano",13
-"Danilo","Bruno Martins Indi",28
-"Danilo","Maicon",54
-"Danilo","Casemiro",25
-"Danilo","Yacine Brahimi",19
-"Danilo","Jackson Martínez",19
-"Danilo","Hector Herrera",64
-"Danilo","Alex Sandro",13
-"Danilo","Óliver Torres",30
-"Danilo","Rúben Neves",10
-"Danilo","Ricardo Quaresma",46
-"Danilo","Cristian Tello",42
-"Danilo","Evandro",6
-"Danilo","Diego Reyes",1
-"Danilo","Ricardo",1
-"Danilo","Adrián López",2
-"Danilo","Vincent Aboubakar",4
-"Danilo","Iván Marcano",18
-"Danilo","Juan Quintero",13
-"Bruno Martins Indi","Fabiano",49
-"Bruno Martins Indi","Danilo",24
-"Bruno Martins Indi","Maicon",52
-"Bruno Martins Indi","Casemiro",61
-"Bruno Martins Indi","Yacine Brahimi",37
-"Bruno Martins Indi","Jackson Martínez",11
-"Bruno Martins Indi","Hector Herrera",45
-"Bruno Martins Indi","Alex Sandro",103
-"Bruno Martins Indi","Óliver Torres",27
-"Bruno Martins Indi","Rúben Neves",15
-"Bruno Martins Indi","Ricardo Quaresma",5
-"Bruno Martins Indi","Cristian Tello",3
-"Bruno Martins Indi","Evandro",18
-"Bruno Martins Indi","Diego Reyes",9
-"Bruno Martins Indi","Ricardo",1
-"Bruno Martins Indi","Vincent Aboubakar",4
-"Bruno Martins Indi","Iván Marcano",52
-"Bruno Martins Indi","Juan Quintero",7
-"Bruno Martins Indi","Andrés Fernández",4
-"Bruno Martins Indi","Kelvin",2
-"Bruno Martins Indi","Hernâni",1
-"Maicon","Fabiano",27
-"Maicon","Danilo",108
-"Maicon","Bruno Martins Indi",78
-"Maicon","Casemiro",29
-"Maicon","Yacine Brahimi",16
-"Maicon","Jackson Martínez",18
-"Maicon","Hector Herrera",40
-"Maicon","Alex Sandro",30
-"Maicon","Óliver Torres",19
-"Maicon","Rúben Neves",12
-"Maicon","Ricardo Quaresma",7
-"Maicon","Cristian Tello",13
-"Maicon","Evandro",7
-"Maicon","Diego Reyes",4
-"Maicon","Ricardo",24
-"Maicon","Adrián López",2
-"Maicon","Vincent Aboubakar",6
-"Maicon","Iván Marcano",23
-"Maicon","Juan Quintero",10
-"Maicon","Andrés Fernández",3
-"Casemiro","Fabiano",12
-"Casemiro","Danilo",59
-"Casemiro","Bruno Martins Indi",46
-"Casemiro","Maicon",38
-"Casemiro","Yacine Brahimi",32
-"Casemiro","Jackson Martínez",15
-"Casemiro","Hector Herrera",53
-"Casemiro","Alex Sandro",36
-"Casemiro","Óliver Torres",32
-"Casemiro","Rúben Neves",22
-"Casemiro","Ricardo Quaresma",14
-"Casemiro","Cristian Tello",11
-"Casemiro","Evandro",24
-"Casemiro","Diego Reyes",2
-"Casemiro","Ricardo",2
-"Casemiro","Adrián López",7
-"Casemiro","Vincent Aboubakar",3
-"Casemiro","Juan Quintero",9
-"Casemiro","Iván Marcano",30
-"Casemiro","Hernâni",1
-"Yacine Brahimi","Fabiano",4
-"Yacine Brahimi","Danilo",20
-"Yacine Brahimi","Bruno Martins Indi",31
-"Yacine Brahimi","Maicon",10
-"Yacine Brahimi","Casemiro",34
-"Yacine Brahimi","Jackson Martínez",24
-"Yacine Brahimi","Hector Herrera",45
-"Yacine Brahimi","Alex Sandro",31
-"Yacine Brahimi","Óliver Torres",47
-"Yacine Brahimi","Rúben Neves",9
-"Yacine Brahimi","Ricardo Quaresma",6
-"Yacine Brahimi","Cristian Tello",7
-"Yacine Brahimi","Evandro",12
-"Yacine Brahimi","Diego Reyes",2
-"Yacine Brahimi","Ricardo",3
-"Yacine Brahimi","Adrián López",1
-"Yacine Brahimi","Vincent Aboubakar",5
-"Yacine Brahimi","Iván Marcano",8
-"Yacine Brahimi","Juan Quintero",3
-"Jackson Martínez","Danilo",11
-"Jackson Martínez","Bruno Martins Indi",7
-"Jackson Martínez","Maicon",1
-"Jackson Martínez","Casemiro",7
-"Jackson Martínez","Yacine Brahimi",16
-"Jackson Martínez","Hector Herrera",41
-"Jackson Martínez","Alex Sandro",7
-"Jackson Martínez","Óliver Torres",26
-"Jackson Martínez","Rúben Neves",8
-"Jackson Martínez","Ricardo Quaresma",18
-"Jackson Martínez","Cristian Tello",5
-"Jackson Martínez","Evandro",2
-"Jackson Martínez","Diego Reyes",1
-"Jackson Martínez","Ricardo",3
-"Jackson Martínez","Adrián López",2
-"Jackson Martínez","Juan Quintero",3
-"Hector Herrera","Fabiano",9
-"Hector Herrera","Danilo",71
-"Hector Herrera","Bruno Martins Indi",36
-"Hector Herrera","Maicon",31
-"Hector Herrera","Casemiro",45
-"Hector Herrera","Yacine Brahimi",44
-"Hector Herrera","Jackson Martínez",35
-"Hector Herrera","Alex Sandro",30
-"Hector Herrera","Óliver Torres",54
-"Hector Herrera","Rúben Neves",17
-"Hector Herrera","Ricardo Quaresma",23
-"Hector Herrera","Cristian Tello",38
-"Hector Herrera","Evandro",18
-"Hector Herrera","Diego Reyes",1
-"Hector Herrera","Ricardo",9
-"Hector Herrera","Adrián López",2
-"Hector Herrera","Vincent Aboubakar",8
-"Hector Herrera","Iván Marcano",17
-"Hector Herrera","Juan Quintero",23
-"Hector Herrera","Hernâni",1
-"Alex Sandro","Fabiano",23
-"Alex Sandro","Danilo",8
-"Alex Sandro","Bruno Martins Indi",52
-"Alex Sandro","Maicon",25
-"Alex Sandro","Casemiro",27
-"Alex Sandro","Yacine Brahimi",70
-"Alex Sandro","Jackson Martínez",15
-"Alex Sandro","Hector Herrera",44
-"Alex Sandro","Óliver Torres",48
-"Alex Sandro","Rúben Neves",15
-"Alex Sandro","Ricardo Quaresma",13
-"Alex Sandro","Cristian Tello",18
-"Alex Sandro","Evandro",13
-"Alex Sandro","Ricardo",1
-"Alex Sandro","Adrián López",16
-"Alex Sandro","Vincent Aboubakar",11
-"Alex Sandro","Iván Marcano",30
-"Alex Sandro","Juan Quintero",9
-"Alex Sandro","Andrés Fernández",4
-"Alex Sandro","Kelvin",10
-"Óliver Torres","Fabiano",1
-"Óliver Torres","Danilo",38
-"Óliver Torres","Bruno Martins Indi",26
-"Óliver Torres","Maicon",15
-"Óliver Torres","Casemiro",37
-"Óliver Torres","Yacine Brahimi",52
-"Óliver Torres","Jackson Martínez",20
-"Óliver Torres","Hector Herrera",58
-"Óliver Torres","Alex Sandro",57
-"Óliver Torres","Rúben Neves",9
-"Óliver Torres","Ricardo Quaresma",10
-"Óliver Torres","Cristian Tello",13
-"Óliver Torres","Evandro",5
-"Óliver Torres","Diego Reyes",1
-"Óliver Torres","Ricardo",4
-"Óliver Torres","Iván Marcano",23
-"Óliver Torres","Vincent Aboubakar",5
-"Óliver Torres","Juan Quintero",6
-"Óliver Torres","Adrián López",2
-"Óliver Torres","Kelvin",2
-"Rúben Neves","Fabiano",3
-"Rúben Neves","Danilo",12
-"Rúben Neves","Bruno Martins Indi",10
-"Rúben Neves","Maicon",17
-"Rúben Neves","Casemiro",17
-"Rúben Neves","Yacine Brahimi",14
-"Rúben Neves","Jackson Martínez",8
-"Rúben Neves","Hector Herrera",16
-"Rúben Neves","Alex Sandro",11
-"Rúben Neves","Óliver Torres",7
-"Rúben Neves","Ricardo Quaresma",10
-"Rúben Neves","Cristian Tello",3
-"Rúben Neves","Evandro",10
-"Rúben Neves","Ricardo",6
-"Rúben Neves","Juan Quintero",7
-"Rúben Neves","Adrián López",4
-"Rúben Neves","Andrés Fernández",2
-"Rúben Neves","Iván Marcano",19
-"Rúben Neves","Vincent Aboubakar",2
-"Ricardo Quaresma","Fabiano",1
-"Ricardo Quaresma","Danilo",38
-"Ricardo Quaresma","Bruno Martins Indi",4
-"Ricardo Quaresma","Maicon",12
-"Ricardo Quaresma","Casemiro",10
-"Ricardo Quaresma","Yacine Brahimi",5
-"Ricardo Quaresma","Jackson Martínez",1
-"Ricardo Quaresma","Hector Herrera",8
-"Ricardo Quaresma","Alex Sandro",11
-"Ricardo Quaresma","Óliver Torres",7
-"Ricardo Quaresma","Rúben Neves",5
-"Ricardo Quaresma","Cristian Tello",2
-"Ricardo Quaresma","Evandro",9
-"Ricardo Quaresma","Adrián López",5
-"Ricardo Quaresma","Vincent Aboubakar",3
-"Ricardo Quaresma","Juan Quintero",6
-"Ricardo Quaresma","Iván Marcano",7
-"Ricardo Quaresma","Ricardo",8
-"Ricardo Quaresma","Diego Reyes",1
-"Cristian Tello","Danilo",34
-"Cristian Tello","Bruno Martins Indi",4
-"Cristian Tello","Maicon",2
-"Cristian Tello","Casemiro",10
-"Cristian Tello","Yacine Brahimi",6
-"Cristian Tello","Jackson Martínez",9
-"Cristian Tello","Hector Herrera",44
-"Cristian Tello","Alex Sandro",13
-"Cristian Tello","Óliver Torres",9
-"Cristian Tello","Rúben Neves",4
-"Cristian Tello","Ricardo Quaresma",1
-"Cristian Tello","Evandro",1
-"Cristian Tello","Vincent Aboubakar",3
-"Cristian Tello","Iván Marcano",4
-"Cristian Tello","Juan Quintero",10
-"Evandro","Danilo",5
-"Evandro","Bruno Martins Indi",15
-"Evandro","Maicon",7
-"Evandro","Casemiro",23
-"Evandro","Yacine Brahimi",11
-"Evandro","Jackson Martínez",1
-"Evandro","Hector Herrera",16
-"Evandro","Alex Sandro",19
-"Evandro","Óliver Torres",7
-"Evandro","Rúben Neves",4
-"Evandro","Ricardo Quaresma",18
-"Evandro","Cristian Tello",3
-"Evandro","Diego Reyes",2
-"Evandro","Ricardo",7
-"Evandro","Adrián López",6
-"Evandro","Vincent Aboubakar",7
-"Evandro","Iván Marcano",17
-"Evandro","Juan Quintero",7
-"Evandro","Kelvin",6
-"Diego Reyes","Fabiano",7
-"Diego Reyes","Danilo",2
-"Diego Reyes","Bruno Martins Indi",9
-"Diego Reyes","Maicon",6
-"Diego Reyes","Casemiro",4
-"Diego Reyes","Hector Herrera",4
-"Diego Reyes","Óliver Torres",1
-"Diego Reyes","Rúben Neves",2
-"Diego Reyes","Ricardo Quaresma",1
-"Ricardo","Danilo",1
-"Ricardo","Bruno Martins Indi",4
-"Ricardo","Maicon",18
-"Ricardo","Casemiro",2
-"Ricardo","Jackson Martínez",3
-"Ricardo","Hector Herrera",8
-"Ricardo","Alex Sandro",2
-"Ricardo","Óliver Torres",6
-"Ricardo","Rúben Neves",8
-"Ricardo","Evandro",12
-"Ricardo","Andrés Fernández",3
-"Ricardo","Iván Marcano",2
-"Ricardo","Ricardo Quaresma",16
-"Ricardo","Juan Quintero",9
-"Ricardo","Adrián López",2
-"Ricardo","Vincent Aboubakar",1
-"Ricardo","Kelvin",2
-"Adrián López","Danilo",6
-"Adrián López","Bruno Martins Indi",3
-"Adrián López","Maicon",1
-"Adrián López","Casemiro",2
-"Adrián López","Ricardo Quaresma",4
-"Adrián López","Yacine Brahimi",3
-"Adrián López","Hector Herrera",6
-"Adrián López","Alex Sandro",11
-"Adrián López","Evandro",3
-"Adrián López","Vincent Aboubakar",2
-"Adrián López","Óliver Torres",3
-"Adrián López","Juan Quintero",2
-"Adrián López","Rúben Neves",3
-"Adrián López","Ricardo",2
-"Vincent Aboubakar","Fabiano",1
-"Vincent Aboubakar","Danilo",2
-"Vincent Aboubakar","Casemiro",1
-"Vincent Aboubakar","Ricardo Quaresma",9
-"Vincent Aboubakar","Yacine Brahimi",4
-"Vincent Aboubakar","Hector Herrera",5
-"Vincent Aboubakar","Adrián López",3
-"Vincent Aboubakar","Alex Sandro",6
-"Vincent Aboubakar","Cristian Tello",11
-"Vincent Aboubakar","Evandro",5
-"Vincent Aboubakar","Iván Marcano",2
-"Vincent Aboubakar","Óliver Torres",2
-"Vincent Aboubakar","Juan Quintero",2
-"Vincent Aboubakar","Ricardo",4
-"Vincent Aboubakar","Rúben Neves",4
-"Iván Marcano","Fabiano",16
-"Iván Marcano","Danilo",5
-"Iván Marcano","Bruno Martins Indi",38
-"Iván Marcano","Maicon",42
-"Iván Marcano","Yacine Brahimi",16
-"Iván Marcano","Cristian Tello",2
-"Iván Marcano","Hector Herrera",15
-"Iván Marcano","Alex Sandro",68
-"Iván Marcano","Óliver Torres",36
-"Iván Marcano","Vincent Aboubakar",9
-"Iván Marcano","Jackson Martínez",12
-"Iván Marcano","Juan Quintero",7
-"Iván Marcano","Adrián López",1
-"Iván Marcano","Casemiro",22
-"Iván Marcano","Ricardo Quaresma",1
-"Iván Marcano","Andrés Fernández",7
-"Iván Marcano","Evandro",9
-"Iván Marcano","Ricardo",4
-"Iván Marcano","Rúben Neves",17
-"Iván Marcano","Kelvin",2
-"Juan Quintero","Danilo",14
-"Juan Quintero","Bruno Martins Indi",3
-"Juan Quintero","Maicon",4
-"Juan Quintero","Iván Marcano",4
-"Juan Quintero","Yacine Brahimi",2
-"Juan Quintero","Cristian Tello",8
-"Juan Quintero","Hector Herrera",13
-"Juan Quintero","Alex Sandro",13
-"Juan Quintero","Óliver Torres",4
-"Juan Quintero","Vincent Aboubakar",8
-"Juan Quintero","Jackson Martínez",2
-"Juan Quintero","Adrián López",7
-"Juan Quintero","Casemiro",8
-"Juan Quintero","Ricardo Quaresma",8
-"Juan Quintero","Rúben Neves",3
-"Juan Quintero","Evandro",8
-"Juan Quintero","Ricardo",8
-"Andrés Fernández","Maicon",7
-"Andrés Fernández","Iván Marcano",8
-"Andrés Fernández","Juan Quintero",1
-"Andrés Fernández","Evandro",1
-"Andrés Fernández","Alex Sandro",2
-"Andrés Fernández","Rúben Neves",1
-"Andrés Fernández","Bruno Martins Indi",3
-"Kelvin","Maicon",1
-"Kelvin","Iván Marcano",2
-"Kelvin","Ricardo Quaresma",1
-"Kelvin","Juan Quintero",1
-"Kelvin","Evandro",3
-"Kelvin","Ricardo",3
-"Kelvin","Alex Sandro",3
-"Kelvin","Vincent Aboubakar",3
-"Kelvin","Bruno Martins Indi",1
-"Kelvin","Óliver Torres",3
-"Hernâni","Hector Herrera",2
-"Hernâni","Rúben Neves",1
+Source,Target,Weight
+"12","2",16
+"12","3",36
+"12","4",56
+"12","6",8
+"12","8",2
+"12","9",10
+"12","16",4
+"12","26",12
+"12","30",3
+"12","36",1
+"12","7",3
+"12","11",1
+"12","13",8
+"12","21",1
+"12","99",2
+"12","5",24
+"12","17",1
+"2","12",13
+"2","3",28
+"2","4",54
+"2","6",25
+"2","8",19
+"2","9",19
+"2","16",64
+"2","26",13
+"2","30",30
+"2","36",10
+"2","7",46
+"2","11",42
+"2","15",6
+"2","13",1
+"2","21",1
+"2","18",2
+"2","99",4
+"2","5",18
+"2","10",13
+"3","12",49
+"3","2",24
+"3","4",52
+"3","6",61
+"3","8",37
+"3","9",11
+"3","16",45
+"3","26",103
+"3","30",27
+"3","36",15
+"3","7",5
+"3","11",3
+"3","15",18
+"3","13",9
+"3","21",1
+"3","99",4
+"3","5",52
+"3","10",7
+"3","25",4
+"3","28",2
+"3","17",1
+"4","12",27
+"4","2",108
+"4","3",78
+"4","6",29
+"4","8",16
+"4","9",18
+"4","16",40
+"4","26",30
+"4","30",19
+"4","36",12
+"4","7",7
+"4","11",13
+"4","15",7
+"4","13",4
+"4","21",24
+"4","18",2
+"4","99",6
+"4","5",23
+"4","10",10
+"4","25",3
+"6","12",12
+"6","2",59
+"6","3",46
+"6","4",38
+"6","8",32
+"6","9",15
+"6","16",53
+"6","26",36
+"6","30",32
+"6","36",22
+"6","7",14
+"6","11",11
+"6","15",24
+"6","13",2
+"6","21",2
+"6","18",7
+"6","99",3
+"6","10",9
+"6","5",30
+"6","17",1
+"8","12",4
+"8","2",20
+"8","3",31
+"8","4",10
+"8","6",34
+"8","9",24
+"8","16",45
+"8","26",31
+"8","30",47
+"8","36",9
+"8","7",6
+"8","11",7
+"8","15",12
+"8","13",2
+"8","21",3
+"8","18",1
+"8","99",5
+"8","5",8
+"8","10",3
+"9","2",11
+"9","3",7
+"9","4",1
+"9","6",7
+"9","8",16
+"9","16",41
+"9","26",7
+"9","30",26
+"9","36",8
+"9","7",18
+"9","11",5
+"9","15",2
+"9","13",1
+"9","21",3
+"9","18",2
+"9","10",3
+"16","12",9
+"16","2",71
+"16","3",36
+"16","4",31
+"16","6",45
+"16","8",44
+"16","9",35
+"16","26",30
+"16","30",54
+"16","36",17
+"16","7",23
+"16","11",38
+"16","15",18
+"16","13",1
+"16","21",9
+"16","18",2
+"16","99",8
+"16","5",17
+"16","10",23
+"16","17",1
+"26","12",23
+"26","2",8
+"26","3",52
+"26","4",25
+"26","6",27
+"26","8",70
+"26","9",15
+"26","16",44
+"26","30",48
+"26","36",15
+"26","7",13
+"26","11",18
+"26","15",13
+"26","21",1
+"26","18",16
+"26","99",11
+"26","5",30
+"26","10",9
+"26","25",4
+"26","28",10
+"30","12",1
+"30","2",38
+"30","3",26
+"30","4",15
+"30","6",37
+"30","8",52
+"30","9",20
+"30","16",58
+"30","26",57
+"30","36",9
+"30","7",10
+"30","11",13
+"30","15",5
+"30","13",1
+"30","21",4
+"30","5",23
+"30","99",5
+"30","10",6
+"30","18",2
+"30","28",2
+"36","12",3
+"36","2",12
+"36","3",10
+"36","4",17
+"36","6",17
+"36","8",14
+"36","9",8
+"36","16",16
+"36","26",11
+"36","30",7
+"36","7",10
+"36","11",3
+"36","15",10
+"36","21",6
+"36","10",7
+"36","18",4
+"36","25",2
+"36","5",19
+"36","99",2
+"7","12",1
+"7","2",38
+"7","3",4
+"7","4",12
+"7","6",10
+"7","8",5
+"7","9",1
+"7","16",8
+"7","26",11
+"7","30",7
+"7","36",5
+"7","11",2
+"7","15",9
+"7","18",5
+"7","99",3
+"7","10",6
+"7","5",7
+"7","21",8
+"7","13",1
+"11","2",34
+"11","3",4
+"11","4",2
+"11","6",10
+"11","8",6
+"11","9",9
+"11","16",44
+"11","26",13
+"11","30",9
+"11","36",4
+"11","7",1
+"11","15",1
+"11","99",3
+"11","5",4
+"11","10",10
+"15","2",5
+"15","3",15
+"15","4",7
+"15","6",23
+"15","8",11
+"15","9",1
+"15","16",16
+"15","26",19
+"15","30",7
+"15","36",4
+"15","7",18
+"15","11",3
+"15","13",2
+"15","21",7
+"15","18",6
+"15","99",7
+"15","5",17
+"15","10",7
+"15","28",6
+"13","12",7
+"13","2",2
+"13","3",9
+"13","4",6
+"13","6",4
+"13","16",4
+"13","30",1
+"13","36",2
+"13","7",1
+"21","2",1
+"21","3",4
+"21","4",18
+"21","6",2
+"21","9",3
+"21","16",8
+"21","26",2
+"21","30",6
+"21","36",8
+"21","15",12
+"21","25",3
+"21","5",2
+"21","7",16
+"21","10",9
+"21","18",2
+"21","99",1
+"21","28",2
+"18","2",6
+"18","3",3
+"18","4",1
+"18","6",2
+"18","7",4
+"18","8",3
+"18","16",6
+"18","26",11
+"18","15",3
+"18","99",2
+"18","30",3
+"18","10",2
+"18","36",3
+"18","21",2
+"99","12",1
+"99","2",2
+"99","6",1
+"99","7",9
+"99","8",4
+"99","16",5
+"99","18",3
+"99","26",6
+"99","11",11
+"99","15",5
+"99","5",2
+"99","30",2
+"99","10",2
+"99","21",4
+"99","36",4
+"5","12",16
+"5","2",5
+"5","3",38
+"5","4",42
+"5","8",16
+"5","11",2
+"5","16",15
+"5","26",68
+"5","30",36
+"5","99",9
+"5","9",12
+"5","10",7
+"5","18",1
+"5","6",22
+"5","7",1
+"5","25",7
+"5","15",9
+"5","21",4
+"5","36",17
+"5","28",2
+"10","2",14
+"10","3",3
+"10","4",4
+"10","5",4
+"10","8",2
+"10","11",8
+"10","16",13
+"10","26",13
+"10","30",4
+"10","99",8
+"10","9",2
+"10","18",7
+"10","6",8
+"10","7",8
+"10","36",3
+"10","15",8
+"10","21",8
+"25","4",7
+"25","5",8
+"25","10",1
+"25","15",1
+"25","26",2
+"25","36",1
+"25","3",3
+"28","4",1
+"28","5",2
+"28","7",1
+"28","10",1
+"28","15",3
+"28","21",3
+"28","26",3
+"28","99",3
+"28","3",1
+"28","30",3
+"17","16",2
+"17","36",1

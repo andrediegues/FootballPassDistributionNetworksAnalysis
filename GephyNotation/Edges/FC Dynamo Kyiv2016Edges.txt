@@ -1,279 +1,280 @@
-"Olexandr Rybka","Danilo Silva",3
-"Olexandr Rybka","Aleksandar Dragovic",8
-"Olexandr Rybka","Denys Garmash",2
-"Olexandr Rybka","Derlis González",1
-"Olexandr Rybka","Yevhen Khacheridi",6
-"Danilo Silva","Olexandr Rybka",2
-"Danilo Silva","Miguel Veloso",7
-"Danilo Silva","Aleksandar Dragovic",5
-"Danilo Silva","Júnior Moraes",5
-"Danilo Silva","Serhiy Rybalka",6
-"Danilo Silva","Denys Garmash",10
-"Danilo Silva","Derlis González",5
-"Danilo Silva","Yevhen Khacheridi",26
-"Danilo Silva","Artem Kravets",1
-"Danilo Silva","Vitaliy Buyalskiy",1
-"Danilo Silva","Younes Belhanda",4
-"Danilo Silva","Olexandr Shovkovskiy",7
-"Danilo Silva","Andriy Yarmolenko",24
-"Danilo Silva","Serhiy Sydorchuk",5
-"Danilo Silva","Domagoj Vida",2
-"Danilo Silva","Łukasz Teodorczyk",1
-"Miguel Veloso","Danilo Silva",5
-"Miguel Veloso","Antunes",15
-"Miguel Veloso","Aleksandar Dragovic",22
-"Miguel Veloso","Júnior Moraes",3
-"Miguel Veloso","Serhiy Rybalka",9
-"Miguel Veloso","Denys Garmash",11
-"Miguel Veloso","Oleh Gusev",5
-"Miguel Veloso","Derlis González",5
-"Miguel Veloso","Yevhen Khacheridi",18
-"Miguel Veloso","Vitaliy Buyalskiy",12
-"Miguel Veloso","Younes Belhanda",1
-"Miguel Veloso","Andriy Yarmolenko",8
-"Miguel Veloso","Domagoj Vida",22
-"Miguel Veloso","Yevhen Makarenko",2
-"Miguel Veloso","Olexandr Yakovenko",1
-"Miguel Veloso","Serhiy Sydorchuk",3
-"Antunes","Olexandr Rybka",4
-"Antunes","Miguel Veloso",8
-"Antunes","Aleksandar Dragovic",20
-"Antunes","Júnior Moraes",1
-"Antunes","Serhiy Rybalka",2
-"Antunes","Denys Garmash",10
-"Antunes","Oleh Gusev",13
-"Antunes","Derlis González",9
-"Antunes","Yevhen Khacheridi",5
-"Antunes","Artem Kravets",2
-"Antunes","Vitaliy Buyalskiy",9
-"Antunes","Younes Belhanda",1
-"Antunes","Olexandr Shovkovskiy",3
-"Antunes","Andriy Yarmolenko",7
-"Antunes","Serhiy Sydorchuk",2
-"Antunes","Domagoj Vida",1
-"Antunes","Olexandr Yakovenko",3
-"Aleksandar Dragovic","Olexandr Rybka",10
-"Aleksandar Dragovic","Danilo Silva",4
-"Aleksandar Dragovic","Miguel Veloso",26
-"Aleksandar Dragovic","Antunes",43
-"Aleksandar Dragovic","Júnior Moraes",4
-"Aleksandar Dragovic","Serhiy Rybalka",34
-"Aleksandar Dragovic","Denys Garmash",9
-"Aleksandar Dragovic","Oleh Gusev",8
-"Aleksandar Dragovic","Derlis González",20
-"Aleksandar Dragovic","Yevhen Khacheridi",52
-"Aleksandar Dragovic","Artem Kravets",3
-"Aleksandar Dragovic","Vitaliy Buyalskiy",11
-"Aleksandar Dragovic","Olexandr Shovkovskiy",48
-"Aleksandar Dragovic","Andriy Yarmolenko",9
-"Aleksandar Dragovic","Serhiy Sydorchuk",5
-"Aleksandar Dragovic","Domagoj Vida",30
-"Aleksandar Dragovic","Łukasz Teodorczyk",1
-"Aleksandar Dragovic","Yevhen Makarenko",4
-"Aleksandar Dragovic","Olexandr Yakovenko",3
-"Júnior Moraes","Miguel Veloso",3
-"Júnior Moraes","Antunes",2
-"Júnior Moraes","Aleksandar Dragovic",2
-"Júnior Moraes","Serhiy Rybalka",1
-"Júnior Moraes","Denys Garmash",7
-"Júnior Moraes","Derlis González",8
-"Júnior Moraes","Vitaliy Buyalskiy",4
-"Júnior Moraes","Younes Belhanda",1
-"Júnior Moraes","Andriy Yarmolenko",6
-"Júnior Moraes","Serhiy Sydorchuk",1
-"Júnior Moraes","Domagoj Vida",1
-"Júnior Moraes","Yevhen Makarenko",2
-"Serhiy Rybalka","Danilo Silva",24
-"Serhiy Rybalka","Miguel Veloso",12
-"Serhiy Rybalka","Antunes",15
-"Serhiy Rybalka","Aleksandar Dragovic",41
-"Serhiy Rybalka","Denys Garmash",25
-"Serhiy Rybalka","Oleh Gusev",2
-"Serhiy Rybalka","Derlis González",9
-"Serhiy Rybalka","Yevhen Khacheridi",24
-"Serhiy Rybalka","Artem Kravets",2
-"Serhiy Rybalka","Vitaliy Buyalskiy",17
-"Serhiy Rybalka","Younes Belhanda",2
-"Serhiy Rybalka","Olexandr Shovkovskiy",7
-"Serhiy Rybalka","Andriy Yarmolenko",23
-"Serhiy Rybalka","Serhiy Sydorchuk",8
-"Serhiy Rybalka","Domagoj Vida",13
-"Serhiy Rybalka","Łukasz Teodorczyk",3
-"Serhiy Rybalka","Yevhen Makarenko",1
-"Denys Garmash","Olexandr Rybka",1
-"Denys Garmash","Danilo Silva",9
-"Denys Garmash","Miguel Veloso",9
-"Denys Garmash","Antunes",7
-"Denys Garmash","Aleksandar Dragovic",10
-"Denys Garmash","Júnior Moraes",10
-"Denys Garmash","Serhiy Rybalka",12
-"Denys Garmash","Oleh Gusev",5
-"Denys Garmash","Derlis González",6
-"Denys Garmash","Yevhen Khacheridi",17
-"Denys Garmash","Vitaliy Buyalskiy",7
-"Denys Garmash","Younes Belhanda",2
-"Denys Garmash","Olexandr Shovkovskiy",1
-"Denys Garmash","Andriy Yarmolenko",12
-"Denys Garmash","Serhiy Sydorchuk",6
-"Denys Garmash","Domagoj Vida",6
-"Denys Garmash","Łukasz Teodorczyk",2
-"Oleh Gusev","Miguel Veloso",4
-"Oleh Gusev","Antunes",10
-"Oleh Gusev","Aleksandar Dragovic",3
-"Oleh Gusev","Júnior Moraes",2
-"Oleh Gusev","Serhiy Rybalka",3
-"Oleh Gusev","Denys Garmash",7
-"Oleh Gusev","Yevhen Khacheridi",2
-"Oleh Gusev","Vitaliy Buyalskiy",2
-"Oleh Gusev","Andriy Yarmolenko",1
-"Oleh Gusev","Łukasz Teodorczyk",1
-"Derlis González","Danilo Silva",4
-"Derlis González","Miguel Veloso",5
-"Derlis González","Antunes",4
-"Derlis González","Aleksandar Dragovic",9
-"Derlis González","Júnior Moraes",5
-"Derlis González","Serhiy Rybalka",12
-"Derlis González","Denys Garmash",8
-"Derlis González","Oleh Gusev",1
-"Derlis González","Yevhen Khacheridi",3
-"Derlis González","Artem Kravets",5
-"Derlis González","Vitaliy Buyalskiy",11
-"Derlis González","Andriy Yarmolenko",5
-"Derlis González","Serhiy Sydorchuk",9
-"Derlis González","Domagoj Vida",13
-"Derlis González","Łukasz Teodorczyk",2
-"Derlis González","Yevhen Makarenko",2
-"Yevhen Khacheridi","Olexandr Rybka",8
-"Yevhen Khacheridi","Danilo Silva",23
-"Yevhen Khacheridi","Miguel Veloso",18
-"Yevhen Khacheridi","Antunes",8
-"Yevhen Khacheridi","Aleksandar Dragovic",75
-"Yevhen Khacheridi","Júnior Moraes",1
-"Yevhen Khacheridi","Serhiy Rybalka",49
-"Yevhen Khacheridi","Denys Garmash",13
-"Yevhen Khacheridi","Derlis González",9
-"Yevhen Khacheridi","Artem Kravets",2
-"Yevhen Khacheridi","Vitaliy Buyalskiy",12
-"Yevhen Khacheridi","Olexandr Shovkovskiy",24
-"Yevhen Khacheridi","Andriy Yarmolenko",21
-"Yevhen Khacheridi","Serhiy Sydorchuk",11
-"Yevhen Khacheridi","Domagoj Vida",26
-"Yevhen Khacheridi","Yevhen Makarenko",2
-"Yevhen Khacheridi","Olexandr Yakovenko",3
-"Artem Kravets","Antunes",1
-"Artem Kravets","Aleksandar Dragovic",2
-"Artem Kravets","Denys Garmash",1
-"Artem Kravets","Derlis González",2
-"Artem Kravets","Vitaliy Buyalskiy",4
-"Artem Kravets","Andriy Yarmolenko",4
-"Artem Kravets","Serhiy Sydorchuk",3
-"Artem Kravets","Domagoj Vida",2
-"Vitaliy Buyalskiy","Danilo Silva",5
-"Vitaliy Buyalskiy","Miguel Veloso",6
-"Vitaliy Buyalskiy","Antunes",13
-"Vitaliy Buyalskiy","Aleksandar Dragovic",16
-"Vitaliy Buyalskiy","Júnior Moraes",1
-"Vitaliy Buyalskiy","Serhiy Rybalka",7
-"Vitaliy Buyalskiy","Denys Garmash",2
-"Vitaliy Buyalskiy","Oleh Gusev",2
-"Vitaliy Buyalskiy","Derlis González",9
-"Vitaliy Buyalskiy","Yevhen Khacheridi",5
-"Vitaliy Buyalskiy","Artem Kravets",3
-"Vitaliy Buyalskiy","Younes Belhanda",2
-"Vitaliy Buyalskiy","Andriy Yarmolenko",14
-"Vitaliy Buyalskiy","Serhiy Sydorchuk",3
-"Vitaliy Buyalskiy","Domagoj Vida",17
-"Vitaliy Buyalskiy","Łukasz Teodorczyk",5
-"Vitaliy Buyalskiy","Yevhen Makarenko",2
-"Vitaliy Buyalskiy","Olexandr Yakovenko",1
-"Younes Belhanda","Danilo Silva",4
-"Younes Belhanda","Antunes",2
-"Younes Belhanda","Júnior Moraes",1
-"Younes Belhanda","Serhiy Rybalka",2
-"Younes Belhanda","Denys Garmash",2
-"Younes Belhanda","Yevhen Khacheridi",1
-"Younes Belhanda","Artem Kravets",1
-"Younes Belhanda","Vitaliy Buyalskiy",4
-"Younes Belhanda","Andriy Yarmolenko",1
-"Olexandr Shovkovskiy","Danilo Silva",7
-"Olexandr Shovkovskiy","Aleksandar Dragovic",48
-"Olexandr Shovkovskiy","Andriy Yarmolenko",9
-"Olexandr Shovkovskiy","Serhiy Sydorchuk",3
-"Olexandr Shovkovskiy","Serhiy Rybalka",16
-"Olexandr Shovkovskiy","Artem Kravets",2
-"Olexandr Shovkovskiy","Domagoj Vida",11
-"Olexandr Shovkovskiy","Derlis González",3
-"Olexandr Shovkovskiy","Vitaliy Buyalskiy",2
-"Olexandr Shovkovskiy","Yevhen Khacheridi",29
-"Olexandr Shovkovskiy","Júnior Moraes",3
-"Olexandr Shovkovskiy","Denys Garmash",4
-"Olexandr Shovkovskiy","Antunes",6
-"Olexandr Shovkovskiy","Younes Belhanda",1
-"Olexandr Shovkovskiy","Łukasz Teodorczyk",2
-"Olexandr Shovkovskiy","Miguel Veloso",4
-"Andriy Yarmolenko","Olexandr Shovkovskiy",1
-"Andriy Yarmolenko","Danilo Silva",27
-"Andriy Yarmolenko","Aleksandar Dragovic",9
-"Andriy Yarmolenko","Serhiy Sydorchuk",10
-"Andriy Yarmolenko","Serhiy Rybalka",14
-"Andriy Yarmolenko","Artem Kravets",1
-"Andriy Yarmolenko","Domagoj Vida",25
-"Andriy Yarmolenko","Derlis González",11
-"Andriy Yarmolenko","Vitaliy Buyalskiy",9
-"Andriy Yarmolenko","Yevhen Khacheridi",15
-"Andriy Yarmolenko","Júnior Moraes",5
-"Andriy Yarmolenko","Denys Garmash",12
-"Andriy Yarmolenko","Antunes",3
-"Andriy Yarmolenko","Łukasz Teodorczyk",1
-"Andriy Yarmolenko","Miguel Veloso",13
-"Andriy Yarmolenko","Oleh Gusev",2
-"Andriy Yarmolenko","Olexandr Yakovenko",2
-"Serhiy Sydorchuk","Olexandr Shovkovskiy",1
-"Serhiy Sydorchuk","Danilo Silva",9
-"Serhiy Sydorchuk","Aleksandar Dragovic",5
-"Serhiy Sydorchuk","Andriy Yarmolenko",15
-"Serhiy Sydorchuk","Serhiy Rybalka",6
-"Serhiy Sydorchuk","Artem Kravets",4
-"Serhiy Sydorchuk","Domagoj Vida",12
-"Serhiy Sydorchuk","Derlis González",5
-"Serhiy Sydorchuk","Vitaliy Buyalskiy",2
-"Serhiy Sydorchuk","Yevhen Khacheridi",8
-"Serhiy Sydorchuk","Júnior Moraes",3
-"Serhiy Sydorchuk","Denys Garmash",2
-"Serhiy Sydorchuk","Antunes",2
-"Serhiy Sydorchuk","Younes Belhanda",1
-"Serhiy Sydorchuk","Miguel Veloso",1
-"Serhiy Sydorchuk","Olexandr Yakovenko",1
-"Domagoj Vida","Olexandr Shovkovskiy",7
-"Domagoj Vida","Aleksandar Dragovic",20
-"Domagoj Vida","Andriy Yarmolenko",40
-"Domagoj Vida","Serhiy Sydorchuk",10
-"Domagoj Vida","Serhiy Rybalka",3
-"Domagoj Vida","Artem Kravets",4
-"Domagoj Vida","Derlis González",30
-"Domagoj Vida","Vitaliy Buyalskiy",12
-"Domagoj Vida","Yevhen Khacheridi",14
-"Domagoj Vida","Denys Garmash",6
-"Domagoj Vida","Łukasz Teodorczyk",1
-"Domagoj Vida","Miguel Veloso",17
-"Domagoj Vida","Olexandr Yakovenko",2
-"Łukasz Teodorczyk","Aleksandar Dragovic",1
-"Łukasz Teodorczyk","Andriy Yarmolenko",1
-"Łukasz Teodorczyk","Serhiy Rybalka",2
-"Łukasz Teodorczyk","Vitaliy Buyalskiy",4
-"Łukasz Teodorczyk","Younes Belhanda",2
-"Łukasz Teodorczyk","Miguel Veloso",1
-"Łukasz Teodorczyk","Oleh Gusev",1
-"Yevhen Makarenko","Aleksandar Dragovic",2
-"Yevhen Makarenko","Serhiy Rybalka",2
-"Yevhen Makarenko","Derlis González",4
-"Yevhen Makarenko","Vitaliy Buyalskiy",2
-"Yevhen Makarenko","Miguel Veloso",1
-"Yevhen Makarenko","Júnior Moraes",1
-"Olexandr Yakovenko","Olexandr Shovkovskiy",1
-"Olexandr Yakovenko","Miguel Veloso",1
-"Olexandr Yakovenko","Antunes",5
-"Olexandr Yakovenko","Aleksandar Dragovic",2
-"Olexandr Yakovenko","Andriy Yarmolenko",3
-"Olexandr Yakovenko","Domagoj Vida",2
-"Olexandr Yakovenko","Yevhen Khacheridi",1
+Source,Target,Weight
+"23","2",3
+"23","6",8
+"23","19",2
+"23","25",1
+"23","34",6
+"2","23",2
+"2","4",7
+"2","6",5
+"2","11",5
+"2","17",6
+"2","19",10
+"2","25",5
+"2","34",26
+"2","22",1
+"2","29",1
+"2","90",4
+"2","1",7
+"2","10",24
+"2","16",5
+"2","24",2
+"2","91",1
+"4","2",5
+"4","5",15
+"4","6",22
+"4","11",3
+"4","17",9
+"4","19",11
+"4","20",5
+"4","25",5
+"4","34",18
+"4","29",12
+"4","90",1
+"4","10",8
+"4","24",22
+"4","27",2
+"4","7",1
+"4","16",3
+"5","23",4
+"5","4",8
+"5","6",20
+"5","11",1
+"5","17",2
+"5","19",10
+"5","20",13
+"5","25",9
+"5","34",5
+"5","22",2
+"5","29",9
+"5","90",1
+"5","1",3
+"5","10",7
+"5","16",2
+"5","24",1
+"5","7",3
+"6","23",10
+"6","2",4
+"6","4",26
+"6","5",43
+"6","11",4
+"6","17",34
+"6","19",9
+"6","20",8
+"6","25",20
+"6","34",52
+"6","22",3
+"6","29",11
+"6","1",48
+"6","10",9
+"6","16",5
+"6","24",30
+"6","91",1
+"6","27",4
+"6","7",3
+"11","4",3
+"11","5",2
+"11","6",2
+"11","17",1
+"11","19",7
+"11","25",8
+"11","29",4
+"11","90",1
+"11","10",6
+"11","16",1
+"11","24",1
+"11","27",2
+"17","2",24
+"17","4",12
+"17","5",15
+"17","6",41
+"17","19",25
+"17","20",2
+"17","25",9
+"17","34",24
+"17","22",2
+"17","29",17
+"17","90",2
+"17","1",7
+"17","10",23
+"17","16",8
+"17","24",13
+"17","91",3
+"17","27",1
+"19","23",1
+"19","2",9
+"19","4",9
+"19","5",7
+"19","6",10
+"19","11",10
+"19","17",12
+"19","20",5
+"19","25",6
+"19","34",17
+"19","29",7
+"19","90",2
+"19","1",1
+"19","10",12
+"19","16",6
+"19","24",6
+"19","91",2
+"20","4",4
+"20","5",10
+"20","6",3
+"20","11",2
+"20","17",3
+"20","19",7
+"20","34",2
+"20","29",2
+"20","10",1
+"20","91",1
+"25","2",4
+"25","4",5
+"25","5",4
+"25","6",9
+"25","11",5
+"25","17",12
+"25","19",8
+"25","20",1
+"25","34",3
+"25","22",5
+"25","29",11
+"25","10",5
+"25","16",9
+"25","24",13
+"25","91",2
+"25","27",2
+"34","23",8
+"34","2",23
+"34","4",18
+"34","5",8
+"34","6",75
+"34","11",1
+"34","17",49
+"34","19",13
+"34","25",9
+"34","22",2
+"34","29",12
+"34","1",24
+"34","10",21
+"34","16",11
+"34","24",26
+"34","27",2
+"34","7",3
+"22","5",1
+"22","6",2
+"22","19",1
+"22","25",2
+"22","29",4
+"22","10",4
+"22","16",3
+"22","24",2
+"29","2",5
+"29","4",6
+"29","5",13
+"29","6",16
+"29","11",1
+"29","17",7
+"29","19",2
+"29","20",2
+"29","25",9
+"29","34",5
+"29","22",3
+"29","90",2
+"29","10",14
+"29","16",3
+"29","24",17
+"29","91",5
+"29","27",2
+"29","7",1
+"90","2",4
+"90","5",2
+"90","11",1
+"90","17",2
+"90","19",2
+"90","34",1
+"90","22",1
+"90","29",4
+"90","10",1
+"1","2",7
+"1","6",48
+"1","10",9
+"1","16",3
+"1","17",16
+"1","22",2
+"1","24",11
+"1","25",3
+"1","29",2
+"1","34",29
+"1","11",3
+"1","19",4
+"1","5",6
+"1","90",1
+"1","91",2
+"1","4",4
+"10","1",1
+"10","2",27
+"10","6",9
+"10","16",10
+"10","17",14
+"10","22",1
+"10","24",25
+"10","25",11
+"10","29",9
+"10","34",15
+"10","11",5
+"10","19",12
+"10","5",3
+"10","91",1
+"10","4",13
+"10","20",2
+"10","7",2
+"16","1",1
+"16","2",9
+"16","6",5
+"16","10",15
+"16","17",6
+"16","22",4
+"16","24",12
+"16","25",5
+"16","29",2
+"16","34",8
+"16","11",3
+"16","19",2
+"16","5",2
+"16","90",1
+"16","4",1
+"16","7",1
+"24","1",7
+"24","6",20
+"24","10",40
+"24","16",10
+"24","17",3
+"24","22",4
+"24","25",30
+"24","29",12
+"24","34",14
+"24","19",6
+"24","91",1
+"24","4",17
+"24","7",2
+"91","6",1
+"91","10",1
+"91","17",2
+"91","29",4
+"91","90",2
+"91","4",1
+"91","20",1
+"27","6",2
+"27","17",2
+"27","25",4
+"27","29",2
+"27","4",1
+"27","11",1
+"7","1",1
+"7","4",1
+"7","5",5
+"7","6",2
+"7","10",3
+"7","24",2
+"7","34",1

@@ -1,344 +1,345 @@
-"Petr Čech","Branislav Ivanović",30
-"Petr Čech","Ashley Cole",2
-"Petr Čech","David Luiz",11
-"Petr Čech","Frank Lampard",2
-"Petr Čech","Oscar",4
-"Petr Čech","Marco van Ginkel",2
-"Petr Čech","Eden Hazard",6
-"Petr Čech","Willian",8
-"Petr Čech","Gary Cahill",20
-"Petr Čech","Samuel Eto'o",6
-"Petr Čech","Juan Mata",1
-"Petr Čech","John Obi Mikel",1
-"Petr Čech","Demba Ba",4
-"Petr Čech","Ramires",6
-"Petr Čech","Fernando Torres",6
-"Petr Čech","André Schürrle",6
-"Petr Čech","John Terry",18
-"Petr Čech","César Azpilicueta",11
-"Petr Čech","Kevin De Bruyne",1
-"Branislav Ivanović","Petr Čech",8
-"Branislav Ivanović","Ashley Cole",8
-"Branislav Ivanović","David Luiz",64
-"Branislav Ivanović","Frank Lampard",19
-"Branislav Ivanović","Oscar",40
-"Branislav Ivanović","Marco van Ginkel",6
-"Branislav Ivanović","Eden Hazard",40
-"Branislav Ivanović","Willian",61
-"Branislav Ivanović","Gary Cahill",62
-"Branislav Ivanović","Samuel Eto'o",19
-"Branislav Ivanović","Juan Mata",14
-"Branislav Ivanović","John Obi Mikel",19
-"Branislav Ivanović","Demba Ba",6
-"Branislav Ivanović","Ramires",32
-"Branislav Ivanović","Fernando Torres",12
-"Branislav Ivanović","André Schürrle",12
-"Branislav Ivanović","John Terry",14
-"Branislav Ivanović","César Azpilicueta",12
-"Branislav Ivanović","Mark Schwarzer",3
-"Ashley Cole","Petr Čech",4
-"Ashley Cole","Branislav Ivanović",5
-"Ashley Cole","David Luiz",25
-"Ashley Cole","Frank Lampard",30
-"Ashley Cole","Oscar",16
-"Ashley Cole","Marco van Ginkel",3
-"Ashley Cole","Eden Hazard",39
-"Ashley Cole","Willian",21
-"Ashley Cole","Gary Cahill",8
-"Ashley Cole","Samuel Eto'o",11
-"Ashley Cole","Juan Mata",8
-"Ashley Cole","John Obi Mikel",10
-"Ashley Cole","Demba Ba",5
-"Ashley Cole","Ramires",6
-"Ashley Cole","Fernando Torres",9
-"Ashley Cole","André Schürrle",28
-"Ashley Cole","John Terry",38
-"Ashley Cole","César Azpilicueta",2
-"Ashley Cole","Mark Schwarzer",3
-"Ashley Cole","Kevin De Bruyne",7
-"David Luiz","Petr Čech",17
-"David Luiz","Branislav Ivanović",52
-"David Luiz","Ashley Cole",39
-"David Luiz","Frank Lampard",25
-"David Luiz","Oscar",12
-"David Luiz","Marco van Ginkel",5
-"David Luiz","Eden Hazard",24
-"David Luiz","Willian",24
-"David Luiz","Gary Cahill",37
-"David Luiz","Samuel Eto'o",6
-"David Luiz","Juan Mata",6
-"David Luiz","John Obi Mikel",15
-"David Luiz","Demba Ba",7
-"David Luiz","Ramires",8
-"David Luiz","Fernando Torres",9
-"David Luiz","André Schürrle",8
-"David Luiz","John Terry",51
-"David Luiz","César Azpilicueta",16
-"David Luiz","Mark Schwarzer",4
-"David Luiz","Kevin De Bruyne",1
-"Frank Lampard","Petr Čech",6
-"Frank Lampard","Branislav Ivanović",26
-"Frank Lampard","Ashley Cole",24
-"Frank Lampard","David Luiz",38
-"Frank Lampard","Oscar",26
-"Frank Lampard","Marco van Ginkel",6
-"Frank Lampard","Eden Hazard",17
-"Frank Lampard","Willian",20
-"Frank Lampard","Gary Cahill",21
-"Frank Lampard","Samuel Eto'o",12
-"Frank Lampard","Juan Mata",7
-"Frank Lampard","John Obi Mikel",13
-"Frank Lampard","Demba Ba",5
-"Frank Lampard","Ramires",21
-"Frank Lampard","Fernando Torres",13
-"Frank Lampard","André Schürrle",21
-"Frank Lampard","John Terry",33
-"Frank Lampard","César Azpilicueta",21
-"Frank Lampard","Kevin De Bruyne",1
-"Oscar","Petr Čech",3
-"Oscar","Branislav Ivanović",33
-"Oscar","Ashley Cole",11
-"Oscar","David Luiz",14
-"Oscar","Frank Lampard",25
-"Oscar","Marco van Ginkel",5
-"Oscar","Eden Hazard",16
-"Oscar","Willian",22
-"Oscar","Gary Cahill",9
-"Oscar","Samuel Eto'o",13
-"Oscar","Juan Mata",9
-"Oscar","John Obi Mikel",8
-"Oscar","Demba Ba",3
-"Oscar","Ramires",23
-"Oscar","Fernando Torres",5
-"Oscar","André Schürrle",15
-"Oscar","John Terry",8
-"Oscar","César Azpilicueta",15
-"Marco van Ginkel","Petr Čech",2
-"Marco van Ginkel","Branislav Ivanović",12
-"Marco van Ginkel","Ashley Cole",2
-"Marco van Ginkel","David Luiz",7
-"Marco van Ginkel","Frank Lampard",3
-"Marco van Ginkel","Oscar",6
-"Marco van Ginkel","Eden Hazard",2
-"Marco van Ginkel","Willian",5
-"Marco van Ginkel","Gary Cahill",12
-"Marco van Ginkel","Samuel Eto'o",1
-"Eden Hazard","Branislav Ivanović",20
-"Eden Hazard","Ashley Cole",20
-"Eden Hazard","David Luiz",19
-"Eden Hazard","Frank Lampard",16
-"Eden Hazard","Oscar",26
-"Eden Hazard","Willian",28
-"Eden Hazard","Gary Cahill",6
-"Eden Hazard","Samuel Eto'o",6
-"Eden Hazard","Juan Mata",4
-"Eden Hazard","John Obi Mikel",5
-"Eden Hazard","Demba Ba",5
-"Eden Hazard","Ramires",17
-"Eden Hazard","Fernando Torres",23
-"Eden Hazard","André Schürrle",10
-"Eden Hazard","John Terry",9
-"Eden Hazard","César Azpilicueta",15
-"Eden Hazard","Kevin De Bruyne",1
-"Willian","Petr Čech",1
-"Willian","Branislav Ivanović",44
-"Willian","Ashley Cole",13
-"Willian","David Luiz",21
-"Willian","Frank Lampard",24
-"Willian","Oscar",28
-"Willian","Marco van Ginkel",5
-"Willian","Eden Hazard",25
-"Willian","Gary Cahill",13
-"Willian","Samuel Eto'o",10
-"Willian","John Obi Mikel",19
-"Willian","Demba Ba",4
-"Willian","Ramires",27
-"Willian","Fernando Torres",6
-"Willian","André Schürrle",18
-"Willian","John Terry",10
-"Willian","César Azpilicueta",13
-"Gary Cahill","Petr Čech",21
-"Gary Cahill","Branislav Ivanović",70
-"Gary Cahill","Ashley Cole",8
-"Gary Cahill","David Luiz",35
-"Gary Cahill","Frank Lampard",19
-"Gary Cahill","Oscar",15
-"Gary Cahill","Marco van Ginkel",9
-"Gary Cahill","Eden Hazard",15
-"Gary Cahill","Willian",21
-"Gary Cahill","Samuel Eto'o",6
-"Gary Cahill","John Obi Mikel",24
-"Gary Cahill","Demba Ba",3
-"Gary Cahill","Ramires",22
-"Gary Cahill","Fernando Torres",1
-"Gary Cahill","André Schürrle",4
-"Gary Cahill","John Terry",66
-"Gary Cahill","César Azpilicueta",15
-"Gary Cahill","Mark Schwarzer",2
-"Samuel Eto'o","Branislav Ivanović",6
-"Samuel Eto'o","Ashley Cole",5
-"Samuel Eto'o","David Luiz",2
-"Samuel Eto'o","Frank Lampard",6
-"Samuel Eto'o","Oscar",18
-"Samuel Eto'o","Marco van Ginkel",1
-"Samuel Eto'o","Eden Hazard",5
-"Samuel Eto'o","Willian",12
-"Samuel Eto'o","Gary Cahill",6
-"Samuel Eto'o","Juan Mata",3
-"Samuel Eto'o","John Obi Mikel",9
-"Samuel Eto'o","Demba Ba",1
-"Samuel Eto'o","Ramires",6
-"Samuel Eto'o","Fernando Torres",1
-"Samuel Eto'o","André Schürrle",11
-"Samuel Eto'o","John Terry",3
-"Samuel Eto'o","César Azpilicueta",6
-"Juan Mata","Branislav Ivanović",7
-"Juan Mata","Ashley Cole",10
-"Juan Mata","Frank Lampard",13
-"Juan Mata","Oscar",13
-"Juan Mata","Marco van Ginkel",1
-"Juan Mata","Eden Hazard",3
-"Juan Mata","Gary Cahill",1
-"Juan Mata","Samuel Eto'o",5
-"Juan Mata","John Obi Mikel",1
-"Juan Mata","Ramires",3
-"Juan Mata","André Schürrle",10
-"Juan Mata","César Azpilicueta",1
-"John Obi Mikel","Petr Čech",5
-"John Obi Mikel","Branislav Ivanović",22
-"John Obi Mikel","Ashley Cole",8
-"John Obi Mikel","David Luiz",11
-"John Obi Mikel","Frank Lampard",25
-"John Obi Mikel","Oscar",17
-"John Obi Mikel","Eden Hazard",6
-"John Obi Mikel","Willian",19
-"John Obi Mikel","Gary Cahill",23
-"John Obi Mikel","Samuel Eto'o",10
-"John Obi Mikel","Juan Mata",3
-"John Obi Mikel","Demba Ba",2
-"John Obi Mikel","Ramires",17
-"John Obi Mikel","Fernando Torres",3
-"John Obi Mikel","André Schürrle",8
-"John Obi Mikel","John Terry",26
-"John Obi Mikel","César Azpilicueta",28
-"John Obi Mikel","Kevin De Bruyne",3
-"John Obi Mikel","Mark Schwarzer",1
-"Demba Ba","Ashley Cole",4
-"Demba Ba","David Luiz",3
-"Demba Ba","Frank Lampard",1
-"Demba Ba","Oscar",2
-"Demba Ba","Eden Hazard",4
-"Demba Ba","Willian",4
-"Demba Ba","John Obi Mikel",2
-"Demba Ba","André Schürrle",2
-"Demba Ba","John Terry",2
-"Demba Ba","César Azpilicueta",1
-"Demba Ba","Kevin De Bruyne",1
-"Demba Ba","Fernando Torres",1
-"Ramires","Branislav Ivanović",35
-"Ramires","Ashley Cole",4
-"Ramires","David Luiz",19
-"Ramires","Frank Lampard",19
-"Ramires","Fernando Torres",13
-"Ramires","Juan Mata",6
-"Ramires","Oscar",19
-"Ramires","André Schürrle",19
-"Ramires","John Terry",27
-"Ramires","Willian",24
-"Ramires","César Azpilicueta",10
-"Ramires","Samuel Eto'o",4
-"Ramires","Eden Hazard",13
-"Ramires","Gary Cahill",20
-"Ramires","John Obi Mikel",8
-"Ramires","Kevin De Bruyne",1
-"Ramires","Demba Ba",4
-"Fernando Torres","Petr Čech",1
-"Fernando Torres","Branislav Ivanović",5
-"Fernando Torres","David Luiz",2
-"Fernando Torres","Ramires",9
-"Fernando Torres","Frank Lampard",3
-"Fernando Torres","Juan Mata",2
-"Fernando Torres","Oscar",3
-"Fernando Torres","André Schürrle",2
-"Fernando Torres","Willian",10
-"Fernando Torres","César Azpilicueta",1
-"Fernando Torres","Eden Hazard",16
-"Fernando Torres","Gary Cahill",3
-"Fernando Torres","John Obi Mikel",2
-"Fernando Torres","Demba Ba",1
-"André Schürrle","Branislav Ivanović",9
-"André Schürrle","Ashley Cole",18
-"André Schürrle","David Luiz",8
-"André Schürrle","Ramires",7
-"André Schürrle","Frank Lampard",18
-"André Schürrle","Fernando Torres",5
-"André Schürrle","Juan Mata",5
-"André Schürrle","Oscar",18
-"André Schürrle","John Terry",14
-"André Schürrle","Willian",11
-"André Schürrle","César Azpilicueta",23
-"André Schürrle","Samuel Eto'o",13
-"André Schürrle","Eden Hazard",8
-"André Schürrle","Gary Cahill",5
-"André Schürrle","John Obi Mikel",10
-"André Schürrle","Demba Ba",2
-"John Terry","Petr Čech",16
-"John Terry","Branislav Ivanović",10
-"John Terry","Ashley Cole",49
-"John Terry","David Luiz",51
-"John Terry","Ramires",25
-"John Terry","Frank Lampard",45
-"John Terry","Fernando Torres",6
-"John Terry","Juan Mata",5
-"John Terry","Oscar",7
-"John Terry","André Schürrle",17
-"John Terry","Willian",5
-"John Terry","César Azpilicueta",62
-"John Terry","Samuel Eto'o",8
-"John Terry","Eden Hazard",17
-"John Terry","Gary Cahill",58
-"John Terry","John Obi Mikel",37
-"John Terry","Kevin De Bruyne",1
-"John Terry","Demba Ba",2
-"John Terry","Mark Schwarzer",2
-"César Azpilicueta","Petr Čech",18
-"César Azpilicueta","Branislav Ivanović",11
-"César Azpilicueta","Ashley Cole",1
-"César Azpilicueta","David Luiz",24
-"César Azpilicueta","Ramires",19
-"César Azpilicueta","Frank Lampard",18
-"César Azpilicueta","Fernando Torres",12
-"César Azpilicueta","Oscar",26
-"César Azpilicueta","André Schürrle",35
-"César Azpilicueta","John Terry",43
-"César Azpilicueta","Willian",20
-"César Azpilicueta","Samuel Eto'o",10
-"César Azpilicueta","Eden Hazard",40
-"César Azpilicueta","Gary Cahill",17
-"César Azpilicueta","John Obi Mikel",21
-"César Azpilicueta","Kevin De Bruyne",3
-"César Azpilicueta","Demba Ba",3
-"César Azpilicueta","Mark Schwarzer",1
-"Kevin De Bruyne","Branislav Ivanović",1
-"Kevin De Bruyne","Ramires",3
-"Kevin De Bruyne","Gary Cahill",1
-"Kevin De Bruyne","John Terry",2
-"Kevin De Bruyne","César Azpilicueta",1
-"Kevin De Bruyne","Frank Lampard",6
-"Kevin De Bruyne","Demba Ba",1
-"Kevin De Bruyne","Eden Hazard",1
-"Kevin De Bruyne","Ashley Cole",1
-"Mark Schwarzer","Branislav Ivanović",6
-"Mark Schwarzer","Ashley Cole",3
-"Mark Schwarzer","David Luiz",5
-"Mark Schwarzer","Frank Lampard",2
-"Mark Schwarzer","John Obi Mikel",1
-"Mark Schwarzer","Eden Hazard",1
-"Mark Schwarzer","Demba Ba",4
-"Mark Schwarzer","Willian",1
-"Mark Schwarzer","John Terry",4
-"Mark Schwarzer","Ramires",4
-"Mark Schwarzer","Kevin De Bruyne",1
-"Mark Schwarzer","Fernando Torres",7
-"Mark Schwarzer","Gary Cahill",1
-"Mark Schwarzer","César Azpilicueta",2
+Source,Target,Weight
+"1","2",30
+"1","3",2
+"1","4",11
+"1","8",2
+"1","11",4
+"1","16",2
+"1","17",6
+"1","22",8
+"1","24",20
+"1","29",6
+"1","10",1
+"1","12",1
+"1","19",4
+"1","7",6
+"1","9",6
+"1","14",6
+"1","26",18
+"1","28",11
+"1","15",1
+"2","1",8
+"2","3",8
+"2","4",64
+"2","8",19
+"2","11",40
+"2","16",6
+"2","17",40
+"2","22",61
+"2","24",62
+"2","29",19
+"2","10",14
+"2","12",19
+"2","19",6
+"2","7",32
+"2","9",12
+"2","14",12
+"2","26",14
+"2","28",12
+"2","23",3
+"3","1",4
+"3","2",5
+"3","4",25
+"3","8",30
+"3","11",16
+"3","16",3
+"3","17",39
+"3","22",21
+"3","24",8
+"3","29",11
+"3","10",8
+"3","12",10
+"3","19",5
+"3","7",6
+"3","9",9
+"3","14",28
+"3","26",38
+"3","28",2
+"3","23",3
+"3","15",7
+"4","1",17
+"4","2",52
+"4","3",39
+"4","8",25
+"4","11",12
+"4","16",5
+"4","17",24
+"4","22",24
+"4","24",37
+"4","29",6
+"4","10",6
+"4","12",15
+"4","19",7
+"4","7",8
+"4","9",9
+"4","14",8
+"4","26",51
+"4","28",16
+"4","23",4
+"4","15",1
+"8","1",6
+"8","2",26
+"8","3",24
+"8","4",38
+"8","11",26
+"8","16",6
+"8","17",17
+"8","22",20
+"8","24",21
+"8","29",12
+"8","10",7
+"8","12",13
+"8","19",5
+"8","7",21
+"8","9",13
+"8","14",21
+"8","26",33
+"8","28",21
+"8","15",1
+"11","1",3
+"11","2",33
+"11","3",11
+"11","4",14
+"11","8",25
+"11","16",5
+"11","17",16
+"11","22",22
+"11","24",9
+"11","29",13
+"11","10",9
+"11","12",8
+"11","19",3
+"11","7",23
+"11","9",5
+"11","14",15
+"11","26",8
+"11","28",15
+"16","1",2
+"16","2",12
+"16","3",2
+"16","4",7
+"16","8",3
+"16","11",6
+"16","17",2
+"16","22",5
+"16","24",12
+"16","29",1
+"17","2",20
+"17","3",20
+"17","4",19
+"17","8",16
+"17","11",26
+"17","22",28
+"17","24",6
+"17","29",6
+"17","10",4
+"17","12",5
+"17","19",5
+"17","7",17
+"17","9",23
+"17","14",10
+"17","26",9
+"17","28",15
+"17","15",1
+"22","1",1
+"22","2",44
+"22","3",13
+"22","4",21
+"22","8",24
+"22","11",28
+"22","16",5
+"22","17",25
+"22","24",13
+"22","29",10
+"22","12",19
+"22","19",4
+"22","7",27
+"22","9",6
+"22","14",18
+"22","26",10
+"22","28",13
+"24","1",21
+"24","2",70
+"24","3",8
+"24","4",35
+"24","8",19
+"24","11",15
+"24","16",9
+"24","17",15
+"24","22",21
+"24","29",6
+"24","12",24
+"24","19",3
+"24","7",22
+"24","9",1
+"24","14",4
+"24","26",66
+"24","28",15
+"24","23",2
+"29","2",6
+"29","3",5
+"29","4",2
+"29","8",6
+"29","11",18
+"29","16",1
+"29","17",5
+"29","22",12
+"29","24",6
+"29","10",3
+"29","12",9
+"29","19",1
+"29","7",6
+"29","9",1
+"29","14",11
+"29","26",3
+"29","28",6
+"10","2",7
+"10","3",10
+"10","8",13
+"10","11",13
+"10","16",1
+"10","17",3
+"10","24",1
+"10","29",5
+"10","12",1
+"10","7",3
+"10","14",10
+"10","28",1
+"12","1",5
+"12","2",22
+"12","3",8
+"12","4",11
+"12","8",25
+"12","11",17
+"12","17",6
+"12","22",19
+"12","24",23
+"12","29",10
+"12","10",3
+"12","19",2
+"12","7",17
+"12","9",3
+"12","14",8
+"12","26",26
+"12","28",28
+"12","15",3
+"12","23",1
+"19","3",4
+"19","4",3
+"19","8",1
+"19","11",2
+"19","17",4
+"19","22",4
+"19","12",2
+"19","14",2
+"19","26",2
+"19","28",1
+"19","15",1
+"19","9",1
+"7","2",35
+"7","3",4
+"7","4",19
+"7","8",19
+"7","9",13
+"7","10",6
+"7","11",19
+"7","14",19
+"7","26",27
+"7","22",24
+"7","28",10
+"7","29",4
+"7","17",13
+"7","24",20
+"7","12",8
+"7","15",1
+"7","19",4
+"9","1",1
+"9","2",5
+"9","4",2
+"9","7",9
+"9","8",3
+"9","10",2
+"9","11",3
+"9","14",2
+"9","22",10
+"9","28",1
+"9","17",16
+"9","24",3
+"9","12",2
+"9","19",1
+"14","2",9
+"14","3",18
+"14","4",8
+"14","7",7
+"14","8",18
+"14","9",5
+"14","10",5
+"14","11",18
+"14","26",14
+"14","22",11
+"14","28",23
+"14","29",13
+"14","17",8
+"14","24",5
+"14","12",10
+"14","19",2
+"26","1",16
+"26","2",10
+"26","3",49
+"26","4",51
+"26","7",25
+"26","8",45
+"26","9",6
+"26","10",5
+"26","11",7
+"26","14",17
+"26","22",5
+"26","28",62
+"26","29",8
+"26","17",17
+"26","24",58
+"26","12",37
+"26","15",1
+"26","19",2
+"26","23",2
+"28","1",18
+"28","2",11
+"28","3",1
+"28","4",24
+"28","7",19
+"28","8",18
+"28","9",12
+"28","11",26
+"28","14",35
+"28","26",43
+"28","22",20
+"28","29",10
+"28","17",40
+"28","24",17
+"28","12",21
+"28","15",3
+"28","19",3
+"28","23",1
+"15","2",1
+"15","7",3
+"15","24",1
+"15","26",2
+"15","28",1
+"15","8",6
+"15","19",1
+"15","17",1
+"15","3",1
+"23","2",6
+"23","3",3
+"23","4",5
+"23","8",2
+"23","12",1
+"23","17",1
+"23","19",4
+"23","22",1
+"23","26",4
+"23","7",4
+"23","15",1
+"23","9",7
+"23","24",1
+"23","28",2

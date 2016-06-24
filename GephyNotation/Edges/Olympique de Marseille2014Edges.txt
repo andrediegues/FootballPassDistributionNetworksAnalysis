@@ -1,313 +1,314 @@
-"Steve Mandanda","Nicolas N'Koulou",23
-"Steve Mandanda","Lucas Mendes",10
-"Steve Mandanda","André-Pierre Gignac",15
-"Steve Mandanda","André Ayew",6
-"Steve Mandanda","Jérémy Morel",9
-"Steve Mandanda","Dimitri Payet",9
-"Steve Mandanda","Alaixys Romao",5
-"Steve Mandanda","Rod Fanni",11
-"Steve Mandanda","Giannelli Imbula",1
-"Steve Mandanda","Mathieu Valbuena",4
-"Steve Mandanda","Jordan Ayew",3
-"Steve Mandanda","Florian Thauvin",3
-"Steve Mandanda","Saber Khalifa",3
-"Steve Mandanda","Benjamin Mendy",5
-"Steve Mandanda","Mario Lemina",3
-"Steve Mandanda","Benoît Cheyrou",5
-"Steve Mandanda","Souleymane Diawara",14
-"Steve Mandanda","Kassim Abdallah",7
-"Nicolas N'Koulou","Steve Mandanda",24
-"Nicolas N'Koulou","Lucas Mendes",18
-"Nicolas N'Koulou","André-Pierre Gignac",1
-"Nicolas N'Koulou","André Ayew",7
-"Nicolas N'Koulou","Jérémy Morel",7
-"Nicolas N'Koulou","Dimitri Payet",11
-"Nicolas N'Koulou","Alaixys Romao",28
-"Nicolas N'Koulou","Rod Fanni",17
-"Nicolas N'Koulou","Giannelli Imbula",6
-"Nicolas N'Koulou","Mathieu Valbuena",9
-"Nicolas N'Koulou","Jordan Ayew",3
-"Nicolas N'Koulou","Florian Thauvin",6
-"Nicolas N'Koulou","Saber Khalifa",1
-"Nicolas N'Koulou","Benjamin Mendy",2
-"Nicolas N'Koulou","Mario Lemina",1
-"Nicolas N'Koulou","Benoît Cheyrou",7
-"Nicolas N'Koulou","Souleymane Diawara",14
-"Nicolas N'Koulou","Kassim Abdallah",16
-"Lucas Mendes","Steve Mandanda",12
-"Lucas Mendes","Nicolas N'Koulou",17
-"Lucas Mendes","André-Pierre Gignac",4
-"Lucas Mendes","André Ayew",4
-"Lucas Mendes","Jérémy Morel",8
-"Lucas Mendes","Dimitri Payet",4
-"Lucas Mendes","Alaixys Romao",8
-"Lucas Mendes","Rod Fanni",2
-"Lucas Mendes","Giannelli Imbula",19
-"Lucas Mendes","Mathieu Valbuena",2
-"Lucas Mendes","Jordan Ayew",2
-"Lucas Mendes","Florian Thauvin",1
-"Lucas Mendes","Saber Khalifa",6
-"Lucas Mendes","Benjamin Mendy",6
-"Lucas Mendes","Mario Lemina",6
-"Lucas Mendes","Kassim Abdallah",2
-"Lucas Mendes","Benoît Cheyrou",4
-"Lucas Mendes","Souleymane Diawara",1
-"André-Pierre Gignac","Nicolas N'Koulou",1
-"André-Pierre Gignac","André Ayew",6
-"André-Pierre Gignac","Jérémy Morel",4
-"André-Pierre Gignac","Dimitri Payet",7
-"André-Pierre Gignac","Alaixys Romao",3
-"André-Pierre Gignac","Rod Fanni",1
-"André-Pierre Gignac","Giannelli Imbula",4
-"André-Pierre Gignac","Mathieu Valbuena",8
-"André-Pierre Gignac","Florian Thauvin",12
-"André-Pierre Gignac","Saber Khalifa",2
-"André-Pierre Gignac","Benoît Cheyrou",5
-"André-Pierre Gignac","Kassim Abdallah",3
-"André-Pierre Gignac","Mario Lemina",2
-"André Ayew","Nicolas N'Koulou",3
-"André Ayew","Lucas Mendes",2
-"André Ayew","André-Pierre Gignac",5
-"André Ayew","Jérémy Morel",18
-"André Ayew","Dimitri Payet",10
-"André Ayew","Alaixys Romao",10
-"André Ayew","Rod Fanni",5
-"André Ayew","Giannelli Imbula",9
-"André Ayew","Mathieu Valbuena",35
-"André Ayew","Jordan Ayew",3
-"André Ayew","Florian Thauvin",6
-"André Ayew","Saber Khalifa",2
-"André Ayew","Benjamin Mendy",3
-"André Ayew","Mario Lemina",1
-"André Ayew","Benoît Cheyrou",14
-"André Ayew","Souleymane Diawara",3
-"André Ayew","Kassim Abdallah",6
-"Jérémy Morel","Steve Mandanda",3
-"Jérémy Morel","Nicolas N'Koulou",3
-"Jérémy Morel","Lucas Mendes",3
-"Jérémy Morel","André-Pierre Gignac",18
-"Jérémy Morel","André Ayew",38
-"Jérémy Morel","Dimitri Payet",15
-"Jérémy Morel","Alaixys Romao",12
-"Jérémy Morel","Rod Fanni",3
-"Jérémy Morel","Giannelli Imbula",10
-"Jérémy Morel","Mathieu Valbuena",31
-"Jérémy Morel","Jordan Ayew",3
-"Jérémy Morel","Florian Thauvin",10
-"Jérémy Morel","Saber Khalifa",11
-"Jérémy Morel","Benoît Cheyrou",14
-"Jérémy Morel","Souleymane Diawara",14
-"Jérémy Morel","Kassim Abdallah",1
-"Jérémy Morel","Mario Lemina",4
-"Jérémy Morel","Benjamin Mendy",1
-"Dimitri Payet","Steve Mandanda",3
-"Dimitri Payet","Nicolas N'Koulou",5
-"Dimitri Payet","Lucas Mendes",7
-"Dimitri Payet","André-Pierre Gignac",5
-"Dimitri Payet","André Ayew",6
-"Dimitri Payet","Jérémy Morel",6
-"Dimitri Payet","Alaixys Romao",7
-"Dimitri Payet","Rod Fanni",19
-"Dimitri Payet","Giannelli Imbula",7
-"Dimitri Payet","Mathieu Valbuena",15
-"Dimitri Payet","Florian Thauvin",2
-"Dimitri Payet","Saber Khalifa",3
-"Dimitri Payet","Benjamin Mendy",9
-"Dimitri Payet","Mario Lemina",1
-"Dimitri Payet","Benoît Cheyrou",6
-"Dimitri Payet","Souleymane Diawara",1
-"Dimitri Payet","Kassim Abdallah",1
-"Alaixys Romao","Steve Mandanda",3
-"Alaixys Romao","Nicolas N'Koulou",20
-"Alaixys Romao","Lucas Mendes",13
-"Alaixys Romao","André-Pierre Gignac",1
-"Alaixys Romao","André Ayew",15
-"Alaixys Romao","Jérémy Morel",12
-"Alaixys Romao","Dimitri Payet",11
-"Alaixys Romao","Rod Fanni",9
-"Alaixys Romao","Giannelli Imbula",9
-"Alaixys Romao","Mathieu Valbuena",27
-"Alaixys Romao","Jordan Ayew",3
-"Alaixys Romao","Florian Thauvin",12
-"Alaixys Romao","Saber Khalifa",2
-"Alaixys Romao","Benjamin Mendy",2
-"Alaixys Romao","Mario Lemina",5
-"Alaixys Romao","Benoît Cheyrou",8
-"Alaixys Romao","Souleymane Diawara",7
-"Alaixys Romao","Kassim Abdallah",10
-"Rod Fanni","Steve Mandanda",2
-"Rod Fanni","Nicolas N'Koulou",15
-"Rod Fanni","Lucas Mendes",4
-"Rod Fanni","André-Pierre Gignac",7
-"Rod Fanni","André Ayew",8
-"Rod Fanni","Jérémy Morel",1
-"Rod Fanni","Dimitri Payet",15
-"Rod Fanni","Alaixys Romao",7
-"Rod Fanni","Giannelli Imbula",2
-"Rod Fanni","Mathieu Valbuena",10
-"Rod Fanni","Jordan Ayew",3
-"Rod Fanni","Florian Thauvin",5
-"Rod Fanni","Saber Khalifa",3
-"Rod Fanni","Benjamin Mendy",2
-"Rod Fanni","Mario Lemina",6
-"Rod Fanni","Benoît Cheyrou",6
-"Rod Fanni","Souleymane Diawara",2
-"Giannelli Imbula","Steve Mandanda",1
-"Giannelli Imbula","Nicolas N'Koulou",7
-"Giannelli Imbula","Lucas Mendes",5
-"Giannelli Imbula","André-Pierre Gignac",4
-"Giannelli Imbula","André Ayew",11
-"Giannelli Imbula","Jérémy Morel",11
-"Giannelli Imbula","Dimitri Payet",9
-"Giannelli Imbula","Alaixys Romao",12
-"Giannelli Imbula","Rod Fanni",3
-"Giannelli Imbula","Mathieu Valbuena",19
-"Giannelli Imbula","Jordan Ayew",2
-"Giannelli Imbula","Florian Thauvin",2
-"Giannelli Imbula","Saber Khalifa",9
-"Giannelli Imbula","Benjamin Mendy",8
-"Giannelli Imbula","Mario Lemina",2
-"Giannelli Imbula","Kassim Abdallah",4
-"Mathieu Valbuena","Nicolas N'Koulou",2
-"Mathieu Valbuena","Lucas Mendes",3
-"Mathieu Valbuena","André-Pierre Gignac",15
-"Mathieu Valbuena","André Ayew",29
-"Mathieu Valbuena","Jérémy Morel",26
-"Mathieu Valbuena","Dimitri Payet",30
-"Mathieu Valbuena","Alaixys Romao",15
-"Mathieu Valbuena","Rod Fanni",9
-"Mathieu Valbuena","Giannelli Imbula",11
-"Mathieu Valbuena","Jordan Ayew",6
-"Mathieu Valbuena","Florian Thauvin",8
-"Mathieu Valbuena","Saber Khalifa",5
-"Mathieu Valbuena","Benjamin Mendy",3
-"Mathieu Valbuena","Mario Lemina",1
-"Mathieu Valbuena","Benoît Cheyrou",10
-"Mathieu Valbuena","Souleymane Diawara",2
-"Mathieu Valbuena","Kassim Abdallah",8
-"Jordan Ayew","Nicolas N'Koulou",2
-"Jordan Ayew","Lucas Mendes",1
-"Jordan Ayew","André-Pierre Gignac",2
-"Jordan Ayew","André Ayew",6
-"Jordan Ayew","Jérémy Morel",2
-"Jordan Ayew","Alaixys Romao",3
-"Jordan Ayew","Rod Fanni",2
-"Jordan Ayew","Giannelli Imbula",3
-"Jordan Ayew","Mathieu Valbuena",3
-"Jordan Ayew","Florian Thauvin",4
-"Jordan Ayew","Mario Lemina",1
-"Jordan Ayew","Benoît Cheyrou",6
-"Jordan Ayew","Souleymane Diawara",1
-"Jordan Ayew","Kassim Abdallah",3
-"Florian Thauvin","Nicolas N'Koulou",4
-"Florian Thauvin","André-Pierre Gignac",11
-"Florian Thauvin","André Ayew",9
-"Florian Thauvin","Jérémy Morel",7
-"Florian Thauvin","Alaixys Romao",7
-"Florian Thauvin","Rod Fanni",5
-"Florian Thauvin","Mathieu Valbuena",8
-"Florian Thauvin","Jordan Ayew",9
-"Florian Thauvin","Saber Khalifa",4
-"Florian Thauvin","Benjamin Mendy",3
-"Florian Thauvin","Mario Lemina",2
-"Florian Thauvin","Benoît Cheyrou",10
-"Florian Thauvin","Souleymane Diawara",1
-"Florian Thauvin","Kassim Abdallah",17
-"Saber Khalifa","Nicolas N'Koulou",1
-"Saber Khalifa","Lucas Mendes",3
-"Saber Khalifa","André-Pierre Gignac",3
-"Saber Khalifa","André Ayew",2
-"Saber Khalifa","Jérémy Morel",5
-"Saber Khalifa","Dimitri Payet",1
-"Saber Khalifa","Alaixys Romao",2
-"Saber Khalifa","Rod Fanni",6
-"Saber Khalifa","Giannelli Imbula",5
-"Saber Khalifa","Mathieu Valbuena",12
-"Saber Khalifa","Jordan Ayew",3
-"Saber Khalifa","Florian Thauvin",6
-"Saber Khalifa","Benjamin Mendy",2
-"Saber Khalifa","Mario Lemina",6
-"Saber Khalifa","Benoît Cheyrou",2
-"Saber Khalifa","Souleymane Diawara",1
-"Benjamin Mendy","Steve Mandanda",1
-"Benjamin Mendy","Lucas Mendes",4
-"Benjamin Mendy","André Ayew",2
-"Benjamin Mendy","Dimitri Payet",9
-"Benjamin Mendy","Rod Fanni",2
-"Benjamin Mendy","Giannelli Imbula",5
-"Benjamin Mendy","Mathieu Valbuena",6
-"Benjamin Mendy","Saber Khalifa",8
-"Benjamin Mendy","Jordan Ayew",1
-"Benjamin Mendy","Mario Lemina",4
-"Benjamin Mendy","Florian Thauvin",3
-"Benjamin Mendy","Benoît Cheyrou",8
-"Benjamin Mendy","André-Pierre Gignac",7
-"Benjamin Mendy","Souleymane Diawara",1
-"Benjamin Mendy","Jérémy Morel",4
-"Mario Lemina","Steve Mandanda",1
-"Mario Lemina","Nicolas N'Koulou",3
-"Mario Lemina","Lucas Mendes",4
-"Mario Lemina","André Ayew",1
-"Mario Lemina","Alaixys Romao",5
-"Mario Lemina","Benjamin Mendy",5
-"Mario Lemina","Rod Fanni",2
-"Mario Lemina","Giannelli Imbula",5
-"Mario Lemina","Mathieu Valbuena",1
-"Mario Lemina","Saber Khalifa",3
-"Mario Lemina","Jordan Ayew",1
-"Mario Lemina","Florian Thauvin",10
-"Mario Lemina","Kassim Abdallah",6
-"Mario Lemina","Benoît Cheyrou",7
-"Mario Lemina","Jérémy Morel",5
-"Mario Lemina","Souleymane Diawara",5
-"Benoît Cheyrou","Nicolas N'Koulou",5
-"Benoît Cheyrou","André-Pierre Gignac",11
-"Benoît Cheyrou","André Ayew",8
-"Benoît Cheyrou","Jérémy Morel",18
-"Benoît Cheyrou","Dimitri Payet",6
-"Benoît Cheyrou","Alaixys Romao",4
-"Benoît Cheyrou","Souleymane Diawara",6
-"Benoît Cheyrou","Rod Fanni",1
-"Benoît Cheyrou","Mathieu Valbuena",14
-"Benoît Cheyrou","Kassim Abdallah",12
-"Benoît Cheyrou","Jordan Ayew",7
-"Benoît Cheyrou","Florian Thauvin",19
-"Benoît Cheyrou","Mario Lemina",4
-"Benoît Cheyrou","Lucas Mendes",1
-"Benoît Cheyrou","Giannelli Imbula",1
-"Benoît Cheyrou","Saber Khalifa",6
-"Benoît Cheyrou","Benjamin Mendy",8
-"Souleymane Diawara","Steve Mandanda",9
-"Souleymane Diawara","Nicolas N'Koulou",11
-"Souleymane Diawara","Benoît Cheyrou",15
-"Souleymane Diawara","André-Pierre Gignac",4
-"Souleymane Diawara","André Ayew",10
-"Souleymane Diawara","Jérémy Morel",9
-"Souleymane Diawara","Dimitri Payet",2
-"Souleymane Diawara","Alaixys Romao",13
-"Souleymane Diawara","Rod Fanni",2
-"Souleymane Diawara","Mathieu Valbuena",5
-"Souleymane Diawara","Kassim Abdallah",2
-"Souleymane Diawara","Jordan Ayew",2
-"Souleymane Diawara","Florian Thauvin",2
-"Souleymane Diawara","Mario Lemina",4
-"Souleymane Diawara","Lucas Mendes",2
-"Souleymane Diawara","Benjamin Mendy",5
-"Souleymane Diawara","Giannelli Imbula",1
-"Kassim Abdallah","Steve Mandanda",6
-"Kassim Abdallah","Nicolas N'Koulou",18
-"Kassim Abdallah","Benoît Cheyrou",16
-"Kassim Abdallah","André-Pierre Gignac",8
-"Kassim Abdallah","André Ayew",4
-"Kassim Abdallah","Jérémy Morel",3
-"Kassim Abdallah","Dimitri Payet",2
-"Kassim Abdallah","Alaixys Romao",7
-"Kassim Abdallah","Rod Fanni",1
-"Kassim Abdallah","Mathieu Valbuena",9
-"Kassim Abdallah","Jordan Ayew",6
-"Kassim Abdallah","Florian Thauvin",32
-"Kassim Abdallah","Mario Lemina",8
-"Kassim Abdallah","Lucas Mendes",1
-"Kassim Abdallah","Giannelli Imbula",2
-"Kassim Abdallah","Saber Khalifa",1
-"Kassim Abdallah","Benjamin Mendy",2
+Source,Target,Weight
+"30","3",23
+"30","4",10
+"30","9",15
+"30","10",6
+"30","15",9
+"30","17",9
+"30","20",5
+"30","24",11
+"30","25",1
+"30","28",4
+"30","11",3
+"30","14",3
+"30","29",3
+"30","23",5
+"30","13",3
+"30","7",5
+"30","21",14
+"30","2",7
+"3","30",24
+"3","4",18
+"3","9",1
+"3","10",7
+"3","15",7
+"3","17",11
+"3","20",28
+"3","24",17
+"3","25",6
+"3","28",9
+"3","11",3
+"3","14",6
+"3","29",1
+"3","23",2
+"3","13",1
+"3","7",7
+"3","21",14
+"3","2",16
+"4","30",12
+"4","3",17
+"4","9",4
+"4","10",4
+"4","15",8
+"4","17",4
+"4","20",8
+"4","24",2
+"4","25",19
+"4","28",2
+"4","11",2
+"4","14",1
+"4","29",6
+"4","23",6
+"4","13",6
+"4","2",2
+"4","7",4
+"4","21",1
+"9","3",1
+"9","10",6
+"9","15",4
+"9","17",7
+"9","20",3
+"9","24",1
+"9","25",4
+"9","28",8
+"9","14",12
+"9","29",2
+"9","7",5
+"9","2",3
+"9","13",2
+"10","3",3
+"10","4",2
+"10","9",5
+"10","15",18
+"10","17",10
+"10","20",10
+"10","24",5
+"10","25",9
+"10","28",35
+"10","11",3
+"10","14",6
+"10","29",2
+"10","23",3
+"10","13",1
+"10","7",14
+"10","21",3
+"10","2",6
+"15","30",3
+"15","3",3
+"15","4",3
+"15","9",18
+"15","10",38
+"15","17",15
+"15","20",12
+"15","24",3
+"15","25",10
+"15","28",31
+"15","11",3
+"15","14",10
+"15","29",11
+"15","7",14
+"15","21",14
+"15","2",1
+"15","13",4
+"15","23",1
+"17","30",3
+"17","3",5
+"17","4",7
+"17","9",5
+"17","10",6
+"17","15",6
+"17","20",7
+"17","24",19
+"17","25",7
+"17","28",15
+"17","14",2
+"17","29",3
+"17","23",9
+"17","13",1
+"17","7",6
+"17","21",1
+"17","2",1
+"20","30",3
+"20","3",20
+"20","4",13
+"20","9",1
+"20","10",15
+"20","15",12
+"20","17",11
+"20","24",9
+"20","25",9
+"20","28",27
+"20","11",3
+"20","14",12
+"20","29",2
+"20","23",2
+"20","13",5
+"20","7",8
+"20","21",7
+"20","2",10
+"24","30",2
+"24","3",15
+"24","4",4
+"24","9",7
+"24","10",8
+"24","15",1
+"24","17",15
+"24","20",7
+"24","25",2
+"24","28",10
+"24","11",3
+"24","14",5
+"24","29",3
+"24","23",2
+"24","13",6
+"24","7",6
+"24","21",2
+"25","30",1
+"25","3",7
+"25","4",5
+"25","9",4
+"25","10",11
+"25","15",11
+"25","17",9
+"25","20",12
+"25","24",3
+"25","28",19
+"25","11",2
+"25","14",2
+"25","29",9
+"25","23",8
+"25","13",2
+"25","2",4
+"28","3",2
+"28","4",3
+"28","9",15
+"28","10",29
+"28","15",26
+"28","17",30
+"28","20",15
+"28","24",9
+"28","25",11
+"28","11",6
+"28","14",8
+"28","29",5
+"28","23",3
+"28","13",1
+"28","7",10
+"28","21",2
+"28","2",8
+"11","3",2
+"11","4",1
+"11","9",2
+"11","10",6
+"11","15",2
+"11","20",3
+"11","24",2
+"11","25",3
+"11","28",3
+"11","14",4
+"11","13",1
+"11","7",6
+"11","21",1
+"11","2",3
+"14","3",4
+"14","9",11
+"14","10",9
+"14","15",7
+"14","20",7
+"14","24",5
+"14","28",8
+"14","11",9
+"14","29",4
+"14","23",3
+"14","13",2
+"14","7",10
+"14","21",1
+"14","2",17
+"29","3",1
+"29","4",3
+"29","9",3
+"29","10",2
+"29","15",5
+"29","17",1
+"29","20",2
+"29","24",6
+"29","25",5
+"29","28",12
+"29","11",3
+"29","14",6
+"29","23",2
+"29","13",6
+"29","7",2
+"29","21",1
+"23","30",1
+"23","4",4
+"23","10",2
+"23","17",9
+"23","24",2
+"23","25",5
+"23","28",6
+"23","29",8
+"23","11",1
+"23","13",4
+"23","14",3
+"23","7",8
+"23","9",7
+"23","21",1
+"23","15",4
+"13","30",1
+"13","3",3
+"13","4",4
+"13","10",1
+"13","20",5
+"13","23",5
+"13","24",2
+"13","25",5
+"13","28",1
+"13","29",3
+"13","11",1
+"13","14",10
+"13","2",6
+"13","7",7
+"13","15",5
+"13","21",5
+"7","3",5
+"7","9",11
+"7","10",8
+"7","15",18
+"7","17",6
+"7","20",4
+"7","21",6
+"7","24",1
+"7","28",14
+"7","2",12
+"7","11",7
+"7","14",19
+"7","13",4
+"7","4",1
+"7","25",1
+"7","29",6
+"7","23",8
+"21","30",9
+"21","3",11
+"21","7",15
+"21","9",4
+"21","10",10
+"21","15",9
+"21","17",2
+"21","20",13
+"21","24",2
+"21","28",5
+"21","2",2
+"21","11",2
+"21","14",2
+"21","13",4
+"21","4",2
+"21","23",5
+"21","25",1
+"2","30",6
+"2","3",18
+"2","7",16
+"2","9",8
+"2","10",4
+"2","15",3
+"2","17",2
+"2","20",7
+"2","24",1
+"2","28",9
+"2","11",6
+"2","14",32
+"2","13",8
+"2","4",1
+"2","25",2
+"2","29",1
+"2","23",2

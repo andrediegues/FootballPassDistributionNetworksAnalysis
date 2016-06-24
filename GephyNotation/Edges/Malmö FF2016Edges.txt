@@ -1,272 +1,273 @@
-"Johan Wiland","Anton Tinnerholm",10
-"Johan Wiland","Erdal Rakip",2
-"Johan Wiland","Oscar Lewicki",8
-"Johan Wiland","Yoshimar Yotún",22
-"Johan Wiland","Rasmus Bengtsson",7
-"Johan Wiland","Vladimir Rodić",2
-"Johan Wiland","Kári Árnason",12
-"Johan Wiland","Jo Inge Berget",16
-"Johan Wiland","Tobias Sana",1
-"Johan Wiland","Felipe Carvalho",5
-"Johan Wiland","Enoch Kofi Adu",7
-"Johan Wiland","Markus Rosenberg",16
-"Johan Wiland","Nikola Djurdjić",6
-"Johan Wiland","Magnus Wolff Eikrem",1
-"Johan Wiland","Pa Konate",1
-"Johan Wiland","Franz Brorsson",1
-"Johan Wiland","Simon Kroon",1
-"Anton Tinnerholm","Johan Wiland",8
-"Anton Tinnerholm","Erdal Rakip",20
-"Anton Tinnerholm","Oscar Lewicki",25
-"Anton Tinnerholm","Yoshimar Yotún",3
-"Anton Tinnerholm","Rasmus Bengtsson",6
-"Anton Tinnerholm","Magnus Eikrem",5
-"Anton Tinnerholm","Vladimir Rodić",60
-"Anton Tinnerholm","Kári Árnason",11
-"Anton Tinnerholm","Jo Inge Berget",7
-"Anton Tinnerholm","Nikola Djurdić",1
-"Anton Tinnerholm","Tobias Sana",1
-"Anton Tinnerholm","Enoch Kofi Adu",15
-"Anton Tinnerholm","Markus Rosenberg",17
-"Anton Tinnerholm","Nikola Djurdjić",13
-"Anton Tinnerholm","Agon Mehmeti",1
-"Anton Tinnerholm","Magnus Wolff Eikrem",5
-"Anton Tinnerholm","Pa Konate",1
-"Anton Tinnerholm","Franz Brorsson",4
-"Anton Tinnerholm","Simon Kroon",1
-"Erdal Rakip","Anton Tinnerholm",21
-"Erdal Rakip","Oscar Lewicki",10
-"Erdal Rakip","Yoshimar Yotún",12
-"Erdal Rakip","Rasmus Bengtsson",3
-"Erdal Rakip","Magnus Eikrem",3
-"Erdal Rakip","Vladimir Rodić",5
-"Erdal Rakip","Kári Árnason",3
-"Erdal Rakip","Jo Inge Berget",6
-"Erdal Rakip","Nikola Djurdić",1
-"Erdal Rakip","Felipe Carvalho",2
-"Erdal Rakip","Enoch Kofi Adu",11
-"Erdal Rakip","Markus Rosenberg",2
-"Erdal Rakip","Nikola Djurdjić",8
-"Erdal Rakip","Agon Mehmeti",2
-"Erdal Rakip","Pa Konate",2
-"Oscar Lewicki","Johan Wiland",5
-"Oscar Lewicki","Anton Tinnerholm",52
-"Oscar Lewicki","Erdal Rakip",14
-"Oscar Lewicki","Yoshimar Yotún",17
-"Oscar Lewicki","Rasmus Bengtsson",15
-"Oscar Lewicki","Magnus Eikrem",2
-"Oscar Lewicki","Vladimir Rodić",10
-"Oscar Lewicki","Kári Árnason",15
-"Oscar Lewicki","Jo Inge Berget",22
-"Oscar Lewicki","Nikola Djurdić",2
-"Oscar Lewicki","Tobias Sana",4
-"Oscar Lewicki","Felipe Carvalho",5
-"Oscar Lewicki","Enoch Kofi Adu",21
-"Oscar Lewicki","Markus Rosenberg",10
-"Oscar Lewicki","Nikola Djurdjić",18
-"Oscar Lewicki","Agon Mehmeti",1
-"Oscar Lewicki","Magnus Wolff Eikrem",1
-"Oscar Lewicki","Pa Konate",5
-"Oscar Lewicki","Franz Brorsson",4
-"Oscar Lewicki","Simon Kroon",3
-"Yoshimar Yotún","Johan Wiland",2
-"Yoshimar Yotún","Anton Tinnerholm",2
-"Yoshimar Yotún","Erdal Rakip",9
-"Yoshimar Yotún","Oscar Lewicki",12
-"Yoshimar Yotún","Rasmus Bengtsson",4
-"Yoshimar Yotún","Magnus Eikrem",1
-"Yoshimar Yotún","Vladimir Rodić",7
-"Yoshimar Yotún","Kári Árnason",1
-"Yoshimar Yotún","Jo Inge Berget",33
-"Yoshimar Yotún","Nikola Djurdić",1
-"Yoshimar Yotún","Tobias Sana",20
-"Yoshimar Yotún","Felipe Carvalho",3
-"Yoshimar Yotún","Enoch Kofi Adu",33
-"Yoshimar Yotún","Markus Rosenberg",11
-"Yoshimar Yotún","Nikola Djurdjić",20
-"Yoshimar Yotún","Agon Mehmeti",2
-"Yoshimar Yotún","Magnus Wolff Eikrem",1
-"Yoshimar Yotún","Pa Konate",2
-"Yoshimar Yotún","Simon Kroon",1
-"Rasmus Bengtsson","Johan Wiland",13
-"Rasmus Bengtsson","Anton Tinnerholm",12
-"Rasmus Bengtsson","Erdal Rakip",2
-"Rasmus Bengtsson","Oscar Lewicki",9
-"Rasmus Bengtsson","Yoshimar Yotún",11
-"Rasmus Bengtsson","Vladimir Rodić",2
-"Rasmus Bengtsson","Kári Árnason",12
-"Rasmus Bengtsson","Jo Inge Berget",4
-"Rasmus Bengtsson","Nikola Djurdić",3
-"Rasmus Bengtsson","Felipe Carvalho",1
-"Rasmus Bengtsson","Enoch Kofi Adu",13
-"Rasmus Bengtsson","Markus Rosenberg",3
-"Rasmus Bengtsson","Nikola Djurdjić",2
-"Rasmus Bengtsson","Agon Mehmeti",1
-"Rasmus Bengtsson","Pa Konate",14
-"Rasmus Bengtsson","Franz Brorsson",2
-"Magnus Eikrem","Anton Tinnerholm",4
-"Magnus Eikrem","Erdal Rakip",2
-"Magnus Eikrem","Oscar Lewicki",2
-"Magnus Eikrem","Yoshimar Yotún",1
-"Magnus Eikrem","Vladimir Rodić",2
-"Magnus Eikrem","Jo Inge Berget",1
-"Magnus Eikrem","Nikola Djurdić",5
-"Vladimir Rodić","Anton Tinnerholm",28
-"Vladimir Rodić","Erdal Rakip",7
-"Vladimir Rodić","Oscar Lewicki",17
-"Vladimir Rodić","Yoshimar Yotún",5
-"Vladimir Rodić","Rasmus Bengtsson",3
-"Vladimir Rodić","Magnus Eikrem",5
-"Vladimir Rodić","Kári Árnason",2
-"Vladimir Rodić","Jo Inge Berget",5
-"Vladimir Rodić","Nikola Djurdić",5
-"Vladimir Rodić","Tobias Sana",2
-"Vladimir Rodić","Enoch Kofi Adu",9
-"Vladimir Rodić","Markus Rosenberg",14
-"Vladimir Rodić","Nikola Djurdjić",28
-"Vladimir Rodić","Pa Konate",1
-"Vladimir Rodić","Franz Brorsson",1
-"Vladimir Rodić","Simon Kroon",2
-"Kári Árnason","Johan Wiland",9
-"Kári Árnason","Anton Tinnerholm",19
-"Kári Árnason","Erdal Rakip",2
-"Kári Árnason","Oscar Lewicki",8
-"Kári Árnason","Yoshimar Yotún",3
-"Kári Árnason","Rasmus Bengtsson",6
-"Kári Árnason","Vladimir Rodić",6
-"Kári Árnason","Jo Inge Berget",4
-"Kári Árnason","Nikola Djurdić",3
-"Kári Árnason","Tobias Sana",1
-"Kári Árnason","Felipe Carvalho",1
-"Kári Árnason","Enoch Kofi Adu",12
-"Kári Árnason","Markus Rosenberg",3
-"Kári Árnason","Nikola Djurdjić",1
-"Jo Inge Berget","Anton Tinnerholm",4
-"Jo Inge Berget","Erdal Rakip",8
-"Jo Inge Berget","Oscar Lewicki",15
-"Jo Inge Berget","Yoshimar Yotún",20
-"Jo Inge Berget","Rasmus Bengtsson",1
-"Jo Inge Berget","Magnus Eikrem",1
-"Jo Inge Berget","Vladimir Rodić",8
-"Jo Inge Berget","Nikola Djurdić",4
-"Jo Inge Berget","Tobias Sana",1
-"Jo Inge Berget","Felipe Carvalho",1
-"Jo Inge Berget","Enoch Kofi Adu",24
-"Jo Inge Berget","Markus Rosenberg",9
-"Jo Inge Berget","Nikola Djurdjić",26
-"Jo Inge Berget","Agon Mehmeti",1
-"Jo Inge Berget","Magnus Wolff Eikrem",2
-"Jo Inge Berget","Pa Konate",9
-"Jo Inge Berget","Franz Brorsson",1
-"Nikola Djurdić","Anton Tinnerholm",1
-"Nikola Djurdić","Oscar Lewicki",5
-"Nikola Djurdić","Yoshimar Yotún",1
-"Nikola Djurdić","Rasmus Bengtsson",1
-"Nikola Djurdić","Magnus Eikrem",4
-"Nikola Djurdić","Vladimir Rodić",1
-"Nikola Djurdić","Jo Inge Berget",1
-"Tobias Sana","Anton Tinnerholm",1
-"Tobias Sana","Erdal Rakip",1
-"Tobias Sana","Oscar Lewicki",3
-"Tobias Sana","Yoshimar Yotún",12
-"Tobias Sana","Jo Inge Berget",2
-"Tobias Sana","Nikola Djurdić",1
-"Tobias Sana","Enoch Kofi Adu",12
-"Tobias Sana","Nikola Djurdjić",7
-"Felipe Carvalho","Johan Wiland",8
-"Felipe Carvalho","Erdal Rakip",2
-"Felipe Carvalho","Oscar Lewicki",2
-"Felipe Carvalho","Yoshimar Yotún",7
-"Felipe Carvalho","Rasmus Bengtsson",1
-"Felipe Carvalho","Kári Árnason",2
-"Felipe Carvalho","Jo Inge Berget",3
-"Felipe Carvalho","Tobias Sana",2
-"Felipe Carvalho","Enoch Kofi Adu",3
-"Felipe Carvalho","Nikola Djurdjić",2
-"Felipe Carvalho","Magnus Wolff Eikrem",1
-"Enoch Kofi Adu","Johan Wiland",5
-"Enoch Kofi Adu","Anton Tinnerholm",33
-"Enoch Kofi Adu","Oscar Lewicki",41
-"Enoch Kofi Adu","Markus Rosenberg",12
-"Enoch Kofi Adu","Yoshimar Yotún",33
-"Enoch Kofi Adu","Rasmus Bengtsson",8
-"Enoch Kofi Adu","Vladimir Rodić",14
-"Enoch Kofi Adu","Kári Árnason",6
-"Enoch Kofi Adu","Jo Inge Berget",23
-"Enoch Kofi Adu","Nikola Djurdjić",22
-"Enoch Kofi Adu","Erdal Rakip",14
-"Enoch Kofi Adu","Agon Mehmeti",1
-"Enoch Kofi Adu","Felipe Carvalho",7
-"Enoch Kofi Adu","Magnus Wolff Eikrem",1
-"Enoch Kofi Adu","Pa Konate",9
-"Enoch Kofi Adu","Franz Brorsson",4
-"Enoch Kofi Adu","Simon Kroon",4
-"Enoch Kofi Adu","Tobias Sana",9
-"Markus Rosenberg","Anton Tinnerholm",4
-"Markus Rosenberg","Oscar Lewicki",4
-"Markus Rosenberg","Enoch Kofi Adu",6
-"Markus Rosenberg","Yoshimar Yotún",4
-"Markus Rosenberg","Rasmus Bengtsson",1
-"Markus Rosenberg","Vladimir Rodić",10
-"Markus Rosenberg","Kári Árnason",1
-"Markus Rosenberg","Jo Inge Berget",10
-"Markus Rosenberg","Nikola Djurdjić",25
-"Markus Rosenberg","Magnus Wolff Eikrem",2
-"Markus Rosenberg","Pa Konate",1
-"Markus Rosenberg","Franz Brorsson",1
-"Markus Rosenberg","Simon Kroon",1
-"Nikola Djurdjić","Anton Tinnerholm",27
-"Nikola Djurdjić","Oscar Lewicki",20
-"Nikola Djurdjić","Enoch Kofi Adu",14
-"Nikola Djurdjić","Markus Rosenberg",19
-"Nikola Djurdjić","Yoshimar Yotún",14
-"Nikola Djurdjić","Rasmus Bengtsson",4
-"Nikola Djurdjić","Vladimir Rodić",21
-"Nikola Djurdjić","Kári Árnason",3
-"Nikola Djurdjić","Jo Inge Berget",25
-"Nikola Djurdjić","Erdal Rakip",2
-"Nikola Djurdjić","Felipe Carvalho",1
-"Nikola Djurdjić","Pa Konate",2
-"Nikola Djurdjić","Tobias Sana",2
-"Agon Mehmeti","Anton Tinnerholm",1
-"Agon Mehmeti","Enoch Kofi Adu",2
-"Agon Mehmeti","Markus Rosenberg",1
-"Agon Mehmeti","Vladimir Rodić",1
-"Agon Mehmeti","Jo Inge Berget",1
-"Agon Mehmeti","Erdal Rakip",2
-"Magnus Wolff Eikrem","Anton Tinnerholm",3
-"Magnus Wolff Eikrem","Oscar Lewicki",1
-"Magnus Wolff Eikrem","Markus Rosenberg",3
-"Magnus Wolff Eikrem","Yoshimar Yotún",2
-"Magnus Wolff Eikrem","Jo Inge Berget",2
-"Magnus Wolff Eikrem","Nikola Djurdjić",2
-"Magnus Wolff Eikrem","Erdal Rakip",2
-"Magnus Wolff Eikrem","Franz Brorsson",1
-"Pa Konate","Johan Wiland",3
-"Pa Konate","Oscar Lewicki",5
-"Pa Konate","Enoch Kofi Adu",5
-"Pa Konate","Markus Rosenberg",6
-"Pa Konate","Rasmus Bengtsson",6
-"Pa Konate","Jo Inge Berget",8
-"Pa Konate","Nikola Djurdjić",1
-"Pa Konate","Erdal Rakip",2
-"Pa Konate","Yoshimar Yotún",4
-"Pa Konate","Magnus Wolff Eikrem",2
-"Pa Konate","Franz Brorsson",1
-"Franz Brorsson","Johan Wiland",2
-"Franz Brorsson","Anton Tinnerholm",2
-"Franz Brorsson","Oscar Lewicki",6
-"Franz Brorsson","Enoch Kofi Adu",4
-"Franz Brorsson","Markus Rosenberg",1
-"Franz Brorsson","Rasmus Bengtsson",2
-"Franz Brorsson","Vladimir Rodić",1
-"Franz Brorsson","Jo Inge Berget",1
-"Franz Brorsson","Nikola Djurdjić",1
-"Franz Brorsson","Magnus Wolff Eikrem",1
-"Simon Kroon","Pa Konate",2
-"Simon Kroon","Oscar Lewicki",2
-"Simon Kroon","Enoch Kofi Adu",1
-"Simon Kroon","Vladimir Rodić",1
-"Simon Kroon","Jo Inge Berget",1
-"Simon Kroon","Magnus Wolff Eikrem",1
-"Simon Kroon","Yoshimar Yotún",1
+Source,Target,Weight
+"1","3",10
+"1","5",2
+"1","6",8
+"1","13",22
+"1","17",7
+"1","20",2
+"1","21",12
+"1","23",16
+"1","22",1
+"1","25",5
+"1","8",7
+"1","9",16
+"1","28",6
+"1","19",1
+"1","2",1
+"1","31",1
+"1","7",1
+"3","1",8
+"3","5",20
+"3","6",25
+"3","13",3
+"3","17",6
+"3","19",5
+"3","20",60
+"3","21",11
+"3","23",7
+"3","28",1
+"3","22",1
+"3","8",15
+"3","9",17
+"3","28",13
+"3","11",1
+"3","19",5
+"3","2",1
+"3","31",4
+"3","7",1
+"5","3",21
+"5","6",10
+"5","13",12
+"5","17",3
+"5","19",3
+"5","20",5
+"5","21",3
+"5","23",6
+"5","28",1
+"5","25",2
+"5","8",11
+"5","9",2
+"5","28",8
+"5","11",2
+"5","2",2
+"6","1",5
+"6","3",52
+"6","5",14
+"6","13",17
+"6","17",15
+"6","19",2
+"6","20",10
+"6","21",15
+"6","23",22
+"6","28",2
+"6","22",4
+"6","25",5
+"6","8",21
+"6","9",10
+"6","28",18
+"6","11",1
+"6","19",1
+"6","2",5
+"6","31",4
+"6","7",3
+"13","1",2
+"13","3",2
+"13","5",9
+"13","6",12
+"13","17",4
+"13","19",1
+"13","20",7
+"13","21",1
+"13","23",33
+"13","28",1
+"13","22",20
+"13","25",3
+"13","8",33
+"13","9",11
+"13","28",20
+"13","11",2
+"13","19",1
+"13","2",2
+"13","7",1
+"17","1",13
+"17","3",12
+"17","5",2
+"17","6",9
+"17","13",11
+"17","20",2
+"17","21",12
+"17","23",4
+"17","28",3
+"17","25",1
+"17","8",13
+"17","9",3
+"17","28",2
+"17","11",1
+"17","2",14
+"17","31",2
+"19","3",4
+"19","5",2
+"19","6",2
+"19","13",1
+"19","20",2
+"19","23",1
+"19","28",5
+"20","3",28
+"20","5",7
+"20","6",17
+"20","13",5
+"20","17",3
+"20","19",5
+"20","21",2
+"20","23",5
+"20","28",5
+"20","22",2
+"20","8",9
+"20","9",14
+"20","28",28
+"20","2",1
+"20","31",1
+"20","7",2
+"21","1",9
+"21","3",19
+"21","5",2
+"21","6",8
+"21","13",3
+"21","17",6
+"21","20",6
+"21","23",4
+"21","28",3
+"21","22",1
+"21","25",1
+"21","8",12
+"21","9",3
+"21","28",1
+"23","3",4
+"23","5",8
+"23","6",15
+"23","13",20
+"23","17",1
+"23","19",1
+"23","20",8
+"23","28",4
+"23","22",1
+"23","25",1
+"23","8",24
+"23","9",9
+"23","28",26
+"23","11",1
+"23","19",2
+"23","2",9
+"23","31",1
+"28","3",1
+"28","6",5
+"28","13",1
+"28","17",1
+"28","19",4
+"28","20",1
+"28","23",1
+"22","3",1
+"22","5",1
+"22","6",3
+"22","13",12
+"22","23",2
+"22","28",1
+"22","8",12
+"22","28",7
+"25","1",8
+"25","5",2
+"25","6",2
+"25","13",7
+"25","17",1
+"25","21",2
+"25","23",3
+"25","22",2
+"25","8",3
+"25","28",2
+"25","19",1
+"8","1",5
+"8","3",33
+"8","6",41
+"8","9",12
+"8","13",33
+"8","17",8
+"8","20",14
+"8","21",6
+"8","23",23
+"8","28",22
+"8","5",14
+"8","11",1
+"8","25",7
+"8","19",1
+"8","2",9
+"8","31",4
+"8","7",4
+"8","22",9
+"9","3",4
+"9","6",4
+"9","8",6
+"9","13",4
+"9","17",1
+"9","20",10
+"9","21",1
+"9","23",10
+"9","28",25
+"9","19",2
+"9","2",1
+"9","31",1
+"9","7",1
+"28","3",27
+"28","6",20
+"28","8",14
+"28","9",19
+"28","13",14
+"28","17",4
+"28","20",21
+"28","21",3
+"28","23",25
+"28","5",2
+"28","25",1
+"28","2",2
+"28","22",2
+"11","3",1
+"11","8",2
+"11","9",1
+"11","20",1
+"11","23",1
+"11","5",2
+"19","3",3
+"19","6",1
+"19","9",3
+"19","13",2
+"19","23",2
+"19","28",2
+"19","5",2
+"19","31",1
+"2","1",3
+"2","6",5
+"2","8",5
+"2","9",6
+"2","17",6
+"2","23",8
+"2","28",1
+"2","5",2
+"2","13",4
+"2","19",2
+"2","31",1
+"31","1",2
+"31","3",2
+"31","6",6
+"31","8",4
+"31","9",1
+"31","17",2
+"31","20",1
+"31","23",1
+"31","28",1
+"31","19",1
+"7","2",2
+"7","6",2
+"7","8",1
+"7","20",1
+"7","23",1
+"7","19",1
+"7","13",1

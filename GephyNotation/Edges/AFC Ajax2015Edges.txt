@@ -1,266 +1,267 @@
-"Jasper Cillessen","Ricardo van Rhijn",14
-"Jasper Cillessen","Joël Veltman",25
-"Jasper Cillessen","Niklas Moisander",42
-"Jasper Cillessen","Nicolai Boilesen",6
-"Jasper Cillessen","Kolbeinn Sigthórsson",1
-"Jasper Cillessen","Davy Klaassen",3
-"Jasper Cillessen","Lucas Andersen",2
-"Jasper Cillessen","Thulani Serero",6
-"Jasper Cillessen","Nick Viergever",13
-"Jasper Cillessen","Niki Zimling",3
-"Jasper Cillessen","Jairo Riedewald",1
-"Jasper Cillessen","Arkadiusz Milik",1
-"Jasper Cillessen","Stefano Denswil",4
-"Jasper Cillessen","Mike van der Hoorn",5
-"Ricardo van Rhijn","Jasper Cillessen",14
-"Ricardo van Rhijn","Joël Veltman",73
-"Ricardo van Rhijn","Niklas Moisander",37
-"Ricardo van Rhijn","Nicolai Boilesen",4
-"Ricardo van Rhijn","Kolbeinn Sigthórsson",1
-"Ricardo van Rhijn","Davy Klaassen",26
-"Ricardo van Rhijn","Lucas Andersen",18
-"Ricardo van Rhijn","Lasse Schöne",46
-"Ricardo van Rhijn","Thulani Serero",22
-"Ricardo van Rhijn","Nick Viergever",9
-"Ricardo van Rhijn","Anwar El Ghazi",15
-"Ricardo van Rhijn","Niki Zimling",13
-"Ricardo van Rhijn","Ricardo Kishna",12
-"Ricardo van Rhijn","Jairo Riedewald",4
-"Ricardo van Rhijn","Arkadiusz Milik",4
-"Ricardo van Rhijn","Stefano Denswil",5
-"Ricardo van Rhijn","Mike van der Hoorn",6
-"Joël Veltman","Jasper Cillessen",27
-"Joël Veltman","Ricardo van Rhijn",76
-"Joël Veltman","Niklas Moisander",104
-"Joël Veltman","Nicolai Boilesen",9
-"Joël Veltman","Davy Klaassen",12
-"Joël Veltman","Lucas Andersen",8
-"Joël Veltman","Lasse Schöne",14
-"Joël Veltman","Thulani Serero",28
-"Joël Veltman","Nick Viergever",30
-"Joël Veltman","Anwar El Ghazi",10
-"Joël Veltman","Niki Zimling",15
-"Joël Veltman","Ricardo Kishna",5
-"Joël Veltman","Jairo Riedewald",11
-"Joël Veltman","Arkadiusz Milik",6
-"Joël Veltman","Richairo Zivkovic",1
-"Niklas Moisander","Jasper Cillessen",20
-"Niklas Moisander","Ricardo van Rhijn",23
-"Niklas Moisander","Joël Veltman",108
-"Niklas Moisander","Nicolai Boilesen",52
-"Niklas Moisander","Kolbeinn Sigthórsson",4
-"Niklas Moisander","Davy Klaassen",14
-"Niklas Moisander","Lucas Andersen",10
-"Niklas Moisander","Lasse Schöne",13
-"Niklas Moisander","Thulani Serero",26
-"Niklas Moisander","Nick Viergever",52
-"Niklas Moisander","Arek Milik",1
-"Niklas Moisander","Anwar El Ghazi",1
-"Niklas Moisander","Niki Zimling",11
-"Niklas Moisander","Ricardo Kishna",13
-"Niklas Moisander","Jairo Riedewald",8
-"Niklas Moisander","Arkadiusz Milik",1
-"Nicolai Boilesen","Jasper Cillessen",7
-"Nicolai Boilesen","Ricardo van Rhijn",3
-"Nicolai Boilesen","Joël Veltman",11
-"Nicolai Boilesen","Niklas Moisander",29
-"Nicolai Boilesen","Kolbeinn Sigthórsson",8
-"Nicolai Boilesen","Davy Klaassen",5
-"Nicolai Boilesen","Lucas Andersen",29
-"Nicolai Boilesen","Lasse Schöne",16
-"Nicolai Boilesen","Thulani Serero",23
-"Nicolai Boilesen","Nick Viergever",18
-"Nicolai Boilesen","Arek Milik",2
-"Nicolai Boilesen","Anwar El Ghazi",1
-"Nicolai Boilesen","Niki Zimling",6
-"Nicolai Boilesen","Ricardo Kishna",2
-"Nicolai Boilesen","Stefano Denswil",1
-"Kolbeinn Sigthórsson","Ricardo van Rhijn",1
-"Kolbeinn Sigthórsson","Joël Veltman",2
-"Kolbeinn Sigthórsson","Niklas Moisander",3
-"Kolbeinn Sigthórsson","Nicolai Boilesen",3
-"Kolbeinn Sigthórsson","Davy Klaassen",6
-"Kolbeinn Sigthórsson","Lucas Andersen",7
-"Kolbeinn Sigthórsson","Lasse Schöne",5
-"Kolbeinn Sigthórsson","Thulani Serero",6
-"Kolbeinn Sigthórsson","Nick Viergever",1
-"Kolbeinn Sigthórsson","Niki Zimling",1
-"Kolbeinn Sigthórsson","Ricardo Kishna",2
-"Davy Klaassen","Jasper Cillessen",2
-"Davy Klaassen","Ricardo van Rhijn",38
-"Davy Klaassen","Joël Veltman",10
-"Davy Klaassen","Niklas Moisander",4
-"Davy Klaassen","Nicolai Boilesen",9
-"Davy Klaassen","Kolbeinn Sigthórsson",6
-"Davy Klaassen","Lucas Andersen",8
-"Davy Klaassen","Lasse Schöne",27
-"Davy Klaassen","Thulani Serero",25
-"Davy Klaassen","Nick Viergever",15
-"Davy Klaassen","Anwar El Ghazi",16
-"Davy Klaassen","Niki Zimling",10
-"Davy Klaassen","Ricardo Kishna",7
-"Davy Klaassen","Jairo Riedewald",5
-"Davy Klaassen","Arkadiusz Milik",5
-"Davy Klaassen","Stefano Denswil",3
-"Davy Klaassen","Mike van der Hoorn",11
-"Lucas Andersen","Ricardo van Rhijn",18
-"Lucas Andersen","Joël Veltman",2
-"Lucas Andersen","Niklas Moisander",9
-"Lucas Andersen","Nicolai Boilesen",23
-"Lucas Andersen","Kolbeinn Sigthórsson",3
-"Lucas Andersen","Davy Klaassen",15
-"Lucas Andersen","Lasse Schöne",27
-"Lucas Andersen","Thulani Serero",33
-"Lucas Andersen","Nick Viergever",17
-"Lucas Andersen","Arek Milik",1
-"Lucas Andersen","Anwar El Ghazi",2
-"Lucas Andersen","Niki Zimling",12
-"Lucas Andersen","Ricardo Kishna",19
-"Lucas Andersen","Arkadiusz Milik",8
-"Lucas Andersen","Stefano Denswil",6
-"Lucas Andersen","Mike van der Hoorn",1
-"Lasse Schöne","Ricardo van Rhijn",39
-"Lasse Schöne","Joël Veltman",12
-"Lasse Schöne","Niklas Moisander",5
-"Lasse Schöne","Nicolai Boilesen",14
-"Lasse Schöne","Kolbeinn Sigthórsson",8
-"Lasse Schöne","Davy Klaassen",33
-"Lasse Schöne","Lucas Andersen",21
-"Lasse Schöne","Thulani Serero",12
-"Lasse Schöne","Nick Viergever",14
-"Lasse Schöne","Niki Zimling",10
-"Lasse Schöne","Ricardo Kishna",8
-"Lasse Schöne","Jairo Riedewald",1
-"Lasse Schöne","Arkadiusz Milik",13
-"Lasse Schöne","Stefano Denswil",3
-"Lasse Schöne","Mike van der Hoorn",2
-"Thulani Serero","Jasper Cillessen",1
-"Thulani Serero","Ricardo van Rhijn",37
-"Thulani Serero","Joël Veltman",31
-"Thulani Serero","Niklas Moisander",20
-"Thulani Serero","Nicolai Boilesen",24
-"Thulani Serero","Kolbeinn Sigthórsson",3
-"Thulani Serero","Davy Klaassen",20
-"Thulani Serero","Lucas Andersen",38
-"Thulani Serero","Lasse Schöne",18
-"Thulani Serero","Nick Viergever",23
-"Thulani Serero","Anwar El Ghazi",2
-"Thulani Serero","Niki Zimling",6
-"Thulani Serero","Ricardo Kishna",20
-"Thulani Serero","Jairo Riedewald",6
-"Thulani Serero","Arkadiusz Milik",6
-"Thulani Serero","Stefano Denswil",4
-"Thulani Serero","Mike van der Hoorn",4
-"Thulani Serero","Richairo Zivkovic",1
-"Nick Viergever","Jasper Cillessen",5
-"Nick Viergever","Ricardo van Rhijn",7
-"Nick Viergever","Joël Veltman",24
-"Nick Viergever","Niklas Moisander",44
-"Nick Viergever","Nicolai Boilesen",18
-"Nick Viergever","Kolbeinn Sigthórsson",6
-"Nick Viergever","Davy Klaassen",13
-"Nick Viergever","Lucas Andersen",24
-"Nick Viergever","Lasse Schöne",14
-"Nick Viergever","Thulani Serero",20
-"Nick Viergever","Anwar El Ghazi",1
-"Nick Viergever","Niki Zimling",7
-"Nick Viergever","Ricardo Kishna",27
-"Nick Viergever","Jairo Riedewald",2
-"Nick Viergever","Arkadiusz Milik",5
-"Nick Viergever","Mike van der Hoorn",1
-"Nick Viergever","Stefano Denswil",11
-"Arek Milik","Niklas Moisander",1
-"Arek Milik","Davy Klaassen",1
-"Arek Milik","Lucas Andersen",1
-"Anwar El Ghazi","Jasper Cillessen",1
-"Anwar El Ghazi","Ricardo van Rhijn",9
-"Anwar El Ghazi","Joël Veltman",1
-"Anwar El Ghazi","Niklas Moisander",1
-"Anwar El Ghazi","Nicolai Boilesen",1
-"Anwar El Ghazi","Kolbeinn Sigthórsson",2
-"Anwar El Ghazi","Davy Klaassen",7
-"Anwar El Ghazi","Thulani Serero",1
-"Anwar El Ghazi","Arkadiusz Milik",1
-"Niki Zimling","Jasper Cillessen",2
-"Niki Zimling","Ricardo van Rhijn",17
-"Niki Zimling","Joël Veltman",10
-"Niki Zimling","Niklas Moisander",15
-"Niki Zimling","Nicolai Boilesen",7
-"Niki Zimling","Kolbeinn Sigthórsson",4
-"Niki Zimling","Davy Klaassen",5
-"Niki Zimling","Lucas Andersen",14
-"Niki Zimling","Lasse Schöne",10
-"Niki Zimling","Thulani Serero",14
-"Niki Zimling","Nick Viergever",5
-"Niki Zimling","Arek Milik",1
-"Niki Zimling","Ricardo Kishna",3
-"Niki Zimling","Arkadiusz Milik",1
-"Niki Zimling","Mike van der Hoorn",1
-"Niki Zimling","Stefano Denswil",4
-"Ricardo Kishna","Ricardo van Rhijn",9
-"Ricardo Kishna","Joël Veltman",4
-"Ricardo Kishna","Niklas Moisander",6
-"Ricardo Kishna","Nicolai Boilesen",1
-"Ricardo Kishna","Kolbeinn Sigthórsson",1
-"Ricardo Kishna","Davy Klaassen",8
-"Ricardo Kishna","Lucas Andersen",16
-"Ricardo Kishna","Lasse Schöne",7
-"Ricardo Kishna","Thulani Serero",18
-"Ricardo Kishna","Nick Viergever",11
-"Ricardo Kishna","Anwar El Ghazi",1
-"Ricardo Kishna","Niki Zimling",1
-"Ricardo Kishna","Jairo Riedewald",4
-"Ricardo Kishna","Arkadiusz Milik",4
-"Ricardo Kishna","Richairo Zivkovic",1
-"Jairo Riedewald","Jasper Cillessen",1
-"Jairo Riedewald","Ricardo van Rhijn",7
-"Jairo Riedewald","Joël Veltman",9
-"Jairo Riedewald","Niklas Moisander",2
-"Jairo Riedewald","Davy Klaassen",3
-"Jairo Riedewald","Ricardo Kishna",8
-"Jairo Riedewald","Lucas Andersen",1
-"Jairo Riedewald","Lasse Schöne",5
-"Jairo Riedewald","Nick Viergever",5
-"Jairo Riedewald","Arkadiusz Milik",4
-"Jairo Riedewald","Anwar El Ghazi",1
-"Jairo Riedewald","Nicolai Boilesen",1
-"Jairo Riedewald","Thulani Serero",5
-"Arkadiusz Milik","Ricardo van Rhijn",5
-"Arkadiusz Milik","Niklas Moisander",3
-"Arkadiusz Milik","Davy Klaassen",6
-"Arkadiusz Milik","Ricardo Kishna",6
-"Arkadiusz Milik","Lucas Andersen",8
-"Arkadiusz Milik","Lasse Schöne",8
-"Arkadiusz Milik","Nick Viergever",4
-"Arkadiusz Milik","Niki Zimling",2
-"Arkadiusz Milik","Jairo Riedewald",1
-"Arkadiusz Milik","Anwar El Ghazi",1
-"Arkadiusz Milik","Nicolai Boilesen",1
-"Arkadiusz Milik","Thulani Serero",6
-"Arkadiusz Milik","Stefano Denswil",1
-"Arkadiusz Milik","Mike van der Hoorn",1
-"Stefano Denswil","Jasper Cillessen",7
-"Stefano Denswil","Ricardo van Rhijn",3
-"Stefano Denswil","Nicolai Boilesen",1
-"Stefano Denswil","Davy Klaassen",1
-"Stefano Denswil","Lucas Andersen",13
-"Stefano Denswil","Lasse Schöne",2
-"Stefano Denswil","Thulani Serero",5
-"Stefano Denswil","Arkadiusz Milik",1
-"Stefano Denswil","Mike van der Hoorn",18
-"Stefano Denswil","Ricardo Kishna",7
-"Stefano Denswil","Nick Viergever",7
-"Stefano Denswil","Niki Zimling",1
-"Mike van der Hoorn","Jasper Cillessen",2
-"Mike van der Hoorn","Ricardo van Rhijn",5
-"Mike van der Hoorn","Davy Klaassen",12
-"Mike van der Hoorn","Ricardo Kishna",2
-"Mike van der Hoorn","Lucas Andersen",3
-"Mike van der Hoorn","Arkadiusz Milik",3
-"Mike van der Hoorn","Lasse Schöne",5
-"Mike van der Hoorn","Stefano Denswil",16
-"Mike van der Hoorn","Thulani Serero",3
-"Mike van der Hoorn","Nick Viergever",3
-"Mike van der Hoorn","Niki Zimling",5
-"Richairo Zivkovic","Ricardo van Rhijn",1
-"Richairo Zivkovic","Thulani Serero",2
+Source,Target,Weight
+"22","2",14
+"22","3",25
+"22","4",42
+"22","5",6
+"22","9",1
+"22","10",3
+"22","16",2
+"22","25",6
+"22","26",13
+"22","32",3
+"22","12",1
+"22","19",1
+"22","24",4
+"22","6",5
+"2","22",14
+"2","3",73
+"2","4",37
+"2","5",4
+"2","9",1
+"2","10",26
+"2","16",18
+"2","20",46
+"2","25",22
+"2","26",9
+"2","21",15
+"2","32",13
+"2","11",12
+"2","12",4
+"2","19",4
+"2","24",5
+"2","6",6
+"3","22",27
+"3","2",76
+"3","4",104
+"3","5",9
+"3","10",12
+"3","16",8
+"3","20",14
+"3","25",28
+"3","26",30
+"3","21",10
+"3","32",15
+"3","11",5
+"3","12",11
+"3","19",6
+"3","30",1
+"4","22",20
+"4","2",23
+"4","3",108
+"4","5",52
+"4","9",4
+"4","10",14
+"4","16",10
+"4","20",13
+"4","25",26
+"4","26",52
+"4","19",1
+"4","21",1
+"4","32",11
+"4","11",13
+"4","12",8
+"4","19",1
+"5","22",7
+"5","2",3
+"5","3",11
+"5","4",29
+"5","9",8
+"5","10",5
+"5","16",29
+"5","20",16
+"5","25",23
+"5","26",18
+"5","19",2
+"5","21",1
+"5","32",6
+"5","11",2
+"5","24",1
+"9","2",1
+"9","3",2
+"9","4",3
+"9","5",3
+"9","10",6
+"9","16",7
+"9","20",5
+"9","25",6
+"9","26",1
+"9","32",1
+"9","11",2
+"10","22",2
+"10","2",38
+"10","3",10
+"10","4",4
+"10","5",9
+"10","9",6
+"10","16",8
+"10","20",27
+"10","25",25
+"10","26",15
+"10","21",16
+"10","32",10
+"10","11",7
+"10","12",5
+"10","19",5
+"10","24",3
+"10","6",11
+"16","2",18
+"16","3",2
+"16","4",9
+"16","5",23
+"16","9",3
+"16","10",15
+"16","20",27
+"16","25",33
+"16","26",17
+"16","19",1
+"16","21",2
+"16","32",12
+"16","11",19
+"16","19",8
+"16","24",6
+"16","6",1
+"20","2",39
+"20","3",12
+"20","4",5
+"20","5",14
+"20","9",8
+"20","10",33
+"20","16",21
+"20","25",12
+"20","26",14
+"20","32",10
+"20","11",8
+"20","12",1
+"20","19",13
+"20","24",3
+"20","6",2
+"25","22",1
+"25","2",37
+"25","3",31
+"25","4",20
+"25","5",24
+"25","9",3
+"25","10",20
+"25","16",38
+"25","20",18
+"25","26",23
+"25","21",2
+"25","32",6
+"25","11",20
+"25","12",6
+"25","19",6
+"25","24",4
+"25","6",4
+"25","30",1
+"26","22",5
+"26","2",7
+"26","3",24
+"26","4",44
+"26","5",18
+"26","9",6
+"26","10",13
+"26","16",24
+"26","20",14
+"26","25",20
+"26","21",1
+"26","32",7
+"26","11",27
+"26","12",2
+"26","19",5
+"26","6",1
+"26","24",11
+"19","4",1
+"19","10",1
+"19","16",1
+"21","22",1
+"21","2",9
+"21","3",1
+"21","4",1
+"21","5",1
+"21","9",2
+"21","10",7
+"21","25",1
+"21","19",1
+"32","22",2
+"32","2",17
+"32","3",10
+"32","4",15
+"32","5",7
+"32","9",4
+"32","10",5
+"32","16",14
+"32","20",10
+"32","25",14
+"32","26",5
+"32","19",1
+"32","11",3
+"32","19",1
+"32","6",1
+"32","24",4
+"11","2",9
+"11","3",4
+"11","4",6
+"11","5",1
+"11","9",1
+"11","10",8
+"11","16",16
+"11","20",7
+"11","25",18
+"11","26",11
+"11","21",1
+"11","32",1
+"11","12",4
+"11","19",4
+"11","30",1
+"12","22",1
+"12","2",7
+"12","3",9
+"12","4",2
+"12","10",3
+"12","11",8
+"12","16",1
+"12","20",5
+"12","26",5
+"12","19",4
+"12","21",1
+"12","5",1
+"12","25",5
+"19","2",5
+"19","4",3
+"19","10",6
+"19","11",6
+"19","16",8
+"19","20",8
+"19","26",4
+"19","32",2
+"19","12",1
+"19","21",1
+"19","5",1
+"19","25",6
+"19","24",1
+"19","6",1
+"24","22",7
+"24","2",3
+"24","5",1
+"24","10",1
+"24","16",13
+"24","20",2
+"24","25",5
+"24","19",1
+"24","6",18
+"24","11",7
+"24","26",7
+"24","32",1
+"6","22",2
+"6","2",5
+"6","10",12
+"6","11",2
+"6","16",3
+"6","19",3
+"6","20",5
+"6","24",16
+"6","25",3
+"6","26",3
+"6","32",5
+"30","2",1
+"30","25",2

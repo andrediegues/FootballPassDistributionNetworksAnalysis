@@ -1,157 +1,158 @@
-"Boy Waterman","Carlão",17
-"Boy Waterman","Tomás De Vincenti",6
-"Boy Waterman","Nektarios Alexandrou",1
-"Boy Waterman","Makridis",1
-"Boy Waterman","Iñaki Astiz",19
-"Boy Waterman","Nuno Morais",2
-"Boy Waterman","Mário Sérgio",4
-"Boy Waterman","Semir Štilić",1
-"Boy Waterman","Charalambides",1
-"Carlão","Boy Waterman",7
-"Carlão","George Efrem",6
-"Carlão","Tomás De Vincenti",11
-"Carlão","Luís Leal",1
-"Carlão","Nektarios Alexandrou",4
-"Carlão","Makridis",19
-"Carlão","Marios Antoniades",11
-"Carlão","Iñaki Astiz",54
-"Carlão","Nuno Morais",25
-"Carlão","Mário Sérgio",6
-"Carlão","Semir Štilić",2
-"Carlão","Mateusz Piątkowski",1
-"Carlão","Vander",6
-"Carlão","Charalambides",1
-"George Efrem","Carlão",3
-"George Efrem","Tomás De Vincenti",3
-"George Efrem","Luís Leal",3
-"George Efrem","Nektarios Alexandrou",1
-"George Efrem","Marios Antoniades",1
-"George Efrem","Mário Sérgio",1
-"Tomás De Vincenti","Carlão",6
-"Tomás De Vincenti","George Efrem",1
-"Tomás De Vincenti","Luís Leal",6
-"Tomás De Vincenti","Makridis",6
-"Tomás De Vincenti","Marios Antoniades",4
-"Tomás De Vincenti","Iñaki Astiz",9
-"Tomás De Vincenti","Nuno Morais",11
-"Tomás De Vincenti","Mário Sérgio",19
-"Tomás De Vincenti","Semir Štilić",6
-"Tomás De Vincenti","Mateusz Piątkowski",3
-"Tomás De Vincenti","Vander",9
-"Tomás De Vincenti","João Guilherme",2
-"Tomás De Vincenti","Charalambides",4
-"Luís Leal","Carlão",1
-"Luís Leal","George Efrem",1
-"Luís Leal","Tomás De Vincenti",2
-"Luís Leal","Makridis",4
-"Luís Leal","Marios Antoniades",1
-"Luís Leal","Iñaki Astiz",1
-"Luís Leal","Nuno Morais",2
-"Luís Leal","Mário Sérgio",4
-"Luís Leal","Semir Štilić",2
-"Luís Leal","Pieros Sotiriou",1
-"Luís Leal","Mateusz Piątkowski",2
-"Luís Leal","Vander",2
-"Luís Leal","Charalambides",1
-"Nektarios Alexandrou","Carlão",4
-"Nektarios Alexandrou","George Efrem",2
-"Nektarios Alexandrou","Tomás De Vincenti",2
-"Nektarios Alexandrou","Luís Leal",1
-"Nektarios Alexandrou","Makridis",1
-"Nektarios Alexandrou","Marios Antoniades",6
-"Nektarios Alexandrou","Iñaki Astiz",1
-"Nektarios Alexandrou","Nuno Morais",3
-"Makridis","Carlão",11
-"Makridis","George Efrem",3
-"Makridis","Tomás De Vincenti",4
-"Makridis","Luís Leal",10
-"Makridis","Nektarios Alexandrou",1
-"Makridis","Marios Antoniades",6
-"Makridis","Iñaki Astiz",9
-"Makridis","Nuno Morais",3
-"Makridis","Mário Sérgio",10
-"Makridis","Semir Štilić",3
-"Makridis","Mateusz Piątkowski",1
-"Makridis","Vander",4
-"Marios Antoniades","Carlão",8
-"Marios Antoniades","Tomás De Vincenti",1
-"Marios Antoniades","Luís Leal",3
-"Marios Antoniades","Nektarios Alexandrou",2
-"Marios Antoniades","Makridis",1
-"Marios Antoniades","Iñaki Astiz",2
-"Marios Antoniades","Nuno Morais",5
-"Marios Antoniades","Mário Sérgio",1
-"Marios Antoniades","Semir Štilić",3
-"Marios Antoniades","Mateusz Piątkowski",1
-"Marios Antoniades","Charalambides",2
-"Iñaki Astiz","Boy Waterman",11
-"Iñaki Astiz","Carlão",42
-"Iñaki Astiz","George Efrem",1
-"Iñaki Astiz","Tomás De Vincenti",10
-"Iñaki Astiz","Luís Leal",3
-"Iñaki Astiz","Nektarios Alexandrou",5
-"Iñaki Astiz","Makridis",18
-"Iñaki Astiz","Marios Antoniades",1
-"Iñaki Astiz","Nuno Morais",22
-"Iñaki Astiz","Mário Sérgio",33
-"Iñaki Astiz","Semir Štilić",3
-"Iñaki Astiz","Vander",3
-"Iñaki Astiz","Charalambides",1
-"Nuno Morais","Carlão",15
-"Nuno Morais","George Efrem",1
-"Nuno Morais","Tomás De Vincenti",12
-"Nuno Morais","Luís Leal",1
-"Nuno Morais","Nektarios Alexandrou",5
-"Nuno Morais","Makridis",10
-"Nuno Morais","Marios Antoniades",1
-"Nuno Morais","Iñaki Astiz",19
-"Nuno Morais","Mário Sérgio",16
-"Nuno Morais","Semir Štilić",10
-"Nuno Morais","Mateusz Piątkowski",2
-"Nuno Morais","Vander",3
-"Nuno Morais","João Guilherme",1
-"Nuno Morais","Charalambides",3
-"Mário Sérgio","Boy Waterman",8
-"Mário Sérgio","Carlão",9
-"Mário Sérgio","George Efrem",4
-"Mário Sérgio","Tomás De Vincenti",20
-"Mário Sérgio","Luís Leal",3
-"Mário Sérgio","Nektarios Alexandrou",3
-"Mário Sérgio","Makridis",11
-"Mário Sérgio","Marios Antoniades",3
-"Mário Sérgio","Iñaki Astiz",12
-"Mário Sérgio","Nuno Morais",13
-"Mário Sérgio","Semir Štilić",6
-"Mário Sérgio","Pieros Sotiriou",3
-"Mário Sérgio","Mateusz Piątkowski",2
-"Mário Sérgio","Vander",7
-"Mário Sérgio","Charalambides",2
-"Semir Štilić","Carlão",3
-"Semir Štilić","Tomás De Vincenti",10
-"Semir Štilić","Luís Leal",4
-"Semir Štilić","Makridis",3
-"Semir Štilić","Marios Antoniades",3
-"Semir Štilić","Iñaki Astiz",2
-"Semir Štilić","Nuno Morais",6
-"Semir Štilić","Mário Sérgio",6
-"Semir Štilić","Vander",5
-"Pieros Sotiriou","Mário Sérgio",1
-"Mateusz Piątkowski","George Efrem",1
-"Mateusz Piątkowski","Tomás De Vincenti",1
-"Mateusz Piątkowski","Luís Leal",2
-"Mateusz Piątkowski","Mário Sérgio",1
-"Vander","Boy Waterman",1
-"Vander","Carlão",4
-"Vander","Tomás De Vincenti",5
-"Vander","Makridis",1
-"Vander","Marios Antoniades",5
-"Vander","Semir Štilić",4
-"Vander","Nuno Morais",3
-"Vander","Mário Sérgio",5
-"Vander","Charalambides",3
-"Charalambides","Tomás De Vincenti",2
-"Charalambides","Luís Leal",1
-"Charalambides","Semir Štilić",1
-"Charalambides","Nuno Morais",3
-"Charalambides","Mário Sérgio",1
-"Charalambides","João Guilherme",1
+Source,Target,Weight
+"99","5",17
+"99","8",6
+"99","11",1
+"99","13",1
+"99","23",19
+"99","26",2
+"99","28",4
+"99","17",1
+"99","10",1
+"5","99",7
+"5","7",6
+"5","8",11
+"5","9",1
+"5","11",4
+"5","13",19
+"5","15",11
+"5","23",54
+"5","26",25
+"5","28",6
+"5","17",2
+"5","27",1
+"5","77",6
+"5","10",1
+"7","5",3
+"7","8",3
+"7","9",3
+"7","11",1
+"7","15",1
+"7","28",1
+"8","5",6
+"8","7",1
+"8","9",6
+"8","13",6
+"8","15",4
+"8","23",9
+"8","26",11
+"8","28",19
+"8","17",6
+"8","27",3
+"8","77",9
+"8","3",2
+"8","10",4
+"9","5",1
+"9","7",1
+"9","8",2
+"9","13",4
+"9","15",1
+"9","23",1
+"9","26",2
+"9","28",4
+"9","17",2
+"9","20",1
+"9","27",2
+"9","77",2
+"9","10",1
+"11","5",4
+"11","7",2
+"11","8",2
+"11","9",1
+"11","13",1
+"11","15",6
+"11","23",1
+"11","26",3
+"13","5",11
+"13","7",3
+"13","8",4
+"13","9",10
+"13","11",1
+"13","15",6
+"13","23",9
+"13","26",3
+"13","28",10
+"13","17",3
+"13","27",1
+"13","77",4
+"15","5",8
+"15","8",1
+"15","9",3
+"15","11",2
+"15","13",1
+"15","23",2
+"15","26",5
+"15","28",1
+"15","17",3
+"15","27",1
+"15","10",2
+"23","99",11
+"23","5",42
+"23","7",1
+"23","8",10
+"23","9",3
+"23","11",5
+"23","13",18
+"23","15",1
+"23","26",22
+"23","28",33
+"23","17",3
+"23","77",3
+"23","10",1
+"26","5",15
+"26","7",1
+"26","8",12
+"26","9",1
+"26","11",5
+"26","13",10
+"26","15",1
+"26","23",19
+"26","28",16
+"26","17",10
+"26","27",2
+"26","77",3
+"26","3",1
+"26","10",3
+"28","99",8
+"28","5",9
+"28","7",4
+"28","8",20
+"28","9",3
+"28","11",3
+"28","13",11
+"28","15",3
+"28","23",12
+"28","26",13
+"28","17",6
+"28","20",3
+"28","27",2
+"28","77",7
+"28","10",2
+"17","5",3
+"17","8",10
+"17","9",4
+"17","13",3
+"17","15",3
+"17","23",2
+"17","26",6
+"17","28",6
+"17","77",5
+"20","28",1
+"27","7",1
+"27","8",1
+"27","9",2
+"27","28",1
+"77","99",1
+"77","5",4
+"77","8",5
+"77","13",1
+"77","15",5
+"77","17",4
+"77","26",3
+"77","28",5
+"77","10",3
+"10","8",2
+"10","9",1
+"10","17",1
+"10","26",3
+"10","28",1
+"10","3",1

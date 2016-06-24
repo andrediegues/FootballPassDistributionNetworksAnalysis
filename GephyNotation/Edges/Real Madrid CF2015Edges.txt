@@ -1,371 +1,372 @@
-"Iker Casillas","Pepe",24
-"Iker Casillas","Sergio Ramos",23
-"Iker Casillas","Cristiano Ronaldo",10
-"Iker Casillas","Toni Kroos",11
-"Iker Casillas","Karim Benzema",5
-"Iker Casillas","James Rodríguez",5
-"Iker Casillas","Gareth Bale",8
-"Iker Casillas","Marcelo",30
-"Iker Casillas","Nacho",3
-"Iker Casillas","Luka Modrić",1
-"Iker Casillas","Raphaël Varane",29
-"Iker Casillas","Javier Hernández",1
-"Iker Casillas","Asier Illarramendi",2
-"Iker Casillas","Álvaro Arbeloa",4
-"Iker Casillas","Isco",9
-"Iker Casillas","Dani Carvajal",8
-"Iker Casillas","Lucas Silva",1
-"Iker Casillas","Fábio Coentrão",1
-"Pepe","Iker Casillas",17
-"Pepe","Sergio Ramos",30
-"Pepe","Cristiano Ronaldo",8
-"Pepe","Toni Kroos",51
-"Pepe","Karim Benzema",2
-"Pepe","James Rodríguez",14
-"Pepe","Gareth Bale",7
-"Pepe","Marcelo",17
-"Pepe","Nacho",11
-"Pepe","Luka Modrić",17
-"Pepe","Raphaël Varane",46
-"Pepe","Javier Hernández",1
-"Pepe","Asier Illarramendi",1
-"Pepe","Álvaro Arbeloa",19
-"Pepe","Isco",9
-"Pepe","Sami Khedira",5
-"Pepe","Dani Carvajal",40
-"Pepe","Lucas Silva",3
-"Pepe","Fábio Coentrão",3
-"Sergio Ramos","Iker Casillas",8
-"Sergio Ramos","Pepe",20
-"Sergio Ramos","Cristiano Ronaldo",15
-"Sergio Ramos","Toni Kroos",91
-"Sergio Ramos","Karim Benzema",3
-"Sergio Ramos","James Rodríguez",58
-"Sergio Ramos","Gareth Bale",16
-"Sergio Ramos","Marcelo",78
-"Sergio Ramos","Nacho",4
-"Sergio Ramos","Luka Modrić",21
-"Sergio Ramos","Raphaël Varane",41
-"Sergio Ramos","Javier Hernández",2
-"Sergio Ramos","Asier Illarramendi",7
-"Sergio Ramos","Álvaro Arbeloa",5
-"Sergio Ramos","Isco",44
-"Sergio Ramos","Keylor Navas",3
-"Sergio Ramos","Fábio Coentrão",12
-"Sergio Ramos","Dani Carvajal",30
-"Sergio Ramos","Jesé",1
-"Cristiano Ronaldo","Pepe",4
-"Cristiano Ronaldo","Sergio Ramos",7
-"Cristiano Ronaldo","Toni Kroos",47
-"Cristiano Ronaldo","Karim Benzema",34
-"Cristiano Ronaldo","James Rodríguez",43
-"Cristiano Ronaldo","Gareth Bale",20
-"Cristiano Ronaldo","Marcelo",45
-"Cristiano Ronaldo","Nacho",8
-"Cristiano Ronaldo","Luka Modrić",18
-"Cristiano Ronaldo","Raphaël Varane",5
-"Cristiano Ronaldo","Javier Hernández",8
-"Cristiano Ronaldo","Asier Illarramendi",11
-"Cristiano Ronaldo","Álvaro Arbeloa",10
-"Cristiano Ronaldo","Isco",52
-"Cristiano Ronaldo","Sami Khedira",2
-"Cristiano Ronaldo","Fábio Coentrão",8
-"Cristiano Ronaldo","Jesé",5
-"Cristiano Ronaldo","Dani Carvajal",8
-"Cristiano Ronaldo","Lucas Silva",4
-"Toni Kroos","Iker Casillas",1
-"Toni Kroos","Pepe",33
-"Toni Kroos","Sergio Ramos",63
-"Toni Kroos","Cristiano Ronaldo",73
-"Toni Kroos","Karim Benzema",36
-"Toni Kroos","James Rodríguez",76
-"Toni Kroos","Gareth Bale",37
-"Toni Kroos","Marcelo",75
-"Toni Kroos","Nacho",11
-"Toni Kroos","Luka Modrić",88
-"Toni Kroos","Raphaël Varane",46
-"Toni Kroos","Javier Hernández",11
-"Toni Kroos","Asier Illarramendi",26
-"Toni Kroos","Álvaro Arbeloa",33
-"Toni Kroos","Isco",126
-"Toni Kroos","Sami Khedira",9
-"Toni Kroos","Fábio Coentrão",18
-"Toni Kroos","Dani Carvajal",54
-"Toni Kroos","Lucas Silva",13
-"Karim Benzema","Pepe",1
-"Karim Benzema","Sergio Ramos",5
-"Karim Benzema","Cristiano Ronaldo",61
-"Karim Benzema","Toni Kroos",29
-"Karim Benzema","James Rodríguez",25
-"Karim Benzema","Gareth Bale",23
-"Karim Benzema","Marcelo",18
-"Karim Benzema","Nacho",1
-"Karim Benzema","Luka Modrić",15
-"Karim Benzema","Raphaël Varane",1
-"Karim Benzema","Asier Illarramendi",1
-"Karim Benzema","Álvaro Arbeloa",6
-"Karim Benzema","Isco",19
-"Karim Benzema","Fábio Coentrão",6
-"Karim Benzema","Dani Carvajal",9
-"James Rodríguez","Iker Casillas",1
-"James Rodríguez","Pepe",5
-"James Rodríguez","Sergio Ramos",44
-"James Rodríguez","Cristiano Ronaldo",57
-"James Rodríguez","Toni Kroos",56
-"James Rodríguez","Karim Benzema",37
-"James Rodríguez","Gareth Bale",15
-"James Rodríguez","Marcelo",59
-"James Rodríguez","Nacho",4
-"James Rodríguez","Luka Modrić",30
-"James Rodríguez","Raphaël Varane",6
-"James Rodríguez","Javier Hernández",10
-"James Rodríguez","Asier Illarramendi",4
-"James Rodríguez","Álvaro Arbeloa",17
-"James Rodríguez","Isco",28
-"James Rodríguez","Sami Khedira",3
-"James Rodríguez","Keylor Navas",1
-"James Rodríguez","Fábio Coentrão",9
-"James Rodríguez","Dani Carvajal",24
-"Gareth Bale","Iker Casillas",1
-"Gareth Bale","Pepe",3
-"Gareth Bale","Sergio Ramos",8
-"Gareth Bale","Cristiano Ronaldo",32
-"Gareth Bale","Toni Kroos",20
-"Gareth Bale","Karim Benzema",15
-"Gareth Bale","James Rodríguez",10
-"Gareth Bale","Marcelo",20
-"Gareth Bale","Nacho",8
-"Gareth Bale","Luka Modrić",20
-"Gareth Bale","Raphaël Varane",9
-"Gareth Bale","Javier Hernández",11
-"Gareth Bale","Asier Illarramendi",8
-"Gareth Bale","Álvaro Arbeloa",20
-"Gareth Bale","Isco",21
-"Gareth Bale","Fábio Coentrão",6
-"Gareth Bale","Dani Carvajal",14
-"Gareth Bale","Lucas Silva",7
-"Gareth Bale","Sami Khedira",4
-"Marcelo","Iker Casillas",3
-"Marcelo","Pepe",9
-"Marcelo","Sergio Ramos",67
-"Marcelo","Cristiano Ronaldo",76
-"Marcelo","Toni Kroos",67
-"Marcelo","Karim Benzema",38
-"Marcelo","James Rodríguez",55
-"Marcelo","Gareth Bale",21
-"Marcelo","Nacho",3
-"Marcelo","Luka Modrić",12
-"Marcelo","Raphaël Varane",34
-"Marcelo","Javier Hernández",5
-"Marcelo","Asier Illarramendi",14
-"Marcelo","Álvaro Arbeloa",2
-"Marcelo","Isco",109
-"Marcelo","Sami Khedira",1
-"Marcelo","Jesé",1
-"Marcelo","Álvaro Medrán",1
-"Marcelo","Dani Carvajal",4
-"Marcelo","Lucas Silva",1
-"Nacho","Iker Casillas",4
-"Nacho","Pepe",13
-"Nacho","Sergio Ramos",4
-"Nacho","Cristiano Ronaldo",6
-"Nacho","Toni Kroos",17
-"Nacho","James Rodríguez",2
-"Nacho","Gareth Bale",10
-"Nacho","Marcelo",3
-"Nacho","Luka Modrić",9
-"Nacho","Raphaël Varane",9
-"Nacho","Asier Illarramendi",6
-"Nacho","Álvaro Arbeloa",1
-"Nacho","Isco",12
-"Nacho","Keylor Navas",4
-"Nacho","Fábio Coentrão",1
-"Nacho","Jesé",2
-"Luka Modrić","Iker Casillas",4
-"Luka Modrić","Pepe",15
-"Luka Modrić","Sergio Ramos",23
-"Luka Modrić","Cristiano Ronaldo",25
-"Luka Modrić","Toni Kroos",66
-"Luka Modrić","Karim Benzema",29
-"Luka Modrić","James Rodríguez",32
-"Luka Modrić","Gareth Bale",28
-"Luka Modrić","Marcelo",19
-"Luka Modrić","Nacho",8
-"Luka Modrić","Raphaël Varane",16
-"Luka Modrić","Javier Hernández",1
-"Luka Modrić","Asier Illarramendi",9
-"Luka Modrić","Álvaro Arbeloa",35
-"Luka Modrić","Isco",33
-"Luka Modrić","Sami Khedira",4
-"Luka Modrić","Dani Carvajal",18
-"Raphaël Varane","Iker Casillas",32
-"Raphaël Varane","Pepe",47
-"Raphaël Varane","Sergio Ramos",52
-"Raphaël Varane","Cristiano Ronaldo",6
-"Raphaël Varane","Toni Kroos",76
-"Raphaël Varane","Karim Benzema",8
-"Raphaël Varane","James Rodríguez",13
-"Raphaël Varane","Gareth Bale",7
-"Raphaël Varane","Marcelo",51
-"Raphaël Varane","Nacho",10
-"Raphaël Varane","Luka Modrić",27
-"Raphaël Varane","Javier Hernández",6
-"Raphaël Varane","Asier Illarramendi",18
-"Raphaël Varane","Álvaro Arbeloa",41
-"Raphaël Varane","Isco",51
-"Raphaël Varane","Sami Khedira",2
-"Raphaël Varane","Keylor Navas",4
-"Raphaël Varane","Fábio Coentrão",24
-"Raphaël Varane","Jesé",2
-"Raphaël Varane","Álvaro Medrán",1
-"Raphaël Varane","Dani Carvajal",21
-"Raphaël Varane","Lucas Silva",2
-"Javier Hernández","Pepe",2
-"Javier Hernández","Sergio Ramos",2
-"Javier Hernández","Cristiano Ronaldo",6
-"Javier Hernández","Toni Kroos",5
-"Javier Hernández","James Rodríguez",8
-"Javier Hernández","Gareth Bale",10
-"Javier Hernández","Marcelo",3
-"Javier Hernández","Raphaël Varane",1
-"Javier Hernández","Asier Illarramendi",5
-"Javier Hernández","Álvaro Arbeloa",1
-"Javier Hernández","Isco",6
-"Javier Hernández","Fábio Coentrão",3
-"Javier Hernández","Jesé",2
-"Javier Hernández","Álvaro Medrán",1
-"Javier Hernández","Dani Carvajal",2
-"Javier Hernández","Lucas Silva",1
-"Asier Illarramendi","Iker Casillas",1
-"Asier Illarramendi","Pepe",2
-"Asier Illarramendi","Sergio Ramos",14
-"Asier Illarramendi","Cristiano Ronaldo",20
-"Asier Illarramendi","Toni Kroos",18
-"Asier Illarramendi","Karim Benzema",1
-"Asier Illarramendi","James Rodríguez",7
-"Asier Illarramendi","Gareth Bale",21
-"Asier Illarramendi","Marcelo",16
-"Asier Illarramendi","Nacho",5
-"Asier Illarramendi","Luka Modrić",12
-"Asier Illarramendi","Raphaël Varane",16
-"Asier Illarramendi","Javier Hernández",7
-"Asier Illarramendi","Álvaro Arbeloa",10
-"Asier Illarramendi","Isco",39
-"Asier Illarramendi","Sami Khedira",1
-"Asier Illarramendi","Keylor Navas",2
-"Asier Illarramendi","Fábio Coentrão",3
-"Asier Illarramendi","Jesé",4
-"Asier Illarramendi","Álvaro Medrán",2
-"Álvaro Arbeloa","Iker Casillas",10
-"Álvaro Arbeloa","Raphaël Varane",26
-"Álvaro Arbeloa","Sergio Ramos",4
-"Álvaro Arbeloa","Cristiano Ronaldo",6
-"Álvaro Arbeloa","Gareth Bale",30
-"Álvaro Arbeloa","Marcelo",3
-"Álvaro Arbeloa","Luka Modrić",31
-"Álvaro Arbeloa","Isco",12
-"Álvaro Arbeloa","Asier Illarramendi",21
-"Álvaro Arbeloa","Toni Kroos",17
-"Álvaro Arbeloa","Karim Benzema",9
-"Álvaro Arbeloa","James Rodríguez",22
-"Álvaro Arbeloa","Pepe",17
-"Álvaro Arbeloa","Sami Khedira",8
-"Álvaro Arbeloa","Nacho",1
-"Álvaro Arbeloa","Keylor Navas",1
-"Álvaro Arbeloa","Fábio Coentrão",1
-"Álvaro Arbeloa","Jesé",2
-"Álvaro Arbeloa","Álvaro Medrán",1
-"Álvaro Arbeloa","Lucas Silva",1
-"Isco","Raphaël Varane",45
-"Isco","Sergio Ramos",23
-"Isco","Cristiano Ronaldo",79
-"Isco","Gareth Bale",29
-"Isco","Marcelo",117
-"Isco","Javier Hernández",13
-"Isco","Álvaro Arbeloa",12
-"Isco","Luka Modrić",35
-"Isco","Asier Illarramendi",24
-"Isco","Toni Kroos",108
-"Isco","Karim Benzema",31
-"Isco","James Rodríguez",25
-"Isco","Pepe",9
-"Isco","Sami Khedira",2
-"Isco","Nacho",3
-"Isco","Keylor Navas",1
-"Isco","Fábio Coentrão",41
-"Isco","Jesé",2
-"Isco","Dani Carvajal",16
-"Isco","Lucas Silva",3
-"Sami Khedira","Raphaël Varane",5
-"Sami Khedira","Pepe",4
-"Sami Khedira","Cristiano Ronaldo",2
-"Sami Khedira","Toni Kroos",9
-"Sami Khedira","Karim Benzema",2
-"Sami Khedira","James Rodríguez",3
-"Sami Khedira","Álvaro Arbeloa",11
-"Sami Khedira","Luka Modrić",1
-"Sami Khedira","Isco",4
-"Sami Khedira","Asier Illarramendi",1
-"Sami Khedira","Fábio Coentrão",2
-"Sami Khedira","Gareth Bale",1
-"Keylor Navas","Raphaël Varane",10
-"Keylor Navas","Sergio Ramos",6
-"Keylor Navas","Fábio Coentrão",3
-"Keylor Navas","Toni Kroos",3
-"Keylor Navas","Gareth Bale",1
-"Keylor Navas","Álvaro Arbeloa",1
-"Keylor Navas","Isco",1
-"Keylor Navas","Marcelo",1
-"Keylor Navas","Nacho",5
-"Keylor Navas","Asier Illarramendi",4
-"Fábio Coentrão","Keylor Navas",1
-"Fábio Coentrão","Raphaël Varane",17
-"Fábio Coentrão","Sergio Ramos",10
-"Fábio Coentrão","Cristiano Ronaldo",17
-"Fábio Coentrão","Toni Kroos",20
-"Fábio Coentrão","Karim Benzema",5
-"Fábio Coentrão","James Rodríguez",6
-"Fábio Coentrão","Gareth Bale",5
-"Fábio Coentrão","Álvaro Arbeloa",1
-"Fábio Coentrão","Isco",35
-"Fábio Coentrão","Nacho",5
-"Fábio Coentrão","Asier Illarramendi",3
-"Fábio Coentrão","Javier Hernández",5
-"Fábio Coentrão","Pepe",2
-"Jesé","Raphaël Varane",1
-"Jesé","Cristiano Ronaldo",3
-"Jesé","Álvaro Arbeloa",2
-"Jesé","Isco",3
-"Jesé","Asier Illarramendi",1
-"Jesé","Marcelo",2
-"Jesé","Álvaro Medrán",1
-"Jesé","Sergio Ramos",1
-"Álvaro Medrán","Javier Hernández",2
-"Álvaro Medrán","Álvaro Arbeloa",1
-"Álvaro Medrán","Isco",3
-"Álvaro Medrán","Jesé",1
-"Dani Carvajal","Iker Casillas",6
-"Dani Carvajal","Raphaël Varane",16
-"Dani Carvajal","Pepe",31
-"Dani Carvajal","Cristiano Ronaldo",15
-"Dani Carvajal","Toni Kroos",21
-"Dani Carvajal","Karim Benzema",8
-"Dani Carvajal","Gareth Bale",38
-"Dani Carvajal","Marcelo",6
-"Dani Carvajal","Lucas Silva",12
-"Dani Carvajal","Isco",19
-"Dani Carvajal","Javier Hernández",3
-"Dani Carvajal","Sergio Ramos",36
-"Dani Carvajal","James Rodríguez",35
-"Dani Carvajal","Luka Modrić",21
-"Dani Carvajal","Fábio Coentrão",2
-"Lucas Silva","Raphaël Varane",3
-"Lucas Silva","Pepe",4
-"Lucas Silva","Cristiano Ronaldo",4
-"Lucas Silva","Toni Kroos",5
-"Lucas Silva","Karim Benzema",3
-"Lucas Silva","Gareth Bale",15
-"Lucas Silva","Marcelo",4
-"Lucas Silva","Dani Carvajal",8
-"Lucas Silva","Isco",5
-"Lucas Silva","Álvaro Arbeloa",2
+Source,Target,Weight
+"1","3",24
+"1","4",23
+"1","7",10
+"1","8",11
+"1","9",5
+"1","10",5
+"1","11",8
+"1","12",30
+"1","18",3
+"1","19",1
+"1","2",29
+"1","14",1
+"1","24",2
+"1","17",4
+"1","23",9
+"1","15",8
+"1","16",1
+"1","5",1
+"3","1",17
+"3","4",30
+"3","7",8
+"3","8",51
+"3","9",2
+"3","10",14
+"3","11",7
+"3","12",17
+"3","18",11
+"3","19",17
+"3","2",46
+"3","14",1
+"3","24",1
+"3","17",19
+"3","23",9
+"3","6",5
+"3","15",40
+"3","16",3
+"3","5",3
+"4","1",8
+"4","3",20
+"4","7",15
+"4","8",91
+"4","9",3
+"4","10",58
+"4","11",16
+"4","12",78
+"4","18",4
+"4","19",21
+"4","2",41
+"4","14",2
+"4","24",7
+"4","17",5
+"4","23",44
+"4","13",3
+"4","5",12
+"4","15",30
+"4","20",1
+"7","3",4
+"7","4",7
+"7","8",47
+"7","9",34
+"7","10",43
+"7","11",20
+"7","12",45
+"7","18",8
+"7","19",18
+"7","2",5
+"7","14",8
+"7","24",11
+"7","17",10
+"7","23",52
+"7","6",2
+"7","5",8
+"7","20",5
+"7","15",8
+"7","16",4
+"8","1",1
+"8","3",33
+"8","4",63
+"8","7",73
+"8","9",36
+"8","10",76
+"8","11",37
+"8","12",75
+"8","18",11
+"8","19",88
+"8","2",46
+"8","14",11
+"8","24",26
+"8","17",33
+"8","23",126
+"8","6",9
+"8","5",18
+"8","15",54
+"8","16",13
+"9","3",1
+"9","4",5
+"9","7",61
+"9","8",29
+"9","10",25
+"9","11",23
+"9","12",18
+"9","18",1
+"9","19",15
+"9","2",1
+"9","24",1
+"9","17",6
+"9","23",19
+"9","5",6
+"9","15",9
+"10","1",1
+"10","3",5
+"10","4",44
+"10","7",57
+"10","8",56
+"10","9",37
+"10","11",15
+"10","12",59
+"10","18",4
+"10","19",30
+"10","2",6
+"10","14",10
+"10","24",4
+"10","17",17
+"10","23",28
+"10","6",3
+"10","13",1
+"10","5",9
+"10","15",24
+"11","1",1
+"11","3",3
+"11","4",8
+"11","7",32
+"11","8",20
+"11","9",15
+"11","10",10
+"11","12",20
+"11","18",8
+"11","19",20
+"11","2",9
+"11","14",11
+"11","24",8
+"11","17",20
+"11","23",21
+"11","5",6
+"11","15",14
+"11","16",7
+"11","6",4
+"12","1",3
+"12","3",9
+"12","4",67
+"12","7",76
+"12","8",67
+"12","9",38
+"12","10",55
+"12","11",21
+"12","18",3
+"12","19",12
+"12","2",34
+"12","14",5
+"12","24",14
+"12","17",2
+"12","23",109
+"12","6",1
+"12","20",1
+"12","26",1
+"12","15",4
+"12","16",1
+"18","1",4
+"18","3",13
+"18","4",4
+"18","7",6
+"18","8",17
+"18","10",2
+"18","11",10
+"18","12",3
+"18","19",9
+"18","2",9
+"18","24",6
+"18","17",1
+"18","23",12
+"18","13",4
+"18","5",1
+"18","20",2
+"19","1",4
+"19","3",15
+"19","4",23
+"19","7",25
+"19","8",66
+"19","9",29
+"19","10",32
+"19","11",28
+"19","12",19
+"19","18",8
+"19","2",16
+"19","14",1
+"19","24",9
+"19","17",35
+"19","23",33
+"19","6",4
+"19","15",18
+"2","1",32
+"2","3",47
+"2","4",52
+"2","7",6
+"2","8",76
+"2","9",8
+"2","10",13
+"2","11",7
+"2","12",51
+"2","18",10
+"2","19",27
+"2","14",6
+"2","24",18
+"2","17",41
+"2","23",51
+"2","6",2
+"2","13",4
+"2","5",24
+"2","20",2
+"2","26",1
+"2","15",21
+"2","16",2
+"14","3",2
+"14","4",2
+"14","7",6
+"14","8",5
+"14","10",8
+"14","11",10
+"14","12",3
+"14","2",1
+"14","24",5
+"14","17",1
+"14","23",6
+"14","5",3
+"14","20",2
+"14","26",1
+"14","15",2
+"14","16",1
+"24","1",1
+"24","3",2
+"24","4",14
+"24","7",20
+"24","8",18
+"24","9",1
+"24","10",7
+"24","11",21
+"24","12",16
+"24","18",5
+"24","19",12
+"24","2",16
+"24","14",7
+"24","17",10
+"24","23",39
+"24","6",1
+"24","13",2
+"24","5",3
+"24","20",4
+"24","26",2
+"17","1",10
+"17","2",26
+"17","4",4
+"17","7",6
+"17","11",30
+"17","12",3
+"17","19",31
+"17","23",12
+"17","24",21
+"17","8",17
+"17","9",9
+"17","10",22
+"17","3",17
+"17","6",8
+"17","18",1
+"17","13",1
+"17","5",1
+"17","20",2
+"17","26",1
+"17","16",1
+"23","2",45
+"23","4",23
+"23","7",79
+"23","11",29
+"23","12",117
+"23","14",13
+"23","17",12
+"23","19",35
+"23","24",24
+"23","8",108
+"23","9",31
+"23","10",25
+"23","3",9
+"23","6",2
+"23","18",3
+"23","13",1
+"23","5",41
+"23","20",2
+"23","15",16
+"23","16",3
+"6","2",5
+"6","3",4
+"6","7",2
+"6","8",9
+"6","9",2
+"6","10",3
+"6","17",11
+"6","19",1
+"6","23",4
+"6","24",1
+"6","5",2
+"6","11",1
+"13","2",10
+"13","4",6
+"13","5",3
+"13","8",3
+"13","11",1
+"13","17",1
+"13","23",1
+"13","12",1
+"13","18",5
+"13","24",4
+"5","13",1
+"5","2",17
+"5","4",10
+"5","7",17
+"5","8",20
+"5","9",5
+"5","10",6
+"5","11",5
+"5","17",1
+"5","23",35
+"5","18",5
+"5","24",3
+"5","14",5
+"5","3",2
+"20","2",1
+"20","7",3
+"20","17",2
+"20","23",3
+"20","24",1
+"20","12",2
+"20","26",1
+"20","4",1
+"26","14",2
+"26","17",1
+"26","23",3
+"26","20",1
+"15","1",6
+"15","2",16
+"15","3",31
+"15","7",15
+"15","8",21
+"15","9",8
+"15","11",38
+"15","12",6
+"15","16",12
+"15","23",19
+"15","14",3
+"15","4",36
+"15","10",35
+"15","19",21
+"15","5",2
+"16","2",3
+"16","3",4
+"16","7",4
+"16","8",5
+"16","9",3
+"16","11",15
+"16","12",4
+"16","15",8
+"16","23",5
+"16","17",2

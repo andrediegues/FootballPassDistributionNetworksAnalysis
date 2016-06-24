@@ -1,223 +1,224 @@
-"Robin Olsen","Anton Tinnerholm",19
-"Robin Olsen","Filip Helander",16
-"Robin Olsen","Markus Halsti",5
-"Robin Olsen","Markus Rosenberg",6
-"Robin Olsen","Simon Kroon",2
-"Robin Olsen","Ricardinho",26
-"Robin Olsen","Erik Johansson",9
-"Robin Olsen","Isaac Thelin",10
-"Robin Olsen","Emil Forsberg",3
-"Robin Olsen","Magnus Eriksson",2
-"Robin Olsen","Pawel Cibicki",2
-"Robin Olsen","Pa Konate",2
-"Robin Olsen","Isaac Kiese Thelin",9
-"Robin Olsen","Enock Adu",5
-"Anton Tinnerholm","Robin Olsen",11
-"Anton Tinnerholm","Filip Helander",1
-"Anton Tinnerholm","Markus Halsti",19
-"Anton Tinnerholm","Enoch Adu",3
-"Anton Tinnerholm","Markus Rosenberg",13
-"Anton Tinnerholm","Simon Kroon",16
-"Anton Tinnerholm","Ricardinho",5
-"Anton Tinnerholm","Erik Johansson",19
-"Anton Tinnerholm","Isaac Thelin",4
-"Anton Tinnerholm","Emil Forsberg",6
-"Anton Tinnerholm","Magnus Eriksson",35
-"Anton Tinnerholm","Pawel Cibicki",1
-"Anton Tinnerholm","Erdal Rakip",2
-"Anton Tinnerholm","Isaac Kiese Thelin",3
-"Anton Tinnerholm","Enock Adu",15
-"Anton Tinnerholm","Simon Thern",2
-"Filip Helander","Robin Olsen",23
-"Filip Helander","Anton Tinnerholm",8
-"Filip Helander","Markus Halsti",28
-"Filip Helander","Enoch Adu",6
-"Filip Helander","Markus Rosenberg",5
-"Filip Helander","Simon Kroon",2
-"Filip Helander","Ricardinho",39
-"Filip Helander","Erik Johansson",14
-"Filip Helander","Isaac Thelin",2
-"Filip Helander","Emil Forsberg",9
-"Filip Helander","Magnus Eriksson",5
-"Filip Helander","Pa Konate",7
-"Filip Helander","Isaac Kiese Thelin",3
-"Filip Helander","Enock Adu",21
-"Markus Halsti","Robin Olsen",13
-"Markus Halsti","Anton Tinnerholm",36
-"Markus Halsti","Filip Helander",41
-"Markus Halsti","Enoch Adu",8
-"Markus Halsti","Markus Rosenberg",8
-"Markus Halsti","Simon Kroon",12
-"Markus Halsti","Ricardinho",23
-"Markus Halsti","Erik Johansson",13
-"Markus Halsti","Isaac Thelin",2
-"Markus Halsti","Emil Forsberg",13
-"Markus Halsti","Magnus Eriksson",17
-"Markus Halsti","Pawel Cibicki",1
-"Markus Halsti","Pa Konate",3
-"Markus Halsti","Erdal Rakip",1
-"Markus Halsti","Isaac Kiese Thelin",5
-"Markus Halsti","Enock Adu",24
-"Enoch Adu","Robin Olsen",2
-"Enoch Adu","Anton Tinnerholm",10
-"Enoch Adu","Filip Helander",10
-"Enoch Adu","Markus Halsti",9
-"Enoch Adu","Markus Rosenberg",8
-"Enoch Adu","Simon Kroon",2
-"Enoch Adu","Ricardinho",13
-"Enoch Adu","Erik Johansson",6
-"Enoch Adu","Isaac Thelin",6
-"Enoch Adu","Emil Forsberg",12
-"Enoch Adu","Magnus Eriksson",12
-"Enoch Adu","Pa Konate",8
-"Enoch Adu","Agon Mehmeti",1
-"Enoch Adu","Isaac Kiese Thelin",3
-"Markus Rosenberg","Anton Tinnerholm",7
-"Markus Rosenberg","Filip Helander",2
-"Markus Rosenberg","Markus Halsti",7
-"Markus Rosenberg","Enoch Adu",2
-"Markus Rosenberg","Simon Kroon",8
-"Markus Rosenberg","Ricardinho",3
-"Markus Rosenberg","Erik Johansson",2
-"Markus Rosenberg","Isaac Thelin",1
-"Markus Rosenberg","Emil Forsberg",23
-"Markus Rosenberg","Magnus Eriksson",14
-"Markus Rosenberg","Pawel Cibicki",3
-"Markus Rosenberg","Pa Konate",1
-"Markus Rosenberg","Erdal Rakip",1
-"Markus Rosenberg","Isaac Kiese Thelin",8
-"Markus Rosenberg","Enock Adu",5
-"Markus Rosenberg","Simon Thern",1
-"Simon Kroon","Anton Tinnerholm",7
-"Simon Kroon","Markus Halsti",4
-"Simon Kroon","Markus Rosenberg",7
-"Simon Kroon","Ricardinho",1
-"Simon Kroon","Isaac Thelin",3
-"Simon Kroon","Emil Forsberg",1
-"Simon Kroon","Magnus Eriksson",5
-"Simon Kroon","Erdal Rakip",1
-"Simon Kroon","Isaac Kiese Thelin",3
-"Simon Kroon","Simon Thern",2
-"Ricardinho","Robin Olsen",11
-"Ricardinho","Anton Tinnerholm",9
-"Ricardinho","Filip Helander",21
-"Ricardinho","Markus Halsti",18
-"Ricardinho","Enoch Adu",6
-"Ricardinho","Markus Rosenberg",22
-"Ricardinho","Simon Kroon",2
-"Ricardinho","Erik Johansson",8
-"Ricardinho","Isaac Thelin",3
-"Ricardinho","Emil Forsberg",48
-"Ricardinho","Magnus Eriksson",20
-"Ricardinho","Pawel Cibicki",2
-"Ricardinho","Isaac Kiese Thelin",9
-"Ricardinho","Erdal Rakip",1
-"Ricardinho","Enock Adu",28
-"Ricardinho","Simon Thern",8
-"Ricardinho","Pa Konate",1
-"Erik Johansson","Robin Olsen",7
-"Erik Johansson","Anton Tinnerholm",28
-"Erik Johansson","Filip Helander",22
-"Erik Johansson","Markus Halsti",27
-"Erik Johansson","Enoch Adu",11
-"Erik Johansson","Markus Rosenberg",2
-"Erik Johansson","Simon Kroon",3
-"Erik Johansson","Ricardinho",7
-"Erik Johansson","Isaac Thelin",4
-"Erik Johansson","Emil Forsberg",11
-"Erik Johansson","Magnus Eriksson",18
-"Erik Johansson","Pawel Cibicki",1
-"Erik Johansson","Pa Konate",2
-"Erik Johansson","Isaac Kiese Thelin",6
-"Erik Johansson","Enock Adu",14
-"Isaac Thelin","Anton Tinnerholm",2
-"Isaac Thelin","Markus Halsti",1
-"Isaac Thelin","Markus Rosenberg",6
-"Isaac Thelin","Erik Johansson",3
-"Isaac Thelin","Emil Forsberg",4
-"Isaac Thelin","Magnus Eriksson",4
-"Emil Forsberg","Anton Tinnerholm",8
-"Emil Forsberg","Filip Helander",4
-"Emil Forsberg","Markus Halsti",4
-"Emil Forsberg","Enoch Adu",4
-"Emil Forsberg","Markus Rosenberg",23
-"Emil Forsberg","Simon Kroon",7
-"Emil Forsberg","Ricardinho",41
-"Emil Forsberg","Erik Johansson",3
-"Emil Forsberg","Isaac Thelin",3
-"Emil Forsberg","Magnus Eriksson",9
-"Emil Forsberg","Pawel Cibicki",3
-"Emil Forsberg","Pa Konate",6
-"Emil Forsberg","Isaac Kiese Thelin",5
-"Emil Forsberg","Enock Adu",11
-"Emil Forsberg","Simon Thern",1
-"Magnus Eriksson","Robin Olsen",2
-"Magnus Eriksson","Anton Tinnerholm",43
-"Magnus Eriksson","Filip Helander",7
-"Magnus Eriksson","Markus Halsti",8
-"Magnus Eriksson","Enoch Adu",10
-"Magnus Eriksson","Markus Rosenberg",11
-"Magnus Eriksson","Simon Kroon",4
-"Magnus Eriksson","Ricardinho",23
-"Magnus Eriksson","Erik Johansson",15
-"Magnus Eriksson","Isaac Thelin",3
-"Magnus Eriksson","Emil Forsberg",5
-"Magnus Eriksson","Pa Konate",4
-"Magnus Eriksson","Isaac Kiese Thelin",6
-"Magnus Eriksson","Enock Adu",12
-"Pawel Cibicki","Markus Rosenberg",4
-"Pawel Cibicki","Emil Forsberg",1
-"Pawel Cibicki","Magnus Eriksson",2
-"Pawel Cibicki","Erdal Rakip",1
-"Pawel Cibicki","Enock Adu",1
-"Pawel Cibicki","Simon Thern",1
-"Pa Konate","Robin Olsen",3
-"Pa Konate","Anton Tinnerholm",1
-"Pa Konate","Filip Helander",3
-"Pa Konate","Magnus Eriksson",2
-"Pa Konate","Enoch Adu",4
-"Pa Konate","Markus Rosenberg",3
-"Pa Konate","Isaac Thelin",1
-"Pa Konate","Emil Forsberg",6
-"Pa Konate","Erdal Rakip",1
-"Pa Konate","Enock Adu",2
-"Pa Konate","Isaac Kiese Thelin",1
-"Agon Mehmeti","Magnus Eriksson",1
-"Agon Mehmeti","Markus Rosenberg",1
-"Agon Mehmeti","Emil Forsberg",1
-"Erdal Rakip","Anton Tinnerholm",3
-"Erdal Rakip","Emil Forsberg",1
-"Erdal Rakip","Simon Kroon",1
-"Erdal Rakip","Agon Mehmeti",1
-"Erdal Rakip","Pawel Cibicki",1
-"Erdal Rakip","Enock Adu",2
-"Isaac Kiese Thelin","Anton Tinnerholm",3
-"Isaac Kiese Thelin","Magnus Eriksson",7
-"Isaac Kiese Thelin","Enoch Adu",1
-"Isaac Kiese Thelin","Markus Rosenberg",9
-"Isaac Kiese Thelin","Ricardinho",3
-"Isaac Kiese Thelin","Erik Johansson",3
-"Isaac Kiese Thelin","Emil Forsberg",6
-"Isaac Kiese Thelin","Pawel Cibicki",1
-"Isaac Kiese Thelin","Enock Adu",11
-"Isaac Kiese Thelin","Simon Kroon",1
-"Isaac Kiese Thelin","Pa Konate",1
-"Enock Adu","Robin Olsen",4
-"Enock Adu","Anton Tinnerholm",17
-"Enock Adu","Filip Helander",23
-"Enock Adu","Markus Halsti",29
-"Enock Adu","Magnus Eriksson",23
-"Enock Adu","Markus Rosenberg",5
-"Enock Adu","Ricardinho",37
-"Enock Adu","Erik Johansson",16
-"Enock Adu","Isaac Kiese Thelin",7
-"Enock Adu","Emil Forsberg",19
-"Enock Adu","Simon Thern",1
-"Enock Adu","Simon Kroon",2
-"Enock Adu","Pa Konate",5
-"Enock Adu","Erdal Rakip",2
-"Simon Thern","Filip Helander",1
-"Simon Thern","Enock Adu",4
-"Simon Thern","Markus Rosenberg",1
-"Simon Thern","Ricardinho",5
-"Simon Thern","Emil Forsberg",1
+Source,Target,Weight
+"25","3",19
+"25","4",16
+"25","6",5
+"25","9",6
+"25","14",2
+"25","20",26
+"25","21",9
+"25","24",10
+"25","33",3
+"25","7",2
+"25","15",2
+"25","32",2
+"25","24",9
+"25","8",5
+"3","25",11
+"3","4",1
+"3","6",19
+"3","8",3
+"3","9",13
+"3","14",16
+"3","20",5
+"3","21",19
+"3","24",4
+"3","33",6
+"3","7",35
+"3","15",1
+"3","31",2
+"3","24",3
+"3","8",15
+"3","11",2
+"4","25",23
+"4","3",8
+"4","6",28
+"4","8",6
+"4","9",5
+"4","14",2
+"4","20",39
+"4","21",14
+"4","24",2
+"4","33",9
+"4","7",5
+"4","32",7
+"4","24",3
+"4","8",21
+"6","25",13
+"6","3",36
+"6","4",41
+"6","8",8
+"6","9",8
+"6","14",12
+"6","20",23
+"6","21",13
+"6","24",2
+"6","33",13
+"6","7",17
+"6","15",1
+"6","32",3
+"6","31",1
+"6","24",5
+"6","8",24
+"8","25",2
+"8","3",10
+"8","4",10
+"8","6",9
+"8","9",8
+"8","14",2
+"8","20",13
+"8","21",6
+"8","24",6
+"8","33",12
+"8","7",12
+"8","32",8
+"8","26",1
+"8","24",3
+"9","3",7
+"9","4",2
+"9","6",7
+"9","8",2
+"9","14",8
+"9","20",3
+"9","21",2
+"9","24",1
+"9","33",23
+"9","7",14
+"9","15",3
+"9","32",1
+"9","31",1
+"9","24",8
+"9","8",5
+"9","11",1
+"14","3",7
+"14","6",4
+"14","9",7
+"14","20",1
+"14","24",3
+"14","33",1
+"14","7",5
+"14","31",1
+"14","24",3
+"14","11",2
+"20","25",11
+"20","3",9
+"20","4",21
+"20","6",18
+"20","8",6
+"20","9",22
+"20","14",2
+"20","21",8
+"20","24",3
+"20","33",48
+"20","7",20
+"20","15",2
+"20","24",9
+"20","31",1
+"20","8",28
+"20","11",8
+"20","32",1
+"21","25",7
+"21","3",28
+"21","4",22
+"21","6",27
+"21","8",11
+"21","9",2
+"21","14",3
+"21","20",7
+"21","24",4
+"21","33",11
+"21","7",18
+"21","15",1
+"21","32",2
+"21","24",6
+"21","8",14
+"24","3",2
+"24","6",1
+"24","9",6
+"24","21",3
+"24","33",4
+"24","7",4
+"33","3",8
+"33","4",4
+"33","6",4
+"33","8",4
+"33","9",23
+"33","14",7
+"33","20",41
+"33","21",3
+"33","24",3
+"33","7",9
+"33","15",3
+"33","32",6
+"33","24",5
+"33","8",11
+"33","11",1
+"7","25",2
+"7","3",43
+"7","4",7
+"7","6",8
+"7","8",10
+"7","9",11
+"7","14",4
+"7","20",23
+"7","21",15
+"7","24",3
+"7","33",5
+"7","32",4
+"7","24",6
+"7","8",12
+"15","9",4
+"15","33",1
+"15","7",2
+"15","31",1
+"15","8",1
+"15","11",1
+"32","25",3
+"32","3",1
+"32","4",3
+"32","7",2
+"32","8",4
+"32","9",3
+"32","24",1
+"32","33",6
+"32","31",1
+"32","8",2
+"32","24",1
+"26","7",1
+"26","9",1
+"26","33",1
+"31","3",3
+"31","33",1
+"31","14",1
+"31","26",1
+"31","15",1
+"31","8",2
+"24","3",3
+"24","7",7
+"24","8",1
+"24","9",9
+"24","20",3
+"24","21",3
+"24","33",6
+"24","15",1
+"24","8",11
+"24","14",1
+"24","32",1
+"8","25",4
+"8","3",17
+"8","4",23
+"8","6",29
+"8","7",23
+"8","9",5
+"8","20",37
+"8","21",16
+"8","24",7
+"8","33",19
+"8","11",1
+"8","14",2
+"8","32",5
+"8","31",2
+"11","4",1
+"11","8",4
+"11","9",1
+"11","20",5
+"11","33",1

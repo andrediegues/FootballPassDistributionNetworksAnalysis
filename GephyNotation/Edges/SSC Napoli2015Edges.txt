@@ -1,131 +1,132 @@
-"Rafael Cabral","Miguel Britos",3
-"Rafael Cabral","José Callejón",3
-"Rafael Cabral","Jorginho",1
-"Rafael Cabral","Christian Maggio",3
-"Rafael Cabral","Kalidou Koulibaly",15
-"Rafael Cabral","Raúl Albiol",19
-"Rafael Cabral","Walter Gargano",2
-"Miguel Britos","Rafael Cabral",3
-"Miguel Britos","José Callejón",1
-"Miguel Britos","Jorginho",4
-"Miguel Britos","Gonzalo Higuaín",5
-"Miguel Britos","Christian Maggio",1
-"Miguel Britos","Marek Hamšík",3
-"Miguel Britos","Lorenzo Insigne",5
-"Miguel Britos","Kalidou Koulibaly",11
-"Miguel Britos","Raúl Albiol",1
-"Miguel Britos","Walter Gargano",2
-"Miguel Britos","Dries Mertens",7
-"José Callejón","Miguel Britos",2
-"José Callejón","Jorginho",4
-"José Callejón","Gonzalo Higuaín",4
-"José Callejón","Christian Maggio",3
-"José Callejón","Marek Hamšík",8
-"José Callejón","Kalidou Koulibaly",1
-"José Callejón","Raúl Albiol",9
-"José Callejón","Walter Gargano",6
-"José Callejón","Dries Mertens",1
-"Jorginho","Rafael Cabral",2
-"Jorginho","Miguel Britos",4
-"Jorginho","José Callejón",4
-"Jorginho","Gonzalo Higuaín",6
-"Jorginho","Christian Maggio",6
-"Jorginho","Marek Hamšík",11
-"Jorginho","Lorenzo Insigne",2
-"Jorginho","Kalidou Koulibaly",20
-"Jorginho","Raúl Albiol",15
-"Jorginho","Walter Gargano",18
-"Jorginho","Dries Mertens",7
-"Jorginho","Faouzi Ghoulam",1
-"Gonzalo Higuaín","José Callejón",5
-"Gonzalo Higuaín","Jorginho",6
-"Gonzalo Higuaín","Christian Maggio",2
-"Gonzalo Higuaín","Marek Hamšík",6
-"Gonzalo Higuaín","Lorenzo Insigne",3
-"Gonzalo Higuaín","Kalidou Koulibaly",2
-"Gonzalo Higuaín","Raúl Albiol",2
-"Gonzalo Higuaín","Walter Gargano",2
-"Gonzalo Higuaín","Dries Mertens",3
-"Christian Maggio","Rafael Cabral",1
-"Christian Maggio","José Callejón",11
-"Christian Maggio","Jorginho",9
-"Christian Maggio","Gonzalo Higuaín",2
-"Christian Maggio","Marek Hamšík",3
-"Christian Maggio","Lorenzo Insigne",1
-"Christian Maggio","Kalidou Koulibaly",1
-"Christian Maggio","Raúl Albiol",13
-"Christian Maggio","Walter Gargano",6
-"Christian Maggio","Michu",1
-"Marek Hamšík","Rafael Cabral",1
-"Marek Hamšík","Miguel Britos",6
-"Marek Hamšík","José Callejón",2
-"Marek Hamšík","Jorginho",8
-"Marek Hamšík","Gonzalo Higuaín",8
-"Marek Hamšík","Christian Maggio",7
-"Marek Hamšík","Lorenzo Insigne",1
-"Marek Hamšík","Kalidou Koulibaly",6
-"Marek Hamšík","Raúl Albiol",4
-"Marek Hamšík","Walter Gargano",6
-"Marek Hamšík","Dries Mertens",5
-"Marek Hamšík","Faouzi Ghoulam",1
-"Lorenzo Insigne","Rafael Cabral",1
-"Lorenzo Insigne","Jorginho",4
-"Lorenzo Insigne","Gonzalo Higuaín",2
-"Lorenzo Insigne","Marek Hamšík",2
-"Lorenzo Insigne","Kalidou Koulibaly",1
-"Lorenzo Insigne","Raúl Albiol",1
-"Lorenzo Insigne","Walter Gargano",5
-"Lorenzo Insigne","Duván Zapata",1
-"Kalidou Koulibaly","Rafael Cabral",8
-"Kalidou Koulibaly","Miguel Britos",16
-"Kalidou Koulibaly","Jorginho",22
-"Kalidou Koulibaly","Gonzalo Higuaín",2
-"Kalidou Koulibaly","Christian Maggio",3
-"Kalidou Koulibaly","Marek Hamšík",9
-"Kalidou Koulibaly","Lorenzo Insigne",5
-"Kalidou Koulibaly","Raúl Albiol",16
-"Kalidou Koulibaly","Walter Gargano",20
-"Kalidou Koulibaly","Dries Mertens",6
-"Kalidou Koulibaly","Faouzi Ghoulam",4
-"Raúl Albiol","Rafael Cabral",8
-"Raúl Albiol","Miguel Britos",4
-"Raúl Albiol","José Callejón",10
-"Raúl Albiol","Jorginho",16
-"Raúl Albiol","Gonzalo Higuaín",6
-"Raúl Albiol","Christian Maggio",12
-"Raúl Albiol","Marek Hamšík",9
-"Raúl Albiol","Lorenzo Insigne",1
-"Raúl Albiol","Kalidou Koulibaly",21
-"Raúl Albiol","Walter Gargano",13
-"Raúl Albiol","Dries Mertens",1
-"Walter Gargano","Rafael Cabral",4
-"Walter Gargano","Miguel Britos",6
-"Walter Gargano","José Callejón",4
-"Walter Gargano","Jorginho",7
-"Walter Gargano","Gonzalo Higuaín",4
-"Walter Gargano","Christian Maggio",12
-"Walter Gargano","Marek Hamšík",8
-"Walter Gargano","Lorenzo Insigne",6
-"Walter Gargano","Kalidou Koulibaly",16
-"Walter Gargano","Raúl Albiol",16
-"Walter Gargano","Dries Mertens",5
-"Walter Gargano","Michu",1
-"Walter Gargano","Faouzi Ghoulam",3
-"Walter Gargano","Duván Zapata",1
-"Dries Mertens","Miguel Britos",3
-"Dries Mertens","José Callejón",1
-"Dries Mertens","Jorginho",5
-"Dries Mertens","Gonzalo Higuaín",3
-"Dries Mertens","Marek Hamšík",2
-"Dries Mertens","Kalidou Koulibaly",3
-"Dries Mertens","Walter Gargano",3
-"Dries Mertens","Faouzi Ghoulam",3
-"Michu","José Callejón",1
-"Michu","Christian Maggio",1
-"Michu","Dries Mertens",1
-"Faouzi Ghoulam","Rafael Cabral",2
-"Faouzi Ghoulam","Jorginho",1
-"Faouzi Ghoulam","Dries Mertens",5
-"Faouzi Ghoulam","Marek Hamšík",2
-"Faouzi Ghoulam","Kalidou Koulibaly",3
-"Faouzi Ghoulam","Walter Gargano",2
+Source,Target,Weight
+"1","5",3
+"1","7",3
+"1","8",1
+"1","11",3
+"1","26",15
+"1","33",19
+"1","77",2
+"5","1",3
+"5","7",1
+"5","8",4
+"5","9",5
+"5","11",1
+"5","17",3
+"5","24",5
+"5","26",11
+"5","33",1
+"5","77",2
+"5","14",7
+"7","5",2
+"7","8",4
+"7","9",4
+"7","11",3
+"7","17",8
+"7","26",1
+"7","33",9
+"7","77",6
+"7","14",1
+"8","1",2
+"8","5",4
+"8","7",4
+"8","9",6
+"8","11",6
+"8","17",11
+"8","24",2
+"8","26",20
+"8","33",15
+"8","77",18
+"8","14",7
+"8","31",1
+"9","7",5
+"9","8",6
+"9","11",2
+"9","17",6
+"9","24",3
+"9","26",2
+"9","33",2
+"9","77",2
+"9","14",3
+"11","1",1
+"11","7",11
+"11","8",9
+"11","9",2
+"11","17",3
+"11","24",1
+"11","26",1
+"11","33",13
+"11","77",6
+"11","25",1
+"17","1",1
+"17","5",6
+"17","7",2
+"17","8",8
+"17","9",8
+"17","11",7
+"17","24",1
+"17","26",6
+"17","33",4
+"17","77",6
+"17","14",5
+"17","31",1
+"24","1",1
+"24","8",4
+"24","9",2
+"24","17",2
+"24","26",1
+"24","33",1
+"24","77",5
+"24","91",1
+"26","1",8
+"26","5",16
+"26","8",22
+"26","9",2
+"26","11",3
+"26","17",9
+"26","24",5
+"26","33",16
+"26","77",20
+"26","14",6
+"26","31",4
+"33","1",8
+"33","5",4
+"33","7",10
+"33","8",16
+"33","9",6
+"33","11",12
+"33","17",9
+"33","24",1
+"33","26",21
+"33","77",13
+"33","14",1
+"77","1",4
+"77","5",6
+"77","7",4
+"77","8",7
+"77","9",4
+"77","11",12
+"77","17",8
+"77","24",6
+"77","26",16
+"77","33",16
+"77","14",5
+"77","25",1
+"77","31",3
+"77","91",1
+"14","5",3
+"14","7",1
+"14","8",5
+"14","9",3
+"14","17",2
+"14","26",3
+"14","77",3
+"14","31",3
+"25","7",1
+"25","11",1
+"25","14",1
+"31","1",2
+"31","8",1
+"31","14",5
+"31","17",2
+"31","26",3
+"31","77",2

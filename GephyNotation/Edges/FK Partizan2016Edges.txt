@@ -1,128 +1,129 @@
-"Živko Živković","Miroslav Vulićević",1
-"Živko Živković","Nemanja Petrović",4
-"Živko Živković","Gregor Balažic",2
-"Živko Živković","Abubakar Oumaru",3
-"Živko Živković","Fabrício",8
-"Živko Živković","Ivan Šaponjić",1
-"Miroslav Vulićević","Živko Živković",2
-"Miroslav Vulićević","Gregor Balažic",7
-"Miroslav Vulićević","Darko Brašanac",5
-"Miroslav Vulićević","Stefan Babović",7
-"Miroslav Vulićević","Abubakar Oumaru",3
-"Miroslav Vulićević","Andrija Živković",12
-"Miroslav Vulićević","Marko Jevtović",1
-"Miroslav Vulićević","Fabrício",4
-"Miroslav Vulićević","Valeri Bozhinov",2
-"Miroslav Vulićević","Saša Ilić",1
-"Miroslav Vulićević","Nikola Trujić",1
-"Miroslav Vulićević","Saša Lukić",1
-"Nemanja Petrović","Miroslav Vulićević",2
-"Nemanja Petrović","Gregor Balažic",1
-"Nemanja Petrović","Darko Brašanac",7
-"Nemanja Petrović","Stefan Babović",4
-"Nemanja Petrović","Abubakar Oumaru",10
-"Nemanja Petrović","Andrija Živković",3
-"Nemanja Petrović","Marko Jevtović",1
-"Nemanja Petrović","Fabrício",7
-"Nemanja Petrović","Valeri Bozhinov",1
-"Nemanja Petrović","Saša Ilić",3
-"Nemanja Petrović","Saša Lukić",6
-"Gregor Balažic","Živko Živković",3
-"Gregor Balažic","Miroslav Vulićević",17
-"Gregor Balažic","Nemanja Petrović",4
-"Gregor Balažic","Darko Brašanac",7
-"Gregor Balažic","Stefan Babović",13
-"Gregor Balažic","Andrija Živković",9
-"Gregor Balažic","Marko Jevtović",1
-"Gregor Balažic","Fabrício",15
-"Gregor Balažic","Valeri Bozhinov",2
-"Gregor Balažic","Saša Lukić",3
-"Darko Brašanac","Živko Živković",1
-"Darko Brašanac","Miroslav Vulićević",9
-"Darko Brašanac","Nemanja Petrović",8
-"Darko Brašanac","Gregor Balažic",6
-"Darko Brašanac","Stefan Babović",16
-"Darko Brašanac","Abubakar Oumaru",6
-"Darko Brašanac","Andrija Živković",5
-"Darko Brašanac","Marko Jevtović",2
-"Darko Brašanac","Fabrício",8
-"Darko Brašanac","Valeri Bozhinov",1
-"Darko Brašanac","Saša Ilić",7
-"Darko Brašanac","Nikola Trujić",2
-"Darko Brašanac","Saša Lukić",2
-"Darko Brašanac","Ivan Šaponjić",3
-"Stefan Babović","Živko Živković",1
-"Stefan Babović","Miroslav Vulićević",5
-"Stefan Babović","Nemanja Petrović",8
-"Stefan Babović","Gregor Balažic",7
-"Stefan Babović","Darko Brašanac",12
-"Stefan Babović","Abubakar Oumaru",4
-"Stefan Babović","Andrija Živković",9
-"Stefan Babović","Marko Jevtović",1
-"Stefan Babović","Fabrício",7
-"Stefan Babović","Valeri Bozhinov",3
-"Stefan Babović","Saša Ilić",5
-"Stefan Babović","Saša Lukić",2
-"Stefan Babović","Ivan Šaponjić",6
-"Abubakar Oumaru","Miroslav Vulićević",1
-"Abubakar Oumaru","Nemanja Petrović",4
-"Abubakar Oumaru","Darko Brašanac",3
-"Abubakar Oumaru","Stefan Babović",7
-"Abubakar Oumaru","Andrija Živković",5
-"Abubakar Oumaru","Valeri Bozhinov",1
-"Abubakar Oumaru","Nikola Trujić",2
-"Abubakar Oumaru","Saša Lukić",2
-"Andrija Živković","Miroslav Vulićević",10
-"Andrija Živković","Nemanja Petrović",2
-"Andrija Živković","Gregor Balažic",5
-"Andrija Živković","Darko Brašanac",5
-"Andrija Živković","Stefan Babović",2
-"Andrija Živković","Abubakar Oumaru",7
-"Andrija Živković","Marko Jevtović",1
-"Andrija Živković","Fabrício",1
-"Andrija Živković","Saša Ilić",1
-"Andrija Živković","Saša Lukić",1
-"Andrija Živković","Ivan Šaponjić",1
-"Marko Jevtović","Miroslav Vulićević",4
-"Marko Jevtović","Nemanja Petrović",1
-"Marko Jevtović","Darko Brašanac",1
-"Marko Jevtović","Andrija Živković",1
-"Marko Jevtović","Valeri Bozhinov",2
-"Fabrício","Živko Živković",5
-"Fabrício","Miroslav Vulićević",1
-"Fabrício","Nemanja Petrović",16
-"Fabrício","Gregor Balažic",11
-"Fabrício","Darko Brašanac",5
-"Fabrício","Stefan Babović",8
-"Fabrício","Abubakar Oumaru",4
-"Fabrício","Andrija Živković",1
-"Fabrício","Nikola Trujić",1
-"Fabrício","Saša Lukić",8
-"Fabrício","Ivan Šaponjić",2
-"Valeri Bozhinov","Darko Brašanac",2
-"Valeri Bozhinov","Stefan Babović",3
-"Valeri Bozhinov","Abubakar Oumaru",4
-"Valeri Bozhinov","Saša Lukić",2
-"Saša Ilić","Miroslav Vulićević",2
-"Saša Ilić","Nemanja Petrović",2
-"Saša Ilić","Gregor Balažic",1
-"Saša Ilić","Stefan Babović",2
-"Saša Ilić","Abubakar Oumaru",2
-"Saša Ilić","Andrija Živković",3
-"Saša Ilić","Ivan Šaponjić",2
-"Nikola Trujić","Miroslav Vulićević",2
-"Nikola Trujić","Nemanja Petrović",1
-"Nikola Trujić","Stefan Babović",2
-"Saša Lukić","Nemanja Petrović",6
-"Saša Lukić","Gregor Balažic",5
-"Saša Lukić","Darko Brašanac",3
-"Saša Lukić","Stefan Babović",2
-"Saša Lukić","Abubakar Oumaru",2
-"Saša Lukić","Andrija Živković",3
-"Saša Lukić","Fabrício",3
-"Saša Lukić","Valeri Bozhinov",1
-"Ivan Šaponjić","Miroslav Vulićević",1
-"Ivan Šaponjić","Darko Brašanac",3
-"Ivan Šaponjić","Stefan Babović",1
-"Ivan Šaponjić","Abubakar Oumaru",1
-"Ivan Šaponjić","Saša Ilić",2
+Source,Target,Weight
+"1","4",1
+"1","5",4
+"1","6",2
+"1","15",3
+"1","44",8
+"1","33",1
+"4","1",2
+"4","6",7
+"4","8",5
+"4","10",7
+"4","15",3
+"4","17",12
+"4","21",1
+"4","44",4
+"4","86",2
+"4","22",1
+"4","92",1
+"4","20",1
+"5","4",2
+"5","6",1
+"5","8",7
+"5","10",4
+"5","15",10
+"5","17",3
+"5","21",1
+"5","44",7
+"5","86",1
+"5","22",3
+"5","20",6
+"6","1",3
+"6","4",17
+"6","5",4
+"6","8",7
+"6","10",13
+"6","17",9
+"6","21",1
+"6","44",15
+"6","86",2
+"6","20",3
+"8","1",1
+"8","4",9
+"8","5",8
+"8","6",6
+"8","10",16
+"8","15",6
+"8","17",5
+"8","21",2
+"8","44",8
+"8","86",1
+"8","22",7
+"8","92",2
+"8","20",2
+"8","33",3
+"10","1",1
+"10","4",5
+"10","5",8
+"10","6",7
+"10","8",12
+"10","15",4
+"10","17",9
+"10","21",1
+"10","44",7
+"10","86",3
+"10","22",5
+"10","20",2
+"10","33",6
+"15","4",1
+"15","5",4
+"15","8",3
+"15","10",7
+"15","17",5
+"15","86",1
+"15","92",2
+"15","20",2
+"17","4",10
+"17","5",2
+"17","6",5
+"17","8",5
+"17","10",2
+"17","15",7
+"17","21",1
+"17","44",1
+"17","22",1
+"17","20",1
+"17","33",1
+"21","4",4
+"21","5",1
+"21","8",1
+"21","17",1
+"21","86",2
+"44","1",5
+"44","4",1
+"44","5",16
+"44","6",11
+"44","8",5
+"44","10",8
+"44","15",4
+"44","17",1
+"44","92",1
+"44","20",8
+"44","33",2
+"86","8",2
+"86","10",3
+"86","15",4
+"86","20",2
+"22","4",2
+"22","5",2
+"22","6",1
+"22","10",2
+"22","15",2
+"22","17",3
+"22","33",2
+"92","4",2
+"92","5",1
+"92","10",2
+"20","5",6
+"20","6",5
+"20","8",3
+"20","10",2
+"20","15",2
+"20","17",3
+"20","44",3
+"20","86",1
+"33","4",1
+"33","8",3
+"33","10",1
+"33","15",1
+"33","22",2

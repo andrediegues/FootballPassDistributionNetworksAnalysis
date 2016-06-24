@@ -1,440 +1,441 @@
-"Christian Abbiati","Mattia De Sciglio",7
-"Christian Abbiati","Philippe Mexès",13
-"Christian Abbiati","Antonio Nocerino",4
-"Christian Abbiati","Kevin-Prince Boateng",5
-"Christian Abbiati","Giampaolo Pazzini",8
-"Christian Abbiati","Mathieu Flamini",1
-"Christian Abbiati","Daniele Bonera",9
-"Christian Abbiati","Urby Emanuelson",4
-"Christian Abbiati","Nigel de Jong",4
-"Christian Abbiati","Luca Antonini",5
-"Christian Abbiati","Kévin Constant",3
-"Christian Abbiati","Mario Yepes",7
-"Christian Abbiati","Stephan El Shaarawy",1
-"Christian Abbiati","Cristián Zapata",7
-"Christian Abbiati","Riccardo Montolivo",3
-"Christian Abbiati","Ignazio Abate",4
-"Christian Abbiati","Bojan Krkić",6
-"Christian Abbiati","Pato",2
-"Christian Abbiati","Francesco Acerbi",4
-"Christian Abbiati","Massimo Ambrosini",3
-"Christian Abbiati","M'Baye Niang",1
-"Mattia De Sciglio","Christian Abbiati",6
-"Mattia De Sciglio","Philippe Mexès",15
-"Mattia De Sciglio","Kevin-Prince Boateng",19
-"Mattia De Sciglio","Giampaolo Pazzini",10
-"Mattia De Sciglio","Mathieu Flamini",21
-"Mattia De Sciglio","Daniele Bonera",7
-"Mattia De Sciglio","Urby Emanuelson",17
-"Mattia De Sciglio","Nigel de Jong",12
-"Mattia De Sciglio","Kévin Constant",1
-"Mattia De Sciglio","Mario Yepes",2
-"Mattia De Sciglio","Stephan El Shaarawy",2
-"Mattia De Sciglio","Marco Amelia",1
-"Mattia De Sciglio","Francesco Acerbi",1
-"Mattia De Sciglio","Riccardo Montolivo",18
-"Mattia De Sciglio","Massimo Ambrosini",10
-"Mattia De Sciglio","Pato",3
-"Mattia De Sciglio","Bojan Krkić",10
-"Mattia De Sciglio","Robinho",4
-"Mattia De Sciglio","Cristián Zapata",6
-"Mattia De Sciglio","Djamel Mesbah",1
-"Philippe Mexès","Christian Abbiati",9
-"Philippe Mexès","Mattia De Sciglio",20
-"Philippe Mexès","Antonio Nocerino",2
-"Philippe Mexès","Kevin-Prince Boateng",8
-"Philippe Mexès","Giampaolo Pazzini",4
-"Philippe Mexès","Mathieu Flamini",6
-"Philippe Mexès","Daniele Bonera",13
-"Philippe Mexès","Urby Emanuelson",12
-"Philippe Mexès","Nigel de Jong",10
-"Philippe Mexès","Luca Antonini",7
-"Philippe Mexès","Kévin Constant",20
-"Philippe Mexès","Mario Yepes",5
-"Philippe Mexès","Stephan El Shaarawy",8
-"Philippe Mexès","Marco Amelia",4
-"Philippe Mexès","Francesco Acerbi",3
-"Philippe Mexès","Riccardo Montolivo",27
-"Philippe Mexès","Massimo Ambrosini",4
-"Philippe Mexès","Bojan Krkić",2
-"Philippe Mexès","Ignazio Abate",3
-"Philippe Mexès","Cristián Zapata",9
-"Philippe Mexès","Sulley Muntari",8
-"Antonio Nocerino","Mattia De Sciglio",1
-"Antonio Nocerino","Kevin-Prince Boateng",5
-"Antonio Nocerino","Giampaolo Pazzini",3
-"Antonio Nocerino","Mathieu Flamini",2
-"Antonio Nocerino","Daniele Bonera",3
-"Antonio Nocerino","Urby Emanuelson",5
-"Antonio Nocerino","Nigel de Jong",8
-"Antonio Nocerino","Luca Antonini",9
-"Antonio Nocerino","Kévin Constant",3
-"Antonio Nocerino","Mario Yepes",2
-"Antonio Nocerino","Stephan El Shaarawy",13
-"Antonio Nocerino","Cristián Zapata",1
-"Antonio Nocerino","Riccardo Montolivo",2
-"Antonio Nocerino","Ignazio Abate",1
-"Antonio Nocerino","Bojan Krkić",2
-"Antonio Nocerino","Pato",1
-"Kevin-Prince Boateng","Christian Abbiati",2
-"Kevin-Prince Boateng","Mattia De Sciglio",13
-"Kevin-Prince Boateng","Philippe Mexès",4
-"Kevin-Prince Boateng","Antonio Nocerino",4
-"Kevin-Prince Boateng","Giampaolo Pazzini",5
-"Kevin-Prince Boateng","Mathieu Flamini",4
-"Kevin-Prince Boateng","Daniele Bonera",2
-"Kevin-Prince Boateng","Urby Emanuelson",15
-"Kevin-Prince Boateng","Nigel de Jong",12
-"Kevin-Prince Boateng","Luca Antonini",3
-"Kevin-Prince Boateng","Kévin Constant",2
-"Kevin-Prince Boateng","Stephan El Shaarawy",16
-"Kevin-Prince Boateng","Cristián Zapata",14
-"Kevin-Prince Boateng","Riccardo Montolivo",18
-"Kevin-Prince Boateng","Ignazio Abate",16
-"Kevin-Prince Boateng","Bojan Krkić",8
-"Kevin-Prince Boateng","Pato",1
-"Kevin-Prince Boateng","Robinho",4
-"Kevin-Prince Boateng","Francesco Acerbi",4
-"Kevin-Prince Boateng","Djamel Mesbah",6
-"Kevin-Prince Boateng","Massimo Ambrosini",8
-"Kevin-Prince Boateng","Sulley Muntari",6
-"Kevin-Prince Boateng","M'Baye Niang",4
-"Giampaolo Pazzini","Philippe Mexès",1
-"Giampaolo Pazzini","Antonio Nocerino",1
-"Giampaolo Pazzini","Kevin-Prince Boateng",8
-"Giampaolo Pazzini","Mathieu Flamini",2
-"Giampaolo Pazzini","Urby Emanuelson",5
-"Giampaolo Pazzini","Nigel de Jong",3
-"Giampaolo Pazzini","Kévin Constant",1
-"Giampaolo Pazzini","Stephan El Shaarawy",4
-"Giampaolo Pazzini","Cristián Zapata",2
-"Giampaolo Pazzini","Riccardo Montolivo",1
-"Giampaolo Pazzini","Ignazio Abate",1
-"Giampaolo Pazzini","Bojan Krkić",2
-"Giampaolo Pazzini","Francesco Acerbi",1
-"Giampaolo Pazzini","Massimo Ambrosini",3
-"Giampaolo Pazzini","Sulley Muntari",3
-"Mathieu Flamini","Mattia De Sciglio",14
-"Mathieu Flamini","Philippe Mexès",1
-"Mathieu Flamini","Antonio Nocerino",1
-"Mathieu Flamini","Kevin-Prince Boateng",8
-"Mathieu Flamini","Giampaolo Pazzini",1
-"Mathieu Flamini","Daniele Bonera",1
-"Mathieu Flamini","Urby Emanuelson",4
-"Mathieu Flamini","Nigel de Jong",2
-"Mathieu Flamini","Luca Antonini",3
-"Mathieu Flamini","Mario Yepes",1
-"Mathieu Flamini","Stephan El Shaarawy",1
-"Mathieu Flamini","Francesco Acerbi",2
-"Mathieu Flamini","Cristián Zapata",3
-"Mathieu Flamini","Bojan Krkić",7
-"Mathieu Flamini","Massimo Ambrosini",7
-"Mathieu Flamini","Robinho",1
-"Mathieu Flamini","Riccardo Montolivo",2
-"Mathieu Flamini","M'Baye Niang",1
-"Mathieu Flamini","Ignazio Abate",3
-"Daniele Bonera","Christian Abbiati",11
-"Daniele Bonera","Mattia De Sciglio",4
-"Daniele Bonera","Philippe Mexès",28
-"Daniele Bonera","Antonio Nocerino",4
-"Daniele Bonera","Kevin-Prince Boateng",1
-"Daniele Bonera","Giampaolo Pazzini",3
-"Daniele Bonera","Mathieu Flamini",2
-"Daniele Bonera","Urby Emanuelson",6
-"Daniele Bonera","Nigel de Jong",18
-"Daniele Bonera","Luca Antonini",9
-"Daniele Bonera","Kévin Constant",11
-"Daniele Bonera","Stephan El Shaarawy",8
-"Daniele Bonera","Cristián Zapata",6
-"Daniele Bonera","Riccardo Montolivo",10
-"Daniele Bonera","Ignazio Abate",2
-"Daniele Bonera","Bojan Krkić",5
-"Daniele Bonera","Marco Amelia",4
-"Daniele Bonera","Francesco Acerbi",3
-"Daniele Bonera","Massimo Ambrosini",3
-"Daniele Bonera","Pato",2
-"Urby Emanuelson","Christian Abbiati",1
-"Urby Emanuelson","Mattia De Sciglio",8
-"Urby Emanuelson","Philippe Mexès",5
-"Urby Emanuelson","Antonio Nocerino",10
-"Urby Emanuelson","Kevin-Prince Boateng",14
-"Urby Emanuelson","Giampaolo Pazzini",4
-"Urby Emanuelson","Mathieu Flamini",3
-"Urby Emanuelson","Daniele Bonera",1
-"Urby Emanuelson","Nigel de Jong",8
-"Urby Emanuelson","Luca Antonini",3
-"Urby Emanuelson","Kévin Constant",3
-"Urby Emanuelson","Stephan El Shaarawy",8
-"Urby Emanuelson","Cristián Zapata",8
-"Urby Emanuelson","Riccardo Montolivo",15
-"Urby Emanuelson","Ignazio Abate",2
-"Urby Emanuelson","Bojan Krkić",19
-"Urby Emanuelson","Marco Amelia",1
-"Urby Emanuelson","Francesco Acerbi",8
-"Urby Emanuelson","Massimo Ambrosini",4
-"Urby Emanuelson","Pato",4
-"Urby Emanuelson","Robinho",5
-"Urby Emanuelson","Djamel Mesbah",5
-"Nigel de Jong","Christian Abbiati",5
-"Nigel de Jong","Mattia De Sciglio",11
-"Nigel de Jong","Philippe Mexès",6
-"Nigel de Jong","Antonio Nocerino",12
-"Nigel de Jong","Kevin-Prince Boateng",9
-"Nigel de Jong","Giampaolo Pazzini",3
-"Nigel de Jong","Mathieu Flamini",1
-"Nigel de Jong","Daniele Bonera",16
-"Nigel de Jong","Urby Emanuelson",8
-"Nigel de Jong","Luca Antonini",11
-"Nigel de Jong","Kévin Constant",14
-"Nigel de Jong","Mario Yepes",5
-"Nigel de Jong","Stephan El Shaarawy",10
-"Nigel de Jong","Cristián Zapata",4
-"Nigel de Jong","Riccardo Montolivo",17
-"Nigel de Jong","Ignazio Abate",6
-"Nigel de Jong","Bojan Krkić",9
-"Nigel de Jong","Pato",9
-"Nigel de Jong","Robinho",2
-"Luca Antonini","Christian Abbiati",2
-"Luca Antonini","Antonio Nocerino",11
-"Luca Antonini","Kevin-Prince Boateng",7
-"Luca Antonini","Giampaolo Pazzini",4
-"Luca Antonini","Mathieu Flamini",1
-"Luca Antonini","Daniele Bonera",9
-"Luca Antonini","Urby Emanuelson",3
-"Luca Antonini","Nigel de Jong",9
-"Luca Antonini","Kévin Constant",1
-"Luca Antonini","Mario Yepes",2
-"Luca Antonini","Stephan El Shaarawy",9
-"Luca Antonini","Cristián Zapata",1
-"Luca Antonini","Riccardo Montolivo",6
-"Luca Antonini","Ignazio Abate",1
-"Luca Antonini","Bojan Krkić",1
-"Kévin Constant","Christian Abbiati",3
-"Kévin Constant","Mattia De Sciglio",4
-"Kévin Constant","Philippe Mexès",7
-"Kévin Constant","Antonio Nocerino",3
-"Kévin Constant","Kevin-Prince Boateng",7
-"Kévin Constant","Giampaolo Pazzini",1
-"Kévin Constant","Daniele Bonera",11
-"Kévin Constant","Urby Emanuelson",1
-"Kévin Constant","Nigel de Jong",17
-"Kévin Constant","Luca Antonini",1
-"Kévin Constant","Mario Yepes",3
-"Kévin Constant","Stephan El Shaarawy",22
-"Kévin Constant","Marco Amelia",1
-"Kévin Constant","Francesco Acerbi",7
-"Kévin Constant","Riccardo Montolivo",17
-"Kévin Constant","Massimo Ambrosini",6
-"Kévin Constant","Pato",7
-"Kévin Constant","Bojan Krkić",7
-"Kévin Constant","Ignazio Abate",1
-"Kévin Constant","Robinho",5
-"Kévin Constant","Cristián Zapata",2
-"Kévin Constant","Sulley Muntari",6
-"Kévin Constant","M'Baye Niang",2
-"Mario Yepes","Christian Abbiati",1
-"Mario Yepes","Mattia De Sciglio",1
-"Mario Yepes","Philippe Mexès",6
-"Mario Yepes","Antonio Nocerino",6
-"Mario Yepes","Kevin-Prince Boateng",2
-"Mario Yepes","Nigel de Jong",5
-"Mario Yepes","Luca Antonini",1
-"Mario Yepes","Kévin Constant",5
-"Mario Yepes","Stephan El Shaarawy",3
-"Mario Yepes","Riccardo Montolivo",6
-"Mario Yepes","Bojan Krkić",2
-"Mario Yepes","Pato",1
-"Stephan El Shaarawy","Mattia De Sciglio",1
-"Stephan El Shaarawy","Philippe Mexès",2
-"Stephan El Shaarawy","Antonio Nocerino",5
-"Stephan El Shaarawy","Kevin-Prince Boateng",10
-"Stephan El Shaarawy","Giampaolo Pazzini",5
-"Stephan El Shaarawy","Daniele Bonera",3
-"Stephan El Shaarawy","Urby Emanuelson",7
-"Stephan El Shaarawy","Nigel de Jong",10
-"Stephan El Shaarawy","Luca Antonini",8
-"Stephan El Shaarawy","Kévin Constant",22
-"Stephan El Shaarawy","Mario Yepes",1
-"Stephan El Shaarawy","Cristián Zapata",3
-"Stephan El Shaarawy","Riccardo Montolivo",12
-"Stephan El Shaarawy","Ignazio Abate",4
-"Stephan El Shaarawy","Bojan Krkić",5
-"Stephan El Shaarawy","Francesco Acerbi",2
-"Stephan El Shaarawy","Massimo Ambrosini",4
-"Stephan El Shaarawy","Pato",2
-"Stephan El Shaarawy","Robinho",5
-"Stephan El Shaarawy","Sulley Muntari",4
-"Stephan El Shaarawy","M'Baye Niang",2
-"Cristián Zapata","Christian Abbiati",5
-"Cristián Zapata","Kevin-Prince Boateng",8
-"Cristián Zapata","Riccardo Montolivo",21
-"Cristián Zapata","Ignazio Abate",17
-"Cristián Zapata","Bojan Krkić",4
-"Cristián Zapata","Daniele Bonera",3
-"Cristián Zapata","Urby Emanuelson",3
-"Cristián Zapata","Nigel de Jong",4
-"Cristián Zapata","Luca Antonini",2
-"Cristián Zapata","Stephan El Shaarawy",5
-"Cristián Zapata","Mario Yepes",1
-"Cristián Zapata","Mattia De Sciglio",16
-"Cristián Zapata","Philippe Mexès",6
-"Cristián Zapata","Kévin Constant",3
-"Cristián Zapata","Francesco Acerbi",12
-"Cristián Zapata","Djamel Mesbah",1
-"Cristián Zapata","Mathieu Flamini",6
-"Cristián Zapata","Massimo Ambrosini",11
-"Cristián Zapata","Robinho",2
-"Cristián Zapata","Sulley Muntari",2
-"Cristián Zapata","M'Baye Niang",2
-"Riccardo Montolivo","Christian Abbiati",1
-"Riccardo Montolivo","Kevin-Prince Boateng",26
-"Riccardo Montolivo","Cristián Zapata",9
-"Riccardo Montolivo","Ignazio Abate",18
-"Riccardo Montolivo","Bojan Krkić",18
-"Riccardo Montolivo","Daniele Bonera",21
-"Riccardo Montolivo","Urby Emanuelson",15
-"Riccardo Montolivo","Nigel de Jong",16
-"Riccardo Montolivo","Luca Antonini",1
-"Riccardo Montolivo","Stephan El Shaarawy",17
-"Riccardo Montolivo","Antonio Nocerino",3
-"Riccardo Montolivo","Giampaolo Pazzini",4
-"Riccardo Montolivo","Mario Yepes",3
-"Riccardo Montolivo","Mattia De Sciglio",29
-"Riccardo Montolivo","Philippe Mexès",13
-"Riccardo Montolivo","Francesco Acerbi",3
-"Riccardo Montolivo","Kévin Constant",8
-"Riccardo Montolivo","Massimo Ambrosini",5
-"Riccardo Montolivo","Pato",4
-"Riccardo Montolivo","Robinho",5
-"Riccardo Montolivo","Sulley Muntari",7
-"Riccardo Montolivo","M'Baye Niang",5
-"Ignazio Abate","Kevin-Prince Boateng",12
-"Ignazio Abate","Cristián Zapata",21
-"Ignazio Abate","Riccardo Montolivo",15
-"Ignazio Abate","Bojan Krkić",1
-"Ignazio Abate","Daniele Bonera",2
-"Ignazio Abate","Urby Emanuelson",1
-"Ignazio Abate","Nigel de Jong",2
-"Ignazio Abate","Luca Antonini",1
-"Ignazio Abate","Stephan El Shaarawy",4
-"Ignazio Abate","Giampaolo Pazzini",2
-"Ignazio Abate","Philippe Mexès",2
-"Ignazio Abate","Pato",1
-"Ignazio Abate","Kévin Constant",1
-"Ignazio Abate","Robinho",1
-"Ignazio Abate","Sulley Muntari",1
-"Ignazio Abate","Massimo Ambrosini",4
-"Ignazio Abate","M'Baye Niang",6
-"Ignazio Abate","Mathieu Flamini",3
-"Bojan Krkić","Kevin-Prince Boateng",16
-"Bojan Krkić","Cristián Zapata",2
-"Bojan Krkić","Riccardo Montolivo",15
-"Bojan Krkić","Ignazio Abate",2
-"Bojan Krkić","Daniele Bonera",2
-"Bojan Krkić","Urby Emanuelson",5
-"Bojan Krkić","Nigel de Jong",3
-"Bojan Krkić","Luca Antonini",2
-"Bojan Krkić","Stephan El Shaarawy",4
-"Bojan Krkić","Antonio Nocerino",3
-"Bojan Krkić","Giampaolo Pazzini",2
-"Bojan Krkić","Mattia De Sciglio",10
-"Bojan Krkić","Philippe Mexès",3
-"Bojan Krkić","Francesco Acerbi",5
-"Bojan Krkić","Kévin Constant",5
-"Bojan Krkić","Massimo Ambrosini",2
-"Bojan Krkić","Pato",1
-"Bojan Krkić","Robinho",2
-"Bojan Krkić","Mathieu Flamini",1
-"Bojan Krkić","Sulley Muntari",2
-"Marco Amelia","Philippe Mexès",9
-"Marco Amelia","Francesco Acerbi",5
-"Marco Amelia","Riccardo Montolivo",2
-"Marco Amelia","Kévin Constant",3
-"Marco Amelia","Massimo Ambrosini",1
-"Marco Amelia","Daniele Bonera",4
-"Marco Amelia","Stephan El Shaarawy",2
-"Francesco Acerbi","Marco Amelia",3
-"Francesco Acerbi","Mattia De Sciglio",7
-"Francesco Acerbi","Philippe Mexès",1
-"Francesco Acerbi","Giampaolo Pazzini",2
-"Francesco Acerbi","Riccardo Montolivo",4
-"Francesco Acerbi","Kévin Constant",2
-"Francesco Acerbi","Massimo Ambrosini",12
-"Francesco Acerbi","Daniele Bonera",2
-"Francesco Acerbi","Urby Emanuelson",17
-"Francesco Acerbi","Stephan El Shaarawy",4
-"Francesco Acerbi","Bojan Krkić",1
-"Francesco Acerbi","Christian Abbiati",5
-"Francesco Acerbi","Kevin-Prince Boateng",10
-"Francesco Acerbi","Djamel Mesbah",6
-"Francesco Acerbi","Mathieu Flamini",2
-"Francesco Acerbi","Cristián Zapata",7
-"Francesco Acerbi","Robinho",1
-"Massimo Ambrosini","Marco Amelia",1
-"Massimo Ambrosini","Mattia De Sciglio",5
-"Massimo Ambrosini","Philippe Mexès",9
-"Massimo Ambrosini","Giampaolo Pazzini",2
-"Massimo Ambrosini","Francesco Acerbi",15
-"Massimo Ambrosini","Riccardo Montolivo",7
-"Massimo Ambrosini","Kévin Constant",7
-"Massimo Ambrosini","Daniele Bonera",2
-"Massimo Ambrosini","Urby Emanuelson",8
-"Massimo Ambrosini","Stephan El Shaarawy",9
-"Massimo Ambrosini","Bojan Krkić",5
-"Massimo Ambrosini","Christian Abbiati",1
-"Massimo Ambrosini","Kevin-Prince Boateng",16
-"Massimo Ambrosini","Djamel Mesbah",4
-"Massimo Ambrosini","Mathieu Flamini",7
-"Massimo Ambrosini","Cristián Zapata",12
-"Massimo Ambrosini","Sulley Muntari",7
-"Massimo Ambrosini","Ignazio Abate",5
-"Massimo Ambrosini","M'Baye Niang",4
-"Pato","Mattia De Sciglio",2
-"Pato","Riccardo Montolivo",2
-"Pato","Kévin Constant",2
-"Pato","Urby Emanuelson",3
-"Pato","Stephan El Shaarawy",1
-"Pato","Bojan Krkić",2
-"Pato","Ignazio Abate",1
-"Pato","Nigel de Jong",2
-"Robinho","Philippe Mexès",3
-"Robinho","Riccardo Montolivo",5
-"Robinho","Ignazio Abate",1
-"Robinho","Kévin Constant",4
-"Robinho","Bojan Krkić",4
-"Robinho","Urby Emanuelson",1
-"Robinho","Stephan El Shaarawy",2
-"Robinho","Mattia De Sciglio",2
-"Robinho","Kevin-Prince Boateng",3
-"Robinho","Giampaolo Pazzini",1
-"Robinho","Francesco Acerbi",1
-"Robinho","Mathieu Flamini",1
-"Robinho","Cristián Zapata",1
-"Robinho","Massimo Ambrosini",1
-"Djamel Mesbah","Kevin-Prince Boateng",2
-"Djamel Mesbah","Giampaolo Pazzini",2
-"Djamel Mesbah","Francesco Acerbi",2
-"Djamel Mesbah","Mathieu Flamini",2
-"Djamel Mesbah","Bojan Krkić",4
-"Djamel Mesbah","Massimo Ambrosini",2
-"Djamel Mesbah","Urby Emanuelson",5
-"Sulley Muntari","Christian Abbiati",1
-"Sulley Muntari","Philippe Mexès",7
-"Sulley Muntari","Kevin-Prince Boateng",1
-"Sulley Muntari","Giampaolo Pazzini",1
-"Sulley Muntari","Cristián Zapata",4
-"Sulley Muntari","Riccardo Montolivo",7
-"Sulley Muntari","Ignazio Abate",1
-"Sulley Muntari","Kévin Constant",4
-"Sulley Muntari","Massimo Ambrosini",6
-"Sulley Muntari","Stephan El Shaarawy",7
-"Sulley Muntari","Bakaye Traoré",1
-"Sulley Muntari","M'Baye Niang",1
-"Sulley Muntari","Mathieu Flamini",1
-"Sulley Muntari","Robinho",1
-"Sulley Muntari","Bojan Krkić",3
-"M'Baye Niang","Kevin-Prince Boateng",3
-"M'Baye Niang","Riccardo Montolivo",3
-"M'Baye Niang","Kévin Constant",1
-"M'Baye Niang","Stephan El Shaarawy",1
-"M'Baye Niang","Mathieu Flamini",1
+Source,Target,Weight
+"32","2",7
+"32","5",13
+"32","8",4
+"32","10",5
+"32","11",8
+"32","16",1
+"32","25",9
+"32","28",4
+"32","34",4
+"32","77",5
+"32","21",3
+"32","76",7
+"32","92",1
+"32","17",7
+"32","18",3
+"32","20",4
+"32","22",6
+"32","9",2
+"32","13",4
+"32","23",3
+"32","19",1
+"2","32",6
+"2","5",15
+"2","10",19
+"2","11",10
+"2","16",21
+"2","25",7
+"2","28",17
+"2","34",12
+"2","21",1
+"2","76",2
+"2","92",2
+"2","1",1
+"2","13",1
+"2","18",18
+"2","23",10
+"2","9",3
+"2","22",10
+"2","7",4
+"2","17",6
+"2","15",1
+"5","32",9
+"5","2",20
+"5","8",2
+"5","10",8
+"5","11",4
+"5","16",6
+"5","25",13
+"5","28",12
+"5","34",10
+"5","77",7
+"5","21",20
+"5","76",5
+"5","92",8
+"5","1",4
+"5","13",3
+"5","18",27
+"5","23",4
+"5","22",2
+"5","20",3
+"5","17",9
+"5","4",8
+"8","2",1
+"8","10",5
+"8","11",3
+"8","16",2
+"8","25",3
+"8","28",5
+"8","34",8
+"8","77",9
+"8","21",3
+"8","76",2
+"8","92",13
+"8","17",1
+"8","18",2
+"8","20",1
+"8","22",2
+"8","9",1
+"10","32",2
+"10","2",13
+"10","5",4
+"10","8",4
+"10","11",5
+"10","16",4
+"10","25",2
+"10","28",15
+"10","34",12
+"10","77",3
+"10","21",2
+"10","92",16
+"10","17",14
+"10","18",18
+"10","20",16
+"10","22",8
+"10","9",1
+"10","7",4
+"10","13",4
+"10","15",6
+"10","23",8
+"10","4",6
+"10","19",4
+"11","5",1
+"11","8",1
+"11","10",8
+"11","16",2
+"11","28",5
+"11","34",3
+"11","21",1
+"11","92",4
+"11","17",2
+"11","18",1
+"11","20",1
+"11","22",2
+"11","13",1
+"11","23",3
+"11","4",3
+"16","2",14
+"16","5",1
+"16","8",1
+"16","10",8
+"16","11",1
+"16","25",1
+"16","28",4
+"16","34",2
+"16","77",3
+"16","76",1
+"16","92",1
+"16","13",2
+"16","17",3
+"16","22",7
+"16","23",7
+"16","7",1
+"16","18",2
+"16","19",1
+"16","20",3
+"25","32",11
+"25","2",4
+"25","5",28
+"25","8",4
+"25","10",1
+"25","11",3
+"25","16",2
+"25","28",6
+"25","34",18
+"25","77",9
+"25","21",11
+"25","92",8
+"25","17",6
+"25","18",10
+"25","20",2
+"25","22",5
+"25","1",4
+"25","13",3
+"25","23",3
+"25","9",2
+"28","32",1
+"28","2",8
+"28","5",5
+"28","8",10
+"28","10",14
+"28","11",4
+"28","16",3
+"28","25",1
+"28","34",8
+"28","77",3
+"28","21",3
+"28","92",8
+"28","17",8
+"28","18",15
+"28","20",2
+"28","22",19
+"28","1",1
+"28","13",8
+"28","23",4
+"28","9",4
+"28","7",5
+"28","15",5
+"34","32",5
+"34","2",11
+"34","5",6
+"34","8",12
+"34","10",9
+"34","11",3
+"34","16",1
+"34","25",16
+"34","28",8
+"34","77",11
+"34","21",14
+"34","76",5
+"34","92",10
+"34","17",4
+"34","18",17
+"34","20",6
+"34","22",9
+"34","9",9
+"34","7",2
+"77","32",2
+"77","8",11
+"77","10",7
+"77","11",4
+"77","16",1
+"77","25",9
+"77","28",3
+"77","34",9
+"77","21",1
+"77","76",2
+"77","92",9
+"77","17",1
+"77","18",6
+"77","20",1
+"77","22",1
+"21","32",3
+"21","2",4
+"21","5",7
+"21","8",3
+"21","10",7
+"21","11",1
+"21","25",11
+"21","28",1
+"21","34",17
+"21","77",1
+"21","76",3
+"21","92",22
+"21","1",1
+"21","13",7
+"21","18",17
+"21","23",6
+"21","9",7
+"21","22",7
+"21","20",1
+"21","7",5
+"21","17",2
+"21","4",6
+"21","19",2
+"76","32",1
+"76","2",1
+"76","5",6
+"76","8",6
+"76","10",2
+"76","34",5
+"76","77",1
+"76","21",5
+"76","92",3
+"76","18",6
+"76","22",2
+"76","9",1
+"92","2",1
+"92","5",2
+"92","8",5
+"92","10",10
+"92","11",5
+"92","25",3
+"92","28",7
+"92","34",10
+"92","77",8
+"92","21",22
+"92","76",1
+"92","17",3
+"92","18",12
+"92","20",4
+"92","22",5
+"92","13",2
+"92","23",4
+"92","9",2
+"92","7",5
+"92","4",4
+"92","19",2
+"17","32",5
+"17","10",8
+"17","18",21
+"17","20",17
+"17","22",4
+"17","25",3
+"17","28",3
+"17","34",4
+"17","77",2
+"17","92",5
+"17","76",1
+"17","2",16
+"17","5",6
+"17","21",3
+"17","13",12
+"17","15",1
+"17","16",6
+"17","23",11
+"17","7",2
+"17","4",2
+"17","19",2
+"18","32",1
+"18","10",26
+"18","17",9
+"18","20",18
+"18","22",18
+"18","25",21
+"18","28",15
+"18","34",16
+"18","77",1
+"18","92",17
+"18","8",3
+"18","11",4
+"18","76",3
+"18","2",29
+"18","5",13
+"18","13",3
+"18","21",8
+"18","23",5
+"18","9",4
+"18","7",5
+"18","4",7
+"18","19",5
+"20","10",12
+"20","17",21
+"20","18",15
+"20","22",1
+"20","25",2
+"20","28",1
+"20","34",2
+"20","77",1
+"20","92",4
+"20","11",2
+"20","5",2
+"20","9",1
+"20","21",1
+"20","7",1
+"20","4",1
+"20","23",4
+"20","19",6
+"20","16",3
+"22","10",16
+"22","17",2
+"22","18",15
+"22","20",2
+"22","25",2
+"22","28",5
+"22","34",3
+"22","77",2
+"22","92",4
+"22","8",3
+"22","11",2
+"22","2",10
+"22","5",3
+"22","13",5
+"22","21",5
+"22","23",2
+"22","9",1
+"22","7",2
+"22","16",1
+"22","4",2
+"1","5",9
+"1","13",5
+"1","18",2
+"1","21",3
+"1","23",1
+"1","25",4
+"1","92",2
+"13","1",3
+"13","2",7
+"13","5",1
+"13","11",2
+"13","18",4
+"13","21",2
+"13","23",12
+"13","25",2
+"13","28",17
+"13","92",4
+"13","22",1
+"13","32",5
+"13","10",10
+"13","15",6
+"13","16",2
+"13","17",7
+"13","7",1
+"23","1",1
+"23","2",5
+"23","5",9
+"23","11",2
+"23","13",15
+"23","18",7
+"23","21",7
+"23","25",2
+"23","28",8
+"23","92",9
+"23","22",5
+"23","32",1
+"23","10",16
+"23","15",4
+"23","16",7
+"23","17",12
+"23","4",7
+"23","20",5
+"23","19",4
+"9","2",2
+"9","18",2
+"9","21",2
+"9","28",3
+"9","92",1
+"9","22",2
+"9","20",1
+"9","34",2
+"7","5",3
+"7","18",5
+"7","20",1
+"7","21",4
+"7","22",4
+"7","28",1
+"7","92",2
+"7","2",2
+"7","10",3
+"7","11",1
+"7","13",1
+"7","16",1
+"7","17",1
+"7","23",1
+"15","10",2
+"15","11",2
+"15","13",2
+"15","16",2
+"15","22",4
+"15","23",2
+"15","28",5
+"4","32",1
+"4","5",7
+"4","10",1
+"4","11",1
+"4","17",4
+"4","18",7
+"4","20",1
+"4","21",4
+"4","23",6
+"4","92",7
+"4","12",1
+"4","19",1
+"4","16",1
+"4","7",1
+"4","22",3
+"19","10",3
+"19","18",3
+"19","21",1
+"19","92",1
+"19","16",1

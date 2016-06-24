@@ -1,154 +1,155 @@
-"Jacobo","Alexandros Tziolis",1
-"Jacobo","Lucas",2
-"Jacobo","Miroslav Stoch",1
-"Jacobo","Dimitris Salpingidis",1
-"Jacobo","Miguel Vítor",2
-"Jacobo","Lino",1
-"Jacobo","Liam Lawrence",1
-"Jacobo","Kostas Katsouranis",10
-"Jacobo","Stefanos Athanasiadis",4
-"Jacobo","Giannis Skondras",3
-"Alexandros Tziolis","Jacobo",2
-"Alexandros Tziolis","Lucas",4
-"Alexandros Tziolis","Miroslav Stoch",7
-"Alexandros Tziolis","Dimitris Salpingidis",2
-"Alexandros Tziolis","Miguel Vítor",12
-"Alexandros Tziolis","Lino",4
-"Alexandros Tziolis","Liam Lawrence",2
-"Alexandros Tziolis","Costin Lazăr",3
-"Alexandros Tziolis","Kostas Katsouranis",13
-"Alexandros Tziolis","Stelios Kitsiou",13
-"Alexandros Tziolis","Ergys Kace",8
-"Alexandros Tziolis","Stefanos Athanasiadis",2
-"Alexandros Tziolis","Giannis Skondras",1
-"Alexandros Tziolis","Giorgos Georgiadis",1
-"Alexandros Tziolis","Tomáš Necid",3
-"Lucas","Alexandros Tziolis",2
-"Lucas","Miroslav Stoch",4
-"Lucas","Dimitris Salpingidis",3
-"Lucas","Miguel Vítor",2
-"Lucas","Lino",1
-"Lucas","Liam Lawrence",3
-"Lucas","Costin Lazăr",3
-"Lucas","Kostas Katsouranis",2
-"Lucas","Stelios Kitsiou",7
-"Lucas","Ergys Kace",4
-"Lucas","Giannis Skondras",1
-"Miroslav Stoch","Jacobo",1
-"Miroslav Stoch","Alexandros Tziolis",7
-"Miroslav Stoch","Lucas",7
-"Miroslav Stoch","Dimitris Salpingidis",4
-"Miroslav Stoch","Miguel Vítor",3
-"Miroslav Stoch","Lino",4
-"Miroslav Stoch","Costin Lazăr",7
-"Miroslav Stoch","Kostas Katsouranis",1
-"Miroslav Stoch","Stelios Kitsiou",3
-"Miroslav Stoch","Ergys Kace",2
-"Miroslav Stoch","Stefanos Athanasiadis",5
-"Miroslav Stoch","Giannis Skondras",3
-"Miroslav Stoch","Tomáš Necid",1
-"Dimitris Salpingidis","Alexandros Tziolis",3
-"Dimitris Salpingidis","Lucas",3
-"Dimitris Salpingidis","Miroslav Stoch",1
-"Dimitris Salpingidis","Miguel Vítor",1
-"Dimitris Salpingidis","Liam Lawrence",1
-"Dimitris Salpingidis","Costin Lazăr",2
-"Dimitris Salpingidis","Kostas Katsouranis",3
-"Dimitris Salpingidis","Stelios Kitsiou",4
-"Dimitris Salpingidis","Ergys Kace",1
-"Miguel Vítor","Jacobo",3
-"Miguel Vítor","Alexandros Tziolis",10
-"Miguel Vítor","Lucas",1
-"Miguel Vítor","Miroslav Stoch",11
-"Miguel Vítor","Dimitris Salpingidis",3
-"Miguel Vítor","Lino",2
-"Miguel Vítor","Costin Lazăr",7
-"Miguel Vítor","Kostas Katsouranis",11
-"Miguel Vítor","Stelios Kitsiou",3
-"Miguel Vítor","Ergys Kace",3
-"Miguel Vítor","Giannis Skondras",6
-"Miguel Vítor","Tomáš Necid",1
-"Lino","Jacobo",1
-"Lino","Alexandros Tziolis",1
-"Lino","Lucas",1
-"Lino","Miroslav Stoch",8
-"Lino","Miguel Vítor",4
-"Lino","Liam Lawrence",3
-"Lino","Costin Lazăr",7
-"Lino","Kostas Katsouranis",2
-"Lino","Stefanos Athanasiadis",3
-"Liam Lawrence","Alexandros Tziolis",5
-"Liam Lawrence","Lucas",3
-"Liam Lawrence","Miroslav Stoch",4
-"Liam Lawrence","Miguel Vítor",2
-"Liam Lawrence","Lino",1
-"Liam Lawrence","Kostas Katsouranis",2
-"Liam Lawrence","Stelios Kitsiou",4
-"Costin Lazăr","Jacobo",1
-"Costin Lazăr","Alexandros Tziolis",5
-"Costin Lazăr","Lucas",4
-"Costin Lazăr","Miroslav Stoch",3
-"Costin Lazăr","Dimitris Salpingidis",1
-"Costin Lazăr","Miguel Vítor",4
-"Costin Lazăr","Lino",6
-"Costin Lazăr","Liam Lawrence",3
-"Costin Lazăr","Kostas Katsouranis",4
-"Kostas Katsouranis","Jacobo",5
-"Kostas Katsouranis","Alexandros Tziolis",13
-"Kostas Katsouranis","Lucas",6
-"Kostas Katsouranis","Miroslav Stoch",4
-"Kostas Katsouranis","Dimitris Salpingidis",2
-"Kostas Katsouranis","Miguel Vítor",9
-"Kostas Katsouranis","Lino",1
-"Kostas Katsouranis","Liam Lawrence",3
-"Kostas Katsouranis","Costin Lazăr",4
-"Kostas Katsouranis","Stelios Kitsiou",16
-"Kostas Katsouranis","Ergys Kace",7
-"Kostas Katsouranis","Stefanos Athanasiadis",1
-"Kostas Katsouranis","Sekou Oliseh",1
-"Kostas Katsouranis","Giannis Skondras",2
-"Stelios Kitsiou","Jacobo",1
-"Stelios Kitsiou","Alexandros Tziolis",6
-"Stelios Kitsiou","Lucas",15
-"Stelios Kitsiou","Miroslav Stoch",3
-"Stelios Kitsiou","Dimitris Salpingidis",1
-"Stelios Kitsiou","Miguel Vítor",4
-"Stelios Kitsiou","Liam Lawrence",6
-"Stelios Kitsiou","Costin Lazăr",2
-"Stelios Kitsiou","Kostas Katsouranis",17
-"Stelios Kitsiou","Ergys Kace",4
-"Stelios Kitsiou","Stefanos Athanasiadis",1
-"Stelios Kitsiou","Sekou Oliseh",3
-"Stelios Kitsiou","Tomáš Necid",2
-"Ergys Kace","Alexandros Tziolis",7
-"Ergys Kace","Miroslav Stoch",7
-"Ergys Kace","Dimitris Salpingidis",3
-"Ergys Kace","Miguel Vítor",3
-"Ergys Kace","Kostas Katsouranis",9
-"Ergys Kace","Stelios Kitsiou",5
-"Ergys Kace","Stefanos Athanasiadis",1
-"Ergys Kace","Sekou Oliseh",1
-"Ergys Kace","Giannis Skondras",2
-"Ergys Kace","Tomáš Necid",1
-"Stefanos Athanasiadis","Lucas",3
-"Stefanos Athanasiadis","Miroslav Stoch",5
-"Stefanos Athanasiadis","Dimitris Salpingidis",2
-"Stefanos Athanasiadis","Costin Lazăr",1
-"Stefanos Athanasiadis","Kostas Katsouranis",1
-"Stefanos Athanasiadis","Ergys Kace",2
-"Sekou Oliseh","Costin Lazăr",1
-"Sekou Oliseh","Ergys Kace",1
-"Sekou Oliseh","Giannis Skondras",1
-"Giannis Skondras","Jacobo",3
-"Giannis Skondras","Alexandros Tziolis",5
-"Giannis Skondras","Miroslav Stoch",5
-"Giannis Skondras","Dimitris Salpingidis",2
-"Giannis Skondras","Miguel Vítor",2
-"Giannis Skondras","Ergys Kace",7
-"Giannis Skondras","Kostas Katsouranis",6
-"Giannis Skondras","Stefanos Athanasiadis",3
-"Giannis Skondras","Stelios Kitsiou",3
-"Giorgos Georgiadis","Kostas Katsouranis",1
-"Tomáš Necid","Giannis Skondras",1
-"Tomáš Necid","Stelios Kitsiou",1
-"Tomáš Necid","Sekou Oliseh",1
+Source,Target,Weight
+"1","6",1
+"1","10",2
+"1","11",1
+"1","14",1
+"1","15",2
+"1","16",1
+"1","20",1
+"1","28",10
+"1","33",4
+"1","2",3
+"6","1",2
+"6","10",4
+"6","11",7
+"6","14",2
+"6","15",12
+"6","16",4
+"6","20",2
+"6","25",3
+"6","28",13
+"6","70",13
+"6","26",8
+"6","33",2
+"6","2",1
+"6","7",1
+"6","61",3
+"10","6",2
+"10","11",4
+"10","14",3
+"10","15",2
+"10","16",1
+"10","20",3
+"10","25",3
+"10","28",2
+"10","70",7
+"10","26",4
+"10","2",1
+"11","1",1
+"11","6",7
+"11","10",7
+"11","14",4
+"11","15",3
+"11","16",4
+"11","25",7
+"11","28",1
+"11","70",3
+"11","26",2
+"11","33",5
+"11","2",3
+"11","61",1
+"14","6",3
+"14","10",3
+"14","11",1
+"14","15",1
+"14","20",1
+"14","25",2
+"14","28",3
+"14","70",4
+"14","26",1
+"15","1",3
+"15","6",10
+"15","10",1
+"15","11",11
+"15","14",3
+"15","16",2
+"15","25",7
+"15","28",11
+"15","70",3
+"15","26",3
+"15","2",6
+"15","61",1
+"16","1",1
+"16","6",1
+"16","10",1
+"16","11",8
+"16","15",4
+"16","20",3
+"16","25",7
+"16","28",2
+"16","33",3
+"20","6",5
+"20","10",3
+"20","11",4
+"20","15",2
+"20","16",1
+"20","28",2
+"20","70",4
+"25","1",1
+"25","6",5
+"25","10",4
+"25","11",3
+"25","14",1
+"25","15",4
+"25","16",6
+"25","20",3
+"25","28",4
+"28","1",5
+"28","6",13
+"28","10",6
+"28","11",4
+"28","14",2
+"28","15",9
+"28","16",1
+"28","20",3
+"28","25",4
+"28","70",16
+"28","26",7
+"28","33",1
+"28","99",1
+"28","2",2
+"70","1",1
+"70","6",6
+"70","10",15
+"70","11",3
+"70","14",1
+"70","15",4
+"70","20",6
+"70","25",2
+"70","28",17
+"70","26",4
+"70","33",1
+"70","99",3
+"70","61",2
+"26","6",7
+"26","11",7
+"26","14",3
+"26","15",3
+"26","28",9
+"26","70",5
+"26","33",1
+"26","99",1
+"26","2",2
+"26","61",1
+"33","10",3
+"33","11",5
+"33","14",2
+"33","25",1
+"33","28",1
+"33","26",2
+"99","25",1
+"99","26",1
+"99","2",1
+"2","1",3
+"2","6",5
+"2","11",5
+"2","14",2
+"2","15",2
+"2","26",7
+"2","28",6
+"2","33",3
+"2","70",3
+"7","28",1
+"61","2",1
+"61","70",1
+"61","99",1

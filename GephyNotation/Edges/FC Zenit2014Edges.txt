@@ -1,188 +1,189 @@
-"Yuri Lodygin","Nicolas Lombaerts",6
-"Yuri Lodygin","Danny",2
-"Yuri Lodygin","Aleksandr Kerzhakov",2
-"Yuri Lodygin","Tomáš Hubočan",4
-"Yuri Lodygin","Roman Shirokov",3
-"Yuri Lodygin","Konstantin Zyryanov",3
-"Yuri Lodygin","Igor Smolnikov",5
-"Yuri Lodygin","Aleksandr Anyukov",8
-"Yuri Lodygin","Axel Witsel",4
-"Yuri Lodygin","Anatoliy Tymoshchuk",2
-"Yuri Lodygin","Pavel Mogilevets",1
-"Yuri Lodygin","Aleksandr Bukharov",6
-"Yuri Lodygin","Luís Neto",2
-"Nicolas Lombaerts","Yuri Lodygin",4
-"Nicolas Lombaerts","Danny",6
-"Nicolas Lombaerts","Aleksandr Kerzhakov",3
-"Nicolas Lombaerts","Tomáš Hubočan",4
-"Nicolas Lombaerts","Roman Shirokov",6
-"Nicolas Lombaerts","Konstantin Zyryanov",5
-"Nicolas Lombaerts","Igor Smolnikov",11
-"Nicolas Lombaerts","Aleksandr Anyukov",7
-"Nicolas Lombaerts","Axel Witsel",7
-"Nicolas Lombaerts","Andrey Arshavin",1
-"Nicolas Lombaerts","Anatoliy Tymoshchuk",6
-"Nicolas Lombaerts","Pavel Mogilevets",2
-"Nicolas Lombaerts","Luís Neto",4
-"Danny","Yuri Lodygin",1
-"Danny","Nicolas Lombaerts",3
-"Danny","Aleksandr Kerzhakov",5
-"Danny","Tomáš Hubočan",2
-"Danny","Roman Shirokov",9
-"Danny","Konstantin Zyryanov",1
-"Danny","Igor Smolnikov",11
-"Danny","Aleksandr Anyukov",5
-"Danny","Axel Witsel",18
-"Danny","Vladimir Bystrov",1
-"Danny","Andrey Arshavin",1
-"Danny","Anatoliy Tymoshchuk",1
-"Danny","Pavel Mogilevets",2
-"Danny","Aleksandr Bukharov",3
-"Danny","Luís Neto",1
-"Aleksandr Kerzhakov","Nicolas Lombaerts",1
-"Aleksandr Kerzhakov","Danny",3
-"Aleksandr Kerzhakov","Roman Shirokov",3
-"Aleksandr Kerzhakov","Konstantin Zyryanov",1
-"Aleksandr Kerzhakov","Vladimir Bystrov",1
-"Aleksandr Kerzhakov","Andrey Arshavin",3
-"Aleksandr Kerzhakov","Aleksandr Bukharov",1
-"Tomáš Hubočan","Yuri Lodygin",1
-"Tomáš Hubočan","Nicolas Lombaerts",2
-"Tomáš Hubočan","Danny",6
-"Tomáš Hubočan","Roman Shirokov",1
-"Tomáš Hubočan","Konstantin Zyryanov",7
-"Tomáš Hubočan","Igor Smolnikov",5
-"Tomáš Hubočan","Aleksandr Anyukov",5
-"Tomáš Hubočan","Axel Witsel",4
-"Tomáš Hubočan","Andrey Arshavin",1
-"Tomáš Hubočan","Anatoliy Tymoshchuk",1
-"Roman Shirokov","Yuri Lodygin",1
-"Roman Shirokov","Nicolas Lombaerts",1
-"Roman Shirokov","Danny",4
-"Roman Shirokov","Aleksandr Kerzhakov",2
-"Roman Shirokov","Tomáš Hubočan",3
-"Roman Shirokov","Konstantin Zyryanov",4
-"Roman Shirokov","Igor Smolnikov",5
-"Roman Shirokov","Aleksandr Anyukov",9
-"Roman Shirokov","Axel Witsel",4
-"Roman Shirokov","Vladimir Bystrov",3
-"Roman Shirokov","Andrey Arshavin",1
-"Roman Shirokov","Anatoliy Tymoshchuk",5
-"Roman Shirokov","Pavel Mogilevets",2
-"Roman Shirokov","Aleksandr Bukharov",1
-"Roman Shirokov","Luís Neto",1
-"Konstantin Zyryanov","Yuri Lodygin",1
-"Konstantin Zyryanov","Nicolas Lombaerts",7
-"Konstantin Zyryanov","Danny",5
-"Konstantin Zyryanov","Aleksandr Kerzhakov",2
-"Konstantin Zyryanov","Tomáš Hubočan",7
-"Konstantin Zyryanov","Roman Shirokov",8
-"Konstantin Zyryanov","Igor Smolnikov",4
-"Konstantin Zyryanov","Aleksandr Anyukov",7
-"Konstantin Zyryanov","Axel Witsel",4
-"Konstantin Zyryanov","Vladimir Bystrov",1
-"Konstantin Zyryanov","Andrey Arshavin",2
-"Konstantin Zyryanov","Anatoliy Tymoshchuk",1
-"Konstantin Zyryanov","Pavel Mogilevets",1
-"Konstantin Zyryanov","Aleksandr Bukharov",1
-"Konstantin Zyryanov","Luís Neto",1
-"Igor Smolnikov","Yuri Lodygin",1
-"Igor Smolnikov","Nicolas Lombaerts",14
-"Igor Smolnikov","Danny",14
-"Igor Smolnikov","Aleksandr Kerzhakov",3
-"Igor Smolnikov","Tomáš Hubočan",3
-"Igor Smolnikov","Roman Shirokov",5
-"Igor Smolnikov","Konstantin Zyryanov",6
-"Igor Smolnikov","Axel Witsel",8
-"Igor Smolnikov","Vladimir Bystrov",1
-"Igor Smolnikov","Andrey Arshavin",10
-"Igor Smolnikov","Anatoliy Tymoshchuk",5
-"Igor Smolnikov","Pavel Mogilevets",6
-"Igor Smolnikov","Aleksandr Bukharov",3
-"Aleksandr Anyukov","Yuri Lodygin",2
-"Aleksandr Anyukov","Nicolas Lombaerts",1
-"Aleksandr Anyukov","Danny",6
-"Aleksandr Anyukov","Aleksandr Kerzhakov",1
-"Aleksandr Anyukov","Tomáš Hubočan",3
-"Aleksandr Anyukov","Roman Shirokov",9
-"Aleksandr Anyukov","Konstantin Zyryanov",12
-"Aleksandr Anyukov","Axel Witsel",7
-"Aleksandr Anyukov","Vladimir Bystrov",9
-"Aleksandr Anyukov","Andrey Arshavin",3
-"Aleksandr Anyukov","Anatoliy Tymoshchuk",3
-"Aleksandr Anyukov","Pavel Mogilevets",18
-"Aleksandr Anyukov","Aleksandr Bukharov",2
-"Aleksandr Anyukov","Luís Neto",4
-"Axel Witsel","Yuri Lodygin",2
-"Axel Witsel","Nicolas Lombaerts",5
-"Axel Witsel","Danny",13
-"Axel Witsel","Aleksandr Kerzhakov",3
-"Axel Witsel","Tomáš Hubočan",3
-"Axel Witsel","Roman Shirokov",7
-"Axel Witsel","Konstantin Zyryanov",6
-"Axel Witsel","Igor Smolnikov",10
-"Axel Witsel","Aleksandr Anyukov",8
-"Axel Witsel","Vladimir Bystrov",2
-"Axel Witsel","Andrey Arshavin",1
-"Axel Witsel","Anatoliy Tymoshchuk",3
-"Axel Witsel","Pavel Mogilevets",3
-"Axel Witsel","Aleksandr Bukharov",1
-"Axel Witsel","Luís Neto",1
-"Vladimir Bystrov","Danny",1
-"Vladimir Bystrov","Aleksandr Kerzhakov",1
-"Vladimir Bystrov","Roman Shirokov",1
-"Vladimir Bystrov","Konstantin Zyryanov",2
-"Vladimir Bystrov","Aleksandr Anyukov",3
-"Vladimir Bystrov","Axel Witsel",1
-"Andrey Arshavin","Nicolas Lombaerts",2
-"Andrey Arshavin","Danny",2
-"Andrey Arshavin","Aleksandr Kerzhakov",2
-"Andrey Arshavin","Tomáš Hubočan",1
-"Andrey Arshavin","Roman Shirokov",3
-"Andrey Arshavin","Konstantin Zyryanov",2
-"Andrey Arshavin","Igor Smolnikov",2
-"Andrey Arshavin","Aleksandr Anyukov",4
-"Andrey Arshavin","Anatoliy Tymoshchuk",2
-"Andrey Arshavin","Pavel Mogilevets",1
-"Andrey Arshavin","Aleksandr Bukharov",3
-"Anatoliy Tymoshchuk","Nicolas Lombaerts",1
-"Anatoliy Tymoshchuk","Danny",8
-"Anatoliy Tymoshchuk","Tomáš Hubočan",1
-"Anatoliy Tymoshchuk","Roman Shirokov",5
-"Anatoliy Tymoshchuk","Konstantin Zyryanov",3
-"Anatoliy Tymoshchuk","Igor Smolnikov",7
-"Anatoliy Tymoshchuk","Aleksandr Anyukov",10
-"Anatoliy Tymoshchuk","Axel Witsel",7
-"Anatoliy Tymoshchuk","Andrey Arshavin",1
-"Anatoliy Tymoshchuk","Pavel Mogilevets",7
-"Anatoliy Tymoshchuk","Luís Neto",6
-"Pavel Mogilevets","Nicolas Lombaerts",1
-"Pavel Mogilevets","Danny",6
-"Pavel Mogilevets","Tomáš Hubočan",1
-"Pavel Mogilevets","Roman Shirokov",5
-"Pavel Mogilevets","Konstantin Zyryanov",1
-"Pavel Mogilevets","Igor Smolnikov",4
-"Pavel Mogilevets","Aleksandr Anyukov",10
-"Pavel Mogilevets","Axel Witsel",1
-"Pavel Mogilevets","Andrey Arshavin",4
-"Pavel Mogilevets","Anatoliy Tymoshchuk",4
-"Pavel Mogilevets","Aleksandr Bukharov",3
-"Pavel Mogilevets","Luís Neto",2
-"Aleksandr Bukharov","Danny",2
-"Aleksandr Bukharov","Luís Neto",1
-"Aleksandr Bukharov","Roman Shirokov",1
-"Aleksandr Bukharov","Igor Smolnikov",1
-"Aleksandr Bukharov","Aleksandr Anyukov",1
-"Aleksandr Bukharov","Axel Witsel",1
-"Aleksandr Bukharov","Anatoliy Tymoshchuk",3
-"Aleksandr Bukharov","Pavel Mogilevets",5
-"Aleksandr Bukharov","Andrey Arshavin",1
-"Luís Neto","Yuri Lodygin",6
-"Luís Neto","Nicolas Lombaerts",4
-"Luís Neto","Aleksandr Bukharov",4
-"Luís Neto","Igor Smolnikov",1
-"Luís Neto","Aleksandr Anyukov",3
-"Luís Neto","Axel Witsel",4
-"Luís Neto","Anatoliy Tymoshchuk",7
-"Luís Neto","Pavel Mogilevets",4
-"Luís Neto","Konstantin Zyryanov",3
+Source,Target,Weight
+"1","6",6
+"1","10",2
+"1","11",2
+"1","14",4
+"1","15",3
+"1","18",3
+"1","19",5
+"1","22",8
+"1","28",4
+"1","44",2
+"1","85",1
+"1","9",6
+"1","13",2
+"6","1",4
+"6","10",6
+"6","11",3
+"6","14",4
+"6","15",6
+"6","18",5
+"6","19",11
+"6","22",7
+"6","28",7
+"6","23",1
+"6","44",6
+"6","85",2
+"6","13",4
+"10","1",1
+"10","6",3
+"10","11",5
+"10","14",2
+"10","15",9
+"10","18",1
+"10","19",11
+"10","22",5
+"10","28",18
+"10","34",1
+"10","23",1
+"10","44",1
+"10","85",2
+"10","9",3
+"10","13",1
+"11","6",1
+"11","10",3
+"11","15",3
+"11","18",1
+"11","34",1
+"11","23",3
+"11","9",1
+"14","1",1
+"14","6",2
+"14","10",6
+"14","15",1
+"14","18",7
+"14","19",5
+"14","22",5
+"14","28",4
+"14","23",1
+"14","44",1
+"15","1",1
+"15","6",1
+"15","10",4
+"15","11",2
+"15","14",3
+"15","18",4
+"15","19",5
+"15","22",9
+"15","28",4
+"15","34",3
+"15","23",1
+"15","44",5
+"15","85",2
+"15","9",1
+"15","13",1
+"18","1",1
+"18","6",7
+"18","10",5
+"18","11",2
+"18","14",7
+"18","15",8
+"18","19",4
+"18","22",7
+"18","28",4
+"18","34",1
+"18","23",2
+"18","44",1
+"18","85",1
+"18","9",1
+"18","13",1
+"19","1",1
+"19","6",14
+"19","10",14
+"19","11",3
+"19","14",3
+"19","15",5
+"19","18",6
+"19","28",8
+"19","34",1
+"19","23",10
+"19","44",5
+"19","85",6
+"19","9",3
+"22","1",2
+"22","6",1
+"22","10",6
+"22","11",1
+"22","14",3
+"22","15",9
+"22","18",12
+"22","28",7
+"22","34",9
+"22","23",3
+"22","44",3
+"22","85",18
+"22","9",2
+"22","13",4
+"28","1",2
+"28","6",5
+"28","10",13
+"28","11",3
+"28","14",3
+"28","15",7
+"28","18",6
+"28","19",10
+"28","22",8
+"28","34",2
+"28","23",1
+"28","44",3
+"28","85",3
+"28","9",1
+"28","13",1
+"34","10",1
+"34","11",1
+"34","15",1
+"34","18",2
+"34","22",3
+"34","28",1
+"23","6",2
+"23","10",2
+"23","11",2
+"23","14",1
+"23","15",3
+"23","18",2
+"23","19",2
+"23","22",4
+"23","44",2
+"23","85",1
+"23","9",3
+"44","6",1
+"44","10",8
+"44","14",1
+"44","15",5
+"44","18",3
+"44","19",7
+"44","22",10
+"44","28",7
+"44","23",1
+"44","85",7
+"44","13",6
+"85","6",1
+"85","10",6
+"85","14",1
+"85","15",5
+"85","18",1
+"85","19",4
+"85","22",10
+"85","28",1
+"85","23",4
+"85","44",4
+"85","9",3
+"85","13",2
+"9","10",2
+"9","13",1
+"9","15",1
+"9","19",1
+"9","22",1
+"9","28",1
+"9","44",3
+"9","85",5
+"9","23",1
+"13","1",6
+"13","6",4
+"13","9",4
+"13","19",1
+"13","22",3
+"13","28",4
+"13","44",7
+"13","85",4
+"13","18",3

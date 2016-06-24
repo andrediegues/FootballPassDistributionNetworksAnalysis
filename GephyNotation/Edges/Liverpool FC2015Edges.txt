@@ -1,320 +1,321 @@
-"Simon Mignolet","Dejan Lovren",20
-"Simon Mignolet","Steven Gerrard",16
-"Simon Mignolet","Coutinho",1
-"Simon Mignolet","Jordan Henderson",3
-"Simon Mignolet","Mamadou Sakho",10
-"Simon Mignolet","Alberto Moreno",6
-"Simon Mignolet","Javi Manquillo",5
-"Simon Mignolet","Adam Lallana",1
-"Simon Mignolet","Raheem Sterling",1
-"Simon Mignolet","Mario Balotelli",1
-"Simon Mignolet","Lucas",5
-"Simon Mignolet","José Enrique",1
-"Simon Mignolet","Martin Škrtel",36
-"Simon Mignolet","Rickie Lambert",9
-"Simon Mignolet","Glen Johnson",2
-"Simon Mignolet","Joe Allen",2
-"Simon Mignolet","Kolo Touré",7
-"Dejan Lovren","Simon Mignolet",11
-"Dejan Lovren","Steven Gerrard",26
-"Dejan Lovren","Coutinho",5
-"Dejan Lovren","Jordan Henderson",19
-"Dejan Lovren","Mamadou Sakho",8
-"Dejan Lovren","Alberto Moreno",13
-"Dejan Lovren","Javi Manquillo",5
-"Dejan Lovren","Adam Lallana",8
-"Dejan Lovren","Raheem Sterling",5
-"Dejan Lovren","Mario Balotelli",4
-"Dejan Lovren","Lucas",6
-"Dejan Lovren","Fabio Borini",1
-"Dejan Lovren","José Enrique",6
-"Dejan Lovren","Martin Škrtel",18
-"Dejan Lovren","Lazar Marković",1
-"Dejan Lovren","Glen Johnson",3
-"Dejan Lovren","Joe Allen",12
-"Dejan Lovren","Emre Can",3
-"Steven Gerrard","Simon Mignolet",8
-"Steven Gerrard","Dejan Lovren",17
-"Steven Gerrard","Coutinho",30
-"Steven Gerrard","Jordan Henderson",36
-"Steven Gerrard","Mamadou Sakho",14
-"Steven Gerrard","Alberto Moreno",28
-"Steven Gerrard","Javi Manquillo",14
-"Steven Gerrard","Adam Lallana",11
-"Steven Gerrard","Raheem Sterling",34
-"Steven Gerrard","Mario Balotelli",2
-"Steven Gerrard","Lucas",13
-"Steven Gerrard","Fabio Borini",2
-"Steven Gerrard","José Enrique",13
-"Steven Gerrard","Martin Škrtel",21
-"Steven Gerrard","Lazar Marković",8
-"Steven Gerrard","Rickie Lambert",5
-"Steven Gerrard","Glen Johnson",21
-"Steven Gerrard","Joe Allen",19
-"Steven Gerrard","Emre Can",4
-"Steven Gerrard","Kolo Touré",2
-"Coutinho","Dejan Lovren",5
-"Coutinho","Steven Gerrard",18
-"Coutinho","Jordan Henderson",22
-"Coutinho","Mamadou Sakho",6
-"Coutinho","Alberto Moreno",11
-"Coutinho","Javi Manquillo",3
-"Coutinho","Adam Lallana",4
-"Coutinho","Raheem Sterling",33
-"Coutinho","Mario Balotelli",7
-"Coutinho","José Enrique",3
-"Coutinho","Martin Škrtel",1
-"Coutinho","Lazar Marković",6
-"Coutinho","Glen Johnson",3
-"Coutinho","Joe Allen",5
-"Jordan Henderson","Simon Mignolet",2
-"Jordan Henderson","Dejan Lovren",17
-"Jordan Henderson","Steven Gerrard",32
-"Jordan Henderson","Coutinho",24
-"Jordan Henderson","Mamadou Sakho",3
-"Jordan Henderson","Alberto Moreno",10
-"Jordan Henderson","Javi Manquillo",17
-"Jordan Henderson","Adam Lallana",10
-"Jordan Henderson","Raheem Sterling",21
-"Jordan Henderson","Mario Balotelli",7
-"Jordan Henderson","Lucas",18
-"Jordan Henderson","Fabio Borini",2
-"Jordan Henderson","José Enrique",4
-"Jordan Henderson","Martin Škrtel",23
-"Jordan Henderson","Lazar Marković",7
-"Jordan Henderson","Rickie Lambert",2
-"Jordan Henderson","Glen Johnson",6
-"Jordan Henderson","Joe Allen",11
-"Jordan Henderson","Kolo Touré",1
-"Mamadou Sakho","Simon Mignolet",10
-"Mamadou Sakho","Dejan Lovren",11
-"Mamadou Sakho","Steven Gerrard",14
-"Mamadou Sakho","Coutinho",12
-"Mamadou Sakho","Jordan Henderson",4
-"Mamadou Sakho","Alberto Moreno",10
-"Mamadou Sakho","Javi Manquillo",1
-"Mamadou Sakho","Raheem Sterling",2
-"Mamadou Sakho","Lucas",4
-"Alberto Moreno","Simon Mignolet",5
-"Alberto Moreno","Dejan Lovren",8
-"Alberto Moreno","Steven Gerrard",18
-"Alberto Moreno","Coutinho",14
-"Alberto Moreno","Jordan Henderson",7
-"Alberto Moreno","Mamadou Sakho",5
-"Alberto Moreno","Javi Manquillo",1
-"Alberto Moreno","Adam Lallana",18
-"Alberto Moreno","Raheem Sterling",17
-"Alberto Moreno","Mario Balotelli",3
-"Alberto Moreno","Lucas",14
-"Alberto Moreno","Fabio Borini",7
-"Alberto Moreno","Glen Johnson",3
-"Alberto Moreno","Joe Allen",10
-"Alberto Moreno","Martin Škrtel",3
-"Alberto Moreno","Emre Can",7
-"Alberto Moreno","Kolo Touré",8
-"Alberto Moreno","Rickie Lambert",1
-"Javi Manquillo","Simon Mignolet",2
-"Javi Manquillo","Dejan Lovren",6
-"Javi Manquillo","Steven Gerrard",8
-"Javi Manquillo","Coutinho",1
-"Javi Manquillo","Jordan Henderson",19
-"Javi Manquillo","Mamadou Sakho",1
-"Javi Manquillo","Alberto Moreno",2
-"Javi Manquillo","Adam Lallana",5
-"Javi Manquillo","Raheem Sterling",5
-"Javi Manquillo","Mario Balotelli",2
-"Javi Manquillo","Lucas",7
-"Javi Manquillo","Fabio Borini",2
-"Javi Manquillo","Martin Škrtel",14
-"Javi Manquillo","Lazar Marković",18
-"Javi Manquillo","Kolo Touré",2
-"Javi Manquillo","Emre Can",5
-"Javi Manquillo","Joe Allen",1
-"Adam Lallana","Dejan Lovren",2
-"Adam Lallana","Steven Gerrard",5
-"Adam Lallana","Coutinho",4
-"Adam Lallana","Jordan Henderson",8
-"Adam Lallana","Mamadou Sakho",1
-"Adam Lallana","Alberto Moreno",12
-"Adam Lallana","Javi Manquillo",9
-"Adam Lallana","Raheem Sterling",6
-"Adam Lallana","Mario Balotelli",5
-"Adam Lallana","Lucas",2
-"Adam Lallana","Fabio Borini",1
-"Adam Lallana","Lazar Marković",2
-"Adam Lallana","Rickie Lambert",2
-"Adam Lallana","Glen Johnson",1
-"Adam Lallana","Joe Allen",12
-"Adam Lallana","Emre Can",7
-"Adam Lallana","Kolo Touré",3
-"Raheem Sterling","Dejan Lovren",3
-"Raheem Sterling","Steven Gerrard",24
-"Raheem Sterling","Coutinho",18
-"Raheem Sterling","Jordan Henderson",16
-"Raheem Sterling","Mamadou Sakho",2
-"Raheem Sterling","Alberto Moreno",10
-"Raheem Sterling","Javi Manquillo",1
-"Raheem Sterling","Adam Lallana",5
-"Raheem Sterling","Mario Balotelli",7
-"Raheem Sterling","Lucas",9
-"Raheem Sterling","José Enrique",5
-"Raheem Sterling","Martin Škrtel",1
-"Raheem Sterling","Rickie Lambert",2
-"Raheem Sterling","Glen Johnson",13
-"Raheem Sterling","Joe Allen",14
-"Raheem Sterling","Emre Can",1
-"Raheem Sterling","Kolo Touré",3
-"Mario Balotelli","Steven Gerrard",2
-"Mario Balotelli","Coutinho",8
-"Mario Balotelli","Jordan Henderson",9
-"Mario Balotelli","Mamadou Sakho",1
-"Mario Balotelli","Alberto Moreno",4
-"Mario Balotelli","Javi Manquillo",5
-"Mario Balotelli","Adam Lallana",4
-"Mario Balotelli","Raheem Sterling",3
-"Mario Balotelli","Lucas",2
-"Mario Balotelli","Fabio Borini",1
-"Mario Balotelli","Martin Škrtel",1
-"Mario Balotelli","Lazar Marković",2
-"Mario Balotelli","Glen Johnson",2
-"Mario Balotelli","Joe Allen",1
-"Lucas","Simon Mignolet",2
-"Lucas","Dejan Lovren",5
-"Lucas","Steven Gerrard",24
-"Lucas","Jordan Henderson",19
-"Lucas","Mamadou Sakho",1
-"Lucas","Alberto Moreno",12
-"Lucas","Javi Manquillo",9
-"Lucas","Adam Lallana",8
-"Lucas","Raheem Sterling",14
-"Lucas","Mario Balotelli",1
-"Lucas","Fabio Borini",2
-"Lucas","Kolo Touré",7
-"Lucas","Emre Can",13
-"Lucas","Joe Allen",27
-"Lucas","Martin Škrtel",32
-"Lucas","Lazar Marković",12
-"Lucas","Glen Johnson",10
-"Lucas","Rickie Lambert",8
-"Lucas","José Enrique",2
-"Fabio Borini","Alberto Moreno",6
-"Fabio Borini","Javi Manquillo",2
-"Fabio Borini","Raheem Sterling",2
-"Fabio Borini","Mario Balotelli",2
-"Fabio Borini","Lucas",8
-"Fabio Borini","Kolo Touré",2
-"Fabio Borini","Emre Can",1
-"Fabio Borini","Joe Allen",2
-"Fabio Borini","Lazar Marković",1
-"José Enrique","Simon Mignolet",3
-"José Enrique","Dejan Lovren",3
-"José Enrique","Steven Gerrard",5
-"José Enrique","Coutinho",3
-"José Enrique","Jordan Henderson",5
-"José Enrique","Raheem Sterling",5
-"José Enrique","Martin Škrtel",2
-"José Enrique","Mario Balotelli",2
-"José Enrique","Lazar Marković",2
-"José Enrique","Lucas",1
-"José Enrique","Joe Allen",1
-"Martin Škrtel","Simon Mignolet",32
-"Martin Škrtel","José Enrique",2
-"Martin Škrtel","Dejan Lovren",21
-"Martin Škrtel","Steven Gerrard",31
-"Martin Škrtel","Coutinho",3
-"Martin Škrtel","Jordan Henderson",23
-"Martin Škrtel","Javi Manquillo",10
-"Martin Škrtel","Raheem Sterling",5
-"Martin Škrtel","Mario Balotelli",5
-"Martin Škrtel","Lazar Marković",7
-"Martin Škrtel","Rickie Lambert",3
-"Martin Škrtel","Adam Lallana",5
-"Martin Škrtel","Glen Johnson",15
-"Martin Škrtel","Alberto Moreno",2
-"Martin Škrtel","Joe Allen",12
-"Martin Škrtel","Emre Can",8
-"Martin Škrtel","Kolo Touré",10
-"Martin Škrtel","Lucas",30
-"Lazar Marković","Dejan Lovren",2
-"Lazar Marković","Steven Gerrard",7
-"Lazar Marković","Coutinho",2
-"Lazar Marković","Jordan Henderson",4
-"Lazar Marković","Javi Manquillo",14
-"Lazar Marković","Raheem Sterling",2
-"Lazar Marković","Martin Škrtel",2
-"Lazar Marković","Mario Balotelli",2
-"Lazar Marković","Adam Lallana",3
-"Lazar Marković","Glen Johnson",15
-"Lazar Marković","Alberto Moreno",1
-"Lazar Marković","Joe Allen",5
-"Lazar Marković","Emre Can",13
-"Lazar Marković","Lucas",5
-"Lazar Marković","Fabio Borini",1
-"Rickie Lambert","Steven Gerrard",8
-"Rickie Lambert","Jordan Henderson",4
-"Rickie Lambert","Javi Manquillo",3
-"Rickie Lambert","Raheem Sterling",5
-"Rickie Lambert","Martin Škrtel",1
-"Rickie Lambert","Mario Balotelli",2
-"Rickie Lambert","Adam Lallana",1
-"Rickie Lambert","Glen Johnson",1
-"Rickie Lambert","Lucas",6
-"Rickie Lambert","Alberto Moreno",1
-"Glen Johnson","Simon Mignolet",4
-"Glen Johnson","Dejan Lovren",4
-"Glen Johnson","Steven Gerrard",9
-"Glen Johnson","Coutinho",2
-"Glen Johnson","Jordan Henderson",7
-"Glen Johnson","Alberto Moreno",5
-"Glen Johnson","Joe Allen",13
-"Glen Johnson","Raheem Sterling",19
-"Glen Johnson","Martin Škrtel",12
-"Glen Johnson","Adam Lallana",1
-"Glen Johnson","Emre Can",1
-"Glen Johnson","Lazar Marković",9
-"Glen Johnson","Kolo Touré",7
-"Glen Johnson","Rickie Lambert",2
-"Glen Johnson","Lucas",14
-"Joe Allen","Simon Mignolet",1
-"Joe Allen","Glen Johnson",12
-"Joe Allen","Dejan Lovren",5
-"Joe Allen","Steven Gerrard",26
-"Joe Allen","Coutinho",7
-"Joe Allen","Jordan Henderson",14
-"Joe Allen","Alberto Moreno",18
-"Joe Allen","Raheem Sterling",26
-"Joe Allen","Martin Škrtel",6
-"Joe Allen","Mario Balotelli",1
-"Joe Allen","Adam Lallana",7
-"Joe Allen","Emre Can",10
-"Joe Allen","Lazar Marković",6
-"Joe Allen","Kolo Touré",9
-"Joe Allen","Javi Manquillo",5
-"Joe Allen","Lucas",22
-"Joe Allen","Fabio Borini",3
-"Joe Allen","Rickie Lambert",2
-"Joe Allen","José Enrique",2
-"Emre Can","Simon Mignolet",1
-"Emre Can","Dejan Lovren",1
-"Emre Can","Steven Gerrard",9
-"Emre Can","Alberto Moreno",5
-"Emre Can","Joe Allen",10
-"Emre Can","Martin Škrtel",9
-"Emre Can","Adam Lallana",5
-"Emre Can","Lazar Marković",6
-"Emre Can","Kolo Touré",4
-"Emre Can","Javi Manquillo",6
-"Emre Can","Lucas",12
-"Emre Can","Fabio Borini",2
-"Kolo Touré","Simon Mignolet",9
-"Kolo Touré","Alberto Moreno",12
-"Kolo Touré","Javi Manquillo",1
-"Kolo Touré","Adam Lallana",2
-"Kolo Touré","Lucas",8
-"Kolo Touré","Joe Allen",13
-"Kolo Touré","Fabio Borini",4
-"Kolo Touré","Martin Škrtel",4
-"Kolo Touré","Lazar Marković",2
-"Kolo Touré","Steven Gerrard",2
-"Kolo Touré","Raheem Sterling",1
-"Kolo Touré","Glen Johnson",7
+Source,Target,Weight
+"22","6",20
+"22","8",16
+"22","10",1
+"22","14",3
+"22","17",10
+"22","18",6
+"22","19",5
+"22","20",1
+"22","31",1
+"22","45",1
+"22","21",5
+"22","3",1
+"22","37",36
+"22","9",9
+"22","2",2
+"22","24",2
+"22","4",7
+"6","22",11
+"6","8",26
+"6","10",5
+"6","14",19
+"6","17",8
+"6","18",13
+"6","19",5
+"6","20",8
+"6","31",5
+"6","45",4
+"6","21",6
+"6","29",1
+"6","3",6
+"6","37",18
+"6","50",1
+"6","2",3
+"6","24",12
+"6","23",3
+"8","22",8
+"8","6",17
+"8","10",30
+"8","14",36
+"8","17",14
+"8","18",28
+"8","19",14
+"8","20",11
+"8","31",34
+"8","45",2
+"8","21",13
+"8","29",2
+"8","3",13
+"8","37",21
+"8","50",8
+"8","9",5
+"8","2",21
+"8","24",19
+"8","23",4
+"8","4",2
+"10","6",5
+"10","8",18
+"10","14",22
+"10","17",6
+"10","18",11
+"10","19",3
+"10","20",4
+"10","31",33
+"10","45",7
+"10","3",3
+"10","37",1
+"10","50",6
+"10","2",3
+"10","24",5
+"14","22",2
+"14","6",17
+"14","8",32
+"14","10",24
+"14","17",3
+"14","18",10
+"14","19",17
+"14","20",10
+"14","31",21
+"14","45",7
+"14","21",18
+"14","29",2
+"14","3",4
+"14","37",23
+"14","50",7
+"14","9",2
+"14","2",6
+"14","24",11
+"14","4",1
+"17","22",10
+"17","6",11
+"17","8",14
+"17","10",12
+"17","14",4
+"17","18",10
+"17","19",1
+"17","31",2
+"17","21",4
+"18","22",5
+"18","6",8
+"18","8",18
+"18","10",14
+"18","14",7
+"18","17",5
+"18","19",1
+"18","20",18
+"18","31",17
+"18","45",3
+"18","21",14
+"18","29",7
+"18","2",3
+"18","24",10
+"18","37",3
+"18","23",7
+"18","4",8
+"18","9",1
+"19","22",2
+"19","6",6
+"19","8",8
+"19","10",1
+"19","14",19
+"19","17",1
+"19","18",2
+"19","20",5
+"19","31",5
+"19","45",2
+"19","21",7
+"19","29",2
+"19","37",14
+"19","50",18
+"19","4",2
+"19","23",5
+"19","24",1
+"20","6",2
+"20","8",5
+"20","10",4
+"20","14",8
+"20","17",1
+"20","18",12
+"20","19",9
+"20","31",6
+"20","45",5
+"20","21",2
+"20","29",1
+"20","50",2
+"20","9",2
+"20","2",1
+"20","24",12
+"20","23",7
+"20","4",3
+"31","6",3
+"31","8",24
+"31","10",18
+"31","14",16
+"31","17",2
+"31","18",10
+"31","19",1
+"31","20",5
+"31","45",7
+"31","21",9
+"31","3",5
+"31","37",1
+"31","9",2
+"31","2",13
+"31","24",14
+"31","23",1
+"31","4",3
+"45","8",2
+"45","10",8
+"45","14",9
+"45","17",1
+"45","18",4
+"45","19",5
+"45","20",4
+"45","31",3
+"45","21",2
+"45","29",1
+"45","37",1
+"45","50",2
+"45","2",2
+"45","24",1
+"21","22",2
+"21","6",5
+"21","8",24
+"21","14",19
+"21","17",1
+"21","18",12
+"21","19",9
+"21","20",8
+"21","31",14
+"21","45",1
+"21","29",2
+"21","4",7
+"21","23",13
+"21","24",27
+"21","37",32
+"21","50",12
+"21","2",10
+"21","9",8
+"21","3",2
+"29","18",6
+"29","19",2
+"29","31",2
+"29","45",2
+"29","21",8
+"29","4",2
+"29","23",1
+"29","24",2
+"29","50",1
+"3","22",3
+"3","6",3
+"3","8",5
+"3","10",3
+"3","14",5
+"3","31",5
+"3","37",2
+"3","45",2
+"3","50",2
+"3","21",1
+"3","24",1
+"37","22",32
+"37","3",2
+"37","6",21
+"37","8",31
+"37","10",3
+"37","14",23
+"37","19",10
+"37","31",5
+"37","45",5
+"37","50",7
+"37","9",3
+"37","20",5
+"37","2",15
+"37","18",2
+"37","24",12
+"37","23",8
+"37","4",10
+"37","21",30
+"50","6",2
+"50","8",7
+"50","10",2
+"50","14",4
+"50","19",14
+"50","31",2
+"50","37",2
+"50","45",2
+"50","20",3
+"50","2",15
+"50","18",1
+"50","24",5
+"50","23",13
+"50","21",5
+"50","29",1
+"9","8",8
+"9","14",4
+"9","19",3
+"9","31",5
+"9","37",1
+"9","45",2
+"9","20",1
+"9","2",1
+"9","21",6
+"9","18",1
+"2","22",4
+"2","6",4
+"2","8",9
+"2","10",2
+"2","14",7
+"2","18",5
+"2","24",13
+"2","31",19
+"2","37",12
+"2","20",1
+"2","23",1
+"2","50",9
+"2","4",7
+"2","9",2
+"2","21",14
+"24","22",1
+"24","2",12
+"24","6",5
+"24","8",26
+"24","10",7
+"24","14",14
+"24","18",18
+"24","31",26
+"24","37",6
+"24","45",1
+"24","20",7
+"24","23",10
+"24","50",6
+"24","4",9
+"24","19",5
+"24","21",22
+"24","29",3
+"24","9",2
+"24","3",2
+"23","22",1
+"23","6",1
+"23","8",9
+"23","18",5
+"23","24",10
+"23","37",9
+"23","20",5
+"23","50",6
+"23","4",4
+"23","19",6
+"23","21",12
+"23","29",2
+"4","22",9
+"4","18",12
+"4","19",1
+"4","20",2
+"4","21",8
+"4","24",13
+"4","29",4
+"4","37",4
+"4","50",2
+"4","8",2
+"4","31",1
+"4","2",7

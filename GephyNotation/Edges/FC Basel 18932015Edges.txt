@@ -1,307 +1,308 @@
-"Tomáš Vaclík","Walter Samuel",13
-"Tomáš Vaclík","Luca Zuffi",4
-"Tomáš Vaclík","Marco Streller",8
-"Tomáš Vaclík","Fabian Schär",31
-"Tomáš Vaclík","Marek Suchý",25
-"Tomáš Vaclík","Behrang Safari",19
-"Tomáš Vaclík","Fabian Frei",8
-"Tomáš Vaclík","Derlis Gonzalez",3
-"Tomáš Vaclík","Mohamed Elneny",10
-"Tomáš Vaclík","Taulant Xhaka",22
-"Tomáš Vaclík","Breel Embolo",3
-"Tomáš Vaclík","Davide Calla",1
-"Tomáš Vaclík","Naser Aliji",2
-"Tomáš Vaclík","Shkelzen Gashi",3
-"Tomáš Vaclík","Marcelo Díaz",1
-"Tomáš Vaclík","Philipp Degen",2
-"Tomáš Vaclík","Derlis González",2
-"Walter Samuel","Tomáš Vaclík",11
-"Walter Samuel","Luca Zuffi",5
-"Walter Samuel","Fabian Schär",12
-"Walter Samuel","Marek Suchý",14
-"Walter Samuel","Behrang Safari",17
-"Walter Samuel","Fabian Frei",16
-"Walter Samuel","Derlis Gonzalez",1
-"Walter Samuel","Mohamed Elneny",10
-"Walter Samuel","Taulant Xhaka",18
-"Walter Samuel","Breel Embolo",3
-"Walter Samuel","Shkelzen Gashi",2
-"Walter Samuel","Davide Calla",2
-"Walter Samuel","Derlis González",2
-"Luca Zuffi","Walter Samuel",3
-"Luca Zuffi","Marco Streller",14
-"Luca Zuffi","Fabian Schär",1
-"Luca Zuffi","Marek Suchý",5
-"Luca Zuffi","Behrang Safari",29
-"Luca Zuffi","Fabian Frei",41
-"Luca Zuffi","Derlis Gonzalez",14
-"Luca Zuffi","Mohamed Elneny",19
-"Luca Zuffi","Taulant Xhaka",10
-"Luca Zuffi","Matías Delgado",2
-"Luca Zuffi","Yoichiro Kakitani",1
-"Luca Zuffi","Breel Embolo",9
-"Luca Zuffi","Davide Calla",4
-"Luca Zuffi","Shkelzen Gashi",24
-"Luca Zuffi","Marcelo Díaz",1
-"Luca Zuffi","Derlis González",1
-"Luca Zuffi","Yōichirō Kakitani",3
-"Marco Streller","Luca Zuffi",16
-"Marco Streller","Behrang Safari",4
-"Marco Streller","Fabian Frei",9
-"Marco Streller","Derlis Gonzalez",9
-"Marco Streller","Mohamed Elneny",12
-"Marco Streller","Taulant Xhaka",3
-"Marco Streller","Breel Embolo",5
-"Marco Streller","Geoffroy Serey Die",1
-"Marco Streller","Ahmed Hamoudi",2
-"Marco Streller","Shkelzen Gashi",8
-"Marco Streller","Yōichirō Kakitani",4
-"Fabian Schär","Tomáš Vaclík",14
-"Fabian Schär","Walter Samuel",16
-"Fabian Schär","Luca Zuffi",9
-"Fabian Schär","Marco Streller",3
-"Fabian Schär","Marek Suchý",37
-"Fabian Schär","Behrang Safari",17
-"Fabian Schär","Fabian Frei",29
-"Fabian Schär","Derlis Gonzalez",16
-"Fabian Schär","Mohamed Elneny",33
-"Fabian Schär","Taulant Xhaka",18
-"Fabian Schär","Matías Delgado",1
-"Fabian Schär","Breel Embolo",15
-"Fabian Schär","Geoffroy Serey Die",7
-"Fabian Schär","Ahmed Hamoudi",4
-"Fabian Schär","Davide Calla",3
-"Fabian Schär","Naser Aliji",4
-"Fabian Schär","Shkelzen Gashi",5
-"Fabian Schär","Marcelo Díaz",8
-"Fabian Schär","Philipp Degen",4
-"Marek Suchý","Tomáš Vaclík",27
-"Marek Suchý","Walter Samuel",20
-"Marek Suchý","Luca Zuffi",8
-"Marek Suchý","Marco Streller",4
-"Marek Suchý","Fabian Schär",39
-"Marek Suchý","Behrang Safari",36
-"Marek Suchý","Fabian Frei",38
-"Marek Suchý","Derlis Gonzalez",4
-"Marek Suchý","Mohamed Elneny",31
-"Marek Suchý","Taulant Xhaka",9
-"Marek Suchý","Matías Delgado",3
-"Marek Suchý","Yoichiro Kakitani",1
-"Marek Suchý","Breel Embolo",4
-"Marek Suchý","Geoffroy Serey Die",9
-"Marek Suchý","Ahmed Hamoudi",3
-"Marek Suchý","Davide Calla",2
-"Marek Suchý","Naser Aliji",6
-"Marek Suchý","Shkelzen Gashi",2
-"Marek Suchý","Marcelo Díaz",2
-"Marek Suchý","Philipp Degen",2
-"Behrang Safari","Tomáš Vaclík",15
-"Behrang Safari","Walter Samuel",21
-"Behrang Safari","Luca Zuffi",30
-"Behrang Safari","Marco Streller",13
-"Behrang Safari","Fabian Schär",4
-"Behrang Safari","Marek Suchý",28
-"Behrang Safari","Fabian Frei",38
-"Behrang Safari","Derlis Gonzalez",1
-"Behrang Safari","Mohamed Elneny",14
-"Behrang Safari","Taulant Xhaka",3
-"Behrang Safari","Matías Delgado",1
-"Behrang Safari","Yoichiro Kakitani",3
-"Behrang Safari","Breel Embolo",9
-"Behrang Safari","Ahmed Hamoudi",1
-"Behrang Safari","Shkelzen Gashi",33
-"Behrang Safari","Derlis González",1
-"Behrang Safari","Yōichirō Kakitani",1
-"Behrang Safari","Davide Callà",4
-"Fabian Frei","Tomáš Vaclík",6
-"Fabian Frei","Walter Samuel",17
-"Fabian Frei","Luca Zuffi",31
-"Fabian Frei","Marco Streller",12
-"Fabian Frei","Fabian Schär",32
-"Fabian Frei","Marek Suchý",31
-"Fabian Frei","Behrang Safari",42
-"Fabian Frei","Derlis Gonzalez",35
-"Fabian Frei","Mohamed Elneny",56
-"Fabian Frei","Taulant Xhaka",37
-"Fabian Frei","Yoichiro Kakitani",1
-"Fabian Frei","Breel Embolo",19
-"Fabian Frei","Geoffroy Serey Die",5
-"Fabian Frei","Ahmed Hamoudi",5
-"Fabian Frei","Davide Calla",5
-"Fabian Frei","Naser Aliji",6
-"Fabian Frei","Shkelzen Gashi",24
-"Fabian Frei","Philipp Degen",12
-"Fabian Frei","Derlis González",2
-"Derlis Gonzalez","Luca Zuffi",8
-"Derlis Gonzalez","Marco Streller",10
-"Derlis Gonzalez","Fabian Schär",7
-"Derlis Gonzalez","Marek Suchý",1
-"Derlis Gonzalez","Behrang Safari",1
-"Derlis Gonzalez","Fabian Frei",11
-"Derlis Gonzalez","Mohamed Elneny",23
-"Derlis Gonzalez","Taulant Xhaka",31
-"Derlis Gonzalez","Matías Delgado",1
-"Derlis Gonzalez","Yoichiro Kakitani",1
-"Derlis Gonzalez","Breel Embolo",18
-"Derlis Gonzalez","Geoffroy Serey Die",5
-"Derlis Gonzalez","Ahmed Hamoudi",3
-"Derlis Gonzalez","Davide Calla",1
-"Derlis Gonzalez","Shkelzen Gashi",1
-"Derlis Gonzalez","Marcelo Díaz",2
-"Derlis Gonzalez","Philipp Degen",6
-"Mohamed Elneny","Tomáš Vaclík",2
-"Mohamed Elneny","Walter Samuel",5
-"Mohamed Elneny","Luca Zuffi",22
-"Mohamed Elneny","Marco Streller",16
-"Mohamed Elneny","Fabian Schär",33
-"Mohamed Elneny","Marek Suchý",19
-"Mohamed Elneny","Behrang Safari",9
-"Mohamed Elneny","Fabian Frei",64
-"Mohamed Elneny","Derlis Gonzalez",35
-"Mohamed Elneny","Taulant Xhaka",54
-"Mohamed Elneny","Matías Delgado",3
-"Mohamed Elneny","Yoichiro Kakitani",3
-"Mohamed Elneny","Breel Embolo",25
-"Mohamed Elneny","Geoffroy Serey Die",11
-"Mohamed Elneny","Ahmed Hamoudi",18
-"Mohamed Elneny","Davide Calla",4
-"Mohamed Elneny","Naser Aliji",2
-"Mohamed Elneny","Shkelzen Gashi",8
-"Mohamed Elneny","Marcelo Díaz",1
-"Mohamed Elneny","Philipp Degen",11
-"Mohamed Elneny","Derlis González",8
-"Mohamed Elneny","Yōichirō Kakitani",1
-"Mohamed Elneny","Davide Callà",2
-"Taulant Xhaka","Tomáš Vaclík",15
-"Taulant Xhaka","Walter Samuel",8
-"Taulant Xhaka","Luca Zuffi",4
-"Taulant Xhaka","Marco Streller",12
-"Taulant Xhaka","Fabian Schär",49
-"Taulant Xhaka","Marek Suchý",14
-"Taulant Xhaka","Behrang Safari",3
-"Taulant Xhaka","Fabian Frei",30
-"Taulant Xhaka","Derlis Gonzalez",30
-"Taulant Xhaka","Mohamed Elneny",46
-"Taulant Xhaka","Breel Embolo",10
-"Taulant Xhaka","Geoffroy Serey Die",3
-"Taulant Xhaka","Ahmed Hamoudi",2
-"Taulant Xhaka","Davide Calla",5
-"Taulant Xhaka","Naser Aliji",1
-"Taulant Xhaka","Shkelzen Gashi",3
-"Taulant Xhaka","Marcelo Díaz",2
-"Taulant Xhaka","Derlis González",11
-"Matías Delgado","Luca Zuffi",4
-"Matías Delgado","Fabian Schär",2
-"Matías Delgado","Behrang Safari",3
-"Matías Delgado","Fabian Frei",1
-"Matías Delgado","Mohamed Elneny",4
-"Matías Delgado","Taulant Xhaka",1
-"Matías Delgado","Yoichiro Kakitani",2
-"Matías Delgado","Breel Embolo",3
-"Matías Delgado","Marcelo Díaz",2
-"Matías Delgado","Davide Calla",2
-"Yoichiro Kakitani","Luca Zuffi",1
-"Yoichiro Kakitani","Behrang Safari",1
-"Yoichiro Kakitani","Fabian Frei",1
-"Yoichiro Kakitani","Mohamed Elneny",1
-"Yoichiro Kakitani","Breel Embolo",1
-"Breel Embolo","Tomáš Vaclík",1
-"Breel Embolo","Luca Zuffi",11
-"Breel Embolo","Marco Streller",3
-"Breel Embolo","Fabian Schär",4
-"Breel Embolo","Marek Suchý",2
-"Breel Embolo","Behrang Safari",1
-"Breel Embolo","Fabian Frei",17
-"Breel Embolo","Derlis Gonzalez",17
-"Breel Embolo","Mohamed Elneny",13
-"Breel Embolo","Taulant Xhaka",10
-"Breel Embolo","Matías Delgado",3
-"Breel Embolo","Ahmed Hamoudi",2
-"Breel Embolo","Davide Calla",3
-"Breel Embolo","Naser Aliji",1
-"Breel Embolo","Shkelzen Gashi",7
-"Breel Embolo","Marcelo Díaz",2
-"Breel Embolo","Derlis González",4
-"Breel Embolo","Yōichirō Kakitani",1
-"Breel Embolo","Davide Callà",1
-"Geoffroy Serey Die","Marco Streller",3
-"Geoffroy Serey Die","Fabian Schär",4
-"Geoffroy Serey Die","Marek Suchý",10
-"Geoffroy Serey Die","Fabian Frei",10
-"Geoffroy Serey Die","Ahmed Hamoudi",6
-"Geoffroy Serey Die","Mohamed Elneny",7
-"Geoffroy Serey Die","Taulant Xhaka",6
-"Geoffroy Serey Die","Breel Embolo",4
-"Geoffroy Serey Die","Derlis Gonzalez",3
-"Geoffroy Serey Die","Davide Calla",1
-"Ahmed Hamoudi","Geoffroy Serey Die",6
-"Ahmed Hamoudi","Marco Streller",1
-"Ahmed Hamoudi","Fabian Schär",3
-"Ahmed Hamoudi","Marek Suchý",3
-"Ahmed Hamoudi","Behrang Safari",1
-"Ahmed Hamoudi","Fabian Frei",2
-"Ahmed Hamoudi","Mohamed Elneny",18
-"Ahmed Hamoudi","Breel Embolo",1
-"Ahmed Hamoudi","Derlis Gonzalez",2
-"Ahmed Hamoudi","Marcelo Díaz",1
-"Davide Calla","Marco Streller",1
-"Davide Calla","Marek Suchý",2
-"Davide Calla","Fabian Frei",2
-"Davide Calla","Mohamed Elneny",4
-"Davide Calla","Taulant Xhaka",7
-"Davide Calla","Breel Embolo",6
-"Davide Calla","Luca Zuffi",2
-"Davide Calla","Derlis Gonzalez",3
-"Davide Calla","Naser Aliji",4
-"Davide Calla","Matías Delgado",1
-"Davide Calla","Marcelo Díaz",3
-"Naser Aliji","Tomáš Vaclík",1
-"Naser Aliji","Marek Suchý",5
-"Naser Aliji","Fabian Frei",7
-"Naser Aliji","Mohamed Elneny",4
-"Naser Aliji","Breel Embolo",2
-"Naser Aliji","Davide Calla",6
-"Giovanni Sio","Mohamed Elneny",1
-"Shkelzen Gashi","Luca Zuffi",24
-"Shkelzen Gashi","Marek Suchý",3
-"Shkelzen Gashi","Behrang Safari",18
-"Shkelzen Gashi","Fabian Frei",24
-"Shkelzen Gashi","Derlis Gonzalez",3
-"Shkelzen Gashi","Mohamed Elneny",9
-"Shkelzen Gashi","Breel Embolo",6
-"Shkelzen Gashi","Marcelo Díaz",1
-"Shkelzen Gashi","Ahmed Hamoudi",1
-"Shkelzen Gashi","Marco Streller",6
-"Shkelzen Gashi","Derlis González",1
-"Shkelzen Gashi","Yōichirō Kakitani",1
-"Marcelo Díaz","Tomáš Vaclík",1
-"Marcelo Díaz","Shkelzen Gashi",1
-"Marcelo Díaz","Fabian Schär",3
-"Marcelo Díaz","Marek Suchý",2
-"Marcelo Díaz","Behrang Safari",3
-"Marcelo Díaz","Mohamed Elneny",8
-"Marcelo Díaz","Taulant Xhaka",3
-"Marcelo Díaz","Breel Embolo",2
-"Marcelo Díaz","Matías Delgado",4
-"Marcelo Díaz","Davide Calla",5
-"Philipp Degen","Fabian Schär",5
-"Philipp Degen","Fabian Frei",5
-"Philipp Degen","Derlis Gonzalez",10
-"Philipp Degen","Mohamed Elneny",13
-"Philipp Degen","Breel Embolo",1
-"Derlis González","Tomáš Vaclík",1
-"Derlis González","Luca Zuffi",4
-"Derlis González","Marco Streller",2
-"Derlis González","Fabian Schär",1
-"Derlis González","Mohamed Elneny",9
-"Derlis González","Taulant Xhaka",9
-"Derlis González","Yōichirō Kakitani",1
-"Derlis González","Breel Embolo",1
-"Yōichirō Kakitani","Luca Zuffi",2
-"Yōichirō Kakitani","Marco Streller",3
-"Yōichirō Kakitani","Shkelzen Gashi",2
-"Yōichirō Kakitani","Behrang Safari",2
-"Yōichirō Kakitani","Breel Embolo",2
-"Davide Callà","Luca Zuffi",2
-"Davide Callà","Marco Streller",2
-"Davide Callà","Behrang Safari",2
+Source,Target,Weight
+"1","6",13
+"1","7",4
+"1","9",8
+"1","16",31
+"1","17",25
+"1","19",19
+"1","20",8
+"1","25",3
+"1","33",10
+"1","34",22
+"1","36",3
+"1","39",1
+"1","27",2
+"1","11",3
+"1","21",1
+"1","4",2
+"1","25",2
+"6","1",11
+"6","7",5
+"6","16",12
+"6","17",14
+"6","19",17
+"6","20",16
+"6","25",1
+"6","33",10
+"6","34",18
+"6","36",3
+"6","11",2
+"6","39",2
+"6","25",2
+"7","6",3
+"7","9",14
+"7","16",1
+"7","17",5
+"7","19",29
+"7","20",41
+"7","25",14
+"7","33",19
+"7","34",10
+"7","10",2
+"7","14",1
+"7","36",9
+"7","39",4
+"7","11",24
+"7","21",1
+"7","25",1
+"7","14",3
+"9","7",16
+"9","19",4
+"9","20",9
+"9","25",9
+"9","33",12
+"9","34",3
+"9","36",5
+"9","8",1
+"9","24",2
+"9","11",8
+"9","14",4
+"16","1",14
+"16","6",16
+"16","7",9
+"16","9",3
+"16","17",37
+"16","19",17
+"16","20",29
+"16","25",16
+"16","33",33
+"16","34",18
+"16","10",1
+"16","36",15
+"16","8",7
+"16","24",4
+"16","39",3
+"16","27",4
+"16","11",5
+"16","21",8
+"16","4",4
+"17","1",27
+"17","6",20
+"17","7",8
+"17","9",4
+"17","16",39
+"17","19",36
+"17","20",38
+"17","25",4
+"17","33",31
+"17","34",9
+"17","10",3
+"17","14",1
+"17","36",4
+"17","8",9
+"17","24",3
+"17","39",2
+"17","27",6
+"17","11",2
+"17","21",2
+"17","4",2
+"19","1",15
+"19","6",21
+"19","7",30
+"19","9",13
+"19","16",4
+"19","17",28
+"19","20",38
+"19","25",1
+"19","33",14
+"19","34",3
+"19","10",1
+"19","14",3
+"19","36",9
+"19","24",1
+"19","11",33
+"19","25",1
+"19","14",1
+"19","39",4
+"20","1",6
+"20","6",17
+"20","7",31
+"20","9",12
+"20","16",32
+"20","17",31
+"20","19",42
+"20","25",35
+"20","33",56
+"20","34",37
+"20","14",1
+"20","36",19
+"20","8",5
+"20","24",5
+"20","39",5
+"20","27",6
+"20","11",24
+"20","4",12
+"20","25",2
+"25","7",8
+"25","9",10
+"25","16",7
+"25","17",1
+"25","19",1
+"25","20",11
+"25","33",23
+"25","34",31
+"25","10",1
+"25","14",1
+"25","36",18
+"25","8",5
+"25","24",3
+"25","39",1
+"25","11",1
+"25","21",2
+"25","4",6
+"33","1",2
+"33","6",5
+"33","7",22
+"33","9",16
+"33","16",33
+"33","17",19
+"33","19",9
+"33","20",64
+"33","25",35
+"33","34",54
+"33","10",3
+"33","14",3
+"33","36",25
+"33","8",11
+"33","24",18
+"33","39",4
+"33","27",2
+"33","11",8
+"33","21",1
+"33","4",11
+"33","25",8
+"33","14",1
+"33","39",2
+"34","1",15
+"34","6",8
+"34","7",4
+"34","9",12
+"34","16",49
+"34","17",14
+"34","19",3
+"34","20",30
+"34","25",30
+"34","33",46
+"34","36",10
+"34","8",3
+"34","24",2
+"34","39",5
+"34","27",1
+"34","11",3
+"34","21",2
+"34","25",11
+"10","7",4
+"10","16",2
+"10","19",3
+"10","20",1
+"10","33",4
+"10","34",1
+"10","14",2
+"10","36",3
+"10","21",2
+"10","39",2
+"14","7",1
+"14","19",1
+"14","20",1
+"14","33",1
+"14","36",1
+"36","1",1
+"36","7",11
+"36","9",3
+"36","16",4
+"36","17",2
+"36","19",1
+"36","20",17
+"36","25",17
+"36","33",13
+"36","34",10
+"36","10",3
+"36","24",2
+"36","39",3
+"36","27",1
+"36","11",7
+"36","21",2
+"36","25",4
+"36","14",1
+"36","39",1
+"8","9",3
+"8","16",4
+"8","17",10
+"8","20",10
+"8","24",6
+"8","33",7
+"8","34",6
+"8","36",4
+"8","25",3
+"8","39",1
+"24","8",6
+"24","9",1
+"24","16",3
+"24","17",3
+"24","19",1
+"24","20",2
+"24","33",18
+"24","36",1
+"24","25",2
+"24","21",1
+"39","9",1
+"39","17",2
+"39","20",2
+"39","33",4
+"39","34",7
+"39","36",6
+"39","7",2
+"39","25",3
+"39","27",4
+"39","10",1
+"39","21",3
+"27","1",1
+"27","17",5
+"27","20",7
+"27","33",4
+"27","36",2
+"27","39",6
+"30","33",1
+"11","7",24
+"11","17",3
+"11","19",18
+"11","20",24
+"11","25",3
+"11","33",9
+"11","36",6
+"11","21",1
+"11","24",1
+"11","9",6
+"11","25",1
+"11","14",1
+"21","1",1
+"21","11",1
+"21","16",3
+"21","17",2
+"21","19",3
+"21","33",8
+"21","34",3
+"21","36",2
+"21","10",4
+"21","39",5
+"4","16",5
+"4","20",5
+"4","25",10
+"4","33",13
+"4","36",1
+"25","1",1
+"25","7",4
+"25","9",2
+"25","16",1
+"25","33",9
+"25","34",9
+"25","14",1
+"25","36",1
+"14","7",2
+"14","9",3
+"14","11",2
+"14","19",2
+"14","36",2
+"39","7",2
+"39","9",2
+"39","19",2

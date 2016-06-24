@@ -1,254 +1,255 @@
-"Yann Sommer","Arlind Ajeti",15
-"Yann Sommer","Valentin Stocker",11
-"Yann Sommer","Kay Voser",11
-"Yann Sommer","Fabian Schär",58
-"Yann Sommer","Behrang Safari",8
-"Yann Sommer","Fabian Frei",28
-"Yann Sommer","Marcelo Díaz",6
-"Yann Sommer","Mohamed Salah",7
-"Yann Sommer","Giovanni Sio",5
-"Yann Sommer","Mohamed Elneny",3
-"Yann Sommer","Matías Delgado",3
-"Yann Sommer","Gastón Sauro",1
-"Yann Sommer","Taulant Xhaka",4
-"Yann Sommer","Marco Streller",14
-"Yann Sommer","Ivan Ivanov",49
-"Yann Sommer","Serey Die",5
-"Arlind Ajeti","Yann Sommer",21
-"Arlind Ajeti","Valentin Stocker",1
-"Arlind Ajeti","Kay Voser",5
-"Arlind Ajeti","Fabian Schär",17
-"Arlind Ajeti","Behrang Safari",14
-"Arlind Ajeti","Fabian Frei",12
-"Arlind Ajeti","Marcelo Díaz",6
-"Arlind Ajeti","Mohamed Salah",8
-"Arlind Ajeti","Giovanni Sio",3
-"Arlind Ajeti","Mohamed Elneny",7
-"Arlind Ajeti","Matías Delgado",3
-"Arlind Ajeti","Gastón Sauro",2
-"Arlind Ajeti","Taulant Xhaka",4
-"Arlind Ajeti","Philipp Degen",1
-"Arlind Ajeti","Marco Streller",1
-"Valentin Stocker","Yann Sommer",2
-"Valentin Stocker","Arlind Ajeti",5
-"Valentin Stocker","Kay Voser",11
-"Valentin Stocker","Fabian Schär",11
-"Valentin Stocker","Behrang Safari",18
-"Valentin Stocker","Fabian Frei",29
-"Valentin Stocker","Marcelo Díaz",14
-"Valentin Stocker","Mohamed Salah",18
-"Valentin Stocker","Giovanni Sio",20
-"Valentin Stocker","Mohamed Elneny",4
-"Valentin Stocker","Matías Delgado",1
-"Valentin Stocker","Taulant Xhaka",12
-"Valentin Stocker","Marco Streller",10
-"Valentin Stocker","Ivan Ivanov",9
-"Valentin Stocker","Serey Die",10
-"Kay Voser","Yann Sommer",20
-"Kay Voser","Arlind Ajeti",5
-"Kay Voser","Valentin Stocker",18
-"Kay Voser","Fabian Schär",40
-"Kay Voser","Behrang Safari",2
-"Kay Voser","Fabian Frei",41
-"Kay Voser","Marcelo Díaz",22
-"Kay Voser","Mohamed Salah",60
-"Kay Voser","Giovanni Sio",14
-"Kay Voser","Mohamed Elneny",11
-"Kay Voser","Matías Delgado",23
-"Kay Voser","Gastón Sauro",1
-"Kay Voser","Taulant Xhaka",8
-"Kay Voser","Philipp Degen",1
-"Kay Voser","Marco Streller",15
-"Kay Voser","Ivan Ivanov",12
-"Kay Voser","Serey Die",22
-"Kay Voser","David Degen",1
-"Fabian Schär","Yann Sommer",58
-"Fabian Schär","Arlind Ajeti",18
-"Fabian Schär","Valentin Stocker",18
-"Fabian Schär","Kay Voser",34
-"Fabian Schär","Behrang Safari",10
-"Fabian Schär","Fabian Frei",64
-"Fabian Schär","Marcelo Díaz",18
-"Fabian Schär","Mohamed Salah",34
-"Fabian Schär","Giovanni Sio",15
-"Fabian Schär","Mohamed Elneny",14
-"Fabian Schär","Matías Delgado",6
-"Fabian Schär","Taulant Xhaka",19
-"Fabian Schär","Marco Streller",10
-"Fabian Schär","Ivan Ivanov",44
-"Fabian Schär","Serey Die",23
-"Behrang Safari","Yann Sommer",5
-"Behrang Safari","Arlind Ajeti",13
-"Behrang Safari","Valentin Stocker",19
-"Behrang Safari","Kay Voser",1
-"Behrang Safari","Fabian Schär",9
-"Behrang Safari","Fabian Frei",18
-"Behrang Safari","Marcelo Díaz",20
-"Behrang Safari","Mohamed Salah",19
-"Behrang Safari","Giovanni Sio",9
-"Behrang Safari","Mohamed Elneny",2
-"Behrang Safari","Matías Delgado",5
-"Behrang Safari","Taulant Xhaka",7
-"Behrang Safari","Marco Streller",13
-"Behrang Safari","Ivan Ivanov",24
-"Behrang Safari","Serey Die",3
-"Fabian Frei","Yann Sommer",15
-"Fabian Frei","Arlind Ajeti",14
-"Fabian Frei","Valentin Stocker",29
-"Fabian Frei","Kay Voser",32
-"Fabian Frei","Fabian Schär",52
-"Fabian Frei","Behrang Safari",22
-"Fabian Frei","Marcelo Díaz",27
-"Fabian Frei","Mohamed Salah",38
-"Fabian Frei","Giovanni Sio",14
-"Fabian Frei","Mohamed Elneny",18
-"Fabian Frei","Matías Delgado",7
-"Fabian Frei","Taulant Xhaka",23
-"Fabian Frei","Philipp Degen",2
-"Fabian Frei","Marco Streller",17
-"Fabian Frei","Ivan Ivanov",50
-"Fabian Frei","Serey Die",23
-"Marcelo Díaz","Yann Sommer",3
-"Marcelo Díaz","Arlind Ajeti",4
-"Marcelo Díaz","Valentin Stocker",23
-"Marcelo Díaz","Kay Voser",30
-"Marcelo Díaz","Fabian Schär",29
-"Marcelo Díaz","Behrang Safari",15
-"Marcelo Díaz","Fabian Frei",43
-"Marcelo Díaz","Mohamed Salah",25
-"Marcelo Díaz","Giovanni Sio",8
-"Marcelo Díaz","Mohamed Elneny",2
-"Marcelo Díaz","Matías Delgado",10
-"Marcelo Díaz","Gastón Sauro",1
-"Marcelo Díaz","Taulant Xhaka",12
-"Marcelo Díaz","Marco Streller",5
-"Marcelo Díaz","Ivan Ivanov",11
-"Marcelo Díaz","Serey Die",6
-"Mohamed Salah","Arlind Ajeti",2
-"Mohamed Salah","Valentin Stocker",25
-"Mohamed Salah","Kay Voser",34
-"Mohamed Salah","Fabian Schär",13
-"Mohamed Salah","Behrang Safari",7
-"Mohamed Salah","Fabian Frei",16
-"Mohamed Salah","Marcelo Díaz",36
-"Mohamed Salah","Giovanni Sio",8
-"Mohamed Salah","Mohamed Elneny",16
-"Mohamed Salah","Matías Delgado",9
-"Mohamed Salah","Taulant Xhaka",5
-"Mohamed Salah","Marco Streller",26
-"Mohamed Salah","Ivan Ivanov",3
-"Mohamed Salah","Serey Die",18
-"Giovanni Sio","Arlind Ajeti",1
-"Giovanni Sio","Valentin Stocker",16
-"Giovanni Sio","Kay Voser",9
-"Giovanni Sio","Fabian Schär",1
-"Giovanni Sio","Behrang Safari",11
-"Giovanni Sio","Fabian Frei",6
-"Giovanni Sio","Marcelo Díaz",10
-"Giovanni Sio","Mohamed Salah",4
-"Giovanni Sio","Matías Delgado",3
-"Giovanni Sio","Taulant Xhaka",5
-"Giovanni Sio","Philipp Degen",1
-"Giovanni Sio","Marco Streller",9
-"Giovanni Sio","Serey Die",3
-"Mohamed Elneny","Yann Sommer",2
-"Mohamed Elneny","Arlind Ajeti",5
-"Mohamed Elneny","Valentin Stocker",6
-"Mohamed Elneny","Kay Voser",10
-"Mohamed Elneny","Fabian Schär",16
-"Mohamed Elneny","Behrang Safari",1
-"Mohamed Elneny","Fabian Frei",11
-"Mohamed Elneny","Marcelo Díaz",5
-"Mohamed Elneny","Mohamed Salah",8
-"Mohamed Elneny","Giovanni Sio",3
-"Mohamed Elneny","Taulant Xhaka",12
-"Mohamed Elneny","Serey Die",10
-"Mohamed Elneny","Marco Streller",3
-"Mohamed Elneny","Ivan Ivanov",5
-"Matías Delgado","Yann Sommer",1
-"Matías Delgado","Arlind Ajeti",1
-"Matías Delgado","Valentin Stocker",8
-"Matías Delgado","Kay Voser",8
-"Matías Delgado","Fabian Schär",6
-"Matías Delgado","Behrang Safari",4
-"Matías Delgado","Fabian Frei",10
-"Matías Delgado","Marcelo Díaz",6
-"Matías Delgado","Mohamed Salah",10
-"Matías Delgado","Giovanni Sio",4
-"Matías Delgado","Taulant Xhaka",5
-"Matías Delgado","Marco Streller",7
-"Matías Delgado","Ivan Ivanov",2
-"Matías Delgado","Serey Die",4
-"Gastón Sauro","Yann Sommer",2
-"Gastón Sauro","Valentin Stocker",1
-"Gastón Sauro","Kay Voser",2
-"Gastón Sauro","Fabian Frei",2
-"Gastón Sauro","Mohamed Salah",1
-"Gastón Sauro","Taulant Xhaka",1
-"Taulant Xhaka","Yann Sommer",5
-"Taulant Xhaka","Arlind Ajeti",5
-"Taulant Xhaka","Valentin Stocker",27
-"Taulant Xhaka","Kay Voser",8
-"Taulant Xhaka","Fabian Schär",17
-"Taulant Xhaka","Behrang Safari",2
-"Taulant Xhaka","Fabian Frei",22
-"Taulant Xhaka","Marcelo Díaz",14
-"Taulant Xhaka","Mohamed Salah",15
-"Taulant Xhaka","Giovanni Sio",3
-"Taulant Xhaka","Mohamed Elneny",12
-"Taulant Xhaka","Matías Delgado",8
-"Taulant Xhaka","Gastón Sauro",2
-"Taulant Xhaka","Philipp Degen",1
-"Taulant Xhaka","Marco Streller",10
-"Taulant Xhaka","Ivan Ivanov",17
-"Taulant Xhaka","Serey Die",9
-"Philipp Degen","Fabian Schär",1
-"Philipp Degen","Marcelo Díaz",3
-"Philipp Degen","Mohamed Salah",1
-"Philipp Degen","Giovanni Sio",2
-"Philipp Degen","Gastón Sauro",1
-"Marco Streller","Valentin Stocker",13
-"Marco Streller","Kay Voser",7
-"Marco Streller","Fabian Schär",2
-"Marco Streller","Behrang Safari",10
-"Marco Streller","Fabian Frei",11
-"Marco Streller","Marcelo Díaz",6
-"Marco Streller","Mohamed Salah",16
-"Marco Streller","Giovanni Sio",3
-"Marco Streller","Matías Delgado",1
-"Marco Streller","Taulant Xhaka",3
-"Marco Streller","Philipp Degen",1
-"Marco Streller","Serey Die",4
-"Marco Streller","Mohamed Elneny",2
-"Ivan Ivanov","Yann Sommer",30
-"Ivan Ivanov","Marco Streller",8
-"Ivan Ivanov","Valentin Stocker",16
-"Ivan Ivanov","Kay Voser",19
-"Ivan Ivanov","Fabian Schär",50
-"Ivan Ivanov","Behrang Safari",25
-"Ivan Ivanov","Fabian Frei",52
-"Ivan Ivanov","Marcelo Díaz",21
-"Ivan Ivanov","Mohamed Salah",10
-"Ivan Ivanov","Giovanni Sio",3
-"Ivan Ivanov","Arlind Ajeti",3
-"Ivan Ivanov","Matías Delgado",6
-"Ivan Ivanov","Taulant Xhaka",24
-"Ivan Ivanov","Serey Die",31
-"Ivan Ivanov","Mohamed Elneny",4
-"Serey Die","Yann Sommer",8
-"Serey Die","Marco Streller",4
-"Serey Die","Ivan Ivanov",29
-"Serey Die","Valentin Stocker",13
-"Serey Die","Kay Voser",33
-"Serey Die","Fabian Schär",33
-"Serey Die","Behrang Safari",1
-"Serey Die","Fabian Frei",21
-"Serey Die","Marcelo Díaz",4
-"Serey Die","Mohamed Salah",27
-"Serey Die","Mohamed Elneny",7
-"Serey Die","Taulant Xhaka",17
-"Serey Die","Matías Delgado",5
-"Serey Die","Giovanni Sio",4
-"David Degen","Serey Die",1
-"David Degen","Kay Voser",1
-"David Degen","Giovanni Sio",1
+Source,Target,Weight
+"1","5",15
+"1","14",11
+"1","15",11
+"1","16",58
+"1","19",8
+"1","20",28
+"1","21",6
+"1","22",7
+"1","30",5
+"1","33",3
+"1","10",3
+"1","26",1
+"1","34",4
+"1","9",14
+"1","13",49
+"1","8",5
+"5","1",21
+"5","14",1
+"5","15",5
+"5","16",17
+"5","19",14
+"5","20",12
+"5","21",6
+"5","22",8
+"5","30",3
+"5","33",7
+"5","10",3
+"5","26",2
+"5","34",4
+"5","4",1
+"5","9",1
+"14","1",2
+"14","5",5
+"14","15",11
+"14","16",11
+"14","19",18
+"14","20",29
+"14","21",14
+"14","22",18
+"14","30",20
+"14","33",4
+"14","10",1
+"14","34",12
+"14","9",10
+"14","13",9
+"14","8",10
+"15","1",20
+"15","5",5
+"15","14",18
+"15","16",40
+"15","19",2
+"15","20",41
+"15","21",22
+"15","22",60
+"15","30",14
+"15","33",11
+"15","10",23
+"15","26",1
+"15","34",8
+"15","4",1
+"15","9",15
+"15","13",12
+"15","8",22
+"15","7",1
+"16","1",58
+"16","5",18
+"16","14",18
+"16","15",34
+"16","19",10
+"16","20",64
+"16","21",18
+"16","22",34
+"16","30",15
+"16","33",14
+"16","10",6
+"16","34",19
+"16","9",10
+"16","13",44
+"16","8",23
+"19","1",5
+"19","5",13
+"19","14",19
+"19","15",1
+"19","16",9
+"19","20",18
+"19","21",20
+"19","22",19
+"19","30",9
+"19","33",2
+"19","10",5
+"19","34",7
+"19","9",13
+"19","13",24
+"19","8",3
+"20","1",15
+"20","5",14
+"20","14",29
+"20","15",32
+"20","16",52
+"20","19",22
+"20","21",27
+"20","22",38
+"20","30",14
+"20","33",18
+"20","10",7
+"20","34",23
+"20","4",2
+"20","9",17
+"20","13",50
+"20","8",23
+"21","1",3
+"21","5",4
+"21","14",23
+"21","15",30
+"21","16",29
+"21","19",15
+"21","20",43
+"21","22",25
+"21","30",8
+"21","33",2
+"21","10",10
+"21","26",1
+"21","34",12
+"21","9",5
+"21","13",11
+"21","8",6
+"22","5",2
+"22","14",25
+"22","15",34
+"22","16",13
+"22","19",7
+"22","20",16
+"22","21",36
+"22","30",8
+"22","33",16
+"22","10",9
+"22","34",5
+"22","9",26
+"22","13",3
+"22","8",18
+"30","5",1
+"30","14",16
+"30","15",9
+"30","16",1
+"30","19",11
+"30","20",6
+"30","21",10
+"30","22",4
+"30","10",3
+"30","34",5
+"30","4",1
+"30","9",9
+"30","8",3
+"33","1",2
+"33","5",5
+"33","14",6
+"33","15",10
+"33","16",16
+"33","19",1
+"33","20",11
+"33","21",5
+"33","22",8
+"33","30",3
+"33","34",12
+"33","8",10
+"33","9",3
+"33","13",5
+"10","1",1
+"10","5",1
+"10","14",8
+"10","15",8
+"10","16",6
+"10","19",4
+"10","20",10
+"10","21",6
+"10","22",10
+"10","30",4
+"10","34",5
+"10","9",7
+"10","13",2
+"10","8",4
+"26","1",2
+"26","14",1
+"26","15",2
+"26","20",2
+"26","22",1
+"26","34",1
+"34","1",5
+"34","5",5
+"34","14",27
+"34","15",8
+"34","16",17
+"34","19",2
+"34","20",22
+"34","21",14
+"34","22",15
+"34","30",3
+"34","33",12
+"34","10",8
+"34","26",2
+"34","4",1
+"34","9",10
+"34","13",17
+"34","8",9
+"4","16",1
+"4","21",3
+"4","22",1
+"4","30",2
+"4","26",1
+"9","14",13
+"9","15",7
+"9","16",2
+"9","19",10
+"9","20",11
+"9","21",6
+"9","22",16
+"9","30",3
+"9","10",1
+"9","34",3
+"9","4",1
+"9","8",4
+"9","33",2
+"13","1",30
+"13","9",8
+"13","14",16
+"13","15",19
+"13","16",50
+"13","19",25
+"13","20",52
+"13","21",21
+"13","22",10
+"13","30",3
+"13","5",3
+"13","10",6
+"13","34",24
+"13","8",31
+"13","33",4
+"8","1",8
+"8","9",4
+"8","13",29
+"8","14",13
+"8","15",33
+"8","16",33
+"8","19",1
+"8","20",21
+"8","21",4
+"8","22",27
+"8","33",7
+"8","34",17
+"8","10",5
+"8","30",4
+"7","8",1
+"7","15",1
+"7","30",1

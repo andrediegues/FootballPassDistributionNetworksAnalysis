@@ -1,259 +1,260 @@
-"Balázs Megyeri","Giannis Maniatis",2
-"Balázs Megyeri","Paulo Machado",2
-"Balázs Megyeri","Rafik Djebbour",2
-"Balázs Megyeri","Pablo Contreras",6
-"Balázs Megyeri","David Fuster",2
-"Balázs Megyeri","José Holebas",3
-"Balázs Megyeri","Kostas Manolas",6
-"Balázs Megyeri","Vassilis Torossidis",3
-"Balázs Megyeri","Ariel Ibagaza",4
-"Balázs Megyeri","Kostas Mitroglou",1
-"Balázs Megyeri","Leandro Greco",4
-"Giannis Maniatis","Balázs Megyeri",1
-"Giannis Maniatis","François Modesto",7
-"Giannis Maniatis","Paulo Machado",16
-"Giannis Maniatis","Rafik Djebbour",3
-"Giannis Maniatis","Pablo Contreras",9
-"Giannis Maniatis","David Fuster",8
-"Giannis Maniatis","José Holebas",11
-"Giannis Maniatis","Kostas Manolas",10
-"Giannis Maniatis","Vassilis Torossidis",20
-"Giannis Maniatis","Djamel Abdoun",12
-"Giannis Maniatis","Ariel Ibagaza",8
-"Giannis Maniatis","Kostas Mitroglou",3
-"Giannis Maniatis","Leandro Greco",15
-"Giannis Maniatis","Dimitris Siovas",4
-"Giannis Maniatis","Drissa Diakité",8
-"Giannis Maniatis","Roy Carroll",3
-"Giannis Maniatis","Ljubomir Fejsa",3
-"François Modesto","Giannis Maniatis",8
-"François Modesto","Paulo Machado",7
-"François Modesto","Rafik Djebbour",3
-"François Modesto","Pablo Contreras",4
-"François Modesto","David Fuster",4
-"François Modesto","José Holebas",11
-"François Modesto","Kostas Manolas",14
-"François Modesto","Vassilis Torossidis",14
-"François Modesto","Djamel Abdoun",5
-"François Modesto","Kostas Mitroglou",2
-"François Modesto","Leandro Greco",10
-"François Modesto","Roy Carroll",1
-"François Modesto","Dimitris Siovas",4
-"Paulo Machado","Giannis Maniatis",17
-"Paulo Machado","François Modesto",5
-"Paulo Machado","Rafik Djebbour",8
-"Paulo Machado","Pablo Contreras",6
-"Paulo Machado","David Fuster",6
-"Paulo Machado","José Holebas",14
-"Paulo Machado","Kostas Manolas",4
-"Paulo Machado","Vassilis Torossidis",15
-"Paulo Machado","Djamel Abdoun",15
-"Paulo Machado","Ariel Ibagaza",6
-"Paulo Machado","Kostas Mitroglou",6
-"Paulo Machado","Leandro Greco",10
-"Paulo Machado","Dimitris Siovas",2
-"Paulo Machado","Drissa Diakité",7
-"Paulo Machado","Roy Carroll",1
-"Paulo Machado","Charalambos Lykogiannis",1
-"Paulo Machado","Ljubomir Fejsa",4
-"Rafik Djebbour","Giannis Maniatis",4
-"Rafik Djebbour","François Modesto",1
-"Rafik Djebbour","Paulo Machado",7
-"Rafik Djebbour","Pablo Contreras",1
-"Rafik Djebbour","David Fuster",7
-"Rafik Djebbour","José Holebas",2
-"Rafik Djebbour","Kostas Manolas",2
-"Rafik Djebbour","Vassilis Torossidis",1
-"Rafik Djebbour","Djamel Abdoun",4
-"Rafik Djebbour","Ariel Ibagaza",4
-"Rafik Djebbour","Leandro Greco",6
-"Rafik Djebbour","Ljubomir Fejsa",1
-"Rafik Djebbour","Drissa Diakité",1
-"Pablo Contreras","Balázs Megyeri",7
-"Pablo Contreras","Giannis Maniatis",14
-"Pablo Contreras","François Modesto",8
-"Pablo Contreras","Paulo Machado",15
-"Pablo Contreras","Rafik Djebbour",3
-"Pablo Contreras","David Fuster",1
-"Pablo Contreras","José Holebas",18
-"Pablo Contreras","Kostas Manolas",20
-"Pablo Contreras","Vassilis Torossidis",13
-"Pablo Contreras","Djamel Abdoun",10
-"Pablo Contreras","Ariel Ibagaza",2
-"Pablo Contreras","Leandro Greco",12
-"Pablo Contreras","Dimitris Siovas",3
-"Pablo Contreras","Drissa Diakité",7
-"Pablo Contreras","Roy Carroll",8
-"Pablo Contreras","Ljubomir Fejsa",8
-"David Fuster","Giannis Maniatis",2
-"David Fuster","François Modesto",4
-"David Fuster","Paulo Machado",9
-"David Fuster","Rafik Djebbour",8
-"David Fuster","Pablo Contreras",3
-"David Fuster","José Holebas",2
-"David Fuster","Kostas Manolas",2
-"David Fuster","Djamel Abdoun",4
-"David Fuster","Ariel Ibagaza",3
-"David Fuster","Kostas Mitroglou",4
-"David Fuster","Leandro Greco",4
-"David Fuster","Dimitris Siovas",3
-"David Fuster","Drissa Diakité",1
-"José Holebas","Balázs Megyeri",4
-"José Holebas","Giannis Maniatis",13
-"José Holebas","François Modesto",7
-"José Holebas","Paulo Machado",14
-"José Holebas","Rafik Djebbour",2
-"José Holebas","Pablo Contreras",16
-"José Holebas","David Fuster",1
-"José Holebas","Kostas Manolas",2
-"José Holebas","Vassilis Torossidis",2
-"José Holebas","Djamel Abdoun",29
-"José Holebas","Ariel Ibagaza",5
-"José Holebas","Kostas Mitroglou",7
-"José Holebas","Leandro Greco",15
-"José Holebas","Dimitris Siovas",16
-"José Holebas","Roy Carroll",5
-"Kostas Manolas","Balázs Megyeri",3
-"Kostas Manolas","Giannis Maniatis",14
-"Kostas Manolas","François Modesto",17
-"Kostas Manolas","Paulo Machado",22
-"Kostas Manolas","Rafik Djebbour",6
-"Kostas Manolas","Pablo Contreras",26
-"Kostas Manolas","David Fuster",7
-"Kostas Manolas","José Holebas",11
-"Kostas Manolas","Vassilis Torossidis",19
-"Kostas Manolas","Djamel Abdoun",7
-"Kostas Manolas","Ariel Ibagaza",3
-"Kostas Manolas","Kostas Mitroglou",4
-"Kostas Manolas","Leandro Greco",8
-"Kostas Manolas","Dimitris Siovas",11
-"Kostas Manolas","Drissa Diakité",6
-"Kostas Manolas","Roy Carroll",16
-"Vassilis Torossidis","Balázs Megyeri",2
-"Vassilis Torossidis","Giannis Maniatis",9
-"Vassilis Torossidis","François Modesto",7
-"Vassilis Torossidis","Paulo Machado",19
-"Vassilis Torossidis","Rafik Djebbour",2
-"Vassilis Torossidis","Pablo Contreras",12
-"Vassilis Torossidis","David Fuster",4
-"Vassilis Torossidis","José Holebas",2
-"Vassilis Torossidis","Kostas Manolas",24
-"Vassilis Torossidis","Djamel Abdoun",20
-"Vassilis Torossidis","Ariel Ibagaza",3
-"Vassilis Torossidis","Kostas Mitroglou",3
-"Vassilis Torossidis","Leandro Greco",7
-"Vassilis Torossidis","Roy Carroll",11
-"Vassilis Torossidis","Ljubomir Fejsa",7
-"Vassilis Torossidis","Drissa Diakité",3
-"Djamel Abdoun","Giannis Maniatis",11
-"Djamel Abdoun","François Modesto",5
-"Djamel Abdoun","Paulo Machado",8
-"Djamel Abdoun","Rafik Djebbour",3
-"Djamel Abdoun","Pablo Contreras",2
-"Djamel Abdoun","David Fuster",4
-"Djamel Abdoun","José Holebas",21
-"Djamel Abdoun","Kostas Manolas",6
-"Djamel Abdoun","Vassilis Torossidis",18
-"Djamel Abdoun","Ariel Ibagaza",3
-"Djamel Abdoun","Kostas Mitroglou",8
-"Djamel Abdoun","Leandro Greco",15
-"Djamel Abdoun","Ljubomir Fejsa",6
-"Ariel Ibagaza","Giannis Maniatis",4
-"Ariel Ibagaza","François Modesto",1
-"Ariel Ibagaza","Paulo Machado",11
-"Ariel Ibagaza","Rafik Djebbour",2
-"Ariel Ibagaza","Pablo Contreras",1
-"Ariel Ibagaza","David Fuster",2
-"Ariel Ibagaza","José Holebas",3
-"Ariel Ibagaza","Kostas Manolas",3
-"Ariel Ibagaza","Vassilis Torossidis",5
-"Ariel Ibagaza","Djamel Abdoun",4
-"Ariel Ibagaza","Kostas Mitroglou",2
-"Ariel Ibagaza","Leandro Greco",3
-"Ariel Ibagaza","Dimitris Siovas",2
-"Ariel Ibagaza","Drissa Diakité",1
-"Ariel Ibagaza","Roy Carroll",1
-"Kostas Mitroglou","Giannis Maniatis",4
-"Kostas Mitroglou","François Modesto",2
-"Kostas Mitroglou","Paulo Machado",5
-"Kostas Mitroglou","Rafik Djebbour",1
-"Kostas Mitroglou","David Fuster",2
-"Kostas Mitroglou","José Holebas",2
-"Kostas Mitroglou","Kostas Manolas",1
-"Kostas Mitroglou","Vassilis Torossidis",1
-"Kostas Mitroglou","Djamel Abdoun",4
-"Kostas Mitroglou","Leandro Greco",4
-"Kostas Mitroglou","Dimitris Siovas",3
-"Kostas Mitroglou","Drissa Diakité",1
-"Kostas Mitroglou","Marko Pantelić",2
-"Kostas Mitroglou","Ljubomir Fejsa",1
-"Leandro Greco","Giannis Maniatis",10
-"Leandro Greco","François Modesto",2
-"Leandro Greco","Paulo Machado",17
-"Leandro Greco","Rafik Djebbour",4
-"Leandro Greco","Pablo Contreras",2
-"Leandro Greco","David Fuster",3
-"Leandro Greco","José Holebas",15
-"Leandro Greco","Kostas Manolas",6
-"Leandro Greco","Vassilis Torossidis",8
-"Leandro Greco","Djamel Abdoun",27
-"Leandro Greco","Ariel Ibagaza",4
-"Leandro Greco","Kostas Mitroglou",8
-"Leandro Greco","Dimitris Siovas",6
-"Leandro Greco","Drissa Diakité",1
-"Leandro Greco","Roy Carroll",1
-"Leandro Greco","Ljubomir Fejsa",5
-"Dimitris Siovas","Balázs Megyeri",1
-"Dimitris Siovas","Giannis Maniatis",7
-"Dimitris Siovas","Paulo Machado",3
-"Dimitris Siovas","Kostas Mitroglou",2
-"Dimitris Siovas","Pablo Contreras",2
-"Dimitris Siovas","David Fuster",4
-"Dimitris Siovas","José Holebas",14
-"Dimitris Siovas","Kostas Manolas",15
-"Dimitris Siovas","Drissa Diakité",2
-"Dimitris Siovas","Leandro Greco",10
-"Dimitris Siovas","Ariel Ibagaza",2
-"Dimitris Siovas","Marko Pantelić",2
-"Dimitris Siovas","Djamel Abdoun",4
-"Dimitris Siovas","Roy Carroll",6
-"Dimitris Siovas","François Modesto",7
-"Dimitris Siovas","Vassilis Torossidis",1
-"Drissa Diakité","Giannis Maniatis",4
-"Drissa Diakité","Paulo Machado",8
-"Drissa Diakité","Pablo Contreras",2
-"Drissa Diakité","David Fuster",4
-"Drissa Diakité","Dimitris Siovas",2
-"Drissa Diakité","Kostas Manolas",9
-"Drissa Diakité","Leandro Greco",1
-"Drissa Diakité","Ariel Ibagaza",1
-"Drissa Diakité","Djamel Abdoun",1
-"Drissa Diakité","Roy Carroll",4
-"Drissa Diakité","Ljubomir Fejsa",3
-"Drissa Diakité","Vassilis Torossidis",2
-"Marko Pantelić","Kostas Mitroglou",1
-"Marko Pantelić","Dimitris Siovas",1
-"Roy Carroll","Giannis Maniatis",1
-"Roy Carroll","François Modesto",3
-"Roy Carroll","Paulo Machado",7
-"Roy Carroll","Rafik Djebbour",1
-"Roy Carroll","Pablo Contreras",17
-"Roy Carroll","José Holebas",2
-"Roy Carroll","Kostas Manolas",12
-"Roy Carroll","Leandro Greco",3
-"Roy Carroll","Vassilis Torossidis",2
-"Roy Carroll","Kostas Mitroglou",5
-"Roy Carroll","Djamel Abdoun",9
-"Roy Carroll","Dimitris Siovas",6
-"Roy Carroll","Ljubomir Fejsa",3
-"Charalambos Lykogiannis","Paulo Machado",2
-"Ljubomir Fejsa","Roy Carroll",2
-"Ljubomir Fejsa","Giannis Maniatis",5
-"Ljubomir Fejsa","Paulo Machado",1
-"Ljubomir Fejsa","Kostas Manolas",10
-"Ljubomir Fejsa","Leandro Greco",2
-"Ljubomir Fejsa","Vassilis Torossidis",4
-"Ljubomir Fejsa","Djamel Abdoun",2
-"Ljubomir Fejsa","David Fuster",1
-"Ljubomir Fejsa","Pablo Contreras",9
-"Ljubomir Fejsa","Drissa Diakité",4
+Source,Target,Weight
+"42","2",2
+"42","5",2
+"42","10",2
+"42","15",6
+"42","19",2
+"42","20",3
+"42","24",6
+"42","35",3
+"42","7",4
+"42","11",1
+"42","27",4
+"2","42",1
+"2","3",7
+"2","5",16
+"2","10",3
+"2","15",9
+"2","19",8
+"2","20",11
+"2","24",10
+"2","35",20
+"2","93",12
+"2","7",8
+"2","11",3
+"2","27",15
+"2","23",4
+"2","26",8
+"2","1",3
+"2","8",3
+"3","2",8
+"3","5",7
+"3","10",3
+"3","15",4
+"3","19",4
+"3","20",11
+"3","24",14
+"3","35",14
+"3","93",5
+"3","11",2
+"3","27",10
+"3","1",1
+"3","23",4
+"5","2",17
+"5","3",5
+"5","10",8
+"5","15",6
+"5","19",6
+"5","20",14
+"5","24",4
+"5","35",15
+"5","93",15
+"5","7",6
+"5","11",6
+"5","27",10
+"5","23",2
+"5","26",7
+"5","1",1
+"5","25",1
+"5","8",4
+"10","2",4
+"10","3",1
+"10","5",7
+"10","15",1
+"10","19",7
+"10","20",2
+"10","24",2
+"10","35",1
+"10","93",4
+"10","7",4
+"10","27",6
+"10","8",1
+"10","26",1
+"15","42",7
+"15","2",14
+"15","3",8
+"15","5",15
+"15","10",3
+"15","19",1
+"15","20",18
+"15","24",20
+"15","35",13
+"15","93",10
+"15","7",2
+"15","27",12
+"15","23",3
+"15","26",7
+"15","1",8
+"15","8",8
+"19","2",2
+"19","3",4
+"19","5",9
+"19","10",8
+"19","15",3
+"19","20",2
+"19","24",2
+"19","93",4
+"19","7",3
+"19","11",4
+"19","27",4
+"19","23",3
+"19","26",1
+"20","42",4
+"20","2",13
+"20","3",7
+"20","5",14
+"20","10",2
+"20","15",16
+"20","19",1
+"20","24",2
+"20","35",2
+"20","93",29
+"20","7",5
+"20","11",7
+"20","27",15
+"20","23",16
+"20","1",5
+"24","42",3
+"24","2",14
+"24","3",17
+"24","5",22
+"24","10",6
+"24","15",26
+"24","19",7
+"24","20",11
+"24","35",19
+"24","93",7
+"24","7",3
+"24","11",4
+"24","27",8
+"24","23",11
+"24","26",6
+"24","1",16
+"35","42",2
+"35","2",9
+"35","3",7
+"35","5",19
+"35","10",2
+"35","15",12
+"35","19",4
+"35","20",2
+"35","24",24
+"35","93",20
+"35","7",3
+"35","11",3
+"35","27",7
+"35","1",11
+"35","8",7
+"35","26",3
+"93","2",11
+"93","3",5
+"93","5",8
+"93","10",3
+"93","15",2
+"93","19",4
+"93","20",21
+"93","24",6
+"93","35",18
+"93","7",3
+"93","11",8
+"93","27",15
+"93","8",6
+"7","2",4
+"7","3",1
+"7","5",11
+"7","10",2
+"7","15",1
+"7","19",2
+"7","20",3
+"7","24",3
+"7","35",5
+"7","93",4
+"7","11",2
+"7","27",3
+"7","23",2
+"7","26",1
+"7","1",1
+"11","2",4
+"11","3",2
+"11","5",5
+"11","10",1
+"11","19",2
+"11","20",2
+"11","24",1
+"11","35",1
+"11","93",4
+"11","27",4
+"11","23",3
+"11","26",1
+"11","9",2
+"11","8",1
+"27","2",10
+"27","3",2
+"27","5",17
+"27","10",4
+"27","15",2
+"27","19",3
+"27","20",15
+"27","24",6
+"27","35",8
+"27","93",27
+"27","7",4
+"27","11",8
+"27","23",6
+"27","26",1
+"27","1",1
+"27","8",5
+"23","42",1
+"23","2",7
+"23","5",3
+"23","11",2
+"23","15",2
+"23","19",4
+"23","20",14
+"23","24",15
+"23","26",2
+"23","27",10
+"23","7",2
+"23","9",2
+"23","93",4
+"23","1",6
+"23","3",7
+"23","35",1
+"26","2",4
+"26","5",8
+"26","15",2
+"26","19",4
+"26","23",2
+"26","24",9
+"26","27",1
+"26","7",1
+"26","93",1
+"26","1",4
+"26","8",3
+"26","35",2
+"9","11",1
+"9","23",1
+"1","2",1
+"1","3",3
+"1","5",7
+"1","10",1
+"1","15",17
+"1","20",2
+"1","24",12
+"1","27",3
+"1","35",2
+"1","11",5
+"1","93",9
+"1","23",6
+"1","8",3
+"25","5",2
+"8","1",2
+"8","2",5
+"8","5",1
+"8","24",10
+"8","27",2
+"8","35",4
+"8","93",2
+"8","19",1
+"8","15",9
+"8","26",4

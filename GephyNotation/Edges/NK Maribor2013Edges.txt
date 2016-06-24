@@ -1,110 +1,111 @@
-"Jasmin Handanovič","Željko Filipovič",1
-"Jasmin Handanovič","Martin Milec",2
-"Jasmin Handanovič","Tavares",1
-"Jasmin Handanovič","Goran Cvijanovič",3
-"Jasmin Handanovič","Aleksander Rajčevič",8
-"Jasmin Handanovič","Arghus",3
-"Jasmin Handanovič","Aleš Mertelj",2
-"Željko Filipovič","Martin Milec",4
-"Željko Filipovič","Tavares",2
-"Željko Filipovič","Agim Ibraimi",2
-"Željko Filipovič","Goran Cvijanovič",5
-"Željko Filipovič","Aleksander Rajčevič",4
-"Željko Filipovič","Robert Berić",1
-"Željko Filipovič","Aleš Mertelj",2
-"Martin Milec","Jasmin Handanovič",2
-"Martin Milec","Željko Filipovič",1
-"Martin Milec","Aleš Mejač",3
-"Martin Milec","Tavares",5
-"Martin Milec","Agim Ibraimi",4
-"Martin Milec","Goran Cvijanovič",6
-"Martin Milec","Aleksander Rajčevič",10
-"Martin Milec","Robert Berić",1
-"Martin Milec","Arghus",1
-"Martin Milec","Aleš Mertelj",4
-"Martin Milec","Dejan Mezga",1
-"Aleš Mejač","Jasmin Handanovič",2
-"Aleš Mejač","Željko Filipovič",1
-"Aleš Mejač","Tavares",1
-"Aleš Mejač","Agim Ibraimi",1
-"Aleš Mejač","Goran Cvijanovič",5
-"Aleš Mejač","Aleksander Rajčevič",1
-"Aleš Mejač","Arghus",3
-"Aleš Mejač","Aleš Mertelj",1
-"Aleš Mejač","Dejan Mezga",1
-"Tavares","Jasmin Handanovič",1
-"Tavares","Željko Filipovič",2
-"Tavares","Martin Milec",3
-"Tavares","Aleš Mejač",2
-"Tavares","Agim Ibraimi",3
-"Tavares","Goran Cvijanovič",5
-"Tavares","Aleš Mertelj",4
-"Tavares","Dejan Mezga",3
-"Tavares","Nikola Komazec",2
-"Agim Ibraimi","Martin Milec",7
-"Agim Ibraimi","Aleš Mejač",2
-"Agim Ibraimi","Tavares",4
-"Agim Ibraimi","Goran Cvijanovič",1
-"Agim Ibraimi","Aleksander Rajčevič",3
-"Agim Ibraimi","Robert Berić",2
-"Agim Ibraimi","Arghus",1
-"Agim Ibraimi","Aleš Mertelj",3
-"Goran Cvijanovič","Željko Filipovič",2
-"Goran Cvijanovič","Martin Milec",4
-"Goran Cvijanovič","Aleš Mejač",2
-"Goran Cvijanovič","Tavares",4
-"Goran Cvijanovič","Agim Ibraimi",1
-"Goran Cvijanovič","Aleksander Rajčevič",1
-"Goran Cvijanovič","Robert Berić",8
-"Goran Cvijanovič","Arghus",1
-"Goran Cvijanovič","Aleš Mertelj",11
-"Goran Cvijanovič","Dejan Mezga",4
-"Goran Cvijanovič","Nikola Komazec",3
-"Aleksander Rajčevič","Jasmin Handanovič",6
-"Aleksander Rajčevič","Željko Filipovič",3
-"Aleksander Rajčevič","Martin Milec",7
-"Aleksander Rajčevič","Aleš Mejač",2
-"Aleksander Rajčevič","Tavares",4
-"Aleksander Rajčevič","Agim Ibraimi",4
-"Aleksander Rajčevič","Goran Cvijanovič",4
-"Aleksander Rajčevič","Arghus",10
-"Aleksander Rajčevič","Aleš Mertelj",4
-"Aleksander Rajčevič","Nikola Komazec",1
-"Robert Berić","Željko Filipovič",1
-"Robert Berić","Martin Milec",2
-"Robert Berić","Aleš Mejač",1
-"Robert Berić","Tavares",2
-"Robert Berić","Agim Ibraimi",1
-"Robert Berić","Goran Cvijanovič",2
-"Robert Berić","Arghus",2
-"Robert Berić","Aleš Mertelj",2
-"Arghus","Jasmin Handanovič",2
-"Arghus","Željko Filipovič",5
-"Arghus","Martin Milec",1
-"Arghus","Aleš Mejač",3
-"Arghus","Tavares",3
-"Arghus","Agim Ibraimi",4
-"Arghus","Goran Cvijanovič",6
-"Arghus","Aleksander Rajčevič",5
-"Arghus","Aleš Mertelj",2
-"Aleš Mertelj","Željko Filipovič",3
-"Aleš Mertelj","Martin Milec",7
-"Aleš Mertelj","Aleš Mejač",1
-"Aleš Mertelj","Tavares",4
-"Aleš Mertelj","Agim Ibraimi",7
-"Aleš Mertelj","Goran Cvijanovič",7
-"Aleš Mertelj","Aleksander Rajčevič",3
-"Aleš Mertelj","Robert Berić",1
-"Aleš Mertelj","Arghus",5
-"Aleš Mertelj","Dejan Mezga",1
-"Aleš Mertelj","Nikola Komazec",1
-"Dejan Mezga","Martin Milec",1
-"Dejan Mezga","Tavares",2
-"Dejan Mezga","Agim Ibraimi",1
-"Dejan Mezga","Goran Cvijanovič",5
-"Dejan Mezga","Robert Berić",3
-"Dejan Mezga","Aleš Mertelj",2
-"Nikola Komazec","Martin Milec",1
-"Nikola Komazec","Tavares",3
-"Nikola Komazec","Aleksander Rajčevič",2
-"Nikola Komazec","Arghus",1
+Source,Target,Weight
+"33","5",1
+"33","6",2
+"33","9",1
+"33","20",3
+"33","26",8
+"33","44",3
+"33","70",2
+"5","6",4
+"5","9",2
+"5","10",2
+"5","20",5
+"5","26",4
+"5","32",1
+"5","70",2
+"6","33",2
+"6","5",1
+"6","7",3
+"6","9",5
+"6","10",4
+"6","20",6
+"6","26",10
+"6","32",1
+"6","44",1
+"6","70",4
+"6","8",1
+"7","33",2
+"7","5",1
+"7","9",1
+"7","10",1
+"7","20",5
+"7","26",1
+"7","44",3
+"7","70",1
+"7","8",1
+"9","33",1
+"9","5",2
+"9","6",3
+"9","7",2
+"9","10",3
+"9","20",5
+"9","70",4
+"9","8",3
+"9","21",2
+"10","6",7
+"10","7",2
+"10","9",4
+"10","20",1
+"10","26",3
+"10","32",2
+"10","44",1
+"10","70",3
+"20","5",2
+"20","6",4
+"20","7",2
+"20","9",4
+"20","10",1
+"20","26",1
+"20","32",8
+"20","44",1
+"20","70",11
+"20","8",4
+"20","21",3
+"26","33",6
+"26","5",3
+"26","6",7
+"26","7",2
+"26","9",4
+"26","10",4
+"26","20",4
+"26","44",10
+"26","70",4
+"26","21",1
+"32","5",1
+"32","6",2
+"32","7",1
+"32","9",2
+"32","10",1
+"32","20",2
+"32","44",2
+"32","70",2
+"44","33",2
+"44","5",5
+"44","6",1
+"44","7",3
+"44","9",3
+"44","10",4
+"44","20",6
+"44","26",5
+"44","70",2
+"70","5",3
+"70","6",7
+"70","7",1
+"70","9",4
+"70","10",7
+"70","20",7
+"70","26",3
+"70","32",1
+"70","44",5
+"70","8",1
+"70","21",1
+"8","6",1
+"8","9",2
+"8","10",1
+"8","20",5
+"8","32",3
+"8","70",2
+"21","6",1
+"21","9",3
+"21","26",2
+"21","44",1

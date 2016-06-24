@@ -1,319 +1,320 @@
-"Joe Hart","Maicon",6
-"Joe Hart","Vincent Kompany",25
-"Joe Hart","Samir Nasri",6
-"Joe Hart","Javi García",5
-"Joe Hart","Gareth Barry",6
-"Joe Hart","David Silva",2
-"Joe Hart","Gaël Clichy",14
-"Joe Hart","Carlos Tévez",1
-"Joe Hart","Matija Nastasić",25
-"Joe Hart","Yaya Touré",12
-"Joe Hart","Pablo Zabaleta",8
-"Joe Hart","Edin Džeko",8
-"Joe Hart","Aleksandar Kolarov",4
-"Joe Hart","Sergio Agüero",3
-"Joe Hart","Jack Rodwell",1
-"Joe Hart","Mario Balotelli",4
-"Joe Hart","Micah Richards",2
-"Joe Hart","Joleon Lescott",2
-"Joe Hart","James Milner",2
-"Joe Hart","Scott Sinclair",2
-"Maicon","Joe Hart",1
-"Maicon","Vincent Kompany",13
-"Maicon","Samir Nasri",6
-"Maicon","Javi García",12
-"Maicon","Gareth Barry",5
-"Maicon","David Silva",14
-"Maicon","Carlos Tévez",14
-"Maicon","Matija Nastasić",4
-"Maicon","Yaya Touré",7
-"Maicon","Pablo Zabaleta",4
-"Maicon","Edin Džeko",12
-"Maicon","Aleksandar Kolarov",1
-"Maicon","Sergio Agüero",7
-"Maicon","Joleon Lescott",4
-"Maicon","Scott Sinclair",4
-"Maicon","Mario Balotelli",3
-"Vincent Kompany","Joe Hart",34
-"Vincent Kompany","Maicon",23
-"Vincent Kompany","Samir Nasri",20
-"Vincent Kompany","Javi García",21
-"Vincent Kompany","Gareth Barry",16
-"Vincent Kompany","David Silva",1
-"Vincent Kompany","Gaël Clichy",9
-"Vincent Kompany","Carlos Tévez",8
-"Vincent Kompany","Matija Nastasić",60
-"Vincent Kompany","Yaya Touré",30
-"Vincent Kompany","Pablo Zabaleta",31
-"Vincent Kompany","Edin Džeko",9
-"Vincent Kompany","Aleksandar Kolarov",2
-"Vincent Kompany","Sergio Agüero",2
-"Vincent Kompany","Jack Rodwell",9
-"Vincent Kompany","Mario Balotelli",2
-"Vincent Kompany","Micah Richards",14
-"Vincent Kompany","Joleon Lescott",39
-"Vincent Kompany","James Milner",6
-"Vincent Kompany","Scott Sinclair",2
-"Samir Nasri","Joe Hart",3
-"Samir Nasri","Maicon",2
-"Samir Nasri","Vincent Kompany",14
-"Samir Nasri","Javi García",7
-"Samir Nasri","Gareth Barry",10
-"Samir Nasri","David Silva",10
-"Samir Nasri","Gaël Clichy",17
-"Samir Nasri","Carlos Tévez",10
-"Samir Nasri","Matija Nastasić",7
-"Samir Nasri","Yaya Touré",40
-"Samir Nasri","Pablo Zabaleta",14
-"Samir Nasri","Edin Džeko",17
-"Samir Nasri","Aleksandar Kolarov",6
-"Samir Nasri","Sergio Agüero",12
-"Samir Nasri","Jack Rodwell",1
-"Samir Nasri","Mario Balotelli",3
-"Samir Nasri","Micah Richards",3
-"Samir Nasri","Joleon Lescott",4
-"Samir Nasri","James Milner",3
-"Javi García","Joe Hart",1
-"Javi García","Maicon",15
-"Javi García","Vincent Kompany",29
-"Javi García","Samir Nasri",5
-"Javi García","Gareth Barry",10
-"Javi García","David Silva",6
-"Javi García","Gaël Clichy",10
-"Javi García","Carlos Tévez",17
-"Javi García","Matija Nastasić",21
-"Javi García","Yaya Touré",22
-"Javi García","Pablo Zabaleta",11
-"Javi García","Edin Džeko",3
-"Javi García","Sergio Agüero",5
-"Javi García","James Milner",1
-"Javi García","Joleon Lescott",5
-"Gareth Barry","Joe Hart",2
-"Gareth Barry","Maicon",6
-"Gareth Barry","Vincent Kompany",18
-"Gareth Barry","Samir Nasri",18
-"Gareth Barry","Javi García",15
-"Gareth Barry","David Silva",4
-"Gareth Barry","Gaël Clichy",12
-"Gareth Barry","Carlos Tévez",12
-"Gareth Barry","Matija Nastasić",10
-"Gareth Barry","Yaya Touré",16
-"Gareth Barry","Pablo Zabaleta",4
-"Gareth Barry","Edin Džeko",7
-"Gareth Barry","Aleksandar Kolarov",1
-"Gareth Barry","Micah Richards",2
-"Gareth Barry","Joleon Lescott",13
-"Gareth Barry","James Milner",3
-"Gareth Barry","Sergio Agüero",4
-"Gareth Barry","Scott Sinclair",1
-"David Silva","Maicon",4
-"David Silva","Vincent Kompany",2
-"David Silva","Samir Nasri",8
-"David Silva","Javi García",10
-"David Silva","Gareth Barry",1
-"David Silva","Gaël Clichy",4
-"David Silva","Carlos Tévez",6
-"David Silva","Matija Nastasić",4
-"David Silva","Yaya Touré",29
-"David Silva","Pablo Zabaleta",10
-"David Silva","Edin Džeko",9
-"David Silva","Aleksandar Kolarov",9
-"David Silva","Sergio Agüero",11
-"David Silva","Jack Rodwell",2
-"Gaël Clichy","Joe Hart",8
-"Gaël Clichy","Vincent Kompany",13
-"Gaël Clichy","Samir Nasri",24
-"Gaël Clichy","Javi García",6
-"Gaël Clichy","Gareth Barry",14
-"Gaël Clichy","David Silva",7
-"Gaël Clichy","Carlos Tévez",9
-"Gaël Clichy","Matija Nastasić",22
-"Gaël Clichy","Yaya Touré",18
-"Gaël Clichy","Pablo Zabaleta",1
-"Gaël Clichy","Edin Džeko",6
-"Gaël Clichy","Aleksandar Kolarov",10
-"Gaël Clichy","Sergio Agüero",15
-"Gaël Clichy","Mario Balotelli",4
-"Gaël Clichy","Joleon Lescott",7
-"Gaël Clichy","James Milner",2
-"Carlos Tévez","Maicon",15
-"Carlos Tévez","Vincent Kompany",4
-"Carlos Tévez","Samir Nasri",11
-"Carlos Tévez","Javi García",14
-"Carlos Tévez","Gareth Barry",13
-"Carlos Tévez","David Silva",6
-"Carlos Tévez","Gaël Clichy",5
-"Carlos Tévez","Matija Nastasić",8
-"Carlos Tévez","Yaya Touré",8
-"Carlos Tévez","Pablo Zabaleta",4
-"Carlos Tévez","Edin Džeko",5
-"Carlos Tévez","Aleksandar Kolarov",2
-"Carlos Tévez","Micah Richards",1
-"Carlos Tévez","Joleon Lescott",3
-"Carlos Tévez","James Milner",1
-"Carlos Tévez","Sergio Agüero",2
-"Carlos Tévez","Mario Balotelli",1
-"Carlos Tévez","Scott Sinclair",3
-"Matija Nastasić","Joe Hart",11
-"Matija Nastasić","Maicon",9
-"Matija Nastasić","Vincent Kompany",52
-"Matija Nastasić","Samir Nasri",17
-"Matija Nastasić","Javi García",14
-"Matija Nastasić","Gareth Barry",11
-"Matija Nastasić","David Silva",4
-"Matija Nastasić","Gaël Clichy",25
-"Matija Nastasić","Carlos Tévez",12
-"Matija Nastasić","Yaya Touré",26
-"Matija Nastasić","Pablo Zabaleta",11
-"Matija Nastasić","Edin Džeko",16
-"Matija Nastasić","Aleksandar Kolarov",2
-"Matija Nastasić","Sergio Agüero",12
-"Matija Nastasić","Jack Rodwell",8
-"Matija Nastasić","Mario Balotelli",7
-"Matija Nastasić","Joleon Lescott",9
-"Matija Nastasić","Scott Sinclair",3
-"Yaya Touré","Joe Hart",4
-"Yaya Touré","Maicon",13
-"Yaya Touré","Vincent Kompany",34
-"Yaya Touré","Samir Nasri",32
-"Yaya Touré","Javi García",15
-"Yaya Touré","Gareth Barry",13
-"Yaya Touré","David Silva",19
-"Yaya Touré","Gaël Clichy",23
-"Yaya Touré","Carlos Tévez",9
-"Yaya Touré","Matija Nastasić",29
-"Yaya Touré","Pablo Zabaleta",18
-"Yaya Touré","Edin Džeko",6
-"Yaya Touré","Aleksandar Kolarov",7
-"Yaya Touré","Sergio Agüero",25
-"Yaya Touré","Jack Rodwell",6
-"Yaya Touré","Mario Balotelli",3
-"Yaya Touré","Micah Richards",6
-"Yaya Touré","Joleon Lescott",4
-"Yaya Touré","James Milner",3
-"Pablo Zabaleta","Joe Hart",4
-"Pablo Zabaleta","Maicon",5
-"Pablo Zabaleta","Vincent Kompany",29
-"Pablo Zabaleta","Samir Nasri",17
-"Pablo Zabaleta","Javi García",8
-"Pablo Zabaleta","Gareth Barry",4
-"Pablo Zabaleta","David Silva",18
-"Pablo Zabaleta","Carlos Tévez",7
-"Pablo Zabaleta","Matija Nastasić",10
-"Pablo Zabaleta","Yaya Touré",16
-"Pablo Zabaleta","Edin Džeko",6
-"Pablo Zabaleta","Aleksandar Kolarov",2
-"Pablo Zabaleta","Sergio Agüero",8
-"Pablo Zabaleta","Jack Rodwell",2
-"Pablo Zabaleta","James Milner",1
-"Pablo Zabaleta","Joleon Lescott",2
-"Edin Džeko","Joe Hart",1
-"Edin Džeko","Maicon",8
-"Edin Džeko","Vincent Kompany",4
-"Edin Džeko","Samir Nasri",11
-"Edin Džeko","Javi García",3
-"Edin Džeko","Gareth Barry",4
-"Edin Džeko","David Silva",4
-"Edin Džeko","Gaël Clichy",2
-"Edin Džeko","Carlos Tévez",8
-"Edin Džeko","Matija Nastasić",4
-"Edin Džeko","Yaya Touré",5
-"Edin Džeko","Pablo Zabaleta",2
-"Edin Džeko","Aleksandar Kolarov",5
-"Edin Džeko","Sergio Agüero",6
-"Edin Džeko","Mario Balotelli",2
-"Edin Džeko","Joleon Lescott",3
-"Edin Džeko","James Milner",2
-"Edin Džeko","Scott Sinclair",1
-"Aleksandar Kolarov","Joe Hart",2
-"Aleksandar Kolarov","Maicon",1
-"Aleksandar Kolarov","Vincent Kompany",6
-"Aleksandar Kolarov","Samir Nasri",5
-"Aleksandar Kolarov","Gareth Barry",3
-"Aleksandar Kolarov","David Silva",2
-"Aleksandar Kolarov","Gaël Clichy",3
-"Aleksandar Kolarov","Carlos Tévez",2
-"Aleksandar Kolarov","Matija Nastasić",4
-"Aleksandar Kolarov","Yaya Touré",5
-"Aleksandar Kolarov","Pablo Zabaleta",1
-"Aleksandar Kolarov","Edin Džeko",4
-"Aleksandar Kolarov","Sergio Agüero",5
-"Aleksandar Kolarov","Jack Rodwell",2
-"Aleksandar Kolarov","James Milner",1
-"Sergio Agüero","Vincent Kompany",4
-"Sergio Agüero","Pablo Zabaleta",3
-"Sergio Agüero","Samir Nasri",11
-"Sergio Agüero","Edin Džeko",9
-"Sergio Agüero","Javi García",5
-"Sergio Agüero","David Silva",7
-"Sergio Agüero","Gaël Clichy",8
-"Sergio Agüero","Matija Nastasić",5
-"Sergio Agüero","Yaya Touré",13
-"Sergio Agüero","Aleksandar Kolarov",3
-"Sergio Agüero","Mario Balotelli",3
-"Sergio Agüero","Micah Richards",1
-"Sergio Agüero","James Milner",2
-"Sergio Agüero","Gareth Barry",7
-"Sergio Agüero","Carlos Tévez",5
-"Sergio Agüero","Maicon",2
-"Jack Rodwell","Vincent Kompany",9
-"Jack Rodwell","Pablo Zabaleta",6
-"Jack Rodwell","Samir Nasri",2
-"Jack Rodwell","David Silva",2
-"Jack Rodwell","Gaël Clichy",3
-"Jack Rodwell","Matija Nastasić",6
-"Jack Rodwell","Yaya Touré",4
-"Jack Rodwell","Mario Balotelli",1
-"Mario Balotelli","Vincent Kompany",1
-"Mario Balotelli","Samir Nasri",2
-"Mario Balotelli","Sergio Agüero",4
-"Mario Balotelli","David Silva",1
-"Mario Balotelli","Gaël Clichy",3
-"Mario Balotelli","Matija Nastasić",2
-"Mario Balotelli","Yaya Touré",2
-"Mario Balotelli","Aleksandar Kolarov",1
-"Mario Balotelli","Micah Richards",1
-"Mario Balotelli","Gareth Barry",3
-"Mario Balotelli","Carlos Tévez",3
-"Micah Richards","Joe Hart",2
-"Micah Richards","Vincent Kompany",7
-"Micah Richards","Joleon Lescott",3
-"Micah Richards","James Milner",4
-"Micah Richards","Samir Nasri",2
-"Micah Richards","Edin Džeko",2
-"Micah Richards","Sergio Agüero",1
-"Micah Richards","Gaël Clichy",2
-"Micah Richards","Yaya Touré",9
-"Micah Richards","Carlos Tévez",1
-"Micah Richards","Mario Balotelli",1
-"Joleon Lescott","Joe Hart",6
-"Joleon Lescott","Micah Richards",1
-"Joleon Lescott","Vincent Kompany",34
-"Joleon Lescott","James Milner",4
-"Joleon Lescott","Samir Nasri",3
-"Joleon Lescott","Edin Džeko",1
-"Joleon Lescott","Sergio Agüero",4
-"Joleon Lescott","Gareth Barry",22
-"Joleon Lescott","Gaël Clichy",5
-"Joleon Lescott","Yaya Touré",6
-"Joleon Lescott","Carlos Tévez",4
-"Joleon Lescott","Maicon",1
-"Joleon Lescott","Scott Sinclair",1
-"Joleon Lescott","Javi García",9
-"Joleon Lescott","Matija Nastasić",8
-"Joleon Lescott","Pablo Zabaleta",2
-"James Milner","Micah Richards",4
-"James Milner","Vincent Kompany",4
-"James Milner","Joleon Lescott",2
-"James Milner","Samir Nasri",6
-"James Milner","Edin Džeko",4
-"James Milner","Sergio Agüero",2
-"James Milner","Gareth Barry",1
-"James Milner","Yaya Touré",3
-"James Milner","Carlos Tévez",1
-"Scott Sinclair","Maicon",2
-"Scott Sinclair","Joleon Lescott",1
-"Scott Sinclair","Samir Nasri",1
-"Scott Sinclair","Gareth Barry",3
-"Scott Sinclair","Carlos Tévez",2
-"Scott Sinclair","Matija Nastasić",2
+Source,Target,Weight
+"1","3",6
+"1","4",25
+"1","8",6
+"1","14",5
+"1","18",6
+"1","21",2
+"1","22",14
+"1","32",1
+"1","33",25
+"1","42",12
+"1","5",8
+"1","10",8
+"1","13",4
+"1","16",3
+"1","17",1
+"1","45",4
+"1","2",2
+"1","6",2
+"1","7",2
+"1","11",2
+"3","1",1
+"3","4",13
+"3","8",6
+"3","14",12
+"3","18",5
+"3","21",14
+"3","32",14
+"3","33",4
+"3","42",7
+"3","5",4
+"3","10",12
+"3","13",1
+"3","16",7
+"3","6",4
+"3","11",4
+"3","45",3
+"4","1",34
+"4","3",23
+"4","8",20
+"4","14",21
+"4","18",16
+"4","21",1
+"4","22",9
+"4","32",8
+"4","33",60
+"4","42",30
+"4","5",31
+"4","10",9
+"4","13",2
+"4","16",2
+"4","17",9
+"4","45",2
+"4","2",14
+"4","6",39
+"4","7",6
+"4","11",2
+"8","1",3
+"8","3",2
+"8","4",14
+"8","14",7
+"8","18",10
+"8","21",10
+"8","22",17
+"8","32",10
+"8","33",7
+"8","42",40
+"8","5",14
+"8","10",17
+"8","13",6
+"8","16",12
+"8","17",1
+"8","45",3
+"8","2",3
+"8","6",4
+"8","7",3
+"14","1",1
+"14","3",15
+"14","4",29
+"14","8",5
+"14","18",10
+"14","21",6
+"14","22",10
+"14","32",17
+"14","33",21
+"14","42",22
+"14","5",11
+"14","10",3
+"14","16",5
+"14","7",1
+"14","6",5
+"18","1",2
+"18","3",6
+"18","4",18
+"18","8",18
+"18","14",15
+"18","21",4
+"18","22",12
+"18","32",12
+"18","33",10
+"18","42",16
+"18","5",4
+"18","10",7
+"18","13",1
+"18","2",2
+"18","6",13
+"18","7",3
+"18","16",4
+"18","11",1
+"21","3",4
+"21","4",2
+"21","8",8
+"21","14",10
+"21","18",1
+"21","22",4
+"21","32",6
+"21","33",4
+"21","42",29
+"21","5",10
+"21","10",9
+"21","13",9
+"21","16",11
+"21","17",2
+"22","1",8
+"22","4",13
+"22","8",24
+"22","14",6
+"22","18",14
+"22","21",7
+"22","32",9
+"22","33",22
+"22","42",18
+"22","5",1
+"22","10",6
+"22","13",10
+"22","16",15
+"22","45",4
+"22","6",7
+"22","7",2
+"32","3",15
+"32","4",4
+"32","8",11
+"32","14",14
+"32","18",13
+"32","21",6
+"32","22",5
+"32","33",8
+"32","42",8
+"32","5",4
+"32","10",5
+"32","13",2
+"32","2",1
+"32","6",3
+"32","7",1
+"32","16",2
+"32","45",1
+"32","11",3
+"33","1",11
+"33","3",9
+"33","4",52
+"33","8",17
+"33","14",14
+"33","18",11
+"33","21",4
+"33","22",25
+"33","32",12
+"33","42",26
+"33","5",11
+"33","10",16
+"33","13",2
+"33","16",12
+"33","17",8
+"33","45",7
+"33","6",9
+"33","11",3
+"42","1",4
+"42","3",13
+"42","4",34
+"42","8",32
+"42","14",15
+"42","18",13
+"42","21",19
+"42","22",23
+"42","32",9
+"42","33",29
+"42","5",18
+"42","10",6
+"42","13",7
+"42","16",25
+"42","17",6
+"42","45",3
+"42","2",6
+"42","6",4
+"42","7",3
+"5","1",4
+"5","3",5
+"5","4",29
+"5","8",17
+"5","14",8
+"5","18",4
+"5","21",18
+"5","32",7
+"5","33",10
+"5","42",16
+"5","10",6
+"5","13",2
+"5","16",8
+"5","17",2
+"5","7",1
+"5","6",2
+"10","1",1
+"10","3",8
+"10","4",4
+"10","8",11
+"10","14",3
+"10","18",4
+"10","21",4
+"10","22",2
+"10","32",8
+"10","33",4
+"10","42",5
+"10","5",2
+"10","13",5
+"10","16",6
+"10","45",2
+"10","6",3
+"10","7",2
+"10","11",1
+"13","1",2
+"13","3",1
+"13","4",6
+"13","8",5
+"13","18",3
+"13","21",2
+"13","22",3
+"13","32",2
+"13","33",4
+"13","42",5
+"13","5",1
+"13","10",4
+"13","16",5
+"13","17",2
+"13","7",1
+"16","4",4
+"16","5",3
+"16","8",11
+"16","10",9
+"16","14",5
+"16","21",7
+"16","22",8
+"16","33",5
+"16","42",13
+"16","13",3
+"16","45",3
+"16","2",1
+"16","7",2
+"16","18",7
+"16","32",5
+"16","3",2
+"17","4",9
+"17","5",6
+"17","8",2
+"17","21",2
+"17","22",3
+"17","33",6
+"17","42",4
+"17","45",1
+"45","4",1
+"45","8",2
+"45","16",4
+"45","21",1
+"45","22",3
+"45","33",2
+"45","42",2
+"45","13",1
+"45","2",1
+"45","18",3
+"45","32",3
+"2","1",2
+"2","4",7
+"2","6",3
+"2","7",4
+"2","8",2
+"2","10",2
+"2","16",1
+"2","22",2
+"2","42",9
+"2","32",1
+"2","45",1
+"6","1",6
+"6","2",1
+"6","4",34
+"6","7",4
+"6","8",3
+"6","10",1
+"6","16",4
+"6","18",22
+"6","22",5
+"6","42",6
+"6","32",4
+"6","3",1
+"6","11",1
+"6","14",9
+"6","33",8
+"6","5",2
+"7","2",4
+"7","4",4
+"7","6",2
+"7","8",6
+"7","10",4
+"7","16",2
+"7","18",1
+"7","42",3
+"7","32",1
+"11","3",2
+"11","6",1
+"11","8",1
+"11","18",3
+"11","32",2
+"11","33",2

@@ -10,7 +10,6 @@ public class Match {
 	Player[] awayPositionsToPlayer;
 	int[][] homeAdjacencyMatrix;
 	int[][] awayAdjacencyMatrix;
-	//static int numberOfMatches = 0;
 	
 	public Match(Team h, Team a, MatchScore score, MatchDate d, Player[] hptp, Player[] aptp, int[][] ham, int[][] aam){
 		home = h;
@@ -21,7 +20,6 @@ public class Match {
 		awayPositionsToPlayer = aptp;
 		homeAdjacencyMatrix = ham;
 		awayAdjacencyMatrix = aam;
-		//numberOfMatches++;
 	}
 	
 	public String toString(){
@@ -31,9 +29,6 @@ public class Match {
 	public void readAllPasses(int[][] matrix, Player[] players){
 		for(int i = 0; i < players.length; i++){
 			for(int j = 0; j < players.length; j++){
-				/*if(matrix[i][j] == 0){
-					continue;
-				}*/
 				players[i].addPass(players[j], matrix[i][j]);
 			}
 		}

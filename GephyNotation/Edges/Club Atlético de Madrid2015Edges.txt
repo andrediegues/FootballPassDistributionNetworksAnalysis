@@ -1,257 +1,258 @@
-"Jan Oblak","Diego Godín",2
-"Jan Oblak","Raúl García",3
-"Jan Oblak","Mario Mandžukić",12
-"Jan Oblak","Arda Turan",2
-"Jan Oblak","Cristian Ansaldi",1
-"Jan Oblak","Juanfran",1
-"Jan Oblak","Miranda",3
-"Jan Oblak","Tiago",1
-"Jan Oblak","Jesús Gámez",1
-"Diego Godín","Jan Oblak",3
-"Diego Godín","Mario Suárez",19
-"Diego Godín","Koke",25
-"Diego Godín","Raúl García",7
-"Diego Godín","Mario Mandžukić",3
-"Diego Godín","Arda Turan",7
-"Diego Godín","Gabi",10
-"Diego Godín","Cristian Ansaldi",17
-"Diego Godín","Juanfran",11
-"Diego Godín","Miranda",7
-"Diego Godín","Antoine Griezmann",3
-"Diego Godín","Saúl Ñíguez",1
-"Diego Godín","Alessio Cerci",1
-"Diego Godín","Miguel Ángel Moyà",9
-"Diego Godín","Tiago",9
-"Diego Godín","Guilherme Siqueira",10
-"Diego Godín","José María Giménez",5
-"Diego Godín","Raúl Jiménez",1
-"Mario Suárez","Diego Godín",15
-"Mario Suárez","Koke",46
-"Mario Suárez","Raúl García",7
-"Mario Suárez","Mario Mandžukić",3
-"Mario Suárez","Arda Turan",14
-"Mario Suárez","Gabi",24
-"Mario Suárez","Cristian Ansaldi",9
-"Mario Suárez","Juanfran",22
-"Mario Suárez","Miranda",9
-"Mario Suárez","Antoine Griezmann",14
-"Mario Suárez","Saúl Ñíguez",5
-"Mario Suárez","Guilherme Siqueira",8
-"Mario Suárez","Cristian Rodríguez",1
-"Mario Suárez","José María Giménez",4
-"Mario Suárez","Raúl Jiménez",1
-"Mario Suárez","Fernando Torres",1
-"Koke","Diego Godín",21
-"Koke","Mario Suárez",31
-"Koke","Raúl García",27
-"Koke","Mario Mandžukić",18
-"Koke","Arda Turan",76
-"Koke","Gabi",21
-"Koke","Cristian Ansaldi",19
-"Koke","Juanfran",34
-"Koke","Miranda",7
-"Koke","Antoine Griezmann",22
-"Koke","Saúl Ñíguez",7
-"Koke","Alessio Cerci",1
-"Koke","Miguel Ángel Moyà",1
-"Koke","Tiago",14
-"Koke","Guilherme Siqueira",29
-"Koke","Cristian Rodríguez",1
-"Koke","José María Giménez",6
-"Koke","Raúl Jiménez",1
-"Koke","Jesús Gámez",5
-"Raúl García","Diego Godín",2
-"Raúl García","Mario Suárez",3
-"Raúl García","Koke",15
-"Raúl García","Mario Mandžukić",10
-"Raúl García","Arda Turan",16
-"Raúl García","Gabi",14
-"Raúl García","Cristian Ansaldi",2
-"Raúl García","Juanfran",30
-"Raúl García","Antoine Griezmann",3
-"Raúl García","Saúl Ñíguez",2
-"Raúl García","Alessio Cerci",1
-"Raúl García","Tiago",1
-"Raúl García","Guilherme Siqueira",3
-"Raúl García","Raúl Jiménez",1
-"Mario Mandžukić","Mario Suárez",3
-"Mario Mandžukić","Koke",11
-"Mario Mandžukić","Raúl García",6
-"Mario Mandžukić","Arda Turan",24
-"Mario Mandžukić","Gabi",3
-"Mario Mandžukić","Cristian Ansaldi",4
-"Mario Mandžukić","Juanfran",7
-"Mario Mandžukić","Antoine Griezmann",12
-"Mario Mandžukić","Saúl Ñíguez",6
-"Mario Mandžukić","Tiago",3
-"Mario Mandžukić","Guilherme Siqueira",4
-"Arda Turan","Diego Godín",5
-"Arda Turan","Mario Suárez",18
-"Arda Turan","Koke",83
-"Arda Turan","Raúl García",16
-"Arda Turan","Mario Mandžukić",15
-"Arda Turan","Gabi",31
-"Arda Turan","Cristian Ansaldi",10
-"Arda Turan","Juanfran",50
-"Arda Turan","Miranda",4
-"Arda Turan","Antoine Griezmann",14
-"Arda Turan","Saúl Ñíguez",15
-"Arda Turan","Tiago",9
-"Arda Turan","Guilherme Siqueira",17
-"Arda Turan","Jesús Gámez",3
-"Gabi","Diego Godín",19
-"Gabi","Mario Suárez",15
-"Gabi","Koke",33
-"Gabi","Raúl García",25
-"Gabi","Mario Mandžukić",4
-"Gabi","Arda Turan",34
-"Gabi","Cristian Ansaldi",7
-"Gabi","Juanfran",65
-"Gabi","Miranda",5
-"Gabi","Antoine Griezmann",12
-"Gabi","Miguel Ángel Moyà",2
-"Gabi","Guilherme Siqueira",7
-"Gabi","Tiago",7
-"Gabi","José María Giménez",16
-"Gabi","Raúl Jiménez",3
-"Cristian Ansaldi","Diego Godín",5
-"Cristian Ansaldi","Mario Suárez",7
-"Cristian Ansaldi","Koke",27
-"Cristian Ansaldi","Raúl García",3
-"Cristian Ansaldi","Mario Mandžukić",2
-"Cristian Ansaldi","Arda Turan",14
-"Cristian Ansaldi","Gabi",4
-"Cristian Ansaldi","Juanfran",2
-"Cristian Ansaldi","Miranda",3
-"Cristian Ansaldi","Antoine Griezmann",4
-"Cristian Ansaldi","Miguel Ángel Moyà",1
-"Cristian Ansaldi","Tiago",1
-"Cristian Ansaldi","Guilherme Siqueira",2
-"Cristian Ansaldi","José María Giménez",2
-"Juanfran","Diego Godín",5
-"Juanfran","Mario Suárez",28
-"Juanfran","Koke",24
-"Juanfran","Raúl García",27
-"Juanfran","Mario Mandžukić",13
-"Juanfran","Arda Turan",59
-"Juanfran","Gabi",55
-"Juanfran","Cristian Ansaldi",2
-"Juanfran","Miranda",8
-"Juanfran","Antoine Griezmann",13
-"Juanfran","Saúl Ñíguez",4
-"Juanfran","Alessio Cerci",6
-"Juanfran","Miguel Ángel Moyà",3
-"Juanfran","Tiago",15
-"Juanfran","Guilherme Siqueira",1
-"Juanfran","José María Giménez",6
-"Juanfran","Raúl Jiménez",1
-"Miranda","Jan Oblak",3
-"Miranda","Diego Godín",12
-"Miranda","Mario Suárez",6
-"Miranda","Koke",4
-"Miranda","Raúl García",5
-"Miranda","Mario Mandžukić",4
-"Miranda","Arda Turan",6
-"Miranda","Gabi",15
-"Miranda","Cristian Ansaldi",8
-"Miranda","Juanfran",19
-"Miranda","Antoine Griezmann",6
-"Miranda","Saúl Ñíguez",1
-"Miranda","Tiago",2
-"Miranda","Guilherme Siqueira",2
-"Miranda","Fernando Torres",1
-"Antoine Griezmann","Diego Godín",1
-"Antoine Griezmann","Mario Suárez",9
-"Antoine Griezmann","Koke",25
-"Antoine Griezmann","Raúl García",2
-"Antoine Griezmann","Mario Mandžukić",5
-"Antoine Griezmann","Arda Turan",17
-"Antoine Griezmann","Gabi",4
-"Antoine Griezmann","Cristian Ansaldi",5
-"Antoine Griezmann","Juanfran",10
-"Antoine Griezmann","Saúl Ñíguez",5
-"Antoine Griezmann","Tiago",4
-"Antoine Griezmann","Guilherme Siqueira",9
-"Antoine Griezmann","Raúl Jiménez",1
-"Antoine Griezmann","Jesús Gámez",2
-"Saúl Ñíguez","Diego Godín",1
-"Saúl Ñíguez","Mario Suárez",4
-"Saúl Ñíguez","Koke",6
-"Saúl Ñíguez","Mario Mandžukić",6
-"Saúl Ñíguez","Arda Turan",8
-"Saúl Ñíguez","Cristian Ansaldi",2
-"Saúl Ñíguez","Juanfran",8
-"Saúl Ñíguez","Miranda",2
-"Saúl Ñíguez","Antoine Griezmann",2
-"Saúl Ñíguez","Alessio Cerci",1
-"Saúl Ñíguez","Tiago",2
-"Saúl Ñíguez","Guilherme Siqueira",5
-"Saúl Ñíguez","Cristian Rodríguez",1
-"Saúl Ñíguez","Jesús Gámez",1
-"Alessio Cerci","Koke",2
-"Alessio Cerci","Arda Turan",2
-"Alessio Cerci","Antoine Griezmann",1
-"Alessio Cerci","Cristian Rodríguez",1
-"Miguel Ángel Moyà","Diego Godín",8
-"Miguel Ángel Moyà","Koke",2
-"Miguel Ángel Moyà","Raúl García",1
-"Miguel Ángel Moyà","Mario Mandžukić",2
-"Miguel Ángel Moyà","Arda Turan",1
-"Miguel Ángel Moyà","Cristian Ansaldi",4
-"Miguel Ángel Moyà","Saúl Ñíguez",1
-"Miguel Ángel Moyà","Juanfran",8
-"Miguel Ángel Moyà","Miranda",5
-"Miguel Ángel Moyà","Guilherme Siqueira",3
-"Miguel Ángel Moyà","Mario Suárez",1
-"Miguel Ángel Moyà","Cristian Rodríguez",1
-"Miguel Ángel Moyà","Gabi",1
-"Miguel Ángel Moyà","José María Giménez",7
-"Tiago","Diego Godín",6
-"Tiago","Koke",24
-"Tiago","Raúl García",3
-"Tiago","Arda Turan",13
-"Tiago","Cristian Ansaldi",7
-"Tiago","Saúl Ñíguez",4
-"Tiago","Juanfran",11
-"Tiago","Miranda",3
-"Tiago","Antoine Griezmann",3
-"Tiago","Gabi",9
-"Tiago","José María Giménez",2
-"Tiago","Jan Oblak",1
-"Tiago","Jesús Gámez",6
-"Guilherme Siqueira","Miguel Ángel Moyà",1
-"Guilherme Siqueira","Diego Godín",4
-"Guilherme Siqueira","Koke",26
-"Guilherme Siqueira","Mario Mandžukić",5
-"Guilherme Siqueira","Arda Turan",19
-"Guilherme Siqueira","Saúl Ñíguez",2
-"Guilherme Siqueira","Mario Suárez",6
-"Guilherme Siqueira","Antoine Griezmann",7
-"Guilherme Siqueira","Gabi",3
-"Guilherme Siqueira","Fernando Torres",1
-"Cristian Rodríguez","Guilherme Siqueira",2
-"Cristian Rodríguez","Koke",1
-"Cristian Rodríguez","Raúl García",2
-"José María Giménez","Miguel Ángel Moyà",5
-"José María Giménez","Diego Godín",9
-"José María Giménez","Tiago",1
-"José María Giménez","Koke",5
-"José María Giménez","Raúl García",1
-"José María Giménez","Arda Turan",2
-"José María Giménez","Gabi",15
-"José María Giménez","Cristian Ansaldi",2
-"José María Giménez","Juanfran",7
-"José María Giménez","Mario Suárez",3
-"José María Giménez","Guilherme Siqueira",1
-"Raúl Jiménez","Diego Godín",1
-"Raúl Jiménez","Koke",1
-"Raúl Jiménez","Juanfran",2
-"Raúl Jiménez","Antoine Griezmann",2
-"Jesús Gámez","Diego Godín",1
-"Jesús Gámez","Tiago",4
-"Jesús Gámez","Koke",5
-"Jesús Gámez","Antoine Griezmann",1
-"Jesús Gámez","Mario Mandžukić",1
-"Jesús Gámez","Arda Turan",2
-"Jesús Gámez","Saúl Ñíguez",1
-"Jesús Gámez","Miranda",1
+Source,Target,Weight
+"13","2",2
+"13","8",3
+"13","9",12
+"13","10",2
+"13","15",1
+"13","20",1
+"13","23",3
+"13","5",1
+"13","18",1
+"2","13",3
+"2","4",19
+"2","6",25
+"2","8",7
+"2","9",3
+"2","10",7
+"2","14",10
+"2","15",17
+"2","20",11
+"2","23",7
+"2","7",3
+"2","17",1
+"2","22",1
+"2","1",9
+"2","5",9
+"2","3",10
+"2","24",5
+"2","11",1
+"4","2",15
+"4","6",46
+"4","8",7
+"4","9",3
+"4","10",14
+"4","14",24
+"4","15",9
+"4","20",22
+"4","23",9
+"4","7",14
+"4","17",5
+"4","3",8
+"4","21",1
+"4","24",4
+"4","11",1
+"4","19",1
+"6","2",21
+"6","4",31
+"6","8",27
+"6","9",18
+"6","10",76
+"6","14",21
+"6","15",19
+"6","20",34
+"6","23",7
+"6","7",22
+"6","17",7
+"6","22",1
+"6","1",1
+"6","5",14
+"6","3",29
+"6","21",1
+"6","24",6
+"6","11",1
+"6","18",5
+"8","2",2
+"8","4",3
+"8","6",15
+"8","9",10
+"8","10",16
+"8","14",14
+"8","15",2
+"8","20",30
+"8","7",3
+"8","17",2
+"8","22",1
+"8","5",1
+"8","3",3
+"8","11",1
+"9","4",3
+"9","6",11
+"9","8",6
+"9","10",24
+"9","14",3
+"9","15",4
+"9","20",7
+"9","7",12
+"9","17",6
+"9","5",3
+"9","3",4
+"10","2",5
+"10","4",18
+"10","6",83
+"10","8",16
+"10","9",15
+"10","14",31
+"10","15",10
+"10","20",50
+"10","23",4
+"10","7",14
+"10","17",15
+"10","5",9
+"10","3",17
+"10","18",3
+"14","2",19
+"14","4",15
+"14","6",33
+"14","8",25
+"14","9",4
+"14","10",34
+"14","15",7
+"14","20",65
+"14","23",5
+"14","7",12
+"14","1",2
+"14","3",7
+"14","5",7
+"14","24",16
+"14","11",3
+"15","2",5
+"15","4",7
+"15","6",27
+"15","8",3
+"15","9",2
+"15","10",14
+"15","14",4
+"15","20",2
+"15","23",3
+"15","7",4
+"15","1",1
+"15","5",1
+"15","3",2
+"15","24",2
+"20","2",5
+"20","4",28
+"20","6",24
+"20","8",27
+"20","9",13
+"20","10",59
+"20","14",55
+"20","15",2
+"20","23",8
+"20","7",13
+"20","17",4
+"20","22",6
+"20","1",3
+"20","5",15
+"20","3",1
+"20","24",6
+"20","11",1
+"23","13",3
+"23","2",12
+"23","4",6
+"23","6",4
+"23","8",5
+"23","9",4
+"23","10",6
+"23","14",15
+"23","15",8
+"23","20",19
+"23","7",6
+"23","17",1
+"23","5",2
+"23","3",2
+"23","19",1
+"7","2",1
+"7","4",9
+"7","6",25
+"7","8",2
+"7","9",5
+"7","10",17
+"7","14",4
+"7","15",5
+"7","20",10
+"7","17",5
+"7","5",4
+"7","3",9
+"7","11",1
+"7","18",2
+"17","2",1
+"17","4",4
+"17","6",6
+"17","9",6
+"17","10",8
+"17","15",2
+"17","20",8
+"17","23",2
+"17","7",2
+"17","22",1
+"17","5",2
+"17","3",5
+"17","21",1
+"17","18",1
+"22","6",2
+"22","10",2
+"22","7",1
+"22","21",1
+"1","2",8
+"1","6",2
+"1","8",1
+"1","9",2
+"1","10",1
+"1","15",4
+"1","17",1
+"1","20",8
+"1","23",5
+"1","3",3
+"1","4",1
+"1","21",1
+"1","14",1
+"1","24",7
+"5","2",6
+"5","6",24
+"5","8",3
+"5","10",13
+"5","15",7
+"5","17",4
+"5","20",11
+"5","23",3
+"5","7",3
+"5","14",9
+"5","24",2
+"5","13",1
+"5","18",6
+"3","1",1
+"3","2",4
+"3","6",26
+"3","9",5
+"3","10",19
+"3","17",2
+"3","4",6
+"3","7",7
+"3","14",3
+"3","19",1
+"21","3",2
+"21","6",1
+"21","8",2
+"24","1",5
+"24","2",9
+"24","5",1
+"24","6",5
+"24","8",1
+"24","10",2
+"24","14",15
+"24","15",2
+"24","20",7
+"24","4",3
+"24","3",1
+"11","2",1
+"11","6",1
+"11","20",2
+"11","7",2
+"18","2",1
+"18","5",4
+"18","6",5
+"18","7",1
+"18","9",1
+"18","10",2
+"18","17",1
+"18","23",1

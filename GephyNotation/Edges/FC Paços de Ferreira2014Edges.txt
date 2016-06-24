@@ -1,196 +1,197 @@
-"Matias Degra","André Leão",4
-"Matias Degra","Christian Irobiso",1
-"Matias Degra","Paolo Hurtado",1
-"Matias Degra","Nuno Santos",5
-"Matias Degra","Ricardo",11
-"Matias Degra","Sérgio Oliveira",1
-"Matias Degra","Rodrigo Antônio",2
-"Matias Degra","Filipe Anunciação",5
-"Matias Degra","Vítor",2
-"Matias Degra","Manuel José",1
-"Matias Degra","Carlão",5
-"Matias Degra","Grégory",4
-"Matias Degra","Hélder Lopes",3
-"Matias Degra","Rui Caetano",1
-"Marcos Romeu","Matias Degra",2
-"Marcos Romeu","André Leão",17
-"Marcos Romeu","Rui Miguel",5
-"Marcos Romeu","Paolo Hurtado",6
-"Marcos Romeu","Nuno Santos",12
-"Marcos Romeu","Ricardo",10
-"Marcos Romeu","Sérgio Oliveira",1
-"Marcos Romeu","Rodrigo Antônio",10
-"Marcos Romeu","Filipe Anunciação",1
-"Marcos Romeu","Vítor",7
-"Marcos Romeu","Manuel José",6
-"Marcos Romeu","Carlão",3
-"Marcos Romeu","Grégory",2
-"Marcos Romeu","Hélder Lopes",7
-"Marcos Romeu","Rui Caetano",4
-"André Leão","Matias Degra",1
-"André Leão","Marcos Romeu",17
-"André Leão","Christian Irobiso",6
-"André Leão","Rui Miguel",3
-"André Leão","Paolo Hurtado",5
-"André Leão","Nuno Santos",13
-"André Leão","Ricardo",7
-"André Leão","Sérgio Oliveira",5
-"André Leão","Rodrigo Antônio",9
-"André Leão","Filipe Anunciação",4
-"André Leão","Vítor",9
-"André Leão","Manuel José",3
-"André Leão","Carlão",4
-"André Leão","Grégory",7
-"André Leão","Hélder Lopes",8
-"André Leão","Rui Caetano",1
-"Christian Irobiso","Marcos Romeu",3
-"Christian Irobiso","André Leão",1
-"Christian Irobiso","Rui Miguel",1
-"Christian Irobiso","Paolo Hurtado",2
-"Christian Irobiso","Nuno Santos",2
-"Christian Irobiso","Sérgio Oliveira",2
-"Christian Irobiso","Rodrigo Antônio",4
-"Christian Irobiso","Vítor",1
-"Rui Miguel","Matias Degra",1
-"Rui Miguel","Marcos Romeu",2
-"Rui Miguel","André Leão",2
-"Rui Miguel","Christian Irobiso",1
-"Rui Miguel","Paolo Hurtado",4
-"Rui Miguel","Nuno Santos",1
-"Rui Miguel","Sérgio Oliveira",4
-"Rui Miguel","Rodrigo Antônio",2
-"Rui Miguel","Vítor",3
-"Rui Miguel","Manuel José",1
-"Rui Miguel","Hélder Lopes",1
-"Rui Miguel","Rui Caetano",1
-"Paolo Hurtado","Marcos Romeu",6
-"Paolo Hurtado","André Leão",3
-"Paolo Hurtado","Christian Irobiso",2
-"Paolo Hurtado","Rui Miguel",3
-"Paolo Hurtado","Nuno Santos",2
-"Paolo Hurtado","Ricardo",1
-"Paolo Hurtado","Sérgio Oliveira",3
-"Paolo Hurtado","Filipe Anunciação",2
-"Paolo Hurtado","Vítor",10
-"Paolo Hurtado","Carlão",4
-"Paolo Hurtado","Hélder Lopes",4
-"Nuno Santos","Matias Degra",4
-"Nuno Santos","Marcos Romeu",9
-"Nuno Santos","André Leão",15
-"Nuno Santos","Christian Irobiso",3
-"Nuno Santos","Rui Miguel",2
-"Nuno Santos","Paolo Hurtado",4
-"Nuno Santos","Ricardo",7
-"Nuno Santos","Sérgio Oliveira",6
-"Nuno Santos","Rodrigo Antônio",2
-"Nuno Santos","Filipe Anunciação",1
-"Nuno Santos","Vítor",3
-"Nuno Santos","Manuel José",8
-"Nuno Santos","Carlão",4
-"Nuno Santos","Grégory",4
-"Ricardo","Matias Degra",6
-"Ricardo","Marcos Romeu",3
-"Ricardo","André Leão",14
-"Ricardo","Paolo Hurtado",2
-"Ricardo","Nuno Santos",12
-"Ricardo","Sérgio Oliveira",2
-"Ricardo","Rodrigo Antônio",6
-"Ricardo","Filipe Anunciação",4
-"Ricardo","Vítor",7
-"Ricardo","Manuel José",2
-"Ricardo","Carlão",4
-"Ricardo","Grégory",4
-"Ricardo","Hélder Lopes",8
-"Ricardo","Rui Caetano",1
-"Sérgio Oliveira","Marcos Romeu",6
-"Sérgio Oliveira","André Leão",5
-"Sérgio Oliveira","Christian Irobiso",4
-"Sérgio Oliveira","Rui Miguel",2
-"Sérgio Oliveira","Paolo Hurtado",5
-"Sérgio Oliveira","Nuno Santos",5
-"Sérgio Oliveira","Ricardo",1
-"Sérgio Oliveira","Rodrigo Antônio",8
-"Sérgio Oliveira","Vítor",1
-"Sérgio Oliveira","Carlão",3
-"Rodrigo Antônio","Matias Degra",2
-"Rodrigo Antônio","Marcos Romeu",8
-"Rodrigo Antônio","André Leão",5
-"Rodrigo Antônio","Christian Irobiso",2
-"Rodrigo Antônio","Rui Miguel",3
-"Rodrigo Antônio","Paolo Hurtado",8
-"Rodrigo Antônio","Nuno Santos",1
-"Rodrigo Antônio","Ricardo",6
-"Rodrigo Antônio","Sérgio Oliveira",9
-"Rodrigo Antônio","Filipe Anunciação",4
-"Rodrigo Antônio","Vítor",11
-"Rodrigo Antônio","Manuel José",8
-"Rodrigo Antônio","Carlão",6
-"Rodrigo Antônio","Rui Caetano",3
-"Filipe Anunciação","Matias Degra",2
-"Filipe Anunciação","Marcos Romeu",4
-"Filipe Anunciação","André Leão",6
-"Filipe Anunciação","Christian Irobiso",1
-"Filipe Anunciação","Paolo Hurtado",2
-"Filipe Anunciação","Nuno Santos",2
-"Filipe Anunciação","Ricardo",3
-"Filipe Anunciação","Sérgio Oliveira",1
-"Filipe Anunciação","Rodrigo Antônio",7
-"Vítor","Marcos Romeu",13
-"Vítor","André Leão",9
-"Vítor","Christian Irobiso",2
-"Vítor","Rui Miguel",3
-"Vítor","Paolo Hurtado",9
-"Vítor","Nuno Santos",5
-"Vítor","Ricardo",9
-"Vítor","Sérgio Oliveira",3
-"Vítor","Rodrigo Antônio",8
-"Vítor","Manuel José",9
-"Vítor","Carlão",8
-"Vítor","Grégory",2
-"Vítor","Hélder Lopes",5
-"Vítor","Rui Caetano",1
-"Manuel José","Marcos Romeu",8
-"Manuel José","André Leão",2
-"Manuel José","Paolo Hurtado",2
-"Manuel José","Nuno Santos",6
-"Manuel José","Ricardo",1
-"Manuel José","Rodrigo Antônio",6
-"Manuel José","Filipe Anunciação",1
-"Manuel José","Vítor",10
-"Manuel José","Carlão",2
-"Manuel José","Grégory",1
-"Carlão","Marcos Romeu",4
-"Carlão","André Leão",4
-"Carlão","Paolo Hurtado",4
-"Carlão","Nuno Santos",1
-"Carlão","Ricardo",1
-"Carlão","Sérgio Oliveira",2
-"Carlão","Rodrigo Antônio",3
-"Carlão","Vítor",11
-"Carlão","Manuel José",9
-"Carlão","Hélder Lopes",2
-"Carlão","Rui Caetano",1
-"Grégory","Matias Degra",8
-"Grégory","Marcos Romeu",6
-"Grégory","Vítor",1
-"Grégory","André Leão",4
-"Grégory","Nuno Santos",4
-"Grégory","Ricardo",7
-"Grégory","Hélder Lopes",1
-"Grégory","Manuel José",2
-"Grégory","Rodrigo Antônio",1
-"Hélder Lopes","Matias Degra",2
-"Hélder Lopes","Marcos Romeu",1
-"Hélder Lopes","Vítor",6
-"Hélder Lopes","André Leão",8
-"Hélder Lopes","Grégory",2
-"Hélder Lopes","Paolo Hurtado",7
-"Hélder Lopes","Ricardo",6
-"Hélder Lopes","Manuel José",2
-"Hélder Lopes","Carlão",8
-"Hélder Lopes","Rui Miguel",3
-"Rui Caetano","Marcos Romeu",2
-"Rui Caetano","Vítor",3
-"Rui Caetano","André Leão",1
-"Rui Caetano","Carlão",2
-"Rui Caetano","Rodrigo Antônio",3
+Source,Target,Weight
+"1","8",4
+"1","9",1
+"1","16",1
+"1","17",5
+"1","19",11
+"1","20",1
+"1","27",2
+"1","96",5
+"1","6",2
+"1","81",1
+"1","83",5
+"1","15",4
+"1","22",3
+"1","11",1
+"4","1",2
+"4","8",17
+"4","10",5
+"4","16",6
+"4","17",12
+"4","19",10
+"4","20",1
+"4","27",10
+"4","96",1
+"4","6",7
+"4","81",6
+"4","83",3
+"4","15",2
+"4","22",7
+"4","11",4
+"8","1",1
+"8","4",17
+"8","9",6
+"8","10",3
+"8","16",5
+"8","17",13
+"8","19",7
+"8","20",5
+"8","27",9
+"8","96",4
+"8","6",9
+"8","81",3
+"8","83",4
+"8","15",7
+"8","22",8
+"8","11",1
+"9","4",3
+"9","8",1
+"9","10",1
+"9","16",2
+"9","17",2
+"9","20",2
+"9","27",4
+"9","6",1
+"10","1",1
+"10","4",2
+"10","8",2
+"10","9",1
+"10","16",4
+"10","17",1
+"10","20",4
+"10","27",2
+"10","6",3
+"10","81",1
+"10","22",1
+"10","11",1
+"16","4",6
+"16","8",3
+"16","9",2
+"16","10",3
+"16","17",2
+"16","19",1
+"16","20",3
+"16","96",2
+"16","6",10
+"16","83",4
+"16","22",4
+"17","1",4
+"17","4",9
+"17","8",15
+"17","9",3
+"17","10",2
+"17","16",4
+"17","19",7
+"17","20",6
+"17","27",2
+"17","96",1
+"17","6",3
+"17","81",8
+"17","83",4
+"17","15",4
+"19","1",6
+"19","4",3
+"19","8",14
+"19","16",2
+"19","17",12
+"19","20",2
+"19","27",6
+"19","96",4
+"19","6",7
+"19","81",2
+"19","83",4
+"19","15",4
+"19","22",8
+"19","11",1
+"20","4",6
+"20","8",5
+"20","9",4
+"20","10",2
+"20","16",5
+"20","17",5
+"20","19",1
+"20","27",8
+"20","6",1
+"20","83",3
+"27","1",2
+"27","4",8
+"27","8",5
+"27","9",2
+"27","10",3
+"27","16",8
+"27","17",1
+"27","19",6
+"27","20",9
+"27","96",4
+"27","6",11
+"27","81",8
+"27","83",6
+"27","11",3
+"96","1",2
+"96","4",4
+"96","8",6
+"96","9",1
+"96","16",2
+"96","17",2
+"96","19",3
+"96","20",1
+"96","27",7
+"6","4",13
+"6","8",9
+"6","9",2
+"6","10",3
+"6","16",9
+"6","17",5
+"6","19",9
+"6","20",3
+"6","27",8
+"6","81",9
+"6","83",8
+"6","15",2
+"6","22",5
+"6","11",1
+"81","4",8
+"81","8",2
+"81","16",2
+"81","17",6
+"81","19",1
+"81","27",6
+"81","96",1
+"81","6",10
+"81","83",2
+"81","15",1
+"83","4",4
+"83","8",4
+"83","16",4
+"83","17",1
+"83","19",1
+"83","20",2
+"83","27",3
+"83","6",11
+"83","81",9
+"83","22",2
+"83","11",1
+"15","1",8
+"15","4",6
+"15","6",1
+"15","8",4
+"15","17",4
+"15","19",7
+"15","22",1
+"15","81",2
+"15","27",1
+"22","1",2
+"22","4",1
+"22","6",6
+"22","8",8
+"22","15",2
+"22","16",7
+"22","19",6
+"22","81",2
+"22","83",8
+"22","10",3
+"11","4",2
+"11","6",3
+"11","8",1
+"11","83",2
+"11","27",3

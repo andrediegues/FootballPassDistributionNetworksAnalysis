@@ -1,314 +1,315 @@
-"Andriy Dykan","Juan Insaurralde",7
-"Andriy Dykan","Kirill Kombarov",3
-"Andriy Dykan","Aiden McGeady",2
-"Andriy Dykan","Ari",9
-"Andriy Dykan","Marek Suchý",5
-"Andriy Dykan","Dmitri Kombarov",4
-"Andriy Dykan","Emmanuel Emenike",10
-"Andriy Dykan","Romulo",5
-"Andriy Dykan","Rafael Carioca",3
-"Andriy Dykan","Artem Dzyuba",3
-"Andriy Dykan","Kim Källström",3
-"Andriy Dykan","José Manuel Jurado",3
-"Juan Insaurralde","Andriy Dykan",15
-"Juan Insaurralde","Kirill Kombarov",4
-"Juan Insaurralde","Aiden McGeady",4
-"Juan Insaurralde","Ari",5
-"Juan Insaurralde","Marek Suchý",25
-"Juan Insaurralde","Dmitri Kombarov",17
-"Juan Insaurralde","Emmanuel Emenike",6
-"Juan Insaurralde","Evgeni Makeev",7
-"Juan Insaurralde","Romulo",1
-"Juan Insaurralde","Rafael Carioca",16
-"Juan Insaurralde","Artem Dzyuba",3
-"Juan Insaurralde","Diniyar Bilyaletdinov",5
-"Juan Insaurralde","Kim Källström",20
-"Juan Insaurralde","José Manuel Jurado",10
-"Juan Insaurralde","Sergei Pesyakov",10
-"Juan Insaurralde","Nicolas Pareja",9
-"Juan Insaurralde","Artem Rebrov",5
-"Juan Insaurralde","Jano Ananidze",1
-"Kirill Kombarov","Juan Insaurralde",6
-"Kirill Kombarov","Aiden McGeady",10
-"Kirill Kombarov","Ari",8
-"Kirill Kombarov","Marek Suchý",9
-"Kirill Kombarov","Demy de Zeeuw",2
-"Kirill Kombarov","Emmanuel Emenike",2
-"Kirill Kombarov","Romulo",3
-"Kirill Kombarov","Rafael Carioca",16
-"Kirill Kombarov","Artem Dzyuba",2
-"Kirill Kombarov","Kim Källström",5
-"Kirill Kombarov","José Manuel Jurado",7
-"Kirill Kombarov","Artem Rebrov",1
-"Kirill Kombarov","Nicolas Pareja",5
-"Kirill Kombarov","Sergei Bryzgalov",1
-"Aiden McGeady","Juan Insaurralde",4
-"Aiden McGeady","Kirill Kombarov",6
-"Aiden McGeady","Ari",5
-"Aiden McGeady","Marek Suchý",9
-"Aiden McGeady","Demy de Zeeuw",7
-"Aiden McGeady","Dmitri Kombarov",3
-"Aiden McGeady","Emmanuel Emenike",12
-"Aiden McGeady","Evgeni Makeev",6
-"Aiden McGeady","Romulo",5
-"Aiden McGeady","Rafael Carioca",12
-"Aiden McGeady","Artem Dzyuba",1
-"Aiden McGeady","Diniyar Bilyaletdinov",1
-"Aiden McGeady","Kim Källström",4
-"Aiden McGeady","José Manuel Jurado",3
-"Aiden McGeady","Nicolas Pareja",3
-"Ari","Juan Insaurralde",6
-"Ari","Kirill Kombarov",7
-"Ari","Aiden McGeady",6
-"Ari","Marek Suchý",4
-"Ari","Demy de Zeeuw",5
-"Ari","Dmitri Kombarov",15
-"Ari","Emmanuel Emenike",12
-"Ari","Evgeni Makeev",10
-"Ari","Romulo",5
-"Ari","Rafael Carioca",15
-"Ari","Artem Dzyuba",5
-"Ari","Diniyar Bilyaletdinov",7
-"Ari","Kim Källström",14
-"Ari","José Manuel Jurado",11
-"Ari","Nicolas Pareja",5
-"Ari","Sergei Bryzgalov",1
-"Ari","Jano Ananidze",2
-"Ari","Welliton",2
-"Marek Suchý","Andriy Dykan",13
-"Marek Suchý","Juan Insaurralde",14
-"Marek Suchý","Kirill Kombarov",18
-"Marek Suchý","Aiden McGeady",10
-"Marek Suchý","Ari",12
-"Marek Suchý","Demy de Zeeuw",3
-"Marek Suchý","Dmitri Kombarov",5
-"Marek Suchý","Emmanuel Emenike",5
-"Marek Suchý","Evgeni Makeev",9
-"Marek Suchý","Romulo",5
-"Marek Suchý","Rafael Carioca",28
-"Marek Suchý","Artem Dzyuba",1
-"Marek Suchý","Kim Källström",17
-"Marek Suchý","José Manuel Jurado",6
-"Marek Suchý","Artem Rebrov",9
-"Marek Suchý","Nicolas Pareja",7
-"Marek Suchý","Jano Ananidze",6
-"Marek Suchý","Welliton",1
-"Marek Suchý","Sergei Pesyakov",8
-"Demy de Zeeuw","Juan Insaurralde",3
-"Demy de Zeeuw","Aiden McGeady",10
-"Demy de Zeeuw","Ari",6
-"Demy de Zeeuw","Marek Suchý",2
-"Demy de Zeeuw","Dmitri Kombarov",2
-"Demy de Zeeuw","Emmanuel Emenike",6
-"Demy de Zeeuw","Evgeni Makeev",3
-"Demy de Zeeuw","Romulo",5
-"Demy de Zeeuw","Rafael Carioca",5
-"Demy de Zeeuw","Artem Dzyuba",1
-"Demy de Zeeuw","Diniyar Bilyaletdinov",1
-"Demy de Zeeuw","Nicolas Pareja",1
-"Demy de Zeeuw","Kim Källström",3
-"Dmitri Kombarov","Andriy Dykan",1
-"Dmitri Kombarov","Juan Insaurralde",16
-"Dmitri Kombarov","Kirill Kombarov",1
-"Dmitri Kombarov","Aiden McGeady",3
-"Dmitri Kombarov","Ari",23
-"Dmitri Kombarov","Marek Suchý",8
-"Dmitri Kombarov","Demy de Zeeuw",5
-"Dmitri Kombarov","Emmanuel Emenike",8
-"Dmitri Kombarov","Evgeni Makeev",9
-"Dmitri Kombarov","Romulo",3
-"Dmitri Kombarov","Rafael Carioca",16
-"Dmitri Kombarov","Artem Dzyuba",11
-"Dmitri Kombarov","Diniyar Bilyaletdinov",6
-"Dmitri Kombarov","Kim Källström",34
-"Dmitri Kombarov","José Manuel Jurado",20
-"Dmitri Kombarov","Sergei Pesyakov",4
-"Dmitri Kombarov","Nicolas Pareja",4
-"Dmitri Kombarov","Sergei Bryzgalov",3
-"Dmitri Kombarov","Aleksandr Kozlov",1
-"Dmitri Kombarov","Artem Rebrov",3
-"Dmitri Kombarov","Jano Ananidze",9
-"Emmanuel Emenike","Juan Insaurralde",2
-"Emmanuel Emenike","Kirill Kombarov",3
-"Emmanuel Emenike","Aiden McGeady",6
-"Emmanuel Emenike","Ari",8
-"Emmanuel Emenike","Marek Suchý",2
-"Emmanuel Emenike","Demy de Zeeuw",4
-"Emmanuel Emenike","Dmitri Kombarov",4
-"Emmanuel Emenike","Evgeni Makeev",4
-"Emmanuel Emenike","Romulo",4
-"Emmanuel Emenike","Rafael Carioca",6
-"Emmanuel Emenike","Artem Dzyuba",3
-"Emmanuel Emenike","Kim Källström",3
-"Emmanuel Emenike","José Manuel Jurado",6
-"Emmanuel Emenike","Sergei Bryzgalov",1
-"Evgeni Makeev","Andriy Dykan",3
-"Evgeni Makeev","Juan Insaurralde",15
-"Evgeni Makeev","Kirill Kombarov",5
-"Evgeni Makeev","Aiden McGeady",5
-"Evgeni Makeev","Ari",8
-"Evgeni Makeev","Marek Suchý",15
-"Evgeni Makeev","Demy de Zeeuw",4
-"Evgeni Makeev","Dmitri Kombarov",8
-"Evgeni Makeev","Emmanuel Emenike",7
-"Evgeni Makeev","Romulo",2
-"Evgeni Makeev","Rafael Carioca",16
-"Evgeni Makeev","Artem Dzyuba",3
-"Evgeni Makeev","Diniyar Bilyaletdinov",6
-"Evgeni Makeev","Kim Källström",13
-"Evgeni Makeev","José Manuel Jurado",8
-"Evgeni Makeev","Nicolas Pareja",17
-"Evgeni Makeev","Aleksandr Kozlov",1
-"Evgeni Makeev","Artem Rebrov",3
-"Evgeni Makeev","Jano Ananidze",9
-"Romulo","Juan Insaurralde",6
-"Romulo","Kirill Kombarov",6
-"Romulo","Aiden McGeady",9
-"Romulo","Ari",4
-"Romulo","Marek Suchý",4
-"Romulo","Demy de Zeeuw",1
-"Romulo","Dmitri Kombarov",3
-"Romulo","Emmanuel Emenike",2
-"Romulo","Rafael Carioca",2
-"Romulo","Kim Källström",1
-"Rafael Carioca","Andriy Dykan",1
-"Rafael Carioca","Juan Insaurralde",20
-"Rafael Carioca","Kirill Kombarov",7
-"Rafael Carioca","Aiden McGeady",13
-"Rafael Carioca","Ari",7
-"Rafael Carioca","Marek Suchý",37
-"Rafael Carioca","Demy de Zeeuw",8
-"Rafael Carioca","Dmitri Kombarov",21
-"Rafael Carioca","Emmanuel Emenike",6
-"Rafael Carioca","Evgeni Makeev",20
-"Rafael Carioca","Romulo",4
-"Rafael Carioca","Artem Dzyuba",7
-"Rafael Carioca","Diniyar Bilyaletdinov",7
-"Rafael Carioca","Kim Källström",42
-"Rafael Carioca","José Manuel Jurado",21
-"Rafael Carioca","Sergei Pesyakov",4
-"Rafael Carioca","Nicolas Pareja",25
-"Rafael Carioca","Sergei Bryzgalov",1
-"Rafael Carioca","Artem Rebrov",4
-"Rafael Carioca","Jano Ananidze",3
-"Artem Dzyuba","Kirill Kombarov",1
-"Artem Dzyuba","Aiden McGeady",2
-"Artem Dzyuba","Ari",4
-"Artem Dzyuba","Marek Suchý",2
-"Artem Dzyuba","Dmitri Kombarov",1
-"Artem Dzyuba","Emmanuel Emenike",4
-"Artem Dzyuba","Evgeni Makeev",2
-"Artem Dzyuba","Romulo",1
-"Artem Dzyuba","Rafael Carioca",6
-"Artem Dzyuba","Diniyar Bilyaletdinov",1
-"Artem Dzyuba","Kim Källström",4
-"Artem Dzyuba","José Manuel Jurado",7
-"Artem Dzyuba","Jano Ananidze",2
-"Diniyar Bilyaletdinov","Kirill Kombarov",2
-"Diniyar Bilyaletdinov","Ari",6
-"Diniyar Bilyaletdinov","Marek Suchý",1
-"Diniyar Bilyaletdinov","Demy de Zeeuw",1
-"Diniyar Bilyaletdinov","Dmitri Kombarov",4
-"Diniyar Bilyaletdinov","Evgeni Makeev",3
-"Diniyar Bilyaletdinov","Rafael Carioca",4
-"Diniyar Bilyaletdinov","Artem Dzyuba",3
-"Diniyar Bilyaletdinov","Nicolas Pareja",5
-"Diniyar Bilyaletdinov","José Manuel Jurado",9
-"Diniyar Bilyaletdinov","Kim Källström",3
-"Diniyar Bilyaletdinov","Jano Ananidze",1
-"Kim Källström","Andriy Dykan",1
-"Kim Källström","Juan Insaurralde",20
-"Kim Källström","Rafael Carioca",30
-"Kim Källström","Kirill Kombarov",8
-"Kim Källström","Aiden McGeady",7
-"Kim Källström","Ari",24
-"Kim Källström","Marek Suchý",14
-"Kim Källström","Dmitri Kombarov",38
-"Kim Källström","Emmanuel Emenike",12
-"Kim Källström","Artem Dzyuba",6
-"Kim Källström","José Manuel Jurado",15
-"Kim Källström","Evgeni Makeev",10
-"Kim Källström","Sergei Pesyakov",3
-"Kim Källström","Nicolas Pareja",8
-"Kim Källström","Demy de Zeeuw",3
-"Kim Källström","Sergei Bryzgalov",4
-"Kim Källström","Aleksandr Kozlov",1
-"Kim Källström","Artem Rebrov",2
-"Kim Källström","Diniyar Bilyaletdinov",5
-"Kim Källström","Jano Ananidze",4
-"José Manuel Jurado","Andriy Dykan",1
-"José Manuel Jurado","Juan Insaurralde",3
-"José Manuel Jurado","Rafael Carioca",13
-"José Manuel Jurado","Kirill Kombarov",5
-"José Manuel Jurado","Aiden McGeady",2
-"José Manuel Jurado","Ari",11
-"José Manuel Jurado","Marek Suchý",4
-"José Manuel Jurado","Kim Källström",14
-"José Manuel Jurado","Dmitri Kombarov",19
-"José Manuel Jurado","Emmanuel Emenike",6
-"José Manuel Jurado","Artem Dzyuba",4
-"José Manuel Jurado","Evgeni Makeev",7
-"José Manuel Jurado","Nicolas Pareja",8
-"José Manuel Jurado","Diniyar Bilyaletdinov",5
-"José Manuel Jurado","Jano Ananidze",8
-"José Manuel Jurado","Sergei Pesyakov",2
-"Sergei Pesyakov","Juan Insaurralde",12
-"Sergei Pesyakov","Nicolas Pareja",11
-"Sergei Pesyakov","Rafael Carioca",5
-"Sergei Pesyakov","Ari",2
-"Sergei Pesyakov","Kim Källström",7
-"Sergei Pesyakov","Dmitri Kombarov",2
-"Sergei Pesyakov","Emmanuel Emenike",4
-"Sergei Pesyakov","Sergei Bryzgalov",1
-"Sergei Pesyakov","Artem Dzyuba",2
-"Sergei Pesyakov","Marek Suchý",6
-"Nicolas Pareja","Sergei Pesyakov",6
-"Nicolas Pareja","Juan Insaurralde",14
-"Nicolas Pareja","Rafael Carioca",27
-"Nicolas Pareja","Aiden McGeady",9
-"Nicolas Pareja","Ari",7
-"Nicolas Pareja","Demy de Zeeuw",2
-"Nicolas Pareja","Kim Källström",17
-"Nicolas Pareja","Dmitri Kombarov",6
-"Nicolas Pareja","Emmanuel Emenike",4
-"Nicolas Pareja","Evgeni Makeev",13
-"Nicolas Pareja","Artem Rebrov",7
-"Nicolas Pareja","Marek Suchý",6
-"Nicolas Pareja","José Manuel Jurado",7
-"Nicolas Pareja","Diniyar Bilyaletdinov",7
-"Nicolas Pareja","Jano Ananidze",1
-"Nicolas Pareja","Kirill Kombarov",5
-"Nicolas Pareja","Welliton",1
-"Sergei Bryzgalov","Sergei Pesyakov",1
-"Sergei Bryzgalov","Nicolas Pareja",3
-"Sergei Bryzgalov","Rafael Carioca",3
-"Sergei Bryzgalov","Ari",1
-"Sergei Bryzgalov","Kim Källström",1
-"Sergei Bryzgalov","Marek Suchý",2
-"Sergei Bryzgalov","José Manuel Jurado",5
-"Aleksandr Kozlov","Evgeni Makeev",2
-"Aleksandr Kozlov","Artem Dzyuba",1
-"Artem Rebrov","Nicolas Pareja",17
-"Artem Rebrov","Rafael Carioca",1
-"Artem Rebrov","Ari",7
-"Artem Rebrov","Marek Suchý",1
-"Artem Rebrov","José Manuel Jurado",2
-"Artem Rebrov","Kim Källström",3
-"Artem Rebrov","Dmitri Kombarov",4
-"Artem Rebrov","Diniyar Bilyaletdinov",2
-"Artem Rebrov","Evgeni Makeev",4
-"Artem Rebrov","Jano Ananidze",1
-"Artem Rebrov","Kirill Kombarov",2
-"Artem Rebrov","Juan Insaurralde",6
-"Artem Rebrov","Artem Dzyuba",1
-"Jano Ananidze","Nicolas Pareja",2
-"Jano Ananidze","Rafael Carioca",1
-"Jano Ananidze","Ari",4
-"Jano Ananidze","José Manuel Jurado",5
-"Jano Ananidze","Kim Källström",4
-"Jano Ananidze","Dmitri Kombarov",9
-"Jano Ananidze","Diniyar Bilyaletdinov",3
-"Jano Ananidze","Evgeni Makeev",3
-"Jano Ananidze","Welliton",2
-"Welliton","Rafael Carioca",1
-"Welliton","José Manuel Jurado",1
+Source,Target,Weight
+"31","2",7
+"31","7",3
+"31","8",2
+"31","9",9
+"31","17",5
+"31","23",4
+"31","29",10
+"31","37",5
+"31","6",3
+"31","10",3
+"31","21",3
+"31","19",3
+"2","31",15
+"2","7",4
+"2","8",4
+"2","9",5
+"2","17",25
+"2","23",17
+"2","29",6
+"2","34",7
+"2","37",1
+"2","6",16
+"2","10",3
+"2","25",5
+"2","21",20
+"2","19",10
+"2","30",10
+"2","5",9
+"2","32",5
+"2","49",1
+"7","2",6
+"7","8",10
+"7","9",8
+"7","17",9
+"7","20",2
+"7","29",2
+"7","37",3
+"7","6",16
+"7","10",2
+"7","21",5
+"7","19",7
+"7","32",1
+"7","5",5
+"7","3",1
+"8","2",4
+"8","7",6
+"8","9",5
+"8","17",9
+"8","20",7
+"8","23",3
+"8","29",12
+"8","34",6
+"8","37",5
+"8","6",12
+"8","10",1
+"8","25",1
+"8","21",4
+"8","19",3
+"8","5",3
+"9","2",6
+"9","7",7
+"9","8",6
+"9","17",4
+"9","20",5
+"9","23",15
+"9","29",12
+"9","34",10
+"9","37",5
+"9","6",15
+"9","10",5
+"9","25",7
+"9","21",14
+"9","19",11
+"9","5",5
+"9","3",1
+"9","49",2
+"9","11",2
+"17","31",13
+"17","2",14
+"17","7",18
+"17","8",10
+"17","9",12
+"17","20",3
+"17","23",5
+"17","29",5
+"17","34",9
+"17","37",5
+"17","6",28
+"17","10",1
+"17","21",17
+"17","19",6
+"17","32",9
+"17","5",7
+"17","49",6
+"17","11",1
+"17","30",8
+"20","2",3
+"20","8",10
+"20","9",6
+"20","17",2
+"20","23",2
+"20","29",6
+"20","34",3
+"20","37",5
+"20","6",5
+"20","10",1
+"20","25",1
+"20","5",1
+"20","21",3
+"23","31",1
+"23","2",16
+"23","7",1
+"23","8",3
+"23","9",23
+"23","17",8
+"23","20",5
+"23","29",8
+"23","34",9
+"23","37",3
+"23","6",16
+"23","10",11
+"23","25",6
+"23","21",34
+"23","19",20
+"23","30",4
+"23","5",4
+"23","3",3
+"23","22",1
+"23","32",3
+"23","49",9
+"29","2",2
+"29","7",3
+"29","8",6
+"29","9",8
+"29","17",2
+"29","20",4
+"29","23",4
+"29","34",4
+"29","37",4
+"29","6",6
+"29","10",3
+"29","21",3
+"29","19",6
+"29","3",1
+"34","31",3
+"34","2",15
+"34","7",5
+"34","8",5
+"34","9",8
+"34","17",15
+"34","20",4
+"34","23",8
+"34","29",7
+"34","37",2
+"34","6",16
+"34","10",3
+"34","25",6
+"34","21",13
+"34","19",8
+"34","5",17
+"34","22",1
+"34","32",3
+"34","49",9
+"37","2",6
+"37","7",6
+"37","8",9
+"37","9",4
+"37","17",4
+"37","20",1
+"37","23",3
+"37","29",2
+"37","6",2
+"37","21",1
+"6","31",1
+"6","2",20
+"6","7",7
+"6","8",13
+"6","9",7
+"6","17",37
+"6","20",8
+"6","23",21
+"6","29",6
+"6","34",20
+"6","37",4
+"6","10",7
+"6","25",7
+"6","21",42
+"6","19",21
+"6","30",4
+"6","5",25
+"6","3",1
+"6","32",4
+"6","49",3
+"10","7",1
+"10","8",2
+"10","9",4
+"10","17",2
+"10","23",1
+"10","29",4
+"10","34",2
+"10","37",1
+"10","6",6
+"10","25",1
+"10","21",4
+"10","19",7
+"10","49",2
+"25","7",2
+"25","9",6
+"25","17",1
+"25","20",1
+"25","23",4
+"25","34",3
+"25","6",4
+"25","10",3
+"25","5",5
+"25","19",9
+"25","21",3
+"25","49",1
+"21","31",1
+"21","2",20
+"21","6",30
+"21","7",8
+"21","8",7
+"21","9",24
+"21","17",14
+"21","23",38
+"21","29",12
+"21","10",6
+"21","19",15
+"21","34",10
+"21","30",3
+"21","5",8
+"21","20",3
+"21","3",4
+"21","22",1
+"21","32",2
+"21","25",5
+"21","49",4
+"19","31",1
+"19","2",3
+"19","6",13
+"19","7",5
+"19","8",2
+"19","9",11
+"19","17",4
+"19","21",14
+"19","23",19
+"19","29",6
+"19","10",4
+"19","34",7
+"19","5",8
+"19","25",5
+"19","49",8
+"19","30",2
+"30","2",12
+"30","5",11
+"30","6",5
+"30","9",2
+"30","21",7
+"30","23",2
+"30","29",4
+"30","3",1
+"30","10",2
+"30","17",6
+"5","30",6
+"5","2",14
+"5","6",27
+"5","8",9
+"5","9",7
+"5","20",2
+"5","21",17
+"5","23",6
+"5","29",4
+"5","34",13
+"5","32",7
+"5","17",6
+"5","19",7
+"5","25",7
+"5","49",1
+"5","7",5
+"5","11",1
+"3","30",1
+"3","5",3
+"3","6",3
+"3","9",1
+"3","21",1
+"3","17",2
+"3","19",5
+"22","34",2
+"22","10",1
+"32","5",17
+"32","6",1
+"32","9",7
+"32","17",1
+"32","19",2
+"32","21",3
+"32","23",4
+"32","25",2
+"32","34",4
+"32","49",1
+"32","7",2
+"32","2",6
+"32","10",1
+"49","5",2
+"49","6",1
+"49","9",4
+"49","19",5
+"49","21",4
+"49","23",9
+"49","25",3
+"49","34",3
+"49","11",2
+"11","6",1
+"11","19",1

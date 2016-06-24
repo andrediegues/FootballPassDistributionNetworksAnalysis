@@ -1,294 +1,295 @@
-"Silvio Proto","Fabrice N'Sakala",7
-"Silvio Proto","Luka Milivojević",1
-"Silvio Proto","Matías Suárez",1
-"Silvio Proto","Cheikhou Kouyaté",11
-"Silvio Proto","Massimo Bruno",1
-"Silvio Proto","Sacha Kljestan",1
-"Silvio Proto","Chancel Mbemba",12
-"Silvio Proto","Guillaume Gillet",6
-"Silvio Proto","Aleksandar Mitrović",11
-"Silvio Proto","Dennis Praet",5
-"Silvio Proto","Olivier Deschacht",1
-"Silvio Proto","Bram Nuytinck",9
-"Silvio Proto","Anthony Vanden Borre",1
-"Silvio Proto","Andy Najar",3
-"Silvio Proto","Youri Tielemans",1
-"Fabrice N'Sakala","Silvio Proto",2
-"Fabrice N'Sakala","Demy de Zeeuw",1
-"Fabrice N'Sakala","Luka Milivojević",6
-"Fabrice N'Sakala","Matías Suárez",19
-"Fabrice N'Sakala","Cheikhou Kouyaté",12
-"Fabrice N'Sakala","Sacha Kljestan",35
-"Fabrice N'Sakala","Chancel Mbemba",25
-"Fabrice N'Sakala","Guillaume Gillet",7
-"Fabrice N'Sakala","Aleksandar Mitrović",21
-"Fabrice N'Sakala","Dennis Praet",26
-"Fabrice N'Sakala","Cyriac",1
-"Fabrice N'Sakala","Frank Acheampong",19
-"Fabrice N'Sakala","Bram Nuytinck",11
-"Fabrice N'Sakala","Youri Tielemans",10
-"Fabrice N'Sakala","Olivier Deschacht",7
-"Fabrice N'Sakala","Anthony Vanden Borre",3
-"Fabrice N'Sakala","Ronald Vargas",2
-"Demy de Zeeuw","Silvio Proto",1
-"Demy de Zeeuw","Fabrice N'Sakala",2
-"Demy de Zeeuw","Luka Milivojević",3
-"Demy de Zeeuw","Cheikhou Kouyaté",1
-"Demy de Zeeuw","Massimo Bruno",3
-"Demy de Zeeuw","Sacha Kljestan",5
-"Demy de Zeeuw","Chancel Mbemba",1
-"Demy de Zeeuw","Guillaume Gillet",2
-"Demy de Zeeuw","Aleksandar Mitrović",9
-"Demy de Zeeuw","Dennis Praet",7
-"Demy de Zeeuw","Frank Acheampong",2
-"Demy de Zeeuw","Olivier Deschacht",4
-"Demy de Zeeuw","Anthony Vanden Borre",4
-"Luka Milivojević","Silvio Proto",7
-"Luka Milivojević","Fabrice N'Sakala",8
-"Luka Milivojević","Demy de Zeeuw",7
-"Luka Milivojević","Matías Suárez",5
-"Luka Milivojević","Cheikhou Kouyaté",8
-"Luka Milivojević","Massimo Bruno",3
-"Luka Milivojević","Sacha Kljestan",14
-"Luka Milivojević","Chancel Mbemba",9
-"Luka Milivojević","Guillaume Gillet",7
-"Luka Milivojević","Aleksandar Mitrović",5
-"Luka Milivojević","Dennis Praet",5
-"Luka Milivojević","Cyriac",2
-"Luka Milivojević","Frank Acheampong",3
-"Luka Milivojević","Thomas Kaminski",2
-"Luka Milivojević","Bram Nuytinck",1
-"Luka Milivojević","Youri Tielemans",2
-"Luka Milivojević","Olivier Deschacht",4
-"Luka Milivojević","Anthony Vanden Borre",6
-"Matías Suárez","Fabrice N'Sakala",2
-"Matías Suárez","Demy de Zeeuw",2
-"Matías Suárez","Luka Milivojević",2
-"Matías Suárez","Cheikhou Kouyaté",3
-"Matías Suárez","Massimo Bruno",4
-"Matías Suárez","Sacha Kljestan",13
-"Matías Suárez","Guillaume Gillet",2
-"Matías Suárez","Aleksandar Mitrović",6
-"Matías Suárez","Dennis Praet",4
-"Matías Suárez","Frank Acheampong",4
-"Matías Suárez","Bram Nuytinck",6
-"Matías Suárez","Youri Tielemans",4
-"Cheikhou Kouyaté","Silvio Proto",10
-"Cheikhou Kouyaté","Fabrice N'Sakala",13
-"Cheikhou Kouyaté","Demy de Zeeuw",3
-"Cheikhou Kouyaté","Luka Milivojević",12
-"Cheikhou Kouyaté","Matías Suárez",1
-"Cheikhou Kouyaté","Massimo Bruno",5
-"Cheikhou Kouyaté","Sacha Kljestan",15
-"Cheikhou Kouyaté","Chancel Mbemba",21
-"Cheikhou Kouyaté","Guillaume Gillet",31
-"Cheikhou Kouyaté","Aleksandar Mitrović",8
-"Cheikhou Kouyaté","Dennis Praet",7
-"Cheikhou Kouyaté","Frank Acheampong",2
-"Cheikhou Kouyaté","Thomas Kaminski",8
-"Cheikhou Kouyaté","Bram Nuytinck",20
-"Cheikhou Kouyaté","Youri Tielemans",7
-"Cheikhou Kouyaté","Olivier Deschacht",8
-"Cheikhou Kouyaté","Anthony Vanden Borre",10
-"Cheikhou Kouyaté","Andy Najar",1
-"Massimo Bruno","Silvio Proto",1
-"Massimo Bruno","Fabrice N'Sakala",1
-"Massimo Bruno","Demy de Zeeuw",2
-"Massimo Bruno","Luka Milivojević",3
-"Massimo Bruno","Matías Suárez",6
-"Massimo Bruno","Cheikhou Kouyaté",4
-"Massimo Bruno","Sacha Kljestan",2
-"Massimo Bruno","Chancel Mbemba",1
-"Massimo Bruno","Guillaume Gillet",7
-"Massimo Bruno","Aleksandar Mitrović",6
-"Massimo Bruno","Dennis Praet",5
-"Massimo Bruno","Frank Acheampong",2
-"Massimo Bruno","Thomas Kaminski",1
-"Massimo Bruno","Youri Tielemans",1
-"Massimo Bruno","Anthony Vanden Borre",4
-"Massimo Bruno","Ronald Vargas",2
-"Sacha Kljestan","Silvio Proto",1
-"Sacha Kljestan","Fabrice N'Sakala",35
-"Sacha Kljestan","Demy de Zeeuw",5
-"Sacha Kljestan","Luka Milivojević",17
-"Sacha Kljestan","Matías Suárez",20
-"Sacha Kljestan","Cheikhou Kouyaté",7
-"Sacha Kljestan","Massimo Bruno",8
-"Sacha Kljestan","Chancel Mbemba",13
-"Sacha Kljestan","Guillaume Gillet",19
-"Sacha Kljestan","Aleksandar Mitrović",14
-"Sacha Kljestan","Dennis Praet",28
-"Sacha Kljestan","Cyriac",3
-"Sacha Kljestan","Frank Acheampong",6
-"Sacha Kljestan","Bram Nuytinck",6
-"Sacha Kljestan","Youri Tielemans",17
-"Sacha Kljestan","Olivier Deschacht",6
-"Sacha Kljestan","Anthony Vanden Borre",8
-"Chancel Mbemba","Silvio Proto",18
-"Chancel Mbemba","Fabrice N'Sakala",25
-"Chancel Mbemba","Demy de Zeeuw",1
-"Chancel Mbemba","Luka Milivojević",10
-"Chancel Mbemba","Cheikhou Kouyaté",10
-"Chancel Mbemba","Massimo Bruno",3
-"Chancel Mbemba","Sacha Kljestan",16
-"Chancel Mbemba","Guillaume Gillet",17
-"Chancel Mbemba","Aleksandar Mitrović",11
-"Chancel Mbemba","Dennis Praet",10
-"Chancel Mbemba","Cyriac",3
-"Chancel Mbemba","Frank Acheampong",5
-"Chancel Mbemba","Thomas Kaminski",3
-"Chancel Mbemba","Bram Nuytinck",8
-"Chancel Mbemba","Youri Tielemans",9
-"Chancel Mbemba","Olivier Deschacht",5
-"Chancel Mbemba","Anthony Vanden Borre",9
-"Chancel Mbemba","Ronald Vargas",1
-"Chancel Mbemba","Andy Najar",5
-"Guillaume Gillet","Silvio Proto",2
-"Guillaume Gillet","Fabrice N'Sakala",6
-"Guillaume Gillet","Demy de Zeeuw",6
-"Guillaume Gillet","Luka Milivojević",5
-"Guillaume Gillet","Matías Suárez",4
-"Guillaume Gillet","Cheikhou Kouyaté",20
-"Guillaume Gillet","Massimo Bruno",21
-"Guillaume Gillet","Sacha Kljestan",24
-"Guillaume Gillet","Chancel Mbemba",15
-"Guillaume Gillet","Aleksandar Mitrović",17
-"Guillaume Gillet","Dennis Praet",10
-"Guillaume Gillet","Frank Acheampong",5
-"Guillaume Gillet","Thomas Kaminski",1
-"Guillaume Gillet","Bram Nuytinck",7
-"Guillaume Gillet","Youri Tielemans",14
-"Guillaume Gillet","Anthony Vanden Borre",7
-"Guillaume Gillet","Andy Najar",3
-"Aleksandar Mitrović","Fabrice N'Sakala",7
-"Aleksandar Mitrović","Demy de Zeeuw",6
-"Aleksandar Mitrović","Luka Milivojević",6
-"Aleksandar Mitrović","Matías Suárez",8
-"Aleksandar Mitrović","Cheikhou Kouyaté",2
-"Aleksandar Mitrović","Massimo Bruno",6
-"Aleksandar Mitrović","Sacha Kljestan",11
-"Aleksandar Mitrović","Chancel Mbemba",3
-"Aleksandar Mitrović","Guillaume Gillet",10
-"Aleksandar Mitrović","Dennis Praet",18
-"Aleksandar Mitrović","Frank Acheampong",4
-"Aleksandar Mitrović","Bram Nuytinck",1
-"Aleksandar Mitrović","Youri Tielemans",1
-"Aleksandar Mitrović","Anthony Vanden Borre",3
-"Aleksandar Mitrović","Ronald Vargas",1
-"Aleksandar Mitrović","Andy Najar",1
-"Dennis Praet","Silvio Proto",1
-"Dennis Praet","Fabrice N'Sakala",15
-"Dennis Praet","Demy de Zeeuw",3
-"Dennis Praet","Luka Milivojević",8
-"Dennis Praet","Matías Suárez",7
-"Dennis Praet","Cheikhou Kouyaté",9
-"Dennis Praet","Massimo Bruno",11
-"Dennis Praet","Sacha Kljestan",9
-"Dennis Praet","Chancel Mbemba",11
-"Dennis Praet","Guillaume Gillet",8
-"Dennis Praet","Aleksandar Mitrović",18
-"Dennis Praet","Frank Acheampong",7
-"Dennis Praet","Thomas Kaminski",1
-"Dennis Praet","Bram Nuytinck",2
-"Dennis Praet","Youri Tielemans",4
-"Dennis Praet","Olivier Deschacht",2
-"Dennis Praet","Anthony Vanden Borre",15
-"Cyriac","Sacha Kljestan",2
-"Cyriac","Chancel Mbemba",1
-"Cyriac","Frank Acheampong",1
-"Cyriac","Bram Nuytinck",1
-"Frank Acheampong","Fabrice N'Sakala",12
-"Frank Acheampong","Matías Suárez",5
-"Frank Acheampong","Cheikhou Kouyaté",3
-"Frank Acheampong","Massimo Bruno",2
-"Frank Acheampong","Sacha Kljestan",9
-"Frank Acheampong","Chancel Mbemba",2
-"Frank Acheampong","Guillaume Gillet",2
-"Frank Acheampong","Aleksandar Mitrović",2
-"Frank Acheampong","Dennis Praet",4
-"Frank Acheampong","Cyriac",1
-"Frank Acheampong","Bram Nuytinck",1
-"Frank Acheampong","Youri Tielemans",2
-"Frank Acheampong","Anthony Vanden Borre",1
-"Frank Acheampong","Ronald Vargas",3
-"Thomas Kaminski","Fabrice N'Sakala",3
-"Thomas Kaminski","Matías Suárez",2
-"Thomas Kaminski","Dennis Praet",1
-"Thomas Kaminski","Bram Nuytinck",12
-"Thomas Kaminski","Cheikhou Kouyaté",3
-"Thomas Kaminski","Massimo Bruno",1
-"Thomas Kaminski","Sacha Kljestan",5
-"Thomas Kaminski","Guillaume Gillet",3
-"Thomas Kaminski","Youri Tielemans",1
-"Thomas Kaminski","Aleksandar Mitrović",4
-"Thomas Kaminski","Chancel Mbemba",2
-"Thomas Kaminski","Cyriac",1
-"Thomas Kaminski","Olivier Deschacht",1
-"Bram Nuytinck","Thomas Kaminski",5
-"Bram Nuytinck","Fabrice N'Sakala",34
-"Bram Nuytinck","Matías Suárez",9
-"Bram Nuytinck","Dennis Praet",4
-"Bram Nuytinck","Cheikhou Kouyaté",17
-"Bram Nuytinck","Sacha Kljestan",9
-"Bram Nuytinck","Guillaume Gillet",7
-"Bram Nuytinck","Youri Tielemans",11
-"Bram Nuytinck","Aleksandar Mitrović",5
-"Bram Nuytinck","Frank Acheampong",2
-"Bram Nuytinck","Chancel Mbemba",5
-"Bram Nuytinck","Luka Milivojević",1
-"Bram Nuytinck","Olivier Deschacht",2
-"Bram Nuytinck","Anthony Vanden Borre",2
-"Bram Nuytinck","Silvio Proto",10
-"Youri Tielemans","Fabrice N'Sakala",4
-"Youri Tielemans","Matías Suárez",5
-"Youri Tielemans","Dennis Praet",11
-"Youri Tielemans","Bram Nuytinck",7
-"Youri Tielemans","Cheikhou Kouyaté",5
-"Youri Tielemans","Massimo Bruno",4
-"Youri Tielemans","Sacha Kljestan",21
-"Youri Tielemans","Guillaume Gillet",7
-"Youri Tielemans","Aleksandar Mitrović",5
-"Youri Tielemans","Frank Acheampong",3
-"Youri Tielemans","Chancel Mbemba",7
-"Youri Tielemans","Luka Milivojević",7
-"Youri Tielemans","Cyriac",1
-"Olivier Deschacht","Thomas Kaminski",1
-"Olivier Deschacht","Fabrice N'Sakala",16
-"Olivier Deschacht","Demy de Zeeuw",6
-"Olivier Deschacht","Luka Milivojević",3
-"Olivier Deschacht","Dennis Praet",2
-"Olivier Deschacht","Cheikhou Kouyaté",1
-"Olivier Deschacht","Sacha Kljestan",5
-"Olivier Deschacht","Chancel Mbemba",3
-"Olivier Deschacht","Aleksandar Mitrović",3
-"Olivier Deschacht","Bram Nuytinck",1
-"Olivier Deschacht","Youri Tielemans",1
-"Olivier Deschacht","Silvio Proto",1
-"Anthony Vanden Borre","Fabrice N'Sakala",4
-"Anthony Vanden Borre","Demy de Zeeuw",3
-"Anthony Vanden Borre","Luka Milivojević",6
-"Anthony Vanden Borre","Dennis Praet",10
-"Anthony Vanden Borre","Cheikhou Kouyaté",9
-"Anthony Vanden Borre","Sacha Kljestan",8
-"Anthony Vanden Borre","Chancel Mbemba",8
-"Anthony Vanden Borre","Aleksandar Mitrović",18
-"Anthony Vanden Borre","Bram Nuytinck",2
-"Anthony Vanden Borre","Frank Acheampong",1
-"Anthony Vanden Borre","Massimo Bruno",7
-"Anthony Vanden Borre","Guillaume Gillet",6
-"Anthony Vanden Borre","Ronald Vargas",1
-"Anthony Vanden Borre","Andy Najar",3
-"Ronald Vargas","Fabrice N'Sakala",1
-"Ronald Vargas","Massimo Bruno",1
-"Ronald Vargas","Chancel Mbemba",1
-"Ronald Vargas","Anthony Vanden Borre",1
-"Ronald Vargas","Aleksandar Mitrović",1
-"Ronald Vargas","Frank Acheampong",1
-"Andy Najar","Silvio Proto",1
-"Andy Najar","Fabrice N'Sakala",1
-"Andy Najar","Dennis Praet",1
-"Andy Najar","Sacha Kljestan",1
-"Andy Najar","Chancel Mbemba",1
-"Andy Najar","Guillaume Gillet",5
-"Andy Najar","Anthony Vanden Borre",2
-"Andy Najar","Aleksandar Mitrović",2
+Source,Target,Weight
+"1","2",7
+"1","8",1
+"1","9",1
+"1","16",11
+"1","17",1
+"1","19",1
+"1","22",12
+"1","30",6
+"1","45",11
+"1","10",5
+"1","3",1
+"1","14",9
+"1","39",1
+"1","12",3
+"1","31",1
+"2","1",2
+"2","6",1
+"2","8",6
+"2","9",19
+"2","16",12
+"2","19",35
+"2","22",25
+"2","30",7
+"2","45",21
+"2","10",26
+"2","15",1
+"2","18",19
+"2","14",11
+"2","31",10
+"2","3",7
+"2","39",3
+"2","70",2
+"6","1",1
+"6","2",2
+"6","8",3
+"6","16",1
+"6","17",3
+"6","19",5
+"6","22",1
+"6","30",2
+"6","45",9
+"6","10",7
+"6","18",2
+"6","3",4
+"6","39",4
+"8","1",7
+"8","2",8
+"8","6",7
+"8","9",5
+"8","16",8
+"8","17",3
+"8","19",14
+"8","22",9
+"8","30",7
+"8","45",5
+"8","10",5
+"8","15",2
+"8","18",3
+"8","13",2
+"8","14",1
+"8","31",2
+"8","3",4
+"8","39",6
+"9","2",2
+"9","6",2
+"9","8",2
+"9","16",3
+"9","17",4
+"9","19",13
+"9","30",2
+"9","45",6
+"9","10",4
+"9","18",4
+"9","14",6
+"9","31",4
+"16","1",10
+"16","2",13
+"16","6",3
+"16","8",12
+"16","9",1
+"16","17",5
+"16","19",15
+"16","22",21
+"16","30",31
+"16","45",8
+"16","10",7
+"16","18",2
+"16","13",8
+"16","14",20
+"16","31",7
+"16","3",8
+"16","39",10
+"16","12",1
+"17","1",1
+"17","2",1
+"17","6",2
+"17","8",3
+"17","9",6
+"17","16",4
+"17","19",2
+"17","22",1
+"17","30",7
+"17","45",6
+"17","10",5
+"17","18",2
+"17","13",1
+"17","31",1
+"17","39",4
+"17","70",2
+"19","1",1
+"19","2",35
+"19","6",5
+"19","8",17
+"19","9",20
+"19","16",7
+"19","17",8
+"19","22",13
+"19","30",19
+"19","45",14
+"19","10",28
+"19","15",3
+"19","18",6
+"19","14",6
+"19","31",17
+"19","3",6
+"19","39",8
+"22","1",18
+"22","2",25
+"22","6",1
+"22","8",10
+"22","16",10
+"22","17",3
+"22","19",16
+"22","30",17
+"22","45",11
+"22","10",10
+"22","15",3
+"22","18",5
+"22","13",3
+"22","14",8
+"22","31",9
+"22","3",5
+"22","39",9
+"22","70",1
+"22","12",5
+"30","1",2
+"30","2",6
+"30","6",6
+"30","8",5
+"30","9",4
+"30","16",20
+"30","17",21
+"30","19",24
+"30","22",15
+"30","45",17
+"30","10",10
+"30","18",5
+"30","13",1
+"30","14",7
+"30","31",14
+"30","39",7
+"30","12",3
+"45","2",7
+"45","6",6
+"45","8",6
+"45","9",8
+"45","16",2
+"45","17",6
+"45","19",11
+"45","22",3
+"45","30",10
+"45","10",18
+"45","18",4
+"45","14",1
+"45","31",1
+"45","39",3
+"45","70",1
+"45","12",1
+"10","1",1
+"10","2",15
+"10","6",3
+"10","8",8
+"10","9",7
+"10","16",9
+"10","17",11
+"10","19",9
+"10","22",11
+"10","30",8
+"10","45",18
+"10","18",7
+"10","13",1
+"10","14",2
+"10","31",4
+"10","3",2
+"10","39",15
+"15","19",2
+"15","22",1
+"15","18",1
+"15","14",1
+"18","2",12
+"18","9",5
+"18","16",3
+"18","17",2
+"18","19",9
+"18","22",2
+"18","30",2
+"18","45",2
+"18","10",4
+"18","15",1
+"18","14",1
+"18","31",2
+"18","39",1
+"18","70",3
+"13","2",3
+"13","9",2
+"13","10",1
+"13","14",12
+"13","16",3
+"13","17",1
+"13","19",5
+"13","30",3
+"13","31",1
+"13","45",4
+"13","22",2
+"13","15",1
+"13","3",1
+"14","13",5
+"14","2",34
+"14","9",9
+"14","10",4
+"14","16",17
+"14","19",9
+"14","30",7
+"14","31",11
+"14","45",5
+"14","18",2
+"14","22",5
+"14","8",1
+"14","3",2
+"14","39",2
+"14","1",10
+"31","2",4
+"31","9",5
+"31","10",11
+"31","14",7
+"31","16",5
+"31","17",4
+"31","19",21
+"31","30",7
+"31","45",5
+"31","18",3
+"31","22",7
+"31","8",7
+"31","15",1
+"3","13",1
+"3","2",16
+"3","6",6
+"3","8",3
+"3","10",2
+"3","16",1
+"3","19",5
+"3","22",3
+"3","45",3
+"3","14",1
+"3","31",1
+"3","1",1
+"39","2",4
+"39","6",3
+"39","8",6
+"39","10",10
+"39","16",9
+"39","19",8
+"39","22",8
+"39","45",18
+"39","14",2
+"39","18",1
+"39","17",7
+"39","30",6
+"39","70",1
+"39","12",3
+"70","2",1
+"70","17",1
+"70","22",1
+"70","39",1
+"70","45",1
+"70","18",1
+"12","1",1
+"12","2",1
+"12","10",1
+"12","19",1
+"12","22",1
+"12","30",5
+"12","39",2
+"12","45",2

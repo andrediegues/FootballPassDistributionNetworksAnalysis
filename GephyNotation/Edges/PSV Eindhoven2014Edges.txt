@@ -1,127 +1,128 @@
-"Jeroen Zoet","Karim Rekik",17
-"Jeroen Zoet","Jeffrey Bruma",8
-"Jeroen Zoet","Adam Maher",2
-"Jeroen Zoet","Stijn Schaars",5
-"Jeroen Zoet","Tim Matavž",1
-"Jeroen Zoet","Georginio Wijnaldum",1
-"Jeroen Zoet","Jetro Willems",5
-"Jeroen Zoet","Memphis Depay",2
-"Jeroen Zoet","Joshua Brenet",5
-"Jeroen Zoet","Park Ji-Sung",3
-"Karim Rekik","Jeroen Zoet",4
-"Karim Rekik","Jeffrey Bruma",20
-"Karim Rekik","Adam Maher",4
-"Karim Rekik","Stijn Schaars",26
-"Karim Rekik","Georginio Wijnaldum",6
-"Karim Rekik","Jetro Willems",27
-"Karim Rekik","Memphis Depay",4
-"Karim Rekik","Joshua Brenet",2
-"Karim Rekik","Park Ji-Sung",3
-"Karim Rekik","Florian Jozefzoon",2
-"Karim Rekik","Oscar Hiljemark",2
-"Jeffrey Bruma","Jeroen Zoet",8
-"Jeffrey Bruma","Karim Rekik",14
-"Jeffrey Bruma","Adam Maher",8
-"Jeffrey Bruma","Stijn Schaars",27
-"Jeffrey Bruma","Tim Matavž",2
-"Jeffrey Bruma","Georginio Wijnaldum",11
-"Jeffrey Bruma","Jetro Willems",6
-"Jeffrey Bruma","Memphis Depay",5
-"Jeffrey Bruma","Joshua Brenet",15
-"Jeffrey Bruma","Park Ji-Sung",3
-"Jeffrey Bruma","Jürgen Locadia",1
-"Jeffrey Bruma","Florian Jozefzoon",4
-"Jeffrey Bruma","Ola Toivonen",1
-"Adam Maher","Karim Rekik",2
-"Adam Maher","Jeffrey Bruma",1
-"Adam Maher","Stijn Schaars",7
-"Adam Maher","Tim Matavž",7
-"Adam Maher","Georginio Wijnaldum",4
-"Adam Maher","Jetro Willems",7
-"Adam Maher","Memphis Depay",10
-"Adam Maher","Joshua Brenet",3
-"Adam Maher","Park Ji-Sung",6
-"Stijn Schaars","Jeroen Zoet",10
-"Stijn Schaars","Karim Rekik",25
-"Stijn Schaars","Jeffrey Bruma",21
-"Stijn Schaars","Adam Maher",9
-"Stijn Schaars","Tim Matavž",8
-"Stijn Schaars","Georginio Wijnaldum",6
-"Stijn Schaars","Jetro Willems",22
-"Stijn Schaars","Memphis Depay",13
-"Stijn Schaars","Joshua Brenet",17
-"Stijn Schaars","Park Ji-Sung",9
-"Stijn Schaars","Florian Jozefzoon",4
-"Stijn Schaars","Ola Toivonen",1
-"Tim Matavž","Jeroen Zoet",1
-"Tim Matavž","Karim Rekik",1
-"Tim Matavž","Adam Maher",7
-"Tim Matavž","Stijn Schaars",1
-"Tim Matavž","Georginio Wijnaldum",5
-"Tim Matavž","Memphis Depay",3
-"Tim Matavž","Park Ji-Sung",2
-"Georginio Wijnaldum","Jeroen Zoet",1
-"Georginio Wijnaldum","Karim Rekik",4
-"Georginio Wijnaldum","Jeffrey Bruma",8
-"Georginio Wijnaldum","Adam Maher",5
-"Georginio Wijnaldum","Stijn Schaars",12
-"Georginio Wijnaldum","Tim Matavž",1
-"Georginio Wijnaldum","Jetro Willems",6
-"Georginio Wijnaldum","Memphis Depay",1
-"Georginio Wijnaldum","Joshua Brenet",10
-"Georginio Wijnaldum","Park Ji-Sung",11
-"Georginio Wijnaldum","Florian Jozefzoon",1
-"Georginio Wijnaldum","Oscar Hiljemark",2
-"Jetro Willems","Jeroen Zoet",6
-"Jetro Willems","Karim Rekik",15
-"Jetro Willems","Jeffrey Bruma",4
-"Jetro Willems","Adam Maher",13
-"Jetro Willems","Stijn Schaars",30
-"Jetro Willems","Tim Matavž",2
-"Jetro Willems","Georginio Wijnaldum",7
-"Jetro Willems","Memphis Depay",23
-"Jetro Willems","Park Ji-Sung",6
-"Jetro Willems","Jürgen Locadia",3
-"Jetro Willems","Florian Jozefzoon",1
-"Jetro Willems","Oscar Hiljemark",2
-"Jetro Willems","Ola Toivonen",1
-"Memphis Depay","Jeffrey Bruma",3
-"Memphis Depay","Adam Maher",2
-"Memphis Depay","Stijn Schaars",17
-"Memphis Depay","Tim Matavž",6
-"Memphis Depay","Georginio Wijnaldum",2
-"Memphis Depay","Jetro Willems",11
-"Memphis Depay","Park Ji-Sung",2
-"Memphis Depay","Florian Jozefzoon",1
-"Joshua Brenet","Jeroen Zoet",6
-"Joshua Brenet","Karim Rekik",4
-"Joshua Brenet","Jeffrey Bruma",15
-"Joshua Brenet","Adam Maher",4
-"Joshua Brenet","Stijn Schaars",16
-"Joshua Brenet","Tim Matavž",3
-"Joshua Brenet","Georginio Wijnaldum",11
-"Joshua Brenet","Jetro Willems",3
-"Joshua Brenet","Memphis Depay",2
-"Joshua Brenet","Park Ji-Sung",4
-"Joshua Brenet","Florian Jozefzoon",4
-"Joshua Brenet","Oscar Hiljemark",1
-"Park Ji-Sung","Jeffrey Bruma",3
-"Park Ji-Sung","Adam Maher",6
-"Park Ji-Sung","Stijn Schaars",6
-"Park Ji-Sung","Tim Matavž",3
-"Park Ji-Sung","Georginio Wijnaldum",9
-"Park Ji-Sung","Jetro Willems",5
-"Park Ji-Sung","Memphis Depay",3
-"Park Ji-Sung","Joshua Brenet",5
-"Jürgen Locadia","Jetro Willems",1
-"Florian Jozefzoon","Jeffrey Bruma",3
-"Florian Jozefzoon","Adam Maher",2
-"Florian Jozefzoon","Stijn Schaars",2
-"Florian Jozefzoon","Joshua Brenet",3
-"Florian Jozefzoon","Ola Toivonen",1
-"Oscar Hiljemark","Karim Rekik",1
-"Oscar Hiljemark","Georginio Wijnaldum",1
-"Oscar Hiljemark","Jetro Willems",3
-"Oscar Hiljemark","Joshua Brenet",1
-"Ola Toivonen","Tim Matavž",2
-"Ola Toivonen","Georginio Wijnaldum",1
+Source,Target,Weight
+"21","3",17
+"21","5",8
+"21","6",2
+"21","8",5
+"21","9",1
+"21","10",1
+"21","15",5
+"21","22",2
+"21","26",5
+"21","33",3
+"3","21",4
+"3","5",20
+"3","6",4
+"3","8",26
+"3","10",6
+"3","15",27
+"3","22",4
+"3","26",2
+"3","33",3
+"3","14",2
+"3","27",2
+"5","21",8
+"5","3",14
+"5","6",8
+"5","8",27
+"5","9",2
+"5","10",11
+"5","15",6
+"5","22",5
+"5","26",15
+"5","33",3
+"5","11",1
+"5","14",4
+"5","7",1
+"6","3",2
+"6","5",1
+"6","8",7
+"6","9",7
+"6","10",4
+"6","15",7
+"6","22",10
+"6","26",3
+"6","33",6
+"8","21",10
+"8","3",25
+"8","5",21
+"8","6",9
+"8","9",8
+"8","10",6
+"8","15",22
+"8","22",13
+"8","26",17
+"8","33",9
+"8","14",4
+"8","7",1
+"9","21",1
+"9","3",1
+"9","6",7
+"9","8",1
+"9","10",5
+"9","22",3
+"9","33",2
+"10","21",1
+"10","3",4
+"10","5",8
+"10","6",5
+"10","8",12
+"10","9",1
+"10","15",6
+"10","22",1
+"10","26",10
+"10","33",11
+"10","14",1
+"10","27",2
+"15","21",6
+"15","3",15
+"15","5",4
+"15","6",13
+"15","8",30
+"15","9",2
+"15","10",7
+"15","22",23
+"15","33",6
+"15","11",3
+"15","14",1
+"15","27",2
+"15","7",1
+"22","5",3
+"22","6",2
+"22","8",17
+"22","9",6
+"22","10",2
+"22","15",11
+"22","33",2
+"22","14",1
+"26","21",6
+"26","3",4
+"26","5",15
+"26","6",4
+"26","8",16
+"26","9",3
+"26","10",11
+"26","15",3
+"26","22",2
+"26","33",4
+"26","14",4
+"26","27",1
+"33","5",3
+"33","6",6
+"33","8",6
+"33","9",3
+"33","10",9
+"33","15",5
+"33","22",3
+"33","26",5
+"11","15",1
+"14","5",3
+"14","6",2
+"14","8",2
+"14","26",3
+"14","7",1
+"27","3",1
+"27","10",1
+"27","15",3
+"27","26",1
+"7","9",2
+"7","10",1

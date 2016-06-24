@@ -1,255 +1,256 @@
-"Eduardo","Soudani",11
-"Eduardo","Ivo Pinto",7
-"Eduardo","Paulo Machado",4
-"Eduardo","Gonçalo Santos",5
-"Eduardo","Armin Hodžić",3
-"Eduardo","Josip Pivarić",11
-"Eduardo","Marko Pjaca",4
-"Eduardo","Leonardo Sigali",23
-"Eduardo","Marko Rog",3
-"Eduardo","Jérémy Taravel",38
-"Eduardo","Domagoj Antolić",5
-"Eduardo","Junior Fernandes",27
-"Eduardo","Ante Ćorić",2
-"Eduardo","Arijan Ademi",3
-"Eduardo","Alexandru Măţel",2
-"Soudani","Ivo Pinto",20
-"Soudani","Paulo Machado",21
-"Soudani","Gonçalo Santos",13
-"Soudani","Armin Hodžić",5
-"Soudani","Josip Pivarić",3
-"Soudani","Marko Pjaca",10
-"Soudani","Leonardo Sigali",2
-"Soudani","Marko Rog",7
-"Soudani","Jérémy Taravel",1
-"Soudani","Domagoj Antolić",6
-"Soudani","Junior Fernandes",6
-"Soudani","Ante Ćorić",5
-"Soudani","Arijan Ademi",1
-"Soudani","Alexandru Măţel",5
-"Soudani","Ángelo Henríquez",1
-"Ivo Pinto","Eduardo",5
-"Ivo Pinto","Soudani",17
-"Ivo Pinto","Paulo Machado",14
-"Ivo Pinto","Gonçalo Santos",18
-"Ivo Pinto","Armin Hodžić",3
-"Ivo Pinto","Josip Pivarić",1
-"Ivo Pinto","Marko Pjaca",10
-"Ivo Pinto","Leonardo Sigali",20
-"Ivo Pinto","Marko Rog",12
-"Ivo Pinto","Jérémy Taravel",3
-"Ivo Pinto","Domagoj Antolić",11
-"Ivo Pinto","Junior Fernandes",11
-"Ivo Pinto","Ante Ćorić",3
-"Ivo Pinto","Arijan Ademi",2
-"Ivo Pinto","Ángelo Henríquez",1
-"Paulo Machado","Eduardo",2
-"Paulo Machado","Soudani",26
-"Paulo Machado","Ivo Pinto",31
-"Paulo Machado","Gonçalo Santos",28
-"Paulo Machado","Armin Hodžić",3
-"Paulo Machado","Josip Pivarić",30
-"Paulo Machado","Marko Pjaca",29
-"Paulo Machado","Leonardo Sigali",16
-"Paulo Machado","Marko Rog",19
-"Paulo Machado","Jérémy Taravel",32
-"Paulo Machado","Domagoj Antolić",22
-"Paulo Machado","Junior Fernandes",14
-"Paulo Machado","Ante Ćorić",3
-"Paulo Machado","Arijan Ademi",1
-"Paulo Machado","Filip Benković",1
-"Paulo Machado","Alexandru Măţel",19
-"Paulo Machado","Ángelo Henríquez",3
-"Gonçalo Santos","Eduardo",18
-"Gonçalo Santos","Soudani",14
-"Gonçalo Santos","Ivo Pinto",20
-"Gonçalo Santos","Paulo Machado",30
-"Gonçalo Santos","Armin Hodžić",2
-"Gonçalo Santos","Josip Pivarić",16
-"Gonçalo Santos","Marko Pjaca",13
-"Gonçalo Santos","Leonardo Sigali",25
-"Gonçalo Santos","Marko Rog",21
-"Gonçalo Santos","Jérémy Taravel",42
-"Gonçalo Santos","Domagoj Antolić",14
-"Gonçalo Santos","Junior Fernandes",7
-"Gonçalo Santos","Ante Ćorić",11
-"Gonçalo Santos","Arijan Ademi",2
-"Gonçalo Santos","Alexandru Măţel",19
-"Gonçalo Santos","Ángelo Henríquez",3
-"Gonçalo Santos","Domagoj Pavičić",2
-"Armin Hodžić","Soudani",4
-"Armin Hodžić","Ivo Pinto",2
-"Armin Hodžić","Paulo Machado",4
-"Armin Hodžić","Josip Pivarić",1
-"Armin Hodžić","Marko Pjaca",4
-"Armin Hodžić","Marko Rog",8
-"Armin Hodžić","Jérémy Taravel",3
-"Armin Hodžić","Ante Ćorić",5
-"Josip Pivarić","Eduardo",4
-"Josip Pivarić","Soudani",3
-"Josip Pivarić","Paulo Machado",19
-"Josip Pivarić","Gonçalo Santos",10
-"Josip Pivarić","Armin Hodžić",5
-"Josip Pivarić","Marko Pjaca",42
-"Josip Pivarić","Marko Rog",15
-"Josip Pivarić","Jérémy Taravel",28
-"Josip Pivarić","Domagoj Antolić",28
-"Josip Pivarić","Junior Fernandes",19
-"Josip Pivarić","Ante Ćorić",7
-"Josip Pivarić","Arijan Ademi",4
-"Josip Pivarić","Filip Benković",1
-"Josip Pivarić","Alexandru Măţel",1
-"Josip Pivarić","Ángelo Henríquez",1
-"Marko Pjaca","Soudani",10
-"Marko Pjaca","Ivo Pinto",11
-"Marko Pjaca","Paulo Machado",19
-"Marko Pjaca","Gonçalo Santos",7
-"Marko Pjaca","Armin Hodžić",10
-"Marko Pjaca","Josip Pivarić",17
-"Marko Pjaca","Leonardo Sigali",3
-"Marko Pjaca","Marko Rog",13
-"Marko Pjaca","Jérémy Taravel",7
-"Marko Pjaca","Domagoj Antolić",16
-"Marko Pjaca","Junior Fernandes",11
-"Marko Pjaca","Ante Ćorić",15
-"Marko Pjaca","Arijan Ademi",1
-"Marko Pjaca","Filip Benković",1
-"Marko Pjaca","Alexandru Măţel",4
-"Marko Pjaca","Ángelo Henríquez",1
-"Leonardo Sigali","Eduardo",28
-"Leonardo Sigali","Soudani",13
-"Leonardo Sigali","Ivo Pinto",19
-"Leonardo Sigali","Paulo Machado",16
-"Leonardo Sigali","Gonçalo Santos",21
-"Leonardo Sigali","Armin Hodžić",6
-"Leonardo Sigali","Josip Pivarić",6
-"Leonardo Sigali","Marko Pjaca",5
-"Leonardo Sigali","Marko Rog",8
-"Leonardo Sigali","Jérémy Taravel",35
-"Leonardo Sigali","Domagoj Antolić",6
-"Leonardo Sigali","Junior Fernandes",4
-"Leonardo Sigali","Ante Ćorić",3
-"Leonardo Sigali","Arijan Ademi",5
-"Marko Rog","Soudani",11
-"Marko Rog","Ivo Pinto",12
-"Marko Rog","Paulo Machado",22
-"Marko Rog","Gonçalo Santos",10
-"Marko Rog","Armin Hodžić",5
-"Marko Rog","Josip Pivarić",14
-"Marko Rog","Marko Pjaca",25
-"Marko Rog","Leonardo Sigali",4
-"Marko Rog","Jérémy Taravel",7
-"Marko Rog","Domagoj Antolić",8
-"Marko Rog","Junior Fernandes",9
-"Marko Rog","Ante Ćorić",4
-"Marko Rog","Arijan Ademi",1
-"Marko Rog","Alexandru Măţel",5
-"Marko Rog","Ángelo Henríquez",2
-"Jérémy Taravel","Eduardo",28
-"Jérémy Taravel","Soudani",14
-"Jérémy Taravel","Ivo Pinto",3
-"Jérémy Taravel","Paulo Machado",36
-"Jérémy Taravel","Gonçalo Santos",44
-"Jérémy Taravel","Armin Hodžić",1
-"Jérémy Taravel","Josip Pivarić",40
-"Jérémy Taravel","Marko Pjaca",13
-"Jérémy Taravel","Leonardo Sigali",35
-"Jérémy Taravel","Marko Rog",10
-"Jérémy Taravel","Domagoj Antolić",45
-"Jérémy Taravel","Junior Fernandes",9
-"Jérémy Taravel","Ante Ćorić",9
-"Jérémy Taravel","Arijan Ademi",14
-"Jérémy Taravel","Filip Benković",1
-"Jérémy Taravel","Alexandru Măţel",10
-"Jérémy Taravel","Ángelo Henríquez",1
-"Domagoj Antolić","Eduardo",1
-"Domagoj Antolić","Soudani",19
-"Domagoj Antolić","Ivo Pinto",10
-"Domagoj Antolić","Paulo Machado",31
-"Domagoj Antolić","Gonçalo Santos",17
-"Domagoj Antolić","Armin Hodžić",3
-"Domagoj Antolić","Josip Pivarić",39
-"Domagoj Antolić","Marko Pjaca",16
-"Domagoj Antolić","Leonardo Sigali",3
-"Domagoj Antolić","Marko Rog",15
-"Domagoj Antolić","Jérémy Taravel",35
-"Domagoj Antolić","Junior Fernandes",29
-"Domagoj Antolić","Ante Ćorić",6
-"Domagoj Antolić","Arijan Ademi",4
-"Domagoj Antolić","Filip Benković",2
-"Domagoj Antolić","Alexandru Măţel",18
-"Domagoj Antolić","Domagoj Pavičić",1
-"Junior Fernandes","Soudani",7
-"Junior Fernandes","Ivo Pinto",8
-"Junior Fernandes","Paulo Machado",16
-"Junior Fernandes","Gonçalo Santos",4
-"Junior Fernandes","Armin Hodžić",4
-"Junior Fernandes","Josip Pivarić",17
-"Junior Fernandes","Marko Pjaca",3
-"Junior Fernandes","Leonardo Sigali",1
-"Junior Fernandes","Marko Rog",11
-"Junior Fernandes","Jérémy Taravel",4
-"Junior Fernandes","Domagoj Antolić",25
-"Junior Fernandes","Ante Ćorić",5
-"Junior Fernandes","Arijan Ademi",1
-"Junior Fernandes","Alexandru Măţel",15
-"Ante Ćorić","Soudani",4
-"Ante Ćorić","Ivo Pinto",6
-"Ante Ćorić","Paulo Machado",5
-"Ante Ćorić","Gonçalo Santos",6
-"Ante Ćorić","Armin Hodžić",5
-"Ante Ćorić","Josip Pivarić",11
-"Ante Ćorić","Marko Pjaca",10
-"Ante Ćorić","Leonardo Sigali",5
-"Ante Ćorić","Marko Rog",9
-"Ante Ćorić","Jérémy Taravel",3
-"Ante Ćorić","Domagoj Antolić",6
-"Ante Ćorić","Junior Fernandes",3
-"Ante Ćorić","Alexandru Măţel",1
-"Ante Ćorić","Ángelo Henríquez",1
-"Arijan Ademi","Eduardo",7
-"Arijan Ademi","Soudani",1
-"Arijan Ademi","Domagoj Antolić",7
-"Arijan Ademi","Paulo Machado",2
-"Arijan Ademi","Junior Fernandes",1
-"Arijan Ademi","Josip Pivarić",3
-"Arijan Ademi","Marko Pjaca",3
-"Arijan Ademi","Leonardo Sigali",8
-"Arijan Ademi","Jérémy Taravel",13
-"Arijan Ademi","Filip Benković",3
-"Arijan Ademi","Marko Rog",3
-"Arijan Ademi","Gonçalo Santos",2
-"Filip Benković","Eduardo",1
-"Filip Benković","Domagoj Antolić",1
-"Filip Benković","Arijan Ademi",1
-"Filip Benković","Marko Pjaca",1
-"Filip Benković","Jérémy Taravel",2
-"Filip Benković","Alexandru Măţel",3
-"Alexandru Măţel","Eduardo",5
-"Alexandru Măţel","Soudani",9
-"Alexandru Măţel","Domagoj Antolić",18
-"Alexandru Măţel","Paulo Machado",20
-"Alexandru Măţel","Junior Fernandes",7
-"Alexandru Măţel","Arijan Ademi",2
-"Alexandru Măţel","Marko Pjaca",8
-"Alexandru Măţel","Filip Benković",1
-"Alexandru Măţel","Jérémy Taravel",16
-"Alexandru Măţel","Ángelo Henríquez",1
-"Alexandru Măţel","Gonçalo Santos",15
-"Alexandru Măţel","Marko Rog",10
-"Alexandru Măţel","Armin Hodžić",2
-"Alexandru Măţel","Leonardo Sigali",1
-"Ángelo Henríquez","Soudani",2
-"Ángelo Henríquez","Domagoj Antolić",3
-"Ángelo Henríquez","Paulo Machado",3
-"Ángelo Henríquez","Junior Fernandes",1
-"Ángelo Henríquez","Marko Pjaca",2
-"Ángelo Henríquez","Jérémy Taravel",2
-"Ángelo Henríquez","Marko Rog",3
-"Ángelo Henríquez","Ante Ćorić",1
-"Domagoj Pavičić","Soudani",2
-"Domagoj Pavičić","Gonçalo Santos",1
-"Domagoj Pavičić","Josip Pivarić",1
-"Domagoj Pavičić","Leonardo Sigali",1
-"Domagoj Pavičić","Paulo Machado",1
-"Domagoj Pavičić","Marko Pjaca",1
+Source,Target,Weight
+"34","2",11
+"34","6",7
+"34","10",4
+"34","13",5
+"34","15",3
+"34","19",11
+"34","20",4
+"34","22",23
+"34","30",3
+"34","87",38
+"34","8",5
+"34","11",27
+"34","24",2
+"34","16",3
+"34","77",2
+"2","6",20
+"2","10",21
+"2","13",13
+"2","15",5
+"2","19",3
+"2","20",10
+"2","22",2
+"2","30",7
+"2","87",1
+"2","8",6
+"2","11",6
+"2","24",5
+"2","16",1
+"2","77",5
+"2","9",1
+"6","34",5
+"6","2",17
+"6","10",14
+"6","13",18
+"6","15",3
+"6","19",1
+"6","20",10
+"6","22",20
+"6","30",12
+"6","87",3
+"6","8",11
+"6","11",11
+"6","24",3
+"6","16",2
+"6","9",1
+"10","34",2
+"10","2",26
+"10","6",31
+"10","13",28
+"10","15",3
+"10","19",30
+"10","20",29
+"10","22",16
+"10","30",19
+"10","87",32
+"10","8",22
+"10","11",14
+"10","24",3
+"10","16",1
+"10","26",1
+"10","77",19
+"10","9",3
+"13","34",18
+"13","2",14
+"13","6",20
+"13","10",30
+"13","15",2
+"13","19",16
+"13","20",13
+"13","22",25
+"13","30",21
+"13","87",42
+"13","8",14
+"13","11",7
+"13","24",11
+"13","16",2
+"13","77",19
+"13","9",3
+"13","18",2
+"15","2",4
+"15","6",2
+"15","10",4
+"15","19",1
+"15","20",4
+"15","30",8
+"15","87",3
+"15","24",5
+"19","34",4
+"19","2",3
+"19","10",19
+"19","13",10
+"19","15",5
+"19","20",42
+"19","30",15
+"19","87",28
+"19","8",28
+"19","11",19
+"19","24",7
+"19","16",4
+"19","26",1
+"19","77",1
+"19","9",1
+"20","2",10
+"20","6",11
+"20","10",19
+"20","13",7
+"20","15",10
+"20","19",17
+"20","22",3
+"20","30",13
+"20","87",7
+"20","8",16
+"20","11",11
+"20","24",15
+"20","16",1
+"20","26",1
+"20","77",4
+"20","9",1
+"22","34",28
+"22","2",13
+"22","6",19
+"22","10",16
+"22","13",21
+"22","15",6
+"22","19",6
+"22","20",5
+"22","30",8
+"22","87",35
+"22","8",6
+"22","11",4
+"22","24",3
+"22","16",5
+"30","2",11
+"30","6",12
+"30","10",22
+"30","13",10
+"30","15",5
+"30","19",14
+"30","20",25
+"30","22",4
+"30","87",7
+"30","8",8
+"30","11",9
+"30","24",4
+"30","16",1
+"30","77",5
+"30","9",2
+"87","34",28
+"87","2",14
+"87","6",3
+"87","10",36
+"87","13",44
+"87","15",1
+"87","19",40
+"87","20",13
+"87","22",35
+"87","30",10
+"87","8",45
+"87","11",9
+"87","24",9
+"87","16",14
+"87","26",1
+"87","77",10
+"87","9",1
+"8","34",1
+"8","2",19
+"8","6",10
+"8","10",31
+"8","13",17
+"8","15",3
+"8","19",39
+"8","20",16
+"8","22",3
+"8","30",15
+"8","87",35
+"8","11",29
+"8","24",6
+"8","16",4
+"8","26",2
+"8","77",18
+"8","18",1
+"11","2",7
+"11","6",8
+"11","10",16
+"11","13",4
+"11","15",4
+"11","19",17
+"11","20",3
+"11","22",1
+"11","30",11
+"11","87",4
+"11","8",25
+"11","24",5
+"11","16",1
+"11","77",15
+"24","2",4
+"24","6",6
+"24","10",5
+"24","13",6
+"24","15",5
+"24","19",11
+"24","20",10
+"24","22",5
+"24","30",9
+"24","87",3
+"24","8",6
+"24","11",3
+"24","77",1
+"24","9",1
+"16","34",7
+"16","2",1
+"16","8",7
+"16","10",2
+"16","11",1
+"16","19",3
+"16","20",3
+"16","22",8
+"16","87",13
+"16","26",3
+"16","30",3
+"16","13",2
+"26","34",1
+"26","8",1
+"26","16",1
+"26","20",1
+"26","87",2
+"26","77",3
+"77","34",5
+"77","2",9
+"77","8",18
+"77","10",20
+"77","11",7
+"77","16",2
+"77","20",8
+"77","26",1
+"77","87",16
+"77","9",1
+"77","13",15
+"77","30",10
+"77","15",2
+"77","22",1
+"9","2",2
+"9","8",3
+"9","10",3
+"9","11",1
+"9","20",2
+"9","87",2
+"9","30",3
+"9","24",1
+"18","2",2
+"18","13",1
+"18","19",1
+"18","22",1
+"18","10",1
+"18","20",1

@@ -1,243 +1,244 @@
-"Matúš Kozáčik","Tomáš Hořava",14
-"Matúš Kozáčik","David Limberský",10
-"Matúš Kozáčik","Pavel Horváth",10
-"Matúš Kozáčik","Milan Petržela",6
-"Matúš Kozáčik","Radim Řezník",7
-"Matúš Kozáčik","Vladimír Darida",2
-"Matúš Kozáčik","Jan Kovařík",4
-"Matúš Kozáčik","Václav Procházka",38
-"Matúš Kozáčik","Marián Čišovský",14
-"Matúš Kozáčik","Stanislav Tecl",5
-"Matúš Kozáčik","Michal Ďuriš",8
-"Matúš Kozáčik","František Rajtoral",21
-"Matúš Kozáčik","Daniel Kolář",9
-"Matúš Kozáčik","Lukáš Hejda",4
-"Matúš Kozáčik","Marek Bakoš",7
-"Matúš Kozáčik","Roman Hubník",15
-"Tomáš Hořava","Matúš Kozáčik",3
-"Tomáš Hořava","David Limberský",31
-"Tomáš Hořava","Pavel Horváth",52
-"Tomáš Hořava","Milan Petržela",25
-"Tomáš Hořava","Radim Řezník",19
-"Tomáš Hořava","Vladimír Darida",4
-"Tomáš Hořava","Jan Kovařík",20
-"Tomáš Hořava","Václav Procházka",29
-"Tomáš Hořava","Marián Čišovský",16
-"Tomáš Hořava","Stanislav Tecl",7
-"Tomáš Hořava","Michal Ďuriš",18
-"Tomáš Hořava","František Rajtoral",37
-"Tomáš Hořava","Daniel Kolář",23
-"Tomáš Hořava","Lukáš Hejda",1
-"Tomáš Hořava","Marek Bakoš",3
-"Tomáš Hořava","Roman Hubník",14
-"David Limberský","Matúš Kozáčik",16
-"David Limberský","Tomáš Hořava",24
-"David Limberský","Pavel Horváth",37
-"David Limberský","Milan Petržela",11
-"David Limberský","Tomáš Wágner",2
-"David Limberský","Vladimír Darida",9
-"David Limberský","Jan Kovařík",22
-"David Limberský","Václav Procházka",21
-"David Limberský","Marián Čišovský",10
-"David Limberský","Stanislav Tecl",3
-"David Limberský","Michal Ďuriš",12
-"David Limberský","František Rajtoral",5
-"David Limberský","Daniel Kolář",6
-"David Limberský","Marek Bakoš",1
-"David Limberský","Roman Hubník",1
-"Pavel Horváth","Matúš Kozáčik",1
-"Pavel Horváth","Tomáš Hořava",43
-"Pavel Horváth","David Limberský",35
-"Pavel Horváth","Milan Petržela",44
-"Pavel Horváth","Radim Řezník",15
-"Pavel Horváth","Vladimír Darida",21
-"Pavel Horváth","Jan Kovařík",21
-"Pavel Horváth","Václav Procházka",38
-"Pavel Horváth","Marián Čišovský",7
-"Pavel Horváth","Stanislav Tecl",14
-"Pavel Horváth","Michal Ďuriš",22
-"Pavel Horváth","František Rajtoral",57
-"Pavel Horváth","Daniel Kolář",35
-"Pavel Horváth","Lukáš Hejda",2
-"Pavel Horváth","Marek Bakoš",10
-"Pavel Horváth","Roman Hubník",19
-"Pavel Horváth","Martin Pospíšil",1
-"Milan Petržela","Matúš Kozáčik",2
-"Milan Petržela","Tomáš Hořava",17
-"Milan Petržela","David Limberský",3
-"Milan Petržela","Pavel Horváth",24
-"Milan Petržela","Radim Řezník",3
-"Milan Petržela","Vladimír Darida",8
-"Milan Petržela","Jan Kovařík",1
-"Milan Petržela","Václav Procházka",3
-"Milan Petržela","Stanislav Tecl",14
-"Milan Petržela","Michal Ďuriš",5
-"Milan Petržela","František Rajtoral",37
-"Milan Petržela","Daniel Kolář",16
-"Milan Petržela","Lukáš Hejda",1
-"Milan Petržela","Marek Bakoš",4
-"Milan Petržela","Roman Hubník",1
-"Radim Řezník","Matúš Kozáčik",5
-"Radim Řezník","Tomáš Hořava",18
-"Radim Řezník","Pavel Horváth",16
-"Radim Řezník","Milan Petržela",2
-"Radim Řezník","Tomáš Wágner",3
-"Radim Řezník","Vladimír Darida",6
-"Radim Řezník","Jan Kovařík",7
-"Radim Řezník","Václav Procházka",15
-"Radim Řezník","Marián Čišovský",9
-"Radim Řezník","Stanislav Tecl",2
-"Radim Řezník","František Rajtoral",5
-"Radim Řezník","Daniel Kolář",7
-"Radim Řezník","Roman Hubník",3
-"Tomáš Wágner","Matúš Kozáčik",1
-"Tomáš Wágner","Tomáš Hořava",1
-"Tomáš Wágner","Pavel Horváth",1
-"Tomáš Wágner","Milan Petržela",2
-"Tomáš Wágner","Vladimír Darida",4
-"Tomáš Wágner","Jan Kovařík",1
-"Vladimír Darida","Tomáš Hořava",13
-"Vladimír Darida","David Limberský",12
-"Vladimír Darida","Pavel Horváth",12
-"Vladimír Darida","Milan Petržela",5
-"Vladimír Darida","Radim Řezník",3
-"Vladimír Darida","Tomáš Wágner",3
-"Vladimír Darida","Jan Kovařík",6
-"Vladimír Darida","Václav Procházka",1
-"Vladimír Darida","Marián Čišovský",6
-"Vladimír Darida","Stanislav Tecl",3
-"Jan Kovařík","Matúš Kozáčik",1
-"Jan Kovařík","Tomáš Hořava",15
-"Jan Kovařík","David Limberský",17
-"Jan Kovařík","Pavel Horváth",16
-"Jan Kovařík","Milan Petržela",3
-"Jan Kovařík","Radim Řezník",6
-"Jan Kovařík","Tomáš Wágner",3
-"Jan Kovařík","Vladimír Darida",8
-"Jan Kovařík","Václav Procházka",13
-"Jan Kovařík","Marián Čišovský",1
-"Jan Kovařík","Stanislav Tecl",3
-"Jan Kovařík","František Rajtoral",5
-"Jan Kovařík","Daniel Kolář",5
-"Jan Kovařík","Marek Bakoš",6
-"Jan Kovařík","Roman Hubník",1
-"Václav Procházka","Matúš Kozáčik",17
-"Václav Procházka","Tomáš Hořava",44
-"Václav Procházka","David Limberský",30
-"Václav Procházka","Pavel Horváth",37
-"Václav Procházka","Milan Petržela",6
-"Václav Procházka","Radim Řezník",18
-"Václav Procházka","Tomáš Wágner",2
-"Václav Procházka","Vladimír Darida",7
-"Václav Procházka","Jan Kovařík",10
-"Václav Procházka","Marián Čišovský",20
-"Václav Procházka","Stanislav Tecl",4
-"Václav Procházka","Michal Ďuriš",8
-"Václav Procházka","František Rajtoral",20
-"Václav Procházka","Daniel Kolář",17
-"Václav Procházka","Marek Bakoš",2
-"Václav Procházka","Roman Hubník",17
-"Václav Procházka","Martin Pospíšil",1
-"Marián Čišovský","Matúš Kozáčik",10
-"Marián Čišovský","Tomáš Hořava",10
-"Marián Čišovský","David Limberský",9
-"Marián Čišovský","Pavel Horváth",20
-"Marián Čišovský","Milan Petržela",3
-"Marián Čišovský","Radim Řezník",4
-"Marián Čišovský","Tomáš Wágner",3
-"Marián Čišovský","Vladimír Darida",1
-"Marián Čišovský","Jan Kovařík",2
-"Marián Čišovský","Václav Procházka",20
-"Marián Čišovský","Stanislav Tecl",4
-"Marián Čišovský","Michal Ďuriš",6
-"Marián Čišovský","František Rajtoral",15
-"Marián Čišovský","Daniel Kolář",4
-"Marián Čišovský","Roman Hubník",1
-"Marián Čišovský","Martin Pospíšil",1
-"Stanislav Tecl","Tomáš Hořava",12
-"Stanislav Tecl","David Limberský",3
-"Stanislav Tecl","Pavel Horváth",6
-"Stanislav Tecl","Milan Petržela",8
-"Stanislav Tecl","Vladimír Darida",1
-"Stanislav Tecl","Jan Kovařík",1
-"Stanislav Tecl","Michal Ďuriš",5
-"Stanislav Tecl","František Rajtoral",6
-"Stanislav Tecl","Daniel Kolář",8
-"Stanislav Tecl","Marek Bakoš",2
-"Stanislav Tecl","Martin Pospíšil",2
-"Michal Ďuriš","Matúš Kozáčik",1
-"Michal Ďuriš","Tomáš Hořava",9
-"Michal Ďuriš","David Limberský",10
-"Michal Ďuriš","Pavel Horváth",19
-"Michal Ďuriš","Milan Petržela",6
-"Michal Ďuriš","Vladimír Darida",3
-"Michal Ďuriš","Jan Kovařík",1
-"Michal Ďuriš","Václav Procházka",3
-"Michal Ďuriš","Stanislav Tecl",2
-"Michal Ďuriš","František Rajtoral",7
-"Michal Ďuriš","Daniel Kolář",10
-"Michal Ďuriš","Marek Bakoš",1
-"Michal Ďuriš","Roman Hubník",7
-"František Rajtoral","Matúš Kozáčik",16
-"František Rajtoral","Tomáš Hořava",46
-"František Rajtoral","David Limberský",3
-"František Rajtoral","Pavel Horváth",57
-"František Rajtoral","Milan Petržela",43
-"František Rajtoral","Radim Řezník",7
-"František Rajtoral","Tomáš Wágner",1
-"František Rajtoral","Vladimír Darida",6
-"František Rajtoral","Jan Kovařík",2
-"František Rajtoral","Václav Procházka",24
-"František Rajtoral","Marián Čišovský",10
-"František Rajtoral","Stanislav Tecl",19
-"František Rajtoral","Michal Ďuriš",6
-"František Rajtoral","Daniel Kolář",25
-"František Rajtoral","Roman Hubník",20
-"František Rajtoral","Martin Pospíšil",3
-"Daniel Kolář","Tomáš Hořava",20
-"Daniel Kolář","David Limberský",4
-"Daniel Kolář","Stanislav Tecl",9
-"Daniel Kolář","Pavel Horváth",31
-"Daniel Kolář","Radim Řezník",4
-"Daniel Kolář","Jan Kovařík",4
-"Daniel Kolář","Václav Procházka",7
-"Daniel Kolář","František Rajtoral",17
-"Daniel Kolář","Marián Čišovský",6
-"Daniel Kolář","Milan Petržela",22
-"Daniel Kolář","Michal Ďuriš",9
-"Daniel Kolář","Marek Bakoš",9
-"Daniel Kolář","Roman Hubník",3
-"Lukáš Hejda","Matúš Kozáčik",3
-"Lukáš Hejda","Tomáš Hořava",2
-"Lukáš Hejda","Pavel Horváth",2
-"Lukáš Hejda","Milan Petržela",1
-"Lukáš Hejda","Václav Procházka",1
-"Marek Bakoš","Tomáš Hořava",5
-"Marek Bakoš","Pavel Horváth",9
-"Marek Bakoš","Milan Petržela",2
-"Marek Bakoš","Jan Kovařík",2
-"Marek Bakoš","Václav Procházka",2
-"Marek Bakoš","Daniel Kolář",7
-"Marek Bakoš","František Rajtoral",4
-"Marek Bakoš","Michal Ďuriš",1
-"Roman Hubník","Matúš Kozáčik",15
-"Roman Hubník","Tomáš Hořava",13
-"Roman Hubník","David Limberský",1
-"Roman Hubník","Pavel Horváth",12
-"Roman Hubník","Milan Petržela",3
-"Roman Hubník","Jan Kovařík",6
-"Roman Hubník","Václav Procházka",25
-"Roman Hubník","Marek Bakoš",3
-"Roman Hubník","Daniel Kolář",1
-"Roman Hubník","František Rajtoral",17
-"Roman Hubník","Stanislav Tecl",2
-"Roman Hubník","Michal Ďuriš",9
-"Roman Hubník","Radim Řezník",4
-"Roman Hubník","Martin Pospíšil",1
-"Roman Hubník","Marián Čišovský",2
-"Martin Pospíšil","Tomáš Hořava",1
-"Martin Pospíšil","Pavel Horváth",1
-"Martin Pospíšil","Milan Petržela",1
-"Martin Pospíšil","Václav Procházka",2
-"Martin Pospíšil","František Rajtoral",3
-"Martin Pospíšil","Stanislav Tecl",2
+Source,Target,Weight
+"1","7",14
+"1","8",10
+"1","10",10
+"1","11",6
+"1","14",7
+"1","16",2
+"1","19",4
+"1","21",38
+"1","28",14
+"1","9",5
+"1","12",8
+"1","27",21
+"1","26",9
+"1","2",4
+"1","23",7
+"1","4",15
+"7","1",3
+"7","8",31
+"7","10",52
+"7","11",25
+"7","14",19
+"7","16",4
+"7","19",20
+"7","21",29
+"7","28",16
+"7","9",7
+"7","12",18
+"7","27",37
+"7","26",23
+"7","2",1
+"7","23",3
+"7","4",14
+"8","1",16
+"8","7",24
+"8","10",37
+"8","11",11
+"8","15",2
+"8","16",9
+"8","19",22
+"8","21",21
+"8","28",10
+"8","9",3
+"8","12",12
+"8","27",5
+"8","26",6
+"8","23",1
+"8","4",1
+"10","1",1
+"10","7",43
+"10","8",35
+"10","11",44
+"10","14",15
+"10","16",21
+"10","19",21
+"10","21",38
+"10","28",7
+"10","9",14
+"10","12",22
+"10","27",57
+"10","26",35
+"10","2",2
+"10","23",10
+"10","4",19
+"10","24",1
+"11","1",2
+"11","7",17
+"11","8",3
+"11","10",24
+"11","14",3
+"11","16",8
+"11","19",1
+"11","21",3
+"11","9",14
+"11","12",5
+"11","27",37
+"11","26",16
+"11","2",1
+"11","23",4
+"11","4",1
+"14","1",5
+"14","7",18
+"14","10",16
+"14","11",2
+"14","15",3
+"14","16",6
+"14","19",7
+"14","21",15
+"14","28",9
+"14","9",2
+"14","27",5
+"14","26",7
+"14","4",3
+"15","1",1
+"15","7",1
+"15","10",1
+"15","11",2
+"15","16",4
+"15","19",1
+"16","7",13
+"16","8",12
+"16","10",12
+"16","11",5
+"16","14",3
+"16","15",3
+"16","19",6
+"16","21",1
+"16","28",6
+"16","9",3
+"19","1",1
+"19","7",15
+"19","8",17
+"19","10",16
+"19","11",3
+"19","14",6
+"19","15",3
+"19","16",8
+"19","21",13
+"19","28",1
+"19","9",3
+"19","27",5
+"19","26",5
+"19","23",6
+"19","4",1
+"21","1",17
+"21","7",44
+"21","8",30
+"21","10",37
+"21","11",6
+"21","14",18
+"21","15",2
+"21","16",7
+"21","19",10
+"21","28",20
+"21","9",4
+"21","12",8
+"21","27",20
+"21","26",17
+"21","23",2
+"21","4",17
+"21","24",1
+"28","1",10
+"28","7",10
+"28","8",9
+"28","10",20
+"28","11",3
+"28","14",4
+"28","15",3
+"28","16",1
+"28","19",2
+"28","21",20
+"28","9",4
+"28","12",6
+"28","27",15
+"28","26",4
+"28","4",1
+"28","24",1
+"9","7",12
+"9","8",3
+"9","10",6
+"9","11",8
+"9","16",1
+"9","19",1
+"9","12",5
+"9","27",6
+"9","26",8
+"9","23",2
+"9","24",2
+"12","1",1
+"12","7",9
+"12","8",10
+"12","10",19
+"12","11",6
+"12","16",3
+"12","19",1
+"12","21",3
+"12","9",2
+"12","27",7
+"12","26",10
+"12","23",1
+"12","4",7
+"27","1",16
+"27","7",46
+"27","8",3
+"27","10",57
+"27","11",43
+"27","14",7
+"27","15",1
+"27","16",6
+"27","19",2
+"27","21",24
+"27","28",10
+"27","9",19
+"27","12",6
+"27","26",25
+"27","4",20
+"27","24",3
+"26","7",20
+"26","8",4
+"26","9",9
+"26","10",31
+"26","14",4
+"26","19",4
+"26","21",7
+"26","27",17
+"26","28",6
+"26","11",22
+"26","12",9
+"26","23",9
+"26","4",3
+"2","1",3
+"2","7",2
+"2","10",2
+"2","11",1
+"2","21",1
+"23","7",5
+"23","10",9
+"23","11",2
+"23","19",2
+"23","21",2
+"23","26",7
+"23","27",4
+"23","12",1
+"4","1",15
+"4","7",13
+"4","8",1
+"4","10",12
+"4","11",3
+"4","19",6
+"4","21",25
+"4","23",3
+"4","26",1
+"4","27",17
+"4","9",2
+"4","12",9
+"4","14",4
+"4","24",1
+"4","28",2
+"24","7",1
+"24","10",1
+"24","11",1
+"24","21",2
+"24","27",3
+"24","9",2

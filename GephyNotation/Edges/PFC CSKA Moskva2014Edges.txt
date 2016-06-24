@@ -1,268 +1,269 @@
-"Igor Akinfeev","Pontus Wernbloom",10
-"Igor Akinfeev","Sergei Ignashevich",17
-"Igor Akinfeev","Keisuke Honda",12
-"Igor Akinfeev","Steven Zuber",7
-"Igor Akinfeev","Kirill Nababkin",6
-"Igor Akinfeev","Ahmed Musa",10
-"Igor Akinfeev","Aleksandrs Cauņa",1
-"Igor Akinfeev","Vasili Berezutski",4
-"Igor Akinfeev","Georgi Schennikov",7
-"Igor Akinfeev","Zoran Tošić",10
-"Igor Akinfeev","Georgi Milanov",4
-"Igor Akinfeev","Konstantin Bazelyuk",2
-"Igor Akinfeev","Aleksei Berezutski",13
-"Igor Akinfeev","Rasmus Elm",6
-"Igor Akinfeev","Mark González",1
-"Igor Akinfeev","Seydou Doumbia",3
-"Igor Akinfeev","Alan Dzagoev",2
-"Pontus Wernbloom","Igor Akinfeev",5
-"Pontus Wernbloom","Sergei Ignashevich",28
-"Pontus Wernbloom","Keisuke Honda",22
-"Pontus Wernbloom","Steven Zuber",11
-"Pontus Wernbloom","Kirill Nababkin",25
-"Pontus Wernbloom","Ahmed Musa",9
-"Pontus Wernbloom","Aleksandrs Cauņa",1
-"Pontus Wernbloom","Vasili Berezutski",4
-"Pontus Wernbloom","Vitinho",3
-"Pontus Wernbloom","Georgi Schennikov",22
-"Pontus Wernbloom","Zoran Tošić",32
-"Pontus Wernbloom","Georgi Milanov",21
-"Pontus Wernbloom","Konstantin Bazelyuk",3
-"Pontus Wernbloom","Aleksei Berezutski",25
-"Pontus Wernbloom","Rasmus Elm",23
-"Pontus Wernbloom","Mark González",1
-"Pontus Wernbloom","Seydou Doumbia",8
-"Pontus Wernbloom","Alan Dzagoev",5
-"Pontus Wernbloom","Vyacheslav Karavaev",3
-"Sergei Ignashevich","Igor Akinfeev",24
-"Sergei Ignashevich","Pontus Wernbloom",21
-"Sergei Ignashevich","Keisuke Honda",21
-"Sergei Ignashevich","Steven Zuber",14
-"Sergei Ignashevich","Kirill Nababkin",19
-"Sergei Ignashevich","Ahmed Musa",10
-"Sergei Ignashevich","Aleksandrs Cauņa",4
-"Sergei Ignashevich","Vasili Berezutski",10
-"Sergei Ignashevich","Vitinho",1
-"Sergei Ignashevich","Georgi Schennikov",33
-"Sergei Ignashevich","Zoran Tošić",11
-"Sergei Ignashevich","Georgi Milanov",13
-"Sergei Ignashevich","Konstantin Bazelyuk",1
-"Sergei Ignashevich","Aleksei Berezutski",27
-"Sergei Ignashevich","Rasmus Elm",17
-"Sergei Ignashevich","Mark González",2
-"Sergei Ignashevich","Seydou Doumbia",4
-"Sergei Ignashevich","Alan Dzagoev",5
-"Sergei Ignashevich","Vyacheslav Karavaev",3
-"Keisuke Honda","Pontus Wernbloom",28
-"Keisuke Honda","Sergei Ignashevich",11
-"Keisuke Honda","Steven Zuber",16
-"Keisuke Honda","Kirill Nababkin",19
-"Keisuke Honda","Ahmed Musa",23
-"Keisuke Honda","Aleksandrs Cauņa",2
-"Keisuke Honda","Vasili Berezutski",1
-"Keisuke Honda","Vitinho",5
-"Keisuke Honda","Georgi Schennikov",20
-"Keisuke Honda","Zoran Tošić",37
-"Keisuke Honda","Georgi Milanov",22
-"Keisuke Honda","Konstantin Bazelyuk",2
-"Keisuke Honda","Aleksei Berezutski",8
-"Keisuke Honda","Rasmus Elm",16
-"Keisuke Honda","Mark González",2
-"Keisuke Honda","Seydou Doumbia",10
-"Keisuke Honda","Alan Dzagoev",6
-"Steven Zuber","Igor Akinfeev",2
-"Steven Zuber","Pontus Wernbloom",16
-"Steven Zuber","Sergei Ignashevich",8
-"Steven Zuber","Keisuke Honda",10
-"Steven Zuber","Kirill Nababkin",10
-"Steven Zuber","Ahmed Musa",6
-"Steven Zuber","Vasili Berezutski",1
-"Steven Zuber","Georgi Schennikov",15
-"Steven Zuber","Zoran Tošić",6
-"Steven Zuber","Georgi Milanov",2
-"Steven Zuber","Aleksei Berezutski",1
-"Steven Zuber","Rasmus Elm",7
-"Steven Zuber","Seydou Doumbia",6
-"Steven Zuber","Vyacheslav Karavaev",1
-"Kirill Nababkin","Igor Akinfeev",10
-"Kirill Nababkin","Pontus Wernbloom",36
-"Kirill Nababkin","Sergei Ignashevich",8
-"Kirill Nababkin","Keisuke Honda",35
-"Kirill Nababkin","Steven Zuber",9
-"Kirill Nababkin","Ahmed Musa",6
-"Kirill Nababkin","Aleksandrs Cauņa",1
-"Kirill Nababkin","Vasili Berezutski",9
-"Kirill Nababkin","Vitinho",1
-"Kirill Nababkin","Georgi Schennikov",2
-"Kirill Nababkin","Zoran Tošić",60
-"Kirill Nababkin","Georgi Milanov",6
-"Kirill Nababkin","Aleksei Berezutski",22
-"Kirill Nababkin","Rasmus Elm",11
-"Kirill Nababkin","Seydou Doumbia",5
-"Ahmed Musa","Pontus Wernbloom",3
-"Ahmed Musa","Sergei Ignashevich",3
-"Ahmed Musa","Keisuke Honda",15
-"Ahmed Musa","Steven Zuber",7
-"Ahmed Musa","Kirill Nababkin",3
-"Ahmed Musa","Aleksandrs Cauņa",1
-"Ahmed Musa","Vasili Berezutski",1
-"Ahmed Musa","Georgi Schennikov",5
-"Ahmed Musa","Zoran Tošić",16
-"Ahmed Musa","Georgi Milanov",8
-"Ahmed Musa","Aleksei Berezutski",1
-"Ahmed Musa","Rasmus Elm",2
-"Ahmed Musa","Alan Dzagoev",5
-"Ahmed Musa","Vyacheslav Karavaev",3
-"Aleksandrs Cauņa","Igor Akinfeev",1
-"Aleksandrs Cauņa","Pontus Wernbloom",5
-"Aleksandrs Cauņa","Sergei Ignashevich",2
-"Aleksandrs Cauņa","Keisuke Honda",3
-"Aleksandrs Cauņa","Kirill Nababkin",2
-"Aleksandrs Cauņa","Vasili Berezutski",3
-"Aleksandrs Cauņa","Vitinho",4
-"Aleksandrs Cauņa","Georgi Schennikov",2
-"Aleksandrs Cauņa","Zoran Tošić",1
-"Aleksandrs Cauņa","Georgi Milanov",2
-"Aleksandrs Cauņa","Konstantin Bazelyuk",1
-"Vasili Berezutski","Igor Akinfeev",3
-"Vasili Berezutski","Pontus Wernbloom",8
-"Vasili Berezutski","Sergei Ignashevich",8
-"Vasili Berezutski","Keisuke Honda",2
-"Vasili Berezutski","Steven Zuber",3
-"Vasili Berezutski","Kirill Nababkin",13
-"Vasili Berezutski","Ahmed Musa",1
-"Vasili Berezutski","Aleksandrs Cauņa",3
-"Vasili Berezutski","Vitinho",1
-"Vasili Berezutski","Georgi Schennikov",1
-"Vasili Berezutski","Zoran Tošić",2
-"Vasili Berezutski","Georgi Milanov",1
-"Vitinho","Igor Akinfeev",1
-"Vitinho","Pontus Wernbloom",1
-"Vitinho","Keisuke Honda",1
-"Vitinho","Steven Zuber",3
-"Vitinho","Kirill Nababkin",1
-"Vitinho","Ahmed Musa",1
-"Vitinho","Aleksandrs Cauņa",1
-"Vitinho","Georgi Schennikov",4
-"Vitinho","Georgi Milanov",1
-"Vitinho","Seydou Doumbia",2
-"Georgi Schennikov","Igor Akinfeev",7
-"Georgi Schennikov","Pontus Wernbloom",14
-"Georgi Schennikov","Sergei Ignashevich",41
-"Georgi Schennikov","Keisuke Honda",15
-"Georgi Schennikov","Steven Zuber",20
-"Georgi Schennikov","Kirill Nababkin",1
-"Georgi Schennikov","Ahmed Musa",6
-"Georgi Schennikov","Aleksandrs Cauņa",5
-"Georgi Schennikov","Vasili Berezutski",1
-"Georgi Schennikov","Vitinho",5
-"Georgi Schennikov","Zoran Tošić",3
-"Georgi Schennikov","Georgi Milanov",30
-"Georgi Schennikov","Konstantin Bazelyuk",1
-"Georgi Schennikov","Aleksei Berezutski",6
-"Georgi Schennikov","Rasmus Elm",19
-"Georgi Schennikov","Mark González",2
-"Georgi Schennikov","Seydou Doumbia",8
-"Georgi Schennikov","Alan Dzagoev",4
-"Georgi Schennikov","Vyacheslav Karavaev",1
-"Zoran Tošić","Igor Akinfeev",1
-"Zoran Tošić","Pontus Wernbloom",27
-"Zoran Tošić","Sergei Ignashevich",3
-"Zoran Tošić","Keisuke Honda",48
-"Zoran Tošić","Steven Zuber",3
-"Zoran Tošić","Kirill Nababkin",39
-"Zoran Tošić","Ahmed Musa",8
-"Zoran Tošić","Aleksandrs Cauņa",3
-"Zoran Tošić","Vasili Berezutski",4
-"Zoran Tošić","Vitinho",1
-"Zoran Tošić","Georgi Schennikov",2
-"Zoran Tošić","Georgi Milanov",13
-"Zoran Tošić","Konstantin Bazelyuk",1
-"Zoran Tošić","Aleksei Berezutski",7
-"Zoran Tošić","Rasmus Elm",19
-"Zoran Tošić","Seydou Doumbia",8
-"Zoran Tošić","Alan Dzagoev",2
-"Zoran Tošić","Vyacheslav Karavaev",3
-"Georgi Milanov","Igor Akinfeev",2
-"Georgi Milanov","Pontus Wernbloom",17
-"Georgi Milanov","Sergei Ignashevich",9
-"Georgi Milanov","Keisuke Honda",21
-"Georgi Milanov","Steven Zuber",8
-"Georgi Milanov","Kirill Nababkin",5
-"Georgi Milanov","Ahmed Musa",12
-"Georgi Milanov","Vitinho",1
-"Georgi Milanov","Georgi Schennikov",23
-"Georgi Milanov","Zoran Tošić",21
-"Georgi Milanov","Konstantin Bazelyuk",1
-"Georgi Milanov","Aleksei Berezutski",8
-"Georgi Milanov","Rasmus Elm",6
-"Georgi Milanov","Seydou Doumbia",3
-"Georgi Milanov","Alan Dzagoev",6
-"Georgi Milanov","Vyacheslav Karavaev",1
-"Konstantin Bazelyuk","Keisuke Honda",7
-"Konstantin Bazelyuk","Zoran Tošić",2
-"Konstantin Bazelyuk","Georgi Milanov",3
-"Konstantin Bazelyuk","Rasmus Elm",1
-"Aleksei Berezutski","Igor Akinfeev",19
-"Aleksei Berezutski","Pontus Wernbloom",14
-"Aleksei Berezutski","Sergei Ignashevich",48
-"Aleksei Berezutski","Keisuke Honda",6
-"Aleksei Berezutski","Steven Zuber",4
-"Aleksei Berezutski","Kirill Nababkin",23
-"Aleksei Berezutski","Ahmed Musa",1
-"Aleksei Berezutski","Rasmus Elm",11
-"Aleksei Berezutski","Zoran Tošić",14
-"Aleksei Berezutski","Georgi Schennikov",6
-"Aleksei Berezutski","Mark González",1
-"Aleksei Berezutski","Georgi Milanov",11
-"Aleksei Berezutski","Alan Dzagoev",1
-"Aleksei Berezutski","Vyacheslav Karavaev",2
-"Rasmus Elm","Igor Akinfeev",1
-"Rasmus Elm","Pontus Wernbloom",15
-"Rasmus Elm","Sergei Ignashevich",16
-"Rasmus Elm","Aleksei Berezutski",13
-"Rasmus Elm","Keisuke Honda",17
-"Rasmus Elm","Steven Zuber",15
-"Rasmus Elm","Kirill Nababkin",13
-"Rasmus Elm","Ahmed Musa",4
-"Rasmus Elm","Zoran Tošić",22
-"Rasmus Elm","Georgi Schennikov",19
-"Rasmus Elm","Georgi Milanov",3
-"Rasmus Elm","Seydou Doumbia",4
-"Rasmus Elm","Konstantin Bazelyuk",3
-"Rasmus Elm","Alan Dzagoev",8
-"Rasmus Elm","Vyacheslav Karavaev",2
-"Mark González","Sergei Ignashevich",1
-"Mark González","Aleksei Berezutski",2
-"Mark González","Keisuke Honda",3
-"Mark González","Kirill Nababkin",1
-"Mark González","Ahmed Musa",1
-"Seydou Doumbia","Pontus Wernbloom",3
-"Seydou Doumbia","Sergei Ignashevich",1
-"Seydou Doumbia","Keisuke Honda",7
-"Seydou Doumbia","Steven Zuber",2
-"Seydou Doumbia","Kirill Nababkin",5
-"Seydou Doumbia","Zoran Tošić",6
-"Seydou Doumbia","Georgi Milanov",6
-"Seydou Doumbia","Ahmed Musa",1
-"Seydou Doumbia","Rasmus Elm",3
-"Alan Dzagoev","Pontus Wernbloom",4
-"Alan Dzagoev","Sergei Ignashevich",1
-"Alan Dzagoev","Aleksei Berezutski",1
-"Alan Dzagoev","Ahmed Musa",7
-"Alan Dzagoev","Rasmus Elm",6
-"Alan Dzagoev","Zoran Tošić",2
-"Alan Dzagoev","Georgi Milanov",4
-"Alan Dzagoev","Vyacheslav Karavaev",2
-"Alan Dzagoev","Keisuke Honda",5
-"Vyacheslav Karavaev","Igor Akinfeev",2
-"Vyacheslav Karavaev","Pontus Wernbloom",4
-"Vyacheslav Karavaev","Sergei Ignashevich",1
-"Vyacheslav Karavaev","Aleksei Berezutski",1
-"Vyacheslav Karavaev","Alan Dzagoev",3
-"Vyacheslav Karavaev","Ahmed Musa",3
-"Vyacheslav Karavaev","Rasmus Elm",3
-"Vyacheslav Karavaev","Zoran Tošić",6
-"Vyacheslav Karavaev","Georgi Schennikov",1
-"Vyacheslav Karavaev","Keisuke Honda",1
-"Vyacheslav Karavaev","Steven Zuber",1
+Source,Target,Weight
+"35","3",10
+"35","4",17
+"35","7",12
+"35","8",7
+"35","14",6
+"35","18",10
+"35","19",1
+"35","24",4
+"35","42",7
+"35","21",10
+"35","23",4
+"35","71",2
+"35","6",13
+"35","20",6
+"35","11",1
+"35","88",3
+"35","10",2
+"3","35",5
+"3","4",28
+"3","7",22
+"3","8",11
+"3","14",25
+"3","18",9
+"3","19",1
+"3","24",4
+"3","31",3
+"3","42",22
+"3","21",32
+"3","23",21
+"3","71",3
+"3","6",25
+"3","20",23
+"3","11",1
+"3","88",8
+"3","10",5
+"3","39",3
+"4","35",24
+"4","3",21
+"4","7",21
+"4","8",14
+"4","14",19
+"4","18",10
+"4","19",4
+"4","24",10
+"4","31",1
+"4","42",33
+"4","21",11
+"4","23",13
+"4","71",1
+"4","6",27
+"4","20",17
+"4","11",2
+"4","88",4
+"4","10",5
+"4","39",3
+"7","3",28
+"7","4",11
+"7","8",16
+"7","14",19
+"7","18",23
+"7","19",2
+"7","24",1
+"7","31",5
+"7","42",20
+"7","21",37
+"7","23",22
+"7","71",2
+"7","6",8
+"7","20",16
+"7","11",2
+"7","88",10
+"7","10",6
+"8","35",2
+"8","3",16
+"8","4",8
+"8","7",10
+"8","14",10
+"8","18",6
+"8","24",1
+"8","42",15
+"8","21",6
+"8","23",2
+"8","6",1
+"8","20",7
+"8","88",6
+"8","39",1
+"14","35",10
+"14","3",36
+"14","4",8
+"14","7",35
+"14","8",9
+"14","18",6
+"14","19",1
+"14","24",9
+"14","31",1
+"14","42",2
+"14","21",60
+"14","23",6
+"14","6",22
+"14","20",11
+"14","88",5
+"18","3",3
+"18","4",3
+"18","7",15
+"18","8",7
+"18","14",3
+"18","19",1
+"18","24",1
+"18","42",5
+"18","21",16
+"18","23",8
+"18","6",1
+"18","20",2
+"18","10",5
+"18","39",3
+"19","35",1
+"19","3",5
+"19","4",2
+"19","7",3
+"19","14",2
+"19","24",3
+"19","31",4
+"19","42",2
+"19","21",1
+"19","23",2
+"19","71",1
+"24","35",3
+"24","3",8
+"24","4",8
+"24","7",2
+"24","8",3
+"24","14",13
+"24","18",1
+"24","19",3
+"24","31",1
+"24","42",1
+"24","21",2
+"24","23",1
+"31","35",1
+"31","3",1
+"31","7",1
+"31","8",3
+"31","14",1
+"31","18",1
+"31","19",1
+"31","42",4
+"31","23",1
+"31","88",2
+"42","35",7
+"42","3",14
+"42","4",41
+"42","7",15
+"42","8",20
+"42","14",1
+"42","18",6
+"42","19",5
+"42","24",1
+"42","31",5
+"42","21",3
+"42","23",30
+"42","71",1
+"42","6",6
+"42","20",19
+"42","11",2
+"42","88",8
+"42","10",4
+"42","39",1
+"21","35",1
+"21","3",27
+"21","4",3
+"21","7",48
+"21","8",3
+"21","14",39
+"21","18",8
+"21","19",3
+"21","24",4
+"21","31",1
+"21","42",2
+"21","23",13
+"21","71",1
+"21","6",7
+"21","20",19
+"21","88",8
+"21","10",2
+"21","39",3
+"23","35",2
+"23","3",17
+"23","4",9
+"23","7",21
+"23","8",8
+"23","14",5
+"23","18",12
+"23","31",1
+"23","42",23
+"23","21",21
+"23","71",1
+"23","6",8
+"23","20",6
+"23","88",3
+"23","10",6
+"23","39",1
+"71","7",7
+"71","21",2
+"71","23",3
+"71","20",1
+"6","35",19
+"6","3",14
+"6","4",48
+"6","7",6
+"6","8",4
+"6","14",23
+"6","18",1
+"6","20",11
+"6","21",14
+"6","42",6
+"6","11",1
+"6","23",11
+"6","10",1
+"6","39",2
+"20","35",1
+"20","3",15
+"20","4",16
+"20","6",13
+"20","7",17
+"20","8",15
+"20","14",13
+"20","18",4
+"20","21",22
+"20","42",19
+"20","23",3
+"20","88",4
+"20","71",3
+"20","10",8
+"20","39",2
+"11","4",1
+"11","6",2
+"11","7",3
+"11","14",1
+"11","18",1
+"88","3",3
+"88","4",1
+"88","7",7
+"88","8",2
+"88","14",5
+"88","21",6
+"88","23",6
+"88","18",1
+"88","20",3
+"10","3",4
+"10","4",1
+"10","6",1
+"10","18",7
+"10","20",6
+"10","21",2
+"10","23",4
+"10","39",2
+"10","7",5
+"39","35",2
+"39","3",4
+"39","4",1
+"39","6",1
+"39","10",3
+"39","18",3
+"39","20",3
+"39","21",6
+"39","42",1
+"39","7",1
+"39","8",1

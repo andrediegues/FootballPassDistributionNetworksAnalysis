@@ -1,174 +1,175 @@
-"Danijel Subašić","Fabinho",1
-"Danijel Subašić","Ricardo Carvalho",4
-"Danijel Subašić","Anthony Martial",3
-"Danijel Subašić","Bernardo Silva",2
-"Danijel Subašić","Wallace",5
-"Danijel Subašić","Ivan Cavaleiro",2
-"Danijel Subašić","Mario Pašalić",2
-"Danijel Subašić","Elderson",1
-"Danijel Subašić","Andrea Raggi",5
-"Danijel Subašić","Jérémy Toulalan",4
-"Danijel Subašić","Nabil Dirar",1
-"Danijel Subašić","Thomas Lemar",1
-"Fabinho","Danijel Subašić",2
-"Fabinho","Ricardo Carvalho",7
-"Fabinho","Anthony Martial",8
-"Fabinho","Bernardo Silva",17
-"Fabinho","Wallace",2
-"Fabinho","Ivan Cavaleiro",2
-"Fabinho","Mario Pašalić",3
-"Fabinho","Elderson",1
-"Fabinho","Andrea Raggi",6
-"Fabinho","Jérémy Toulalan",13
-"Fabinho","Nabil Dirar",18
-"Fabinho","Fares Bahlouli",3
-"Fabinho","Guido Carrillo",1
-"Fabinho","Thomas Lemar",4
-"Ricardo Carvalho","Danijel Subašić",6
-"Ricardo Carvalho","Fabinho",4
-"Ricardo Carvalho","Anthony Martial",1
-"Ricardo Carvalho","Bernardo Silva",5
-"Ricardo Carvalho","Wallace",4
-"Ricardo Carvalho","Ivan Cavaleiro",5
-"Ricardo Carvalho","Mario Pašalić",3
-"Ricardo Carvalho","Elderson",7
-"Ricardo Carvalho","Andrea Raggi",11
-"Ricardo Carvalho","Jérémy Toulalan",13
-"Ricardo Carvalho","Nabil Dirar",1
-"Ricardo Carvalho","Layvin Kurzawa",3
-"Ricardo Carvalho","Guido Carrillo",2
-"Ricardo Carvalho","Thomas Lemar",2
-"Anthony Martial","Fabinho",4
-"Anthony Martial","Bernardo Silva",9
-"Anthony Martial","Ivan Cavaleiro",4
-"Anthony Martial","Mario Pašalić",3
-"Anthony Martial","Elderson",2
-"Anthony Martial","Jérémy Toulalan",3
-"Anthony Martial","Nabil Dirar",3
-"Anthony Martial","Fares Bahlouli",1
-"Anthony Martial","Stephan El Shaarawy",3
-"Anthony Martial","Layvin Kurzawa",1
-"Anthony Martial","Guido Carrillo",1
-"Anthony Martial","Thomas Lemar",4
-"Bernardo Silva","Fabinho",20
-"Bernardo Silva","Ricardo Carvalho",7
-"Bernardo Silva","Anthony Martial",7
-"Bernardo Silva","Wallace",2
-"Bernardo Silva","Ivan Cavaleiro",8
-"Bernardo Silva","Mario Pašalić",16
-"Bernardo Silva","Elderson",4
-"Bernardo Silva","Andrea Raggi",8
-"Bernardo Silva","Jérémy Toulalan",11
-"Bernardo Silva","Nabil Dirar",9
-"Bernardo Silva","Thomas Lemar",5
-"Wallace","Fabinho",6
-"Wallace","Ricardo Carvalho",4
-"Wallace","Anthony Martial",1
-"Wallace","Bernardo Silva",1
-"Wallace","Mario Pašalić",1
-"Wallace","Andrea Raggi",3
-"Wallace","Jérémy Toulalan",3
-"Ivan Cavaleiro","Fabinho",1
-"Ivan Cavaleiro","Ricardo Carvalho",1
-"Ivan Cavaleiro","Anthony Martial",2
-"Ivan Cavaleiro","Bernardo Silva",4
-"Ivan Cavaleiro","Mario Pašalić",4
-"Ivan Cavaleiro","Elderson",4
-"Ivan Cavaleiro","Jérémy Toulalan",1
-"Ivan Cavaleiro","Nabil Dirar",1
-"Ivan Cavaleiro","Layvin Kurzawa",3
-"Mario Pašalić","Danijel Subašić",1
-"Mario Pašalić","Fabinho",4
-"Mario Pašalić","Ricardo Carvalho",2
-"Mario Pašalić","Anthony Martial",5
-"Mario Pašalić","Bernardo Silva",11
-"Mario Pašalić","Wallace",1
-"Mario Pašalić","Ivan Cavaleiro",2
-"Mario Pašalić","Elderson",2
-"Mario Pašalić","Andrea Raggi",10
-"Mario Pašalić","Jérémy Toulalan",9
-"Mario Pašalić","Nabil Dirar",1
-"Mario Pašalić","Layvin Kurzawa",2
-"Elderson","Danijel Subašić",1
-"Elderson","Fabinho",1
-"Elderson","Ricardo Carvalho",4
-"Elderson","Anthony Martial",10
-"Elderson","Bernardo Silva",3
-"Elderson","Ivan Cavaleiro",1
-"Elderson","Mario Pašalić",1
-"Elderson","Andrea Raggi",1
-"Elderson","Jérémy Toulalan",7
-"Elderson","Nabil Dirar",2
-"Elderson","Stephan El Shaarawy",2
-"Elderson","Thomas Lemar",4
-"Andrea Raggi","Danijel Subašić",3
-"Andrea Raggi","Fabinho",10
-"Andrea Raggi","Ricardo Carvalho",4
-"Andrea Raggi","Anthony Martial",1
-"Andrea Raggi","Bernardo Silva",19
-"Andrea Raggi","Wallace",2
-"Andrea Raggi","Mario Pašalić",4
-"Andrea Raggi","Elderson",1
-"Andrea Raggi","Jérémy Toulalan",7
-"Andrea Raggi","Nabil Dirar",8
-"Andrea Raggi","Fares Bahlouli",1
-"Andrea Raggi","Guido Carrillo",3
-"Andrea Raggi","Thomas Lemar",2
-"Jérémy Toulalan","Danijel Subašić",2
-"Jérémy Toulalan","Fabinho",21
-"Jérémy Toulalan","Ricardo Carvalho",13
-"Jérémy Toulalan","Anthony Martial",5
-"Jérémy Toulalan","Bernardo Silva",10
-"Jérémy Toulalan","Wallace",1
-"Jérémy Toulalan","Ivan Cavaleiro",4
-"Jérémy Toulalan","Mario Pašalić",11
-"Jérémy Toulalan","Elderson",6
-"Jérémy Toulalan","Andrea Raggi",6
-"Jérémy Toulalan","Nabil Dirar",8
-"Jérémy Toulalan","Fares Bahlouli",2
-"Jérémy Toulalan","Layvin Kurzawa",2
-"Jérémy Toulalan","Thomas Lemar",6
-"Nabil Dirar","Fabinho",10
-"Nabil Dirar","Ricardo Carvalho",1
-"Nabil Dirar","Anthony Martial",6
-"Nabil Dirar","Bernardo Silva",4
-"Nabil Dirar","Ivan Cavaleiro",1
-"Nabil Dirar","Mario Pašalić",2
-"Nabil Dirar","Andrea Raggi",2
-"Nabil Dirar","Jérémy Toulalan",6
-"Nabil Dirar","Fares Bahlouli",2
-"Nabil Dirar","Guido Carrillo",3
-"Nabil Dirar","Thomas Lemar",3
-"Fares Bahlouli","Fabinho",1
-"Fares Bahlouli","Anthony Martial",1
-"Fares Bahlouli","Elderson",1
-"Fares Bahlouli","Andrea Raggi",4
-"Fares Bahlouli","Nabil Dirar",1
-"Fares Bahlouli","Stephan El Shaarawy",1
-"Stephan El Shaarawy","Anthony Martial",2
-"Stephan El Shaarawy","Elderson",1
-"Stephan El Shaarawy","Fares Bahlouli",2
-"Layvin Kurzawa","Danijel Subašić",1
-"Layvin Kurzawa","Fabinho",1
-"Layvin Kurzawa","Ricardo Carvalho",2
-"Layvin Kurzawa","Anthony Martial",1
-"Layvin Kurzawa","Ivan Cavaleiro",4
-"Layvin Kurzawa","Mario Pašalić",1
-"Layvin Kurzawa","Andrea Raggi",1
-"Layvin Kurzawa","Jérémy Toulalan",3
-"Guido Carrillo","Fabinho",1
-"Guido Carrillo","Nabil Dirar",2
-"Guido Carrillo","Anthony Martial",1
-"Guido Carrillo","Bernardo Silva",1
-"Guido Carrillo","Elderson",1
-"Guido Carrillo","Thomas Lemar",1
-"Thomas Lemar","Fabinho",1
-"Thomas Lemar","Ricardo Carvalho",2
-"Thomas Lemar","Nabil Dirar",3
-"Thomas Lemar","Anthony Martial",5
-"Thomas Lemar","Bernardo Silva",5
-"Thomas Lemar","Ivan Cavaleiro",1
-"Thomas Lemar","Andrea Raggi",1
-"Thomas Lemar","Jérémy Toulalan",3
-"Thomas Lemar","Guido Carrillo",1
-"Thomas Lemar","Elderson",7
+Source,Target,Weight
+"1","2",1
+"1","6",4
+"1","9",3
+"1","10",2
+"1","13",5
+"1","17",2
+"1","20",2
+"1","21",1
+"1","24",5
+"1","28",4
+"1","7",1
+"1","27",1
+"2","1",2
+"2","6",7
+"2","9",8
+"2","10",17
+"2","13",2
+"2","17",2
+"2","20",3
+"2","21",1
+"2","24",6
+"2","28",13
+"2","7",18
+"2","12",3
+"2","11",1
+"2","27",4
+"6","1",6
+"6","2",4
+"6","9",1
+"6","10",5
+"6","13",4
+"6","17",5
+"6","20",3
+"6","21",7
+"6","24",11
+"6","28",13
+"6","7",1
+"6","3",3
+"6","11",2
+"6","27",2
+"9","2",4
+"9","10",9
+"9","17",4
+"9","20",3
+"9","21",2
+"9","28",3
+"9","7",3
+"9","12",1
+"9","22",3
+"9","3",1
+"9","11",1
+"9","27",4
+"10","2",20
+"10","6",7
+"10","9",7
+"10","13",2
+"10","17",8
+"10","20",16
+"10","21",4
+"10","24",8
+"10","28",11
+"10","7",9
+"10","27",5
+"13","2",6
+"13","6",4
+"13","9",1
+"13","10",1
+"13","20",1
+"13","24",3
+"13","28",3
+"17","2",1
+"17","6",1
+"17","9",2
+"17","10",4
+"17","20",4
+"17","21",4
+"17","28",1
+"17","7",1
+"17","3",3
+"20","1",1
+"20","2",4
+"20","6",2
+"20","9",5
+"20","10",11
+"20","13",1
+"20","17",2
+"20","21",2
+"20","24",10
+"20","28",9
+"20","7",1
+"20","3",2
+"21","1",1
+"21","2",1
+"21","6",4
+"21","9",10
+"21","10",3
+"21","17",1
+"21","20",1
+"21","24",1
+"21","28",7
+"21","7",2
+"21","22",2
+"21","27",4
+"24","1",3
+"24","2",10
+"24","6",4
+"24","9",1
+"24","10",19
+"24","13",2
+"24","20",4
+"24","21",1
+"24","28",7
+"24","7",8
+"24","12",1
+"24","11",3
+"24","27",2
+"28","1",2
+"28","2",21
+"28","6",13
+"28","9",5
+"28","10",10
+"28","13",1
+"28","17",4
+"28","20",11
+"28","21",6
+"28","24",6
+"28","7",8
+"28","12",2
+"28","3",2
+"28","27",6
+"7","2",10
+"7","6",1
+"7","9",6
+"7","10",4
+"7","17",1
+"7","20",2
+"7","24",2
+"7","28",6
+"7","12",2
+"7","11",3
+"7","27",3
+"12","2",1
+"12","9",1
+"12","21",1
+"12","24",4
+"12","7",1
+"12","22",1
+"22","9",2
+"22","21",1
+"22","12",2
+"3","1",1
+"3","2",1
+"3","6",2
+"3","9",1
+"3","17",4
+"3","20",1
+"3","24",1
+"3","28",3
+"11","2",1
+"11","7",2
+"11","9",1
+"11","10",1
+"11","21",1
+"11","27",1
+"27","2",1
+"27","6",2
+"27","7",3
+"27","9",5
+"27","10",5
+"27","17",1
+"27","24",1
+"27","28",3
+"27","11",1
+"27","21",7

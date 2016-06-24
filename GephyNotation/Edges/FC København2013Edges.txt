@@ -1,133 +1,134 @@
-"Johan Wiland","Lars Jacobsen",9
-"Johan Wiland","Pierre Bengtsson",4
-"Johan Wiland","Kris Stadsgaard",13
-"Johan Wiland","Claudemir",1
-"Johan Wiland","Thomas Kristensen",1
-"Johan Wiland","Ragnar Sigurdsson",4
-"Johan Wiland","Nicolai Jørgensen",1
-"Johan Wiland","Bryan Oviedo",3
-"Johan Wiland","Christián Bolaños",1
-"Johan Wiland","Thomas Delaney",1
-"Johan Wiland","Andreas Cornelius",1
-"Lars Jacobsen","Johan Wiland",2
-"Lars Jacobsen","Pierre Bengtsson",2
-"Lars Jacobsen","Claudemir",12
-"Lars Jacobsen","César Santin",4
-"Lars Jacobsen","Thomas Kristensen",9
-"Lars Jacobsen","Ragnar Sigurdsson",4
-"Lars Jacobsen","Nicolai Jørgensen",5
-"Lars Jacobsen","Bryan Oviedo",1
-"Lars Jacobsen","Christián Bolaños",9
-"Lars Jacobsen","Igor Vetokele",5
-"Lars Jacobsen","Thomas Delaney",2
-"Lars Jacobsen","Andreas Cornelius",2
-"Pierre Bengtsson","Johan Wiland",3
-"Pierre Bengtsson","Lars Jacobsen",3
-"Pierre Bengtsson","Kris Stadsgaard",19
-"Pierre Bengtsson","Claudemir",7
-"Pierre Bengtsson","César Santin",1
-"Pierre Bengtsson","Thomas Kristensen",6
-"Pierre Bengtsson","Ragnar Sigurdsson",1
-"Pierre Bengtsson","Nicolai Jørgensen",7
-"Pierre Bengtsson","Bryan Oviedo",15
-"Pierre Bengtsson","Andreas Cornelius",1
-"Kris Stadsgaard","Johan Wiland",8
-"Kris Stadsgaard","Lars Jacobsen",3
-"Kris Stadsgaard","Pierre Bengtsson",28
-"Kris Stadsgaard","Claudemir",10
-"Kris Stadsgaard","César Santin",2
-"Kris Stadsgaard","Thomas Kristensen",15
-"Kris Stadsgaard","Ragnar Sigurdsson",12
-"Kris Stadsgaard","Nicolai Jørgensen",1
-"Kris Stadsgaard","Bryan Oviedo",5
-"Kris Stadsgaard","Christián Bolaños",2
-"Kris Stadsgaard","Andreas Cornelius",1
-"Claudemir","Johan Wiland",2
-"Claudemir","Lars Jacobsen",6
-"Claudemir","Pierre Bengtsson",6
-"Claudemir","Kris Stadsgaard",10
-"Claudemir","César Santin",1
-"Claudemir","Thomas Kristensen",20
-"Claudemir","Ragnar Sigurdsson",13
-"Claudemir","Nicolai Jørgensen",4
-"Claudemir","Bryan Oviedo",5
-"Claudemir","Christián Bolaños",3
-"Claudemir","Igor Vetokele",2
-"Claudemir","Andreas Cornelius",2
-"César Santin","Pierre Bengtsson",1
-"César Santin","Claudemir",2
-"César Santin","Thomas Kristensen",1
-"César Santin","Ragnar Sigurdsson",1
-"César Santin","Nicolai Jørgensen",2
-"César Santin","Christián Bolaños",3
-"Thomas Kristensen","Johan Wiland",3
-"Thomas Kristensen","Lars Jacobsen",7
-"Thomas Kristensen","Pierre Bengtsson",7
-"Thomas Kristensen","Kris Stadsgaard",10
-"Thomas Kristensen","Claudemir",13
-"Thomas Kristensen","César Santin",1
-"Thomas Kristensen","Ragnar Sigurdsson",13
-"Thomas Kristensen","Nicolai Jørgensen",3
-"Thomas Kristensen","Bryan Oviedo",4
-"Thomas Kristensen","Christián Bolaños",8
-"Thomas Kristensen","Igor Vetokele",2
-"Thomas Kristensen","Andreas Cornelius",3
-"Ragnar Sigurdsson","Johan Wiland",4
-"Ragnar Sigurdsson","Lars Jacobsen",14
-"Ragnar Sigurdsson","Pierre Bengtsson",4
-"Ragnar Sigurdsson","Kris Stadsgaard",9
-"Ragnar Sigurdsson","Claudemir",7
-"Ragnar Sigurdsson","César Santin",1
-"Ragnar Sigurdsson","Thomas Kristensen",10
-"Ragnar Sigurdsson","Nicolai Jørgensen",4
-"Ragnar Sigurdsson","Bryan Oviedo",2
-"Ragnar Sigurdsson","Christián Bolaños",8
-"Ragnar Sigurdsson","Thomas Delaney",1
-"Ragnar Sigurdsson","Andreas Cornelius",1
-"Nicolai Jørgensen","Lars Jacobsen",4
-"Nicolai Jørgensen","Pierre Bengtsson",2
-"Nicolai Jørgensen","Kris Stadsgaard",1
-"Nicolai Jørgensen","Claudemir",5
-"Nicolai Jørgensen","César Santin",2
-"Nicolai Jørgensen","Thomas Kristensen",3
-"Nicolai Jørgensen","Ragnar Sigurdsson",1
-"Nicolai Jørgensen","Bryan Oviedo",2
-"Nicolai Jørgensen","Christián Bolaños",3
-"Nicolai Jørgensen","Thomas Delaney",1
-"Nicolai Jørgensen","Andreas Cornelius",2
-"Bryan Oviedo","Lars Jacobsen",1
-"Bryan Oviedo","Pierre Bengtsson",7
-"Bryan Oviedo","Kris Stadsgaard",6
-"Bryan Oviedo","Claudemir",3
-"Bryan Oviedo","César Santin",2
-"Bryan Oviedo","Thomas Kristensen",4
-"Bryan Oviedo","Ragnar Sigurdsson",1
-"Bryan Oviedo","Nicolai Jørgensen",8
-"Bryan Oviedo","Christián Bolaños",2
-"Bryan Oviedo","Andreas Cornelius",3
-"Christián Bolaños","Johan Wiland",1
-"Christián Bolaños","Lars Jacobsen",7
-"Christián Bolaños","Kris Stadsgaard",2
-"Christián Bolaños","Claudemir",7
-"Christián Bolaños","César Santin",2
-"Christián Bolaños","Thomas Kristensen",8
-"Christián Bolaños","Ragnar Sigurdsson",3
-"Christián Bolaños","Nicolai Jørgensen",5
-"Christián Bolaños","Bryan Oviedo",2
-"Igor Vetokele","Lars Jacobsen",1
-"Igor Vetokele","Pierre Bengtsson",1
-"Igor Vetokele","Kris Stadsgaard",1
-"Igor Vetokele","Claudemir",1
-"Igor Vetokele","Ragnar Sigurdsson",1
-"Igor Vetokele","Nicolai Jørgensen",2
-"Igor Vetokele","Bryan Oviedo",1
-"Thomas Delaney","Lars Jacobsen",2
-"Thomas Delaney","Pierre Bengtsson",1
-"Thomas Delaney","Andreas Cornelius",1
-"Andreas Cornelius","Lars Jacobsen",2
-"Andreas Cornelius","Pierre Bengtsson",1
-"Andreas Cornelius","Claudemir",2
-"Andreas Cornelius","Thomas Kristensen",1
-"Andreas Cornelius","Bryan Oviedo",4
-"Andreas Cornelius","Christián Bolaños",1
-"Andreas Cornelius","Igor Vetokele",1
+Source,Target,Weight
+"21","2",9
+"21","3",4
+"21","4",13
+"21","6",1
+"21","16",1
+"21","17",4
+"21","18",1
+"21","19",3
+"21","30",1
+"21","27",1
+"21","29",1
+"2","21",2
+"2","3",2
+"2","6",12
+"2","11",4
+"2","16",9
+"2","17",4
+"2","18",5
+"2","19",1
+"2","30",9
+"2","9",5
+"2","27",2
+"2","29",2
+"3","21",3
+"3","2",3
+"3","4",19
+"3","6",7
+"3","11",1
+"3","16",6
+"3","17",1
+"3","18",7
+"3","19",15
+"3","29",1
+"4","21",8
+"4","2",3
+"4","3",28
+"4","6",10
+"4","11",2
+"4","16",15
+"4","17",12
+"4","18",1
+"4","19",5
+"4","30",2
+"4","29",1
+"6","21",2
+"6","2",6
+"6","3",6
+"6","4",10
+"6","11",1
+"6","16",20
+"6","17",13
+"6","18",4
+"6","19",5
+"6","30",3
+"6","9",2
+"6","29",2
+"11","3",1
+"11","6",2
+"11","16",1
+"11","17",1
+"11","18",2
+"11","30",3
+"16","21",3
+"16","2",7
+"16","3",7
+"16","4",10
+"16","6",13
+"16","11",1
+"16","17",13
+"16","18",3
+"16","19",4
+"16","30",8
+"16","9",2
+"16","29",3
+"17","21",4
+"17","2",14
+"17","3",4
+"17","4",9
+"17","6",7
+"17","11",1
+"17","16",10
+"17","18",4
+"17","19",2
+"17","30",8
+"17","27",1
+"17","29",1
+"18","2",4
+"18","3",2
+"18","4",1
+"18","6",5
+"18","11",2
+"18","16",3
+"18","17",1
+"18","19",2
+"18","30",3
+"18","27",1
+"18","29",2
+"19","2",1
+"19","3",7
+"19","4",6
+"19","6",3
+"19","11",2
+"19","16",4
+"19","17",1
+"19","18",8
+"19","30",2
+"19","29",3
+"30","21",1
+"30","2",7
+"30","4",2
+"30","6",7
+"30","11",2
+"30","16",8
+"30","17",3
+"30","18",5
+"30","19",2
+"9","2",1
+"9","3",1
+"9","4",1
+"9","6",1
+"9","17",1
+"9","18",2
+"9","19",1
+"27","2",2
+"27","3",1
+"27","29",1
+"29","2",2
+"29","3",1
+"29","6",2
+"29","16",1
+"29","19",4
+"29","30",1
+"29","9",1

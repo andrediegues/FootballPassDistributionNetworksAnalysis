@@ -1,259 +1,260 @@
-"Nenad Erić","Marin Aničić",8
-"Nenad Erić","Nemanja Maksimović",5
-"Nenad Erić","Foxi Kéthévoama",9
-"Nenad Erić","Baurzhan Dzholchiyev",2
-"Nenad Erić","Branko Ilič",1
-"Nenad Erić","Evgeni Postnikov",5
-"Nenad Erić","Dmitri Shomko",5
-"Nenad Erić","Roger Cañas",1
-"Nenad Erić","Junior Kabananga",6
-"Nenad Erić","Branko Ilić",10
-"Nenad Erić","Aleksei Schetkin",5
-"Nenad Erić","Denys Dedechko",2
-"Nenad Erić","Yeldos Akhmetov",1
-"Marin Aničić","Nenad Erić",14
-"Marin Aničić","Nemanja Maksimović",4
-"Marin Aničić","Georgy Zhukov",2
-"Marin Aničić","Foxi Kéthévoama",8
-"Marin Aničić","Baurzhan Dzholchiyev",3
-"Marin Aničić","Branko Ilič",1
-"Marin Aničić","Evgeni Postnikov",17
-"Marin Aničić","Dmitri Shomko",25
-"Marin Aničić","Roger Cañas",12
-"Marin Aničić","Serikzhan Muzhikov",4
-"Marin Aničić","Junior Kabananga",5
-"Marin Aničić","Alexey Schetkin",1
-"Marin Aničić","Georgi Zhukov",1
-"Marin Aničić","Branko Ilić",5
-"Nemanja Maksimović","Nenad Erić",1
-"Nemanja Maksimović","Marin Aničić",8
-"Nemanja Maksimović","Georgy Zhukov",2
-"Nemanja Maksimović","Foxi Kéthévoama",15
-"Nemanja Maksimović","Tanat Nuserbayev",3
-"Nemanja Maksimović","Baurzhan Dzholchiyev",1
-"Nemanja Maksimović","Evgeni Postnikov",4
-"Nemanja Maksimović","Dmitri Shomko",13
-"Nemanja Maksimović","Roger Cañas",20
-"Nemanja Maksimović","Serikzhan Muzhikov",2
-"Nemanja Maksimović","Junior Kabananga",5
-"Nemanja Maksimović","Georgi Zhukov",2
-"Nemanja Maksimović","Branko Ilić",4
-"Nemanja Maksimović","Aleksei Schetkin",1
-"Nemanja Maksimović","Patrick Twumasi",3
-"Georgy Zhukov","Marin Aničić",3
-"Georgy Zhukov","Foxi Kéthévoama",2
-"Georgy Zhukov","Tanat Nuserbayev",5
-"Georgy Zhukov","Baurzhan Dzholchiyev",5
-"Georgy Zhukov","Branko Ilič",3
-"Georgy Zhukov","Dmitri Shomko",4
-"Georgy Zhukov","Roger Cañas",2
-"Georgy Zhukov","Junior Kabananga",2
-"Foxi Kéthévoama","Marin Aničić",2
-"Foxi Kéthévoama","Nemanja Maksimović",8
-"Foxi Kéthévoama","Georgy Zhukov",3
-"Foxi Kéthévoama","Tanat Nuserbayev",3
-"Foxi Kéthévoama","Baurzhan Dzholchiyev",10
-"Foxi Kéthévoama","Branko Ilič",1
-"Foxi Kéthévoama","Evgeni Postnikov",4
-"Foxi Kéthévoama","Dmitri Shomko",17
-"Foxi Kéthévoama","Roger Cañas",10
-"Foxi Kéthévoama","Serikzhan Muzhikov",9
-"Foxi Kéthévoama","Abzal Beysebekov",1
-"Foxi Kéthévoama","Junior Kabananga",19
-"Foxi Kéthévoama","Georgi Zhukov",4
-"Foxi Kéthévoama","Branko Ilić",2
-"Foxi Kéthévoama","Aleksei Schetkin",4
-"Foxi Kéthévoama","Denys Dedechko",1
-"Foxi Kéthévoama","Yeldos Akhmetov",4
-"Foxi Kéthévoama","Igor Pikalkin",3
-"Foxi Kéthévoama","Patrick Twumasi",1
-"Tanat Nuserbayev","Nemanja Maksimović",3
-"Tanat Nuserbayev","Georgy Zhukov",2
-"Tanat Nuserbayev","Foxi Kéthévoama",1
-"Tanat Nuserbayev","Baurzhan Dzholchiyev",5
-"Tanat Nuserbayev","Branko Ilič",1
-"Tanat Nuserbayev","Dmitri Shomko",2
-"Tanat Nuserbayev","Roger Cañas",4
-"Baurzhan Dzholchiyev","Nenad Erić",1
-"Baurzhan Dzholchiyev","Marin Aničić",1
-"Baurzhan Dzholchiyev","Nemanja Maksimović",3
-"Baurzhan Dzholchiyev","Georgy Zhukov",2
-"Baurzhan Dzholchiyev","Foxi Kéthévoama",2
-"Baurzhan Dzholchiyev","Tanat Nuserbayev",6
-"Baurzhan Dzholchiyev","Branko Ilič",6
-"Baurzhan Dzholchiyev","Roger Cañas",5
-"Baurzhan Dzholchiyev","Serikzhan Muzhikov",4
-"Baurzhan Dzholchiyev","Junior Kabananga",10
-"Baurzhan Dzholchiyev","Georgi Zhukov",5
-"Baurzhan Dzholchiyev","Branko Ilić",5
-"Baurzhan Dzholchiyev","Aleksei Schetkin",2
-"Branko Ilič","Nenad Erić",2
-"Branko Ilič","Marin Aničić",1
-"Branko Ilič","Georgy Zhukov",5
-"Branko Ilič","Foxi Kéthévoama",1
-"Branko Ilič","Tanat Nuserbayev",2
-"Branko Ilič","Baurzhan Dzholchiyev",9
-"Branko Ilič","Evgeni Postnikov",5
-"Branko Ilič","Dmitri Shomko",2
-"Branko Ilič","Roger Cañas",6
-"Branko Ilič","Abzal Beysebekov",1
-"Evgeni Postnikov","Nenad Erić",11
-"Evgeni Postnikov","Marin Aničić",21
-"Evgeni Postnikov","Nemanja Maksimović",6
-"Evgeni Postnikov","Foxi Kéthévoama",5
-"Evgeni Postnikov","Baurzhan Dzholchiyev",11
-"Evgeni Postnikov","Branko Ilič",8
-"Evgeni Postnikov","Dmitri Shomko",7
-"Evgeni Postnikov","Roger Cañas",20
-"Evgeni Postnikov","Serikzhan Muzhikov",3
-"Evgeni Postnikov","Junior Kabananga",4
-"Evgeni Postnikov","Georgi Zhukov",6
-"Evgeni Postnikov","Branko Ilić",22
-"Evgeni Postnikov","Aleksei Schetkin",2
-"Evgeni Postnikov","Denys Dedechko",2
-"Evgeni Postnikov","Yeldos Akhmetov",11
-"Evgeni Postnikov","Zhakyp Kozhamberdy",1
-"Dmitri Shomko","Nenad Erić",3
-"Dmitri Shomko","Marin Aničić",11
-"Dmitri Shomko","Nemanja Maksimović",13
-"Dmitri Shomko","Georgy Zhukov",2
-"Dmitri Shomko","Foxi Kéthévoama",36
-"Dmitri Shomko","Tanat Nuserbayev",4
-"Dmitri Shomko","Baurzhan Dzholchiyev",4
-"Dmitri Shomko","Branko Ilič",1
-"Dmitri Shomko","Evgeni Postnikov",9
-"Dmitri Shomko","Roger Cañas",16
-"Dmitri Shomko","Serikzhan Muzhikov",6
-"Dmitri Shomko","Junior Kabananga",12
-"Dmitri Shomko","Alexey Schetkin",1
-"Dmitri Shomko","Georgi Zhukov",1
-"Dmitri Shomko","Branko Ilić",1
-"Roger Cañas","Marin Aničić",23
-"Roger Cañas","Nemanja Maksimović",9
-"Roger Cañas","Georgy Zhukov",6
-"Roger Cañas","Foxi Kéthévoama",14
-"Roger Cañas","Tanat Nuserbayev",1
-"Roger Cañas","Baurzhan Dzholchiyev",14
-"Roger Cañas","Branko Ilič",8
-"Roger Cañas","Evgeni Postnikov",15
-"Roger Cañas","Dmitri Shomko",36
-"Roger Cañas","Serikzhan Muzhikov",5
-"Roger Cañas","Abzal Beysebekov",1
-"Roger Cañas","Junior Kabananga",9
-"Roger Cañas","Alexey Schetkin",1
-"Roger Cañas","Georgi Zhukov",7
-"Roger Cañas","Branko Ilić",16
-"Roger Cañas","Patrick Twumasi",4
-"Serikzhan Muzhikov","Marin Aničić",2
-"Serikzhan Muzhikov","Nemanja Maksimović",2
-"Serikzhan Muzhikov","Foxi Kéthévoama",11
-"Serikzhan Muzhikov","Baurzhan Dzholchiyev",1
-"Serikzhan Muzhikov","Evgeni Postnikov",2
-"Serikzhan Muzhikov","Dmitri Shomko",3
-"Serikzhan Muzhikov","Roger Cañas",5
-"Serikzhan Muzhikov","Abzal Beysebekov",2
-"Serikzhan Muzhikov","Junior Kabananga",8
-"Serikzhan Muzhikov","Yeldos Akhmetov",2
-"Serikzhan Muzhikov","Georgi Zhukov",1
-"Serikzhan Muzhikov","Aleksei Schetkin",1
-"Serikzhan Muzhikov","Branko Ilić",6
-"Abzal Beysebekov","Nemanja Maksimović",2
-"Abzal Beysebekov","Foxi Kéthévoama",3
-"Abzal Beysebekov","Branko Ilič",1
-"Abzal Beysebekov","Dmitri Shomko",1
-"Abzal Beysebekov","Junior Kabananga",1
-"Abzal Beysebekov","Georgi Zhukov",7
-"Abzal Beysebekov","Branko Ilić",5
-"Abzal Beysebekov","Aleksei Schetkin",4
-"Abzal Beysebekov","Denys Dedechko",4
-"Abzal Beysebekov","Birzhan Kulbekov",1
-"Junior Kabananga","Nemanja Maksimović",4
-"Junior Kabananga","Georgy Zhukov",1
-"Junior Kabananga","Foxi Kéthévoama",16
-"Junior Kabananga","Baurzhan Dzholchiyev",4
-"Junior Kabananga","Dmitri Shomko",4
-"Junior Kabananga","Roger Cañas",5
-"Junior Kabananga","Serikzhan Muzhikov",4
-"Junior Kabananga","Abzal Beysebekov",1
-"Junior Kabananga","Georgi Zhukov",5
-"Junior Kabananga","Branko Ilić",1
-"Junior Kabananga","Aleksei Schetkin",2
-"Junior Kabananga","Yeldos Akhmetov",2
-"Junior Kabananga","Birzhan Kulbekov",2
-"Junior Kabananga","Patrick Twumasi",4
-"Alexey Schetkin","Baurzhan Dzholchiyev",1
-"Georgi Zhukov","Marin Aničić",2
-"Georgi Zhukov","Nemanja Maksimović",2
-"Georgi Zhukov","Foxi Kéthévoama",7
-"Georgi Zhukov","Baurzhan Dzholchiyev",4
-"Georgi Zhukov","Branko Ilić",8
-"Georgi Zhukov","Evgeni Postnikov",4
-"Georgi Zhukov","Dmitri Shomko",3
-"Georgi Zhukov","Roger Cañas",7
-"Georgi Zhukov","Junior Kabananga",1
-"Georgi Zhukov","Aleksei Schetkin",4
-"Georgi Zhukov","Abzal Beysebekov",7
-"Georgi Zhukov","Denys Dedechko",2
-"Georgi Zhukov","Yeldos Akhmetov",1
-"Georgi Zhukov","Serikzhan Muzhikov",1
-"Branko Ilić","Nenad Erić",13
-"Branko Ilić","Marin Aničić",5
-"Branko Ilić","Nemanja Maksimović",2
-"Branko Ilić","Georgi Zhukov",11
-"Branko Ilić","Foxi Kéthévoama",1
-"Branko Ilić","Baurzhan Dzholchiyev",8
-"Branko Ilić","Evgeni Postnikov",15
-"Branko Ilić","Dmitri Shomko",1
-"Branko Ilić","Roger Cañas",9
-"Branko Ilić","Junior Kabananga",6
-"Branko Ilić","Aleksei Schetkin",2
-"Branko Ilić","Abzal Beysebekov",6
-"Branko Ilić","Denys Dedechko",10
-"Branko Ilić","Yeldos Akhmetov",1
-"Branko Ilić","Serikzhan Muzhikov",5
-"Branko Ilić","Igor Pikalkin",3
-"Branko Ilić","Birzhan Kulbekov",1
-"Branko Ilić","Patrick Twumasi",5
-"Aleksei Schetkin","Nemanja Maksimović",3
-"Aleksei Schetkin","Georgi Zhukov",1
-"Aleksei Schetkin","Foxi Kéthévoama",2
-"Aleksei Schetkin","Baurzhan Dzholchiyev",1
-"Aleksei Schetkin","Branko Ilić",1
-"Aleksei Schetkin","Junior Kabananga",2
-"Aleksei Schetkin","Abzal Beysebekov",3
-"Aleksei Schetkin","Serikzhan Muzhikov",1
-"Aleksei Schetkin","Igor Pikalkin",1
-"Denys Dedechko","Nenad Erić",2
-"Denys Dedechko","Foxi Kéthévoama",6
-"Denys Dedechko","Branko Ilić",3
-"Denys Dedechko","Evgeni Postnikov",6
-"Denys Dedechko","Aleksei Schetkin",2
-"Denys Dedechko","Abzal Beysebekov",4
-"Denys Dedechko","Yeldos Akhmetov",4
-"Denys Dedechko","Serikzhan Muzhikov",4
-"Denys Dedechko","Igor Pikalkin",2
-"Denys Dedechko","Zhakyp Kozhamberdy",1
-"Denys Dedechko","Birzhan Kulbekov",2
-"Yeldos Akhmetov","Georgi Zhukov",2
-"Yeldos Akhmetov","Foxi Kéthévoama",6
-"Yeldos Akhmetov","Serikzhan Muzhikov",1
-"Yeldos Akhmetov","Denys Dedechko",4
-"Yeldos Akhmetov","Evgeni Postnikov",6
-"Yeldos Akhmetov","Junior Kabananga",3
-"Igor Pikalkin","Aleksei Schetkin",1
-"Igor Pikalkin","Foxi Kéthévoama",1
-"Igor Pikalkin","Abzal Beysebekov",3
-"Igor Pikalkin","Branko Ilić",3
-"Igor Pikalkin","Evgeni Postnikov",1
-"Igor Pikalkin","Junior Kabananga",1
-"Igor Pikalkin","Zhakyp Kozhamberdy",1
-"Zhakyp Kozhamberdy","Yeldos Akhmetov",1
-"Zhakyp Kozhamberdy","Abzal Beysebekov",1
-"Zhakyp Kozhamberdy","Igor Pikalkin",2
-"Birzhan Kulbekov","Yeldos Akhmetov",1
-"Birzhan Kulbekov","Branko Ilić",1
-"Birzhan Kulbekov","Evgeni Postnikov",2
-"Patrick Twumasi","Nemanja Maksimović",1
-"Patrick Twumasi","Branko Ilić",6
-"Patrick Twumasi","Evgeni Postnikov",1
-"Patrick Twumasi","Junior Kabananga",5
+Source,Target,Weight
+"1","5",8
+"1","6",5
+"1","10",9
+"1","22",2
+"1","33",1
+"1","44",5
+"1","77",5
+"1","88",1
+"1","89",6
+"1","33",10
+"1","9",5
+"1","24",2
+"1","2",1
+"5","1",14
+"5","6",4
+"5","8",2
+"5","10",8
+"5","22",3
+"5","33",1
+"5","44",17
+"5","77",25
+"5","88",12
+"5","11",4
+"5","89",5
+"5","9",1
+"5","8",1
+"5","33",5
+"6","1",1
+"6","5",8
+"6","8",2
+"6","10",15
+"6","17",3
+"6","22",1
+"6","44",4
+"6","77",13
+"6","88",20
+"6","11",2
+"6","89",5
+"6","8",2
+"6","33",4
+"6","9",1
+"6","23",3
+"8","5",3
+"8","10",2
+"8","17",5
+"8","22",5
+"8","33",3
+"8","77",4
+"8","88",2
+"8","89",2
+"10","5",2
+"10","6",8
+"10","8",3
+"10","17",3
+"10","22",10
+"10","33",1
+"10","44",4
+"10","77",17
+"10","88",10
+"10","11",9
+"10","15",1
+"10","89",19
+"10","8",4
+"10","33",2
+"10","9",4
+"10","24",1
+"10","2",4
+"10","12",3
+"10","23",1
+"17","6",3
+"17","8",2
+"17","10",1
+"17","22",5
+"17","33",1
+"17","77",2
+"17","88",4
+"22","1",1
+"22","5",1
+"22","6",3
+"22","8",2
+"22","10",2
+"22","17",6
+"22","33",6
+"22","88",5
+"22","11",4
+"22","89",10
+"22","8",5
+"22","33",5
+"22","9",2
+"33","1",2
+"33","5",1
+"33","8",5
+"33","10",1
+"33","17",2
+"33","22",9
+"33","44",5
+"33","77",2
+"33","88",6
+"33","15",1
+"44","1",11
+"44","5",21
+"44","6",6
+"44","10",5
+"44","22",11
+"44","33",8
+"44","77",7
+"44","88",20
+"44","11",3
+"44","89",4
+"44","8",6
+"44","33",22
+"44","9",2
+"44","24",2
+"44","2",11
+"44","20",1
+"77","1",3
+"77","5",11
+"77","6",13
+"77","8",2
+"77","10",36
+"77","17",4
+"77","22",4
+"77","33",1
+"77","44",9
+"77","88",16
+"77","11",6
+"77","89",12
+"77","9",1
+"77","8",1
+"77","33",1
+"88","5",23
+"88","6",9
+"88","8",6
+"88","10",14
+"88","17",1
+"88","22",14
+"88","33",8
+"88","44",15
+"88","77",36
+"88","11",5
+"88","15",1
+"88","89",9
+"88","9",1
+"88","8",7
+"88","33",16
+"88","23",4
+"11","5",2
+"11","6",2
+"11","10",11
+"11","22",1
+"11","44",2
+"11","77",3
+"11","88",5
+"11","15",2
+"11","89",8
+"11","2",2
+"11","8",1
+"11","9",1
+"11","33",6
+"15","6",2
+"15","10",3
+"15","33",1
+"15","77",1
+"15","89",1
+"15","8",7
+"15","33",5
+"15","9",4
+"15","24",4
+"15","28",1
+"89","6",4
+"89","8",1
+"89","10",16
+"89","22",4
+"89","77",4
+"89","88",5
+"89","11",4
+"89","15",1
+"89","8",5
+"89","33",1
+"89","9",2
+"89","2",2
+"89","28",2
+"89","23",4
+"9","22",1
+"8","5",2
+"8","6",2
+"8","10",7
+"8","22",4
+"8","33",8
+"8","44",4
+"8","77",3
+"8","88",7
+"8","89",1
+"8","9",4
+"8","15",7
+"8","24",2
+"8","2",1
+"8","11",1
+"33","1",13
+"33","5",5
+"33","6",2
+"33","8",11
+"33","10",1
+"33","22",8
+"33","44",15
+"33","77",1
+"33","88",9
+"33","89",6
+"33","9",2
+"33","15",6
+"33","24",10
+"33","2",1
+"33","11",5
+"33","12",3
+"33","28",1
+"33","23",5
+"9","6",3
+"9","8",1
+"9","10",2
+"9","22",1
+"9","33",1
+"9","89",2
+"9","15",3
+"9","11",1
+"9","12",1
+"24","1",2
+"24","10",6
+"24","33",3
+"24","44",6
+"24","9",2
+"24","15",4
+"24","2",4
+"24","11",4
+"24","12",2
+"24","20",1
+"24","28",2
+"2","8",2
+"2","10",6
+"2","11",1
+"2","24",4
+"2","44",6
+"2","89",3
+"12","9",1
+"12","10",1
+"12","15",3
+"12","33",3
+"12","44",1
+"12","89",1
+"12","20",1
+"20","2",1
+"20","15",1
+"20","12",2
+"28","2",1
+"28","33",1
+"28","44",2
+"23","6",1
+"23","33",6
+"23","44",1
+"23","89",5

@@ -1,414 +1,415 @@
-"Ralf Fährmann","Kevin-Prince Boateng",4
-"Ralf Fährmann","Marco Höger",6
-"Ralf Fährmann","Dennis Aogo",7
-"Ralf Fährmann","Christian Fuchs",9
-"Ralf Fährmann","Kaan Ayhan",13
-"Ralf Fährmann","Klaas-Jan Huntelaar",1
-"Ralf Fährmann","Roman Neustädter",36
-"Ralf Fährmann","Eric Maxim Choupo-Moting",1
-"Ralf Fährmann","Tranquillo Barnetta",2
-"Ralf Fährmann","Joel Matip",2
-"Ralf Fährmann","Atsuto Uchida",2
-"Ralf Fährmann","Benedikt Höwedes",19
-"Ralf Fährmann","Choupo-Moting",1
-"Ralf Fährmann","Jan Kirchhoff",4
-"Ralf Fährmann","Felipe Santana",2
-"Ralf Fährmann","Christian Clemens",1
-"Max Meyer","Kevin-Prince Boateng",7
-"Max Meyer","Julian Draxler",3
-"Max Meyer","Marco Höger",17
-"Max Meyer","Dennis Aogo",14
-"Max Meyer","Sidney Sam",6
-"Max Meyer","Christian Fuchs",15
-"Max Meyer","Kaan Ayhan",2
-"Max Meyer","Klaas-Jan Huntelaar",10
-"Max Meyer","Roman Neustädter",15
-"Max Meyer","Eric Maxim Choupo-Moting",3
-"Max Meyer","Chinedu Obasi",4
-"Max Meyer","Tranquillo Barnetta",11
-"Max Meyer","Joel Matip",3
-"Max Meyer","Atsuto Uchida",12
-"Max Meyer","Benedikt Höwedes",11
-"Max Meyer","Choupo-Moting",11
-"Max Meyer","Jan Kirchhoff",1
-"Max Meyer","Christian Clemens",4
-"Max Meyer","Matija Nastasić",4
-"Max Meyer","Leon Goretzka",1
-"Max Meyer","Leroy Sané",3
-"Kevin-Prince Boateng","Ralf Fährmann",1
-"Kevin-Prince Boateng","Max Meyer",9
-"Kevin-Prince Boateng","Julian Draxler",15
-"Kevin-Prince Boateng","Marco Höger",20
-"Kevin-Prince Boateng","Dennis Aogo",28
-"Kevin-Prince Boateng","Sidney Sam",3
-"Kevin-Prince Boateng","Christian Fuchs",12
-"Kevin-Prince Boateng","Kaan Ayhan",16
-"Kevin-Prince Boateng","Klaas-Jan Huntelaar",7
-"Kevin-Prince Boateng","Roman Neustädter",22
-"Kevin-Prince Boateng","Eric Maxim Choupo-Moting",10
-"Kevin-Prince Boateng","Chinedu Obasi",6
-"Kevin-Prince Boateng","Tranquillo Barnetta",4
-"Kevin-Prince Boateng","Joel Matip",1
-"Kevin-Prince Boateng","Atsuto Uchida",16
-"Kevin-Prince Boateng","Benedikt Höwedes",12
-"Kevin-Prince Boateng","Choupo-Moting",8
-"Kevin-Prince Boateng","Jan Kirchhoff",6
-"Kevin-Prince Boateng","Matija Nastasić",2
-"Kevin-Prince Boateng","Felix Platte",3
-"Julian Draxler","Ralf Fährmann",1
-"Julian Draxler","Max Meyer",8
-"Julian Draxler","Kevin-Prince Boateng",12
-"Julian Draxler","Marco Höger",5
-"Julian Draxler","Dennis Aogo",14
-"Julian Draxler","Sidney Sam",4
-"Julian Draxler","Christian Fuchs",11
-"Julian Draxler","Kaan Ayhan",6
-"Julian Draxler","Klaas-Jan Huntelaar",8
-"Julian Draxler","Roman Neustädter",10
-"Julian Draxler","Eric Maxim Choupo-Moting",1
-"Julian Draxler","Chinedu Obasi",5
-"Julian Draxler","Tranquillo Barnetta",5
-"Julian Draxler","Joel Matip",4
-"Julian Draxler","Benedikt Höwedes",4
-"Marco Höger","Ralf Fährmann",7
-"Marco Höger","Max Meyer",11
-"Marco Höger","Kevin-Prince Boateng",21
-"Marco Höger","Julian Draxler",2
-"Marco Höger","Dennis Aogo",27
-"Marco Höger","Sidney Sam",7
-"Marco Höger","Christian Fuchs",8
-"Marco Höger","Kaan Ayhan",22
-"Marco Höger","Klaas-Jan Huntelaar",12
-"Marco Höger","Roman Neustädter",25
-"Marco Höger","Eric Maxim Choupo-Moting",4
-"Marco Höger","Chinedu Obasi",8
-"Marco Höger","Tranquillo Barnetta",24
-"Marco Höger","Benedikt Höwedes",20
-"Marco Höger","Atsuto Uchida",69
-"Marco Höger","Choupo-Moting",23
-"Marco Höger","Jan Kirchhoff",9
-"Marco Höger","Felipe Santana",5
-"Marco Höger","Christian Clemens",5
-"Marco Höger","Joel Matip",1
-"Marco Höger","Felix Platte",2
-"Marco Höger","Leroy Sané",2
-"Dennis Aogo","Ralf Fährmann",8
-"Dennis Aogo","Max Meyer",11
-"Dennis Aogo","Kevin-Prince Boateng",21
-"Dennis Aogo","Julian Draxler",22
-"Dennis Aogo","Marco Höger",32
-"Dennis Aogo","Sidney Sam",3
-"Dennis Aogo","Christian Fuchs",40
-"Dennis Aogo","Kaan Ayhan",12
-"Dennis Aogo","Klaas-Jan Huntelaar",9
-"Dennis Aogo","Roman Neustädter",61
-"Dennis Aogo","Eric Maxim Choupo-Moting",6
-"Dennis Aogo","Chinedu Obasi",1
-"Dennis Aogo","Tranquillo Barnetta",10
-"Dennis Aogo","Joel Matip",4
-"Dennis Aogo","Atsuto Uchida",12
-"Dennis Aogo","Benedikt Höwedes",28
-"Dennis Aogo","Choupo-Moting",19
-"Dennis Aogo","Jan Kirchhoff",15
-"Dennis Aogo","Felipe Santana",3
-"Dennis Aogo","Christian Clemens",2
-"Dennis Aogo","Timon Wellenreuther",1
-"Dennis Aogo","Matija Nastasić",4
-"Sidney Sam","Max Meyer",7
-"Sidney Sam","Kevin-Prince Boateng",2
-"Sidney Sam","Marco Höger",6
-"Sidney Sam","Dennis Aogo",1
-"Sidney Sam","Christian Fuchs",1
-"Sidney Sam","Kaan Ayhan",1
-"Sidney Sam","Klaas-Jan Huntelaar",2
-"Sidney Sam","Roman Neustädter",1
-"Sidney Sam","Benedikt Höwedes",2
-"Sidney Sam","Jan Kirchhoff",2
-"Christian Fuchs","Ralf Fährmann",6
-"Christian Fuchs","Max Meyer",20
-"Christian Fuchs","Kevin-Prince Boateng",10
-"Christian Fuchs","Julian Draxler",18
-"Christian Fuchs","Marco Höger",1
-"Christian Fuchs","Dennis Aogo",18
-"Christian Fuchs","Kaan Ayhan",3
-"Christian Fuchs","Klaas-Jan Huntelaar",11
-"Christian Fuchs","Roman Neustädter",25
-"Christian Fuchs","Eric Maxim Choupo-Moting",1
-"Christian Fuchs","Tranquillo Barnetta",13
-"Christian Fuchs","Joel Matip",4
-"Christian Fuchs","Atsuto Uchida",1
-"Christian Fuchs","Benedikt Höwedes",14
-"Christian Fuchs","Choupo-Moting",7
-"Christian Fuchs","Jan Kirchhoff",4
-"Christian Fuchs","Matija Nastasić",4
-"Christian Fuchs","Leon Goretzka",1
-"Christian Fuchs","Leroy Sané",3
-"Kaan Ayhan","Ralf Fährmann",13
-"Kaan Ayhan","Max Meyer",1
-"Kaan Ayhan","Kevin-Prince Boateng",19
-"Kaan Ayhan","Julian Draxler",8
-"Kaan Ayhan","Marco Höger",18
-"Kaan Ayhan","Dennis Aogo",11
-"Kaan Ayhan","Sidney Sam",2
-"Kaan Ayhan","Christian Fuchs",2
-"Kaan Ayhan","Klaas-Jan Huntelaar",4
-"Kaan Ayhan","Roman Neustädter",19
-"Kaan Ayhan","Eric Maxim Choupo-Moting",5
-"Kaan Ayhan","Tranquillo Barnetta",3
-"Kaan Ayhan","Joel Matip",6
-"Kaan Ayhan","Atsuto Uchida",11
-"Kaan Ayhan","Benedikt Höwedes",25
-"Kaan Ayhan","Choupo-Moting",1
-"Klaas-Jan Huntelaar","Max Meyer",13
-"Klaas-Jan Huntelaar","Kevin-Prince Boateng",8
-"Klaas-Jan Huntelaar","Julian Draxler",9
-"Klaas-Jan Huntelaar","Marco Höger",16
-"Klaas-Jan Huntelaar","Dennis Aogo",8
-"Klaas-Jan Huntelaar","Sidney Sam",2
-"Klaas-Jan Huntelaar","Christian Fuchs",7
-"Klaas-Jan Huntelaar","Roman Neustädter",8
-"Klaas-Jan Huntelaar","Eric Maxim Choupo-Moting",2
-"Klaas-Jan Huntelaar","Chinedu Obasi",5
-"Klaas-Jan Huntelaar","Tranquillo Barnetta",6
-"Klaas-Jan Huntelaar","Atsuto Uchida",6
-"Klaas-Jan Huntelaar","Benedikt Höwedes",7
-"Klaas-Jan Huntelaar","Choupo-Moting",16
-"Klaas-Jan Huntelaar","Jan Kirchhoff",1
-"Klaas-Jan Huntelaar","Christian Clemens",2
-"Klaas-Jan Huntelaar","Timon Wellenreuther",1
-"Klaas-Jan Huntelaar","Matija Nastasić",1
-"Klaas-Jan Huntelaar","Leon Goretzka",1
-"Klaas-Jan Huntelaar","Leroy Sané",4
-"Roman Neustädter","Ralf Fährmann",24
-"Roman Neustädter","Max Meyer",24
-"Roman Neustädter","Kevin-Prince Boateng",31
-"Roman Neustädter","Julian Draxler",12
-"Roman Neustädter","Marco Höger",38
-"Roman Neustädter","Dennis Aogo",52
-"Roman Neustädter","Sidney Sam",1
-"Roman Neustädter","Christian Fuchs",34
-"Roman Neustädter","Kaan Ayhan",25
-"Roman Neustädter","Klaas-Jan Huntelaar",25
-"Roman Neustädter","Eric Maxim Choupo-Moting",4
-"Roman Neustädter","Chinedu Obasi",3
-"Roman Neustädter","Tranquillo Barnetta",15
-"Roman Neustädter","Joel Matip",25
-"Roman Neustädter","Atsuto Uchida",23
-"Roman Neustädter","Benedikt Höwedes",42
-"Roman Neustädter","Choupo-Moting",19
-"Roman Neustädter","Jan Kirchhoff",18
-"Roman Neustädter","Felipe Santana",11
-"Roman Neustädter","Christian Clemens",1
-"Roman Neustädter","Timon Wellenreuther",4
-"Roman Neustädter","Matija Nastasić",14
-"Roman Neustädter","Leon Goretzka",1
-"Roman Neustädter","Leroy Sané",7
-"Eric Maxim Choupo-Moting","Ralf Fährmann",1
-"Eric Maxim Choupo-Moting","Max Meyer",1
-"Eric Maxim Choupo-Moting","Kevin-Prince Boateng",7
-"Eric Maxim Choupo-Moting","Julian Draxler",4
-"Eric Maxim Choupo-Moting","Marco Höger",6
-"Eric Maxim Choupo-Moting","Dennis Aogo",7
-"Eric Maxim Choupo-Moting","Kaan Ayhan",4
-"Eric Maxim Choupo-Moting","Klaas-Jan Huntelaar",3
-"Eric Maxim Choupo-Moting","Roman Neustädter",2
-"Eric Maxim Choupo-Moting","Tranquillo Barnetta",5
-"Eric Maxim Choupo-Moting","Joel Matip",1
-"Eric Maxim Choupo-Moting","Atsuto Uchida",6
-"Chinedu Obasi","Max Meyer",1
-"Chinedu Obasi","Kevin-Prince Boateng",2
-"Chinedu Obasi","Julian Draxler",1
-"Chinedu Obasi","Marco Höger",6
-"Chinedu Obasi","Dennis Aogo",3
-"Chinedu Obasi","Kaan Ayhan",2
-"Chinedu Obasi","Klaas-Jan Huntelaar",3
-"Chinedu Obasi","Tranquillo Barnetta",2
-"Chinedu Obasi","Atsuto Uchida",16
-"Chinedu Obasi","Benedikt Höwedes",1
-"Chinedu Obasi","Choupo-Moting",3
-"Tranquillo Barnetta","Max Meyer",7
-"Tranquillo Barnetta","Kevin-Prince Boateng",6
-"Tranquillo Barnetta","Julian Draxler",5
-"Tranquillo Barnetta","Marco Höger",11
-"Tranquillo Barnetta","Dennis Aogo",6
-"Tranquillo Barnetta","Christian Fuchs",11
-"Tranquillo Barnetta","Kaan Ayhan",4
-"Tranquillo Barnetta","Klaas-Jan Huntelaar",8
-"Tranquillo Barnetta","Roman Neustädter",17
-"Tranquillo Barnetta","Eric Maxim Choupo-Moting",5
-"Tranquillo Barnetta","Chinedu Obasi",2
-"Tranquillo Barnetta","Joel Matip",4
-"Tranquillo Barnetta","Atsuto Uchida",9
-"Tranquillo Barnetta","Jan Kirchhoff",1
-"Tranquillo Barnetta","Benedikt Höwedes",5
-"Tranquillo Barnetta","Choupo-Moting",4
-"Tranquillo Barnetta","Matija Nastasić",1
-"Tranquillo Barnetta","Leon Goretzka",5
-"Tranquillo Barnetta","Leroy Sané",3
-"Joel Matip","Ralf Fährmann",6
-"Joel Matip","Kevin-Prince Boateng",7
-"Joel Matip","Julian Draxler",3
-"Joel Matip","Eric Maxim Choupo-Moting",2
-"Joel Matip","Dennis Aogo",3
-"Joel Matip","Christian Fuchs",4
-"Joel Matip","Kaan Ayhan",5
-"Joel Matip","Klaas-Jan Huntelaar",3
-"Joel Matip","Tranquillo Barnetta",5
-"Joel Matip","Roman Neustädter",26
-"Joel Matip","Max Meyer",3
-"Joel Matip","Atsuto Uchida",11
-"Joel Matip","Timon Wellenreuther",5
-"Joel Matip","Benedikt Höwedes",8
-"Joel Matip","Marco Höger",5
-"Joel Matip","Choupo-Moting",2
-"Joel Matip","Matija Nastasić",15
-"Joel Matip","Jan Kirchhoff",1
-"Joel Matip","Felix Platte",2
-"Joel Matip","Leon Goretzka",1
-"Joel Matip","Leroy Sané",1
-"Atsuto Uchida","Ralf Fährmann",8
-"Atsuto Uchida","Kevin-Prince Boateng",8
-"Atsuto Uchida","Julian Draxler",2
-"Atsuto Uchida","Eric Maxim Choupo-Moting",4
-"Atsuto Uchida","Dennis Aogo",12
-"Atsuto Uchida","Kaan Ayhan",10
-"Atsuto Uchida","Klaas-Jan Huntelaar",13
-"Atsuto Uchida","Tranquillo Barnetta",5
-"Atsuto Uchida","Joel Matip",1
-"Atsuto Uchida","Roman Neustädter",20
-"Atsuto Uchida","Max Meyer",10
-"Atsuto Uchida","Chinedu Obasi",19
-"Atsuto Uchida","Benedikt Höwedes",7
-"Atsuto Uchida","Marco Höger",45
-"Atsuto Uchida","Sidney Sam",5
-"Atsuto Uchida","Choupo-Moting",14
-"Atsuto Uchida","Jan Kirchhoff",7
-"Atsuto Uchida","Felipe Santana",3
-"Atsuto Uchida","Christian Clemens",10
-"Atsuto Uchida","Matija Nastasić",1
-"Atsuto Uchida","Felix Platte",1
-"Atsuto Uchida","Leon Goretzka",1
-"Benedikt Höwedes","Ralf Fährmann",16
-"Benedikt Höwedes","Kevin-Prince Boateng",14
-"Benedikt Höwedes","Julian Draxler",6
-"Benedikt Höwedes","Marco Höger",32
-"Benedikt Höwedes","Dennis Aogo",43
-"Benedikt Höwedes","Chinedu Obasi",2
-"Benedikt Höwedes","Atsuto Uchida",15
-"Benedikt Höwedes","Kaan Ayhan",17
-"Benedikt Höwedes","Klaas-Jan Huntelaar",5
-"Benedikt Höwedes","Roman Neustädter",37
-"Benedikt Höwedes","Max Meyer",13
-"Benedikt Höwedes","Eric Maxim Choupo-Moting",5
-"Benedikt Höwedes","Sidney Sam",3
-"Benedikt Höwedes","Choupo-Moting",14
-"Benedikt Höwedes","Christian Fuchs",12
-"Benedikt Höwedes","Jan Kirchhoff",28
-"Benedikt Höwedes","Felipe Santana",1
-"Benedikt Höwedes","Tranquillo Barnetta",14
-"Benedikt Höwedes","Timon Wellenreuther",6
-"Benedikt Höwedes","Matija Nastasić",2
-"Benedikt Höwedes","Joel Matip",7
-"Benedikt Höwedes","Felix Platte",2
-"Benedikt Höwedes","Leon Goretzka",6
-"Benedikt Höwedes","Leroy Sané",2
-"Choupo-Moting","Benedikt Höwedes",6
-"Choupo-Moting","Max Meyer",14
-"Choupo-Moting","Marco Höger",24
-"Choupo-Moting","Dennis Aogo",14
-"Choupo-Moting","Chinedu Obasi",1
-"Choupo-Moting","Atsuto Uchida",11
-"Choupo-Moting","Christian Fuchs",6
-"Choupo-Moting","Klaas-Jan Huntelaar",9
-"Choupo-Moting","Roman Neustädter",7
-"Choupo-Moting","Jan Kirchhoff",9
-"Choupo-Moting","Kevin-Prince Boateng",9
-"Choupo-Moting","Christian Clemens",4
-"Choupo-Moting","Tranquillo Barnetta",5
-"Choupo-Moting","Marvin Friedrich",1
-"Choupo-Moting","Kaan Ayhan",2
-"Choupo-Moting","Felix Platte",2
-"Jan Kirchhoff","Ralf Fährmann",3
-"Jan Kirchhoff","Benedikt Höwedes",36
-"Jan Kirchhoff","Max Meyer",3
-"Jan Kirchhoff","Marco Höger",14
-"Jan Kirchhoff","Choupo-Moting",6
-"Jan Kirchhoff","Dennis Aogo",10
-"Jan Kirchhoff","Atsuto Uchida",5
-"Jan Kirchhoff","Christian Fuchs",2
-"Jan Kirchhoff","Klaas-Jan Huntelaar",4
-"Jan Kirchhoff","Roman Neustädter",26
-"Jan Kirchhoff","Kevin-Prince Boateng",6
-"Jan Kirchhoff","Sidney Sam",2
-"Jan Kirchhoff","Felipe Santana",5
-"Jan Kirchhoff","Tranquillo Barnetta",2
-"Jan Kirchhoff","Matija Nastasić",2
-"Jan Kirchhoff","Felix Platte",3
-"Felipe Santana","Ralf Fährmann",5
-"Felipe Santana","Jan Kirchhoff",5
-"Felipe Santana","Benedikt Höwedes",2
-"Felipe Santana","Kevin-Prince Boateng",1
-"Felipe Santana","Marco Höger",8
-"Felipe Santana","Choupo-Moting",1
-"Felipe Santana","Dennis Aogo",5
-"Felipe Santana","Atsuto Uchida",2
-"Felipe Santana","Roman Neustädter",11
-"Felipe Santana","Max Meyer",1
-"Christian Clemens","Kevin-Prince Boateng",2
-"Christian Clemens","Marco Höger",3
-"Christian Clemens","Choupo-Moting",1
-"Christian Clemens","Dennis Aogo",3
-"Christian Clemens","Atsuto Uchida",4
-"Christian Clemens","Klaas-Jan Huntelaar",3
-"Christian Clemens","Max Meyer",2
-"Timon Wellenreuther","Benedikt Höwedes",5
-"Timon Wellenreuther","Marco Höger",3
-"Timon Wellenreuther","Dennis Aogo",1
-"Timon Wellenreuther","Atsuto Uchida",1
-"Timon Wellenreuther","Klaas-Jan Huntelaar",1
-"Timon Wellenreuther","Matija Nastasić",7
-"Timon Wellenreuther","Joel Matip",4
-"Timon Wellenreuther","Roman Neustädter",7
-"Timon Wellenreuther","Max Meyer",1
-"Timon Wellenreuther","Felix Platte",2
-"Timon Wellenreuther","Tranquillo Barnetta",2
-"Timon Wellenreuther","Leon Goretzka",1
-"Matija Nastasić","Timon Wellenreuther",10
-"Matija Nastasić","Benedikt Höwedes",2
-"Matija Nastasić","Kevin-Prince Boateng",4
-"Matija Nastasić","Choupo-Moting",4
-"Matija Nastasić","Dennis Aogo",8
-"Matija Nastasić","Klaas-Jan Huntelaar",3
-"Matija Nastasić","Joel Matip",14
-"Matija Nastasić","Roman Neustädter",10
-"Matija Nastasić","Jan Kirchhoff",1
-"Matija Nastasić","Max Meyer",2
-"Matija Nastasić","Christian Fuchs",5
-"Matija Nastasić","Tranquillo Barnetta",1
-"Matija Nastasić","Leon Goretzka",1
-"Felix Platte","Kevin-Prince Boateng",3
-"Felix Platte","Marco Höger",1
-"Felix Platte","Choupo-Moting",3
-"Felix Platte","Dennis Aogo",1
-"Felix Platte","Jan Kirchhoff",4
-"Felix Platte","Max Meyer",1
-"Leon Goretzka","Benedikt Höwedes",1
-"Leon Goretzka","Max Meyer",2
-"Leon Goretzka","Christian Fuchs",2
-"Leon Goretzka","Klaas-Jan Huntelaar",2
-"Leon Goretzka","Tranquillo Barnetta",5
-"Leon Goretzka","Matija Nastasić",1
-"Leon Goretzka","Joel Matip",1
-"Leon Goretzka","Roman Neustädter",4
-"Leon Goretzka","Leroy Sané",1
-"Leroy Sané","Benedikt Höwedes",2
-"Leroy Sané","Max Meyer",7
-"Leroy Sané","Marco Höger",2
-"Leroy Sané","Christian Fuchs",1
-"Leroy Sané","Klaas-Jan Huntelaar",1
-"Leroy Sané","Tranquillo Barnetta",3
-"Leroy Sané","Matija Nastasić",1
-"Leroy Sané","Joel Matip",1
-"Leroy Sané","Roman Neustädter",3
-"Leroy Sané","Leon Goretzka",1
-"Leroy Sané","Atsuto Uchida",1
+Source,Target,Weight
+"1","9",4
+"1","12",6
+"1","15",7
+"1","23",9
+"1","24",13
+"1","25",1
+"1","33",36
+"1","13",1
+"1","27",2
+"1","32",2
+"1","22",2
+"1","4",19
+"1","13",1
+"1","3",4
+"1","5",2
+"1","11",1
+"7","9",7
+"7","10",3
+"7","12",17
+"7","15",14
+"7","18",6
+"7","23",15
+"7","24",2
+"7","25",10
+"7","33",15
+"7","13",3
+"7","20",4
+"7","27",11
+"7","32",3
+"7","22",12
+"7","4",11
+"7","13",11
+"7","3",1
+"7","11",4
+"7","31",4
+"7","8",1
+"7","19",3
+"9","1",1
+"9","7",9
+"9","10",15
+"9","12",20
+"9","15",28
+"9","18",3
+"9","23",12
+"9","24",16
+"9","25",7
+"9","33",22
+"9","13",10
+"9","20",6
+"9","27",4
+"9","32",1
+"9","22",16
+"9","4",12
+"9","13",8
+"9","3",6
+"9","31",2
+"9","36",3
+"10","1",1
+"10","7",8
+"10","9",12
+"10","12",5
+"10","15",14
+"10","18",4
+"10","23",11
+"10","24",6
+"10","25",8
+"10","33",10
+"10","13",1
+"10","20",5
+"10","27",5
+"10","32",4
+"10","4",4
+"12","1",7
+"12","7",11
+"12","9",21
+"12","10",2
+"12","15",27
+"12","18",7
+"12","23",8
+"12","24",22
+"12","25",12
+"12","33",25
+"12","13",4
+"12","20",8
+"12","27",24
+"12","4",20
+"12","22",69
+"12","13",23
+"12","3",9
+"12","5",5
+"12","11",5
+"12","32",1
+"12","36",2
+"12","19",2
+"15","1",8
+"15","7",11
+"15","9",21
+"15","10",22
+"15","12",32
+"15","18",3
+"15","23",40
+"15","24",12
+"15","25",9
+"15","33",61
+"15","13",6
+"15","20",1
+"15","27",10
+"15","32",4
+"15","22",12
+"15","4",28
+"15","13",19
+"15","3",15
+"15","5",3
+"15","11",2
+"15","40",1
+"15","31",4
+"18","7",7
+"18","9",2
+"18","12",6
+"18","15",1
+"18","23",1
+"18","24",1
+"18","25",2
+"18","33",1
+"18","4",2
+"18","3",2
+"23","1",6
+"23","7",20
+"23","9",10
+"23","10",18
+"23","12",1
+"23","15",18
+"23","24",3
+"23","25",11
+"23","33",25
+"23","13",1
+"23","27",13
+"23","32",4
+"23","22",1
+"23","4",14
+"23","13",7
+"23","3",4
+"23","31",4
+"23","8",1
+"23","19",3
+"24","1",13
+"24","7",1
+"24","9",19
+"24","10",8
+"24","12",18
+"24","15",11
+"24","18",2
+"24","23",2
+"24","25",4
+"24","33",19
+"24","13",5
+"24","27",3
+"24","32",6
+"24","22",11
+"24","4",25
+"24","13",1
+"25","7",13
+"25","9",8
+"25","10",9
+"25","12",16
+"25","15",8
+"25","18",2
+"25","23",7
+"25","33",8
+"25","13",2
+"25","20",5
+"25","27",6
+"25","22",6
+"25","4",7
+"25","13",16
+"25","3",1
+"25","11",2
+"25","40",1
+"25","31",1
+"25","8",1
+"25","19",4
+"33","1",24
+"33","7",24
+"33","9",31
+"33","10",12
+"33","12",38
+"33","15",52
+"33","18",1
+"33","23",34
+"33","24",25
+"33","25",25
+"33","13",4
+"33","20",3
+"33","27",15
+"33","32",25
+"33","22",23
+"33","4",42
+"33","13",19
+"33","3",18
+"33","5",11
+"33","11",1
+"33","40",4
+"33","31",14
+"33","8",1
+"33","19",7
+"13","1",1
+"13","7",1
+"13","9",7
+"13","10",4
+"13","12",6
+"13","15",7
+"13","24",4
+"13","25",3
+"13","33",2
+"13","27",5
+"13","32",1
+"13","22",6
+"20","7",1
+"20","9",2
+"20","10",1
+"20","12",6
+"20","15",3
+"20","24",2
+"20","25",3
+"20","27",2
+"20","22",16
+"20","4",1
+"20","13",3
+"27","7",7
+"27","9",6
+"27","10",5
+"27","12",11
+"27","15",6
+"27","23",11
+"27","24",4
+"27","25",8
+"27","33",17
+"27","13",5
+"27","20",2
+"27","32",4
+"27","22",9
+"27","3",1
+"27","4",5
+"27","13",4
+"27","31",1
+"27","8",5
+"27","19",3
+"32","1",6
+"32","9",7
+"32","10",3
+"32","13",2
+"32","15",3
+"32","23",4
+"32","24",5
+"32","25",3
+"32","27",5
+"32","33",26
+"32","7",3
+"32","22",11
+"32","40",5
+"32","4",8
+"32","12",5
+"32","13",2
+"32","31",15
+"32","3",1
+"32","36",2
+"32","8",1
+"32","19",1
+"22","1",8
+"22","9",8
+"22","10",2
+"22","13",4
+"22","15",12
+"22","24",10
+"22","25",13
+"22","27",5
+"22","32",1
+"22","33",20
+"22","7",10
+"22","20",19
+"22","4",7
+"22","12",45
+"22","18",5
+"22","13",14
+"22","3",7
+"22","5",3
+"22","11",10
+"22","31",1
+"22","36",1
+"22","8",1
+"4","1",16
+"4","9",14
+"4","10",6
+"4","12",32
+"4","15",43
+"4","20",2
+"4","22",15
+"4","24",17
+"4","25",5
+"4","33",37
+"4","7",13
+"4","13",5
+"4","18",3
+"4","13",14
+"4","23",12
+"4","3",28
+"4","5",1
+"4","27",14
+"4","40",6
+"4","31",2
+"4","32",7
+"4","36",2
+"4","8",6
+"4","19",2
+"13","4",6
+"13","7",14
+"13","12",24
+"13","15",14
+"13","20",1
+"13","22",11
+"13","23",6
+"13","25",9
+"13","33",7
+"13","3",9
+"13","9",9
+"13","11",4
+"13","27",5
+"13","2",1
+"13","24",2
+"13","36",2
+"3","1",3
+"3","4",36
+"3","7",3
+"3","12",14
+"3","13",6
+"3","15",10
+"3","22",5
+"3","23",2
+"3","25",4
+"3","33",26
+"3","9",6
+"3","18",2
+"3","5",5
+"3","27",2
+"3","31",2
+"3","36",3
+"5","1",5
+"5","3",5
+"5","4",2
+"5","9",1
+"5","12",8
+"5","13",1
+"5","15",5
+"5","22",2
+"5","33",11
+"5","7",1
+"11","9",2
+"11","12",3
+"11","13",1
+"11","15",3
+"11","22",4
+"11","25",3
+"11","7",2
+"40","4",5
+"40","12",3
+"40","15",1
+"40","22",1
+"40","25",1
+"40","31",7
+"40","32",4
+"40","33",7
+"40","7",1
+"40","36",2
+"40","27",2
+"40","8",1
+"31","40",10
+"31","4",2
+"31","9",4
+"31","13",4
+"31","15",8
+"31","25",3
+"31","32",14
+"31","33",10
+"31","3",1
+"31","7",2
+"31","23",5
+"31","27",1
+"31","8",1
+"36","9",3
+"36","12",1
+"36","13",3
+"36","15",1
+"36","3",4
+"36","7",1
+"8","4",1
+"8","7",2
+"8","23",2
+"8","25",2
+"8","27",5
+"8","31",1
+"8","32",1
+"8","33",4
+"8","19",1
+"19","4",2
+"19","7",7
+"19","12",2
+"19","23",1
+"19","25",1
+"19","27",3
+"19","31",1
+"19","32",1
+"19","33",3
+"19","8",1
+"19","22",1

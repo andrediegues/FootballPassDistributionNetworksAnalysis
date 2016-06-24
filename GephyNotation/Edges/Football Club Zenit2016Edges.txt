@@ -1,276 +1,277 @@
-"Yuri Lodygin","Aleksandr Anyukov",1
-"Yuri Lodygin","Domenico Criscito",10
-"Yuri Lodygin","Nicolas Lombaerts",13
-"Yuri Lodygin","Hulk",7
-"Yuri Lodygin","Danny",3
-"Yuri Lodygin","Igor Smolnikov",1
-"Yuri Lodygin","Javi García",3
-"Yuri Lodygin","Artem Dzyuba",35
-"Yuri Lodygin","Ezequiel Garay",4
-"Yuri Lodygin","Axel Witsel",12
-"Yuri Lodygin","Luís Neto",11
-"Yuri Lodygin","Oleg Shatov",3
-"Yuri Lodygin","Artur Yusupov",1
-"Yuri Lodygin","Aleksandr Kokorin",1
-"Yuri Lodygin","Yuri Zhirkov",2
-"Aleksandr Anyukov","Yuri Lodygin",5
-"Aleksandr Anyukov","Nicolas Lombaerts",6
-"Aleksandr Anyukov","Hulk",17
-"Aleksandr Anyukov","Danny",10
-"Aleksandr Anyukov","Igor Smolnikov",4
-"Aleksandr Anyukov","Javi García",7
-"Aleksandr Anyukov","Artem Dzyuba",9
-"Aleksandr Anyukov","Ezequiel Garay",11
-"Aleksandr Anyukov","Axel Witsel",11
-"Aleksandr Anyukov","Luís Neto",6
-"Aleksandr Anyukov","Oleg Shatov",10
-"Aleksandr Anyukov","Mikhail Kerzhakov",4
-"Aleksandr Anyukov","Aleksandr Ryazantsev",1
-"Aleksandr Anyukov","Artur Yusupov",4
-"Aleksandr Anyukov","Aleksandr Kokorin",5
-"Domenico Criscito","Yuri Lodygin",3
-"Domenico Criscito","Aleksandr Anyukov",3
-"Domenico Criscito","Nicolas Lombaerts",26
-"Domenico Criscito","Hulk",10
-"Domenico Criscito","Danny",34
-"Domenico Criscito","Javi García",6
-"Domenico Criscito","Artem Dzyuba",13
-"Domenico Criscito","Ezequiel Garay",6
-"Domenico Criscito","Axel Witsel",17
-"Domenico Criscito","Luís Neto",5
-"Domenico Criscito","Oleg Shatov",15
-"Domenico Criscito","Mikhail Kerzhakov",1
-"Domenico Criscito","Aleksandr Ryazantsev",1
-"Domenico Criscito","Artur Yusupov",2
-"Domenico Criscito","Aleksei Evseev",2
-"Domenico Criscito","Konstantin Troyanov",1
-"Nicolas Lombaerts","Yuri Lodygin",13
-"Nicolas Lombaerts","Aleksandr Anyukov",7
-"Nicolas Lombaerts","Domenico Criscito",32
-"Nicolas Lombaerts","Hulk",8
-"Nicolas Lombaerts","Danny",33
-"Nicolas Lombaerts","Igor Smolnikov",3
-"Nicolas Lombaerts","Javi García",11
-"Nicolas Lombaerts","Artem Dzyuba",17
-"Nicolas Lombaerts","Ezequiel Garay",26
-"Nicolas Lombaerts","Axel Witsel",18
-"Nicolas Lombaerts","Luís Neto",15
-"Nicolas Lombaerts","Oleg Shatov",11
-"Nicolas Lombaerts","Mikhail Kerzhakov",4
-"Nicolas Lombaerts","Aleksandr Ryazantsev",1
-"Nicolas Lombaerts","Artur Yusupov",3
-"Nicolas Lombaerts","Maurício",4
-"Nicolas Lombaerts","Aleksandr Kokorin",1
-"Nicolas Lombaerts","Yuri Zhirkov",14
-"Hulk","Aleksandr Anyukov",9
-"Hulk","Domenico Criscito",4
-"Hulk","Nicolas Lombaerts",3
-"Hulk","Danny",39
-"Hulk","Igor Smolnikov",4
-"Hulk","Javi García",8
-"Hulk","Artem Dzyuba",25
-"Hulk","Axel Witsel",27
-"Hulk","Luís Neto",3
-"Hulk","Oleg Shatov",16
-"Hulk","Aleksandr Ryazantsev",2
-"Hulk","Artur Yusupov",1
-"Hulk","Maurício",2
-"Hulk","Aleksandr Kokorin",1
-"Hulk","Yuri Zhirkov",5
-"Danny","Yuri Lodygin",2
-"Danny","Aleksandr Anyukov",31
-"Danny","Domenico Criscito",32
-"Danny","Nicolas Lombaerts",12
-"Danny","Hulk",57
-"Danny","Igor Smolnikov",12
-"Danny","Javi García",16
-"Danny","Artem Dzyuba",21
-"Danny","Ezequiel Garay",9
-"Danny","Axel Witsel",65
-"Danny","Luís Neto",9
-"Danny","Oleg Shatov",34
-"Danny","Aleksandr Ryazantsev",5
-"Danny","Artur Yusupov",15
-"Danny","Konstantin Troyanov",1
-"Danny","Maurício",4
-"Danny","Aleksandr Kokorin",3
-"Danny","Yuri Zhirkov",4
-"Igor Smolnikov","Yuri Lodygin",1
-"Igor Smolnikov","Aleksandr Anyukov",3
-"Igor Smolnikov","Domenico Criscito",1
-"Igor Smolnikov","Nicolas Lombaerts",2
-"Igor Smolnikov","Hulk",11
-"Igor Smolnikov","Danny",9
-"Igor Smolnikov","Javi García",4
-"Igor Smolnikov","Artem Dzyuba",5
-"Igor Smolnikov","Ezequiel Garay",15
-"Igor Smolnikov","Axel Witsel",4
-"Igor Smolnikov","Luís Neto",4
-"Igor Smolnikov","Oleg Shatov",18
-"Igor Smolnikov","Mikhail Kerzhakov",1
-"Igor Smolnikov","Artur Yusupov",3
-"Igor Smolnikov","Maurício",4
-"Javi García","Yuri Lodygin",1
-"Javi García","Aleksandr Anyukov",15
-"Javi García","Domenico Criscito",8
-"Javi García","Nicolas Lombaerts",11
-"Javi García","Hulk",9
-"Javi García","Danny",29
-"Javi García","Igor Smolnikov",7
-"Javi García","Artem Dzyuba",4
-"Javi García","Ezequiel Garay",28
-"Javi García","Axel Witsel",9
-"Javi García","Luís Neto",5
-"Javi García","Oleg Shatov",8
-"Javi García","Mikhail Kerzhakov",2
-"Javi García","Aleksandr Ryazantsev",6
-"Javi García","Artur Yusupov",4
-"Artem Dzyuba","Aleksandr Anyukov",6
-"Artem Dzyuba","Domenico Criscito",5
-"Artem Dzyuba","Hulk",27
-"Artem Dzyuba","Danny",40
-"Artem Dzyuba","Igor Smolnikov",6
-"Artem Dzyuba","Javi García",3
-"Artem Dzyuba","Ezequiel Garay",1
-"Artem Dzyuba","Axel Witsel",10
-"Artem Dzyuba","Luís Neto",2
-"Artem Dzyuba","Oleg Shatov",14
-"Artem Dzyuba","Aleksandr Ryazantsev",2
-"Artem Dzyuba","Artur Yusupov",6
-"Artem Dzyuba","Dmitri Bogaev",1
-"Artem Dzyuba","Pavel Dolgov",1
-"Artem Dzyuba","Aleksandr Kokorin",1
-"Ezequiel Garay","Yuri Lodygin",5
-"Ezequiel Garay","Aleksandr Anyukov",12
-"Ezequiel Garay","Domenico Criscito",2
-"Ezequiel Garay","Nicolas Lombaerts",39
-"Ezequiel Garay","Hulk",6
-"Ezequiel Garay","Danny",21
-"Ezequiel Garay","Igor Smolnikov",8
-"Ezequiel Garay","Javi García",16
-"Ezequiel Garay","Artem Dzyuba",10
-"Ezequiel Garay","Axel Witsel",20
-"Ezequiel Garay","Luís Neto",15
-"Ezequiel Garay","Oleg Shatov",9
-"Ezequiel Garay","Viktor Fayzulin",1
-"Ezequiel Garay","Mikhail Kerzhakov",3
-"Ezequiel Garay","Artur Yusupov",5
-"Ezequiel Garay","Pavel Dolgov",1
-"Axel Witsel","Yuri Lodygin",1
-"Axel Witsel","Aleksandr Anyukov",21
-"Axel Witsel","Domenico Criscito",22
-"Axel Witsel","Nicolas Lombaerts",19
-"Axel Witsel","Hulk",41
-"Axel Witsel","Danny",72
-"Axel Witsel","Igor Smolnikov",14
-"Axel Witsel","Javi García",22
-"Axel Witsel","Artem Dzyuba",19
-"Axel Witsel","Ezequiel Garay",10
-"Axel Witsel","Luís Neto",3
-"Axel Witsel","Oleg Shatov",26
-"Axel Witsel","Viktor Fayzulin",2
-"Axel Witsel","Artur Yusupov",6
-"Axel Witsel","Maurício",8
-"Axel Witsel","Yuri Zhirkov",9
-"Luís Neto","Yuri Lodygin",3
-"Luís Neto","Aleksandr Anyukov",7
-"Luís Neto","Domenico Criscito",5
-"Luís Neto","Nicolas Lombaerts",16
-"Luís Neto","Hulk",6
-"Luís Neto","Danny",19
-"Luís Neto","Igor Smolnikov",8
-"Luís Neto","Javi García",6
-"Luís Neto","Artem Dzyuba",6
-"Luís Neto","Ezequiel Garay",16
-"Luís Neto","Axel Witsel",14
-"Luís Neto","Oleg Shatov",3
-"Luís Neto","Aleksandr Ryazantsev",1
-"Luís Neto","Artur Yusupov",8
-"Luís Neto","Dmitri Bogaev",1
-"Luís Neto","Maurício",13
-"Luís Neto","Aleksandr Kokorin",1
-"Oleg Shatov","Yuri Lodygin",2
-"Oleg Shatov","Aleksandr Anyukov",3
-"Oleg Shatov","Domenico Criscito",11
-"Oleg Shatov","Nicolas Lombaerts",9
-"Oleg Shatov","Hulk",23
-"Oleg Shatov","Danny",27
-"Oleg Shatov","Igor Smolnikov",13
-"Oleg Shatov","Javi García",8
-"Oleg Shatov","Artem Dzyuba",13
-"Oleg Shatov","Ezequiel Garay",4
-"Oleg Shatov","Axel Witsel",33
-"Oleg Shatov","Luís Neto",5
-"Oleg Shatov","Viktor Fayzulin",1
-"Oleg Shatov","Artur Yusupov",3
-"Oleg Shatov","Yuri Zhirkov",1
-"Viktor Fayzulin","Danny",2
-"Viktor Fayzulin","Oleg Shatov",1
-"Mikhail Kerzhakov","Nicolas Lombaerts",1
-"Mikhail Kerzhakov","Hulk",3
-"Mikhail Kerzhakov","Danny",3
-"Mikhail Kerzhakov","Javi García",2
-"Mikhail Kerzhakov","Artem Dzyuba",11
-"Mikhail Kerzhakov","Ezequiel Garay",2
-"Mikhail Kerzhakov","Axel Witsel",1
-"Aleksandr Ryazantsev","Aleksandr Anyukov",5
-"Aleksandr Ryazantsev","Hulk",2
-"Aleksandr Ryazantsev","Danny",6
-"Aleksandr Ryazantsev","Javi García",2
-"Aleksandr Ryazantsev","Artem Dzyuba",2
-"Aleksandr Ryazantsev","Ezequiel Garay",2
-"Aleksandr Ryazantsev","Artur Yusupov",3
-"Aleksandr Ryazantsev","Domenico Criscito",1
-"Aleksandr Ryazantsev","Yuri Lodygin",1
-"Artur Yusupov","Aleksandr Anyukov",2
-"Artur Yusupov","Nicolas Lombaerts",10
-"Artur Yusupov","Hulk",3
-"Artur Yusupov","Danny",14
-"Artur Yusupov","Oleg Shatov",7
-"Artur Yusupov","Igor Smolnikov",1
-"Artur Yusupov","Javi García",11
-"Artur Yusupov","Artem Dzyuba",5
-"Artur Yusupov","Ezequiel Garay",6
-"Artur Yusupov","Axel Witsel",5
-"Artur Yusupov","Aleksandr Ryazantsev",5
-"Artur Yusupov","Luís Neto",5
-"Artur Yusupov","Domenico Criscito",8
-"Artur Yusupov","Yuri Lodygin",1
-"Artur Yusupov","Pavel Dolgov",2
-"Artur Yusupov","Yuri Zhirkov",2
-"Aleksei Evseev","Artur Yusupov",1
-"Dmitri Bogaev","Artur Yusupov",1
-"Konstantin Troyanov","Danny",1
-"Pavel Dolgov","Yuri Lodygin",1
-"Pavel Dolgov","Nicolas Lombaerts",1
-"Pavel Dolgov","Danny",1
-"Pavel Dolgov","Artem Dzyuba",1
-"Maurício","Yuri Lodygin",1
-"Maurício","Aleksandr Anyukov",2
-"Maurício","Domenico Criscito",1
-"Maurício","Nicolas Lombaerts",9
-"Maurício","Hulk",2
-"Maurício","Danny",5
-"Maurício","Oleg Shatov",1
-"Maurício","Artem Dzyuba",3
-"Maurício","Axel Witsel",1
-"Maurício","Aleksandr Kokorin",2
-"Maurício","Yuri Zhirkov",6
-"Maurício","Luís Neto",16
-"Maurício","Igor Smolnikov",2
-"Aleksandr Kokorin","Aleksandr Anyukov",5
-"Aleksandr Kokorin","Nicolas Lombaerts",1
-"Aleksandr Kokorin","Hulk",3
-"Aleksandr Kokorin","Danny",2
-"Aleksandr Kokorin","Axel Witsel",3
-"Aleksandr Kokorin","Maurício",3
-"Aleksandr Kokorin","Yuri Zhirkov",1
-"Yuri Zhirkov","Yuri Lodygin",1
-"Yuri Zhirkov","Nicolas Lombaerts",6
-"Yuri Zhirkov","Hulk",9
-"Yuri Zhirkov","Danny",4
-"Yuri Zhirkov","Oleg Shatov",4
-"Yuri Zhirkov","Artem Dzyuba",2
-"Yuri Zhirkov","Axel Witsel",2
-"Yuri Zhirkov","Maurício",3
-"Yuri Zhirkov","Luís Neto",1
+Source,Target,Weight
+"1","2",1
+"1","4",10
+"1","6",13
+"1","7",7
+"1","10",3
+"1","19",1
+"1","21",3
+"1","22",35
+"1","24",4
+"1","28",12
+"1","13",11
+"1","17",3
+"1","14",1
+"1","9",1
+"1","81",2
+"2","1",5
+"2","6",6
+"2","7",17
+"2","10",10
+"2","19",4
+"2","21",7
+"2","22",9
+"2","24",11
+"2","28",11
+"2","13",6
+"2","17",10
+"2","41",4
+"2","5",1
+"2","14",4
+"2","9",5
+"4","1",3
+"4","2",3
+"4","6",26
+"4","7",10
+"4","10",34
+"4","21",6
+"4","22",13
+"4","24",6
+"4","28",17
+"4","13",5
+"4","17",15
+"4","41",1
+"4","5",1
+"4","14",2
+"4","94",2
+"4","79",1
+"6","1",13
+"6","2",7
+"6","4",32
+"6","7",8
+"6","10",33
+"6","19",3
+"6","21",11
+"6","22",17
+"6","24",26
+"6","28",18
+"6","13",15
+"6","17",11
+"6","41",4
+"6","5",1
+"6","14",3
+"6","8",4
+"6","9",1
+"6","81",14
+"7","2",9
+"7","4",4
+"7","6",3
+"7","10",39
+"7","19",4
+"7","21",8
+"7","22",25
+"7","28",27
+"7","13",3
+"7","17",16
+"7","5",2
+"7","14",1
+"7","8",2
+"7","9",1
+"7","81",5
+"10","1",2
+"10","2",31
+"10","4",32
+"10","6",12
+"10","7",57
+"10","19",12
+"10","21",16
+"10","22",21
+"10","24",9
+"10","28",65
+"10","13",9
+"10","17",34
+"10","5",5
+"10","14",15
+"10","79",1
+"10","8",4
+"10","9",3
+"10","81",4
+"19","1",1
+"19","2",3
+"19","4",1
+"19","6",2
+"19","7",11
+"19","10",9
+"19","21",4
+"19","22",5
+"19","24",15
+"19","28",4
+"19","13",4
+"19","17",18
+"19","41",1
+"19","14",3
+"19","8",4
+"21","1",1
+"21","2",15
+"21","4",8
+"21","6",11
+"21","7",9
+"21","10",29
+"21","19",7
+"21","22",4
+"21","24",28
+"21","28",9
+"21","13",5
+"21","17",8
+"21","41",2
+"21","5",6
+"21","14",4
+"22","2",6
+"22","4",5
+"22","7",27
+"22","10",40
+"22","19",6
+"22","21",3
+"22","24",1
+"22","28",10
+"22","13",2
+"22","17",14
+"22","5",2
+"22","14",6
+"22","70",1
+"22","92",1
+"22","9",1
+"24","1",5
+"24","2",12
+"24","4",2
+"24","6",39
+"24","7",6
+"24","10",21
+"24","19",8
+"24","21",16
+"24","22",10
+"24","28",20
+"24","13",15
+"24","17",9
+"24","20",1
+"24","41",3
+"24","14",5
+"24","92",1
+"28","1",1
+"28","2",21
+"28","4",22
+"28","6",19
+"28","7",41
+"28","10",72
+"28","19",14
+"28","21",22
+"28","22",19
+"28","24",10
+"28","13",3
+"28","17",26
+"28","20",2
+"28","14",6
+"28","8",8
+"28","81",9
+"13","1",3
+"13","2",7
+"13","4",5
+"13","6",16
+"13","7",6
+"13","10",19
+"13","19",8
+"13","21",6
+"13","22",6
+"13","24",16
+"13","28",14
+"13","17",3
+"13","5",1
+"13","14",8
+"13","70",1
+"13","8",13
+"13","9",1
+"17","1",2
+"17","2",3
+"17","4",11
+"17","6",9
+"17","7",23
+"17","10",27
+"17","19",13
+"17","21",8
+"17","22",13
+"17","24",4
+"17","28",33
+"17","13",5
+"17","20",1
+"17","14",3
+"17","81",1
+"20","10",2
+"20","17",1
+"41","6",1
+"41","7",3
+"41","10",3
+"41","21",2
+"41","22",11
+"41","24",2
+"41","28",1
+"5","2",5
+"5","7",2
+"5","10",6
+"5","21",2
+"5","22",2
+"5","24",2
+"5","14",3
+"5","4",1
+"5","1",1
+"14","2",2
+"14","6",10
+"14","7",3
+"14","10",14
+"14","17",7
+"14","19",1
+"14","21",11
+"14","22",5
+"14","24",6
+"14","28",5
+"14","5",5
+"14","13",5
+"14","4",8
+"14","1",1
+"14","92",2
+"14","81",2
+"94","14",1
+"70","14",1
+"79","10",1
+"92","1",1
+"92","6",1
+"92","10",1
+"92","22",1
+"8","1",1
+"8","2",2
+"8","4",1
+"8","6",9
+"8","7",2
+"8","10",5
+"8","17",1
+"8","22",3
+"8","28",1
+"8","9",2
+"8","81",6
+"8","13",16
+"8","19",2
+"9","2",5
+"9","6",1
+"9","7",3
+"9","10",2
+"9","28",3
+"9","8",3
+"9","81",1
+"81","1",1
+"81","6",6
+"81","7",9
+"81","10",4
+"81","17",4
+"81","22",2
+"81","28",2
+"81","8",3
+"81","13",1

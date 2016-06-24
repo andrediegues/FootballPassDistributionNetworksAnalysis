@@ -1,336 +1,337 @@
-"Salvatore Sirigu","Thiago Silva",17
-"Salvatore Sirigu","Marquinhos",25
-"Salvatore Sirigu","Thiago Motta",15
-"Salvatore Sirigu","Edinson Cavani",6
-"Salvatore Sirigu","Zlatan Ibrahimović",10
-"Salvatore Sirigu","Blaise Matuidi",8
-"Salvatore Sirigu","Maxwell",12
-"Salvatore Sirigu","Gregory van der Wiel",6
-"Salvatore Sirigu","Marco Verratti",16
-"Salvatore Sirigu","Lucas",6
-"Salvatore Sirigu","Ezequiel Lavezzi",3
-"Salvatore Sirigu","Adrien Rabiot",3
-"Salvatore Sirigu","Alex",19
-"Salvatore Sirigu","Zoumana Camara",7
-"Salvatore Sirigu","Javier Pastore",1
-"Salvatore Sirigu","Lucas Digne",3
-"Salvatore Sirigu","Kalifa Traoré",1
-"Salvatore Sirigu","Christophe Jallet",1
-"Thiago Silva","Salvatore Sirigu",5
-"Thiago Silva","Marquinhos",16
-"Thiago Silva","Thiago Motta",32
-"Thiago Silva","Edinson Cavani",5
-"Thiago Silva","Zlatan Ibrahimović",11
-"Thiago Silva","Blaise Matuidi",28
-"Thiago Silva","Maxwell",35
-"Thiago Silva","Gregory van der Wiel",16
-"Thiago Silva","Marco Verratti",35
-"Thiago Silva","Lucas",3
-"Thiago Silva","Jérémy Ménez",4
-"Thiago Silva","Ezequiel Lavezzi",5
-"Thiago Silva","Adrien Rabiot",2
-"Thiago Silva","Alex",19
-"Thiago Silva","Javier Pastore",2
-"Thiago Silva","Christophe Jallet",8
-"Thiago Silva","Yohan Cabaye",2
-"Marquinhos","Salvatore Sirigu",19
-"Marquinhos","Thiago Silva",23
-"Marquinhos","Thiago Motta",54
-"Marquinhos","Edinson Cavani",5
-"Marquinhos","Zlatan Ibrahimović",18
-"Marquinhos","Blaise Matuidi",36
-"Marquinhos","Maxwell",45
-"Marquinhos","Gregory van der Wiel",6
-"Marquinhos","Marco Verratti",49
-"Marquinhos","Lucas",1
-"Marquinhos","Jérémy Ménez",3
-"Marquinhos","Ezequiel Lavezzi",17
-"Marquinhos","Adrien Rabiot",21
-"Marquinhos","Alex",26
-"Marquinhos","Zoumana Camara",20
-"Marquinhos","Javier Pastore",6
-"Marquinhos","Lucas Digne",5
-"Thiago Motta","Salvatore Sirigu",9
-"Thiago Motta","Thiago Silva",32
-"Thiago Motta","Marquinhos",63
-"Thiago Motta","Edinson Cavani",46
-"Thiago Motta","Zlatan Ibrahimović",51
-"Thiago Motta","Blaise Matuidi",108
-"Thiago Motta","Maxwell",52
-"Thiago Motta","Gregory van der Wiel",37
-"Thiago Motta","Marco Verratti",140
-"Thiago Motta","Lucas",24
-"Thiago Motta","Jérémy Ménez",6
-"Thiago Motta","Ezequiel Lavezzi",31
-"Thiago Motta","Adrien Rabiot",28
-"Thiago Motta","Alex",38
-"Thiago Motta","Zoumana Camara",5
-"Thiago Motta","Javier Pastore",22
-"Thiago Motta","Lucas Digne",7
-"Thiago Motta","Kalifa Traoré",5
-"Thiago Motta","Christophe Jallet",8
-"Thiago Motta","Yohan Cabaye",6
-"Edinson Cavani","Salvatore Sirigu",1
-"Edinson Cavani","Thiago Silva",3
-"Edinson Cavani","Marquinhos",2
-"Edinson Cavani","Thiago Motta",37
-"Edinson Cavani","Zlatan Ibrahimović",18
-"Edinson Cavani","Blaise Matuidi",18
-"Edinson Cavani","Maxwell",17
-"Edinson Cavani","Gregory van der Wiel",22
-"Edinson Cavani","Marco Verratti",26
-"Edinson Cavani","Lucas",6
-"Edinson Cavani","Jérémy Ménez",3
-"Edinson Cavani","Ezequiel Lavezzi",11
-"Edinson Cavani","Adrien Rabiot",12
-"Edinson Cavani","Alex",7
-"Edinson Cavani","Lucas Digne",2
-"Edinson Cavani","Javier Pastore",4
-"Edinson Cavani","Kalifa Traoré",2
-"Edinson Cavani","Christophe Jallet",11
-"Zlatan Ibrahimović","Thiago Silva",4
-"Zlatan Ibrahimović","Marquinhos",6
-"Zlatan Ibrahimović","Thiago Motta",38
-"Zlatan Ibrahimović","Edinson Cavani",19
-"Zlatan Ibrahimović","Blaise Matuidi",36
-"Zlatan Ibrahimović","Maxwell",22
-"Zlatan Ibrahimović","Gregory van der Wiel",23
-"Zlatan Ibrahimović","Marco Verratti",40
-"Zlatan Ibrahimović","Lucas",7
-"Zlatan Ibrahimović","Jérémy Ménez",1
-"Zlatan Ibrahimović","Ezequiel Lavezzi",24
-"Zlatan Ibrahimović","Adrien Rabiot",6
-"Zlatan Ibrahimović","Alex",7
-"Zlatan Ibrahimović","Zoumana Camara",1
-"Zlatan Ibrahimović","Javier Pastore",1
-"Zlatan Ibrahimović","Christophe Jallet",4
-"Blaise Matuidi","Salvatore Sirigu",1
-"Blaise Matuidi","Thiago Silva",20
-"Blaise Matuidi","Marquinhos",36
-"Blaise Matuidi","Thiago Motta",62
-"Blaise Matuidi","Edinson Cavani",25
-"Blaise Matuidi","Zlatan Ibrahimović",37
-"Blaise Matuidi","Maxwell",93
-"Blaise Matuidi","Gregory van der Wiel",20
-"Blaise Matuidi","Marco Verratti",38
-"Blaise Matuidi","Lucas",8
-"Blaise Matuidi","Jérémy Ménez",6
-"Blaise Matuidi","Ezequiel Lavezzi",56
-"Blaise Matuidi","Adrien Rabiot",7
-"Blaise Matuidi","Alex",21
-"Blaise Matuidi","Zoumana Camara",6
-"Blaise Matuidi","Javier Pastore",5
-"Blaise Matuidi","Lucas Digne",6
-"Blaise Matuidi","Christophe Jallet",1
-"Blaise Matuidi","Yohan Cabaye",1
-"Maxwell","Salvatore Sirigu",6
-"Maxwell","Thiago Silva",29
-"Maxwell","Marquinhos",37
-"Maxwell","Thiago Motta",73
-"Maxwell","Edinson Cavani",24
-"Maxwell","Zlatan Ibrahimović",31
-"Maxwell","Blaise Matuidi",83
-"Maxwell","Gregory van der Wiel",1
-"Maxwell","Marco Verratti",48
-"Maxwell","Lucas",5
-"Maxwell","Jérémy Ménez",1
-"Maxwell","Ezequiel Lavezzi",51
-"Maxwell","Adrien Rabiot",11
-"Maxwell","Alex",7
-"Maxwell","Javier Pastore",7
-"Maxwell","Christophe Jallet",2
-"Maxwell","Yohan Cabaye",1
-"Gregory van der Wiel","Salvatore Sirigu",10
-"Gregory van der Wiel","Thiago Silva",8
-"Gregory van der Wiel","Marquinhos",10
-"Gregory van der Wiel","Thiago Motta",39
-"Gregory van der Wiel","Edinson Cavani",26
-"Gregory van der Wiel","Zlatan Ibrahimović",27
-"Gregory van der Wiel","Blaise Matuidi",16
-"Gregory van der Wiel","Maxwell",1
-"Gregory van der Wiel","Marco Verratti",42
-"Gregory van der Wiel","Lucas",28
-"Gregory van der Wiel","Jérémy Ménez",2
-"Gregory van der Wiel","Ezequiel Lavezzi",5
-"Gregory van der Wiel","Adrien Rabiot",3
-"Gregory van der Wiel","Alex",27
-"Gregory van der Wiel","Zoumana Camara",8
-"Gregory van der Wiel","Javier Pastore",4
-"Marco Verratti","Salvatore Sirigu",7
-"Marco Verratti","Thiago Silva",22
-"Marco Verratti","Marquinhos",31
-"Marco Verratti","Thiago Motta",166
-"Marco Verratti","Edinson Cavani",28
-"Marco Verratti","Zlatan Ibrahimović",68
-"Marco Verratti","Blaise Matuidi",62
-"Marco Verratti","Maxwell",34
-"Marco Verratti","Gregory van der Wiel",40
-"Marco Verratti","Lucas",25
-"Marco Verratti","Ezequiel Lavezzi",25
-"Marco Verratti","Adrien Rabiot",11
-"Marco Verratti","Alex",45
-"Marco Verratti","Zoumana Camara",2
-"Marco Verratti","Christophe Jallet",13
-"Lucas","Thiago Silva",4
-"Lucas","Thiago Motta",15
-"Lucas","Edinson Cavani",11
-"Lucas","Zlatan Ibrahimović",12
-"Lucas","Blaise Matuidi",9
-"Lucas","Maxwell",2
-"Lucas","Gregory van der Wiel",19
-"Lucas","Marco Verratti",18
-"Lucas","Jérémy Ménez",6
-"Lucas","Ezequiel Lavezzi",5
-"Lucas","Adrien Rabiot",6
-"Lucas","Alex",4
-"Lucas","Zoumana Camara",5
-"Lucas","Javier Pastore",4
-"Lucas","Lucas Digne",2
-"Lucas","Kalifa Traoré",1
-"Lucas","Christophe Jallet",12
-"Lucas","Yohan Cabaye",6
-"Jérémy Ménez","Thiago Silva",2
-"Jérémy Ménez","Marquinhos",2
-"Jérémy Ménez","Thiago Motta",12
-"Jérémy Ménez","Edinson Cavani",4
-"Jérémy Ménez","Blaise Matuidi",5
-"Jérémy Ménez","Gregory van der Wiel",2
-"Jérémy Ménez","Lucas",3
-"Jérémy Ménez","Ezequiel Lavezzi",3
-"Jérémy Ménez","Adrien Rabiot",5
-"Jérémy Ménez","Javier Pastore",6
-"Jérémy Ménez","Zoumana Camara",1
-"Jérémy Ménez","Lucas Digne",7
-"Jérémy Ménez","Kalifa Traoré",3
-"Ezequiel Lavezzi","Salvatore Sirigu",1
-"Ezequiel Lavezzi","Thiago Silva",5
-"Ezequiel Lavezzi","Marquinhos",9
-"Ezequiel Lavezzi","Thiago Motta",18
-"Ezequiel Lavezzi","Edinson Cavani",15
-"Ezequiel Lavezzi","Zlatan Ibrahimović",21
-"Ezequiel Lavezzi","Blaise Matuidi",37
-"Ezequiel Lavezzi","Maxwell",41
-"Ezequiel Lavezzi","Gregory van der Wiel",9
-"Ezequiel Lavezzi","Marco Verratti",15
-"Ezequiel Lavezzi","Lucas",8
-"Ezequiel Lavezzi","Jérémy Ménez",2
-"Ezequiel Lavezzi","Adrien Rabiot",2
-"Ezequiel Lavezzi","Alex",6
-"Ezequiel Lavezzi","Javier Pastore",1
-"Ezequiel Lavezzi","Kalifa Traoré",2
-"Ezequiel Lavezzi","Christophe Jallet",3
-"Ezequiel Lavezzi","Yohan Cabaye",2
-"Adrien Rabiot","Salvatore Sirigu",4
-"Adrien Rabiot","Thiago Silva",3
-"Adrien Rabiot","Marquinhos",10
-"Adrien Rabiot","Thiago Motta",28
-"Adrien Rabiot","Edinson Cavani",16
-"Adrien Rabiot","Zlatan Ibrahimović",5
-"Adrien Rabiot","Blaise Matuidi",11
-"Adrien Rabiot","Maxwell",10
-"Adrien Rabiot","Gregory van der Wiel",4
-"Adrien Rabiot","Marco Verratti",4
-"Adrien Rabiot","Lucas",7
-"Adrien Rabiot","Jérémy Ménez",7
-"Adrien Rabiot","Ezequiel Lavezzi",2
-"Adrien Rabiot","Alex",2
-"Adrien Rabiot","Zoumana Camara",9
-"Adrien Rabiot","Lucas Digne",7
-"Adrien Rabiot","Javier Pastore",6
-"Adrien Rabiot","Kalifa Traoré",5
-"Alex","Salvatore Sirigu",18
-"Alex","Marquinhos",41
-"Alex","Thiago Motta",60
-"Alex","Edinson Cavani",4
-"Alex","Zlatan Ibrahimović",5
-"Alex","Blaise Matuidi",17
-"Alex","Maxwell",4
-"Alex","Ezequiel Lavezzi",2
-"Alex","Gregory van der Wiel",22
-"Alex","Marco Verratti",70
-"Alex","Adrien Rabiot",2
-"Alex","Lucas",4
-"Alex","Thiago Silva",18
-"Alex","Jérémy Ménez",1
-"Alex","Javier Pastore",1
-"Alex","Christophe Jallet",10
-"Alex","Yohan Cabaye",2
-"Zoumana Camara","Salvatore Sirigu",14
-"Zoumana Camara","Marquinhos",8
-"Zoumana Camara","Thiago Motta",20
-"Zoumana Camara","Edinson Cavani",1
-"Zoumana Camara","Zlatan Ibrahimović",3
-"Zoumana Camara","Blaise Matuidi",7
-"Zoumana Camara","Ezequiel Lavezzi",2
-"Zoumana Camara","Gregory van der Wiel",7
-"Zoumana Camara","Marco Verratti",8
-"Zoumana Camara","Adrien Rabiot",5
-"Zoumana Camara","Lucas",5
-"Zoumana Camara","Jérémy Ménez",1
-"Zoumana Camara","Lucas Digne",1
-"Zoumana Camara","Javier Pastore",8
-"Zoumana Camara","Kalifa Traoré",2
-"Javier Pastore","Salvatore Sirigu",3
-"Javier Pastore","Marquinhos",5
-"Javier Pastore","Thiago Motta",13
-"Javier Pastore","Zlatan Ibrahimović",1
-"Javier Pastore","Alex",1
-"Javier Pastore","Blaise Matuidi",1
-"Javier Pastore","Maxwell",3
-"Javier Pastore","Ezequiel Lavezzi",1
-"Javier Pastore","Gregory van der Wiel",2
-"Javier Pastore","Lucas",8
-"Javier Pastore","Thiago Silva",1
-"Javier Pastore","Jérémy Ménez",10
-"Javier Pastore","Zoumana Camara",4
-"Javier Pastore","Edinson Cavani",8
-"Javier Pastore","Lucas Digne",2
-"Javier Pastore","Adrien Rabiot",9
-"Javier Pastore","Kalifa Traoré",7
-"Javier Pastore","Christophe Jallet",3
-"Javier Pastore","Yohan Cabaye",3
-"Lucas Digne","Salvatore Sirigu",1
-"Lucas Digne","Marquinhos",11
-"Lucas Digne","Zoumana Camara",2
-"Lucas Digne","Jérémy Ménez",12
-"Lucas Digne","Thiago Motta",3
-"Lucas Digne","Edinson Cavani",1
-"Lucas Digne","Adrien Rabiot",8
-"Lucas Digne","Javier Pastore",4
-"Lucas Digne","Lucas",1
-"Lucas Digne","Kalifa Traoré",1
-"Lucas Digne","Blaise Matuidi",4
-"Kalifa Traoré","Salvatore Sirigu",1
-"Kalifa Traoré","Zoumana Camara",7
-"Kalifa Traoré","Jérémy Ménez",3
-"Kalifa Traoré","Thiago Motta",1
-"Kalifa Traoré","Edinson Cavani",3
-"Kalifa Traoré","Lucas Digne",1
-"Kalifa Traoré","Adrien Rabiot",2
-"Kalifa Traoré","Javier Pastore",7
-"Kalifa Traoré","Lucas",14
-"Kalifa Traoré","Blaise Matuidi",1
-"Kalifa Traoré","Ezequiel Lavezzi",1
-"Christophe Jallet","Salvatore Sirigu",5
-"Christophe Jallet","Thiago Silva",2
-"Christophe Jallet","Thiago Motta",8
-"Christophe Jallet","Edinson Cavani",9
-"Christophe Jallet","Zlatan Ibrahimović",5
-"Christophe Jallet","Alex",3
-"Christophe Jallet","Blaise Matuidi",3
-"Christophe Jallet","Maxwell",2
-"Christophe Jallet","Ezequiel Lavezzi",5
-"Christophe Jallet","Marco Verratti",17
-"Christophe Jallet","Yohan Cabaye",6
-"Christophe Jallet","Javier Pastore",4
-"Christophe Jallet","Lucas",19
-"Christophe Jallet","Marquinhos",1
-"Yohan Cabaye","Thiago Silva",1
-"Yohan Cabaye","Thiago Motta",2
-"Yohan Cabaye","Edinson Cavani",4
-"Yohan Cabaye","Blaise Matuidi",3
-"Yohan Cabaye","Maxwell",1
-"Yohan Cabaye","Ezequiel Lavezzi",5
-"Yohan Cabaye","Christophe Jallet",5
-"Yohan Cabaye","Javier Pastore",2
-"Yohan Cabaye","Lucas",3
+Source,Target,Weight
+"30","2",17
+"30","5",25
+"30","8",15
+"30","9",6
+"30","10",10
+"30","14",8
+"30","17",12
+"30","23",6
+"30","24",16
+"30","29",6
+"30","22",3
+"30","25",3
+"30","13",19
+"30","6",7
+"30","27",1
+"30","21",3
+"30","37",1
+"30","26",1
+"2","30",5
+"2","5",16
+"2","8",32
+"2","9",5
+"2","10",11
+"2","14",28
+"2","17",35
+"2","23",16
+"2","24",35
+"2","29",3
+"2","7",4
+"2","22",5
+"2","25",2
+"2","13",19
+"2","27",2
+"2","26",8
+"2","4",2
+"5","30",19
+"5","2",23
+"5","8",54
+"5","9",5
+"5","10",18
+"5","14",36
+"5","17",45
+"5","23",6
+"5","24",49
+"5","29",1
+"5","7",3
+"5","22",17
+"5","25",21
+"5","13",26
+"5","6",20
+"5","27",6
+"5","21",5
+"8","30",9
+"8","2",32
+"8","5",63
+"8","9",46
+"8","10",51
+"8","14",108
+"8","17",52
+"8","23",37
+"8","24",140
+"8","29",24
+"8","7",6
+"8","22",31
+"8","25",28
+"8","13",38
+"8","6",5
+"8","27",22
+"8","21",7
+"8","37",5
+"8","26",8
+"8","4",6
+"9","30",1
+"9","2",3
+"9","5",2
+"9","8",37
+"9","10",18
+"9","14",18
+"9","17",17
+"9","23",22
+"9","24",26
+"9","29",6
+"9","7",3
+"9","22",11
+"9","25",12
+"9","13",7
+"9","21",2
+"9","27",4
+"9","37",2
+"9","26",11
+"10","2",4
+"10","5",6
+"10","8",38
+"10","9",19
+"10","14",36
+"10","17",22
+"10","23",23
+"10","24",40
+"10","29",7
+"10","7",1
+"10","22",24
+"10","25",6
+"10","13",7
+"10","6",1
+"10","27",1
+"10","26",4
+"14","30",1
+"14","2",20
+"14","5",36
+"14","8",62
+"14","9",25
+"14","10",37
+"14","17",93
+"14","23",20
+"14","24",38
+"14","29",8
+"14","7",6
+"14","22",56
+"14","25",7
+"14","13",21
+"14","6",6
+"14","27",5
+"14","21",6
+"14","26",1
+"14","4",1
+"17","30",6
+"17","2",29
+"17","5",37
+"17","8",73
+"17","9",24
+"17","10",31
+"17","14",83
+"17","23",1
+"17","24",48
+"17","29",5
+"17","7",1
+"17","22",51
+"17","25",11
+"17","13",7
+"17","27",7
+"17","26",2
+"17","4",1
+"23","30",10
+"23","2",8
+"23","5",10
+"23","8",39
+"23","9",26
+"23","10",27
+"23","14",16
+"23","17",1
+"23","24",42
+"23","29",28
+"23","7",2
+"23","22",5
+"23","25",3
+"23","13",27
+"23","6",8
+"23","27",4
+"24","30",7
+"24","2",22
+"24","5",31
+"24","8",166
+"24","9",28
+"24","10",68
+"24","14",62
+"24","17",34
+"24","23",40
+"24","29",25
+"24","22",25
+"24","25",11
+"24","13",45
+"24","6",2
+"24","26",13
+"29","2",4
+"29","8",15
+"29","9",11
+"29","10",12
+"29","14",9
+"29","17",2
+"29","23",19
+"29","24",18
+"29","7",6
+"29","22",5
+"29","25",6
+"29","13",4
+"29","6",5
+"29","27",4
+"29","21",2
+"29","37",1
+"29","26",12
+"29","4",6
+"7","2",2
+"7","5",2
+"7","8",12
+"7","9",4
+"7","14",5
+"7","23",2
+"7","29",3
+"7","22",3
+"7","25",5
+"7","27",6
+"7","6",1
+"7","21",7
+"7","37",3
+"22","30",1
+"22","2",5
+"22","5",9
+"22","8",18
+"22","9",15
+"22","10",21
+"22","14",37
+"22","17",41
+"22","23",9
+"22","24",15
+"22","29",8
+"22","7",2
+"22","25",2
+"22","13",6
+"22","27",1
+"22","37",2
+"22","26",3
+"22","4",2
+"25","30",4
+"25","2",3
+"25","5",10
+"25","8",28
+"25","9",16
+"25","10",5
+"25","14",11
+"25","17",10
+"25","23",4
+"25","24",4
+"25","29",7
+"25","7",7
+"25","22",2
+"25","13",2
+"25","6",9
+"25","21",7
+"25","27",6
+"25","37",5
+"13","30",18
+"13","5",41
+"13","8",60
+"13","9",4
+"13","10",5
+"13","14",17
+"13","17",4
+"13","22",2
+"13","23",22
+"13","24",70
+"13","25",2
+"13","29",4
+"13","2",18
+"13","7",1
+"13","27",1
+"13","26",10
+"13","4",2
+"6","30",14
+"6","5",8
+"6","8",20
+"6","9",1
+"6","10",3
+"6","14",7
+"6","22",2
+"6","23",7
+"6","24",8
+"6","25",5
+"6","29",5
+"6","7",1
+"6","21",1
+"6","27",8
+"6","37",2
+"27","30",3
+"27","5",5
+"27","8",13
+"27","10",1
+"27","13",1
+"27","14",1
+"27","17",3
+"27","22",1
+"27","23",2
+"27","29",8
+"27","2",1
+"27","7",10
+"27","6",4
+"27","9",8
+"27","21",2
+"27","25",9
+"27","37",7
+"27","26",3
+"27","4",3
+"21","30",1
+"21","5",11
+"21","6",2
+"21","7",12
+"21","8",3
+"21","9",1
+"21","25",8
+"21","27",4
+"21","29",1
+"21","37",1
+"21","14",4
+"37","30",1
+"37","6",7
+"37","7",3
+"37","8",1
+"37","9",3
+"37","21",1
+"37","25",2
+"37","27",7
+"37","29",14
+"37","14",1
+"37","22",1
+"26","30",5
+"26","2",2
+"26","8",8
+"26","9",9
+"26","10",5
+"26","13",3
+"26","14",3
+"26","17",2
+"26","22",5
+"26","24",17
+"26","4",6
+"26","27",4
+"26","29",19
+"26","5",1
+"4","2",1
+"4","8",2
+"4","9",4
+"4","14",3
+"4","17",1
+"4","22",5
+"4","26",5
+"4","27",2
+"4","29",3

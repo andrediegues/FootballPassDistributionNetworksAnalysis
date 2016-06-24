@@ -1,264 +1,265 @@
-"Vyacheslav Malafeev","Aleksandr Anyukov",4
-"Vyacheslav Malafeev","Bruno Alves",20
-"Vyacheslav Malafeev","Nicolas Lombaerts",27
-"Vyacheslav Malafeev","Roman Shirokov",8
-"Vyacheslav Malafeev","Konstantin Zyryanov",2
-"Vyacheslav Malafeev","Viktor Fayzulin",1
-"Vyacheslav Malafeev","Aleksandar Luković",1
-"Vyacheslav Malafeev","Igor Denisov",5
-"Vyacheslav Malafeev","Hulk",7
-"Vyacheslav Malafeev","Vladimir Bystrov",1
-"Vyacheslav Malafeev","Domenico Criscito",7
-"Vyacheslav Malafeev","Tomáš Hubočan",21
-"Vyacheslav Malafeev","Axel Witsel",8
-"Vyacheslav Malafeev","Maksim Kanunnikov",2
-"Vyacheslav Malafeev","Sergei Semak",3
-"Vyacheslav Malafeev","Danny",2
-"Aleksandr Anyukov","Vyacheslav Malafeev",5
-"Aleksandr Anyukov","Bruno Alves",26
-"Aleksandr Anyukov","Nicolas Lombaerts",11
-"Aleksandr Anyukov","Aleksandr Kerzhakov",6
-"Aleksandr Anyukov","Roman Shirokov",15
-"Aleksandr Anyukov","Konstantin Zyryanov",4
-"Aleksandr Anyukov","Viktor Fayzulin",12
-"Aleksandr Anyukov","Aleksandar Luković",1
-"Aleksandr Anyukov","Igor Denisov",13
-"Aleksandr Anyukov","Hulk",28
-"Aleksandr Anyukov","Vladimir Bystrov",17
-"Aleksandr Anyukov","Domenico Criscito",2
-"Aleksandr Anyukov","Tomáš Hubočan",21
-"Aleksandr Anyukov","Axel Witsel",29
-"Aleksandr Anyukov","Sergei Semak",11
-"Aleksandr Anyukov","Danny",4
-"Bruno Alves","Vyacheslav Malafeev",14
-"Bruno Alves","Aleksandr Anyukov",18
-"Bruno Alves","Nicolas Lombaerts",43
-"Bruno Alves","Aleksandr Kerzhakov",1
-"Bruno Alves","Roman Shirokov",11
-"Bruno Alves","Konstantin Zyryanov",3
-"Bruno Alves","Viktor Fayzulin",7
-"Bruno Alves","Aleksandar Luković",1
-"Bruno Alves","Igor Denisov",16
-"Bruno Alves","Hulk",10
-"Bruno Alves","Vladimir Bystrov",3
-"Bruno Alves","Luka Djordjević",1
-"Bruno Alves","Domenico Criscito",3
-"Bruno Alves","Tomáš Hubočan",3
-"Bruno Alves","Sergei Semak",3
-"Bruno Alves","Axel Witsel",6
-"Bruno Alves","Danny",4
-"Bruno Alves","Maksim Kanunnikov",1
-"Nicolas Lombaerts","Vyacheslav Malafeev",17
-"Nicolas Lombaerts","Aleksandr Anyukov",12
-"Nicolas Lombaerts","Bruno Alves",27
-"Nicolas Lombaerts","Aleksandr Kerzhakov",4
-"Nicolas Lombaerts","Roman Shirokov",25
-"Nicolas Lombaerts","Konstantin Zyryanov",10
-"Nicolas Lombaerts","Viktor Fayzulin",22
-"Nicolas Lombaerts","Aleksandar Luković",4
-"Nicolas Lombaerts","Igor Denisov",23
-"Nicolas Lombaerts","Hulk",5
-"Nicolas Lombaerts","Vladimir Bystrov",3
-"Nicolas Lombaerts","Luka Djordjević",2
-"Nicolas Lombaerts","Michael Lumb",1
-"Nicolas Lombaerts","Domenico Criscito",24
-"Nicolas Lombaerts","Tomáš Hubočan",46
-"Nicolas Lombaerts","Axel Witsel",16
-"Nicolas Lombaerts","Sergei Semak",4
-"Nicolas Lombaerts","Danny",13
-"Aleksandr Kerzhakov","Aleksandr Anyukov",2
-"Aleksandr Kerzhakov","Nicolas Lombaerts",1
-"Aleksandr Kerzhakov","Roman Shirokov",7
-"Aleksandr Kerzhakov","Konstantin Zyryanov",1
-"Aleksandr Kerzhakov","Viktor Fayzulin",3
-"Aleksandr Kerzhakov","Aleksandar Luković",1
-"Aleksandr Kerzhakov","Igor Denisov",3
-"Aleksandr Kerzhakov","Hulk",5
-"Aleksandr Kerzhakov","Vladimir Bystrov",3
-"Aleksandr Kerzhakov","Domenico Criscito",4
-"Aleksandr Kerzhakov","Tomáš Hubočan",4
-"Aleksandr Kerzhakov","Axel Witsel",4
-"Aleksandr Kerzhakov","Sergei Semak",2
-"Aleksandr Kerzhakov","Danny",2
-"Roman Shirokov","Vyacheslav Malafeev",3
-"Roman Shirokov","Aleksandr Anyukov",21
-"Roman Shirokov","Bruno Alves",15
-"Roman Shirokov","Nicolas Lombaerts",17
-"Roman Shirokov","Aleksandr Kerzhakov",4
-"Roman Shirokov","Konstantin Zyryanov",7
-"Roman Shirokov","Viktor Fayzulin",11
-"Roman Shirokov","Aleksandar Luković",1
-"Roman Shirokov","Igor Denisov",31
-"Roman Shirokov","Hulk",21
-"Roman Shirokov","Vladimir Bystrov",11
-"Roman Shirokov","Domenico Criscito",12
-"Roman Shirokov","Tomáš Hubočan",15
-"Roman Shirokov","Axel Witsel",14
-"Roman Shirokov","Sergei Semak",10
-"Roman Shirokov","Danny",12
-"Konstantin Zyryanov","Aleksandr Anyukov",5
-"Konstantin Zyryanov","Bruno Alves",4
-"Konstantin Zyryanov","Nicolas Lombaerts",3
-"Konstantin Zyryanov","Aleksandr Kerzhakov",2
-"Konstantin Zyryanov","Roman Shirokov",5
-"Konstantin Zyryanov","Viktor Fayzulin",5
-"Konstantin Zyryanov","Igor Denisov",10
-"Konstantin Zyryanov","Hulk",5
-"Konstantin Zyryanov","Vladimir Bystrov",3
-"Konstantin Zyryanov","Domenico Criscito",4
-"Konstantin Zyryanov","Tomáš Hubočan",3
-"Konstantin Zyryanov","Axel Witsel",5
-"Konstantin Zyryanov","Maksim Kanunnikov",2
-"Konstantin Zyryanov","Danny",1
-"Viktor Fayzulin","Aleksandr Anyukov",10
-"Viktor Fayzulin","Bruno Alves",1
-"Viktor Fayzulin","Nicolas Lombaerts",13
-"Viktor Fayzulin","Aleksandr Kerzhakov",4
-"Viktor Fayzulin","Roman Shirokov",16
-"Viktor Fayzulin","Konstantin Zyryanov",4
-"Viktor Fayzulin","Aleksandar Luković",4
-"Viktor Fayzulin","Igor Denisov",16
-"Viktor Fayzulin","Hulk",16
-"Viktor Fayzulin","Vladimir Bystrov",2
-"Viktor Fayzulin","Luka Djordjević",4
-"Viktor Fayzulin","Michael Lumb",1
-"Viktor Fayzulin","Domenico Criscito",7
-"Viktor Fayzulin","Tomáš Hubočan",9
-"Viktor Fayzulin","Axel Witsel",15
-"Viktor Fayzulin","Sergei Semak",4
-"Viktor Fayzulin","Danny",2
-"Aleksandar Luković","Aleksandr Anyukov",1
-"Aleksandar Luković","Bruno Alves",1
-"Aleksandar Luković","Nicolas Lombaerts",2
-"Aleksandar Luković","Roman Shirokov",3
-"Aleksandar Luković","Viktor Fayzulin",5
-"Aleksandar Luković","Igor Denisov",1
-"Igor Denisov","Vyacheslav Malafeev",3
-"Igor Denisov","Aleksandr Anyukov",17
-"Igor Denisov","Bruno Alves",14
-"Igor Denisov","Nicolas Lombaerts",19
-"Igor Denisov","Aleksandr Kerzhakov",5
-"Igor Denisov","Roman Shirokov",37
-"Igor Denisov","Konstantin Zyryanov",6
-"Igor Denisov","Viktor Fayzulin",11
-"Igor Denisov","Aleksandar Luković",2
-"Igor Denisov","Hulk",12
-"Igor Denisov","Vladimir Bystrov",5
-"Igor Denisov","Michael Lumb",1
-"Igor Denisov","Domenico Criscito",2
-"Igor Denisov","Tomáš Hubočan",17
-"Igor Denisov","Sergei Semak",11
-"Igor Denisov","Axel Witsel",24
-"Igor Denisov","Danny",14
-"Hulk","Vyacheslav Malafeev",2
-"Hulk","Aleksandr Anyukov",12
-"Hulk","Bruno Alves",2
-"Hulk","Nicolas Lombaerts",4
-"Hulk","Aleksandr Kerzhakov",5
-"Hulk","Roman Shirokov",13
-"Hulk","Konstantin Zyryanov",3
-"Hulk","Viktor Fayzulin",9
-"Hulk","Igor Denisov",9
-"Hulk","Vladimir Bystrov",2
-"Hulk","Michael Lumb",1
-"Hulk","Domenico Criscito",4
-"Hulk","Tomáš Hubočan",5
-"Hulk","Axel Witsel",12
-"Hulk","Sergei Semak",4
-"Hulk","Danny",5
-"Vladimir Bystrov","Aleksandr Anyukov",11
-"Vladimir Bystrov","Bruno Alves",7
-"Vladimir Bystrov","Nicolas Lombaerts",1
-"Vladimir Bystrov","Aleksandr Kerzhakov",3
-"Vladimir Bystrov","Roman Shirokov",10
-"Vladimir Bystrov","Konstantin Zyryanov",1
-"Vladimir Bystrov","Viktor Fayzulin",3
-"Vladimir Bystrov","Igor Denisov",8
-"Vladimir Bystrov","Domenico Criscito",1
-"Vladimir Bystrov","Tomáš Hubočan",1
-"Vladimir Bystrov","Axel Witsel",2
-"Vladimir Bystrov","Sergei Semak",2
-"Vladimir Bystrov","Danny",1
-"Luka Djordjević","Aleksandr Kerzhakov",1
-"Luka Djordjević","Roman Shirokov",1
-"Luka Djordjević","Igor Denisov",2
-"Luka Djordjević","Vladimir Bystrov",1
-"Michael Lumb","Nicolas Lombaerts",1
-"Michael Lumb","Igor Denisov",1
-"Domenico Criscito","Vyacheslav Malafeev",2
-"Domenico Criscito","Aleksandr Anyukov",1
-"Domenico Criscito","Nicolas Lombaerts",10
-"Domenico Criscito","Aleksandr Kerzhakov",5
-"Domenico Criscito","Tomáš Hubočan",5
-"Domenico Criscito","Roman Shirokov",12
-"Domenico Criscito","Viktor Fayzulin",13
-"Domenico Criscito","Axel Witsel",11
-"Domenico Criscito","Hulk",5
-"Domenico Criscito","Vladimir Bystrov",7
-"Domenico Criscito","Konstantin Zyryanov",6
-"Domenico Criscito","Maksim Kanunnikov",2
-"Domenico Criscito","Sergei Semak",7
-"Domenico Criscito","Bruno Alves",2
-"Domenico Criscito","Igor Denisov",5
-"Domenico Criscito","Danny",4
-"Tomáš Hubočan","Vyacheslav Malafeev",10
-"Tomáš Hubočan","Aleksandr Anyukov",14
-"Tomáš Hubočan","Domenico Criscito",1
-"Tomáš Hubočan","Nicolas Lombaerts",41
-"Tomáš Hubočan","Aleksandr Kerzhakov",1
-"Tomáš Hubočan","Roman Shirokov",23
-"Tomáš Hubočan","Viktor Fayzulin",10
-"Tomáš Hubočan","Axel Witsel",23
-"Tomáš Hubočan","Hulk",13
-"Tomáš Hubočan","Vladimir Bystrov",3
-"Tomáš Hubočan","Konstantin Zyryanov",5
-"Tomáš Hubočan","Sergei Semak",6
-"Tomáš Hubočan","Bruno Alves",4
-"Tomáš Hubočan","Igor Denisov",18
-"Tomáš Hubočan","Danny",18
-"Axel Witsel","Vyacheslav Malafeev",1
-"Axel Witsel","Aleksandr Anyukov",15
-"Axel Witsel","Domenico Criscito",12
-"Axel Witsel","Nicolas Lombaerts",14
-"Axel Witsel","Aleksandr Kerzhakov",3
-"Axel Witsel","Tomáš Hubočan",18
-"Axel Witsel","Roman Shirokov",26
-"Axel Witsel","Viktor Fayzulin",15
-"Axel Witsel","Hulk",26
-"Axel Witsel","Vladimir Bystrov",10
-"Axel Witsel","Konstantin Zyryanov",5
-"Axel Witsel","Sergei Semak",3
-"Axel Witsel","Bruno Alves",7
-"Axel Witsel","Igor Denisov",15
-"Axel Witsel","Danny",15
-"Aleksandr Bukharov","Konstantin Zyryanov",1
-"Maksim Kanunnikov","Roman Shirokov",1
-"Maksim Kanunnikov","Axel Witsel",1
-"Maksim Kanunnikov","Konstantin Zyryanov",1
-"Maksim Kanunnikov","Bruno Alves",1
-"Sergei Semak","Aleksandr Anyukov",10
-"Sergei Semak","Domenico Criscito",4
-"Sergei Semak","Nicolas Lombaerts",4
-"Sergei Semak","Aleksandr Kerzhakov",2
-"Sergei Semak","Tomáš Hubočan",3
-"Sergei Semak","Roman Shirokov",12
-"Sergei Semak","Viktor Fayzulin",2
-"Sergei Semak","Axel Witsel",4
-"Sergei Semak","Hulk",5
-"Sergei Semak","Bruno Alves",1
-"Sergei Semak","Vladimir Bystrov",3
-"Sergei Semak","Igor Denisov",8
-"Sergei Semak","Danny",5
-"Danny","Vyacheslav Malafeev",1
-"Danny","Aleksandr Anyukov",6
-"Danny","Domenico Criscito",4
-"Danny","Aleksandr Kerzhakov",3
-"Danny","Tomáš Hubočan",8
-"Danny","Roman Shirokov",13
-"Danny","Sergei Semak",4
-"Danny","Igor Denisov",12
-"Danny","Axel Witsel",9
-"Danny","Vladimir Bystrov",1
-"Danny","Bruno Alves",4
-"Danny","Hulk",10
-"Danny","Konstantin Zyryanov",2
+Source,Target,Weight
+"16","2",4
+"16","3",20
+"16","6",27
+"16","15",8
+"16","18",2
+"16","20",1
+"16","24",1
+"16","27",5
+"16","29",7
+"16","34",1
+"16","4",7
+"16","14",21
+"16","28",8
+"16","99",2
+"16","25",3
+"16","10",2
+"2","16",5
+"2","3",26
+"2","6",11
+"2","11",6
+"2","15",15
+"2","18",4
+"2","20",12
+"2","24",1
+"2","27",13
+"2","29",28
+"2","34",17
+"2","4",2
+"2","14",21
+"2","28",29
+"2","25",11
+"2","10",4
+"3","16",14
+"3","2",18
+"3","6",43
+"3","11",1
+"3","15",11
+"3","18",3
+"3","20",7
+"3","24",1
+"3","27",16
+"3","29",10
+"3","34",3
+"3","77",1
+"3","4",3
+"3","14",3
+"3","25",3
+"3","28",6
+"3","10",4
+"3","99",1
+"6","16",17
+"6","2",12
+"6","3",27
+"6","11",4
+"6","15",25
+"6","18",10
+"6","20",22
+"6","24",4
+"6","27",23
+"6","29",5
+"6","34",3
+"6","77",2
+"6","82",1
+"6","4",24
+"6","14",46
+"6","28",16
+"6","25",4
+"6","10",13
+"11","2",2
+"11","6",1
+"11","15",7
+"11","18",1
+"11","20",3
+"11","24",1
+"11","27",3
+"11","29",5
+"11","34",3
+"11","4",4
+"11","14",4
+"11","28",4
+"11","25",2
+"11","10",2
+"15","16",3
+"15","2",21
+"15","3",15
+"15","6",17
+"15","11",4
+"15","18",7
+"15","20",11
+"15","24",1
+"15","27",31
+"15","29",21
+"15","34",11
+"15","4",12
+"15","14",15
+"15","28",14
+"15","25",10
+"15","10",12
+"18","2",5
+"18","3",4
+"18","6",3
+"18","11",2
+"18","15",5
+"18","20",5
+"18","27",10
+"18","29",5
+"18","34",3
+"18","4",4
+"18","14",3
+"18","28",5
+"18","99",2
+"18","10",1
+"20","2",10
+"20","3",1
+"20","6",13
+"20","11",4
+"20","15",16
+"20","18",4
+"20","24",4
+"20","27",16
+"20","29",16
+"20","34",2
+"20","77",4
+"20","82",1
+"20","4",7
+"20","14",9
+"20","28",15
+"20","25",4
+"20","10",2
+"24","2",1
+"24","3",1
+"24","6",2
+"24","15",3
+"24","20",5
+"24","27",1
+"27","16",3
+"27","2",17
+"27","3",14
+"27","6",19
+"27","11",5
+"27","15",37
+"27","18",6
+"27","20",11
+"27","24",2
+"27","29",12
+"27","34",5
+"27","82",1
+"27","4",2
+"27","14",17
+"27","25",11
+"27","28",24
+"27","10",14
+"29","16",2
+"29","2",12
+"29","3",2
+"29","6",4
+"29","11",5
+"29","15",13
+"29","18",3
+"29","20",9
+"29","27",9
+"29","34",2
+"29","82",1
+"29","4",4
+"29","14",5
+"29","28",12
+"29","25",4
+"29","10",5
+"34","2",11
+"34","3",7
+"34","6",1
+"34","11",3
+"34","15",10
+"34","18",1
+"34","20",3
+"34","27",8
+"34","4",1
+"34","14",1
+"34","28",2
+"34","25",2
+"34","10",1
+"77","11",1
+"77","15",1
+"77","27",2
+"77","34",1
+"82","6",1
+"82","27",1
+"4","16",2
+"4","2",1
+"4","6",10
+"4","11",5
+"4","14",5
+"4","15",12
+"4","20",13
+"4","28",11
+"4","29",5
+"4","34",7
+"4","18",6
+"4","99",2
+"4","25",7
+"4","3",2
+"4","27",5
+"4","10",4
+"14","16",10
+"14","2",14
+"14","4",1
+"14","6",41
+"14","11",1
+"14","15",23
+"14","20",10
+"14","28",23
+"14","29",13
+"14","34",3
+"14","18",5
+"14","25",6
+"14","3",4
+"14","27",18
+"14","10",18
+"28","16",1
+"28","2",15
+"28","4",12
+"28","6",14
+"28","11",3
+"28","14",18
+"28","15",26
+"28","20",15
+"28","29",26
+"28","34",10
+"28","18",5
+"28","25",3
+"28","3",7
+"28","27",15
+"28","10",15
+"9","18",1
+"99","15",1
+"99","28",1
+"99","18",1
+"99","3",1
+"25","2",10
+"25","4",4
+"25","6",4
+"25","11",2
+"25","14",3
+"25","15",12
+"25","20",2
+"25","28",4
+"25","29",5
+"25","3",1
+"25","34",3
+"25","27",8
+"25","10",5
+"10","16",1
+"10","2",6
+"10","4",4
+"10","11",3
+"10","14",8
+"10","15",13
+"10","25",4
+"10","27",12
+"10","28",9
+"10","34",1
+"10","3",4
+"10","29",10
+"10","18",2

@@ -1,396 +1,397 @@
-"Wojciech Szczęsny","Mathieu Debuchy",4
-"Wojciech Szczęsny","Laurent Koscielny",17
-"Wojciech Szczęsny","Mikel Arteta",4
-"Wojciech Szczęsny","Jack Wilshere",5
-"Wojciech Szczęsny","Olivier Giroud",6
-"Wojciech Szczęsny","Aaron Ramsey",3
-"Wojciech Szczęsny","Alexis Sánchez",2
-"Wojciech Szczęsny","Nacho Monreal",6
-"Wojciech Szczęsny","Santi Cazorla",2
-"Wojciech Szczęsny","Calum Chambers",4
-"Wojciech Szczęsny","Mathieu Flamini",2
-"Wojciech Szczęsny","Per Mertesacker",17
-"Wojciech Szczęsny","Kieran Gibbs",4
-"Wojciech Szczęsny","Danny Welbeck",1
-"Mathieu Debuchy","Laurent Koscielny",3
-"Mathieu Debuchy","Mikel Arteta",3
-"Mathieu Debuchy","Jack Wilshere",5
-"Mathieu Debuchy","Olivier Giroud",3
-"Mathieu Debuchy","Aaron Ramsey",9
-"Mathieu Debuchy","Alexis Sánchez",13
-"Mathieu Debuchy","Nacho Monreal",2
-"Mathieu Debuchy","Santi Cazorla",4
-"Mathieu Debuchy","Calum Chambers",10
-"Mathieu Debuchy","Alex Oxlade-Chamberlain",8
-"Mathieu Debuchy","Mathieu Flamini",3
-"Mathieu Debuchy","Per Mertesacker",7
-"Laurent Koscielny","Wojciech Szczęsny",6
-"Laurent Koscielny","Mathieu Debuchy",2
-"Laurent Koscielny","Mikel Arteta",21
-"Laurent Koscielny","Jack Wilshere",14
-"Laurent Koscielny","Olivier Giroud",2
-"Laurent Koscielny","Aaron Ramsey",7
-"Laurent Koscielny","Alexis Sánchez",15
-"Laurent Koscielny","Nacho Monreal",25
-"Laurent Koscielny","Santi Cazorla",34
-"Laurent Koscielny","Calum Chambers",9
-"Laurent Koscielny","Tomáš Rosický",1
-"Laurent Koscielny","Alex Oxlade-Chamberlain",3
-"Laurent Koscielny","Mathieu Flamini",4
-"Laurent Koscielny","Per Mertesacker",49
-"Laurent Koscielny","Mesut Özil",13
-"Laurent Koscielny","Kieran Gibbs",11
-"Laurent Koscielny","Danny Welbeck",2
-"Laurent Koscielny","Héctor Bellerín",4
-"Laurent Koscielny","David Ospina",5
-"Laurent Koscielny","Francis Coquelin",12
-"Laurent Koscielny","Theo Walcott",1
-"Laurent Koscielny","Oxlade-Chamberlain",4
-"Mikel Arteta","Wojciech Szczęsny",1
-"Mikel Arteta","Mathieu Debuchy",6
-"Mikel Arteta","Laurent Koscielny",10
-"Mikel Arteta","Jack Wilshere",13
-"Mikel Arteta","Aaron Ramsey",29
-"Mikel Arteta","Alexis Sánchez",15
-"Mikel Arteta","Nacho Monreal",16
-"Mikel Arteta","Santi Cazorla",19
-"Mikel Arteta","Calum Chambers",24
-"Mikel Arteta","Kieran Gibbs",17
-"Mikel Arteta","Per Mertesacker",25
-"Mikel Arteta","Mesut Özil",3
-"Mikel Arteta","Héctor Bellerín",6
-"Mikel Arteta","Oxlade-Chamberlain",9
-"Jack Wilshere","Wojciech Szczęsny",1
-"Jack Wilshere","Mathieu Debuchy",6
-"Jack Wilshere","Laurent Koscielny",6
-"Jack Wilshere","Mikel Arteta",9
-"Jack Wilshere","Olivier Giroud",6
-"Jack Wilshere","Aaron Ramsey",21
-"Jack Wilshere","Alexis Sánchez",16
-"Jack Wilshere","Nacho Monreal",6
-"Jack Wilshere","Santi Cazorla",22
-"Jack Wilshere","Calum Chambers",5
-"Jack Wilshere","Alex Oxlade-Chamberlain",6
-"Jack Wilshere","Mathieu Flamini",20
-"Jack Wilshere","Per Mertesacker",10
-"Jack Wilshere","Mesut Özil",12
-"Jack Wilshere","Kieran Gibbs",11
-"Jack Wilshere","Danny Welbeck",7
-"Jack Wilshere","Héctor Bellerín",6
-"Jack Wilshere","Lukas Podolski",2
-"Jack Wilshere","Joel Campbell",2
-"Olivier Giroud","Mathieu Debuchy",2
-"Olivier Giroud","Laurent Koscielny",1
-"Olivier Giroud","Mikel Arteta",1
-"Olivier Giroud","Jack Wilshere",2
-"Olivier Giroud","Aaron Ramsey",2
-"Olivier Giroud","Alexis Sánchez",5
-"Olivier Giroud","Nacho Monreal",3
-"Olivier Giroud","Santi Cazorla",8
-"Olivier Giroud","Alex Oxlade-Chamberlain",3
-"Olivier Giroud","Mesut Özil",3
-"Olivier Giroud","Danny Welbeck",3
-"Olivier Giroud","Francis Coquelin",3
-"Aaron Ramsey","Wojciech Szczęsny",1
-"Aaron Ramsey","Mathieu Debuchy",7
-"Aaron Ramsey","Laurent Koscielny",5
-"Aaron Ramsey","Mikel Arteta",14
-"Aaron Ramsey","Jack Wilshere",14
-"Aaron Ramsey","Olivier Giroud",7
-"Aaron Ramsey","Alexis Sánchez",46
-"Aaron Ramsey","Nacho Monreal",16
-"Aaron Ramsey","Santi Cazorla",33
-"Aaron Ramsey","Calum Chambers",28
-"Aaron Ramsey","Tomáš Rosický",3
-"Aaron Ramsey","Alex Oxlade-Chamberlain",1
-"Aaron Ramsey","Mathieu Flamini",6
-"Aaron Ramsey","Kieran Gibbs",18
-"Aaron Ramsey","Per Mertesacker",24
-"Aaron Ramsey","Mesut Özil",6
-"Aaron Ramsey","Danny Welbeck",15
-"Aaron Ramsey","Héctor Bellerín",16
-"Aaron Ramsey","Lukas Podolski",1
-"Aaron Ramsey","Oxlade-Chamberlain",13
-"Aaron Ramsey","Yaya Sanogo",2
-"Alexis Sánchez","Mathieu Debuchy",7
-"Alexis Sánchez","Laurent Koscielny",10
-"Alexis Sánchez","Mikel Arteta",3
-"Alexis Sánchez","Jack Wilshere",13
-"Alexis Sánchez","Olivier Giroud",9
-"Alexis Sánchez","Aaron Ramsey",30
-"Alexis Sánchez","Nacho Monreal",12
-"Alexis Sánchez","Santi Cazorla",39
-"Alexis Sánchez","Calum Chambers",6
-"Alexis Sánchez","Tomáš Rosický",1
-"Alexis Sánchez","Alex Oxlade-Chamberlain",6
-"Alexis Sánchez","Mathieu Flamini",5
-"Alexis Sánchez","Per Mertesacker",9
-"Alexis Sánchez","Mesut Özil",24
-"Alexis Sánchez","Kieran Gibbs",16
-"Alexis Sánchez","Danny Welbeck",15
-"Alexis Sánchez","Héctor Bellerín",8
-"Alexis Sánchez","Lukas Podolski",3
-"Alexis Sánchez","Joel Campbell",1
-"Alexis Sánchez","Oxlade-Chamberlain",9
-"Alexis Sánchez","Francis Coquelin",7
-"Alexis Sánchez","Theo Walcott",1
-"Nacho Monreal","Wojciech Szczęsny",4
-"Nacho Monreal","Laurent Koscielny",19
-"Nacho Monreal","Mikel Arteta",28
-"Nacho Monreal","Jack Wilshere",13
-"Nacho Monreal","Olivier Giroud",5
-"Nacho Monreal","Aaron Ramsey",20
-"Nacho Monreal","Alexis Sánchez",11
-"Nacho Monreal","Santi Cazorla",32
-"Nacho Monreal","Calum Chambers",1
-"Nacho Monreal","Mathieu Flamini",17
-"Nacho Monreal","Per Mertesacker",28
-"Nacho Monreal","Mesut Özil",17
-"Nacho Monreal","Emiliano Martínez",10
-"Nacho Monreal","Kieran Gibbs",33
-"Nacho Monreal","Danny Welbeck",7
-"Nacho Monreal","Lukas Podolski",1
-"Nacho Monreal","Oxlade-Chamberlain",1
-"Nacho Monreal","Yaya Sanogo",1
-"Nacho Monreal","Francis Coquelin",5
-"Nacho Monreal","Héctor Bellerín",2
-"Nacho Monreal","Theo Walcott",1
-"Santi Cazorla","Mathieu Debuchy",3
-"Santi Cazorla","Laurent Koscielny",15
-"Santi Cazorla","Mikel Arteta",15
-"Santi Cazorla","Jack Wilshere",12
-"Santi Cazorla","Olivier Giroud",7
-"Santi Cazorla","Aaron Ramsey",20
-"Santi Cazorla","Alexis Sánchez",62
-"Santi Cazorla","Nacho Monreal",24
-"Santi Cazorla","Calum Chambers",18
-"Santi Cazorla","Alex Oxlade-Chamberlain",5
-"Santi Cazorla","Mathieu Flamini",13
-"Santi Cazorla","Per Mertesacker",29
-"Santi Cazorla","Mesut Özil",43
-"Santi Cazorla","Kieran Gibbs",30
-"Santi Cazorla","Danny Welbeck",19
-"Santi Cazorla","Héctor Bellerín",15
-"Santi Cazorla","Lukas Podolski",4
-"Santi Cazorla","Joel Campbell",1
-"Santi Cazorla","Oxlade-Chamberlain",10
-"Santi Cazorla","Yaya Sanogo",2
-"Santi Cazorla","David Ospina",1
-"Santi Cazorla","Francis Coquelin",22
-"Santi Cazorla","Theo Walcott",1
-"Calum Chambers","Wojciech Szczęsny",4
-"Calum Chambers","Mathieu Debuchy",13
-"Calum Chambers","Laurent Koscielny",11
-"Calum Chambers","Mikel Arteta",5
-"Calum Chambers","Jack Wilshere",8
-"Calum Chambers","Aaron Ramsey",24
-"Calum Chambers","Alexis Sánchez",11
-"Calum Chambers","Nacho Monreal",2
-"Calum Chambers","Santi Cazorla",16
-"Calum Chambers","Alex Oxlade-Chamberlain",1
-"Calum Chambers","Mathieu Flamini",10
-"Calum Chambers","Per Mertesacker",23
-"Calum Chambers","Emiliano Martínez",1
-"Calum Chambers","Kieran Gibbs",1
-"Calum Chambers","Danny Welbeck",3
-"Calum Chambers","Lukas Podolski",1
-"Calum Chambers","Joel Campbell",8
-"Calum Chambers","Oxlade-Chamberlain",12
-"Calum Chambers","Yaya Sanogo",2
-"Tomáš Rosický","Aaron Ramsey",1
-"Tomáš Rosický","Kieran Gibbs",1
-"Tomáš Rosický","Oxlade-Chamberlain",1
-"Tomáš Rosický","Danny Welbeck",1
-"Tomáš Rosický","Héctor Bellerín",3
-"Alex Oxlade-Chamberlain","Wojciech Szczęsny",1
-"Alex Oxlade-Chamberlain","Mathieu Debuchy",10
-"Alex Oxlade-Chamberlain","Laurent Koscielny",2
-"Alex Oxlade-Chamberlain","Mikel Arteta",2
-"Alex Oxlade-Chamberlain","Jack Wilshere",4
-"Alex Oxlade-Chamberlain","Aaron Ramsey",3
-"Alex Oxlade-Chamberlain","Alexis Sánchez",6
-"Alex Oxlade-Chamberlain","Nacho Monreal",4
-"Alex Oxlade-Chamberlain","Santi Cazorla",6
-"Alex Oxlade-Chamberlain","Calum Chambers",1
-"Alex Oxlade-Chamberlain","Mathieu Flamini",1
-"Alex Oxlade-Chamberlain","Per Mertesacker",4
-"Alex Oxlade-Chamberlain","Mesut Özil",1
-"Alex Oxlade-Chamberlain","Kieran Gibbs",3
-"Alex Oxlade-Chamberlain","Héctor Bellerín",1
-"Alex Oxlade-Chamberlain","Lukas Podolski",1
-"Alex Oxlade-Chamberlain","Joel Campbell",1
-"Mathieu Flamini","Wojciech Szczęsny",1
-"Mathieu Flamini","Mathieu Debuchy",10
-"Mathieu Flamini","Laurent Koscielny",6
-"Mathieu Flamini","Jack Wilshere",23
-"Mathieu Flamini","Aaron Ramsey",21
-"Mathieu Flamini","Alexis Sánchez",6
-"Mathieu Flamini","Nacho Monreal",21
-"Mathieu Flamini","Santi Cazorla",8
-"Mathieu Flamini","Calum Chambers",13
-"Mathieu Flamini","Alex Oxlade-Chamberlain",5
-"Mathieu Flamini","Per Mertesacker",12
-"Mathieu Flamini","Mesut Özil",3
-"Mathieu Flamini","Kieran Gibbs",9
-"Mathieu Flamini","Oxlade-Chamberlain",2
-"Per Mertesacker","Wojciech Szczęsny",15
-"Per Mertesacker","Mathieu Debuchy",8
-"Per Mertesacker","Laurent Koscielny",54
-"Per Mertesacker","Jack Wilshere",26
-"Per Mertesacker","Mesut Özil",20
-"Per Mertesacker","Alex Oxlade-Chamberlain",5
-"Per Mertesacker","Alexis Sánchez",11
-"Per Mertesacker","Nacho Monreal",43
-"Per Mertesacker","Santi Cazorla",41
-"Per Mertesacker","Mathieu Flamini",12
-"Per Mertesacker","Calum Chambers",15
-"Per Mertesacker","Kieran Gibbs",4
-"Per Mertesacker","Mikel Arteta",28
-"Per Mertesacker","Aaron Ramsey",33
-"Per Mertesacker","Héctor Bellerín",26
-"Per Mertesacker","Lukas Podolski",1
-"Per Mertesacker","Emiliano Martínez",9
-"Per Mertesacker","Oxlade-Chamberlain",7
-"Per Mertesacker","Tomáš Rosický",2
-"Per Mertesacker","David Ospina",8
-"Per Mertesacker","Olivier Giroud",1
-"Per Mertesacker","Francis Coquelin",17
-"Per Mertesacker","Theo Walcott",2
-"Mesut Özil","Per Mertesacker",7
-"Mesut Özil","Laurent Koscielny",6
-"Mesut Özil","Jack Wilshere",8
-"Mesut Özil","Alex Oxlade-Chamberlain",2
-"Mesut Özil","Alexis Sánchez",36
-"Mesut Özil","Nacho Monreal",9
-"Mesut Özil","Santi Cazorla",32
-"Mesut Özil","Mathieu Flamini",3
-"Mesut Özil","Kieran Gibbs",7
-"Mesut Özil","Mikel Arteta",3
-"Mesut Özil","Aaron Ramsey",11
-"Mesut Özil","Danny Welbeck",16
-"Mesut Özil","Héctor Bellerín",13
-"Mesut Özil","Olivier Giroud",11
-"Mesut Özil","Francis Coquelin",14
-"Mesut Özil","Theo Walcott",3
-"Mesut Özil","Oxlade-Chamberlain",4
-"Kieran Gibbs","Wojciech Szczęsny",2
-"Kieran Gibbs","Per Mertesacker",4
-"Kieran Gibbs","Laurent Koscielny",8
-"Kieran Gibbs","Mikel Arteta",7
-"Kieran Gibbs","Jack Wilshere",8
-"Kieran Gibbs","Mesut Özil",6
-"Kieran Gibbs","Aaron Ramsey",16
-"Kieran Gibbs","Alexis Sánchez",38
-"Kieran Gibbs","Danny Welbeck",11
-"Kieran Gibbs","Lukas Podolski",4
-"Kieran Gibbs","Alex Oxlade-Chamberlain",4
-"Kieran Gibbs","Santi Cazorla",25
-"Kieran Gibbs","Emiliano Martínez",2
-"Kieran Gibbs","Nacho Monreal",25
-"Kieran Gibbs","Mathieu Flamini",7
-"Kieran Gibbs","Oxlade-Chamberlain",6
-"Kieran Gibbs","David Ospina",2
-"Kieran Gibbs","Olivier Giroud",4
-"Kieran Gibbs","Francis Coquelin",6
-"Danny Welbeck","Kieran Gibbs",8
-"Danny Welbeck","Per Mertesacker",1
-"Danny Welbeck","Laurent Koscielny",3
-"Danny Welbeck","Mikel Arteta",1
-"Danny Welbeck","Jack Wilshere",4
-"Danny Welbeck","Mesut Özil",13
-"Danny Welbeck","Aaron Ramsey",7
-"Danny Welbeck","Alexis Sánchez",9
-"Danny Welbeck","Héctor Bellerín",9
-"Danny Welbeck","Alex Oxlade-Chamberlain",1
-"Danny Welbeck","Santi Cazorla",7
-"Danny Welbeck","Nacho Monreal",5
-"Danny Welbeck","Mathieu Flamini",3
-"Danny Welbeck","Calum Chambers",3
-"Danny Welbeck","Oxlade-Chamberlain",1
-"Danny Welbeck","Tomáš Rosický",1
-"Danny Welbeck","Olivier Giroud",3
-"Danny Welbeck","Francis Coquelin",3
-"Héctor Bellerín","Kieran Gibbs",1
-"Héctor Bellerín","Per Mertesacker",23
-"Héctor Bellerín","Laurent Koscielny",2
-"Héctor Bellerín","Mikel Arteta",1
-"Héctor Bellerín","Jack Wilshere",7
-"Héctor Bellerín","Mesut Özil",17
-"Héctor Bellerín","Aaron Ramsey",15
-"Héctor Bellerín","Alexis Sánchez",12
-"Héctor Bellerín","Danny Welbeck",3
-"Héctor Bellerín","Santi Cazorla",10
-"Héctor Bellerín","David Ospina",1
-"Héctor Bellerín","Olivier Giroud",1
-"Héctor Bellerín","Francis Coquelin",2
-"Héctor Bellerín","Tomáš Rosický",2
-"Héctor Bellerín","Theo Walcott",4
-"Héctor Bellerín","Oxlade-Chamberlain",2
-"Lukas Podolski","Kieran Gibbs",4
-"Lukas Podolski","Per Mertesacker",1
-"Lukas Podolski","Jack Wilshere",2
-"Lukas Podolski","Aaron Ramsey",2
-"Lukas Podolski","Alexis Sánchez",4
-"Lukas Podolski","Alex Oxlade-Chamberlain",3
-"Lukas Podolski","Santi Cazorla",1
-"Lukas Podolski","Emiliano Martínez",1
-"Emiliano Martínez","Kieran Gibbs",2
-"Emiliano Martínez","Per Mertesacker",12
-"Emiliano Martínez","Aaron Ramsey",1
-"Emiliano Martínez","Nacho Monreal",5
-"Emiliano Martínez","Santi Cazorla",1
-"Emiliano Martínez","Calum Chambers",2
-"Emiliano Martínez","Lukas Podolski",1
-"Emiliano Martínez","Alex Oxlade-Chamberlain",1
-"Emiliano Martínez","Mikel Arteta",1
-"Emiliano Martínez","Yaya Sanogo",2
-"Joel Campbell","Jack Wilshere",2
-"Joel Campbell","Aaron Ramsey",1
-"Joel Campbell","Alexis Sánchez",2
-"Joel Campbell","Calum Chambers",2
-"Joel Campbell","Alex Oxlade-Chamberlain",1
-"Oxlade-Chamberlain","Kieran Gibbs",3
-"Oxlade-Chamberlain","Per Mertesacker",6
-"Oxlade-Chamberlain","Mikel Arteta",3
-"Oxlade-Chamberlain","Aaron Ramsey",9
-"Oxlade-Chamberlain","Alexis Sánchez",8
-"Oxlade-Chamberlain","Nacho Monreal",2
-"Oxlade-Chamberlain","Santi Cazorla",7
-"Oxlade-Chamberlain","Calum Chambers",13
-"Oxlade-Chamberlain","Danny Welbeck",4
-"Oxlade-Chamberlain","Mathieu Flamini",3
-"Oxlade-Chamberlain","Yaya Sanogo",3
-"Oxlade-Chamberlain","Mesut Özil",3
-"Oxlade-Chamberlain","Héctor Bellerín",1
-"Oxlade-Chamberlain","Theo Walcott",2
-"Yaya Sanogo","Kieran Gibbs",2
-"Yaya Sanogo","Oxlade-Chamberlain",4
-"Yaya Sanogo","Aaron Ramsey",2
-"Yaya Sanogo","Alexis Sánchez",1
-"Yaya Sanogo","Santi Cazorla",4
-"Yaya Sanogo","Calum Chambers",1
-"David Ospina","Kieran Gibbs",2
-"David Ospina","Per Mertesacker",10
-"David Ospina","Laurent Koscielny",7
-"David Ospina","Mesut Özil",3
-"David Ospina","Alexis Sánchez",1
-"David Ospina","Francis Coquelin",1
-"David Ospina","Héctor Bellerín",1
-"David Ospina","Oxlade-Chamberlain",1
-"Francis Coquelin","David Ospina",1
-"Francis Coquelin","Kieran Gibbs",6
-"Francis Coquelin","Per Mertesacker",17
-"Francis Coquelin","Laurent Koscielny",10
-"Francis Coquelin","Mesut Özil",16
-"Francis Coquelin","Olivier Giroud",3
-"Francis Coquelin","Alexis Sánchez",11
-"Francis Coquelin","Santi Cazorla",23
-"Francis Coquelin","Danny Welbeck",2
-"Francis Coquelin","Héctor Bellerín",6
-"Francis Coquelin","Nacho Monreal",10
-"Theo Walcott","Mesut Özil",2
-"Theo Walcott","Alexis Sánchez",1
-"Theo Walcott","Santi Cazorla",1
-"Theo Walcott","Héctor Bellerín",2
-"Theo Walcott","Oxlade-Chamberlain",1
-"Theo Walcott","Aaron Ramsey",2
+Source,Target,Weight
+"1","2",4
+"1","6",17
+"1","8",4
+"1","10",5
+"1","12",6
+"1","16",3
+"1","17",2
+"1","18",6
+"1","19",2
+"1","21",4
+"1","20",2
+"1","4",17
+"1","3",4
+"1","23",1
+"2","6",3
+"2","8",3
+"2","10",5
+"2","12",3
+"2","16",9
+"2","17",13
+"2","18",2
+"2","19",4
+"2","21",10
+"2","15",8
+"2","20",3
+"2","4",7
+"6","1",6
+"6","2",2
+"6","8",21
+"6","10",14
+"6","12",2
+"6","16",7
+"6","17",15
+"6","18",25
+"6","19",34
+"6","21",9
+"6","7",1
+"6","15",3
+"6","20",4
+"6","4",49
+"6","11",13
+"6","3",11
+"6","23",2
+"6","39",4
+"6","13",5
+"6","34",12
+"6","14",1
+"6","15",4
+"8","1",1
+"8","2",6
+"8","6",10
+"8","10",13
+"8","16",29
+"8","17",15
+"8","18",16
+"8","19",19
+"8","21",24
+"8","3",17
+"8","4",25
+"8","11",3
+"8","39",6
+"8","15",9
+"10","1",1
+"10","2",6
+"10","6",6
+"10","8",9
+"10","12",6
+"10","16",21
+"10","17",16
+"10","18",6
+"10","19",22
+"10","21",5
+"10","15",6
+"10","20",20
+"10","4",10
+"10","11",12
+"10","3",11
+"10","23",7
+"10","39",6
+"10","9",2
+"10","28",2
+"12","2",2
+"12","6",1
+"12","8",1
+"12","10",2
+"12","16",2
+"12","17",5
+"12","18",3
+"12","19",8
+"12","15",3
+"12","11",3
+"12","23",3
+"12","34",3
+"16","1",1
+"16","2",7
+"16","6",5
+"16","8",14
+"16","10",14
+"16","12",7
+"16","17",46
+"16","18",16
+"16","19",33
+"16","21",28
+"16","7",3
+"16","15",1
+"16","20",6
+"16","3",18
+"16","4",24
+"16","11",6
+"16","23",15
+"16","39",16
+"16","9",1
+"16","15",13
+"16","22",2
+"17","2",7
+"17","6",10
+"17","8",3
+"17","10",13
+"17","12",9
+"17","16",30
+"17","18",12
+"17","19",39
+"17","21",6
+"17","7",1
+"17","15",6
+"17","20",5
+"17","4",9
+"17","11",24
+"17","3",16
+"17","23",15
+"17","39",8
+"17","9",3
+"17","28",1
+"17","15",9
+"17","34",7
+"17","14",1
+"18","1",4
+"18","6",19
+"18","8",28
+"18","10",13
+"18","12",5
+"18","16",20
+"18","17",11
+"18","19",32
+"18","21",1
+"18","20",17
+"18","4",28
+"18","11",17
+"18","26",10
+"18","3",33
+"18","23",7
+"18","9",1
+"18","15",1
+"18","22",1
+"18","34",5
+"18","39",2
+"18","14",1
+"19","2",3
+"19","6",15
+"19","8",15
+"19","10",12
+"19","12",7
+"19","16",20
+"19","17",62
+"19","18",24
+"19","21",18
+"19","15",5
+"19","20",13
+"19","4",29
+"19","11",43
+"19","3",30
+"19","23",19
+"19","39",15
+"19","9",4
+"19","28",1
+"19","15",10
+"19","22",2
+"19","13",1
+"19","34",22
+"19","14",1
+"21","1",4
+"21","2",13
+"21","6",11
+"21","8",5
+"21","10",8
+"21","16",24
+"21","17",11
+"21","18",2
+"21","19",16
+"21","15",1
+"21","20",10
+"21","4",23
+"21","26",1
+"21","3",1
+"21","23",3
+"21","9",1
+"21","28",8
+"21","15",12
+"21","22",2
+"7","16",1
+"7","3",1
+"7","15",1
+"7","23",1
+"7","39",3
+"15","1",1
+"15","2",10
+"15","6",2
+"15","8",2
+"15","10",4
+"15","16",3
+"15","17",6
+"15","18",4
+"15","19",6
+"15","21",1
+"15","20",1
+"15","4",4
+"15","11",1
+"15","3",3
+"15","39",1
+"15","9",1
+"15","28",1
+"20","1",1
+"20","2",10
+"20","6",6
+"20","10",23
+"20","16",21
+"20","17",6
+"20","18",21
+"20","19",8
+"20","21",13
+"20","15",5
+"20","4",12
+"20","11",3
+"20","3",9
+"20","15",2
+"4","1",15
+"4","2",8
+"4","6",54
+"4","10",26
+"4","11",20
+"4","15",5
+"4","17",11
+"4","18",43
+"4","19",41
+"4","20",12
+"4","21",15
+"4","3",4
+"4","8",28
+"4","16",33
+"4","39",26
+"4","9",1
+"4","26",9
+"4","15",7
+"4","7",2
+"4","13",8
+"4","12",1
+"4","34",17
+"4","14",2
+"11","4",7
+"11","6",6
+"11","10",8
+"11","15",2
+"11","17",36
+"11","18",9
+"11","19",32
+"11","20",3
+"11","3",7
+"11","8",3
+"11","16",11
+"11","23",16
+"11","39",13
+"11","12",11
+"11","34",14
+"11","14",3
+"11","15",4
+"3","1",2
+"3","4",4
+"3","6",8
+"3","8",7
+"3","10",8
+"3","11",6
+"3","16",16
+"3","17",38
+"3","23",11
+"3","9",4
+"3","15",4
+"3","19",25
+"3","26",2
+"3","18",25
+"3","20",7
+"3","15",6
+"3","13",2
+"3","12",4
+"3","34",6
+"23","3",8
+"23","4",1
+"23","6",3
+"23","8",1
+"23","10",4
+"23","11",13
+"23","16",7
+"23","17",9
+"23","39",9
+"23","15",1
+"23","19",7
+"23","18",5
+"23","20",3
+"23","21",3
+"23","15",1
+"23","7",1
+"23","12",3
+"23","34",3
+"39","3",1
+"39","4",23
+"39","6",2
+"39","8",1
+"39","10",7
+"39","11",17
+"39","16",15
+"39","17",12
+"39","23",3
+"39","19",10
+"39","13",1
+"39","12",1
+"39","34",2
+"39","7",2
+"39","14",4
+"39","15",2
+"9","3",4
+"9","4",1
+"9","10",2
+"9","16",2
+"9","17",4
+"9","15",3
+"9","19",1
+"9","26",1
+"26","3",2
+"26","4",12
+"26","16",1
+"26","18",5
+"26","19",1
+"26","21",2
+"26","9",1
+"26","15",1
+"26","8",1
+"26","22",2
+"28","10",2
+"28","16",1
+"28","17",2
+"28","21",2
+"28","15",1
+"15","3",3
+"15","4",6
+"15","8",3
+"15","16",9
+"15","17",8
+"15","18",2
+"15","19",7
+"15","21",13
+"15","23",4
+"15","20",3
+"15","22",3
+"15","11",3
+"15","39",1
+"15","14",2
+"22","3",2
+"22","15",4
+"22","16",2
+"22","17",1
+"22","19",4
+"22","21",1
+"13","3",2
+"13","4",10
+"13","6",7
+"13","11",3
+"13","17",1
+"13","34",1
+"13","39",1
+"13","15",1
+"34","13",1
+"34","3",6
+"34","4",17
+"34","6",10
+"34","11",16
+"34","12",3
+"34","17",11
+"34","19",23
+"34","23",2
+"34","39",6
+"34","18",10
+"14","11",2
+"14","17",1
+"14","19",1
+"14","39",2
+"14","15",1
+"14","16",2

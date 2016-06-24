@@ -1,172 +1,173 @@
-"Vladislav Stoyanov","Alexandre Barthe",5
-"Vladislav Stoyanov","Roman Bezjak",1
-"Vladislav Stoyanov","Dani Abalo",1
-"Vladislav Stoyanov","Svetoslav Dyakov",1
-"Vladislav Stoyanov","Hristo Zlatinski",2
-"Vladislav Stoyanov","Yordan Minev",5
-"Vladislav Stoyanov","Cosmin Moţi",12
-"Vladislav Stoyanov","Ivan Stoyanov",2
-"Vladislav Stoyanov","Júnior Caiçara",2
-"Vladislav Stoyanov","Tero Mäntylä",6
-"Vladislav Stoyanov","Choco",1
-"Vladislav Stoyanov","Mihail Aleksandrov",1
-"Alexandre Barthe","Vladislav Stoyanov",5
-"Alexandre Barthe","Roman Bezjak",1
-"Alexandre Barthe","Dani Abalo",1
-"Alexandre Barthe","Hristo Zlatinski",5
-"Alexandre Barthe","Yordan Minev",3
-"Alexandre Barthe","Cosmin Moţi",5
-"Alexandre Barthe","Ivan Stoyanov",4
-"Alexandre Barthe","Júnior Caiçara",9
-"Alexandre Barthe","Marcelinho",2
-"Alexandre Barthe","Michel",1
-"Roman Bezjak","Svetoslav Dyakov",1
-"Roman Bezjak","Hristo Zlatinski",2
-"Roman Bezjak","Yordan Minev",1
-"Roman Bezjak","Cosmin Moţi",2
-"Roman Bezjak","Ivan Stoyanov",3
-"Roman Bezjak","Marcelinho",4
-"Roman Bezjak","Virgil Misidjan",1
-"Roman Bezjak","Choco",2
-"Roman Bezjak","Mihail Aleksandrov",1
-"Roman Bezjak","Vitinha",1
-"Dani Abalo","Vladislav Stoyanov",1
-"Dani Abalo","Alexandre Barthe",1
-"Dani Abalo","Roman Bezjak",2
-"Dani Abalo","Cosmin Moţi",1
-"Dani Abalo","Marcelinho",3
-"Svetoslav Dyakov","Alexandre Barthe",5
-"Svetoslav Dyakov","Roman Bezjak",1
-"Svetoslav Dyakov","Dani Abalo",1
-"Svetoslav Dyakov","Hristo Zlatinski",4
-"Svetoslav Dyakov","Yordan Minev",8
-"Svetoslav Dyakov","Cosmin Moţi",7
-"Svetoslav Dyakov","Ivan Stoyanov",3
-"Svetoslav Dyakov","Júnior Caiçara",1
-"Svetoslav Dyakov","Marcelinho",6
-"Svetoslav Dyakov","Virgil Misidjan",5
-"Svetoslav Dyakov","Tero Mäntylä",8
-"Svetoslav Dyakov","Choco",8
-"Svetoslav Dyakov","Mihail Aleksandrov",1
-"Svetoslav Dyakov","Fábio Espinho",1
-"Svetoslav Dyakov","Vitinha",1
-"Hristo Zlatinski","Alexandre Barthe",9
-"Hristo Zlatinski","Roman Bezjak",3
-"Hristo Zlatinski","Dani Abalo",2
-"Hristo Zlatinski","Svetoslav Dyakov",4
-"Hristo Zlatinski","Yordan Minev",10
-"Hristo Zlatinski","Cosmin Moţi",6
-"Hristo Zlatinski","Ivan Stoyanov",5
-"Hristo Zlatinski","Júnior Caiçara",1
-"Hristo Zlatinski","Marcelinho",6
-"Hristo Zlatinski","Fábio",2
-"Hristo Zlatinski","Virgil Misidjan",5
-"Hristo Zlatinski","Tero Mäntylä",4
-"Yordan Minev","Alexandre Barthe",2
-"Yordan Minev","Roman Bezjak",4
-"Yordan Minev","Svetoslav Dyakov",5
-"Yordan Minev","Hristo Zlatinski",10
-"Yordan Minev","Cosmin Moţi",14
-"Yordan Minev","Ivan Stoyanov",3
-"Yordan Minev","Júnior Caiçara",2
-"Yordan Minev","Marcelinho",9
-"Yordan Minev","Virgil Misidjan",10
-"Yordan Minev","Tero Mäntylä",2
-"Yordan Minev","Choco",2
-"Yordan Minev","Mihail Aleksandrov",3
-"Yordan Minev","Fábio Espinho",4
-"Yordan Minev","Vitinha",1
-"Cosmin Moţi","Vladislav Stoyanov",4
-"Cosmin Moţi","Alexandre Barthe",5
-"Cosmin Moţi","Roman Bezjak",2
-"Cosmin Moţi","Dani Abalo",1
-"Cosmin Moţi","Svetoslav Dyakov",11
-"Cosmin Moţi","Hristo Zlatinski",6
-"Cosmin Moţi","Yordan Minev",15
-"Cosmin Moţi","Ivan Stoyanov",2
-"Cosmin Moţi","Júnior Caiçara",3
-"Cosmin Moţi","Marcelinho",8
-"Cosmin Moţi","Virgil Misidjan",4
-"Cosmin Moţi","Tero Mäntylä",16
-"Cosmin Moţi","Choco",3
-"Cosmin Moţi","Fábio Espinho",5
-"Ivan Stoyanov","Roman Bezjak",2
-"Ivan Stoyanov","Dani Abalo",2
-"Ivan Stoyanov","Svetoslav Dyakov",8
-"Ivan Stoyanov","Hristo Zlatinski",3
-"Ivan Stoyanov","Yordan Minev",1
-"Ivan Stoyanov","Cosmin Moţi",3
-"Ivan Stoyanov","Marcelinho",7
-"Ivan Stoyanov","Fábio",2
-"Ivan Stoyanov","Tero Mäntylä",4
-"Ivan Stoyanov","Choco",3
-"Ivan Stoyanov","Mihail Aleksandrov",1
-"Júnior Caiçara","Vladislav Stoyanov",2
-"Júnior Caiçara","Alexandre Barthe",1
-"Júnior Caiçara","Dani Abalo",2
-"Júnior Caiçara","Svetoslav Dyakov",3
-"Júnior Caiçara","Hristo Zlatinski",1
-"Júnior Caiçara","Yordan Minev",1
-"Júnior Caiçara","Cosmin Moţi",2
-"Júnior Caiçara","Ivan Stoyanov",5
-"Júnior Caiçara","Marcelinho",3
-"Marcelinho","Alexandre Barthe",2
-"Marcelinho","Roman Bezjak",2
-"Marcelinho","Svetoslav Dyakov",2
-"Marcelinho","Hristo Zlatinski",5
-"Marcelinho","Yordan Minev",7
-"Marcelinho","Cosmin Moţi",5
-"Marcelinho","Ivan Stoyanov",7
-"Marcelinho","Júnior Caiçara",7
-"Marcelinho","Michel",1
-"Marcelinho","Tero Mäntylä",4
-"Marcelinho","Choco",3
-"Marcelinho","Mihail Aleksandrov",1
-"Marcelinho","Fábio Espinho",1
-"Fábio","Alexandre Barthe",1
-"Fábio","Yordan Minev",3
-"Fábio","Ivan Stoyanov",1
-"Fábio","Virgil Misidjan",1
-"Virgil Misidjan","Svetoslav Dyakov",1
-"Virgil Misidjan","Hristo Zlatinski",1
-"Virgil Misidjan","Yordan Minev",6
-"Virgil Misidjan","Cosmin Moţi",1
-"Virgil Misidjan","Ivan Stoyanov",1
-"Virgil Misidjan","Marcelinho",2
-"Virgil Misidjan","Fábio",1
-"Virgil Misidjan","Choco",1
-"Tero Mäntylä","Vladislav Stoyanov",3
-"Tero Mäntylä","Roman Bezjak",2
-"Tero Mäntylä","Svetoslav Dyakov",12
-"Tero Mäntylä","Choco",17
-"Tero Mäntylä","Hristo Zlatinski",2
-"Tero Mäntylä","Yordan Minev",8
-"Tero Mäntylä","Cosmin Moţi",16
-"Tero Mäntylä","Ivan Stoyanov",3
-"Tero Mäntylä","Marcelinho",2
-"Tero Mäntylä","Mihail Aleksandrov",1
-"Tero Mäntylä","Fábio Espinho",4
-"Choco","Vladislav Stoyanov",2
-"Choco","Tero Mäntylä",12
-"Choco","Roman Bezjak",3
-"Choco","Svetoslav Dyakov",6
-"Choco","Hristo Zlatinski",3
-"Choco","Cosmin Moţi",1
-"Choco","Ivan Stoyanov",6
-"Choco","Marcelinho",9
-"Choco","Mihail Aleksandrov",2
-"Choco","Fábio Espinho",5
-"Mihail Aleksandrov","Roman Bezjak",1
-"Mihail Aleksandrov","Svetoslav Dyakov",2
-"Mihail Aleksandrov","Choco",1
-"Mihail Aleksandrov","Fábio Espinho",2
-"Fábio Espinho","Tero Mäntylä",4
-"Fábio Espinho","Roman Bezjak",1
-"Fábio Espinho","Svetoslav Dyakov",4
-"Fábio Espinho","Choco",4
-"Fábio Espinho","Yordan Minev",3
-"Fábio Espinho","Cosmin Moţi",2
-"Fábio Espinho","Ivan Stoyanov",1
-"Fábio Espinho","Marcelinho",2
-"Fábio Espinho","Mihail Aleksandrov",1
-"Vitinha","Marcelinho",2
+Source,Target,Weight
+"21","5",5
+"21","9",1
+"21","17",1
+"21","18",1
+"21","23",2
+"21","25",5
+"21","27",12
+"21","73",2
+"21","80",2
+"21","4",6
+"21","20",1
+"21","7",1
+"5","21",5
+"5","9",1
+"5","17",1
+"5","23",5
+"5","25",3
+"5","27",5
+"5","73",4
+"5","80",9
+"5","84",2
+"5","99",1
+"9","18",1
+"9","23",2
+"9","25",1
+"9","27",2
+"9","73",3
+"9","84",4
+"9","93",1
+"9","20",2
+"9","7",1
+"9","77",1
+"17","21",1
+"17","5",1
+"17","9",2
+"17","27",1
+"17","84",3
+"18","5",5
+"18","9",1
+"18","17",1
+"18","23",4
+"18","25",8
+"18","27",7
+"18","73",3
+"18","80",1
+"18","84",6
+"18","93",5
+"18","4",8
+"18","20",8
+"18","7",1
+"18","8",1
+"18","77",1
+"23","5",9
+"23","9",3
+"23","17",2
+"23","18",4
+"23","25",10
+"23","27",6
+"23","73",5
+"23","80",1
+"23","84",6
+"23","8",2
+"23","93",5
+"23","4",4
+"25","5",2
+"25","9",4
+"25","18",5
+"25","23",10
+"25","27",14
+"25","73",3
+"25","80",2
+"25","84",9
+"25","93",10
+"25","4",2
+"25","20",2
+"25","7",3
+"25","8",4
+"25","77",1
+"27","21",4
+"27","5",5
+"27","9",2
+"27","17",1
+"27","18",11
+"27","23",6
+"27","25",15
+"27","73",2
+"27","80",3
+"27","84",8
+"27","93",4
+"27","4",16
+"27","20",3
+"27","8",5
+"73","9",2
+"73","17",2
+"73","18",8
+"73","23",3
+"73","25",1
+"73","27",3
+"73","84",7
+"73","8",2
+"73","4",4
+"73","20",3
+"73","7",1
+"80","21",2
+"80","5",1
+"80","17",2
+"80","18",3
+"80","23",1
+"80","25",1
+"80","27",2
+"80","73",5
+"80","84",3
+"84","5",2
+"84","9",2
+"84","18",2
+"84","23",5
+"84","25",7
+"84","27",5
+"84","73",7
+"84","80",7
+"84","99",1
+"84","4",4
+"84","20",3
+"84","7",1
+"84","8",1
+"8","5",1
+"8","25",3
+"8","73",1
+"8","93",1
+"93","18",1
+"93","23",1
+"93","25",6
+"93","27",1
+"93","73",1
+"93","84",2
+"93","8",1
+"93","20",1
+"4","21",3
+"4","9",2
+"4","18",12
+"4","20",17
+"4","23",2
+"4","25",8
+"4","27",16
+"4","73",3
+"4","84",2
+"4","7",1
+"4","8",4
+"20","21",2
+"20","4",12
+"20","9",3
+"20","18",6
+"20","23",3
+"20","27",1
+"20","73",6
+"20","84",9
+"20","7",2
+"20","8",5
+"7","9",1
+"7","18",2
+"7","20",1
+"7","8",2
+"8","4",4
+"8","9",1
+"8","18",4
+"8","20",4
+"8","25",3
+"8","27",2
+"8","73",1
+"8","84",2
+"8","7",1
+"77","84",2

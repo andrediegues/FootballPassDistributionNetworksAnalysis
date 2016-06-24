@@ -1,283 +1,284 @@
-"Gianluigi Buffon","Giorgio Chiellini",63
-"Gianluigi Buffon","Martín Cáceres",8
-"Gianluigi Buffon","Paul Pogba",10
-"Gianluigi Buffon","Claudio Marchisio",12
-"Gianluigi Buffon","Carlos Tévez",2
-"Gianluigi Buffon","Fernando Llorente",4
-"Gianluigi Buffon","Leonardo Bonucci",53
-"Gianluigi Buffon","Kwadwo Asamoah",6
-"Gianluigi Buffon","Stephan Lichtsteiner",25
-"Gianluigi Buffon","Patrice Evra",7
-"Gianluigi Buffon","Álvaro Morata",3
-"Gianluigi Buffon","Arturo Vidal",16
-"Gianluigi Buffon","Roberto Pereyra",1
-"Gianluigi Buffon","Angelo Ogbonna",4
-"Gianluigi Buffon","Andrea Pirlo",21
-"Gianluigi Buffon","Simone Padoin",1
-"Gianluigi Buffon","Andrea Barzagli",11
-"Gianluigi Buffon","Alessandro Matri",1
-"Giorgio Chiellini","Gianluigi Buffon",46
-"Giorgio Chiellini","Martín Cáceres",9
-"Giorgio Chiellini","Paul Pogba",61
-"Giorgio Chiellini","Claudio Marchisio",55
-"Giorgio Chiellini","Carlos Tévez",55
-"Giorgio Chiellini","Fernando Llorente",12
-"Giorgio Chiellini","Leonardo Bonucci",122
-"Giorgio Chiellini","Kwadwo Asamoah",59
-"Giorgio Chiellini","Stephan Lichtsteiner",23
-"Giorgio Chiellini","Patrice Evra",131
-"Giorgio Chiellini","Álvaro Morata",14
-"Giorgio Chiellini","Sebastian Giovinco",1
-"Giorgio Chiellini","Arturo Vidal",58
-"Giorgio Chiellini","Roberto Pereyra",14
-"Giorgio Chiellini","Angelo Ogbonna",2
-"Giorgio Chiellini","Andrea Pirlo",97
-"Giorgio Chiellini","Simone Padoin",7
-"Giorgio Chiellini","Simone Pepe",2
-"Giorgio Chiellini","Andrea Barzagli",1
-"Giorgio Chiellini","Stefano Sturaro",1
-"Martín Cáceres","Gianluigi Buffon",3
-"Martín Cáceres","Giorgio Chiellini",6
-"Martín Cáceres","Paul Pogba",11
-"Martín Cáceres","Claudio Marchisio",11
-"Martín Cáceres","Carlos Tévez",10
-"Martín Cáceres","Fernando Llorente",4
-"Martín Cáceres","Leonardo Bonucci",20
-"Martín Cáceres","Kwadwo Asamoah",10
-"Martín Cáceres","Stephan Lichtsteiner",43
-"Martín Cáceres","Patrice Evra",6
-"Martín Cáceres","Arturo Vidal",3
-"Paul Pogba","Gianluigi Buffon",1
-"Paul Pogba","Giorgio Chiellini",48
-"Paul Pogba","Martín Cáceres",7
-"Paul Pogba","Claudio Marchisio",19
-"Paul Pogba","Carlos Tévez",51
-"Paul Pogba","Fernando Llorente",8
-"Paul Pogba","Leonardo Bonucci",14
-"Paul Pogba","Kwadwo Asamoah",20
-"Paul Pogba","Stephan Lichtsteiner",43
-"Paul Pogba","Patrice Evra",33
-"Paul Pogba","Álvaro Morata",14
-"Paul Pogba","Sebastian Giovinco",1
-"Paul Pogba","Arturo Vidal",33
-"Paul Pogba","Roberto Pereyra",5
-"Paul Pogba","Angelo Ogbonna",1
-"Paul Pogba","Andrea Pirlo",24
-"Paul Pogba","Simone Padoin",9
-"Claudio Marchisio","Gianluigi Buffon",5
-"Claudio Marchisio","Giorgio Chiellini",59
-"Claudio Marchisio","Martín Cáceres",14
-"Claudio Marchisio","Paul Pogba",20
-"Claudio Marchisio","Carlos Tévez",40
-"Claudio Marchisio","Fernando Llorente",15
-"Claudio Marchisio","Leonardo Bonucci",52
-"Claudio Marchisio","Kwadwo Asamoah",7
-"Claudio Marchisio","Stephan Lichtsteiner",74
-"Claudio Marchisio","Patrice Evra",39
-"Claudio Marchisio","Álvaro Morata",29
-"Claudio Marchisio","Arturo Vidal",44
-"Claudio Marchisio","Roberto Pereyra",11
-"Claudio Marchisio","Andrea Pirlo",37
-"Claudio Marchisio","Simone Padoin",4
-"Claudio Marchisio","Andrea Barzagli",6
-"Carlos Tévez","Giorgio Chiellini",19
-"Carlos Tévez","Martín Cáceres",11
-"Carlos Tévez","Paul Pogba",37
-"Carlos Tévez","Claudio Marchisio",33
-"Carlos Tévez","Fernando Llorente",15
-"Carlos Tévez","Leonardo Bonucci",15
-"Carlos Tévez","Kwadwo Asamoah",15
-"Carlos Tévez","Stephan Lichtsteiner",62
-"Carlos Tévez","Patrice Evra",52
-"Carlos Tévez","Álvaro Morata",33
-"Carlos Tévez","Sebastian Giovinco",1
-"Carlos Tévez","Arturo Vidal",56
-"Carlos Tévez","Roberto Pereyra",12
-"Carlos Tévez","Angelo Ogbonna",1
-"Carlos Tévez","Andrea Pirlo",37
-"Carlos Tévez","Simone Padoin",2
-"Carlos Tévez","Andrea Barzagli",2
-"Carlos Tévez","Stefano Sturaro",2
-"Fernando Llorente","Giorgio Chiellini",3
-"Fernando Llorente","Martín Cáceres",2
-"Fernando Llorente","Paul Pogba",15
-"Fernando Llorente","Claudio Marchisio",10
-"Fernando Llorente","Carlos Tévez",25
-"Fernando Llorente","Kwadwo Asamoah",5
-"Fernando Llorente","Stephan Lichtsteiner",13
-"Fernando Llorente","Patrice Evra",4
-"Fernando Llorente","Arturo Vidal",9
-"Fernando Llorente","Roberto Pereyra",3
-"Fernando Llorente","Andrea Pirlo",1
-"Fernando Llorente","Simone Padoin",4
-"Leonardo Bonucci","Gianluigi Buffon",21
-"Leonardo Bonucci","Giorgio Chiellini",159
-"Leonardo Bonucci","Martín Cáceres",16
-"Leonardo Bonucci","Paul Pogba",34
-"Leonardo Bonucci","Claudio Marchisio",47
-"Leonardo Bonucci","Carlos Tévez",24
-"Leonardo Bonucci","Fernando Llorente",3
-"Leonardo Bonucci","Kwadwo Asamoah",8
-"Leonardo Bonucci","Stephan Lichtsteiner",78
-"Leonardo Bonucci","Patrice Evra",15
-"Leonardo Bonucci","Rômulo",1
-"Leonardo Bonucci","Álvaro Morata",19
-"Leonardo Bonucci","Arturo Vidal",64
-"Leonardo Bonucci","Roberto Pereyra",15
-"Leonardo Bonucci","Angelo Ogbonna",4
-"Leonardo Bonucci","Andrea Pirlo",52
-"Leonardo Bonucci","Andrea Barzagli",10
-"Kwadwo Asamoah","Gianluigi Buffon",3
-"Kwadwo Asamoah","Giorgio Chiellini",41
-"Kwadwo Asamoah","Martín Cáceres",5
-"Kwadwo Asamoah","Paul Pogba",32
-"Kwadwo Asamoah","Claudio Marchisio",6
-"Kwadwo Asamoah","Carlos Tévez",27
-"Kwadwo Asamoah","Fernando Llorente",3
-"Kwadwo Asamoah","Leonardo Bonucci",3
-"Kwadwo Asamoah","Stephan Lichtsteiner",2
-"Kwadwo Asamoah","Patrice Evra",19
-"Kwadwo Asamoah","Álvaro Morata",3
-"Kwadwo Asamoah","Sebastian Giovinco",2
-"Kwadwo Asamoah","Angelo Ogbonna",2
-"Kwadwo Asamoah","Andrea Pirlo",13
-"Kwadwo Asamoah","Arturo Vidal",9
-"Stephan Lichtsteiner","Gianluigi Buffon",10
-"Stephan Lichtsteiner","Giorgio Chiellini",7
-"Stephan Lichtsteiner","Martín Cáceres",31
-"Stephan Lichtsteiner","Paul Pogba",30
-"Stephan Lichtsteiner","Claudio Marchisio",90
-"Stephan Lichtsteiner","Carlos Tévez",32
-"Stephan Lichtsteiner","Fernando Llorente",18
-"Stephan Lichtsteiner","Leonardo Bonucci",65
-"Stephan Lichtsteiner","Kwadwo Asamoah",3
-"Stephan Lichtsteiner","Patrice Evra",4
-"Stephan Lichtsteiner","Álvaro Morata",23
-"Stephan Lichtsteiner","Arturo Vidal",67
-"Stephan Lichtsteiner","Roberto Pereyra",31
-"Stephan Lichtsteiner","Angelo Ogbonna",1
-"Stephan Lichtsteiner","Andrea Pirlo",38
-"Stephan Lichtsteiner","Simone Padoin",1
-"Stephan Lichtsteiner","Andrea Barzagli",6
-"Stephan Lichtsteiner","Alessandro Matri",2
-"Patrice Evra","Gianluigi Buffon",4
-"Patrice Evra","Giorgio Chiellini",82
-"Patrice Evra","Paul Pogba",49
-"Patrice Evra","Claudio Marchisio",13
-"Patrice Evra","Carlos Tévez",46
-"Patrice Evra","Fernando Llorente",6
-"Patrice Evra","Leonardo Bonucci",6
-"Patrice Evra","Kwadwo Asamoah",20
-"Patrice Evra","Stephan Lichtsteiner",3
-"Patrice Evra","Álvaro Morata",19
-"Patrice Evra","Arturo Vidal",48
-"Patrice Evra","Roberto Pereyra",10
-"Patrice Evra","Andrea Pirlo",33
-"Patrice Evra","Kingsley Coman",1
-"Patrice Evra","Simone Pepe",4
-"Patrice Evra","Stefano Sturaro",7
-"Rômulo","Paul Pogba",1
-"Álvaro Morata","Giorgio Chiellini",2
-"Álvaro Morata","Paul Pogba",8
-"Álvaro Morata","Claudio Marchisio",15
-"Álvaro Morata","Carlos Tévez",30
-"Álvaro Morata","Stephan Lichtsteiner",13
-"Álvaro Morata","Patrice Evra",7
-"Álvaro Morata","Arturo Vidal",24
-"Álvaro Morata","Roberto Pereyra",9
-"Álvaro Morata","Angelo Ogbonna",1
-"Álvaro Morata","Andrea Pirlo",7
-"Álvaro Morata","Andrea Barzagli",1
-"Álvaro Morata","Stefano Sturaro",1
-"Sebastian Giovinco","Paul Pogba",1
-"Sebastian Giovinco","Carlos Tévez",1
-"Sebastian Giovinco","Kwadwo Asamoah",1
-"Arturo Vidal","Gianluigi Buffon",4
-"Arturo Vidal","Giorgio Chiellini",59
-"Arturo Vidal","Martín Cáceres",5
-"Arturo Vidal","Paul Pogba",23
-"Arturo Vidal","Claudio Marchisio",46
-"Arturo Vidal","Carlos Tévez",81
-"Arturo Vidal","Fernando Llorente",13
-"Arturo Vidal","Leonardo Bonucci",53
-"Arturo Vidal","Stephan Lichtsteiner",71
-"Arturo Vidal","Patrice Evra",43
-"Arturo Vidal","Álvaro Morata",24
-"Arturo Vidal","Roberto Pereyra",23
-"Arturo Vidal","Angelo Ogbonna",3
-"Arturo Vidal","Andrea Pirlo",48
-"Arturo Vidal","Kwadwo Asamoah",6
-"Arturo Vidal","Simone Padoin",6
-"Arturo Vidal","Andrea Barzagli",3
-"Arturo Vidal","Stefano Sturaro",5
-"Roberto Pereyra","Gianluigi Buffon",2
-"Roberto Pereyra","Giorgio Chiellini",7
-"Roberto Pereyra","Paul Pogba",9
-"Roberto Pereyra","Claudio Marchisio",15
-"Roberto Pereyra","Carlos Tévez",15
-"Roberto Pereyra","Fernando Llorente",1
-"Roberto Pereyra","Leonardo Bonucci",12
-"Roberto Pereyra","Arturo Vidal",14
-"Roberto Pereyra","Stephan Lichtsteiner",30
-"Roberto Pereyra","Patrice Evra",10
-"Roberto Pereyra","Álvaro Morata",9
-"Roberto Pereyra","Andrea Pirlo",5
-"Roberto Pereyra","Simone Padoin",1
-"Roberto Pereyra","Andrea Barzagli",3
-"Roberto Pereyra","Alessandro Matri",1
-"Angelo Ogbonna","Gianluigi Buffon",3
-"Angelo Ogbonna","Giorgio Chiellini",3
-"Angelo Ogbonna","Paul Pogba",1
-"Angelo Ogbonna","Álvaro Morata",2
-"Angelo Ogbonna","Leonardo Bonucci",9
-"Angelo Ogbonna","Andrea Pirlo",3
-"Angelo Ogbonna","Kwadwo Asamoah",1
-"Angelo Ogbonna","Arturo Vidal",4
-"Angelo Ogbonna","Stephan Lichtsteiner",10
-"Angelo Ogbonna","Claudio Marchisio",1
-"Andrea Pirlo","Gianluigi Buffon",4
-"Andrea Pirlo","Giorgio Chiellini",78
-"Andrea Pirlo","Angelo Ogbonna",3
-"Andrea Pirlo","Paul Pogba",34
-"Andrea Pirlo","Álvaro Morata",17
-"Andrea Pirlo","Carlos Tévez",46
-"Andrea Pirlo","Leonardo Bonucci",51
-"Andrea Pirlo","Kwadwo Asamoah",22
-"Andrea Pirlo","Arturo Vidal",57
-"Andrea Pirlo","Stephan Lichtsteiner",51
-"Andrea Pirlo","Claudio Marchisio",45
-"Andrea Pirlo","Roberto Pereyra",12
-"Andrea Pirlo","Fernando Llorente",3
-"Andrea Pirlo","Simone Padoin",12
-"Andrea Pirlo","Patrice Evra",28
-"Andrea Pirlo","Andrea Barzagli",6
-"Andrea Pirlo","Stefano Sturaro",3
-"Simone Padoin","Gianluigi Buffon",2
-"Simone Padoin","Giorgio Chiellini",12
-"Simone Padoin","Paul Pogba",7
-"Simone Padoin","Claudio Marchisio",2
-"Simone Padoin","Álvaro Morata",1
-"Simone Padoin","Carlos Tévez",3
-"Simone Padoin","Andrea Pirlo",8
-"Simone Padoin","Arturo Vidal",7
-"Simone Pepe","Giorgio Chiellini",1
-"Simone Pepe","Claudio Marchisio",1
-"Simone Pepe","Leonardo Bonucci",1
-"Simone Pepe","Arturo Vidal",3
-"Simone Pepe","Patrice Evra",1
-"Andrea Barzagli","Gianluigi Buffon",1
-"Andrea Barzagli","Claudio Marchisio",8
-"Andrea Barzagli","Álvaro Morata",2
-"Andrea Barzagli","Carlos Tévez",5
-"Andrea Barzagli","Leonardo Bonucci",9
-"Andrea Barzagli","Arturo Vidal",2
-"Andrea Barzagli","Stephan Lichtsteiner",20
-"Andrea Barzagli","Roberto Pereyra",5
-"Andrea Barzagli","Alessandro Matri",1
-"Andrea Barzagli","Andrea Pirlo",6
-"Alessandro Matri","Carlos Tévez",2
-"Alessandro Matri","Stephan Lichtsteiner",2
-"Stefano Sturaro","Giorgio Chiellini",3
-"Stefano Sturaro","Álvaro Morata",1
-"Stefano Sturaro","Carlos Tévez",3
-"Stefano Sturaro","Patrice Evra",4
+Source,Target,Weight
+"1","3",63
+"1","4",8
+"1","6",10
+"1","8",12
+"1","10",2
+"1","14",4
+"1","19",53
+"1","22",6
+"1","26",25
+"1","33",7
+"1","9",3
+"1","23",16
+"1","37",1
+"1","5",4
+"1","21",21
+"1","20",1
+"1","15",11
+"1","32",1
+"3","1",46
+"3","4",9
+"3","6",61
+"3","8",55
+"3","10",55
+"3","14",12
+"3","19",122
+"3","22",59
+"3","26",23
+"3","33",131
+"3","9",14
+"3","12",1
+"3","23",58
+"3","37",14
+"3","5",2
+"3","21",97
+"3","20",7
+"3","7",2
+"3","15",1
+"3","27",1
+"4","1",3
+"4","3",6
+"4","6",11
+"4","8",11
+"4","10",10
+"4","14",4
+"4","19",20
+"4","22",10
+"4","26",43
+"4","33",6
+"4","23",3
+"6","1",1
+"6","3",48
+"6","4",7
+"6","8",19
+"6","10",51
+"6","14",8
+"6","19",14
+"6","22",20
+"6","26",43
+"6","33",33
+"6","9",14
+"6","12",1
+"6","23",33
+"6","37",5
+"6","5",1
+"6","21",24
+"6","20",9
+"8","1",5
+"8","3",59
+"8","4",14
+"8","6",20
+"8","10",40
+"8","14",15
+"8","19",52
+"8","22",7
+"8","26",74
+"8","33",39
+"8","9",29
+"8","23",44
+"8","37",11
+"8","21",37
+"8","20",4
+"8","15",6
+"10","3",19
+"10","4",11
+"10","6",37
+"10","8",33
+"10","14",15
+"10","19",15
+"10","22",15
+"10","26",62
+"10","33",52
+"10","9",33
+"10","12",1
+"10","23",56
+"10","37",12
+"10","5",1
+"10","21",37
+"10","20",2
+"10","15",2
+"10","27",2
+"14","3",3
+"14","4",2
+"14","6",15
+"14","8",10
+"14","10",25
+"14","22",5
+"14","26",13
+"14","33",4
+"14","23",9
+"14","37",3
+"14","21",1
+"14","20",4
+"19","1",21
+"19","3",159
+"19","4",16
+"19","6",34
+"19","8",47
+"19","10",24
+"19","14",3
+"19","22",8
+"19","26",78
+"19","33",15
+"19","2",1
+"19","9",19
+"19","23",64
+"19","37",15
+"19","5",4
+"19","21",52
+"19","15",10
+"22","1",3
+"22","3",41
+"22","4",5
+"22","6",32
+"22","8",6
+"22","10",27
+"22","14",3
+"22","19",3
+"22","26",2
+"22","33",19
+"22","9",3
+"22","12",2
+"22","5",2
+"22","21",13
+"22","23",9
+"26","1",10
+"26","3",7
+"26","4",31
+"26","6",30
+"26","8",90
+"26","10",32
+"26","14",18
+"26","19",65
+"26","22",3
+"26","33",4
+"26","9",23
+"26","23",67
+"26","37",31
+"26","5",1
+"26","21",38
+"26","20",1
+"26","15",6
+"26","32",2
+"33","1",4
+"33","3",82
+"33","6",49
+"33","8",13
+"33","10",46
+"33","14",6
+"33","19",6
+"33","22",20
+"33","26",3
+"33","9",19
+"33","23",48
+"33","37",10
+"33","21",33
+"33","11",1
+"33","7",4
+"33","27",7
+"2","6",1
+"9","3",2
+"9","6",8
+"9","8",15
+"9","10",30
+"9","26",13
+"9","33",7
+"9","23",24
+"9","37",9
+"9","5",1
+"9","21",7
+"9","15",1
+"9","27",1
+"12","6",1
+"12","10",1
+"12","22",1
+"23","1",4
+"23","3",59
+"23","4",5
+"23","6",23
+"23","8",46
+"23","10",81
+"23","14",13
+"23","19",53
+"23","26",71
+"23","33",43
+"23","9",24
+"23","37",23
+"23","5",3
+"23","21",48
+"23","22",6
+"23","20",6
+"23","15",3
+"23","27",5
+"37","1",2
+"37","3",7
+"37","6",9
+"37","8",15
+"37","10",15
+"37","14",1
+"37","19",12
+"37","23",14
+"37","26",30
+"37","33",10
+"37","9",9
+"37","21",5
+"37","20",1
+"37","15",3
+"37","32",1
+"5","1",3
+"5","3",3
+"5","6",1
+"5","9",2
+"5","19",9
+"5","21",3
+"5","22",1
+"5","23",4
+"5","26",10
+"5","8",1
+"21","1",4
+"21","3",78
+"21","5",3
+"21","6",34
+"21","9",17
+"21","10",46
+"21","19",51
+"21","22",22
+"21","23",57
+"21","26",51
+"21","8",45
+"21","37",12
+"21","14",3
+"21","20",12
+"21","33",28
+"21","15",6
+"21","27",3
+"20","1",2
+"20","3",12
+"20","6",7
+"20","8",2
+"20","9",1
+"20","10",3
+"20","21",8
+"20","23",7
+"7","3",1
+"7","8",1
+"7","19",1
+"7","23",3
+"7","33",1
+"15","1",1
+"15","8",8
+"15","9",2
+"15","10",5
+"15","19",9
+"15","23",2
+"15","26",20
+"15","37",5
+"15","32",1
+"15","21",6
+"32","10",2
+"32","26",2
+"27","3",3
+"27","9",1
+"27","10",3
+"27","33",4

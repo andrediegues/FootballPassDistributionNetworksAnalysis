@@ -1,275 +1,276 @@
-"Fraser Forster","Adam Matthews",4
-"Fraser Forster","Emilio Izaguirre",12
-"Fraser Forster","Kelvin Wilson",12
-"Fraser Forster","Scott Brown",4
-"Fraser Forster","Giorgos Samaras",29
-"Fraser Forster","Kris Commons",6
-"Fraser Forster","Charlie Mulgrew",12
-"Fraser Forster","James Forrest",1
-"Fraser Forster","Victor Wanyama",10
-"Fraser Forster","Gary Hooper",13
-"Fraser Forster","Mikael Lustig",3
-"Fraser Forster","Anthony Watt",1
-"Fraser Forster","Nicolás Fedor",2
-"Fraser Forster","Thomas Rogne",2
-"Fraser Forster","Efe Ambrose",8
-"Fraser Forster","Joe Ledley",6
-"Fraser Forster","Beram Kayal",2
-"Fraser Forster","Miku",5
-"Fraser Forster","Tony Watt",1
-"Adam Matthews","Fraser Forster",12
-"Adam Matthews","Kelvin Wilson",23
-"Adam Matthews","Scott Brown",14
-"Adam Matthews","Giorgos Samaras",10
-"Adam Matthews","Kris Commons",13
-"Adam Matthews","Charlie Mulgrew",15
-"Adam Matthews","James Forrest",14
-"Adam Matthews","Victor Wanyama",14
-"Adam Matthews","Gary Hooper",7
-"Adam Matthews","Mikael Lustig",3
-"Adam Matthews","Nicolás Fedor",1
-"Adam Matthews","Thomas Rogne",2
-"Adam Matthews","Efe Ambrose",4
-"Adam Matthews","Miku",1
-"Adam Matthews","Joe Ledley",4
-"Adam Matthews","Beram Kayal",6
-"Emilio Izaguirre","Fraser Forster",4
-"Emilio Izaguirre","Kelvin Wilson",22
-"Emilio Izaguirre","Scott Brown",13
-"Emilio Izaguirre","Giorgos Samaras",39
-"Emilio Izaguirre","Kris Commons",25
-"Emilio Izaguirre","Charlie Mulgrew",71
-"Emilio Izaguirre","James Forrest",6
-"Emilio Izaguirre","Victor Wanyama",19
-"Emilio Izaguirre","Gary Hooper",11
-"Emilio Izaguirre","Paddy McCourt",1
-"Emilio Izaguirre","Mikael Lustig",4
-"Emilio Izaguirre","Anthony Watt",1
-"Emilio Izaguirre","Nicolás Fedor",5
-"Emilio Izaguirre","Efe Ambrose",8
-"Emilio Izaguirre","Joe Ledley",21
-"Emilio Izaguirre","Beram Kayal",9
-"Emilio Izaguirre","Lassad Nouioui",3
-"Kelvin Wilson","Fraser Forster",31
-"Kelvin Wilson","Adam Matthews",21
-"Kelvin Wilson","Emilio Izaguirre",43
-"Kelvin Wilson","Scott Brown",12
-"Kelvin Wilson","Giorgos Samaras",7
-"Kelvin Wilson","Kris Commons",4
-"Kelvin Wilson","Charlie Mulgrew",15
-"Kelvin Wilson","James Forrest",4
-"Kelvin Wilson","Victor Wanyama",17
-"Kelvin Wilson","Gary Hooper",3
-"Kelvin Wilson","Mikael Lustig",14
-"Kelvin Wilson","Nicolás Fedor",1
-"Kelvin Wilson","Efe Ambrose",21
-"Kelvin Wilson","Joe Ledley",8
-"Kelvin Wilson","Beram Kayal",5
-"Scott Brown","Adam Matthews",13
-"Scott Brown","Emilio Izaguirre",18
-"Scott Brown","Kelvin Wilson",9
-"Scott Brown","Giorgos Samaras",10
-"Scott Brown","Kris Commons",12
-"Scott Brown","Charlie Mulgrew",16
-"Scott Brown","James Forrest",11
-"Scott Brown","Victor Wanyama",17
-"Scott Brown","Gary Hooper",16
-"Scott Brown","Mikael Lustig",36
-"Scott Brown","Anthony Watt",1
-"Scott Brown","Efe Ambrose",9
-"Scott Brown","Joe Ledley",3
-"Scott Brown","Beram Kayal",1
-"Giorgos Samaras","Fraser Forster",1
-"Giorgos Samaras","Adam Matthews",4
-"Giorgos Samaras","Emilio Izaguirre",19
-"Giorgos Samaras","Kelvin Wilson",5
-"Giorgos Samaras","Scott Brown",6
-"Giorgos Samaras","Kris Commons",7
-"Giorgos Samaras","Charlie Mulgrew",19
-"Giorgos Samaras","James Forrest",9
-"Giorgos Samaras","Victor Wanyama",9
-"Giorgos Samaras","Gary Hooper",8
-"Giorgos Samaras","Mikael Lustig",6
-"Giorgos Samaras","Efe Ambrose",7
-"Giorgos Samaras","Joe Ledley",8
-"Giorgos Samaras","Beram Kayal",4
-"Giorgos Samaras","Tony Watt",1
-"Giorgos Samaras","Lassad Nouioui",1
-"Kris Commons","Fraser Forster",3
-"Kris Commons","Adam Matthews",7
-"Kris Commons","Emilio Izaguirre",15
-"Kris Commons","Kelvin Wilson",4
-"Kris Commons","Scott Brown",15
-"Kris Commons","Giorgos Samaras",4
-"Kris Commons","Charlie Mulgrew",18
-"Kris Commons","James Forrest",8
-"Kris Commons","Victor Wanyama",16
-"Kris Commons","Gary Hooper",14
-"Kris Commons","Mikael Lustig",12
-"Kris Commons","Anthony Watt",1
-"Kris Commons","Nicolás Fedor",5
-"Kris Commons","Thomas Rogne",1
-"Kris Commons","Efe Ambrose",6
-"Kris Commons","Joe Ledley",7
-"Kris Commons","Beram Kayal",6
-"Charlie Mulgrew","Fraser Forster",10
-"Charlie Mulgrew","Adam Matthews",15
-"Charlie Mulgrew","Emilio Izaguirre",55
-"Charlie Mulgrew","Kelvin Wilson",27
-"Charlie Mulgrew","Scott Brown",15
-"Charlie Mulgrew","Giorgos Samaras",21
-"Charlie Mulgrew","Kris Commons",17
-"Charlie Mulgrew","James Forrest",6
-"Charlie Mulgrew","Victor Wanyama",15
-"Charlie Mulgrew","Gary Hooper",14
-"Charlie Mulgrew","Mikael Lustig",9
-"Charlie Mulgrew","Nicolás Fedor",3
-"Charlie Mulgrew","Efe Ambrose",9
-"Charlie Mulgrew","Joe Ledley",11
-"Charlie Mulgrew","Beram Kayal",1
-"Charlie Mulgrew","Miku",2
-"Charlie Mulgrew","Tony Watt",1
-"Charlie Mulgrew","Lassad Nouioui",2
-"James Forrest","Adam Matthews",7
-"James Forrest","Emilio Izaguirre",7
-"James Forrest","Kelvin Wilson",1
-"James Forrest","Scott Brown",7
-"James Forrest","Giorgos Samaras",9
-"James Forrest","Kris Commons",4
-"James Forrest","Charlie Mulgrew",6
-"James Forrest","Victor Wanyama",10
-"James Forrest","Gary Hooper",19
-"James Forrest","Mikael Lustig",9
-"James Forrest","Efe Ambrose",10
-"James Forrest","Joe Ledley",8
-"James Forrest","Beram Kayal",8
-"James Forrest","Tony Watt",1
-"James Forrest","Lassad Nouioui",3
-"Victor Wanyama","Fraser Forster",5
-"Victor Wanyama","Adam Matthews",20
-"Victor Wanyama","Emilio Izaguirre",22
-"Victor Wanyama","Kelvin Wilson",14
-"Victor Wanyama","Scott Brown",31
-"Victor Wanyama","Giorgos Samaras",11
-"Victor Wanyama","Kris Commons",18
-"Victor Wanyama","Charlie Mulgrew",20
-"Victor Wanyama","James Forrest",10
-"Victor Wanyama","Gary Hooper",9
-"Victor Wanyama","Mikael Lustig",20
-"Victor Wanyama","Nicolás Fedor",2
-"Victor Wanyama","Efe Ambrose",17
-"Victor Wanyama","Joe Ledley",6
-"Victor Wanyama","Beram Kayal",2
-"Victor Wanyama","Miku",3
-"Victor Wanyama","Tony Watt",2
-"Gary Hooper","Fraser Forster",3
-"Gary Hooper","Adam Matthews",6
-"Gary Hooper","Emilio Izaguirre",4
-"Gary Hooper","Kelvin Wilson",2
-"Gary Hooper","Scott Brown",13
-"Gary Hooper","Giorgos Samaras",8
-"Gary Hooper","Kris Commons",16
-"Gary Hooper","Charlie Mulgrew",6
-"Gary Hooper","James Forrest",9
-"Gary Hooper","Victor Wanyama",7
-"Gary Hooper","Mikael Lustig",13
-"Gary Hooper","Nicolás Fedor",1
-"Gary Hooper","Efe Ambrose",3
-"Gary Hooper","Joe Ledley",5
-"Gary Hooper","Beram Kayal",5
-"Gary Hooper","Tony Watt",1
-"Gary Hooper","Lassad Nouioui",1
-"Paddy McCourt","James Forrest",1
-"Mikael Lustig","Fraser Forster",7
-"Mikael Lustig","Adam Matthews",6
-"Mikael Lustig","Emilio Izaguirre",2
-"Mikael Lustig","Kelvin Wilson",10
-"Mikael Lustig","Scott Brown",34
-"Mikael Lustig","Giorgos Samaras",5
-"Mikael Lustig","Kris Commons",23
-"Mikael Lustig","Charlie Mulgrew",7
-"Mikael Lustig","James Forrest",12
-"Mikael Lustig","Victor Wanyama",17
-"Mikael Lustig","Gary Hooper",8
-"Mikael Lustig","Anthony Watt",1
-"Mikael Lustig","Nicolás Fedor",1
-"Mikael Lustig","Efe Ambrose",14
-"Mikael Lustig","Joe Ledley",3
-"Mikael Lustig","Beram Kayal",2
-"Mikael Lustig","Miku",1
-"Anthony Watt","Scott Brown",1
-"Anthony Watt","Kris Commons",1
-"Anthony Watt","James Forrest",1
-"Anthony Watt","Mikael Lustig",1
-"Nicolás Fedor","Adam Matthews",1
-"Nicolás Fedor","Emilio Izaguirre",1
-"Nicolás Fedor","Kris Commons",2
-"Nicolás Fedor","Charlie Mulgrew",1
-"Nicolás Fedor","Victor Wanyama",1
-"Nicolás Fedor","Gary Hooper",2
-"Thomas Rogne","Adam Matthews",4
-"Thomas Rogne","Charlie Mulgrew",1
-"Thomas Rogne","Victor Wanyama",1
-"Efe Ambrose","Fraser Forster",14
-"Efe Ambrose","Emilio Izaguirre",10
-"Efe Ambrose","Kelvin Wilson",14
-"Efe Ambrose","Scott Brown",16
-"Efe Ambrose","Giorgos Samaras",1
-"Efe Ambrose","Kris Commons",5
-"Efe Ambrose","Charlie Mulgrew",15
-"Efe Ambrose","Mikael Lustig",22
-"Efe Ambrose","Victor Wanyama",22
-"Efe Ambrose","Gary Hooper",13
-"Efe Ambrose","Joe Ledley",8
-"Efe Ambrose","James Forrest",9
-"Efe Ambrose","Beram Kayal",8
-"Efe Ambrose","Adam Matthews",5
-"Efe Ambrose","Miku",1
-"Efe Ambrose","Tony Watt",1
-"Efe Ambrose","Lassad Nouioui",1
-"Joe Ledley","Emilio Izaguirre",25
-"Joe Ledley","Efe Ambrose",3
-"Joe Ledley","Kelvin Wilson",3
-"Joe Ledley","Scott Brown",2
-"Joe Ledley","Giorgos Samaras",17
-"Joe Ledley","Kris Commons",7
-"Joe Ledley","Charlie Mulgrew",11
-"Joe Ledley","Mikael Lustig",2
-"Joe Ledley","Victor Wanyama",8
-"Joe Ledley","Gary Hooper",5
-"Joe Ledley","James Forrest",6
-"Joe Ledley","Beram Kayal",2
-"Joe Ledley","Adam Matthews",8
-"Joe Ledley","Miku",1
-"Joe Ledley","Lassad Nouioui",3
-"Beram Kayal","Emilio Izaguirre",1
-"Beram Kayal","Efe Ambrose",11
-"Beram Kayal","Scott Brown",2
-"Beram Kayal","Giorgos Samaras",5
-"Beram Kayal","Joe Ledley",3
-"Beram Kayal","Charlie Mulgrew",5
-"Beram Kayal","Mikael Lustig",3
-"Beram Kayal","Victor Wanyama",1
-"Beram Kayal","Gary Hooper",2
-"Beram Kayal","Kris Commons",6
-"Beram Kayal","James Forrest",13
-"Beram Kayal","Adam Matthews",12
-"Beram Kayal","Lassad Nouioui",1
-"Miku","Giorgos Samaras",3
-"Miku","Kris Commons",2
-"Miku","Charlie Mulgrew",2
-"Miku","Mikael Lustig",1
-"Miku","Victor Wanyama",2
-"Miku","Beram Kayal",1
-"Tony Watt","Fraser Forster",1
-"Tony Watt","Adam Matthews",1
-"Tony Watt","Charlie Mulgrew",2
-"Tony Watt","Beram Kayal",1
-"Tony Watt","Gary Hooper",1
-"Tony Watt","James Forrest",1
-"Lassad Nouioui","Emilio Izaguirre",2
-"Lassad Nouioui","Efe Ambrose",2
-"Lassad Nouioui","Giorgos Samaras",1
-"Lassad Nouioui","Kris Commons",1
-"Lassad Nouioui","Joe Ledley",1
-"Lassad Nouioui","James Forrest",2
+Source,Target,Weight
+"1","2",4
+"1","3",12
+"1","6",12
+"1","8",4
+"1","9",29
+"1","15",6
+"1","21",12
+"1","49",1
+"1","67",10
+"1","88",13
+"1","23",3
+"1","32",1
+"1","7",2
+"1","25",2
+"1","4",8
+"1","16",6
+"1","33",2
+"1","7",5
+"1","32",1
+"2","1",12
+"2","6",23
+"2","8",14
+"2","9",10
+"2","15",13
+"2","21",15
+"2","49",14
+"2","67",14
+"2","88",7
+"2","23",3
+"2","7",1
+"2","25",2
+"2","4",4
+"2","7",1
+"2","16",4
+"2","33",6
+"3","1",4
+"3","6",22
+"3","8",13
+"3","9",39
+"3","15",25
+"3","21",71
+"3","49",6
+"3","67",19
+"3","88",11
+"3","20",1
+"3","23",4
+"3","32",1
+"3","7",5
+"3","4",8
+"3","16",21
+"3","33",9
+"3","11",3
+"6","1",31
+"6","2",21
+"6","3",43
+"6","8",12
+"6","9",7
+"6","15",4
+"6","21",15
+"6","49",4
+"6","67",17
+"6","88",3
+"6","23",14
+"6","7",1
+"6","4",21
+"6","16",8
+"6","33",5
+"8","2",13
+"8","3",18
+"8","6",9
+"8","9",10
+"8","15",12
+"8","21",16
+"8","49",11
+"8","67",17
+"8","88",16
+"8","23",36
+"8","32",1
+"8","4",9
+"8","16",3
+"8","33",1
+"9","1",1
+"9","2",4
+"9","3",19
+"9","6",5
+"9","8",6
+"9","15",7
+"9","21",19
+"9","49",9
+"9","67",9
+"9","88",8
+"9","23",6
+"9","4",7
+"9","16",8
+"9","33",4
+"9","32",1
+"9","11",1
+"15","1",3
+"15","2",7
+"15","3",15
+"15","6",4
+"15","8",15
+"15","9",4
+"15","21",18
+"15","49",8
+"15","67",16
+"15","88",14
+"15","23",12
+"15","32",1
+"15","7",5
+"15","25",1
+"15","4",6
+"15","16",7
+"15","33",6
+"21","1",10
+"21","2",15
+"21","3",55
+"21","6",27
+"21","8",15
+"21","9",21
+"21","15",17
+"21","49",6
+"21","67",15
+"21","88",14
+"21","23",9
+"21","7",3
+"21","4",9
+"21","16",11
+"21","33",1
+"21","7",2
+"21","32",1
+"21","11",2
+"49","2",7
+"49","3",7
+"49","6",1
+"49","8",7
+"49","9",9
+"49","15",4
+"49","21",6
+"49","67",10
+"49","88",19
+"49","23",9
+"49","4",10
+"49","16",8
+"49","33",8
+"49","32",1
+"49","11",3
+"67","1",5
+"67","2",20
+"67","3",22
+"67","6",14
+"67","8",31
+"67","9",11
+"67","15",18
+"67","21",20
+"67","49",10
+"67","88",9
+"67","23",20
+"67","7",2
+"67","4",17
+"67","16",6
+"67","33",2
+"67","7",3
+"67","32",2
+"88","1",3
+"88","2",6
+"88","3",4
+"88","6",2
+"88","8",13
+"88","9",8
+"88","15",16
+"88","21",6
+"88","49",9
+"88","67",7
+"88","23",13
+"88","7",1
+"88","4",3
+"88","16",5
+"88","33",5
+"88","32",1
+"88","11",1
+"20","49",1
+"23","1",7
+"23","2",6
+"23","3",2
+"23","6",10
+"23","8",34
+"23","9",5
+"23","15",23
+"23","21",7
+"23","49",12
+"23","67",17
+"23","88",8
+"23","32",1
+"23","7",1
+"23","4",14
+"23","16",3
+"23","33",2
+"23","7",1
+"32","8",1
+"32","15",1
+"32","49",1
+"32","23",1
+"7","2",1
+"7","3",1
+"7","15",2
+"7","21",1
+"7","67",1
+"7","88",2
+"25","2",4
+"25","21",1
+"25","67",1
+"4","1",14
+"4","3",10
+"4","6",14
+"4","8",16
+"4","9",1
+"4","15",5
+"4","21",15
+"4","23",22
+"4","67",22
+"4","88",13
+"4","16",8
+"4","49",9
+"4","33",8
+"4","2",5
+"4","7",1
+"4","32",1
+"4","11",1
+"16","3",25
+"16","4",3
+"16","6",3
+"16","8",2
+"16","9",17
+"16","15",7
+"16","21",11
+"16","23",2
+"16","67",8
+"16","88",5
+"16","49",6
+"16","33",2
+"16","2",8
+"16","7",1
+"16","11",3
+"33","3",1
+"33","4",11
+"33","8",2
+"33","9",5
+"33","16",3
+"33","21",5
+"33","23",3
+"33","67",1
+"33","88",2
+"33","15",6
+"33","49",13
+"33","2",12
+"33","11",1
+"7","9",3
+"7","15",2
+"7","21",2
+"7","23",1
+"7","67",2
+"7","33",1
+"32","1",1
+"32","2",1
+"32","21",2
+"32","33",1
+"32","88",1
+"32","49",1
+"11","3",2
+"11","4",2
+"11","9",1
+"11","15",1
+"11","16",1
+"11","49",2

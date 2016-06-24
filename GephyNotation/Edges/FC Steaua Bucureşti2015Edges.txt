@@ -1,144 +1,145 @@
-"Giedrius Arlauskis","Cornel Râpă",3
-"Giedrius Arlauskis","Łukasz Szukała",5
-"Giedrius Arlauskis","Andrei Prepeliţă",3
-"Giedrius Arlauskis","Nicolae Stanciu",1
-"Giedrius Arlauskis","Iasmin Latovlevici",8
-"Giedrius Arlauskis","Lucian Sânmărtean",4
-"Giedrius Arlauskis","Nicandro Breeveld",2
-"Giedrius Arlauskis","Fernando Varela",8
-"Giedrius Arlauskis","Adrian Popa",1
-"Giedrius Arlauskis","Claudiu Keșerü",4
-"Giedrius Arlauskis","Paul Pîrvulescu",3
-"Cornel Râpă","Giedrius Arlauskis",2
-"Cornel Râpă","Łukasz Szukała",7
-"Cornel Râpă","Alexandru Chipciu",3
-"Cornel Râpă","Andrei Prepeliţă",9
-"Cornel Râpă","Nicolae Stanciu",5
-"Cornel Râpă","Iasmin Latovlevici",1
-"Cornel Râpă","Lucian Sânmărtean",3
-"Cornel Râpă","Nicandro Breeveld",9
-"Cornel Râpă","Fernando Varela",1
-"Cornel Râpă","Adrian Popa",7
-"Łukasz Szukała","Giedrius Arlauskis",7
-"Łukasz Szukała","Cornel Râpă",6
-"Łukasz Szukała","Alexandru Chipciu",1
-"Łukasz Szukała","Andrei Prepeliţă",12
-"Łukasz Szukała","Nicolae Stanciu",1
-"Łukasz Szukała","Iasmin Latovlevici",1
-"Łukasz Szukała","Lucian Sânmărtean",1
-"Łukasz Szukała","Nicandro Breeveld",8
-"Łukasz Szukała","Fernando Varela",16
-"Łukasz Szukała","Adrian Popa",2
-"Łukasz Szukała","Lucian Filip",1
-"Alexandru Chipciu","Cornel Râpă",3
-"Alexandru Chipciu","Andrei Prepeliţă",2
-"Alexandru Chipciu","Nicolae Stanciu",2
-"Alexandru Chipciu","Iasmin Latovlevici",1
-"Alexandru Chipciu","Lucian Sânmărtean",2
-"Alexandru Chipciu","Nicandro Breeveld",1
-"Alexandru Chipciu","Fernando Varela",1
-"Alexandru Chipciu","Adrian Popa",6
-"Alexandru Chipciu","Claudiu Keșerü",2
-"Andrei Prepeliţă","Giedrius Arlauskis",2
-"Andrei Prepeliţă","Cornel Râpă",6
-"Andrei Prepeliţă","Łukasz Szukała",15
-"Andrei Prepeliţă","Alexandru Chipciu",2
-"Andrei Prepeliţă","Nicolae Stanciu",5
-"Andrei Prepeliţă","Iasmin Latovlevici",10
-"Andrei Prepeliţă","Lucian Sânmărtean",12
-"Andrei Prepeliţă","Nicandro Breeveld",7
-"Andrei Prepeliţă","Fernando Varela",15
-"Andrei Prepeliţă","Adrian Popa",3
-"Andrei Prepeliţă","Lucian Filip",3
-"Andrei Prepeliţă","Gabriel Iancu",1
-"Andrei Prepeliţă","Claudiu Keșerü",4
-"Andrei Prepeliţă","Paul Pîrvulescu",1
-"Nicolae Stanciu","Cornel Râpă",2
-"Nicolae Stanciu","Łukasz Szukała",1
-"Nicolae Stanciu","Alexandru Chipciu",5
-"Nicolae Stanciu","Andrei Prepeliţă",3
-"Nicolae Stanciu","Iasmin Latovlevici",3
-"Nicolae Stanciu","Lucian Sânmărtean",5
-"Nicolae Stanciu","Nicandro Breeveld",8
-"Nicolae Stanciu","Adrian Popa",10
-"Nicolae Stanciu","Claudiu Keșerü",4
-"Nicolae Stanciu","Paul Pîrvulescu",1
-"Iasmin Latovlevici","Giedrius Arlauskis",1
-"Iasmin Latovlevici","Cornel Râpă",1
-"Iasmin Latovlevici","Łukasz Szukała",2
-"Iasmin Latovlevici","Alexandru Chipciu",7
-"Iasmin Latovlevici","Andrei Prepeliţă",10
-"Iasmin Latovlevici","Nicolae Stanciu",1
-"Iasmin Latovlevici","Lucian Sânmărtean",9
-"Iasmin Latovlevici","Nicandro Breeveld",9
-"Iasmin Latovlevici","Fernando Varela",9
-"Iasmin Latovlevici","Adrian Popa",1
-"Iasmin Latovlevici","Claudiu Keșerü",2
-"Lucian Sânmărtean","Cornel Râpă",3
-"Lucian Sânmărtean","Łukasz Szukała",2
-"Lucian Sânmărtean","Alexandru Chipciu",7
-"Lucian Sânmărtean","Andrei Prepeliţă",3
-"Lucian Sânmărtean","Nicolae Stanciu",8
-"Lucian Sânmărtean","Iasmin Latovlevici",10
-"Lucian Sânmărtean","Nicandro Breeveld",6
-"Lucian Sânmărtean","Fernando Varela",4
-"Lucian Sânmărtean","Adrian Popa",6
-"Lucian Sânmărtean","Gabriel Iancu",1
-"Lucian Sânmărtean","Claudiu Keșerü",6
-"Nicandro Breeveld","Giedrius Arlauskis",1
-"Nicandro Breeveld","Cornel Râpă",11
-"Nicandro Breeveld","Łukasz Szukała",4
-"Nicandro Breeveld","Alexandru Chipciu",5
-"Nicandro Breeveld","Andrei Prepeliţă",8
-"Nicandro Breeveld","Nicolae Stanciu",6
-"Nicandro Breeveld","Iasmin Latovlevici",6
-"Nicandro Breeveld","Lucian Sânmărtean",10
-"Nicandro Breeveld","Fernando Varela",2
-"Nicandro Breeveld","Adrian Popa",10
-"Nicandro Breeveld","Lucian Filip",1
-"Nicandro Breeveld","Claudiu Keșerü",10
-"Nicandro Breeveld","Paul Pîrvulescu",4
-"Fernando Varela","Giedrius Arlauskis",5
-"Fernando Varela","Cornel Râpă",1
-"Fernando Varela","Łukasz Szukała",5
-"Fernando Varela","Alexandru Chipciu",2
-"Fernando Varela","Andrei Prepeliţă",22
-"Fernando Varela","Nicolae Stanciu",4
-"Fernando Varela","Iasmin Latovlevici",16
-"Fernando Varela","Lucian Sânmărtean",7
-"Fernando Varela","Nicandro Breeveld",10
-"Fernando Varela","Adrian Popa",2
-"Fernando Varela","Lucian Filip",2
-"Fernando Varela","Claudiu Keșerü",3
-"Fernando Varela","Paul Pîrvulescu",1
-"Adrian Popa","Cornel Râpă",9
-"Adrian Popa","Alexandru Chipciu",1
-"Adrian Popa","Andrei Prepeliţă",3
-"Adrian Popa","Nicolae Stanciu",2
-"Adrian Popa","Iasmin Latovlevici",1
-"Adrian Popa","Lucian Sânmărtean",4
-"Adrian Popa","Nicandro Breeveld",4
-"Adrian Popa","Lucian Filip",1
-"Adrian Popa","Claudiu Keșerü",5
-"Lucian Filip","Nicolae Stanciu",4
-"Lucian Filip","Claudiu Keșerü",1
-"Lucian Filip","Paul Pîrvulescu",1
-"Gabriel Iancu","Alexandru Chipciu",1
-"Gabriel Iancu","Lucian Sânmărtean",1
-"Gabriel Iancu","Nicandro Breeveld",1
-"Claudiu Keșerü","Cornel Râpă",1
-"Claudiu Keșerü","Alexandru Chipciu",4
-"Claudiu Keșerü","Andrei Prepeliţă",3
-"Claudiu Keșerü","Nicolae Stanciu",6
-"Claudiu Keșerü","Iasmin Latovlevici",3
-"Claudiu Keșerü","Lucian Sânmărtean",5
-"Claudiu Keșerü","Nicandro Breeveld",3
-"Claudiu Keșerü","Adrian Popa",2
-"Claudiu Keșerü","Gabriel Iancu",1
-"Claudiu Keșerü","Cristian Tănase",1
-"Paul Pîrvulescu","Giedrius Arlauskis",2
-"Paul Pîrvulescu","Lucian Sânmărtean",1
-"Paul Pîrvulescu","Nicandro Breeveld",1
-"Paul Pîrvulescu","Fernando Varela",3
-"Paul Pîrvulescu","Adrian Popa",1
-"Paul Pîrvulescu","Nicolae Stanciu",2
+Source,Target,Weight
+"24","2",3
+"24","4",5
+"24","11",3
+"24","12",1
+"24","14",8
+"24","18",4
+"24","21",2
+"24","33",8
+"24","77",1
+"24","28",4
+"24","22",3
+"2","24",2
+"2","4",7
+"2","7",3
+"2","11",9
+"2","12",5
+"2","14",1
+"2","18",3
+"2","21",9
+"2","33",1
+"2","77",7
+"4","24",7
+"4","2",6
+"4","7",1
+"4","11",12
+"4","12",1
+"4","14",1
+"4","18",1
+"4","21",8
+"4","33",16
+"4","77",2
+"4","8",1
+"7","2",3
+"7","11",2
+"7","12",2
+"7","14",1
+"7","18",2
+"7","21",1
+"7","33",1
+"7","77",6
+"7","28",2
+"11","24",2
+"11","2",6
+"11","4",15
+"11","7",2
+"11","12",5
+"11","14",10
+"11","18",12
+"11","21",7
+"11","33",15
+"11","77",3
+"11","8",3
+"11","9",1
+"11","28",4
+"11","22",1
+"12","2",2
+"12","4",1
+"12","7",5
+"12","11",3
+"12","14",3
+"12","18",5
+"12","21",8
+"12","77",10
+"12","28",4
+"12","22",1
+"14","24",1
+"14","2",1
+"14","4",2
+"14","7",7
+"14","11",10
+"14","12",1
+"14","18",9
+"14","21",9
+"14","33",9
+"14","77",1
+"14","28",2
+"18","2",3
+"18","4",2
+"18","7",7
+"18","11",3
+"18","12",8
+"18","14",10
+"18","21",6
+"18","33",4
+"18","77",6
+"18","9",1
+"18","28",6
+"21","24",1
+"21","2",11
+"21","4",4
+"21","7",5
+"21","11",8
+"21","12",6
+"21","14",6
+"21","18",10
+"21","33",2
+"21","77",10
+"21","8",1
+"21","28",10
+"21","22",4
+"33","24",5
+"33","2",1
+"33","4",5
+"33","7",2
+"33","11",22
+"33","12",4
+"33","14",16
+"33","18",7
+"33","21",10
+"33","77",2
+"33","8",2
+"33","28",3
+"33","22",1
+"77","2",9
+"77","7",1
+"77","11",3
+"77","12",2
+"77","14",1
+"77","18",4
+"77","21",4
+"77","8",1
+"77","28",5
+"8","12",4
+"8","28",1
+"8","22",1
+"9","7",1
+"9","18",1
+"9","21",1
+"28","2",1
+"28","7",4
+"28","11",3
+"28","12",6
+"28","14",3
+"28","18",5
+"28","21",3
+"28","77",2
+"28","9",1
+"28","10",1
+"22","24",2
+"22","18",1
+"22","21",1
+"22","33",3
+"22","77",1
+"22","12",2

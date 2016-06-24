@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 public class DataOrganizer {
 	public static void main(String[] args) throws IOException{
-		/*int nMin = 2013;
+		int nMin = 2013;
 		int nMax = 2017;
 		int mMin = -2;
 		int mMax = 14;
@@ -20,28 +20,23 @@ public class DataOrganizer {
 				if(j == 0) continue;
 				getFilesPath(i, j);
 			}	
-		}*/
-		getFilesPath(2013,1);
+		}
 	}
 	public static void getFilesPath(int i, int j) throws IOException{
-	//	String filename = "/home/andre/workspace/IIC/Uefa/games" + i + j + ".txt";
-		String filename = "/home/andre/workspace/IIC/ParsedFiles/failedteams.txt";
+		String filename = "/home/andre/workspace/IIC/Uefa/games" + i + j + ".txt";
 		File f = new File(filename);
 		BufferedReader br = new BufferedReader(new FileReader(f));
-		String s;// = "2009499_tpd.txt";
+		String s;
 		while((s = br.readLine()) != null){
 			String path = "/home/andre/workspace/IIC/Uefa/" + s;
-			//String path = "/home/andre/workspace/IIC/Uefa/2009499_tpd.txt";
 			System.out.println("parsing " + s);
 			parse(path, s);
 		}
 		br.close();
 	}
-	//to do
 	public static void parse(String filePath, String filename) throws IOException{
 		File file = new File(filePath);
-		//File file2 = new File("/home/andre/workspace/IIC/ParsedFiles/" + filename);
-		File file2 = new File("/home/andre/workspace/IIC/ParsedFiles/2011870_tpd.txt");
+		File file2 = new File("/home/andre/workspace/IIC/ParsedFiles/" + filename);
 		BufferedReader br = new BufferedReader(new FileReader(file));
 		FileWriter fw = new FileWriter(file2.getAbsoluteFile());
 		BufferedWriter bw = new BufferedWriter(fw);
@@ -67,10 +62,7 @@ public class DataOrganizer {
 		while( (line = br.readLine()) != null){
 			if(line.isEmpty())
 				continue;
-			//System.out.println("# " + line);
 			if(isWeekDay(line) && isMonth(line)){
-
-				//System.out.println("#date " + line);
 				n = 0;
 				String weekday = "";
 				weekday = getWeekDay(line);
@@ -79,25 +71,21 @@ public class DataOrganizer {
 				writeToParsedFile(line.substring(i), bw);
 			}
 			else if(isTeams(line)){
-				//System.out.println("#teams " + line);
 				//escrever para o novo ficheiro a funcao getmatchTeams
 				n = 0;
 				writeToParsedFile(getTeams(line), bw);
 			}
 			else if(isScore(line)){
-				//System.out.println("#score " + line);
 				//escrever o retorno da funcao getScore para o novo ficheiro
 				n = 0;
 				writeToParsedFile(getScore(line),bw);
 			}
 			else if(isTeamValues(line)){
-				//System.out.println("# matriz" + line);
 				//write team values to new file
 				b = true;
 				matrix.add(line);
 			}
 			else if(!isTeamValues(line) && !matrix.isEmpty()){
-				//System.out.println("# no matriz" + line);
 				Integer size = matrix.size();
 				bw.append(size.toString());
 				if(nrH == 0)
@@ -128,7 +116,6 @@ public class DataOrganizer {
 			}
 			else if(isNumeric(line) && b){
 				n = 0;
-				//System.out.println("# " + line);
 				if(!hometeam || index != 0){
 					hometeam = true;
 					playerNumbersH = new int[nrH];
@@ -143,7 +130,6 @@ public class DataOrganizer {
 					}
 				}
 				else{
-					//System.out.println("## " + line);
 					playerNumbersA = new int[m];
 					if(index2 < m - 1){
 						playerNumbersA[index2] = Integer.parseInt(line);
@@ -158,19 +144,16 @@ public class DataOrganizer {
 				}
 			}
 			else if(line.contains("\"")){
-				n = 0;	
-				//System.out.println("# " + line);
+				n = 0;
 				timePlayedH = new String[nrH];
 				timePlayedA = new String[m];
 				if(indexT < nrH){
 					timePlayedH[indexT] = line;					
 					writeToParsedFile(line, bw);
-					//System.out.println("#" + indexT + " " + timePlayedH[indexT]);
 					indexT++;
 				}
 				else{
 					writeToParsedFile(line, bw);
-					//System.out.println("* " + indexP + " "+ timePlayedA[indexP]);
 					indexP++;
 				}
 				
@@ -199,39 +182,6 @@ public class DataOrganizer {
 		bw.write(s);
 		bw.append('\n');
 	}
-	private static void writeToParsedFile(int n, BufferedWriter bw) throws IOException{
-		bw.write(n);
-		bw.append('\n');
-	}
-	private static void writeToParsedFile(int[][] tm, int n, BufferedWriter bw) throws IOException{
-		for(int i = 0; i < n; i++){
-			for(int j = 0; j < n; j++){
-				bw.write(tm[i][j]);
-				bw.append(' ');
-			}
-			bw.append('\n');
-		}
-	}
-	private static int[][] buildTeam(LinkedList<String> matrix, int n) {
-		String line;
-		int[][] teamMatrix = new int[n][n];
-		for(int i = 0; i < n; i++){
-			for(int j = 0; j < n; j++){
-				if(!matrix.isEmpty())
-					line = matrix.removeFirst();
-				else continue;
-				for(int k = 0; k < line.length(); k++){
-					if(line.charAt(k) == '-' || i == j)
-						teamMatrix[i][j] = 0;
-					else if(line.charAt(k) == ' ')
-						continue;
-					else
-					teamMatrix[i][j] = line.charAt(k); 
-				}
-			}
-		}
-		return teamMatrix;
-	}
 	public static boolean isTeamValues(String s){
 		Scanner in = new Scanner(s);
 		String c;
@@ -239,16 +189,17 @@ public class DataOrganizer {
 		while(in.hasNext()){
 			c = in.next();
 
-			//System.out.println(c);
 			i++;
 			if(!isNumeric(c) && !c.equals("-")){
+				in.close();
 				return false;
 			}
 		}
 		if(i > 9 && i < 14){
-			//System.out.println("entrei " + s);
+			in.close();
 			return true;
 		}
+		in.close();
 		return false;
 	}
 	
@@ -260,7 +211,6 @@ public class DataOrganizer {
 		BufferedReader br = new BufferedReader(new FileReader(file));
 		String line;
 		while((line = br.readLine()) != null){
-			//System.out.println("|" + s + "|" + line + "|" + s.contains(line));
 			if(s.contains(line) && (s.charAt(0) == line.charAt(0) && !home)){
 				home = true;
 			}
@@ -295,7 +245,6 @@ public class DataOrganizer {
 	}
 	
 	public static boolean isScore(String s){
-		//System.out.println("isScore |"+ s + "|");
 		if(s.length() == 5 && Character.isDigit(s.charAt(0)) && Character.isDigit(s.charAt(4)) ){
 			return true;
 		}

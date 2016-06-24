@@ -1,273 +1,274 @@
-"Ivan Kelava","Luis Ibáñez",2
-"Ivan Kelava","Josip Šimunić",11
-"Ivan Kelava","Arijan Ademi",7
-"Ivan Kelava","Sammir",2
-"Ivan Kelava","Tonel",7
-"Ivan Kelava","Milan Badelj",1
-"Ivan Kelava","Josip Pivarić",26
-"Ivan Kelava","Fatos Beqiraj",2
-"Ivan Kelava","Domagoj Vida",15
-"Ivan Kelava","Duje Čop",7
-"Ivan Kelava","Adrián Calello",7
-"Ivan Kelava","Ivan Krstanović",1
-"Ivan Kelava","Ante Rukavina",3
-"Ivan Kelava","Marcelo Brozović",5
-"Ivan Kelava","Mateo Kovačić",2
-"Ivan Kelava","Bryan Carrasco",1
-"Ivan Kelava","Ante Puljić",1
-"Ivan Kelava","Šime Vrsaljko",5
-"Luis Ibáñez","Ivan Kelava",1
-"Luis Ibáñez","Sammir",4
-"Luis Ibáñez","Tonel",1
-"Luis Ibáñez","Milan Badelj",3
-"Luis Ibáñez","Fatos Beqiraj",1
-"Luis Ibáñez","Domagoj Vida",3
-"Luis Ibáñez","Duje Čop",1
-"Luis Ibáñez","Jerko Leko",1
-"Luis Ibáñez","Ante Puljić",2
-"Luis Ibáñez","Mateo Kovačić",1
-"Luis Ibáñez","Šime Vrsaljko",1
-"Josip Šimunić","Ivan Kelava",21
-"Josip Šimunić","Arijan Ademi",13
-"Josip Šimunić","Sammir",11
-"Josip Šimunić","Tonel",25
-"Josip Šimunić","Milan Badelj",2
-"Josip Šimunić","Josip Pivarić",22
-"Josip Šimunić","Fatos Beqiraj",2
-"Josip Šimunić","Domagoj Vida",17
-"Josip Šimunić","Duje Čop",5
-"Josip Šimunić","Adrián Calello",6
-"Josip Šimunić","Marcelo Brozović",19
-"Josip Šimunić","Mateo Kovačić",20
-"Josip Šimunić","Ante Puljić",9
-"Josip Šimunić","Šime Vrsaljko",3
-"Arijan Ademi","Ivan Kelava",2
-"Arijan Ademi","Josip Šimunić",11
-"Arijan Ademi","Sammir",24
-"Arijan Ademi","Tonel",7
-"Arijan Ademi","Milan Badelj",6
-"Arijan Ademi","Josip Pivarić",10
-"Arijan Ademi","Fatos Beqiraj",8
-"Arijan Ademi","Domagoj Vida",26
-"Arijan Ademi","Duje Čop",6
-"Arijan Ademi","Adrián Calello",6
-"Arijan Ademi","Ante Rukavina",3
-"Arijan Ademi","Marcelo Brozović",19
-"Arijan Ademi","Mateo Kovačić",17
-"Arijan Ademi","Bryan Carrasco",1
-"Arijan Ademi","Ante Puljić",6
-"Arijan Ademi","Šime Vrsaljko",14
-"Arijan Ademi","Alen Halilović",2
-"Sammir","Ivan Kelava",1
-"Sammir","Luis Ibáñez",6
-"Sammir","Josip Šimunić",5
-"Sammir","Arijan Ademi",23
-"Sammir","Tonel",7
-"Sammir","Milan Badelj",6
-"Sammir","Josip Pivarić",15
-"Sammir","Fatos Beqiraj",9
-"Sammir","Domagoj Vida",19
-"Sammir","Duje Čop",16
-"Sammir","Adrián Calello",5
-"Sammir","Ante Rukavina",11
-"Sammir","Marcelo Brozović",21
-"Sammir","Mateo Kovačić",17
-"Sammir","Bryan Carrasco",1
-"Sammir","Ante Puljić",4
-"Sammir","Šime Vrsaljko",8
-"Tonel","Ivan Kelava",9
-"Tonel","Josip Šimunić",16
-"Tonel","Arijan Ademi",9
-"Tonel","Sammir",4
-"Tonel","Milan Badelj",3
-"Tonel","Josip Pivarić",4
-"Tonel","Fatos Beqiraj",2
-"Tonel","Domagoj Vida",19
-"Tonel","Duje Čop",3
-"Tonel","Adrián Calello",7
-"Tonel","Ante Rukavina",2
-"Tonel","Marcelo Brozović",3
-"Tonel","Mateo Kovačić",5
-"Tonel","Bryan Carrasco",1
-"Milan Badelj","Luis Ibáñez",3
-"Milan Badelj","Josip Šimunić",6
-"Milan Badelj","Arijan Ademi",4
-"Milan Badelj","Sammir",10
-"Milan Badelj","Tonel",2
-"Milan Badelj","Josip Pivarić",4
-"Milan Badelj","Domagoj Vida",6
-"Milan Badelj","Duje Čop",2
-"Milan Badelj","Adrián Calello",3
-"Milan Badelj","Jerko Leko",2
-"Milan Badelj","Ivan Krstanović",1
-"Josip Pivarić","Ivan Kelava",6
-"Josip Pivarić","Luis Ibáñez",1
-"Josip Pivarić","Josip Šimunić",25
-"Josip Pivarić","Arijan Ademi",18
-"Josip Pivarić","Sammir",18
-"Josip Pivarić","Tonel",3
-"Josip Pivarić","Milan Badelj",6
-"Josip Pivarić","Fatos Beqiraj",2
-"Josip Pivarić","Domagoj Vida",14
-"Josip Pivarić","Duje Čop",20
-"Josip Pivarić","Adrián Calello",13
-"Josip Pivarić","Jerko Leko",1
-"Josip Pivarić","Ivan Krstanović",1
-"Josip Pivarić","Ante Rukavina",4
-"Josip Pivarić","Marcelo Brozović",33
-"Josip Pivarić","Mateo Kovačić",27
-"Josip Pivarić","Ante Puljić",2
-"Josip Pivarić","Šime Vrsaljko",4
-"Fatos Beqiraj","Luis Ibáñez",2
-"Fatos Beqiraj","Josip Šimunić",1
-"Fatos Beqiraj","Arijan Ademi",5
-"Fatos Beqiraj","Sammir",11
-"Fatos Beqiraj","Tonel",1
-"Fatos Beqiraj","Milan Badelj",2
-"Fatos Beqiraj","Josip Pivarić",1
-"Fatos Beqiraj","Domagoj Vida",1
-"Fatos Beqiraj","Duje Čop",2
-"Fatos Beqiraj","Marcelo Brozović",4
-"Fatos Beqiraj","Mateo Kovačić",5
-"Fatos Beqiraj","Šime Vrsaljko",2
-"Domagoj Vida","Ivan Kelava",9
-"Domagoj Vida","Luis Ibáñez",5
-"Domagoj Vida","Josip Šimunić",17
-"Domagoj Vida","Arijan Ademi",15
-"Domagoj Vida","Sammir",13
-"Domagoj Vida","Tonel",14
-"Domagoj Vida","Milan Badelj",4
-"Domagoj Vida","Josip Pivarić",18
-"Domagoj Vida","Fatos Beqiraj",5
-"Domagoj Vida","Duje Čop",4
-"Domagoj Vida","Adrián Calello",5
-"Domagoj Vida","Jerko Leko",5
-"Domagoj Vida","Ante Rukavina",12
-"Domagoj Vida","Marcelo Brozović",17
-"Domagoj Vida","Mateo Kovačić",27
-"Domagoj Vida","Bryan Carrasco",2
-"Domagoj Vida","Ante Puljić",3
-"Domagoj Vida","Šime Vrsaljko",20
-"Duje Čop","Luis Ibáñez",4
-"Duje Čop","Josip Šimunić",5
-"Duje Čop","Arijan Ademi",4
-"Duje Čop","Sammir",12
-"Duje Čop","Tonel",1
-"Duje Čop","Milan Badelj",4
-"Duje Čop","Josip Pivarić",10
-"Duje Čop","Fatos Beqiraj",7
-"Duje Čop","Domagoj Vida",2
-"Duje Čop","Adrián Calello",5
-"Duje Čop","Ante Rukavina",2
-"Duje Čop","Marcelo Brozović",8
-"Duje Čop","Mateo Kovačić",6
-"Duje Čop","Bryan Carrasco",1
-"Duje Čop","Šime Vrsaljko",4
-"Adrián Calello","Ivan Kelava",4
-"Adrián Calello","Josip Šimunić",6
-"Adrián Calello","Arijan Ademi",6
-"Adrián Calello","Sammir",16
-"Adrián Calello","Tonel",3
-"Adrián Calello","Milan Badelj",1
-"Adrián Calello","Josip Pivarić",7
-"Adrián Calello","Fatos Beqiraj",3
-"Adrián Calello","Domagoj Vida",14
-"Adrián Calello","Duje Čop",5
-"Adrián Calello","Jerko Leko",1
-"Adrián Calello","Ivan Krstanović",1
-"Adrián Calello","Ante Rukavina",1
-"Adrián Calello","Marcelo Brozović",6
-"Adrián Calello","Mateo Kovačić",8
-"Adrián Calello","Bryan Carrasco",1
-"Adrián Calello","Ante Puljić",2
-"Adrián Calello","Šime Vrsaljko",5
-"Adrián Calello","Alen Halilović",1
-"Jerko Leko","Sammir",1
-"Jerko Leko","Milan Badelj",3
-"Jerko Leko","Josip Pivarić",2
-"Jerko Leko","Domagoj Vida",2
-"Jerko Leko","Adrián Calello",1
-"Ivan Krstanović","Arijan Ademi",1
-"Ivan Krstanović","Milan Badelj",1
-"Ivan Krstanović","Duje Čop",1
-"Ante Rukavina","Ivan Kelava",1
-"Ante Rukavina","Josip Šimunić",1
-"Ante Rukavina","Adrián Calello",1
-"Ante Rukavina","Arijan Ademi",4
-"Ante Rukavina","Sammir",11
-"Ante Rukavina","Tonel",1
-"Ante Rukavina","Josip Pivarić",1
-"Ante Rukavina","Domagoj Vida",1
-"Ante Rukavina","Marcelo Brozović",6
-"Ante Rukavina","Mateo Kovačić",4
-"Ante Rukavina","Ante Puljić",1
-"Ante Rukavina","Šime Vrsaljko",3
-"Marcelo Brozović","Josip Šimunić",10
-"Marcelo Brozović","Adrián Calello",9
-"Marcelo Brozović","Arijan Ademi",17
-"Marcelo Brozović","Sammir",27
-"Marcelo Brozović","Tonel",6
-"Marcelo Brozović","Josip Pivarić",28
-"Marcelo Brozović","Domagoj Vida",11
-"Marcelo Brozović","Ante Rukavina",5
-"Marcelo Brozović","Duje Čop",13
-"Marcelo Brozović","Mateo Kovačić",23
-"Marcelo Brozović","Bryan Carrasco",2
-"Marcelo Brozović","Fatos Beqiraj",2
-"Marcelo Brozović","Ante Puljić",4
-"Marcelo Brozović","Luis Ibáñez",2
-"Marcelo Brozović","Šime Vrsaljko",21
-"Marcelo Brozović","Alen Halilović",1
-"Marcelo Brozović","Ivan Krstanović",2
-"Mateo Kovačić","Josip Šimunić",19
-"Mateo Kovačić","Adrián Calello",8
-"Mateo Kovačić","Arijan Ademi",25
-"Mateo Kovačić","Sammir",29
-"Mateo Kovačić","Tonel",3
-"Mateo Kovačić","Josip Pivarić",22
-"Mateo Kovačić","Domagoj Vida",26
-"Mateo Kovačić","Ante Rukavina",6
-"Mateo Kovačić","Marcelo Brozović",38
-"Mateo Kovačić","Duje Čop",11
-"Mateo Kovačić","Bryan Carrasco",1
-"Mateo Kovačić","Fatos Beqiraj",6
-"Mateo Kovačić","Ante Puljić",8
-"Mateo Kovačić","Šime Vrsaljko",16
-"Bryan Carrasco","Josip Šimunić",1
-"Bryan Carrasco","Adrián Calello",1
-"Bryan Carrasco","Arijan Ademi",1
-"Bryan Carrasco","Sammir",1
-"Bryan Carrasco","Josip Pivarić",2
-"Bryan Carrasco","Domagoj Vida",2
-"Bryan Carrasco","Marcelo Brozović",1
-"Bryan Carrasco","Duje Čop",1
-"Ante Puljić","Ivan Kelava",2
-"Ante Puljić","Josip Šimunić",15
-"Ante Puljić","Mateo Kovačić",14
-"Ante Puljić","Sammir",5
-"Ante Puljić","Šime Vrsaljko",12
-"Ante Puljić","Josip Pivarić",3
-"Ante Puljić","Domagoj Vida",3
-"Ante Puljić","Marcelo Brozović",6
-"Ante Puljić","Adrián Calello",3
-"Ante Puljić","Alen Halilović",1
-"Ante Puljić","Ante Rukavina",2
-"Ante Puljić","Arijan Ademi",8
-"Šime Vrsaljko","Ivan Kelava",1
-"Šime Vrsaljko","Ante Puljić",16
-"Šime Vrsaljko","Luis Ibáñez",4
-"Šime Vrsaljko","Josip Šimunić",5
-"Šime Vrsaljko","Mateo Kovačić",20
-"Šime Vrsaljko","Sammir",11
-"Šime Vrsaljko","Josip Pivarić",1
-"Šime Vrsaljko","Domagoj Vida",12
-"Šime Vrsaljko","Marcelo Brozović",13
-"Šime Vrsaljko","Duje Čop",3
-"Šime Vrsaljko","Adrián Calello",3
-"Šime Vrsaljko","Alen Halilović",1
-"Šime Vrsaljko","Ante Rukavina",7
-"Šime Vrsaljko","Arijan Ademi",12
-"Šime Vrsaljko","Fatos Beqiraj",8
-"Alen Halilović","Sammir",3
-"Alen Halilović","Domagoj Vida",1
-"Alen Halilović","Arijan Ademi",1
+Source,Target,Weight
+"30","3",2
+"30","4",11
+"30","6",7
+"30","10",2
+"30","13",7
+"30","16",1
+"30","19",26
+"30","21",2
+"30","24",15
+"30","90",7
+"30","5",7
+"30","99",1
+"30","55",3
+"30","77",5
+"30","8",2
+"30","17",1
+"30","2",1
+"30","14",5
+"3","30",1
+"3","10",4
+"3","13",1
+"3","16",3
+"3","21",1
+"3","24",3
+"3","90",1
+"3","7",1
+"3","2",2
+"3","8",1
+"3","14",1
+"4","30",21
+"4","6",13
+"4","10",11
+"4","13",25
+"4","16",2
+"4","19",22
+"4","21",2
+"4","24",17
+"4","90",5
+"4","5",6
+"4","77",19
+"4","8",20
+"4","2",9
+"4","14",3
+"6","30",2
+"6","4",11
+"6","10",24
+"6","13",7
+"6","16",6
+"6","19",10
+"6","21",8
+"6","24",26
+"6","90",6
+"6","5",6
+"6","55",3
+"6","77",19
+"6","8",17
+"6","17",1
+"6","2",6
+"6","14",14
+"6","28",2
+"10","30",1
+"10","3",6
+"10","4",5
+"10","6",23
+"10","13",7
+"10","16",6
+"10","19",15
+"10","21",9
+"10","24",19
+"10","90",16
+"10","5",5
+"10","55",11
+"10","77",21
+"10","8",17
+"10","17",1
+"10","2",4
+"10","14",8
+"13","30",9
+"13","4",16
+"13","6",9
+"13","10",4
+"13","16",3
+"13","19",4
+"13","21",2
+"13","24",19
+"13","90",3
+"13","5",7
+"13","55",2
+"13","77",3
+"13","8",5
+"13","17",1
+"16","3",3
+"16","4",6
+"16","6",4
+"16","10",10
+"16","13",2
+"16","19",4
+"16","24",6
+"16","90",2
+"16","5",3
+"16","7",2
+"16","99",1
+"19","30",6
+"19","3",1
+"19","4",25
+"19","6",18
+"19","10",18
+"19","13",3
+"19","16",6
+"19","21",2
+"19","24",14
+"19","90",20
+"19","5",13
+"19","7",1
+"19","99",1
+"19","55",4
+"19","77",33
+"19","8",27
+"19","2",2
+"19","14",4
+"21","3",2
+"21","4",1
+"21","6",5
+"21","10",11
+"21","13",1
+"21","16",2
+"21","19",1
+"21","24",1
+"21","90",2
+"21","77",4
+"21","8",5
+"21","14",2
+"24","30",9
+"24","3",5
+"24","4",17
+"24","6",15
+"24","10",13
+"24","13",14
+"24","16",4
+"24","19",18
+"24","21",5
+"24","90",4
+"24","5",5
+"24","7",5
+"24","55",12
+"24","77",17
+"24","8",27
+"24","17",2
+"24","2",3
+"24","14",20
+"90","3",4
+"90","4",5
+"90","6",4
+"90","10",12
+"90","13",1
+"90","16",4
+"90","19",10
+"90","21",7
+"90","24",2
+"90","5",5
+"90","55",2
+"90","77",8
+"90","8",6
+"90","17",1
+"90","14",4
+"5","30",4
+"5","4",6
+"5","6",6
+"5","10",16
+"5","13",3
+"5","16",1
+"5","19",7
+"5","21",3
+"5","24",14
+"5","90",5
+"5","7",1
+"5","99",1
+"5","55",1
+"5","77",6
+"5","8",8
+"5","17",1
+"5","2",2
+"5","14",5
+"5","28",1
+"7","10",1
+"7","16",3
+"7","19",2
+"7","24",2
+"7","5",1
+"99","6",1
+"99","16",1
+"99","90",1
+"55","30",1
+"55","4",1
+"55","5",1
+"55","6",4
+"55","10",11
+"55","13",1
+"55","19",1
+"55","24",1
+"55","77",6
+"55","8",4
+"55","2",1
+"55","14",3
+"77","4",10
+"77","5",9
+"77","6",17
+"77","10",27
+"77","13",6
+"77","19",28
+"77","24",11
+"77","55",5
+"77","90",13
+"77","8",23
+"77","17",2
+"77","21",2
+"77","2",4
+"77","3",2
+"77","14",21
+"77","28",1
+"77","99",2
+"8","4",19
+"8","5",8
+"8","6",25
+"8","10",29
+"8","13",3
+"8","19",22
+"8","24",26
+"8","55",6
+"8","77",38
+"8","90",11
+"8","17",1
+"8","21",6
+"8","2",8
+"8","14",16
+"17","4",1
+"17","5",1
+"17","6",1
+"17","10",1
+"17","19",2
+"17","24",2
+"17","77",1
+"17","90",1
+"2","30",2
+"2","4",15
+"2","8",14
+"2","10",5
+"2","14",12
+"2","19",3
+"2","24",3
+"2","77",6
+"2","5",3
+"2","28",1
+"2","55",2
+"2","6",8
+"14","30",1
+"14","2",16
+"14","3",4
+"14","4",5
+"14","8",20
+"14","10",11
+"14","19",1
+"14","24",12
+"14","77",13
+"14","90",3
+"14","5",3
+"14","28",1
+"14","55",7
+"14","6",12
+"14","21",8
+"28","10",3
+"28","24",1
+"28","6",1

@@ -1,227 +1,228 @@
-"Jesper Hansen","Jores Okore",37
-"Jesper Hansen","Enoch Adu",7
-"Jesper Hansen","Nicolai Stokholm",9
-"Jesper Hansen","Patrick Mtiliga",23
-"Jesper Hansen","Mikkel Beckmann",3
-"Jesper Hansen","Joshua John",6
-"Jesper Hansen","Søren Christensen",3
-"Jesper Hansen","Michael Parkhurst",19
-"Jesper Hansen","Kasper Lorentzen",11
-"Jesper Hansen","Ivan Runje",20
-"Jesper Hansen","Anders Christiansen",6
-"Jesper Hansen","Morten Nordstrand",4
-"Jesper Hansen","Mario Tičinović",3
-"Jesper Hansen","Henrik Kildentoft",3
-"Jesper Hansen","Kamal Issah",1
-"Jores Okore","Jesper Hansen",29
-"Jores Okore","Enoch Adu",25
-"Jores Okore","Nicolai Stokholm",47
-"Jores Okore","Patrick Mtiliga",11
-"Jores Okore","Mikkel Beckmann",9
-"Jores Okore","Joshua John",5
-"Jores Okore","Søren Christensen",4
-"Jores Okore","Michael Parkhurst",40
-"Jores Okore","Kasper Lorentzen",18
-"Jores Okore","Ivan Runje",25
-"Jores Okore","Anders Christiansen",7
-"Jores Okore","Morten Nordstrand",6
-"Jores Okore","Andreas Laudrup",3
-"Jores Okore","Mario Tičinović",1
-"Jores Okore","Oguzhan Aynaoglu",1
-"Enoch Adu","Jesper Hansen",8
-"Enoch Adu","Jores Okore",24
-"Enoch Adu","Nicolai Stokholm",45
-"Enoch Adu","Patrick Mtiliga",38
-"Enoch Adu","Mikkel Beckmann",28
-"Enoch Adu","Joshua John",19
-"Enoch Adu","Søren Christensen",9
-"Enoch Adu","Michael Parkhurst",26
-"Enoch Adu","Kasper Lorentzen",17
-"Enoch Adu","Ivan Runje",32
-"Enoch Adu","Anders Christiansen",7
-"Enoch Adu","Morten Nordstrand",3
-"Enoch Adu","Andreas Laudrup",2
-"Enoch Adu","Mario Tičinović",4
-"Enoch Adu","Mark Gundelach",4
-"Enoch Adu","Kamal Issah",2
-"Nicolai Stokholm","Jesper Hansen",10
-"Nicolai Stokholm","Jores Okore",33
-"Nicolai Stokholm","Enoch Adu",41
-"Nicolai Stokholm","Patrick Mtiliga",23
-"Nicolai Stokholm","Mikkel Beckmann",15
-"Nicolai Stokholm","Joshua John",12
-"Nicolai Stokholm","Søren Christensen",4
-"Nicolai Stokholm","Michael Parkhurst",41
-"Nicolai Stokholm","Kasper Lorentzen",27
-"Nicolai Stokholm","Ivan Runje",40
-"Nicolai Stokholm","Anders Christiansen",14
-"Nicolai Stokholm","Morten Nordstrand",7
-"Nicolai Stokholm","Andreas Laudrup",7
-"Nicolai Stokholm","Mario Tičinović",5
-"Nicolai Stokholm","Mark Gundelach",2
-"Nicolai Stokholm","Henrik Kildentoft",2
-"Nicolai Stokholm","Kamal Issah",2
-"Patrick Mtiliga","Jesper Hansen",12
-"Patrick Mtiliga","Jores Okore",8
-"Patrick Mtiliga","Enoch Adu",24
-"Patrick Mtiliga","Nicolai Stokholm",13
-"Patrick Mtiliga","Mikkel Beckmann",19
-"Patrick Mtiliga","Joshua John",61
-"Patrick Mtiliga","Søren Christensen",9
-"Patrick Mtiliga","Michael Parkhurst",11
-"Patrick Mtiliga","Kasper Lorentzen",16
-"Patrick Mtiliga","Ivan Runje",39
-"Patrick Mtiliga","Anders Christiansen",12
-"Patrick Mtiliga","Morten Nordstrand",5
-"Patrick Mtiliga","Andreas Laudrup",3
-"Patrick Mtiliga","Mario Tičinović",5
-"Patrick Mtiliga","Mark Gundelach",1
-"Mikkel Beckmann","Jores Okore",4
-"Mikkel Beckmann","Enoch Adu",22
-"Mikkel Beckmann","Nicolai Stokholm",11
-"Mikkel Beckmann","Patrick Mtiliga",15
-"Mikkel Beckmann","Joshua John",9
-"Mikkel Beckmann","Søren Christensen",7
-"Mikkel Beckmann","Michael Parkhurst",18
-"Mikkel Beckmann","Kasper Lorentzen",19
-"Mikkel Beckmann","Ivan Runje",12
-"Mikkel Beckmann","Anders Christiansen",6
-"Mikkel Beckmann","Morten Nordstrand",2
-"Mikkel Beckmann","Andreas Laudrup",4
-"Mikkel Beckmann","Mark Gundelach",5
-"Mikkel Beckmann","Kamal Issah",1
-"Joshua John","Jores Okore",2
-"Joshua John","Enoch Adu",21
-"Joshua John","Nicolai Stokholm",7
-"Joshua John","Patrick Mtiliga",35
-"Joshua John","Mikkel Beckmann",5
-"Joshua John","Søren Christensen",2
-"Joshua John","Michael Parkhurst",2
-"Joshua John","Kasper Lorentzen",5
-"Joshua John","Ivan Runje",15
-"Joshua John","Anders Christiansen",12
-"Joshua John","Morten Nordstrand",7
-"Joshua John","Andreas Laudrup",2
-"Joshua John","Mario Tičinović",1
-"Søren Christensen","Jores Okore",3
-"Søren Christensen","Enoch Adu",2
-"Søren Christensen","Nicolai Stokholm",5
-"Søren Christensen","Patrick Mtiliga",7
-"Søren Christensen","Mikkel Beckmann",5
-"Søren Christensen","Joshua John",8
-"Søren Christensen","Michael Parkhurst",7
-"Søren Christensen","Kasper Lorentzen",10
-"Søren Christensen","Ivan Runje",8
-"Søren Christensen","Anders Christiansen",4
-"Søren Christensen","Morten Nordstrand",2
-"Søren Christensen","Mario Tičinović",1
-"Michael Parkhurst","Jesper Hansen",9
-"Michael Parkhurst","Jores Okore",35
-"Michael Parkhurst","Enoch Adu",34
-"Michael Parkhurst","Nicolai Stokholm",60
-"Michael Parkhurst","Patrick Mtiliga",14
-"Michael Parkhurst","Mikkel Beckmann",16
-"Michael Parkhurst","Joshua John",2
-"Michael Parkhurst","Søren Christensen",8
-"Michael Parkhurst","Kasper Lorentzen",35
-"Michael Parkhurst","Ivan Runje",11
-"Michael Parkhurst","Anders Christiansen",9
-"Michael Parkhurst","Morten Nordstrand",4
-"Michael Parkhurst","Andreas Laudrup",9
-"Michael Parkhurst","Mario Tičinović",1
-"Michael Parkhurst","Henrik Kildentoft",2
-"Kasper Lorentzen","Jesper Hansen",2
-"Kasper Lorentzen","Jores Okore",9
-"Kasper Lorentzen","Enoch Adu",24
-"Kasper Lorentzen","Nicolai Stokholm",21
-"Kasper Lorentzen","Patrick Mtiliga",11
-"Kasper Lorentzen","Mikkel Beckmann",24
-"Kasper Lorentzen","Joshua John",9
-"Kasper Lorentzen","Søren Christensen",7
-"Kasper Lorentzen","Michael Parkhurst",19
-"Kasper Lorentzen","Ivan Runje",4
-"Kasper Lorentzen","Anders Christiansen",3
-"Kasper Lorentzen","Morten Nordstrand",3
-"Kasper Lorentzen","Andreas Laudrup",1
-"Kasper Lorentzen","Mario Tičinović",1
-"Kasper Lorentzen","Mark Gundelach",1
-"Kasper Lorentzen","Kamal Issah",1
-"Ivan Runje","Jesper Hansen",30
-"Ivan Runje","Jores Okore",34
-"Ivan Runje","Enoch Adu",14
-"Ivan Runje","Nicolai Stokholm",40
-"Ivan Runje","Patrick Mtiliga",41
-"Ivan Runje","Mikkel Beckmann",14
-"Ivan Runje","Joshua John",20
-"Ivan Runje","Søren Christensen",5
-"Ivan Runje","Michael Parkhurst",9
-"Ivan Runje","Kasper Lorentzen",7
-"Ivan Runje","Anders Christiansen",5
-"Ivan Runje","Morten Nordstrand",3
-"Ivan Runje","Andreas Laudrup",4
-"Ivan Runje","Mario Tičinović",2
-"Anders Christiansen","Jesper Hansen",1
-"Anders Christiansen","Jores Okore",4
-"Anders Christiansen","Enoch Adu",10
-"Anders Christiansen","Nicolai Stokholm",10
-"Anders Christiansen","Patrick Mtiliga",10
-"Anders Christiansen","Mikkel Beckmann",9
-"Anders Christiansen","Joshua John",7
-"Anders Christiansen","Søren Christensen",5
-"Anders Christiansen","Michael Parkhurst",7
-"Anders Christiansen","Kasper Lorentzen",6
-"Anders Christiansen","Ivan Runje",5
-"Anders Christiansen","Morten Nordstrand",3
-"Anders Christiansen","Andreas Laudrup",1
-"Anders Christiansen","Mario Tičinović",3
-"Anders Christiansen","Mark Gundelach",4
-"Morten Nordstrand","Jores Okore",2
-"Morten Nordstrand","Enoch Adu",5
-"Morten Nordstrand","Nicolai Stokholm",8
-"Morten Nordstrand","Patrick Mtiliga",3
-"Morten Nordstrand","Mikkel Beckmann",5
-"Morten Nordstrand","Joshua John",5
-"Morten Nordstrand","Søren Christensen",3
-"Morten Nordstrand","Michael Parkhurst",6
-"Morten Nordstrand","Kasper Lorentzen",2
-"Morten Nordstrand","Ivan Runje",2
-"Morten Nordstrand","Anders Christiansen",1
-"Andreas Laudrup","Jores Okore",1
-"Andreas Laudrup","Enoch Adu",1
-"Andreas Laudrup","Nicolai Stokholm",4
-"Andreas Laudrup","Patrick Mtiliga",5
-"Andreas Laudrup","Mikkel Beckmann",3
-"Andreas Laudrup","Joshua John",1
-"Andreas Laudrup","Michael Parkhurst",12
-"Andreas Laudrup","Kasper Lorentzen",2
-"Andreas Laudrup","Morten Nordstrand",1
-"Mario Tičinović","Jesper Hansen",1
-"Mario Tičinović","Enoch Adu",2
-"Mario Tičinović","Nicolai Stokholm",1
-"Mario Tičinović","Patrick Mtiliga",2
-"Mario Tičinović","Mikkel Beckmann",2
-"Mario Tičinović","Michael Parkhurst",5
-"Mario Tičinović","Kasper Lorentzen",2
-"Mario Tičinović","Ivan Runje",2
-"Mario Tičinović","Anders Christiansen",5
-"Mario Tičinović","Mark Gundelach",2
-"Mark Gundelach","Jesper Hansen",1
-"Mark Gundelach","Anders Christiansen",4
-"Mark Gundelach","Nicolai Stokholm",1
-"Mark Gundelach","Patrick Mtiliga",1
-"Mark Gundelach","Joshua John",1
-"Mark Gundelach","Michael Parkhurst",2
-"Mark Gundelach","Mario Tičinović",3
-"Mark Gundelach","Henrik Kildentoft",2
-"Mark Gundelach","Mikkel Beckmann",3
-"Mark Gundelach","Kamal Issah",2
-"Henrik Kildentoft","Enoch Adu",1
-"Henrik Kildentoft","Nicolai Stokholm",3
-"Henrik Kildentoft","Mark Gundelach",2
-"Henrik Kildentoft","Kasper Lorentzen",1
-"Henrik Kildentoft","Mikkel Beckmann",1
-"Kamal Issah","Jesper Hansen",1
-"Kamal Issah","Enoch Adu",2
-"Kamal Issah","Nicolai Stokholm",2
-"Kamal Issah","Kasper Lorentzen",1
-"Kamal Issah","Henrik Kildentoft",1
+Source,Target,Weight
+"1","2",37
+"1","6",7
+"1","7",9
+"1","8",23
+"1","10",3
+"1","15",6
+"1","17",3
+"1","18",19
+"1","20",11
+"1","21",20
+"1","5",6
+"1","11",4
+"1","23",3
+"1","4",3
+"1","24",1
+"2","1",29
+"2","6",25
+"2","7",47
+"2","8",11
+"2","10",9
+"2","15",5
+"2","17",4
+"2","18",40
+"2","20",18
+"2","21",25
+"2","5",7
+"2","11",6
+"2","22",3
+"2","23",1
+"2","13",1
+"6","1",8
+"6","2",24
+"6","7",45
+"6","8",38
+"6","10",28
+"6","15",19
+"6","17",9
+"6","18",26
+"6","20",17
+"6","21",32
+"6","5",7
+"6","11",3
+"6","22",2
+"6","23",4
+"6","19",4
+"6","24",2
+"7","1",10
+"7","2",33
+"7","6",41
+"7","8",23
+"7","10",15
+"7","15",12
+"7","17",4
+"7","18",41
+"7","20",27
+"7","21",40
+"7","5",14
+"7","11",7
+"7","22",7
+"7","23",5
+"7","19",2
+"7","4",2
+"7","24",2
+"8","1",12
+"8","2",8
+"8","6",24
+"8","7",13
+"8","10",19
+"8","15",61
+"8","17",9
+"8","18",11
+"8","20",16
+"8","21",39
+"8","5",12
+"8","11",5
+"8","22",3
+"8","23",5
+"8","19",1
+"10","2",4
+"10","6",22
+"10","7",11
+"10","8",15
+"10","15",9
+"10","17",7
+"10","18",18
+"10","20",19
+"10","21",12
+"10","5",6
+"10","11",2
+"10","22",4
+"10","19",5
+"10","24",1
+"15","2",2
+"15","6",21
+"15","7",7
+"15","8",35
+"15","10",5
+"15","17",2
+"15","18",2
+"15","20",5
+"15","21",15
+"15","5",12
+"15","11",7
+"15","22",2
+"15","23",1
+"17","2",3
+"17","6",2
+"17","7",5
+"17","8",7
+"17","10",5
+"17","15",8
+"17","18",7
+"17","20",10
+"17","21",8
+"17","5",4
+"17","11",2
+"17","23",1
+"18","1",9
+"18","2",35
+"18","6",34
+"18","7",60
+"18","8",14
+"18","10",16
+"18","15",2
+"18","17",8
+"18","20",35
+"18","21",11
+"18","5",9
+"18","11",4
+"18","22",9
+"18","23",1
+"18","4",2
+"20","1",2
+"20","2",9
+"20","6",24
+"20","7",21
+"20","8",11
+"20","10",24
+"20","15",9
+"20","17",7
+"20","18",19
+"20","21",4
+"20","5",3
+"20","11",3
+"20","22",1
+"20","23",1
+"20","19",1
+"20","24",1
+"21","1",30
+"21","2",34
+"21","6",14
+"21","7",40
+"21","8",41
+"21","10",14
+"21","15",20
+"21","17",5
+"21","18",9
+"21","20",7
+"21","5",5
+"21","11",3
+"21","22",4
+"21","23",2
+"5","1",1
+"5","2",4
+"5","6",10
+"5","7",10
+"5","8",10
+"5","10",9
+"5","15",7
+"5","17",5
+"5","18",7
+"5","20",6
+"5","21",5
+"5","11",3
+"5","22",1
+"5","23",3
+"5","19",4
+"11","2",2
+"11","6",5
+"11","7",8
+"11","8",3
+"11","10",5
+"11","15",5
+"11","17",3
+"11","18",6
+"11","20",2
+"11","21",2
+"11","5",1
+"22","2",1
+"22","6",1
+"22","7",4
+"22","8",5
+"22","10",3
+"22","15",1
+"22","18",12
+"22","20",2
+"22","11",1
+"23","1",1
+"23","6",2
+"23","7",1
+"23","8",2
+"23","10",2
+"23","18",5
+"23","20",2
+"23","21",2
+"23","5",5
+"23","19",2
+"19","1",1
+"19","5",4
+"19","7",1
+"19","8",1
+"19","15",1
+"19","18",2
+"19","23",3
+"19","4",2
+"19","10",3
+"19","24",2
+"4","6",1
+"4","7",3
+"4","19",2
+"4","20",1
+"4","10",1
+"24","1",1
+"24","6",2
+"24","7",2
+"24","20",1
+"24","4",1

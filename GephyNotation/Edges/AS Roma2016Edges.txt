@@ -1,326 +1,327 @@
-"Wojciech Szczęsny","Antonio Rüdiger",13
-"Wojciech Szczęsny","Lucas Digne",11
-"Wojciech Szczęsny","Radja Nainggolan",3
-"Wojciech Szczęsny","Edin Džeko",19
-"Wojciech Szczęsny","Mohamed Salah",3
-"Wojciech Szczęsny","Iago Falqué",3
-"Wojciech Szczęsny","Daniele De Rossi",11
-"Wojciech Szczęsny","Seydou Keita",1
-"Wojciech Szczęsny","Alessandro Florenzi",17
-"Wojciech Szczęsny","Kostas Manolas",26
-"Wojciech Szczęsny","Miralem Pjanić",6
-"Wojciech Szczęsny","William Vainqueur",5
-"Wojciech Szczęsny","Maicon",4
-"Wojciech Szczęsny","Diego Perotti",3
-"Wojciech Szczęsny","Stephan El Shaarawy",2
-"Wojciech Szczęsny","Ervin Zukanovic",5
-"Antonio Rüdiger","Wojciech Szczęsny",18
-"Antonio Rüdiger","Lucas Digne",14
-"Antonio Rüdiger","Radja Nainggolan",4
-"Antonio Rüdiger","Edin Džeko",5
-"Antonio Rüdiger","Mohamed Salah",1
-"Antonio Rüdiger","Iago Falqué",1
-"Antonio Rüdiger","Daniele De Rossi",7
-"Antonio Rüdiger","Seydou Keita",4
-"Antonio Rüdiger","Alessandro Florenzi",3
-"Antonio Rüdiger","Kostas Manolas",12
-"Antonio Rüdiger","Juan Manuel Iturbe",1
-"Antonio Rüdiger","Miralem Pjanić",8
-"Antonio Rüdiger","William Vainqueur",3
-"Antonio Rüdiger","Diego Perotti",3
-"Antonio Rüdiger","Stephan El Shaarawy",2
-"Lucas Digne","Wojciech Szczęsny",4
-"Lucas Digne","Antonio Rüdiger",9
-"Lucas Digne","Radja Nainggolan",21
-"Lucas Digne","Edin Džeko",8
-"Lucas Digne","Mohamed Salah",4
-"Lucas Digne","Iago Falqué",27
-"Lucas Digne","Daniele De Rossi",11
-"Lucas Digne","Seydou Keita",4
-"Lucas Digne","Alessandro Florenzi",3
-"Lucas Digne","Kostas Manolas",3
-"Lucas Digne","Juan Manuel Iturbe",6
-"Lucas Digne","Miralem Pjanić",14
-"Lucas Digne","William Vainqueur",14
-"Lucas Digne","Gervinho",3
-"Lucas Digne","Salih Uçan",3
-"Lucas Digne","Diego Perotti",20
-"Lucas Digne","Stephan El Shaarawy",14
-"Lucas Digne","Francesco Totti",1
-"Lucas Digne","Ervin Zukanovic",3
-"Radja Nainggolan","Wojciech Szczęsny",4
-"Radja Nainggolan","Antonio Rüdiger",4
-"Radja Nainggolan","Lucas Digne",23
-"Radja Nainggolan","Edin Džeko",9
-"Radja Nainggolan","Mohamed Salah",15
-"Radja Nainggolan","Iago Falqué",20
-"Radja Nainggolan","Daniele De Rossi",18
-"Radja Nainggolan","Seydou Keita",4
-"Radja Nainggolan","Alessandro Florenzi",11
-"Radja Nainggolan","Kostas Manolas",11
-"Radja Nainggolan","Juan Manuel Iturbe",6
-"Radja Nainggolan","Vasilis Torosidis",5
-"Radja Nainggolan","Miralem Pjanić",20
-"Radja Nainggolan","William Vainqueur",6
-"Radja Nainggolan","Gervinho",3
-"Radja Nainggolan","Maicon",1
-"Radja Nainggolan","Salih Uçan",1
-"Radja Nainggolan","Diego Perotti",5
-"Radja Nainggolan","Stephan El Shaarawy",1
-"Edin Džeko","Lucas Digne",11
-"Edin Džeko","Radja Nainggolan",7
-"Edin Džeko","Mohamed Salah",14
-"Edin Džeko","Iago Falqué",6
-"Edin Džeko","Daniele De Rossi",3
-"Edin Džeko","Seydou Keita",2
-"Edin Džeko","Alessandro Florenzi",4
-"Edin Džeko","Kostas Manolas",5
-"Edin Džeko","Juan Manuel Iturbe",7
-"Edin Džeko","Maicon",3
-"Edin Džeko","Miralem Pjanić",9
-"Edin Džeko","William Vainqueur",4
-"Edin Džeko","Diego Perotti",2
-"Edin Džeko","Stephan El Shaarawy",1
-"Edin Džeko","Francesco Totti",2
-"Mohamed Salah","Lucas Digne",2
-"Mohamed Salah","Radja Nainggolan",8
-"Mohamed Salah","Edin Džeko",9
-"Mohamed Salah","Iago Falqué",6
-"Mohamed Salah","Daniele De Rossi",7
-"Mohamed Salah","Seydou Keita",3
-"Mohamed Salah","Alessandro Florenzi",20
-"Mohamed Salah","Kostas Manolas",2
-"Mohamed Salah","Juan Manuel Iturbe",1
-"Mohamed Salah","Vasilis Torosidis",2
-"Mohamed Salah","Miralem Pjanić",28
-"Mohamed Salah","William Vainqueur",6
-"Mohamed Salah","Gervinho",1
-"Mohamed Salah","Diego Perotti",9
-"Mohamed Salah","Stephan El Shaarawy",2
-"Mohamed Salah","Francesco Totti",1
-"Iago Falqué","Antonio Rüdiger",3
-"Iago Falqué","Lucas Digne",22
-"Iago Falqué","Radja Nainggolan",17
-"Iago Falqué","Edin Džeko",7
-"Iago Falqué","Mohamed Salah",7
-"Iago Falqué","Daniele De Rossi",11
-"Iago Falqué","Seydou Keita",1
-"Iago Falqué","Alessandro Florenzi",13
-"Iago Falqué","Kostas Manolas",3
-"Iago Falqué","Juan Manuel Iturbe",2
-"Iago Falqué","Miralem Pjanić",11
-"Iago Falqué","William Vainqueur",1
-"Iago Falqué","Gervinho",3
-"Iago Falqué","Salih Uçan",1
-"Daniele De Rossi","Wojciech Szczęsny",5
-"Daniele De Rossi","Antonio Rüdiger",8
-"Daniele De Rossi","Lucas Digne",19
-"Daniele De Rossi","Radja Nainggolan",19
-"Daniele De Rossi","Edin Džeko",6
-"Daniele De Rossi","Mohamed Salah",3
-"Daniele De Rossi","Iago Falqué",12
-"Daniele De Rossi","Seydou Keita",5
-"Daniele De Rossi","Alessandro Florenzi",8
-"Daniele De Rossi","Kostas Manolas",24
-"Daniele De Rossi","Juan Manuel Iturbe",1
-"Daniele De Rossi","Vasilis Torosidis",2
-"Daniele De Rossi","Miralem Pjanić",25
-"Daniele De Rossi","William Vainqueur",4
-"Daniele De Rossi","Gervinho",3
-"Daniele De Rossi","Salih Uçan",2
-"Daniele De Rossi","Diego Perotti",1
-"Seydou Keita","Wojciech Szczęsny",7
-"Seydou Keita","Antonio Rüdiger",1
-"Seydou Keita","Lucas Digne",8
-"Seydou Keita","Edin Džeko",9
-"Seydou Keita","Mohamed Salah",6
-"Seydou Keita","Iago Falqué",6
-"Seydou Keita","Daniele De Rossi",4
-"Seydou Keita","Alessandro Florenzi",11
-"Seydou Keita","Kostas Manolas",8
-"Seydou Keita","Vasilis Torosidis",1
-"Seydou Keita","Maicon",5
-"Seydou Keita","Miralem Pjanić",9
-"Seydou Keita","William Vainqueur",5
-"Seydou Keita","Salih Uçan",1
-"Seydou Keita","Diego Perotti",3
-"Seydou Keita","Stephan El Shaarawy",1
-"Seydou Keita","Ervin Zukanovic",7
-"Seydou Keita","Francesco Totti",1
-"Alessandro Florenzi","Wojciech Szczęsny",12
-"Alessandro Florenzi","Antonio Rüdiger",3
-"Alessandro Florenzi","Lucas Digne",8
-"Alessandro Florenzi","Radja Nainggolan",10
-"Alessandro Florenzi","Edin Džeko",4
-"Alessandro Florenzi","Mohamed Salah",34
-"Alessandro Florenzi","Iago Falqué",5
-"Alessandro Florenzi","Daniele De Rossi",4
-"Alessandro Florenzi","Seydou Keita",7
-"Alessandro Florenzi","Kostas Manolas",17
-"Alessandro Florenzi","Morgan De Sanctis",1
-"Alessandro Florenzi","Juan Manuel Iturbe",1
-"Alessandro Florenzi","Vasilis Torosidis",5
-"Alessandro Florenzi","Miralem Pjanić",24
-"Alessandro Florenzi","William Vainqueur",7
-"Alessandro Florenzi","Gervinho",8
-"Alessandro Florenzi","Maicon",3
-"Alessandro Florenzi","Diego Perotti",5
-"Alessandro Florenzi","Stephan El Shaarawy",2
-"Alessandro Florenzi","Francesco Totti",3
-"Alessandro Florenzi","Ervin Zukanovic",1
-"Kostas Manolas","Wojciech Szczęsny",15
-"Kostas Manolas","Antonio Rüdiger",8
-"Kostas Manolas","Lucas Digne",6
-"Kostas Manolas","Radja Nainggolan",4
-"Kostas Manolas","Edin Džeko",8
-"Kostas Manolas","Mohamed Salah",12
-"Kostas Manolas","Iago Falqué",4
-"Kostas Manolas","Daniele De Rossi",31
-"Kostas Manolas","Seydou Keita",11
-"Kostas Manolas","Alessandro Florenzi",47
-"Kostas Manolas","Morgan De Sanctis",2
-"Kostas Manolas","Juan Manuel Iturbe",3
-"Kostas Manolas","Vasilis Torosidis",7
-"Kostas Manolas","Miralem Pjanić",22
-"Kostas Manolas","William Vainqueur",7
-"Kostas Manolas","Gervinho",2
-"Kostas Manolas","Maicon",6
-"Kostas Manolas","Diego Perotti",1
-"Kostas Manolas","Ervin Zukanovic",4
-"Morgan De Sanctis","Lucas Digne",2
-"Morgan De Sanctis","Radja Nainggolan",2
-"Morgan De Sanctis","Edin Džeko",3
-"Morgan De Sanctis","Iago Falqué",1
-"Morgan De Sanctis","Daniele De Rossi",1
-"Morgan De Sanctis","Seydou Keita",1
-"Morgan De Sanctis","Alessandro Florenzi",1
-"Juan Manuel Iturbe","Antonio Rüdiger",2
-"Juan Manuel Iturbe","Lucas Digne",3
-"Juan Manuel Iturbe","Radja Nainggolan",1
-"Juan Manuel Iturbe","Edin Džeko",8
-"Juan Manuel Iturbe","Mohamed Salah",1
-"Juan Manuel Iturbe","Iago Falqué",2
-"Juan Manuel Iturbe","Daniele De Rossi",2
-"Juan Manuel Iturbe","Miralem Pjanić",4
-"Juan Manuel Iturbe","William Vainqueur",1
-"Juan Manuel Iturbe","Gervinho",1
-"Juan Manuel Iturbe","Salih Uçan",1
-"Vasilis Torosidis","Radja Nainggolan",1
-"Vasilis Torosidis","Mohamed Salah",4
-"Vasilis Torosidis","Iago Falqué",4
-"Vasilis Torosidis","Daniele De Rossi",1
-"Vasilis Torosidis","Seydou Keita",1
-"Vasilis Torosidis","Alessandro Florenzi",6
-"Vasilis Torosidis","Kostas Manolas",5
-"Vasilis Torosidis","Miralem Pjanić",3
-"Miralem Pjanić","Wojciech Szczęsny",1
-"Miralem Pjanić","Lucas Digne",13
-"Miralem Pjanić","Radja Nainggolan",24
-"Miralem Pjanić","Juan Manuel Iturbe",4
-"Miralem Pjanić","Mohamed Salah",29
-"Miralem Pjanić","Daniele De Rossi",15
-"Miralem Pjanić","William Vainqueur",11
-"Miralem Pjanić","Alessandro Florenzi",32
-"Miralem Pjanić","Gervinho",10
-"Miralem Pjanić","Kostas Manolas",21
-"Miralem Pjanić","Iago Falqué",14
-"Miralem Pjanić","Vasilis Torosidis",7
-"Miralem Pjanić","Antonio Rüdiger",8
-"Miralem Pjanić","Edin Džeko",13
-"Miralem Pjanić","Maicon",3
-"Miralem Pjanić","Seydou Keita",15
-"Miralem Pjanić","Salih Uçan",2
-"Miralem Pjanić","Diego Perotti",7
-"Miralem Pjanić","Stephan El Shaarawy",2
-"Miralem Pjanić","Francesco Totti",3
-"Miralem Pjanić","Ervin Zukanovic",1
-"William Vainqueur","Wojciech Szczęsny",4
-"William Vainqueur","Lucas Digne",11
-"William Vainqueur","Radja Nainggolan",11
-"William Vainqueur","Juan Manuel Iturbe",3
-"William Vainqueur","Mohamed Salah",1
-"William Vainqueur","Miralem Pjanić",13
-"William Vainqueur","Daniele De Rossi",1
-"William Vainqueur","Alessandro Florenzi",4
-"William Vainqueur","Gervinho",2
-"William Vainqueur","Kostas Manolas",6
-"William Vainqueur","Iago Falqué",1
-"William Vainqueur","Antonio Rüdiger",8
-"William Vainqueur","Edin Džeko",1
-"William Vainqueur","Maicon",1
-"William Vainqueur","Seydou Keita",9
-"William Vainqueur","Salih Uçan",3
-"William Vainqueur","Diego Perotti",11
-"William Vainqueur","Stephan El Shaarawy",3
-"William Vainqueur","Francesco Totti",3
-"William Vainqueur","Ervin Zukanovic",3
-"Gervinho","Lucas Digne",6
-"Gervinho","Radja Nainggolan",2
-"Gervinho","Mohamed Salah",1
-"Gervinho","Miralem Pjanić",3
-"Gervinho","Daniele De Rossi",2
-"Gervinho","Alessandro Florenzi",3
-"Gervinho","Kostas Manolas",1
-"Gervinho","Iago Falqué",4
-"Gervinho","Vasilis Torosidis",3
-"Maicon","Wojciech Szczęsny",1
-"Maicon","Lucas Digne",1
-"Maicon","Radja Nainggolan",3
-"Maicon","Edin Džeko",2
-"Maicon","Miralem Pjanić",3
-"Maicon","Seydou Keita",4
-"Maicon","Alessandro Florenzi",4
-"Maicon","Kostas Manolas",3
-"Maicon","Juan Manuel Iturbe",1
-"Maicon","William Vainqueur",1
-"Maicon","Francesco Totti",2
-"Salih Uçan","Antonio Rüdiger",1
-"Salih Uçan","Lucas Digne",4
-"Salih Uçan","Radja Nainggolan",1
-"Salih Uçan","Edin Džeko",2
-"Salih Uçan","Maicon",1
-"Salih Uçan","Iago Falqué",1
-"Salih Uçan","Seydou Keita",1
-"Salih Uçan","William Vainqueur",1
-"Salih Uçan","Daniele De Rossi",2
-"Diego Perotti","Antonio Rüdiger",3
-"Diego Perotti","Lucas Digne",11
-"Diego Perotti","Radja Nainggolan",6
-"Diego Perotti","Mohamed Salah",9
-"Diego Perotti","Miralem Pjanić",5
-"Diego Perotti","William Vainqueur",4
-"Diego Perotti","Stephan El Shaarawy",8
-"Diego Perotti","Alessandro Florenzi",3
-"Diego Perotti","Kostas Manolas",1
-"Diego Perotti","Edin Džeko",6
-"Diego Perotti","Francesco Totti",2
-"Diego Perotti","Seydou Keita",2
-"Diego Perotti","Ervin Zukanovic",4
-"Stephan El Shaarawy","Antonio Rüdiger",1
-"Stephan El Shaarawy","Lucas Digne",3
-"Stephan El Shaarawy","Radja Nainggolan",2
-"Stephan El Shaarawy","Diego Perotti",3
-"Stephan El Shaarawy","Miralem Pjanić",3
-"Stephan El Shaarawy","William Vainqueur",5
-"Stephan El Shaarawy","Alessandro Florenzi",1
-"Stephan El Shaarawy","Edin Džeko",2
-"Stephan El Shaarawy","Seydou Keita",3
-"Francesco Totti","Antonio Rüdiger",2
-"Francesco Totti","Lucas Digne",4
-"Francesco Totti","Diego Perotti",2
-"Francesco Totti","Mohamed Salah",1
-"Francesco Totti","Miralem Pjanić",1
-"Francesco Totti","William Vainqueur",1
-"Francesco Totti","Alessandro Florenzi",5
-"Francesco Totti","Seydou Keita",1
-"Francesco Totti","Ervin Zukanovic",2
-"Ervin Zukanovic","Wojciech Szczęsny",7
-"Ervin Zukanovic","Lucas Digne",4
-"Ervin Zukanovic","Diego Perotti",3
-"Ervin Zukanovic","Edin Džeko",2
-"Ervin Zukanovic","Miralem Pjanić",2
-"Ervin Zukanovic","Seydou Keita",5
-"Ervin Zukanovic","Alessandro Florenzi",1
-"Ervin Zukanovic","Kostas Manolas",3
-"Ervin Zukanovic","Francesco Totti",2
-"Ervin Zukanovic","William Vainqueur",6
+Source,Target,Weight
+"25","2",13
+"25","3",11
+"25","4",3
+"25","9",19
+"25","11",3
+"25","14",3
+"25","16",11
+"25","20",1
+"25","24",17
+"25","44",26
+"25","15",6
+"25","21",5
+"25","13",4
+"25","8",3
+"25","22",2
+"25","87",5
+"2","25",18
+"2","3",14
+"2","4",4
+"2","9",5
+"2","11",1
+"2","14",1
+"2","16",7
+"2","20",4
+"2","24",3
+"2","44",12
+"2","7",1
+"2","15",8
+"2","21",3
+"2","8",3
+"2","22",2
+"3","25",4
+"3","2",9
+"3","4",21
+"3","9",8
+"3","11",4
+"3","14",27
+"3","16",11
+"3","20",4
+"3","24",3
+"3","44",3
+"3","7",6
+"3","15",14
+"3","21",14
+"3","27",3
+"3","48",3
+"3","8",20
+"3","22",14
+"3","10",1
+"3","87",3
+"4","25",4
+"4","2",4
+"4","3",23
+"4","9",9
+"4","11",15
+"4","14",20
+"4","16",18
+"4","20",4
+"4","24",11
+"4","44",11
+"4","7",6
+"4","35",5
+"4","15",20
+"4","21",6
+"4","27",3
+"4","13",1
+"4","48",1
+"4","8",5
+"4","22",1
+"9","3",11
+"9","4",7
+"9","11",14
+"9","14",6
+"9","16",3
+"9","20",2
+"9","24",4
+"9","44",5
+"9","7",7
+"9","13",3
+"9","15",9
+"9","21",4
+"9","8",2
+"9","22",1
+"9","10",2
+"11","3",2
+"11","4",8
+"11","9",9
+"11","14",6
+"11","16",7
+"11","20",3
+"11","24",20
+"11","44",2
+"11","7",1
+"11","35",2
+"11","15",28
+"11","21",6
+"11","27",1
+"11","8",9
+"11","22",2
+"11","10",1
+"14","2",3
+"14","3",22
+"14","4",17
+"14","9",7
+"14","11",7
+"14","16",11
+"14","20",1
+"14","24",13
+"14","44",3
+"14","7",2
+"14","15",11
+"14","21",1
+"14","27",3
+"14","48",1
+"16","25",5
+"16","2",8
+"16","3",19
+"16","4",19
+"16","9",6
+"16","11",3
+"16","14",12
+"16","20",5
+"16","24",8
+"16","44",24
+"16","7",1
+"16","35",2
+"16","15",25
+"16","21",4
+"16","27",3
+"16","48",2
+"16","8",1
+"20","25",7
+"20","2",1
+"20","3",8
+"20","9",9
+"20","11",6
+"20","14",6
+"20","16",4
+"20","24",11
+"20","44",8
+"20","35",1
+"20","13",5
+"20","15",9
+"20","21",5
+"20","48",1
+"20","8",3
+"20","22",1
+"20","87",7
+"20","10",1
+"24","25",12
+"24","2",3
+"24","3",8
+"24","4",10
+"24","9",4
+"24","11",34
+"24","14",5
+"24","16",4
+"24","20",7
+"24","44",17
+"24","26",1
+"24","7",1
+"24","35",5
+"24","15",24
+"24","21",7
+"24","27",8
+"24","13",3
+"24","8",5
+"24","22",2
+"24","10",3
+"24","87",1
+"44","25",15
+"44","2",8
+"44","3",6
+"44","4",4
+"44","9",8
+"44","11",12
+"44","14",4
+"44","16",31
+"44","20",11
+"44","24",47
+"44","26",2
+"44","7",3
+"44","35",7
+"44","15",22
+"44","21",7
+"44","27",2
+"44","13",6
+"44","8",1
+"44","87",4
+"26","3",2
+"26","4",2
+"26","9",3
+"26","14",1
+"26","16",1
+"26","20",1
+"26","24",1
+"7","2",2
+"7","3",3
+"7","4",1
+"7","9",8
+"7","11",1
+"7","14",2
+"7","16",2
+"7","15",4
+"7","21",1
+"7","27",1
+"7","48",1
+"35","4",1
+"35","11",4
+"35","14",4
+"35","16",1
+"35","20",1
+"35","24",6
+"35","44",5
+"35","15",3
+"15","25",1
+"15","3",13
+"15","4",24
+"15","7",4
+"15","11",29
+"15","16",15
+"15","21",11
+"15","24",32
+"15","27",10
+"15","44",21
+"15","14",14
+"15","35",7
+"15","2",8
+"15","9",13
+"15","13",3
+"15","20",15
+"15","48",2
+"15","8",7
+"15","22",2
+"15","10",3
+"15","87",1
+"21","25",4
+"21","3",11
+"21","4",11
+"21","7",3
+"21","11",1
+"21","15",13
+"21","16",1
+"21","24",4
+"21","27",2
+"21","44",6
+"21","14",1
+"21","2",8
+"21","9",1
+"21","13",1
+"21","20",9
+"21","48",3
+"21","8",11
+"21","22",3
+"21","10",3
+"21","87",3
+"27","3",6
+"27","4",2
+"27","11",1
+"27","15",3
+"27","16",2
+"27","24",3
+"27","44",1
+"27","14",4
+"27","35",3
+"13","25",1
+"13","3",1
+"13","4",3
+"13","9",2
+"13","15",3
+"13","20",4
+"13","24",4
+"13","44",3
+"13","7",1
+"13","21",1
+"13","10",2
+"48","2",1
+"48","3",4
+"48","4",1
+"48","9",2
+"48","13",1
+"48","14",1
+"48","20",1
+"48","21",1
+"48","16",2
+"8","2",3
+"8","3",11
+"8","4",6
+"8","11",9
+"8","15",5
+"8","21",4
+"8","22",8
+"8","24",3
+"8","44",1
+"8","9",6
+"8","10",2
+"8","20",2
+"8","87",4
+"22","2",1
+"22","3",3
+"22","4",2
+"22","8",3
+"22","15",3
+"22","21",5
+"22","24",1
+"22","9",2
+"22","20",3
+"10","2",2
+"10","3",4
+"10","8",2
+"10","11",1
+"10","15",1
+"10","21",1
+"10","24",5
+"10","20",1
+"10","87",2
+"87","25",7
+"87","3",4
+"87","8",3
+"87","9",2
+"87","15",2
+"87","20",5
+"87","24",1
+"87","44",3
+"87","10",2
+"87","21",6

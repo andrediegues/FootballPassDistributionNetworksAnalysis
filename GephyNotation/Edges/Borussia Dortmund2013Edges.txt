@@ -1,300 +1,301 @@
-"Roman Weidenfeller","Neven Subotić",38
-"Roman Weidenfeller","Sebastian Kehl",5
-"Roman Weidenfeller","İlkay Gündoğan",19
-"Roman Weidenfeller","Robert Lewandowski",41
-"Roman Weidenfeller","Mario Götze",9
-"Roman Weidenfeller","Marco Reus",8
-"Roman Weidenfeller","Mats Hummels",40
-"Roman Weidenfeller","Jakub Błaszczykowski",6
-"Roman Weidenfeller","Łukasz Piszczek",6
-"Roman Weidenfeller","Marcel Schmelzer",22
-"Roman Weidenfeller","Julian Schieber",4
-"Roman Weidenfeller","Ivan Perišić",3
-"Roman Weidenfeller","Sven Bender",5
-"Roman Weidenfeller","Kevin Grosskreutz",11
-"Roman Weidenfeller","Felipe Santana",16
-"Roman Weidenfeller","Oliver Kirch",1
-"Roman Weidenfeller","Nuri Şahin",2
-"Neven Subotić","Roman Weidenfeller",40
-"Neven Subotić","Sebastian Kehl",21
-"Neven Subotić","İlkay Gündoğan",65
-"Neven Subotić","Robert Lewandowski",25
-"Neven Subotić","Mario Götze",26
-"Neven Subotić","Marco Reus",18
-"Neven Subotić","Mats Hummels",41
-"Neven Subotić","Jakub Błaszczykowski",17
-"Neven Subotić","Łukasz Piszczek",51
-"Neven Subotić","Marcel Schmelzer",14
-"Neven Subotić","Moritz Leitner",1
-"Neven Subotić","Julian Schieber",1
-"Neven Subotić","Ivan Perišić",5
-"Neven Subotić","Sven Bender",36
-"Neven Subotić","Kevin Grosskreutz",2
-"Neven Subotić","Felipe Santana",40
-"Neven Subotić","Nuri Şahin",2
-"Sebastian Kehl","Roman Weidenfeller",4
-"Sebastian Kehl","Neven Subotić",19
-"Sebastian Kehl","İlkay Gündoğan",21
-"Sebastian Kehl","Robert Lewandowski",15
-"Sebastian Kehl","Mario Götze",27
-"Sebastian Kehl","Marco Reus",18
-"Sebastian Kehl","Mats Hummels",11
-"Sebastian Kehl","Jakub Błaszczykowski",6
-"Sebastian Kehl","Łukasz Piszczek",21
-"Sebastian Kehl","Marcel Schmelzer",35
-"Sebastian Kehl","Julian Schieber",1
-"Sebastian Kehl","Ivan Perišić",4
-"Sebastian Kehl","Sven Bender",14
-"Sebastian Kehl","Kevin Grosskreutz",23
-"Sebastian Kehl","Felipe Santana",21
-"Sebastian Kehl","Nuri Şahin",1
-"İlkay Gündoğan","Roman Weidenfeller",10
-"İlkay Gündoğan","Neven Subotić",58
-"İlkay Gündoğan","Sebastian Kehl",21
-"İlkay Gündoğan","Robert Lewandowski",32
-"İlkay Gündoğan","Mario Götze",55
-"İlkay Gündoğan","Marco Reus",35
-"İlkay Gündoğan","Mats Hummels",37
-"İlkay Gündoğan","Jakub Błaszczykowski",25
-"İlkay Gündoğan","Łukasz Piszczek",38
-"İlkay Gündoğan","Marcel Schmelzer",46
-"İlkay Gündoğan","Moritz Leitner",7
-"İlkay Gündoğan","Julian Schieber",4
-"İlkay Gündoğan","Ivan Perišić",8
-"İlkay Gündoğan","Sven Bender",33
-"İlkay Gündoğan","Kevin Grosskreutz",22
-"İlkay Gündoğan","Felipe Santana",29
-"İlkay Gündoğan","Oliver Kirch",9
-"İlkay Gündoğan","Nuri Şahin",7
-"Robert Lewandowski","Neven Subotić",10
-"Robert Lewandowski","Sebastian Kehl",13
-"Robert Lewandowski","İlkay Gündoğan",20
-"Robert Lewandowski","Mario Götze",39
-"Robert Lewandowski","Marco Reus",41
-"Robert Lewandowski","Mats Hummels",8
-"Robert Lewandowski","Jakub Błaszczykowski",17
-"Robert Lewandowski","Łukasz Piszczek",12
-"Robert Lewandowski","Marcel Schmelzer",16
-"Robert Lewandowski","Julian Schieber",4
-"Robert Lewandowski","Ivan Perišić",11
-"Robert Lewandowski","Sven Bender",8
-"Robert Lewandowski","Kevin Grosskreutz",16
-"Robert Lewandowski","Felipe Santana",2
-"Mario Götze","Roman Weidenfeller",1
-"Mario Götze","Neven Subotić",24
-"Mario Götze","Sebastian Kehl",16
-"Mario Götze","İlkay Gündoğan",32
-"Mario Götze","Robert Lewandowski",54
-"Mario Götze","Marco Reus",67
-"Mario Götze","Mats Hummels",8
-"Mario Götze","Jakub Błaszczykowski",29
-"Mario Götze","Łukasz Piszczek",44
-"Mario Götze","Marcel Schmelzer",32
-"Mario Götze","Moritz Leitner",1
-"Mario Götze","Julian Schieber",1
-"Mario Götze","Ivan Perišić",1
-"Mario Götze","Sven Bender",22
-"Mario Götze","Kevin Grosskreutz",23
-"Mario Götze","Felipe Santana",11
-"Marco Reus","Roman Weidenfeller",2
-"Marco Reus","Neven Subotić",12
-"Marco Reus","Sebastian Kehl",15
-"Marco Reus","İlkay Gündoğan",30
-"Marco Reus","Robert Lewandowski",49
-"Marco Reus","Mario Götze",45
-"Marco Reus","Mats Hummels",12
-"Marco Reus","Jakub Błaszczykowski",17
-"Marco Reus","Łukasz Piszczek",33
-"Marco Reus","Marcel Schmelzer",36
-"Marco Reus","Moritz Leitner",4
-"Marco Reus","Julian Schieber",4
-"Marco Reus","Ivan Perišić",2
-"Marco Reus","Sven Bender",18
-"Marco Reus","Kevin Grosskreutz",18
-"Marco Reus","Felipe Santana",11
-"Marco Reus","Oliver Kirch",6
-"Marco Reus","Nuri Şahin",2
-"Mats Hummels","Roman Weidenfeller",25
-"Mats Hummels","Neven Subotić",52
-"Mats Hummels","Sebastian Kehl",18
-"Mats Hummels","İlkay Gündoğan",44
-"Mats Hummels","Robert Lewandowski",18
-"Mats Hummels","Mario Götze",14
-"Mats Hummels","Marco Reus",28
-"Mats Hummels","Jakub Błaszczykowski",22
-"Mats Hummels","Łukasz Piszczek",12
-"Mats Hummels","Marcel Schmelzer",45
-"Mats Hummels","Moritz Leitner",9
-"Mats Hummels","Julian Schieber",2
-"Mats Hummels","Ivan Perišić",4
-"Mats Hummels","Sven Bender",13
-"Mats Hummels","Kevin Grosskreutz",21
-"Mats Hummels","Felipe Santana",15
-"Mats Hummels","Oliver Kirch",2
-"Jakub Błaszczykowski","Neven Subotić",15
-"Jakub Błaszczykowski","Sebastian Kehl",11
-"Jakub Błaszczykowski","İlkay Gündoğan",21
-"Jakub Błaszczykowski","Robert Lewandowski",18
-"Jakub Błaszczykowski","Mario Götze",30
-"Jakub Błaszczykowski","Marco Reus",28
-"Jakub Błaszczykowski","Mats Hummels",6
-"Jakub Błaszczykowski","Łukasz Piszczek",41
-"Jakub Błaszczykowski","Marcel Schmelzer",6
-"Jakub Błaszczykowski","Moritz Leitner",3
-"Jakub Błaszczykowski","Julian Schieber",2
-"Jakub Błaszczykowski","Sven Bender",12
-"Jakub Błaszczykowski","Kevin Grosskreutz",7
-"Jakub Błaszczykowski","Felipe Santana",5
-"Jakub Błaszczykowski","Oliver Kirch",6
-"Jakub Błaszczykowski","Leonardo Bittencourt",1
-"Łukasz Piszczek","Roman Weidenfeller",7
-"Łukasz Piszczek","Neven Subotić",51
-"Łukasz Piszczek","Sebastian Kehl",29
-"Łukasz Piszczek","İlkay Gündoğan",43
-"Łukasz Piszczek","Robert Lewandowski",25
-"Łukasz Piszczek","Mario Götze",47
-"Łukasz Piszczek","Marco Reus",49
-"Łukasz Piszczek","Mats Hummels",10
-"Łukasz Piszczek","Jakub Błaszczykowski",48
-"Łukasz Piszczek","Marcel Schmelzer",9
-"Łukasz Piszczek","Moritz Leitner",4
-"Łukasz Piszczek","Julian Schieber",1
-"Łukasz Piszczek","Ivan Perišić",2
-"Łukasz Piszczek","Sven Bender",28
-"Łukasz Piszczek","Kevin Grosskreutz",16
-"Łukasz Piszczek","Felipe Santana",14
-"Łukasz Piszczek","Nuri Şahin",5
-"Marcel Schmelzer","Roman Weidenfeller",19
-"Marcel Schmelzer","Neven Subotić",10
-"Marcel Schmelzer","Sebastian Kehl",36
-"Marcel Schmelzer","İlkay Gündoğan",52
-"Marcel Schmelzer","Robert Lewandowski",40
-"Marcel Schmelzer","Mario Götze",36
-"Marcel Schmelzer","Marco Reus",50
-"Marcel Schmelzer","Mats Hummels",60
-"Marcel Schmelzer","Jakub Błaszczykowski",5
-"Marcel Schmelzer","Łukasz Piszczek",10
-"Marcel Schmelzer","Moritz Leitner",10
-"Marcel Schmelzer","Julian Schieber",5
-"Marcel Schmelzer","Ivan Perišić",9
-"Marcel Schmelzer","Sven Bender",43
-"Marcel Schmelzer","Kevin Grosskreutz",32
-"Marcel Schmelzer","Felipe Santana",17
-"Marcel Schmelzer","Oliver Kirch",1
-"Moritz Leitner","Roman Weidenfeller",1
-"Moritz Leitner","Neven Subotić",1
-"Moritz Leitner","İlkay Gündoğan",8
-"Moritz Leitner","Robert Lewandowski",2
-"Moritz Leitner","Mario Götze",1
-"Moritz Leitner","Marco Reus",3
-"Moritz Leitner","Mats Hummels",3
-"Moritz Leitner","Jakub Błaszczykowski",4
-"Moritz Leitner","Łukasz Piszczek",3
-"Moritz Leitner","Marcel Schmelzer",7
-"Moritz Leitner","Julian Schieber",4
-"Moritz Leitner","Ivan Perišić",9
-"Moritz Leitner","Kevin Grosskreutz",6
-"Moritz Leitner","Oliver Kirch",8
-"Moritz Leitner","Felipe Santana",1
-"Julian Schieber","Sebastian Kehl",1
-"Julian Schieber","İlkay Gündoğan",2
-"Julian Schieber","Robert Lewandowski",2
-"Julian Schieber","Mario Götze",1
-"Julian Schieber","Marco Reus",2
-"Julian Schieber","Mats Hummels",1
-"Julian Schieber","Jakub Błaszczykowski",1
-"Julian Schieber","Łukasz Piszczek",2
-"Julian Schieber","Marcel Schmelzer",3
-"Julian Schieber","Moritz Leitner",3
-"Julian Schieber","Ivan Perišić",2
-"Julian Schieber","Kevin Grosskreutz",3
-"Julian Schieber","Oliver Kirch",1
-"Julian Schieber","Felipe Santana",1
-"Ivan Perišić","Roman Weidenfeller",1
-"Ivan Perišić","Neven Subotić",2
-"Ivan Perišić","Sebastian Kehl",1
-"Ivan Perišić","İlkay Gündoğan",4
-"Ivan Perišić","Robert Lewandowski",7
-"Ivan Perišić","Marco Reus",1
-"Ivan Perišić","Mats Hummels",5
-"Ivan Perišić","Jakub Błaszczykowski",2
-"Ivan Perišić","Łukasz Piszczek",6
-"Ivan Perišić","Marcel Schmelzer",13
-"Ivan Perišić","Moritz Leitner",5
-"Ivan Perišić","Julian Schieber",5
-"Ivan Perišić","Sven Bender",1
-"Ivan Perišić","Kevin Grosskreutz",5
-"Ivan Perišić","Oliver Kirch",2
-"Ivan Perišić","Felipe Santana",2
-"Sven Bender","Roman Weidenfeller",7
-"Sven Bender","Neven Subotić",32
-"Sven Bender","İlkay Gündoğan",41
-"Sven Bender","Robert Lewandowski",19
-"Sven Bender","Mario Götze",31
-"Sven Bender","Marco Reus",41
-"Sven Bender","Mats Hummels",21
-"Sven Bender","Jakub Błaszczykowski",18
-"Sven Bender","Łukasz Piszczek",19
-"Sven Bender","Marcel Schmelzer",30
-"Sven Bender","Sebastian Kehl",10
-"Sven Bender","Kevin Grosskreutz",8
-"Sven Bender","Felipe Santana",24
-"Sven Bender","Julian Schieber",1
-"Sven Bender","Ivan Perišić",1
-"Sven Bender","Moritz Leitner",1
-"Kevin Grosskreutz","Roman Weidenfeller",3
-"Kevin Grosskreutz","Neven Subotić",5
-"Kevin Grosskreutz","Sven Bender",3
-"Kevin Grosskreutz","İlkay Gündoğan",20
-"Kevin Grosskreutz","Robert Lewandowski",23
-"Kevin Grosskreutz","Mario Götze",24
-"Kevin Grosskreutz","Marco Reus",23
-"Kevin Grosskreutz","Mats Hummels",14
-"Kevin Grosskreutz","Jakub Błaszczykowski",10
-"Kevin Grosskreutz","Łukasz Piszczek",6
-"Kevin Grosskreutz","Marcel Schmelzer",29
-"Kevin Grosskreutz","Sebastian Kehl",17
-"Kevin Grosskreutz","Felipe Santana",9
-"Kevin Grosskreutz","Julian Schieber",5
-"Kevin Grosskreutz","Ivan Perišić",6
-"Kevin Grosskreutz","Moritz Leitner",4
-"Kevin Grosskreutz","Oliver Kirch",8
-"Kevin Grosskreutz","Nuri Şahin",2
-"Felipe Santana","Roman Weidenfeller",29
-"Felipe Santana","Neven Subotić",23
-"Felipe Santana","Sven Bender",28
-"Felipe Santana","İlkay Gündoğan",26
-"Felipe Santana","Robert Lewandowski",3
-"Felipe Santana","Mario Götze",17
-"Felipe Santana","Marco Reus",17
-"Felipe Santana","Mats Hummels",13
-"Felipe Santana","Jakub Błaszczykowski",9
-"Felipe Santana","Łukasz Piszczek",12
-"Felipe Santana","Marcel Schmelzer",33
-"Felipe Santana","Sebastian Kehl",23
-"Felipe Santana","Kevin Grosskreutz",6
-"Felipe Santana","Moritz Leitner",5
-"Felipe Santana","Oliver Kirch",9
-"Felipe Santana","Julian Schieber",1
-"Felipe Santana","Ivan Perišić",1
-"Oliver Kirch","Roman Weidenfeller",3
-"Oliver Kirch","Moritz Leitner",5
-"Oliver Kirch","İlkay Gündoğan",5
-"Oliver Kirch","Marco Reus",7
-"Oliver Kirch","Mats Hummels",3
-"Oliver Kirch","Kevin Grosskreutz",6
-"Oliver Kirch","Julian Schieber",3
-"Oliver Kirch","Felipe Santana",10
-"Oliver Kirch","Marcel Schmelzer",2
-"Oliver Kirch","Ivan Perišić",1
-"Oliver Kirch","Jakub Błaszczykowski",5
-"Nuri Şahin","Neven Subotić",1
-"Nuri Şahin","İlkay Gündoğan",4
-"Nuri Şahin","Robert Lewandowski",1
-"Nuri Şahin","Mario Götze",5
-"Nuri Şahin","Marco Reus",2
-"Nuri Şahin","Łukasz Piszczek",2
-"Nuri Şahin","Felipe Santana",1
-"Nuri Şahin","Sebastian Kehl",2
-"Nuri Şahin","Kevin Grosskreutz",3
-"Nuri Şahin","Mats Hummels",3
+Source,Target,Weight
+"1","4",38
+"1","5",5
+"1","8",19
+"1","9",41
+"1","10",9
+"1","11",8
+"1","15",40
+"1","16",6
+"1","26",6
+"1","29",22
+"1","23",4
+"1","44",3
+"1","6",5
+"1","19",11
+"1","27",16
+"1","21",1
+"1","18",2
+"4","1",40
+"4","5",21
+"4","8",65
+"4","9",25
+"4","10",26
+"4","11",18
+"4","15",41
+"4","16",17
+"4","26",51
+"4","29",14
+"4","7",1
+"4","23",1
+"4","44",5
+"4","6",36
+"4","19",2
+"4","27",40
+"4","18",2
+"5","1",4
+"5","4",19
+"5","8",21
+"5","9",15
+"5","10",27
+"5","11",18
+"5","15",11
+"5","16",6
+"5","26",21
+"5","29",35
+"5","23",1
+"5","44",4
+"5","6",14
+"5","19",23
+"5","27",21
+"5","18",1
+"8","1",10
+"8","4",58
+"8","5",21
+"8","9",32
+"8","10",55
+"8","11",35
+"8","15",37
+"8","16",25
+"8","26",38
+"8","29",46
+"8","7",7
+"8","23",4
+"8","44",8
+"8","6",33
+"8","19",22
+"8","27",29
+"8","21",9
+"8","18",7
+"9","4",10
+"9","5",13
+"9","8",20
+"9","10",39
+"9","11",41
+"9","15",8
+"9","16",17
+"9","26",12
+"9","29",16
+"9","23",4
+"9","44",11
+"9","6",8
+"9","19",16
+"9","27",2
+"10","1",1
+"10","4",24
+"10","5",16
+"10","8",32
+"10","9",54
+"10","11",67
+"10","15",8
+"10","16",29
+"10","26",44
+"10","29",32
+"10","7",1
+"10","23",1
+"10","44",1
+"10","6",22
+"10","19",23
+"10","27",11
+"11","1",2
+"11","4",12
+"11","5",15
+"11","8",30
+"11","9",49
+"11","10",45
+"11","15",12
+"11","16",17
+"11","26",33
+"11","29",36
+"11","7",4
+"11","23",4
+"11","44",2
+"11","6",18
+"11","19",18
+"11","27",11
+"11","21",6
+"11","18",2
+"15","1",25
+"15","4",52
+"15","5",18
+"15","8",44
+"15","9",18
+"15","10",14
+"15","11",28
+"15","16",22
+"15","26",12
+"15","29",45
+"15","7",9
+"15","23",2
+"15","44",4
+"15","6",13
+"15","19",21
+"15","27",15
+"15","21",2
+"16","4",15
+"16","5",11
+"16","8",21
+"16","9",18
+"16","10",30
+"16","11",28
+"16","15",6
+"16","26",41
+"16","29",6
+"16","7",3
+"16","23",2
+"16","6",12
+"16","19",7
+"16","27",5
+"16","21",6
+"16","32",1
+"26","1",7
+"26","4",51
+"26","5",29
+"26","8",43
+"26","9",25
+"26","10",47
+"26","11",49
+"26","15",10
+"26","16",48
+"26","29",9
+"26","7",4
+"26","23",1
+"26","44",2
+"26","6",28
+"26","19",16
+"26","27",14
+"26","18",5
+"29","1",19
+"29","4",10
+"29","5",36
+"29","8",52
+"29","9",40
+"29","10",36
+"29","11",50
+"29","15",60
+"29","16",5
+"29","26",10
+"29","7",10
+"29","23",5
+"29","44",9
+"29","6",43
+"29","19",32
+"29","27",17
+"29","21",1
+"7","1",1
+"7","4",1
+"7","8",8
+"7","9",2
+"7","10",1
+"7","11",3
+"7","15",3
+"7","16",4
+"7","26",3
+"7","29",7
+"7","23",4
+"7","44",9
+"7","19",6
+"7","21",8
+"7","27",1
+"23","5",1
+"23","8",2
+"23","9",2
+"23","10",1
+"23","11",2
+"23","15",1
+"23","16",1
+"23","26",2
+"23","29",3
+"23","7",3
+"23","44",2
+"23","19",3
+"23","21",1
+"23","27",1
+"44","1",1
+"44","4",2
+"44","5",1
+"44","8",4
+"44","9",7
+"44","11",1
+"44","15",5
+"44","16",2
+"44","26",6
+"44","29",13
+"44","7",5
+"44","23",5
+"44","6",1
+"44","19",5
+"44","21",2
+"44","27",2
+"6","1",7
+"6","4",32
+"6","8",41
+"6","9",19
+"6","10",31
+"6","11",41
+"6","15",21
+"6","16",18
+"6","26",19
+"6","29",30
+"6","5",10
+"6","19",8
+"6","27",24
+"6","23",1
+"6","44",1
+"6","7",1
+"19","1",3
+"19","4",5
+"19","6",3
+"19","8",20
+"19","9",23
+"19","10",24
+"19","11",23
+"19","15",14
+"19","16",10
+"19","26",6
+"19","29",29
+"19","5",17
+"19","27",9
+"19","23",5
+"19","44",6
+"19","7",4
+"19","21",8
+"19","18",2
+"27","1",29
+"27","4",23
+"27","6",28
+"27","8",26
+"27","9",3
+"27","10",17
+"27","11",17
+"27","15",13
+"27","16",9
+"27","26",12
+"27","29",33
+"27","5",23
+"27","19",6
+"27","7",5
+"27","21",9
+"27","23",1
+"27","44",1
+"21","1",3
+"21","7",5
+"21","8",5
+"21","11",7
+"21","15",3
+"21","19",6
+"21","23",3
+"21","27",10
+"21","29",2
+"21","44",1
+"21","16",5
+"18","4",1
+"18","8",4
+"18","9",1
+"18","10",5
+"18","11",2
+"18","26",2
+"18","27",1
+"18","5",2
+"18","19",3
+"18","15",3

@@ -1,325 +1,326 @@
-"Andriy Pyatov","Olexandr Kucher",50
-"Andriy Pyatov","Taras Stepanenko",4
-"Andriy Pyatov","Fred",13
-"Andriy Pyatov","Marlos",4
-"Andriy Pyatov","Olexandr Gladkiy",12
-"Andriy Pyatov","Taison",3
-"Andriy Pyatov","Alex Teixeira",1
-"Andriy Pyatov","Darijo Srna",19
-"Andriy Pyatov","Yaroslav Rakitskiy",32
-"Andriy Pyatov","Márcio Azevedo",11
-"Andriy Pyatov","Bernard",2
-"Andriy Pyatov","Maksym Malyshev",3
-"Andriy Pyatov","Eduardo",1
-"Andriy Pyatov","Serhiy Kryvtsov",7
-"Andriy Pyatov","Viktor Kovalenko",1
-"Andriy Pyatov","Vyacheslav Shevchuk",3
-"Andriy Pyatov","Ismaily",2
-"Andriy Pyatov","Vasyl Kobin",3
-"Andriy Pyatov","Ivan Ordets",3
-"Olexandr Kucher","Andriy Pyatov",31
-"Olexandr Kucher","Taras Stepanenko",27
-"Olexandr Kucher","Fred",53
-"Olexandr Kucher","Marlos",29
-"Olexandr Kucher","Olexandr Gladkiy",11
-"Olexandr Kucher","Taison",10
-"Olexandr Kucher","Alex Teixeira",13
-"Olexandr Kucher","Darijo Srna",108
-"Olexandr Kucher","Yaroslav Rakitskiy",38
-"Olexandr Kucher","Márcio Azevedo",5
-"Olexandr Kucher","Bernard",7
-"Olexandr Kucher","Maksym Malyshev",7
-"Olexandr Kucher","Eduardo",7
-"Olexandr Kucher","Viktor Kovalenko",5
-"Olexandr Kucher","Vyacheslav Shevchuk",5
-"Olexandr Kucher","Ismaily",3
-"Olexandr Kucher","Anton Kanibolotskiy",12
-"Taras Stepanenko","Andriy Pyatov",7
-"Taras Stepanenko","Olexandr Kucher",33
-"Taras Stepanenko","Fred",29
-"Taras Stepanenko","Marlos",10
-"Taras Stepanenko","Olexandr Gladkiy",6
-"Taras Stepanenko","Taison",16
-"Taras Stepanenko","Alex Teixeira",15
-"Taras Stepanenko","Darijo Srna",19
-"Taras Stepanenko","Yaroslav Rakitskiy",40
-"Taras Stepanenko","Márcio Azevedo",19
-"Taras Stepanenko","Bernard",10
-"Taras Stepanenko","Eduardo",3
-"Taras Stepanenko","Serhiy Kryvtsov",4
-"Taras Stepanenko","Viktor Kovalenko",2
-"Taras Stepanenko","Ismaily",17
-"Taras Stepanenko","Vasyl Kobin",1
-"Taras Stepanenko","Ivan Ordets",2
-"Taras Stepanenko","Dentinho",1
-"Fred","Andriy Pyatov",10
-"Fred","Olexandr Kucher",41
-"Fred","Taras Stepanenko",26
-"Fred","Marlos",86
-"Fred","Olexandr Gladkiy",5
-"Fred","Taison",38
-"Fred","Alex Teixeira",56
-"Fred","Darijo Srna",96
-"Fred","Yaroslav Rakitskiy",31
-"Fred","Márcio Azevedo",19
-"Fred","Bernard",25
-"Fred","Maksym Malyshev",9
-"Fred","Eduardo",4
-"Fred","Serhiy Kryvtsov",7
-"Fred","Viktor Kovalenko",3
-"Fred","Vyacheslav Shevchuk",6
-"Fred","Dentinho",3
-"Fred","Ismaily",10
-"Fred","Anton Kanibolotskiy",2
-"Fred","Vasyl Kobin",8
-"Fred","Ivan Ordets",6
-"Marlos","Andriy Pyatov",1
-"Marlos","Olexandr Kucher",19
-"Marlos","Taras Stepanenko",17
-"Marlos","Fred",71
-"Marlos","Olexandr Gladkiy",2
-"Marlos","Taison",30
-"Marlos","Alex Teixeira",31
-"Marlos","Darijo Srna",81
-"Marlos","Yaroslav Rakitskiy",13
-"Marlos","Márcio Azevedo",11
-"Marlos","Bernard",15
-"Marlos","Maksym Malyshev",4
-"Marlos","Eduardo",3
-"Marlos","Serhiy Kryvtsov",4
-"Marlos","Viktor Kovalenko",1
-"Marlos","Vyacheslav Shevchuk",1
-"Marlos","Ismaily",9
-"Marlos","Vasyl Kobin",9
-"Marlos","Ivan Ordets",5
-"Olexandr Gladkiy","Taras Stepanenko",7
-"Olexandr Gladkiy","Fred",11
-"Olexandr Gladkiy","Marlos",18
-"Olexandr Gladkiy","Taison",9
-"Olexandr Gladkiy","Alex Teixeira",29
-"Olexandr Gladkiy","Darijo Srna",1
-"Olexandr Gladkiy","Yaroslav Rakitskiy",6
-"Olexandr Gladkiy","Bernard",1
-"Olexandr Gladkiy","Maksym Malyshev",2
-"Olexandr Gladkiy","Eduardo",1
-"Olexandr Gladkiy","Vasyl Kobin",1
-"Taison","Andriy Pyatov",1
-"Taison","Olexandr Kucher",9
-"Taison","Taras Stepanenko",15
-"Taison","Fred",38
-"Taison","Marlos",29
-"Taison","Olexandr Gladkiy",8
-"Taison","Alex Teixeira",47
-"Taison","Darijo Srna",20
-"Taison","Yaroslav Rakitskiy",25
-"Taison","Márcio Azevedo",32
-"Taison","Maksym Malyshev",5
-"Taison","Eduardo",3
-"Taison","Viktor Kovalenko",2
-"Taison","Vyacheslav Shevchuk",5
-"Taison","Dentinho",2
-"Taison","Vasyl Kobin",3
-"Taison","Ismaily",5
-"Alex Teixeira","Olexandr Kucher",4
-"Alex Teixeira","Taras Stepanenko",10
-"Alex Teixeira","Fred",44
-"Alex Teixeira","Marlos",45
-"Alex Teixeira","Olexandr Gladkiy",22
-"Alex Teixeira","Taison",38
-"Alex Teixeira","Darijo Srna",37
-"Alex Teixeira","Yaroslav Rakitskiy",14
-"Alex Teixeira","Márcio Azevedo",8
-"Alex Teixeira","Bernard",11
-"Alex Teixeira","Maksym Malyshev",6
-"Alex Teixeira","Eduardo",7
-"Alex Teixeira","Serhiy Kryvtsov",1
-"Alex Teixeira","Viktor Kovalenko",3
-"Alex Teixeira","Vyacheslav Shevchuk",5
-"Alex Teixeira","Dentinho",2
-"Alex Teixeira","Ismaily",3
-"Alex Teixeira","Vasyl Kobin",2
-"Alex Teixeira","Facundo Ferreyra",3
-"Darijo Srna","Andriy Pyatov",20
-"Darijo Srna","Olexandr Kucher",90
-"Darijo Srna","Taras Stepanenko",23
-"Darijo Srna","Fred",82
-"Darijo Srna","Marlos",61
-"Darijo Srna","Olexandr Gladkiy",12
-"Darijo Srna","Taison",12
-"Darijo Srna","Alex Teixeira",37
-"Darijo Srna","Yaroslav Rakitskiy",17
-"Darijo Srna","Márcio Azevedo",5
-"Darijo Srna","Bernard",13
-"Darijo Srna","Maksym Malyshev",5
-"Darijo Srna","Eduardo",6
-"Darijo Srna","Serhiy Kryvtsov",5
-"Darijo Srna","Viktor Kovalenko",5
-"Darijo Srna","Vyacheslav Shevchuk",2
-"Darijo Srna","Dentinho",1
-"Darijo Srna","Ismaily",2
-"Darijo Srna","Anton Kanibolotskiy",9
-"Yaroslav Rakitskiy","Andriy Pyatov",48
-"Yaroslav Rakitskiy","Olexandr Kucher",38
-"Yaroslav Rakitskiy","Taras Stepanenko",18
-"Yaroslav Rakitskiy","Fred",34
-"Yaroslav Rakitskiy","Marlos",7
-"Yaroslav Rakitskiy","Olexandr Gladkiy",16
-"Yaroslav Rakitskiy","Taison",35
-"Yaroslav Rakitskiy","Alex Teixeira",14
-"Yaroslav Rakitskiy","Darijo Srna",27
-"Yaroslav Rakitskiy","Márcio Azevedo",25
-"Yaroslav Rakitskiy","Bernard",14
-"Yaroslav Rakitskiy","Maksym Malyshev",6
-"Yaroslav Rakitskiy","Eduardo",3
-"Yaroslav Rakitskiy","Serhiy Kryvtsov",5
-"Yaroslav Rakitskiy","Viktor Kovalenko",2
-"Yaroslav Rakitskiy","Vyacheslav Shevchuk",12
-"Yaroslav Rakitskiy","Dentinho",1
-"Yaroslav Rakitskiy","Ismaily",11
-"Yaroslav Rakitskiy","Anton Kanibolotskiy",8
-"Yaroslav Rakitskiy","Vasyl Kobin",6
-"Yaroslav Rakitskiy","Ivan Ordets",6
-"Márcio Azevedo","Andriy Pyatov",1
-"Márcio Azevedo","Olexandr Kucher",4
-"Márcio Azevedo","Taras Stepanenko",18
-"Márcio Azevedo","Fred",13
-"Márcio Azevedo","Marlos",8
-"Márcio Azevedo","Olexandr Gladkiy",4
-"Márcio Azevedo","Taison",29
-"Márcio Azevedo","Alex Teixeira",13
-"Márcio Azevedo","Darijo Srna",2
-"Márcio Azevedo","Yaroslav Rakitskiy",31
-"Márcio Azevedo","Bernard",25
-"Márcio Azevedo","Maksym Malyshev",2
-"Márcio Azevedo","Serhiy Kryvtsov",3
-"Márcio Azevedo","Viktor Kovalenko",1
-"Bernard","Andriy Pyatov",1
-"Bernard","Olexandr Kucher",7
-"Bernard","Taras Stepanenko",9
-"Bernard","Fred",24
-"Bernard","Marlos",21
-"Bernard","Olexandr Gladkiy",4
-"Bernard","Taison",1
-"Bernard","Alex Teixeira",16
-"Bernard","Darijo Srna",10
-"Bernard","Yaroslav Rakitskiy",8
-"Bernard","Márcio Azevedo",17
-"Bernard","Maksym Malyshev",4
-"Bernard","Eduardo",2
-"Bernard","Viktor Kovalenko",3
-"Bernard","Vyacheslav Shevchuk",5
-"Bernard","Dentinho",1
-"Bernard","Ismaily",7
-"Bernard","Vasyl Kobin",2
-"Bernard","Facundo Ferreyra",1
-"Maksym Malyshev","Andriy Pyatov",3
-"Maksym Malyshev","Olexandr Kucher",12
-"Maksym Malyshev","Fred",9
-"Maksym Malyshev","Marlos",5
-"Maksym Malyshev","Olexandr Gladkiy",3
-"Maksym Malyshev","Taison",5
-"Maksym Malyshev","Alex Teixeira",7
-"Maksym Malyshev","Darijo Srna",12
-"Maksym Malyshev","Yaroslav Rakitskiy",13
-"Maksym Malyshev","Márcio Azevedo",1
-"Maksym Malyshev","Bernard",4
-"Maksym Malyshev","Eduardo",1
-"Maksym Malyshev","Viktor Kovalenko",1
-"Maksym Malyshev","Vyacheslav Shevchuk",6
-"Maksym Malyshev","Dentinho",1
-"Eduardo","Olexandr Kucher",2
-"Eduardo","Taras Stepanenko",3
-"Eduardo","Fred",3
-"Eduardo","Marlos",4
-"Eduardo","Taison",5
-"Eduardo","Alex Teixeira",4
-"Eduardo","Darijo Srna",4
-"Eduardo","Yaroslav Rakitskiy",5
-"Eduardo","Márcio Azevedo",1
-"Eduardo","Bernard",3
-"Eduardo","Maksym Malyshev",1
-"Eduardo","Ismaily",1
-"Eduardo","Viktor Kovalenko",1
-"Serhiy Kryvtsov","Andriy Pyatov",9
-"Serhiy Kryvtsov","Taras Stepanenko",5
-"Serhiy Kryvtsov","Fred",2
-"Serhiy Kryvtsov","Marlos",3
-"Serhiy Kryvtsov","Olexandr Gladkiy",3
-"Serhiy Kryvtsov","Darijo Srna",10
-"Serhiy Kryvtsov","Yaroslav Rakitskiy",2
-"Viktor Kovalenko","Taras Stepanenko",4
-"Viktor Kovalenko","Fred",3
-"Viktor Kovalenko","Marlos",1
-"Viktor Kovalenko","Olexandr Gladkiy",1
-"Viktor Kovalenko","Taison",2
-"Viktor Kovalenko","Alex Teixeira",10
-"Viktor Kovalenko","Darijo Srna",2
-"Viktor Kovalenko","Márcio Azevedo",3
-"Viktor Kovalenko","Bernard",1
-"Viktor Kovalenko","Maksym Malyshev",1
-"Viktor Kovalenko","Dentinho",2
-"Viktor Kovalenko","Eduardo",1
-"Vyacheslav Shevchuk","Andriy Pyatov",5
-"Vyacheslav Shevchuk","Fred",3
-"Vyacheslav Shevchuk","Maksym Malyshev",6
-"Vyacheslav Shevchuk","Olexandr Gladkiy",1
-"Vyacheslav Shevchuk","Taison",6
-"Vyacheslav Shevchuk","Alex Teixeira",1
-"Vyacheslav Shevchuk","Yaroslav Rakitskiy",8
-"Vyacheslav Shevchuk","Bernard",3
-"Vyacheslav Shevchuk","Viktor Kovalenko",1
-"Dentinho","Fred",3
-"Dentinho","Maksym Malyshev",1
-"Dentinho","Taison",2
-"Dentinho","Alex Teixeira",1
-"Dentinho","Yaroslav Rakitskiy",3
-"Dentinho","Bernard",2
-"Dentinho","Viktor Kovalenko",3
-"Dentinho","Vasyl Kobin",1
-"Dentinho","Ivan Ordets",2
-"Ismaily","Taras Stepanenko",4
-"Ismaily","Fred",5
-"Ismaily","Bernard",22
-"Ismaily","Marlos",3
-"Ismaily","Olexandr Gladkiy",3
-"Ismaily","Alex Teixeira",7
-"Ismaily","Darijo Srna",1
-"Ismaily","Yaroslav Rakitskiy",14
-"Ismaily","Eduardo",3
-"Ismaily","Anton Kanibolotskiy",1
-"Ismaily","Taison",4
-"Anton Kanibolotskiy","Olexandr Kucher",14
-"Anton Kanibolotskiy","Taras Stepanenko",2
-"Anton Kanibolotskiy","Fred",3
-"Anton Kanibolotskiy","Olexandr Gladkiy",1
-"Anton Kanibolotskiy","Alex Teixeira",1
-"Anton Kanibolotskiy","Darijo Srna",5
-"Anton Kanibolotskiy","Yaroslav Rakitskiy",6
-"Anton Kanibolotskiy","Márcio Azevedo",2
-"Anton Kanibolotskiy","Eduardo",2
-"Anton Kanibolotskiy","Ismaily",3
-"Vasyl Kobin","Andriy Pyatov",2
-"Vasyl Kobin","Taras Stepanenko",1
-"Vasyl Kobin","Fred",9
-"Vasyl Kobin","Bernard",5
-"Vasyl Kobin","Marlos",7
-"Vasyl Kobin","Ivan Ordets",6
-"Vasyl Kobin","Olexandr Gladkiy",1
-"Vasyl Kobin","Alex Teixeira",2
-"Vasyl Kobin","Dentinho",1
-"Vasyl Kobin","Taison",2
-"Ivan Ordets","Andriy Pyatov",8
-"Ivan Ordets","Taras Stepanenko",2
-"Ivan Ordets","Fred",2
-"Ivan Ordets","Bernard",1
-"Ivan Ordets","Marlos",4
-"Ivan Ordets","Vasyl Kobin",6
-"Ivan Ordets","Olexandr Gladkiy",2
-"Ivan Ordets","Alex Teixeira",1
-"Ivan Ordets","Yaroslav Rakitskiy",7
-"Ivan Ordets","Márcio Azevedo",1
-"Ivan Ordets","Dentinho",1
-"Ivan Ordets","Taison",1
-"Facundo Ferreyra","Fred",1
-"Facundo Ferreyra","Vasyl Kobin",1
-"Facundo Ferreyra","Taison",2
+Source,Target,Weight
+"30","5",50
+"30","6",4
+"30","8",13
+"30","11",4
+"30","21",12
+"30","28",3
+"30","29",1
+"30","33",19
+"30","44",32
+"30","66",11
+"30","10",2
+"30","17",3
+"30","22",1
+"30","38",7
+"30","74",1
+"30","13",3
+"30","31",2
+"30","14",3
+"30","18",3
+"5","30",31
+"5","6",27
+"5","8",53
+"5","11",29
+"5","21",11
+"5","28",10
+"5","29",13
+"5","33",108
+"5","44",38
+"5","66",5
+"5","10",7
+"5","17",7
+"5","22",7
+"5","74",5
+"5","13",5
+"5","31",3
+"5","32",12
+"6","30",7
+"6","5",33
+"6","8",29
+"6","11",10
+"6","21",6
+"6","28",16
+"6","29",15
+"6","33",19
+"6","44",40
+"6","66",19
+"6","10",10
+"6","22",3
+"6","38",4
+"6","74",2
+"6","31",17
+"6","14",1
+"6","18",2
+"6","9",1
+"8","30",10
+"8","5",41
+"8","6",26
+"8","11",86
+"8","21",5
+"8","28",38
+"8","29",56
+"8","33",96
+"8","44",31
+"8","66",19
+"8","10",25
+"8","17",9
+"8","22",4
+"8","38",7
+"8","74",3
+"8","13",6
+"8","9",3
+"8","31",10
+"8","32",2
+"8","14",8
+"8","18",6
+"11","30",1
+"11","5",19
+"11","6",17
+"11","8",71
+"11","21",2
+"11","28",30
+"11","29",31
+"11","33",81
+"11","44",13
+"11","66",11
+"11","10",15
+"11","17",4
+"11","22",3
+"11","38",4
+"11","74",1
+"11","13",1
+"11","31",9
+"11","14",9
+"11","18",5
+"21","6",7
+"21","8",11
+"21","11",18
+"21","28",9
+"21","29",29
+"21","33",1
+"21","44",6
+"21","10",1
+"21","17",2
+"21","22",1
+"21","14",1
+"28","30",1
+"28","5",9
+"28","6",15
+"28","8",38
+"28","11",29
+"28","21",8
+"28","29",47
+"28","33",20
+"28","44",25
+"28","66",32
+"28","17",5
+"28","22",3
+"28","74",2
+"28","13",5
+"28","9",2
+"28","14",3
+"28","31",5
+"29","5",4
+"29","6",10
+"29","8",44
+"29","11",45
+"29","21",22
+"29","28",38
+"29","33",37
+"29","44",14
+"29","66",8
+"29","10",11
+"29","17",6
+"29","22",7
+"29","38",1
+"29","74",3
+"29","13",5
+"29","9",2
+"29","31",3
+"29","14",2
+"29","19",3
+"33","30",20
+"33","5",90
+"33","6",23
+"33","8",82
+"33","11",61
+"33","21",12
+"33","28",12
+"33","29",37
+"33","44",17
+"33","66",5
+"33","10",13
+"33","17",5
+"33","22",6
+"33","38",5
+"33","74",5
+"33","13",2
+"33","9",1
+"33","31",2
+"33","32",9
+"44","30",48
+"44","5",38
+"44","6",18
+"44","8",34
+"44","11",7
+"44","21",16
+"44","28",35
+"44","29",14
+"44","33",27
+"44","66",25
+"44","10",14
+"44","17",6
+"44","22",3
+"44","38",5
+"44","74",2
+"44","13",12
+"44","9",1
+"44","31",11
+"44","32",8
+"44","14",6
+"44","18",6
+"66","30",1
+"66","5",4
+"66","6",18
+"66","8",13
+"66","11",8
+"66","21",4
+"66","28",29
+"66","29",13
+"66","33",2
+"66","44",31
+"66","10",25
+"66","17",2
+"66","38",3
+"66","74",1
+"10","30",1
+"10","5",7
+"10","6",9
+"10","8",24
+"10","11",21
+"10","21",4
+"10","28",1
+"10","29",16
+"10","33",10
+"10","44",8
+"10","66",17
+"10","17",4
+"10","22",2
+"10","74",3
+"10","13",5
+"10","9",1
+"10","31",7
+"10","14",2
+"10","19",1
+"17","30",3
+"17","5",12
+"17","8",9
+"17","11",5
+"17","21",3
+"17","28",5
+"17","29",7
+"17","33",12
+"17","44",13
+"17","66",1
+"17","10",4
+"17","22",1
+"17","74",1
+"17","13",6
+"17","9",1
+"22","5",2
+"22","6",3
+"22","8",3
+"22","11",4
+"22","28",5
+"22","29",4
+"22","33",4
+"22","44",5
+"22","66",1
+"22","10",3
+"22","17",1
+"22","31",1
+"22","74",1
+"38","30",9
+"38","6",5
+"38","8",2
+"38","11",3
+"38","21",3
+"38","33",10
+"38","44",2
+"74","6",4
+"74","8",3
+"74","11",1
+"74","21",1
+"74","28",2
+"74","29",10
+"74","33",2
+"74","66",3
+"74","10",1
+"74","17",1
+"74","9",2
+"74","22",1
+"13","30",5
+"13","8",3
+"13","17",6
+"13","21",1
+"13","28",6
+"13","29",1
+"13","44",8
+"13","10",3
+"13","74",1
+"9","8",3
+"9","17",1
+"9","28",2
+"9","29",1
+"9","44",3
+"9","10",2
+"9","74",3
+"9","14",1
+"9","18",2
+"31","6",4
+"31","8",5
+"31","10",22
+"31","11",3
+"31","21",3
+"31","29",7
+"31","33",1
+"31","44",14
+"31","22",3
+"31","32",1
+"31","28",4
+"32","5",14
+"32","6",2
+"32","8",3
+"32","21",1
+"32","29",1
+"32","33",5
+"32","44",6
+"32","66",2
+"32","22",2
+"32","31",3
+"14","30",2
+"14","6",1
+"14","8",9
+"14","10",5
+"14","11",7
+"14","18",6
+"14","21",1
+"14","29",2
+"14","9",1
+"14","28",2
+"18","30",8
+"18","6",2
+"18","8",2
+"18","10",1
+"18","11",4
+"18","14",6
+"18","21",2
+"18","29",1
+"18","44",7
+"18","66",1
+"18","9",1
+"18","28",1
+"19","8",1
+"19","14",1
+"19","28",2

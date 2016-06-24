@@ -1,339 +1,340 @@
-"Roberto","Giannis Maniatis",7
-"Roberto","Paulo Machado",6
-"Roberto","Kostas Mitroglou",16
-"Roberto","Andreas Samaris",16
-"Roberto","David Fuster",4
-"Roberto","Carl Medjani",1
-"Roberto","Dimitris Siovas",22
-"Roberto","Alejandro Domínguez",2
-"Roberto","Vladimír Weiss",5
-"Roberto","Gaëtan Bong",6
-"Roberto","Javier Saviola",3
-"Roberto","Joel Campbell",7
-"Roberto","Sambou Yatabaré",3
-"Roberto","Delvin N'Dinga",9
-"Roberto","Kostas Manolas",24
-"Roberto","Michael Olaitan",2
-"Roberto","José Holebas",14
-"Roberto","Leandro Salino",7
-"Roberto","Hernán Peréz",5
-"Roberto","Iván Marcano",15
-"Roberto","Nelson Valdez",5
-"Giannis Maniatis","Roberto",12
-"Giannis Maniatis","Paulo Machado",2
-"Giannis Maniatis","Kostas Mitroglou",17
-"Giannis Maniatis","Andreas Samaris",16
-"Giannis Maniatis","David Fuster",24
-"Giannis Maniatis","Carl Medjani",6
-"Giannis Maniatis","Dimitris Siovas",7
-"Giannis Maniatis","Alejandro Domínguez",22
-"Giannis Maniatis","Vladimír Weiss",11
-"Giannis Maniatis","Gaëtan Bong",8
-"Giannis Maniatis","Javier Saviola",11
-"Giannis Maniatis","Joel Campbell",16
-"Giannis Maniatis","Sambou Yatabaré",2
-"Giannis Maniatis","Delvin N'Dinga",12
-"Giannis Maniatis","Kostas Manolas",10
-"Giannis Maniatis","Michael Olaitan",8
-"Giannis Maniatis","José Holebas",16
-"Giannis Maniatis","Leandro Salino",25
-"Giannis Maniatis","Hernán Peréz",6
-"Giannis Maniatis","Iván Marcano",4
-"Paulo Machado","Roberto",1
-"Paulo Machado","Giannis Maniatis",8
-"Paulo Machado","Andreas Samaris",16
-"Paulo Machado","David Fuster",7
-"Paulo Machado","Carl Medjani",1
-"Paulo Machado","Dimitris Siovas",5
-"Paulo Machado","Alejandro Domínguez",6
-"Paulo Machado","Vladimír Weiss",6
-"Paulo Machado","Gaëtan Bong",6
-"Paulo Machado","Javier Saviola",1
-"Paulo Machado","Joel Campbell",7
-"Paulo Machado","Sambou Yatabaré",1
-"Paulo Machado","José Holebas",3
-"Paulo Machado","Kostas Manolas",9
-"Paulo Machado","Leandro Salino",5
-"Paulo Machado","Michael Olaitan",1
-"Paulo Machado","Hernán Peréz",1
-"Paulo Machado","Iván Marcano",1
-"Kostas Mitroglou","Roberto",1
-"Kostas Mitroglou","Giannis Maniatis",8
-"Kostas Mitroglou","Paulo Machado",3
-"Kostas Mitroglou","Andreas Samaris",10
-"Kostas Mitroglou","David Fuster",14
-"Kostas Mitroglou","Alejandro Domínguez",11
-"Kostas Mitroglou","Vladimír Weiss",11
-"Kostas Mitroglou","Gaëtan Bong",1
-"Kostas Mitroglou","Javier Saviola",6
-"Kostas Mitroglou","Joel Campbell",1
-"Kostas Mitroglou","Delvin N'Dinga",3
-"Kostas Mitroglou","Kostas Manolas",2
-"Kostas Mitroglou","Michael Olaitan",1
-"Kostas Mitroglou","José Holebas",5
-"Kostas Mitroglou","Leandro Salino",4
-"Andreas Samaris","Roberto",5
-"Andreas Samaris","Giannis Maniatis",26
-"Andreas Samaris","Paulo Machado",12
-"Andreas Samaris","Kostas Mitroglou",10
-"Andreas Samaris","David Fuster",21
-"Andreas Samaris","Carl Medjani",5
-"Andreas Samaris","Dimitris Siovas",33
-"Andreas Samaris","Alejandro Domínguez",27
-"Andreas Samaris","Vladimír Weiss",11
-"Andreas Samaris","Gaëtan Bong",6
-"Andreas Samaris","Javier Saviola",9
-"Andreas Samaris","Joel Campbell",16
-"Andreas Samaris","Sambou Yatabaré",3
-"Andreas Samaris","Delvin N'Dinga",6
-"Andreas Samaris","Kostas Manolas",21
-"Andreas Samaris","Michael Olaitan",4
-"Andreas Samaris","José Holebas",22
-"Andreas Samaris","Leandro Salino",12
-"David Fuster","Roberto",1
-"David Fuster","Giannis Maniatis",17
-"David Fuster","Paulo Machado",2
-"David Fuster","Kostas Mitroglou",19
-"David Fuster","Andreas Samaris",19
-"David Fuster","Dimitris Siovas",7
-"David Fuster","Alejandro Domínguez",20
-"David Fuster","Vladimír Weiss",8
-"David Fuster","Javier Saviola",6
-"David Fuster","Joel Campbell",10
-"David Fuster","Sambou Yatabaré",1
-"David Fuster","Delvin N'Dinga",4
-"David Fuster","Kostas Manolas",6
-"David Fuster","Michael Olaitan",4
-"David Fuster","José Holebas",12
-"David Fuster","Leandro Salino",4
-"Carl Medjani","Roberto",5
-"Carl Medjani","Giannis Maniatis",6
-"Carl Medjani","Paulo Machado",2
-"Carl Medjani","Andreas Samaris",2
-"Carl Medjani","David Fuster",2
-"Carl Medjani","Dimitris Siovas",3
-"Carl Medjani","Vladimír Weiss",1
-"Dimitris Siovas","Roberto",33
-"Dimitris Siovas","Giannis Maniatis",6
-"Dimitris Siovas","Paulo Machado",6
-"Dimitris Siovas","Kostas Mitroglou",5
-"Dimitris Siovas","Andreas Samaris",28
-"Dimitris Siovas","David Fuster",7
-"Dimitris Siovas","Carl Medjani",3
-"Dimitris Siovas","Alejandro Domínguez",10
-"Dimitris Siovas","Vladimír Weiss",6
-"Dimitris Siovas","Gaëtan Bong",8
-"Dimitris Siovas","Javier Saviola",7
-"Dimitris Siovas","Joel Campbell",5
-"Dimitris Siovas","Sambou Yatabaré",1
-"Dimitris Siovas","Delvin N'Dinga",3
-"Dimitris Siovas","Kostas Manolas",20
-"Dimitris Siovas","Michael Olaitan",1
-"Dimitris Siovas","José Holebas",22
-"Dimitris Siovas","Leandro Salino",2
-"Alejandro Domínguez","Roberto",1
-"Alejandro Domínguez","Giannis Maniatis",34
-"Alejandro Domínguez","Paulo Machado",7
-"Alejandro Domínguez","Kostas Mitroglou",11
-"Alejandro Domínguez","Andreas Samaris",15
-"Alejandro Domínguez","David Fuster",16
-"Alejandro Domínguez","Dimitris Siovas",5
-"Alejandro Domínguez","Vladimír Weiss",17
-"Alejandro Domínguez","Gaëtan Bong",4
-"Alejandro Domínguez","Javier Saviola",1
-"Alejandro Domínguez","Joel Campbell",15
-"Alejandro Domínguez","Sambou Yatabaré",2
-"Alejandro Domínguez","Delvin N'Dinga",11
-"Alejandro Domínguez","Kostas Manolas",3
-"Alejandro Domínguez","Michael Olaitan",5
-"Alejandro Domínguez","José Holebas",20
-"Alejandro Domínguez","Leandro Salino",13
-"Alejandro Domínguez","Hernán Peréz",7
-"Alejandro Domínguez","Iván Marcano",2
-"Alejandro Domínguez","Nelson Valdez",1
-"Vladimír Weiss","Giannis Maniatis",6
-"Vladimír Weiss","Paulo Machado",3
-"Vladimír Weiss","Kostas Mitroglou",8
-"Vladimír Weiss","Andreas Samaris",10
-"Vladimír Weiss","David Fuster",9
-"Vladimír Weiss","Carl Medjani",1
-"Vladimír Weiss","Dimitris Siovas",3
-"Vladimír Weiss","Alejandro Domínguez",11
-"Vladimír Weiss","Gaëtan Bong",6
-"Vladimír Weiss","Javier Saviola",10
-"Vladimír Weiss","Joel Campbell",8
-"Vladimír Weiss","Delvin N'Dinga",3
-"Vladimír Weiss","Kostas Manolas",1
-"Vladimír Weiss","Michael Olaitan",2
-"Vladimír Weiss","José Holebas",8
-"Gaëtan Bong","Roberto",1
-"Gaëtan Bong","Giannis Maniatis",7
-"Gaëtan Bong","Paulo Machado",11
-"Gaëtan Bong","Kostas Mitroglou",6
-"Gaëtan Bong","Andreas Samaris",6
-"Gaëtan Bong","David Fuster",4
-"Gaëtan Bong","Carl Medjani",2
-"Gaëtan Bong","Dimitris Siovas",7
-"Gaëtan Bong","Alejandro Domínguez",4
-"Gaëtan Bong","Vladimír Weiss",11
-"Gaëtan Bong","Javier Saviola",1
-"Gaëtan Bong","Joel Campbell",1
-"Gaëtan Bong","Delvin N'Dinga",4
-"Gaëtan Bong","José Holebas",4
-"Javier Saviola","Roberto",1
-"Javier Saviola","Giannis Maniatis",4
-"Javier Saviola","Paulo Machado",2
-"Javier Saviola","Kostas Mitroglou",3
-"Javier Saviola","Andreas Samaris",6
-"Javier Saviola","David Fuster",7
-"Javier Saviola","Alejandro Domínguez",4
-"Javier Saviola","Vladimír Weiss",9
-"Javier Saviola","Gaëtan Bong",4
-"Javier Saviola","Joel Campbell",2
-"Javier Saviola","Sambou Yatabaré",1
-"Javier Saviola","Michael Olaitan",3
-"Javier Saviola","José Holebas",6
-"Javier Saviola","Leandro Salino",3
-"Joel Campbell","Giannis Maniatis",12
-"Joel Campbell","Paulo Machado",5
-"Joel Campbell","Kostas Mitroglou",5
-"Joel Campbell","Andreas Samaris",10
-"Joel Campbell","David Fuster",7
-"Joel Campbell","Dimitris Siovas",3
-"Joel Campbell","Alejandro Domínguez",14
-"Joel Campbell","Vladimír Weiss",1
-"Joel Campbell","Gaëtan Bong",2
-"Joel Campbell","Javier Saviola",6
-"Joel Campbell","José Holebas",5
-"Joel Campbell","Kostas Manolas",6
-"Joel Campbell","Leandro Salino",14
-"Joel Campbell","Michael Olaitan",7
-"Joel Campbell","Delvin N'Dinga",6
-"Joel Campbell","Hernán Peréz",4
-"Joel Campbell","Nelson Valdez",3
-"Sambou Yatabaré","Giannis Maniatis",5
-"Sambou Yatabaré","Kostas Mitroglou",2
-"Sambou Yatabaré","Andreas Samaris",2
-"Sambou Yatabaré","Dimitris Siovas",1
-"Sambou Yatabaré","Alejandro Domínguez",3
-"Sambou Yatabaré","Javier Saviola",2
-"Sambou Yatabaré","Kostas Manolas",1
-"Sambou Yatabaré","Leandro Salino",5
-"Sambou Yatabaré","Delvin N'Dinga",1
-"Delvin N'Dinga","Roberto",5
-"Delvin N'Dinga","Giannis Maniatis",20
-"Delvin N'Dinga","Javier Saviola",2
-"Delvin N'Dinga","Kostas Mitroglou",6
-"Delvin N'Dinga","Andreas Samaris",2
-"Delvin N'Dinga","Dimitris Siovas",5
-"Delvin N'Dinga","Kostas Manolas",12
-"Delvin N'Dinga","Vladimír Weiss",2
-"Delvin N'Dinga","Gaëtan Bong",2
-"Delvin N'Dinga","Michael Olaitan",3
-"Delvin N'Dinga","David Fuster",9
-"Delvin N'Dinga","José Holebas",18
-"Delvin N'Dinga","Alejandro Domínguez",18
-"Delvin N'Dinga","Leandro Salino",17
-"Delvin N'Dinga","Sambou Yatabaré",1
-"Delvin N'Dinga","Paulo Machado",1
-"Delvin N'Dinga","Joel Campbell",8
-"Delvin N'Dinga","Hernán Peréz",2
-"Delvin N'Dinga","Iván Marcano",10
-"Delvin N'Dinga","Nelson Valdez",1
-"Kostas Manolas","Roberto",25
-"Kostas Manolas","Giannis Maniatis",18
-"Kostas Manolas","Delvin N'Dinga",9
-"Kostas Manolas","Javier Saviola",2
-"Kostas Manolas","Kostas Mitroglou",5
-"Kostas Manolas","Andreas Samaris",28
-"Kostas Manolas","Dimitris Siovas",28
-"Kostas Manolas","Vladimír Weiss",2
-"Kostas Manolas","Gaëtan Bong",2
-"Kostas Manolas","Michael Olaitan",3
-"Kostas Manolas","David Fuster",7
-"Kostas Manolas","José Holebas",9
-"Kostas Manolas","Alejandro Domínguez",12
-"Kostas Manolas","Leandro Salino",21
-"Kostas Manolas","Sambou Yatabaré",3
-"Kostas Manolas","Joel Campbell",4
-"Kostas Manolas","Paulo Machado",5
-"Kostas Manolas","Iván Marcano",6
-"Kostas Manolas","Nelson Valdez",1
-"Michael Olaitan","Giannis Maniatis",1
-"Michael Olaitan","Delvin N'Dinga",5
-"Michael Olaitan","Javier Saviola",6
-"Michael Olaitan","Andreas Samaris",6
-"Michael Olaitan","Dimitris Siovas",1
-"Michael Olaitan","Vladimír Weiss",3
-"Michael Olaitan","David Fuster",1
-"Michael Olaitan","José Holebas",2
-"Michael Olaitan","Alejandro Domínguez",7
-"Michael Olaitan","Paulo Machado",1
-"Michael Olaitan","Joel Campbell",8
-"Michael Olaitan","Leandro Salino",3
-"Michael Olaitan","Hernán Peréz",2
-"Michael Olaitan","Nelson Valdez",1
-"José Holebas","Roberto",6
-"José Holebas","Giannis Maniatis",11
-"José Holebas","Delvin N'Dinga",14
-"José Holebas","Javier Saviola",6
-"José Holebas","Kostas Mitroglou",6
-"José Holebas","Andreas Samaris",21
-"José Holebas","Dimitris Siovas",14
-"José Holebas","Kostas Manolas",8
-"José Holebas","Vladimír Weiss",19
-"José Holebas","Gaëtan Bong",3
-"José Holebas","Michael Olaitan",8
-"José Holebas","David Fuster",18
-"José Holebas","Alejandro Domínguez",24
-"José Holebas","Leandro Salino",1
-"José Holebas","Sambou Yatabaré",1
-"José Holebas","Joel Campbell",4
-"José Holebas","Hernán Peréz",8
-"José Holebas","Iván Marcano",7
-"José Holebas","Nelson Valdez",1
-"Leandro Salino","Roberto",4
-"Leandro Salino","Giannis Maniatis",29
-"Leandro Salino","Kostas Mitroglou",8
-"Leandro Salino","Andreas Samaris",9
-"Leandro Salino","David Fuster",8
-"Leandro Salino","José Holebas",1
-"Leandro Salino","Dimitris Siovas",2
-"Leandro Salino","Kostas Manolas",17
-"Leandro Salino","Alejandro Domínguez",12
-"Leandro Salino","Vladimír Weiss",2
-"Leandro Salino","Delvin N'Dinga",16
-"Leandro Salino","Sambou Yatabaré",11
-"Leandro Salino","Javier Saviola",2
-"Leandro Salino","Gaëtan Bong",1
-"Leandro Salino","Joel Campbell",43
-"Leandro Salino","Paulo Machado",7
-"Leandro Salino","Michael Olaitan",7
-"Leandro Salino","Hernán Peréz",9
-"Leandro Salino","Iván Marcano",1
-"Leandro Salino","Nelson Valdez",2
-"Hernán Peréz","Giannis Maniatis",1
-"Hernán Peréz","Delvin N'Dinga",3
-"Hernán Peréz","José Holebas",2
-"Hernán Peréz","Joel Campbell",5
-"Hernán Peréz","Leandro Salino",2
-"Hernán Peréz","Alejandro Domínguez",9
-"Hernán Peréz","Michael Olaitan",1
-"Hernán Peréz","David Fuster",1
-"Iván Marcano","Roberto",11
-"Iván Marcano","Giannis Maniatis",3
-"Iván Marcano","Delvin N'Dinga",16
-"Iván Marcano","Hernán Peréz",3
-"Iván Marcano","José Holebas",8
-"Iván Marcano","Kostas Manolas",9
-"Iván Marcano","Leandro Salino",1
-"Iván Marcano","Alejandro Domínguez",5
-"Iván Marcano","Michael Olaitan",3
-"Iván Marcano","Paulo Machado",1
-"Iván Marcano","Nelson Valdez",1
-"Iván Marcano","David Fuster",5
-"Nelson Valdez","Joel Campbell",3
-"Nelson Valdez","Alejandro Domínguez",3
-"Nelson Valdez","Michael Olaitan",1
-"Nelson Valdez","Nikos Vergos",1
-"Nikos Vergos","Joel Campbell",1
+Source,Target,Weight
+"16","2",7
+"16","5",6
+"16","11",16
+"16","14",16
+"16","19",4
+"16","22",1
+"16","23",22
+"16","35",2
+"16","79",5
+"16","88",6
+"16","9",3
+"16","26",7
+"16","60",3
+"16","8",9
+"16","24",24
+"16","99",2
+"16","20",14
+"16","30",7
+"16","17",5
+"16","25",15
+"16","18",5
+"2","16",12
+"2","5",2
+"2","11",17
+"2","14",16
+"2","19",24
+"2","22",6
+"2","23",7
+"2","35",22
+"2","79",11
+"2","88",8
+"2","9",11
+"2","26",16
+"2","60",2
+"2","8",12
+"2","24",10
+"2","99",8
+"2","20",16
+"2","30",25
+"2","17",6
+"2","25",4
+"5","16",1
+"5","2",8
+"5","14",16
+"5","19",7
+"5","22",1
+"5","23",5
+"5","35",6
+"5","79",6
+"5","88",6
+"5","9",1
+"5","26",7
+"5","60",1
+"5","20",3
+"5","24",9
+"5","30",5
+"5","99",1
+"5","17",1
+"5","25",1
+"11","16",1
+"11","2",8
+"11","5",3
+"11","14",10
+"11","19",14
+"11","35",11
+"11","79",11
+"11","88",1
+"11","9",6
+"11","26",1
+"11","8",3
+"11","24",2
+"11","99",1
+"11","20",5
+"11","30",4
+"14","16",5
+"14","2",26
+"14","5",12
+"14","11",10
+"14","19",21
+"14","22",5
+"14","23",33
+"14","35",27
+"14","79",11
+"14","88",6
+"14","9",9
+"14","26",16
+"14","60",3
+"14","8",6
+"14","24",21
+"14","99",4
+"14","20",22
+"14","30",12
+"19","16",1
+"19","2",17
+"19","5",2
+"19","11",19
+"19","14",19
+"19","23",7
+"19","35",20
+"19","79",8
+"19","9",6
+"19","26",10
+"19","60",1
+"19","8",4
+"19","24",6
+"19","99",4
+"19","20",12
+"19","30",4
+"22","16",5
+"22","2",6
+"22","5",2
+"22","14",2
+"22","19",2
+"22","23",3
+"22","79",1
+"23","16",33
+"23","2",6
+"23","5",6
+"23","11",5
+"23","14",28
+"23","19",7
+"23","22",3
+"23","35",10
+"23","79",6
+"23","88",8
+"23","9",7
+"23","26",5
+"23","60",1
+"23","8",3
+"23","24",20
+"23","99",1
+"23","20",22
+"23","30",2
+"35","16",1
+"35","2",34
+"35","5",7
+"35","11",11
+"35","14",15
+"35","19",16
+"35","23",5
+"35","79",17
+"35","88",4
+"35","9",1
+"35","26",15
+"35","60",2
+"35","8",11
+"35","24",3
+"35","99",5
+"35","20",20
+"35","30",13
+"35","17",7
+"35","25",2
+"35","18",1
+"79","2",6
+"79","5",3
+"79","11",8
+"79","14",10
+"79","19",9
+"79","22",1
+"79","23",3
+"79","35",11
+"79","88",6
+"79","9",10
+"79","26",8
+"79","8",3
+"79","24",1
+"79","99",2
+"79","20",8
+"88","16",1
+"88","2",7
+"88","5",11
+"88","11",6
+"88","14",6
+"88","19",4
+"88","22",2
+"88","23",7
+"88","35",4
+"88","79",11
+"88","9",1
+"88","26",1
+"88","8",4
+"88","20",4
+"9","16",1
+"9","2",4
+"9","5",2
+"9","11",3
+"9","14",6
+"9","19",7
+"9","35",4
+"9","79",9
+"9","88",4
+"9","26",2
+"9","60",1
+"9","99",3
+"9","20",6
+"9","30",3
+"26","2",12
+"26","5",5
+"26","11",5
+"26","14",10
+"26","19",7
+"26","23",3
+"26","35",14
+"26","79",1
+"26","88",2
+"26","9",6
+"26","20",5
+"26","24",6
+"26","30",14
+"26","99",7
+"26","8",6
+"26","17",4
+"26","18",3
+"60","2",5
+"60","11",2
+"60","14",2
+"60","23",1
+"60","35",3
+"60","9",2
+"60","24",1
+"60","30",5
+"60","8",1
+"8","16",5
+"8","2",20
+"8","9",2
+"8","11",6
+"8","14",2
+"8","23",5
+"8","24",12
+"8","79",2
+"8","88",2
+"8","99",3
+"8","19",9
+"8","20",18
+"8","35",18
+"8","30",17
+"8","60",1
+"8","5",1
+"8","26",8
+"8","17",2
+"8","25",10
+"8","18",1
+"24","16",25
+"24","2",18
+"24","8",9
+"24","9",2
+"24","11",5
+"24","14",28
+"24","23",28
+"24","79",2
+"24","88",2
+"24","99",3
+"24","19",7
+"24","20",9
+"24","35",12
+"24","30",21
+"24","60",3
+"24","26",4
+"24","5",5
+"24","25",6
+"24","18",1
+"99","2",1
+"99","8",5
+"99","9",6
+"99","14",6
+"99","23",1
+"99","79",3
+"99","19",1
+"99","20",2
+"99","35",7
+"99","5",1
+"99","26",8
+"99","30",3
+"99","17",2
+"99","18",1
+"20","16",6
+"20","2",11
+"20","8",14
+"20","9",6
+"20","11",6
+"20","14",21
+"20","23",14
+"20","24",8
+"20","79",19
+"20","88",3
+"20","99",8
+"20","19",18
+"20","35",24
+"20","30",1
+"20","60",1
+"20","26",4
+"20","17",8
+"20","25",7
+"20","18",1
+"30","16",4
+"30","2",29
+"30","11",8
+"30","14",9
+"30","19",8
+"30","20",1
+"30","23",2
+"30","24",17
+"30","35",12
+"30","79",2
+"30","8",16
+"30","60",11
+"30","9",2
+"30","88",1
+"30","26",43
+"30","5",7
+"30","99",7
+"30","17",9
+"30","25",1
+"30","18",2
+"17","2",1
+"17","8",3
+"17","20",2
+"17","26",5
+"17","30",2
+"17","35",9
+"17","99",1
+"17","19",1
+"25","16",11
+"25","2",3
+"25","8",16
+"25","17",3
+"25","20",8
+"25","24",9
+"25","30",1
+"25","35",5
+"25","99",3
+"25","5",1
+"25","18",1
+"25","19",5
+"18","26",3
+"18","35",3
+"18","99",1
+"18","28",1
+"28","26",1

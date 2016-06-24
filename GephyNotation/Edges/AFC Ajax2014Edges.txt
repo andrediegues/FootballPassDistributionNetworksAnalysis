@@ -1,327 +1,328 @@
-"Kenneth Vermeer","Ricardo van Rhijn",5
-"Kenneth Vermeer","Niklas Moisander",4
-"Kenneth Vermeer","Christian Poulsen",6
-"Kenneth Vermeer","Lerin Duarte",1
-"Kenneth Vermeer","Kolbeinn Sigthórsson",3
-"Kenneth Vermeer","Siem de Jong",1
-"Kenneth Vermeer","Bojan Krkić",1
-"Kenneth Vermeer","Nicolai Boilesen",2
-"Kenneth Vermeer","Daley Blind",7
-"Kenneth Vermeer","Stefano Denswil",9
-"Kenneth Vermeer","Mike van der Hoorn",2
-"Ricardo van Rhijn","Kenneth Vermeer",9
-"Ricardo van Rhijn","Niklas Moisander",50
-"Ricardo van Rhijn","Christian Poulsen",23
-"Ricardo van Rhijn","Lerin Duarte",6
-"Ricardo van Rhijn","Kolbeinn Sigthórsson",10
-"Ricardo van Rhijn","Siem de Jong",26
-"Ricardo van Rhijn","Bojan Krkić",17
-"Ricardo van Rhijn","Nicolai Boilesen",1
-"Ricardo van Rhijn","Daley Blind",17
-"Ricardo van Rhijn","Stefano Denswil",12
-"Ricardo van Rhijn","Mike van der Hoorn",4
-"Ricardo van Rhijn","Thulani Serero",11
-"Ricardo van Rhijn","Jasper Cillessen",19
-"Ricardo van Rhijn","Viktor Fischer",7
-"Ricardo van Rhijn","Lesley de Sa",9
-"Ricardo van Rhijn","Lucas Andersen",6
-"Ricardo van Rhijn","Lasse Schöne",21
-"Ricardo van Rhijn","Jöel Veltman",15
-"Ricardo van Rhijn","Davy Klaassen",12
-"Ricardo van Rhijn","Danny Hoesen",7
-"Niklas Moisander","Kenneth Vermeer",3
-"Niklas Moisander","Ricardo van Rhijn",45
-"Niklas Moisander","Christian Poulsen",22
-"Niklas Moisander","Lerin Duarte",11
-"Niklas Moisander","Kolbeinn Sigthórsson",7
-"Niklas Moisander","Siem de Jong",5
-"Niklas Moisander","Bojan Krkić",3
-"Niklas Moisander","Nicolai Boilesen",3
-"Niklas Moisander","Daley Blind",22
-"Niklas Moisander","Stefano Denswil",59
-"Niklas Moisander","Thulani Serero",9
-"Niklas Moisander","Jasper Cillessen",8
-"Niklas Moisander","Viktor Fischer",6
-"Niklas Moisander","Lesley de Sa",6
-"Niklas Moisander","Lucas Andersen",1
-"Niklas Moisander","Lasse Schöne",8
-"Niklas Moisander","Jöel Veltman",12
-"Niklas Moisander","Davy Klaassen",5
-"Christian Poulsen","Kenneth Vermeer",4
-"Christian Poulsen","Ricardo van Rhijn",21
-"Christian Poulsen","Niklas Moisander",31
-"Christian Poulsen","Lerin Duarte",13
-"Christian Poulsen","Kolbeinn Sigthórsson",5
-"Christian Poulsen","Siem de Jong",14
-"Christian Poulsen","Bojan Krkić",4
-"Christian Poulsen","Nicolai Boilesen",5
-"Christian Poulsen","Daley Blind",43
-"Christian Poulsen","Stefano Denswil",37
-"Christian Poulsen","Mike van der Hoorn",2
-"Christian Poulsen","Thulani Serero",11
-"Christian Poulsen","Jasper Cillessen",9
-"Christian Poulsen","Viktor Fischer",8
-"Christian Poulsen","Lesley de Sa",3
-"Christian Poulsen","Lucas Andersen",4
-"Christian Poulsen","Lasse Schöne",5
-"Christian Poulsen","Jöel Veltman",7
-"Christian Poulsen","Davy Klaassen",6
-"Lerin Duarte","Ricardo van Rhijn",3
-"Lerin Duarte","Niklas Moisander",9
-"Lerin Duarte","Christian Poulsen",7
-"Lerin Duarte","Kolbeinn Sigthórsson",2
-"Lerin Duarte","Siem de Jong",1
-"Lerin Duarte","Bojan Krkić",6
-"Lerin Duarte","Nicolai Boilesen",3
-"Lerin Duarte","Daley Blind",9
-"Lerin Duarte","Stefano Denswil",17
-"Lerin Duarte","Lasse Schøne",2
-"Lerin Duarte","Thulani Serero",5
-"Lerin Duarte","Jasper Cillessen",2
-"Lerin Duarte","Viktor Fischer",5
-"Lerin Duarte","Lesley de Sa",2
-"Kolbeinn Sigthórsson","Ricardo van Rhijn",4
-"Kolbeinn Sigthórsson","Niklas Moisander",3
-"Kolbeinn Sigthórsson","Christian Poulsen",1
-"Kolbeinn Sigthórsson","Lerin Duarte",3
-"Kolbeinn Sigthórsson","Siem de Jong",17
-"Kolbeinn Sigthórsson","Bojan Krkić",6
-"Kolbeinn Sigthórsson","Nicolai Boilesen",8
-"Kolbeinn Sigthórsson","Daley Blind",11
-"Kolbeinn Sigthórsson","Stefano Denswil",1
-"Kolbeinn Sigthórsson","Lasse Schøne",1
-"Kolbeinn Sigthórsson","Thulani Serero",7
-"Kolbeinn Sigthórsson","Viktor Fischer",3
-"Kolbeinn Sigthórsson","Lesley de Sa",3
-"Kolbeinn Sigthórsson","Lucas Andersen",3
-"Kolbeinn Sigthórsson","Lasse Schöne",5
-"Kolbeinn Sigthórsson","Davy Klaassen",3
-"Kolbeinn Sigthórsson","Danny Hoesen",1
-"Siem de Jong","Kenneth Vermeer",1
-"Siem de Jong","Ricardo van Rhijn",22
-"Siem de Jong","Niklas Moisander",1
-"Siem de Jong","Christian Poulsen",6
-"Siem de Jong","Lerin Duarte",2
-"Siem de Jong","Kolbeinn Sigthórsson",18
-"Siem de Jong","Bojan Krkić",3
-"Siem de Jong","Daley Blind",7
-"Siem de Jong","Stefano Denswil",3
-"Siem de Jong","Thulani Serero",9
-"Siem de Jong","Viktor Fischer",8
-"Siem de Jong","Lesley de Sa",8
-"Siem de Jong","Lucas Andersen",6
-"Siem de Jong","Lasse Schöne",8
-"Siem de Jong","Jöel Veltman",1
-"Siem de Jong","Davy Klaassen",2
-"Bojan Krkić","Ricardo van Rhijn",14
-"Bojan Krkić","Niklas Moisander",5
-"Bojan Krkić","Christian Poulsen",5
-"Bojan Krkić","Lerin Duarte",2
-"Bojan Krkić","Kolbeinn Sigthórsson",2
-"Bojan Krkić","Siem de Jong",2
-"Bojan Krkić","Nicolai Boilesen",4
-"Bojan Krkić","Daley Blind",11
-"Bojan Krkić","Stefano Denswil",4
-"Bojan Krkić","Mike van der Hoorn",1
-"Bojan Krkić","Lasse Schøne",1
-"Bojan Krkić","Thulani Serero",3
-"Bojan Krkić","Jasper Cillessen",1
-"Bojan Krkić","Davy Klaassen",3
-"Bojan Krkić","Lasse Schöne",3
-"Bojan Krkić","Danny Hoesen",1
-"Nicolai Boilesen","Ricardo van Rhijn",2
-"Nicolai Boilesen","Niklas Moisander",3
-"Nicolai Boilesen","Christian Poulsen",6
-"Nicolai Boilesen","Lerin Duarte",3
-"Nicolai Boilesen","Kolbeinn Sigthórsson",11
-"Nicolai Boilesen","Siem de Jong",4
-"Nicolai Boilesen","Bojan Krkić",5
-"Nicolai Boilesen","Daley Blind",18
-"Nicolai Boilesen","Stefano Denswil",15
-"Nicolai Boilesen","Lasse Schøne",2
-"Nicolai Boilesen","Thulani Serero",12
-"Nicolai Boilesen","Jasper Cillessen",10
-"Nicolai Boilesen","Viktor Fischer",2
-"Nicolai Boilesen","Jöel Veltman",5
-"Nicolai Boilesen","Lucas Andersen",2
-"Nicolai Boilesen","Lasse Schöne",3
-"Nicolai Boilesen","Davy Klaassen",2
-"Nicolai Boilesen","Danny Hoesen",3
-"Daley Blind","Kenneth Vermeer",1
-"Daley Blind","Ricardo van Rhijn",16
-"Daley Blind","Niklas Moisander",24
-"Daley Blind","Christian Poulsen",28
-"Daley Blind","Lerin Duarte",13
-"Daley Blind","Kolbeinn Sigthórsson",14
-"Daley Blind","Siem de Jong",11
-"Daley Blind","Bojan Krkić",11
-"Daley Blind","Nicolai Boilesen",17
-"Daley Blind","Stefano Denswil",71
-"Daley Blind","Thulani Serero",40
-"Daley Blind","Jasper Cillessen",13
-"Daley Blind","Viktor Fischer",31
-"Daley Blind","Lesley de Sa",4
-"Daley Blind","Lucas Andersen",4
-"Daley Blind","Lasse Schöne",22
-"Daley Blind","Jöel Veltman",16
-"Daley Blind","Davy Klaassen",8
-"Daley Blind","Danny Hoesen",10
-"Stefano Denswil","Kenneth Vermeer",6
-"Stefano Denswil","Ricardo van Rhijn",13
-"Stefano Denswil","Niklas Moisander",50
-"Stefano Denswil","Christian Poulsen",44
-"Stefano Denswil","Lerin Duarte",12
-"Stefano Denswil","Kolbeinn Sigthórsson",11
-"Stefano Denswil","Siem de Jong",13
-"Stefano Denswil","Bojan Krkić",4
-"Stefano Denswil","Nicolai Boilesen",19
-"Stefano Denswil","Daley Blind",87
-"Stefano Denswil","Mike van der Hoorn",1
-"Stefano Denswil","Thulani Serero",26
-"Stefano Denswil","Jasper Cillessen",33
-"Stefano Denswil","Viktor Fischer",10
-"Stefano Denswil","Lucas Andersen",3
-"Stefano Denswil","Lasse Schöne",9
-"Stefano Denswil","Jöel Veltman",13
-"Stefano Denswil","Davy Klaassen",9
-"Stefano Denswil","Danny Hoesen",2
-"Mike van der Hoorn","Kenneth Vermeer",4
-"Mike van der Hoorn","Ricardo van Rhijn",1
-"Mike van der Hoorn","Kolbeinn Sigthórsson",2
-"Mike van der Hoorn","Daley Blind",2
-"Mike van der Hoorn","Stefano Denswil",2
-"Mike van der Hoorn","Jasper Cillessen",1
-"Mike van der Hoorn","Viktor Fischer",1
-"Mike van der Hoorn","Lucas Andersen",1
-"Lasse Schøne","Bojan Krkić",2
-"Lasse Schøne","Nicolai Boilesen",1
-"Lasse Schøne","Thulani Serero",1
-"Thulani Serero","Ricardo van Rhijn",13
-"Thulani Serero","Niklas Moisander",3
-"Thulani Serero","Christian Poulsen",20
-"Thulani Serero","Lerin Duarte",2
-"Thulani Serero","Kolbeinn Sigthórsson",6
-"Thulani Serero","Siem de Jong",4
-"Thulani Serero","Bojan Krkić",5
-"Thulani Serero","Nicolai Boilesen",12
-"Thulani Serero","Daley Blind",41
-"Thulani Serero","Stefano Denswil",15
-"Thulani Serero","Mike van der Hoorn",1
-"Thulani Serero","Jasper Cillessen",2
-"Thulani Serero","Viktor Fischer",23
-"Thulani Serero","Jöel Veltman",4
-"Thulani Serero","Lucas Andersen",7
-"Thulani Serero","Lasse Schöne",9
-"Thulani Serero","Lesley de Sa",1
-"Thulani Serero","Davy Klaassen",10
-"Thulani Serero","Danny Hoesen",5
-"Jasper Cillessen","Ricardo van Rhijn",9
-"Jasper Cillessen","Niklas Moisander",21
-"Jasper Cillessen","Christian Poulsen",10
-"Jasper Cillessen","Viktor Fischer",5
-"Jasper Cillessen","Lerin Duarte",1
-"Jasper Cillessen","Kolbeinn Sigthórsson",3
-"Jasper Cillessen","Siem de Jong",1
-"Jasper Cillessen","Daley Blind",19
-"Jasper Cillessen","Stefano Denswil",40
-"Jasper Cillessen","Mike van der Hoorn",2
-"Jasper Cillessen","Lucas Andersen",1
-"Jasper Cillessen","Lasse Schöne",6
-"Jasper Cillessen","Jöel Veltman",29
-"Jasper Cillessen","Thulani Serero",4
-"Jasper Cillessen","Nicolai Boilesen",8
-"Jasper Cillessen","Davy Klaassen",7
-"Jasper Cillessen","Danny Hoesen",3
-"Viktor Fischer","Jasper Cillessen",3
-"Viktor Fischer","Ricardo van Rhijn",2
-"Viktor Fischer","Niklas Moisander",5
-"Viktor Fischer","Christian Poulsen",10
-"Viktor Fischer","Lerin Duarte",3
-"Viktor Fischer","Kolbeinn Sigthórsson",2
-"Viktor Fischer","Siem de Jong",13
-"Viktor Fischer","Daley Blind",20
-"Viktor Fischer","Stefano Denswil",9
-"Viktor Fischer","Lucas Andersen",6
-"Viktor Fischer","Lasse Schöne",5
-"Viktor Fischer","Jöel Veltman",2
-"Viktor Fischer","Thulani Serero",14
-"Viktor Fischer","Nicolai Boilesen",8
-"Viktor Fischer","Davy Klaassen",5
-"Viktor Fischer","Danny Hoesen",6
-"Viktor Fischer","Bojan Krkić",3
-"Lesley de Sa","Ricardo van Rhijn",13
-"Lesley de Sa","Niklas Moisander",1
-"Lesley de Sa","Christian Poulsen",2
-"Lesley de Sa","Lerin Duarte",1
-"Lesley de Sa","Kolbeinn Sigthórsson",1
-"Lesley de Sa","Siem de Jong",3
-"Lesley de Sa","Stefano Denswil",1
-"Lesley de Sa","Lasse Schöne",2
-"Lesley de Sa","Jöel Veltman",1
-"Lesley de Sa","Thulani Serero",2
-"Lucas Andersen","Ricardo van Rhijn",5
-"Lucas Andersen","Christian Poulsen",2
-"Lucas Andersen","Viktor Fischer",4
-"Lucas Andersen","Kolbeinn Sigthórsson",6
-"Lucas Andersen","Siem de Jong",2
-"Lucas Andersen","Daley Blind",2
-"Lucas Andersen","Stefano Denswil",1
-"Lucas Andersen","Lesley de Sa",1
-"Lucas Andersen","Lasse Schöne",1
-"Lucas Andersen","Jöel Veltman",2
-"Lucas Andersen","Thulani Serero",6
-"Lucas Andersen","Nicolai Boilesen",2
-"Lasse Schöne","Ricardo van Rhijn",29
-"Lasse Schöne","Niklas Moisander",7
-"Lasse Schöne","Christian Poulsen",3
-"Lasse Schöne","Viktor Fischer",2
-"Lasse Schöne","Kolbeinn Sigthórsson",8
-"Lasse Schöne","Siem de Jong",10
-"Lasse Schöne","Daley Blind",17
-"Lasse Schöne","Stefano Denswil",13
-"Lasse Schöne","Lesley de Sa",1
-"Lasse Schöne","Lucas Andersen",2
-"Lasse Schöne","Jöel Veltman",2
-"Lasse Schöne","Thulani Serero",8
-"Lasse Schöne","Nicolai Boilesen",6
-"Lasse Schöne","Davy Klaassen",9
-"Lasse Schöne","Danny Hoesen",5
-"Lasse Schöne","Bojan Krkić",1
-"Jöel Veltman","Jasper Cillessen",32
-"Jöel Veltman","Ricardo van Rhijn",15
-"Jöel Veltman","Christian Poulsen",5
-"Jöel Veltman","Viktor Fischer",3
-"Jöel Veltman","Kolbeinn Sigthórsson",4
-"Jöel Veltman","Siem de Jong",6
-"Jöel Veltman","Lucas Andersen",3
-"Jöel Veltman","Daley Blind",12
-"Jöel Veltman","Stefano Denswil",20
-"Jöel Veltman","Thulani Serero",9
-"Jöel Veltman","Nicolai Boilesen",5
-"Jöel Veltman","Lasse Schöne",6
-"Jöel Veltman","Davy Klaassen",9
-"Jöel Veltman","Niklas Moisander",6
-"Davy Klaassen","Jasper Cillessen",2
-"Davy Klaassen","Ricardo van Rhijn",15
-"Davy Klaassen","Siem de Jong",2
-"Davy Klaassen","Jöel Veltman",7
-"Davy Klaassen","Nicolai Boilesen",1
-"Davy Klaassen","Daley Blind",7
-"Davy Klaassen","Lasse Schöne",11
-"Davy Klaassen","Stefano Denswil",2
-"Davy Klaassen","Thulani Serero",12
-"Davy Klaassen","Christian Poulsen",4
-"Davy Klaassen","Viktor Fischer",8
-"Davy Klaassen","Danny Hoesen",4
-"Davy Klaassen","Bojan Krkić",7
-"Danny Hoesen","Ricardo van Rhijn",2
-"Danny Hoesen","Niklas Moisander",1
-"Danny Hoesen","Viktor Fischer",7
-"Danny Hoesen","Nicolai Boilesen",1
-"Danny Hoesen","Daley Blind",1
-"Danny Hoesen","Davy Klaassen",3
-"Danny Hoesen","Lasse Schöne",3
-"Danny Hoesen","Thulani Serero",3
-"Danny Hoesen","Christian Poulsen",1
-"Danny Hoesen","Stefano Denswil",2
-"Danny Hoesen","Bojan Krkić",2
+Source,Target,Weight
+"1","2",5
+"1","4",4
+"1","5",6
+"1","8",1
+"1","9",3
+"1","10",1
+"1","11",1
+"1","15",2
+"1","17",7
+"1","24",9
+"1","6",2
+"2","1",9
+"2","4",50
+"2","5",23
+"2","8",6
+"2","9",10
+"2","10",26
+"2","11",17
+"2","15",1
+"2","17",17
+"2","24",12
+"2","6",4
+"2","25",11
+"2","22",19
+"2","7",7
+"2","34",9
+"2","16",6
+"2","20",21
+"2","12",15
+"2","18",12
+"2","23",7
+"4","1",3
+"4","2",45
+"4","5",22
+"4","8",11
+"4","9",7
+"4","10",5
+"4","11",3
+"4","15",3
+"4","17",22
+"4","24",59
+"4","25",9
+"4","22",8
+"4","7",6
+"4","34",6
+"4","16",1
+"4","20",8
+"4","12",12
+"4","18",5
+"5","1",4
+"5","2",21
+"5","4",31
+"5","8",13
+"5","9",5
+"5","10",14
+"5","11",4
+"5","15",5
+"5","17",43
+"5","24",37
+"5","6",2
+"5","25",11
+"5","22",9
+"5","7",8
+"5","34",3
+"5","16",4
+"5","20",5
+"5","12",7
+"5","18",6
+"8","2",3
+"8","4",9
+"8","5",7
+"8","9",2
+"8","10",1
+"8","11",6
+"8","15",3
+"8","17",9
+"8","24",17
+"8","20",2
+"8","25",5
+"8","22",2
+"8","7",5
+"8","34",2
+"9","2",4
+"9","4",3
+"9","5",1
+"9","8",3
+"9","10",17
+"9","11",6
+"9","15",8
+"9","17",11
+"9","24",1
+"9","20",1
+"9","25",7
+"9","7",3
+"9","34",3
+"9","16",3
+"9","20",5
+"9","18",3
+"9","23",1
+"10","1",1
+"10","2",22
+"10","4",1
+"10","5",6
+"10","8",2
+"10","9",18
+"10","11",3
+"10","17",7
+"10","24",3
+"10","25",9
+"10","7",8
+"10","34",8
+"10","16",6
+"10","20",8
+"10","12",1
+"10","18",2
+"11","2",14
+"11","4",5
+"11","5",5
+"11","8",2
+"11","9",2
+"11","10",2
+"11","15",4
+"11","17",11
+"11","24",4
+"11","6",1
+"11","20",1
+"11","25",3
+"11","22",1
+"11","18",3
+"11","20",3
+"11","23",1
+"15","2",2
+"15","4",3
+"15","5",6
+"15","8",3
+"15","9",11
+"15","10",4
+"15","11",5
+"15","17",18
+"15","24",15
+"15","20",2
+"15","25",12
+"15","22",10
+"15","7",2
+"15","12",5
+"15","16",2
+"15","20",3
+"15","18",2
+"15","23",3
+"17","1",1
+"17","2",16
+"17","4",24
+"17","5",28
+"17","8",13
+"17","9",14
+"17","10",11
+"17","11",11
+"17","15",17
+"17","24",71
+"17","25",40
+"17","22",13
+"17","7",31
+"17","34",4
+"17","16",4
+"17","20",22
+"17","12",16
+"17","18",8
+"17","23",10
+"24","1",6
+"24","2",13
+"24","4",50
+"24","5",44
+"24","8",12
+"24","9",11
+"24","10",13
+"24","11",4
+"24","15",19
+"24","17",87
+"24","6",1
+"24","25",26
+"24","22",33
+"24","7",10
+"24","16",3
+"24","20",9
+"24","12",13
+"24","18",9
+"24","23",2
+"6","1",4
+"6","2",1
+"6","9",2
+"6","17",2
+"6","24",2
+"6","22",1
+"6","7",1
+"6","16",1
+"20","11",2
+"20","15",1
+"20","25",1
+"25","2",13
+"25","4",3
+"25","5",20
+"25","8",2
+"25","9",6
+"25","10",4
+"25","11",5
+"25","15",12
+"25","17",41
+"25","24",15
+"25","6",1
+"25","22",2
+"25","7",23
+"25","12",4
+"25","16",7
+"25","20",9
+"25","34",1
+"25","18",10
+"25","23",5
+"22","2",9
+"22","4",21
+"22","5",10
+"22","7",5
+"22","8",1
+"22","9",3
+"22","10",1
+"22","17",19
+"22","24",40
+"22","6",2
+"22","16",1
+"22","20",6
+"22","12",29
+"22","25",4
+"22","15",8
+"22","18",7
+"22","23",3
+"7","22",3
+"7","2",2
+"7","4",5
+"7","5",10
+"7","8",3
+"7","9",2
+"7","10",13
+"7","17",20
+"7","24",9
+"7","16",6
+"7","20",5
+"7","12",2
+"7","25",14
+"7","15",8
+"7","18",5
+"7","23",6
+"7","11",3
+"34","2",13
+"34","4",1
+"34","5",2
+"34","8",1
+"34","9",1
+"34","10",3
+"34","24",1
+"34","20",2
+"34","12",1
+"34","25",2
+"16","2",5
+"16","5",2
+"16","7",4
+"16","9",6
+"16","10",2
+"16","17",2
+"16","24",1
+"16","34",1
+"16","20",1
+"16","12",2
+"16","25",6
+"16","15",2
+"20","2",29
+"20","4",7
+"20","5",3
+"20","7",2
+"20","9",8
+"20","10",10
+"20","17",17
+"20","24",13
+"20","34",1
+"20","16",2
+"20","12",2
+"20","25",8
+"20","15",6
+"20","18",9
+"20","23",5
+"20","11",1
+"12","22",32
+"12","2",15
+"12","5",5
+"12","7",3
+"12","9",4
+"12","10",6
+"12","16",3
+"12","17",12
+"12","24",20
+"12","25",9
+"12","15",5
+"12","20",6
+"12","18",9
+"12","4",6
+"18","22",2
+"18","2",15
+"18","10",2
+"18","12",7
+"18","15",1
+"18","17",7
+"18","20",11
+"18","24",2
+"18","25",12
+"18","5",4
+"18","7",8
+"18","23",4
+"18","11",7
+"23","2",2
+"23","4",1
+"23","7",7
+"23","15",1
+"23","17",1
+"23","18",3
+"23","20",3
+"23","25",3
+"23","5",1
+"23","24",2
+"23","11",2

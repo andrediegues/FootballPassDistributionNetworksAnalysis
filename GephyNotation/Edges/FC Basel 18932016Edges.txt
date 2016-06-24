@@ -1,124 +1,125 @@
-"Tomáš Vaclík","Marek Suchý",12
-"Tomáš Vaclík","Daniel Høegh",10
-"Tomáš Vaclík","Mohamed Elneny",4
-"Tomáš Vaclík","Breel Embolo",1
-"Tomáš Vaclík","Shkelzen Gashi",1
-"Michael Lang","Tomáš Vaclík",2
-"Michael Lang","Luca Zuffi",2
-"Michael Lang","Birkir Bjarnason",9
-"Michael Lang","Matías Delgado",5
-"Michael Lang","Marek Suchý",5
-"Michael Lang","Behrang Safari",1
-"Michael Lang","Daniel Høegh",8
-"Michael Lang","Mohamed Elneny",15
-"Michael Lang","Breel Embolo",5
-"Michael Lang","Shkelzen Gashi",3
-"Luca Zuffi","Michael Lang",4
-"Luca Zuffi","Birkir Bjarnason",6
-"Luca Zuffi","Matías Delgado",7
-"Luca Zuffi","Marek Suchý",9
-"Luca Zuffi","Behrang Safari",13
-"Luca Zuffi","Daniel Høegh",11
-"Luca Zuffi","Mohamed Elneny",18
-"Luca Zuffi","Breel Embolo",4
-"Luca Zuffi","Philipp Degen",2
-"Luca Zuffi","Shkelzen Gashi",4
-"Luca Zuffi","Jean-Paul Boëtius",2
-"Birkir Bjarnason","Michael Lang",3
-"Birkir Bjarnason","Luca Zuffi",4
-"Birkir Bjarnason","Matías Delgado",5
-"Birkir Bjarnason","Marek Suchý",7
-"Birkir Bjarnason","Behrang Safari",6
-"Birkir Bjarnason","Mohamed Elneny",4
-"Birkir Bjarnason","Breel Embolo",5
-"Birkir Bjarnason","Shkelzen Gashi",2
-"Birkir Bjarnason","Jean-Paul Boëtius",1
-"Matías Delgado","Michael Lang",6
-"Matías Delgado","Luca Zuffi",9
-"Matías Delgado","Birkir Bjarnason",6
-"Matías Delgado","Marek Suchý",3
-"Matías Delgado","Behrang Safari",1
-"Matías Delgado","Daniel Høegh",2
-"Matías Delgado","Mohamed Elneny",7
-"Matías Delgado","Breel Embolo",5
-"Matías Delgado","Shkelzen Gashi",2
-"Marek Suchý","Tomáš Vaclík",6
-"Marek Suchý","Michael Lang",8
-"Marek Suchý","Luca Zuffi",21
-"Marek Suchý","Birkir Bjarnason",8
-"Marek Suchý","Matías Delgado",3
-"Marek Suchý","Behrang Safari",12
-"Marek Suchý","Daniel Høegh",19
-"Marek Suchý","Mohamed Elneny",22
-"Marek Suchý","Breel Embolo",6
-"Marek Suchý","Shkelzen Gashi",5
-"Marek Suchý","Jean-Paul Boëtius",2
-"Behrang Safari","Tomáš Vaclík",3
-"Behrang Safari","Michael Lang",1
-"Behrang Safari","Luca Zuffi",5
-"Behrang Safari","Birkir Bjarnason",3
-"Behrang Safari","Matías Delgado",2
-"Behrang Safari","Marek Suchý",14
-"Behrang Safari","Marc Janko",1
-"Behrang Safari","Daniel Høegh",1
-"Behrang Safari","Mohamed Elneny",2
-"Behrang Safari","Breel Embolo",3
-"Behrang Safari","Shkelzen Gashi",2
-"Marc Janko","Luca Zuffi",1
-"Marc Janko","Matías Delgado",1
-"Daniel Høegh","Tomáš Vaclík",4
-"Daniel Høegh","Michael Lang",10
-"Daniel Høegh","Luca Zuffi",9
-"Daniel Høegh","Birkir Bjarnason",1
-"Daniel Høegh","Matías Delgado",2
-"Daniel Høegh","Marek Suchý",29
-"Daniel Høegh","Behrang Safari",1
-"Daniel Høegh","Mohamed Elneny",23
-"Daniel Høegh","Breel Embolo",2
-"Daniel Høegh","Shkelzen Gashi",4
-"Daniel Høegh","Jean-Paul Boëtius",4
-"Mohamed Elneny","Tomáš Vaclík",3
-"Mohamed Elneny","Michael Lang",20
-"Mohamed Elneny","Luca Zuffi",16
-"Mohamed Elneny","Birkir Bjarnason",6
-"Mohamed Elneny","Matías Delgado",9
-"Mohamed Elneny","Marek Suchý",14
-"Mohamed Elneny","Behrang Safari",4
-"Mohamed Elneny","Daniel Høegh",19
-"Mohamed Elneny","Breel Embolo",6
-"Mohamed Elneny","Philipp Degen",4
-"Mohamed Elneny","Shkelzen Gashi",4
-"Mohamed Elneny","Jean-Paul Boëtius",4
-"Breel Embolo","Michael Lang",2
-"Breel Embolo","Luca Zuffi",2
-"Breel Embolo","Birkir Bjarnason",5
-"Breel Embolo","Matías Delgado",4
-"Breel Embolo","Marek Suchý",1
-"Breel Embolo","Behrang Safari",1
-"Breel Embolo","Mohamed Elneny",2
-"Breel Embolo","Philipp Degen",1
-"Breel Embolo","Shkelzen Gashi",2
-"Breel Embolo","Jean-Paul Boëtius",1
-"Philipp Degen","Luca Zuffi",1
-"Philipp Degen","Birkir Bjarnason",1
-"Philipp Degen","Daniel Høegh",3
-"Philipp Degen","Mohamed Elneny",2
-"Philipp Degen","Breel Embolo",2
-"Philipp Degen","Shkelzen Gashi",2
-"Philipp Degen","Jean-Paul Boëtius",1
-"Shkelzen Gashi","Michael Lang",4
-"Shkelzen Gashi","Luca Zuffi",7
-"Shkelzen Gashi","Birkir Bjarnason",1
-"Shkelzen Gashi","Matías Delgado",4
-"Shkelzen Gashi","Marek Suchý",2
-"Shkelzen Gashi","Behrang Safari",2
-"Shkelzen Gashi","Daniel Høegh",2
-"Shkelzen Gashi","Mohamed Elneny",4
-"Shkelzen Gashi","Breel Embolo",1
-"Shkelzen Gashi","Jean-Paul Boëtius",2
-"Jean-Paul Boëtius","Luca Zuffi",1
-"Jean-Paul Boëtius","Daniel Høegh",3
-"Jean-Paul Boëtius","Mohamed Elneny",1
-"Jean-Paul Boëtius","Breel Embolo",2
-"Jean-Paul Boëtius","Philipp Degen",4
-"Jean-Paul Boëtius","Shkelzen Gashi",3
+Source,Target,Weight
+"1","17",12
+"1","26",10
+"1","33",4
+"1","36",1
+"1","11",1
+"5","1",2
+"5","7",2
+"5","8",9
+"5","10",5
+"5","17",5
+"5","19",1
+"5","26",8
+"5","33",15
+"5","36",5
+"5","11",3
+"7","5",4
+"7","8",6
+"7","10",7
+"7","17",9
+"7","19",13
+"7","26",11
+"7","33",18
+"7","36",4
+"7","4",2
+"7","11",4
+"7","77",2
+"8","5",3
+"8","7",4
+"8","10",5
+"8","17",7
+"8","19",6
+"8","33",4
+"8","36",5
+"8","11",2
+"8","77",1
+"10","5",6
+"10","7",9
+"10","8",6
+"10","17",3
+"10","19",1
+"10","26",2
+"10","33",7
+"10","36",5
+"10","11",2
+"17","1",6
+"17","5",8
+"17","7",21
+"17","8",8
+"17","10",3
+"17","19",12
+"17","26",19
+"17","33",22
+"17","36",6
+"17","11",5
+"17","77",2
+"19","1",3
+"19","5",1
+"19","7",5
+"19","8",3
+"19","10",2
+"19","17",14
+"19","21",1
+"19","26",1
+"19","33",2
+"19","36",3
+"19","11",2
+"21","7",1
+"21","10",1
+"26","1",4
+"26","5",10
+"26","7",9
+"26","8",1
+"26","10",2
+"26","17",29
+"26","19",1
+"26","33",23
+"26","36",2
+"26","11",4
+"26","77",4
+"33","1",3
+"33","5",20
+"33","7",16
+"33","8",6
+"33","10",9
+"33","17",14
+"33","19",4
+"33","26",19
+"33","36",6
+"33","4",4
+"33","11",4
+"33","77",4
+"36","5",2
+"36","7",2
+"36","8",5
+"36","10",4
+"36","17",1
+"36","19",1
+"36","33",2
+"36","4",1
+"36","11",2
+"36","77",1
+"4","7",1
+"4","8",1
+"4","26",3
+"4","33",2
+"4","36",2
+"4","11",2
+"4","77",1
+"11","5",4
+"11","7",7
+"11","8",1
+"11","10",4
+"11","17",2
+"11","19",2
+"11","26",2
+"11","33",4
+"11","36",1
+"11","77",2
+"77","7",1
+"77","26",3
+"77","33",1
+"77","36",2
+"77","4",4
+"77","11",3

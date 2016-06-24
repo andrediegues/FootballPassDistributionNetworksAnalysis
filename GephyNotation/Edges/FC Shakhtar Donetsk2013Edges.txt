@@ -1,239 +1,240 @@
-"Andriy Pyatov","Tomáš Hübschman",3
-"Andriy Pyatov","Olexandr Kucher",32
-"Andriy Pyatov","Fernandinho",11
-"Andriy Pyatov","Luiz Adriano",9
-"Andriy Pyatov","Willian",5
-"Andriy Pyatov","Henrik Mkhitaryan",7
-"Andriy Pyatov","Răzvan Raţ",21
-"Andriy Pyatov","Darijo Srna",15
-"Andriy Pyatov","Yaroslav Rakitskiy",29
-"Andriy Pyatov","Ilsinho",2
-"Andriy Pyatov","Alex Teixeira",2
-"Andriy Pyatov","Taras Stepanenko",6
-"Andriy Pyatov","Henrikh Mkhitaryan",3
-"Andriy Pyatov","Eduardo",2
-"Andriy Pyatov","Dmytro Chygrynskiy",1
-"Andriy Pyatov","Taison",1
-"Tomáš Hübschman","Andriy Pyatov",6
-"Tomáš Hübschman","Olexandr Kucher",26
-"Tomáš Hübschman","Fernandinho",38
-"Tomáš Hübschman","Luiz Adriano",1
-"Tomáš Hübschman","Willian",19
-"Tomáš Hübschman","Henrik Mkhitaryan",10
-"Tomáš Hübschman","Răzvan Raţ",27
-"Tomáš Hübschman","Darijo Srna",24
-"Tomáš Hübschman","Yaroslav Rakitskiy",30
-"Tomáš Hübschman","Ilsinho",2
-"Tomáš Hübschman","Douglas Costa",3
-"Tomáš Hübschman","Alex Teixeira",10
-"Tomáš Hübschman","Henrikh Mkhitaryan",6
-"Tomáš Hübschman","Dmytro Chygrynskiy",2
-"Tomáš Hübschman","Taison",4
-"Tomáš Hübschman","Eduardo",1
-"Olexandr Kucher","Andriy Pyatov",34
-"Olexandr Kucher","Tomáš Hübschman",26
-"Olexandr Kucher","Fernandinho",37
-"Olexandr Kucher","Luiz Adriano",10
-"Olexandr Kucher","Willian",12
-"Olexandr Kucher","Henrik Mkhitaryan",5
-"Olexandr Kucher","Răzvan Raţ",17
-"Olexandr Kucher","Darijo Srna",84
-"Olexandr Kucher","Yaroslav Rakitskiy",86
-"Olexandr Kucher","Ilsinho",5
-"Olexandr Kucher","Marko Dević",1
-"Olexandr Kucher","Douglas Costa",1
-"Olexandr Kucher","Alex Teixeira",18
-"Olexandr Kucher","Taras Stepanenko",7
-"Olexandr Kucher","Henrikh Mkhitaryan",2
-"Olexandr Kucher","Taison",1
-"Fernandinho","Andriy Pyatov",3
-"Fernandinho","Tomáš Hübschman",29
-"Fernandinho","Olexandr Kucher",30
-"Fernandinho","Luiz Adriano",13
-"Fernandinho","Willian",38
-"Fernandinho","Henrik Mkhitaryan",20
-"Fernandinho","Răzvan Raţ",28
-"Fernandinho","Darijo Srna",75
-"Fernandinho","Yaroslav Rakitskiy",21
-"Fernandinho","Ilsinho",9
-"Fernandinho","Marko Dević",3
-"Fernandinho","Douglas Costa",6
-"Fernandinho","Alex Teixeira",33
-"Fernandinho","Taras Stepanenko",7
-"Fernandinho","Henrikh Mkhitaryan",20
-"Fernandinho","Eduardo",2
-"Fernandinho","Dmytro Chygrynskiy",5
-"Luiz Adriano","Tomáš Hübschman",5
-"Luiz Adriano","Olexandr Kucher",4
-"Luiz Adriano","Fernandinho",15
-"Luiz Adriano","Willian",8
-"Luiz Adriano","Henrik Mkhitaryan",14
-"Luiz Adriano","Răzvan Raţ",4
-"Luiz Adriano","Darijo Srna",9
-"Luiz Adriano","Yaroslav Rakitskiy",4
-"Luiz Adriano","Ilsinho",1
-"Luiz Adriano","Douglas Costa",5
-"Luiz Adriano","Alex Teixeira",7
-"Luiz Adriano","Taras Stepanenko",1
-"Luiz Adriano","Henrikh Mkhitaryan",4
-"Luiz Adriano","Taison",1
-"Willian","Andriy Pyatov",5
-"Willian","Tomáš Hübschman",19
-"Willian","Olexandr Kucher",8
-"Willian","Fernandinho",43
-"Willian","Luiz Adriano",11
-"Willian","Henrik Mkhitaryan",16
-"Willian","Răzvan Raţ",27
-"Willian","Darijo Srna",30
-"Willian","Yaroslav Rakitskiy",14
-"Willian","Ilsinho",3
-"Willian","Alex Teixeira",11
-"Willian","Taras Stepanenko",8
-"Willian","Henrikh Mkhitaryan",7
-"Henrik Mkhitaryan","Andriy Pyatov",1
-"Henrik Mkhitaryan","Tomáš Hübschman",9
-"Henrik Mkhitaryan","Olexandr Kucher",4
-"Henrik Mkhitaryan","Fernandinho",14
-"Henrik Mkhitaryan","Luiz Adriano",5
-"Henrik Mkhitaryan","Willian",21
-"Henrik Mkhitaryan","Răzvan Raţ",7
-"Henrik Mkhitaryan","Darijo Srna",10
-"Henrik Mkhitaryan","Yaroslav Rakitskiy",4
-"Henrik Mkhitaryan","Ilsinho",2
-"Henrik Mkhitaryan","Douglas Costa",3
-"Henrik Mkhitaryan","Alex Teixeira",10
-"Răzvan Raţ","Andriy Pyatov",7
-"Răzvan Raţ","Tomáš Hübschman",24
-"Răzvan Raţ","Olexandr Kucher",18
-"Răzvan Raţ","Fernandinho",21
-"Răzvan Raţ","Luiz Adriano",7
-"Răzvan Raţ","Willian",43
-"Răzvan Raţ","Henrik Mkhitaryan",12
-"Răzvan Raţ","Darijo Srna",4
-"Răzvan Raţ","Yaroslav Rakitskiy",55
-"Răzvan Raţ","Ilsinho",4
-"Răzvan Raţ","Douglas Costa",8
-"Răzvan Raţ","Alex Teixeira",13
-"Răzvan Raţ","Taras Stepanenko",10
-"Răzvan Raţ","Henrikh Mkhitaryan",24
-"Răzvan Raţ","Eduardo",3
-"Răzvan Raţ","Dmytro Chygrynskiy",6
-"Răzvan Raţ","Taison",9
-"Darijo Srna","Andriy Pyatov",19
-"Darijo Srna","Tomáš Hübschman",23
-"Darijo Srna","Olexandr Kucher",72
-"Darijo Srna","Fernandinho",75
-"Darijo Srna","Luiz Adriano",11
-"Darijo Srna","Willian",23
-"Darijo Srna","Henrik Mkhitaryan",19
-"Darijo Srna","Răzvan Raţ",17
-"Darijo Srna","Yaroslav Rakitskiy",29
-"Darijo Srna","Ilsinho",11
-"Darijo Srna","Marko Dević",2
-"Darijo Srna","Douglas Costa",11
-"Darijo Srna","Alex Teixeira",34
-"Darijo Srna","Taras Stepanenko",9
-"Darijo Srna","Henrikh Mkhitaryan",16
-"Darijo Srna","Eduardo",2
-"Darijo Srna","Dmytro Chygrynskiy",7
-"Darijo Srna","Taison",2
-"Yaroslav Rakitskiy","Andriy Pyatov",20
-"Yaroslav Rakitskiy","Tomáš Hübschman",19
-"Yaroslav Rakitskiy","Olexandr Kucher",62
-"Yaroslav Rakitskiy","Fernandinho",21
-"Yaroslav Rakitskiy","Luiz Adriano",9
-"Yaroslav Rakitskiy","Willian",18
-"Yaroslav Rakitskiy","Henrik Mkhitaryan",12
-"Yaroslav Rakitskiy","Răzvan Raţ",57
-"Yaroslav Rakitskiy","Darijo Srna",22
-"Yaroslav Rakitskiy","Ilsinho",1
-"Yaroslav Rakitskiy","Marko Dević",2
-"Yaroslav Rakitskiy","Douglas Costa",2
-"Yaroslav Rakitskiy","Alex Teixeira",9
-"Yaroslav Rakitskiy","Taras Stepanenko",6
-"Yaroslav Rakitskiy","Henrikh Mkhitaryan",8
-"Yaroslav Rakitskiy","Eduardo",1
-"Yaroslav Rakitskiy","Dmytro Chygrynskiy",12
-"Ilsinho","Olexandr Kucher",3
-"Ilsinho","Fernandinho",9
-"Ilsinho","Willian",3
-"Ilsinho","Henrik Mkhitaryan",5
-"Ilsinho","Răzvan Raţ",1
-"Ilsinho","Darijo Srna",11
-"Ilsinho","Marko Dević",1
-"Ilsinho","Henrikh Mkhitaryan",1
-"Ilsinho","Eduardo",2
-"Marko Dević","Fernandinho",1
-"Marko Dević","Willian",1
-"Marko Dević","Henrik Mkhitaryan",1
-"Marko Dević","Răzvan Raţ",1
-"Marko Dević","Darijo Srna",2
-"Marko Dević","Taras Stepanenko",1
-"Marko Dević","Henrikh Mkhitaryan",1
-"Douglas Costa","Olexandr Kucher",1
-"Douglas Costa","Fernandinho",8
-"Douglas Costa","Luiz Adriano",2
-"Douglas Costa","Willian",1
-"Douglas Costa","Henrik Mkhitaryan",1
-"Douglas Costa","Răzvan Raţ",4
-"Douglas Costa","Darijo Srna",9
-"Douglas Costa","Yaroslav Rakitskiy",3
-"Douglas Costa","Alex Teixeira",2
-"Douglas Costa","Henrikh Mkhitaryan",4
-"Alex Teixeira","Tomáš Hübschman",8
-"Alex Teixeira","Olexandr Kucher",7
-"Alex Teixeira","Fernandinho",33
-"Alex Teixeira","Luiz Adriano",5
-"Alex Teixeira","Willian",9
-"Alex Teixeira","Henrik Mkhitaryan",4
-"Alex Teixeira","Răzvan Raţ",10
-"Alex Teixeira","Darijo Srna",42
-"Alex Teixeira","Yaroslav Rakitskiy",7
-"Alex Teixeira","Douglas Costa",1
-"Alex Teixeira","Taras Stepanenko",6
-"Alex Teixeira","Henrikh Mkhitaryan",6
-"Alex Teixeira","Dmytro Chygrynskiy",2
-"Alex Teixeira","Taison",4
-"Taras Stepanenko","Andriy Pyatov",6
-"Taras Stepanenko","Olexandr Kucher",13
-"Taras Stepanenko","Fernandinho",6
-"Taras Stepanenko","Willian",4
-"Taras Stepanenko","Henrikh Mkhitaryan",2
-"Taras Stepanenko","Răzvan Raţ",11
-"Taras Stepanenko","Alex Teixeira",3
-"Taras Stepanenko","Darijo Srna",9
-"Taras Stepanenko","Yaroslav Rakitskiy",8
-"Taras Stepanenko","Ilsinho",2
-"Henrikh Mkhitaryan","Andriy Pyatov",1
-"Henrikh Mkhitaryan","Olexandr Kucher",1
-"Henrikh Mkhitaryan","Taras Stepanenko",1
-"Henrikh Mkhitaryan","Fernandinho",11
-"Henrikh Mkhitaryan","Luiz Adriano",8
-"Henrikh Mkhitaryan","Willian",11
-"Henrikh Mkhitaryan","Răzvan Raţ",18
-"Henrikh Mkhitaryan","Alex Teixeira",5
-"Henrikh Mkhitaryan","Darijo Srna",15
-"Henrikh Mkhitaryan","Yaroslav Rakitskiy",3
-"Henrikh Mkhitaryan","Eduardo",1
-"Henrikh Mkhitaryan","Douglas Costa",6
-"Henrikh Mkhitaryan","Ilsinho",1
-"Henrikh Mkhitaryan","Marko Dević",4
-"Henrikh Mkhitaryan","Tomáš Hübschman",8
-"Henrikh Mkhitaryan","Taison",8
-"Eduardo","Fernandinho",2
-"Eduardo","Henrikh Mkhitaryan",5
-"Eduardo","Alex Teixeira",2
-"Eduardo","Darijo Srna",1
-"Eduardo","Douglas Costa",1
-"Dmytro Chygrynskiy","Tomáš Hübschman",1
-"Dmytro Chygrynskiy","Fernandinho",5
-"Dmytro Chygrynskiy","Răzvan Raţ",4
-"Dmytro Chygrynskiy","Taison",1
-"Dmytro Chygrynskiy","Darijo Srna",12
-"Dmytro Chygrynskiy","Yaroslav Rakitskiy",8
-"Taison","Tomáš Hübschman",7
-"Taison","Fernandinho",3
-"Taison","Henrikh Mkhitaryan",11
-"Taison","Răzvan Raţ",7
-"Taison","Alex Teixeira",5
-"Taison","Yaroslav Rakitskiy",2
+Source,Target,Weight
+"30","3",3
+"30","5",32
+"30","7",11
+"30","9",9
+"30","10",5
+"30","22",7
+"30","26",21
+"30","33",15
+"30","44",29
+"30","77",2
+"30","29",2
+"30","6",6
+"30","22",3
+"30","11",2
+"30","27",1
+"30","28",1
+"3","30",6
+"3","5",26
+"3","7",38
+"3","9",1
+"3","10",19
+"3","22",10
+"3","26",27
+"3","33",24
+"3","44",30
+"3","77",2
+"3","20",3
+"3","29",10
+"3","22",6
+"3","27",2
+"3","28",4
+"3","11",1
+"5","30",34
+"5","3",26
+"5","7",37
+"5","9",10
+"5","10",12
+"5","22",5
+"5","26",17
+"5","33",84
+"5","44",86
+"5","77",5
+"5","18",1
+"5","20",1
+"5","29",18
+"5","6",7
+"5","22",2
+"5","28",1
+"7","30",3
+"7","3",29
+"7","5",30
+"7","9",13
+"7","10",38
+"7","22",20
+"7","26",28
+"7","33",75
+"7","44",21
+"7","77",9
+"7","18",3
+"7","20",6
+"7","29",33
+"7","6",7
+"7","22",20
+"7","11",2
+"7","27",5
+"9","3",5
+"9","5",4
+"9","7",15
+"9","10",8
+"9","22",14
+"9","26",4
+"9","33",9
+"9","44",4
+"9","77",1
+"9","20",5
+"9","29",7
+"9","6",1
+"9","22",4
+"9","28",1
+"10","30",5
+"10","3",19
+"10","5",8
+"10","7",43
+"10","9",11
+"10","22",16
+"10","26",27
+"10","33",30
+"10","44",14
+"10","77",3
+"10","29",11
+"10","6",8
+"10","22",7
+"22","30",1
+"22","3",9
+"22","5",4
+"22","7",14
+"22","9",5
+"22","10",21
+"22","26",7
+"22","33",10
+"22","44",4
+"22","77",2
+"22","20",3
+"22","29",10
+"26","30",7
+"26","3",24
+"26","5",18
+"26","7",21
+"26","9",7
+"26","10",43
+"26","22",12
+"26","33",4
+"26","44",55
+"26","77",4
+"26","20",8
+"26","29",13
+"26","6",10
+"26","22",24
+"26","11",3
+"26","27",6
+"26","28",9
+"33","30",19
+"33","3",23
+"33","5",72
+"33","7",75
+"33","9",11
+"33","10",23
+"33","22",19
+"33","26",17
+"33","44",29
+"33","77",11
+"33","18",2
+"33","20",11
+"33","29",34
+"33","6",9
+"33","22",16
+"33","11",2
+"33","27",7
+"33","28",2
+"44","30",20
+"44","3",19
+"44","5",62
+"44","7",21
+"44","9",9
+"44","10",18
+"44","22",12
+"44","26",57
+"44","33",22
+"44","77",1
+"44","18",2
+"44","20",2
+"44","29",9
+"44","6",6
+"44","22",8
+"44","11",1
+"44","27",12
+"77","5",3
+"77","7",9
+"77","10",3
+"77","22",5
+"77","26",1
+"77","33",11
+"77","18",1
+"77","22",1
+"77","11",2
+"18","7",1
+"18","10",1
+"18","22",1
+"18","26",1
+"18","33",2
+"18","6",1
+"18","22",1
+"20","5",1
+"20","7",8
+"20","9",2
+"20","10",1
+"20","22",1
+"20","26",4
+"20","33",9
+"20","44",3
+"20","29",2
+"20","22",4
+"29","3",8
+"29","5",7
+"29","7",33
+"29","9",5
+"29","10",9
+"29","22",4
+"29","26",10
+"29","33",42
+"29","44",7
+"29","20",1
+"29","6",6
+"29","22",6
+"29","27",2
+"29","28",4
+"6","30",6
+"6","5",13
+"6","7",6
+"6","10",4
+"6","22",2
+"6","26",11
+"6","29",3
+"6","33",9
+"6","44",8
+"6","77",2
+"22","30",1
+"22","5",1
+"22","6",1
+"22","7",11
+"22","9",8
+"22","10",11
+"22","26",18
+"22","29",5
+"22","33",15
+"22","44",3
+"22","11",1
+"22","20",6
+"22","77",1
+"22","18",4
+"22","3",8
+"22","28",8
+"11","7",2
+"11","22",5
+"11","29",2
+"11","33",1
+"11","20",1
+"27","3",1
+"27","7",5
+"27","26",4
+"27","28",1
+"27","33",12
+"27","44",8
+"28","3",7
+"28","7",3
+"28","22",11
+"28","26",7
+"28","29",5
+"28","44",2
