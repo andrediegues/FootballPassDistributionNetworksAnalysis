@@ -7,7 +7,7 @@ public class Team {
 	String name;
 	String country;
 	Season season;
-	//boolean[][] players = new boolean[Player.numberOfPlayers][Season.numberOfSeasons];
+	boolean[][] teamsOfPlayer = new boolean[Player.totalPlayers][Season.totalSeasons];
 	LinkedList<Match> matches;
 	LinkedList<Player> players;
 	static int totalTeams = 0;
@@ -20,7 +20,7 @@ public class Team {
 	}
 	
 	public void addTeamPlayerInSeason(Player p, Season s){
-		//players[p.id][s.index] = true;
+		teamsOfPlayer[p.id][s.index] = true;
 		if(season == s && !players.contains(p)){
 			players.addFirst(p);
 		}

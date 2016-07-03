@@ -10,7 +10,7 @@ public class Player {
 	int totalTimePlayed = 0;
 	Season season;
 	LinkedList<Pass> passes;
-	//boolean[][] playedFor = new boolean[Team.numberOfTeams][Season.numberOfSeasons];
+	boolean[][] playedFor = new boolean[Team.totalTeams][Season.totalSeasons];
 	static int totalPlayers = 0;
 	
 	Player(Team t, Season s, int tn, String n, int ttp){
@@ -20,7 +20,7 @@ public class Player {
 		totalTimePlayed += ttp;
 		season = s;
 		passes = new LinkedList<Pass>();
-		//playedFor[t.id][s.index] = true;
+		playedFor[t.id][s.index] = true;
 	}
 	
 	public String toString(){

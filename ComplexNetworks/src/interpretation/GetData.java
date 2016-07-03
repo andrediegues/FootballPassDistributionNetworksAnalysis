@@ -38,7 +38,7 @@ public class GetData {
 			parseToTableNotation(s);
 			parseToGML(s);
 		}
-		//System.out.println("nr.Seasons: " + Season.totalSeasons + ", nr.Teams: " + Team.totalTeams + ", nr.Players: " + Player.totalPlayers);
+		System.out.println("nr.Seasons: " + Season.totalSeasons + ", nr.Teams: " + Team.totalTeams + ", nr.Players: " + Player.totalPlayers);
 	}
 	private static void collectData(File file, Season s, Season[] allSeasons) throws FileNotFoundException {
 		Scanner in = new Scanner(file);
