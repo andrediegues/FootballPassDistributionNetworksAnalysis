@@ -1,0 +1,25 @@
+\begin{thebibliography}{1}
+
+\bibitem{bastian2009gephi}
+Mathieu Bastian, Sebastien Heymann, Mathieu Jacomy, et~al.
+\newblock Gephi: an open source software for exploring and manipulating
+  networks.
+\newblock 2009.
+
+\bibitem{gephi}
+K.~Cherven.
+\newblock {\em Network Graph Analysis and Visualization with Gephi}.
+\newblock Community experience distilled. Packt Publishing, 2013.
+
+\bibitem{gml}
+Michael Himsolt.
+\newblock Gml: A portable graph file format.
+\newblock {\em Html page under http://www. fmi. uni-passau.
+  de/graphlet/gml/gml-tr. html, Universit{\"a}t Passau}, 1997.
+
+\bibitem{Newman}
+M.~E.~J. Newman.
+\newblock The structure and function of complex networks.
+\newblock {\em SIAM REVIEW}, 45:167--256, 2003.
+
+\end{thebibliography}
