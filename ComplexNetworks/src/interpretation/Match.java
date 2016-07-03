@@ -10,6 +10,7 @@ public class Match {
 	Player[] awayPositionsToPlayer;
 	int[][] homeAdjacencyMatrix;
 	int[][] awayAdjacencyMatrix;
+	static int totalMatches = 0;
 	
 	public Match(Team h, Team a, MatchScore score, MatchDate d, Player[] hptp, Player[] aptp, int[][] ham, int[][] aam){
 		home = h;

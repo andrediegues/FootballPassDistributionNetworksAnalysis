@@ -3,12 +3,14 @@ package interpretation;
 import java.util.LinkedList;
 
 public class Team {
+	int id = -1;
 	String name;
 	String country;
 	Season season;
 	//boolean[][] players = new boolean[Player.numberOfPlayers][Season.numberOfSeasons];
 	LinkedList<Match> matches;
 	LinkedList<Player> players;
+	static int totalTeams = 0;
 	
 	Team(String n, Season s){
 		name = n;

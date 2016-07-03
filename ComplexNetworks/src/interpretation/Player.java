@@ -3,6 +3,7 @@ package interpretation;
 import java.util.LinkedList;
 
 public class Player {
+	int id = -1;
 	Team team;
 	int teamNumber;
 	String name;
@@ -10,6 +11,7 @@ public class Player {
 	Season season;
 	LinkedList<Pass> passes;
 	//boolean[][] playedFor = new boolean[Team.numberOfTeams][Season.numberOfSeasons];
+	static int totalPlayers = 0;
 	
 	Player(Team t, Season s, int tn, String n, int ttp){
 		team = t;

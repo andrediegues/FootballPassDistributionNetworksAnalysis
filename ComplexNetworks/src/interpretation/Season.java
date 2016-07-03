@@ -4,13 +4,14 @@ import java.util.LinkedList;
 
 public class Season {
 	int year;
-	//int index;
+	int index;
 	LinkedList<Team> teams;
+	static int totalSeasons = 0;
 	
 	Season(int y){
 		year = y;
 		teams = new LinkedList<Team>();
-		//index = year - 2013;
+		index = year - 2013;
 	}
 	
 	public void addTeamToSeason(Team t){
