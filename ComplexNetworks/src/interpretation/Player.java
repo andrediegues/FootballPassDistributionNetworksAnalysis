@@ -40,4 +40,15 @@ public class Player {
 			passes.add(new Pass(this, p, numberOfPassesBetween));
 		}
 	}
+
+	public String find(Season s) {
+		// TODO Auto-generated method stub
+		for(int i = 0; i < s.players.size(); i++){
+			Player p = s.players.get(i);
+			if(this.id == p.id){
+				return p.team.name;
+			}
+		}
+		return null;
+	}
 }

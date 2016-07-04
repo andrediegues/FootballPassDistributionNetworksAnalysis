@@ -1,5 +1,6 @@
 package interpretation;
 
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -7,6 +8,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.LinkedList;
 import java.util.Scanner;
 
 public class GetData {
@@ -38,7 +40,31 @@ public class GetData {
 			parseToTableNotation(s);
 			parseToGML(s);
 		}
+		createTranfersFile(allSeasons);
 		System.out.println("nr.Seasons: " + Season.totalSeasons + ", nr.Teams: " + Team.totalTeams + ", nr.Players: " + Player.totalPlayers);
+	}
+	private static void createTranfersFile(Season[] allSeasons) throws IOException {
+		// TODO Auto-generated method stub
+		File file = new File("/home/andre/workspace/IIC/tranfers.txt");
+		BufferedWriter bw = new BufferedWriter(new FileWriter(file));
+		bw.write("ID\tName\t2013\t2014\t2015\t2016");
+		bw.append('\n');
+		boolean[] alreadySeen = new boolean[Player.totalPlayers];
+		for(int i = 0; i < allSeasons.length; i++){
+			Season s = allSeasons[i];
+			for(int j = 0; j < s.players.size(); j++){
+				Player p = s.players.get(j);
+				if(alreadySeen[p.id] == false){
+					alreadySeen[p.id] = true;
+					bw.write(p.id + "\t" + p.name + "\t");
+					for(int k = 0; k < allSeasons.length; k++){
+						bw.write(p.find(allSeasons[k]) + "\t");
+					}
+					bw.append('\n');
+				}
+			}
+		}
+		bw.close();
 	}
 	private static void collectData(File file, Season s, Season[] allSeasons) throws FileNotFoundException {
 		Scanner in = new Scanner(file);
@@ -236,6 +262,7 @@ public class GetData {
 				if(homeTeamPlayers[i].id == -1)
 					homeTeamPlayers[i].id = Player.totalPlayers++;
 				ht.players.addLast(homeTeamPlayers[i]);
+				s.addPlayerToSeason(homeTeamPlayers[i]);
 			}
 		}
 		for(int i = 0; i < numberOfPlayersAwayTeam; i++){
@@ -264,6 +291,7 @@ public class GetData {
 				if(awayTeamPlayers[i].id == -1)
 					awayTeamPlayers[i].id = Player.totalPlayers++;
 				at.players.addLast(awayTeamPlayers[i]);
+				s.addPlayerToSeason(awayTeamPlayers[i]);
 			}
 		}
 		match = new Match(ht, at, matchScore, date, homeTeamPlayers, awayTeamPlayers, matrixOfPassesHomeTeam, matrixOfPassesAwayTeam);

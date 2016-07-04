@@ -64,8 +64,7 @@ public class DataExtractor {
 						p.waitFor();
 						String pdfname = urlPdf.substring(32);
 						Process q = Runtime.getRuntime().exec("pdftotext -raw /home/andre/workspace/IIC/Uefa/" + pdfname);
-						q.waitFor();
-						//System.out.println(q.exitValue());	
+						q.waitFor();	
 						bw.write(pdfname.substring(0, 11) + ".txt");
 						bw.append("\n");
 					}

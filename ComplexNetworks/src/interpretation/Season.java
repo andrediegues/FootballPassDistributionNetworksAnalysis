@@ -6,11 +6,13 @@ public class Season {
 	int year;
 	int index;
 	LinkedList<Team> teams;
-	static int totalSeasons = 0;
+	LinkedList<Player> players;
+	public static int totalSeasons = 0;
 	
-	Season(int y){
+	public Season(int y){
 		year = y;
 		teams = new LinkedList<Team>();
+		players = new LinkedList<Player>();
 		index = year - 2013;
 	}
 	
@@ -21,6 +23,9 @@ public class Season {
 		else if(!teams.contains(t)){
 			teams.addFirst(t);
 		}
+	}
+	public void addPlayerToSeason(Player p){
+		players.addFirst(p);
 	}
 	
 	public String toString(){

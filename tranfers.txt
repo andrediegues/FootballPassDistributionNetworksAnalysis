@@ -1,0 +1,2033 @@
+ID	Name	2013	2014	2015	2016
+841	Cristian Tello	FC Barcelona	FC Barcelona	FC Porto	FC Porto	
+840	David Beckham	Paris Saint-Germain	null	null	null	
+839	Łukasz Fabiański	Arsenal FC	Arsenal FC	null	null	
+838	Jérémy Mathieu	Valencia CF	null	FC Barcelona	FC Barcelona	
+837	Kevin Gameiro	Paris Saint-Germain	null	null	Sevilla FC	
+836	Thiago Motta	Paris Saint-Germain	Paris Saint-Germain	Paris Saint-Germain	Paris Saint-Germain	
+835	Luca Marrone	Juventus	null	null	null	
+834	Nuri Şahin	Borussia Dortmund	Borussia Dortmund	Borussia Dortmund	null	
+833	M'Baye Niang	AC Milan	AC Milan	null	null	
+832	Bakaye Traoré	AC Milan	null	null	null	
+831	Sulley Muntari	AC Milan	AC Milan	null	null	
+830	Lucas Piazón	Málaga CF	null	null	null	
+829	Antunes	Málaga CF	null	null	FC Dynamo Kyiv	
+828	Júlio Baptista	Málaga CF	null	null	null	
+827	Marat Izmailov	FC Porto	FC Porto	null	null	
+826	Taison	FC Shakhtar Donetsk	FC Shakhtar Donetsk	FC Shakhtar Donetsk	FC Shakhtar Donetsk	
+825	Dmytro Chygrynskiy	FC Shakhtar Donetsk	null	null	null	
+824	Diego López	Real Madrid CF	null	null	null	
+823	Lucas	Paris Saint-Germain	Paris Saint-Germain	Paris Saint-Germain	Paris Saint-Germain	
+822	Sergio Canales	Valencia CF	null	null	null	
+821	Simone Padoin	Juventus	Juventus	Juventus	null	
+820	Nicolas Anelka	Juventus	null	null	null	
+819	Federico Peluso	Juventus	Juventus	null	null	
+818	Vasile Maftei	CFR 1907 Cluj	null	null	null	
+817	Carlão	SC Braga	FC Paços de Ferreira	APOEL FC	APOEL FC	
+816	Quim	SC Braga	null	null	null	
+815	Rafinha	FC Barcelona	null	null	null	
+814	Carles Planas	FC Barcelona	null	null	null	
+813	Sergi Roberto	FC Barcelona	FC Barcelona	FC Barcelona	FC Barcelona	
+812	Thiago Alcántara	FC Barcelona	FC Bayern München	FC Bayern München	FC Bayern München	
+811	José Manuel Pinto	FC Barcelona	FC Barcelona	null	null	
+810	Lassad Nouioui	Celtic FC	null	null	null	
+809	Pablo Piatti	Valencia CF	null	null	Valencia CF	
+808	Diego Contento	FC Bayern München	FC Bayern München	null	null	
+807	Rafinha	FC Bayern München	FC Bayern München	FC Barcelona	FC Bayern München	
+806	Daniel Van Buyten	FC Bayern München	FC Bayern München	null	null	
+805	Kamal Issah	FC Nordsjælland	null	null	null	
+804	Henrik Kildentoft	FC Nordsjælland	null	null	null	
+803	Mark Gundelach	FC Nordsjælland	null	null	null	
+802	Paulo Ferreira	Chelsea FC	null	null	null	
+801	Oriol Romeu	Chelsea FC	null	null	null	
+800	Jose Rodriguez	Real Madrid CF	null	null	null	
+799	Álvaro Morata	Real Madrid CF	Real Madrid CF	Juventus	Juventus	
+798	Nacho	Real Madrid CF	Real Madrid CF	Real Madrid CF	Real Madrid CF	
+797	Ricardo Carvalho	Real Madrid CF	null	AS Monaco	AS Monaco	
+796	Antonio Adán	Real Madrid CF	null	null	null	
+795	Scott Sinclair	Manchester City FC	null	null	null	
+794	Leonardo Bittencourt	Borussia Dortmund	null	null	null	
+793	Oliver Kirch	Borussia Dortmund	Borussia Dortmund	Borussia Dortmund	null	
+792	Andrea Petagna	AC Milan	null	null	null	
+791	Djamel Mesbah	AC Milan	null	null	null	
+790	Ronald Vargas	RSC Anderlecht	RSC Anderlecht	null	null	
+789	Carlos Kameni	Málaga CF	null	null	null	
+788	Martin Angha	Arsenal FC	null	null	null	
+787	Jernade Meade	Arsenal FC	null	null	null	
+786	Marouane Chamakh	Arsenal FC	null	null	null	
+785	Sébastien Squillaci	Arsenal FC	null	null	null	
+784	Tomáš Rosický	Arsenal FC	Arsenal FC	Arsenal FC	null	
+783	Chinedu Obasi	FC Schalke 04	FC Schalke 04	FC Schalke 04	null	
+782	Sead Kolasinac	FC Schalke 04	FC Schalke 04	null	null	
+781	Christoph Metzelder	FC Schalke 04	null	null	null	
+780	Timo Hildebrand	FC Schalke 04	FC Schalke 04	null	null	
+779	Romain Pitau	Montpellier Hérault SC	null	null	null	
+778	Jonathan Ligali	Montpellier Hérault SC	null	null	null	
+777	Raúl Albiol	Real Madrid CF	SSC Napoli	SSC Napoli	null	
+776	Fábio Coentrão	Real Madrid CF	Real Madrid CF	Real Madrid CF	null	
+775	Juanmi	Málaga CF	null	null	null	
+774	Fernando Canesin	RSC Anderlecht	null	null	null	
+773	Jonas Martin	Montpellier Hérault SC	null	null	null	
+772	Mathieu Deplagne	Montpellier Hérault SC	null	null	null	
+771	Abdel El Kaoutari	Montpellier Hérault SC	null	null	null	
+770	Wojciech Szczęsny	Arsenal FC	Arsenal FC	Arsenal FC	AS Roma	
+769	Sylvain Armand	Paris Saint-Germain	null	null	null	
+768	Andriy Bogdanov	FC Dynamo Kyiv	null	null	null	
+767	Dudu	FC Dynamo Kyiv	null	null	null	
+766	Joshua King	Manchester United FC	null	null	null	
+765	Federico Macheda	Manchester United FC	null	null	null	
+764	Ashley Young	Manchester United FC	Manchester United FC	null	Manchester United FC	
+763	Nick Powell	Manchester United FC	null	null	Manchester United FC	
+762	Phil Jones	Manchester United FC	Manchester United FC	null	Manchester United FC	
+761	Anders Lindegaard	Manchester United FC	null	null	null	
+760	Engin Baytar	Galatasaray A.Ş.	null	null	null	
+759	Gerard Deulofeu	FC Barcelona	null	null	null	
+758	Martín Montoya	FC Barcelona	FC Barcelona	FC Barcelona	null	
+757	Luisão	SL Benfica	SL Benfica	SL Benfica	SL Benfica	
+756	Mario Gomez	FC Bayern München	null	null	null	
+755	Laurent Bonnart	LOSC Lille	null	null	null	
+754	Gianni Bruno	LOSC Lille	null	null	null	
+753	Steeve Elana	LOSC Lille	null	null	null	
+752	Eduardo	FC Shakhtar Donetsk	FC Shakhtar Donetsk	null	GNK Dinamo Zagreb	
+751	Henrikh Mkhitaryan	FC Shakhtar Donetsk	Borussia Dortmund	Borussia Dortmund	null	
+750	Taras Stepanenko	FC Shakhtar Donetsk	FC Shakhtar Donetsk	FC Shakhtar Donetsk	FC Shakhtar Donetsk	
+749	Oguzhan Aynaoglu	FC Nordsjælland	null	null	null	
+748	César Azpilicueta	Chelsea FC	Chelsea FC	Chelsea FC	Chelsea FC	
+747	Martín Cáceres	Juventus	Juventus	Juventus	null	
+746	Cris	Galatasaray A.Ş.	null	null	null	
+745	Chris Smalling	Manchester United FC	Manchester United FC	null	Manchester United FC	
+744	Rúben Amorim	SC Braga	SL Benfica	null	null	
+743	Tony Watt	Celtic FC	null	R. Standard de Liège	null	
+742	Miku	Celtic FC	null	null	null	
+741	André Gomes	SL Benfica	SL Benfica	null	Valencia CF	
+740	Artem Kontsevoi	FC BATE Borisov	null	null	null	
+739	Dmitri Baga	FC BATE Borisov	null	FC BATE Borisov	FC BATE Borisov	
+738	Anatoliy Tymoshchuk	FC Bayern München	FC Zenit	FC Zenit	null	
+737	Viktor Fischer	AFC Ajax	AFC Ajax	null	null	
+736	Robinho	AC Milan	AC Milan	null	null	
+735	Danny	FC Zenit	FC Zenit	FC Zenit	FC Zenit	
+734	Ljubomir Fejsa	Olympiacos FC	SL Benfica	null	SL Benfica	
+733	Jack Wilshere	Arsenal FC	Arsenal FC	Arsenal FC	null	
+732	Bacary Sagna	Arsenal FC	Arsenal FC	Manchester City FC	Manchester City FC	
+731	André Castro	FC Porto	null	null	null	
+730	Abdoulaye Ba	FC Porto	null	null	null	
+729	Jackson Martínez	FC Porto	FC Porto	FC Porto	Club Atlético de Madrid	
+728	Lukman Haruna	FC Dynamo Kyiv	null	null	null	
+727	Marco Ruben	FC Dynamo Kyiv	null	null	null	
+726	Artem Milevskiy	FC Dynamo Kyiv	null	null	null	
+725	Adrien Rabiot	Paris Saint-Germain	Paris Saint-Germain	Paris Saint-Germain	Paris Saint-Germain	
+724	James Milner	Manchester City FC	Manchester City FC	Manchester City FC	null	
+723	Joleon Lescott	Manchester City FC	Manchester City FC	null	null	
+722	Micah Richards	Manchester City FC	Manchester City FC	null	null	
+721	Eyong Enoh	AFC Ajax	null	null	null	
+720	Pato	AC Milan	null	null	null	
+719	Massimo Ambrosini	AC Milan	null	null	null	
+718	Francesco Acerbi	AC Milan	null	null	null	
+717	Marco Amelia	AC Milan	AC Milan	null	null	
+716	Oguchi Onyewu	Málaga CF	null	null	null	
+715	Guillermo Molins	RSC Anderlecht	null	null	null	
+714	Sergei Semak	FC Zenit	null	null	null	
+713	Charalambos Lykogiannis	Olympiacos FC	null	null	null	
+712	Roy Carroll	Olympiacos FC	null	null	null	
+711	Gaëtan Charbonnier	Montpellier Hérault SC	null	null	null	
+710	John Utaka	Montpellier Hérault SC	null	null	null	
+709	Laurent Pionnier	Montpellier Hérault SC	null	null	null	
+708	Ciprian Marica	FC Schalke 04	null	null	null	
+707	Serge Gnabry	Arsenal FC	Arsenal FC	null	null	
+706	Andrey Arshavin	Arsenal FC	FC Zenit	FC Zenit	null	
+705	André Santos	Arsenal FC	null	null	null	
+704	Guillaume Hoarau	Paris Saint-Germain	null	null	null	
+703	Mohamed Sissoko	Paris Saint-Germain	null	null	null	
+702	Mathieu Bodmer	Paris Saint-Germain	null	null	null	
+701	Alen Halilović	GNK Dinamo Zagreb	null	null	null	
+700	Šime Vrsaljko	GNK Dinamo Zagreb	null	null	null	
+699	Ante Puljić	GNK Dinamo Zagreb	null	null	null	
+698	Felice Piccolo	CFR 1907 Cluj	null	null	null	
+697	Sabri Sarıoğlu	Galatasaray A.Ş.	null	null	null	
+696	Zé Luis	SC Braga	null	null	null	
+695	Elderson	SC Braga	null	AS Monaco	AS Monaco	
+694	Ryan Giggs	Manchester United FC	Manchester United FC	null	null	
+693	Alexander Büttner	Manchester United FC	Manchester United FC	null	null	
+692	Beram Kayal	Celtic FC	Celtic FC	Celtic FC	null	
+691	Christian Tello	FC Barcelona	null	null	null	
+690	Marc Bartra	FC Barcelona	FC Barcelona	FC Barcelona	FC Barcelona	
+689	Ola John	SL Benfica	SL Benfica	SL Benfica	null	
+688	Welliton	FC Spartak Moskva	null	null	null	
+687	Jano Ananidze	FC Spartak Moskva	null	null	null	
+686	Artem Rebrov	FC Spartak Moskva	null	null	null	
+685	Éver Banega	Valencia CF	null	null	Sevilla FC	
+684	David Albelda	Valencia CF	null	null	null	
+683	David Alaba	FC Bayern München	FC Bayern München	FC Bayern München	FC Bayern München	
+682	David Rozehnal	LOSC Lille	null	LOSC Lille	null	
+681	Daniel Sturridge	Chelsea FC	null	null	null	
+680	Emanuele Giaccherini	Juventus	null	null	null	
+679	Nicklas Bendtner	Juventus	Arsenal FC	null	VfL Wolfsburg	
+678	Paolo De Ceglie	Juventus	Juventus	null	null	
+677	Lúcio	Juventus	null	null	null	
+676	José Callejón	Real Madrid CF	SSC Napoli	SSC Napoli	null	
+675	Kaká	Real Madrid CF	AC Milan	null	null	
+674	Sergio Ramos	Real Madrid CF	Real Madrid CF	Real Madrid CF	Real Madrid CF	
+673	Fabian Sporkslede	AFC Ajax	null	null	null	
+672	Jody Lukoki	AFC Ajax	null	null	null	
+671	Daniel Hoesen	AFC Ajax	null	null	null	
+670	Felipe Santana	Borussia Dortmund	FC Schalke 04	FC Schalke 04	null	
+669	Kevin Grosskreutz	Borussia Dortmund	Borussia Dortmund	Borussia Dortmund	null	
+668	Sven Bender	Borussia Dortmund	Borussia Dortmund	Borussia Dortmund	null	
+667	Mario Balotelli	Manchester City FC	AC Milan	Liverpool FC	null	
+666	Jack Rodwell	Manchester City FC	Manchester City FC	null	null	
+665	Sergio Agüero	Manchester City FC	Manchester City FC	Manchester City FC	Manchester City FC	
+664	Seba	Málaga CF	null	null	null	
+663	Sergio Sánchez	Málaga CF	null	null	null	
+662	Bojan Krkić	AC Milan	AFC Ajax	null	null	
+661	Ignazio Abate	AC Milan	AC Milan	null	null	
+660	Riccardo Montolivo	AC Milan	AC Milan	null	null	
+659	Cristián Zapata	AC Milan	AC Milan	null	null	
+658	Maksim Kanunnikov	FC Zenit	null	null	null	
+657	Aleksandr Bukharov	FC Zenit	FC Zenit	null	null	
+656	Axel Witsel	FC Zenit	FC Zenit	FC Zenit	FC Zenit	
+655	Tomáš Hubočan	FC Zenit	FC Zenit	null	null	
+654	Domenico Criscito	FC Zenit	FC Zenit	FC Zenit	FC Zenit	
+653	Jonathan Tinhan	Montpellier Hérault SC	null	null	null	
+652	Daniel Congré	Montpellier Hérault SC	null	null	null	
+651	Joris Marveaux	Montpellier Hérault SC	null	null	null	
+650	Rémy Cabella	Montpellier Hérault SC	null	null	null	
+649	Souleymane Camara	Montpellier Hérault SC	null	null	null	
+648	Younes Belhanda	Montpellier Hérault SC	null	null	FC Dynamo Kyiv	
+647	Atsuto Uchida	FC Schalke 04	FC Schalke 04	FC Schalke 04	null	
+646	Teemu Pukki	FC Schalke 04	Celtic FC	null	null	
+645	Marko Pantelić	Olympiacos FC	null	null	null	
+644	Drissa Diakité	Olympiacos FC	null	null	null	
+643	Dimitris Siovas	Olympiacos FC	Olympiacos FC	Olympiacos FC	Olympiacos FC	
+642	Alex Oxlade-Chamberlain	Arsenal FC	Arsenal FC	Arsenal FC	null	
+641	Laurent Koscielny	Arsenal FC	Arsenal FC	Arsenal FC	Arsenal FC	
+640	Admir Mehmedi	FC Dynamo Kyiv	null	null	null	
+639	Olexandr Shovkovskiy	FC Dynamo Kyiv	null	null	FC Dynamo Kyiv	
+638	Gregory van der Wiel	Paris Saint-Germain	Paris Saint-Germain	Paris Saint-Germain	Paris Saint-Germain	
+637	Mamadou Sakho	Paris Saint-Germain	null	Liverpool FC	null	
+636	Fernando	FC Porto	FC Porto	Manchester City FC	Manchester City FC	
+635	Danilo	FC Porto	null	null	null	
+634	Djamal	SC Braga	null	null	null	
+633	Nuno André Coelho	SC Braga	null	null	null	
+632	Yekta Kurtuluş	Galatasaray A.Ş.	null	null	null	
+631	Albert Riera	Galatasaray A.Ş.	null	null	null	
+630	Scott Wootton	Manchester United FC	null	null	null	
+629	Tom Cleverley	Manchester United FC	Manchester United FC	null	null	
+628	Wayne Rooney	Manchester United FC	Manchester United FC	null	Manchester United FC	
+627	Anderson	Manchester United FC	null	null	null	
+626	Rio Ferdinand	Manchester United FC	Manchester United FC	null	null	
+625	Luís Alberto	CFR 1907 Cluj	null	null	null	
+624	Saša Bjelanović	CFR 1907 Cluj	null	null	null	
+623	Matías Aguirregaray	CFR 1907 Cluj	null	null	null	
+622	László Sepsi	CFR 1907 Cluj	null	null	null	
+621	Joe Ledley	Celtic FC	Celtic FC	null	null	
+620	Efe Ambrose	Celtic FC	Celtic FC	Celtic FC	Celtic FC	
+619	Aleksandr Kozlov	FC Spartak Moskva	null	null	null	
+618	Sergei Bryzgalov	FC Spartak Moskva	null	null	null	
+617	Nicolas Pareja	FC Spartak Moskva	null	null	null	
+616	Sergei Pesyakov	FC Spartak Moskva	null	null	null	
+615	Andrés Iniesta	FC Barcelona	FC Barcelona	FC Barcelona	FC Barcelona	
+614	Jordi Alba	FC Barcelona	FC Barcelona	FC Barcelona	FC Barcelona	
+613	Carles Puyol	FC Barcelona	FC Barcelona	null	null	
+612	Carlos Martins	SL Benfica	null	null	null	
+611	Maxi Pereira	SL Benfica	SL Benfica	SL Benfica	FC Porto	
+610	Lima	SL Benfica	null	null	null	
+609	Xherdan Shaqiri	FC Bayern München	FC Bayern München	FC Bayern München	null	
+608	Yegor Filipenko	FC BATE Borisov	null	null	null	
+607	Ronny Rodelin	LOSC Lille	null	null	null	
+606	Carlos Delgado	Valencia CF	null	null	null	
+605	Víctor Ruiz	Valencia CF	null	null	null	
+604	Fernando Gago	Valencia CF	null	null	null	
+603	Vicente Guaita	Valencia CF	null	null	null	
+602	Gary Cahill	Chelsea FC	Chelsea FC	Chelsea FC	Chelsea FC	
+601	Victor Moses	Chelsea FC	null	null	null	
+600	Mario Tičinović	FC Nordsjælland	null	null	null	
+599	Paul Pogba	Juventus	Juventus	Juventus	Juventus	
+598	Emre Çolak	Galatasaray A.Ş.	null	null	null	
+597	Johan Elmander	Galatasaray A.Ş.	null	null	null	
+596	Aydın Yılmaz	Galatasaray A.Ş.	null	null	null	
+595	Nordin Amrabat	Galatasaray A.Ş.	null	null	null	
+594	Emmanuel Eboué	Galatasaray A.Ş.	null	null	null	
+593	Semih Kaya	Galatasaray A.Ş.	null	null	null	
+592	Hakan Balta	Galatasaray A.Ş.	null	null	null	
+591	Umut Bulut	Galatasaray A.Ş.	null	null	null	
+590	Burak Yılmaz	Galatasaray A.Ş.	null	null	null	
+589	Dany Nounkeu	Galatasaray A.Ş.	null	null	null	
+588	Felipe Melo	Galatasaray A.Ş.	null	null	null	
+587	Selçuk İnan	Galatasaray A.Ş.	null	null	null	
+586	Hamit Altıntop	Galatasaray A.Ş.	null	null	null	
+585	Fernando Muslera	Galatasaray A.Ş.	null	null	null	
+584	Darren Fletcher	Manchester United FC	Manchester United FC	null	null	
+583	Danny Welbeck	Manchester United FC	Manchester United FC	Arsenal FC	Arsenal FC	
+582	Javier Hernández	Manchester United FC	Manchester United FC	Real Madrid CF	Manchester United FC	
+581	Shinji Kagawa	Manchester United FC	Manchester United FC	Borussia Dortmund	null	
+580	Paul Scholes	Manchester United FC	null	null	null	
+579	Robin van Persie	Manchester United FC	Manchester United FC	null	null	
+578	Nani	Manchester United FC	null	Sporting Clube de Portugal	null	
+577	Michael Carrick	Manchester United FC	Manchester United FC	null	Manchester United FC	
+576	Nemanja Vidić	Manchester United FC	Manchester United FC	null	null	
+575	Antonio Valencia	Manchester United FC	Manchester United FC	null	Manchester United FC	
+574	Jonny Evans	Manchester United FC	Manchester United FC	null	null	
+573	Patrice Evra	Manchester United FC	Manchester United FC	Juventus	Juventus	
+572	Rafael	Manchester United FC	Manchester United FC	null	Olympique Lyonnais	
+571	David de Gea	Manchester United FC	Manchester United FC	null	Manchester United FC	
+570	José Manuel Jurado	FC Spartak Moskva	null	null	null	
+569	Kim Källström	FC Spartak Moskva	null	null	null	
+568	Alex Song	FC Barcelona	FC Barcelona	null	null	
+567	Alexis Sánchez	FC Barcelona	FC Barcelona	Arsenal FC	Arsenal FC	
+566	David Villa	FC Barcelona	Club Atlético de Madrid	null	null	
+565	Tello	FC Barcelona	null	null	null	
+564	Adriano	FC Barcelona	FC Barcelona	FC Barcelona	FC Barcelona	
+563	Pedro Rodríguez	FC Barcelona	FC Barcelona	FC Barcelona	Chelsea FC	
+562	Sergio Busquets	FC Barcelona	FC Barcelona	FC Barcelona	FC Barcelona	
+561	Javier Mascherano	FC Barcelona	FC Barcelona	FC Barcelona	FC Barcelona	
+560	Lionel Messi	FC Barcelona	FC Barcelona	FC Barcelona	FC Barcelona	
+559	Xavi Hernández	FC Barcelona	FC Barcelona	FC Barcelona	null	
+558	Cesc Fàbregas	FC Barcelona	FC Barcelona	Chelsea FC	Chelsea FC	
+557	Gerard Piqué	FC Barcelona	FC Barcelona	FC Barcelona	FC Barcelona	
+556	Daniel Alves	FC Barcelona	FC Barcelona	FC Barcelona	null	
+555	Víctor Valdés	FC Barcelona	FC Barcelona	null	null	
+554	Nolito	SL Benfica	null	null	null	
+553	Bruno César	SL Benfica	null	null	null	
+552	Óscar Cardozo	SL Benfica	SL Benfica	null	null	
+551	Enzo Peréz	SL Benfica	null	null	null	
+550	André Almeida	SL Benfica	SL Benfica	SL Benfica	SL Benfica	
+549	Jardel	SL Benfica	null	SL Benfica	SL Benfica	
+548	Melgarejo	SL Benfica	null	null	null	
+547	Ezequiel Garay	SL Benfica	SL Benfica	FC Zenit	FC Zenit	
+546	Nemanja Matić	SL Benfica	SL Benfica	Chelsea FC	Chelsea FC	
+545	Nicolás Gaitán	SL Benfica	SL Benfica	SL Benfica	SL Benfica	
+544	Rodrigo	SL Benfica	SL Benfica	null	Valencia CF	
+543	Eduardo Salvio	SL Benfica	null	SL Benfica	SL Benfica	
+542	Pablo Aimar	SL Benfica	null	null	null	
+541	Artur	SL Benfica	SL Benfica	SL Benfica	null	
+540	Thomas Rogne	Celtic FC	null	null	null	
+539	Nicolás Fedor	Celtic FC	null	null	null	
+538	Djibril Sidibé	LOSC Lille	null	null	null	
+537	Ryan Mendes	LOSC Lille	null	LOSC Lille	null	
+536	Mathieu Debuchy	LOSC Lille	null	Arsenal FC	Arsenal FC	
+535	Nelson Valdez	Valencia CF	Olympiacos FC	null	null	
+534	Jonathan Viera	Valencia CF	null	null	null	
+533	Antonio Barragán	Valencia CF	null	null	Valencia CF	
+532	Tino Costa	Valencia CF	null	null	null	
+531	Daniel Parejo	Valencia CF	null	null	Valencia CF	
+530	Ricardo Costa	Valencia CF	null	null	null	
+529	Andrés Guardado	Valencia CF	null	null	PSV Eindhoven	
+528	João Pereira	Valencia CF	null	null	Sporting Clube de Portugal	
+527	Roberto Soldado	Valencia CF	null	null	null	
+526	Sofiane Feghouli	Valencia CF	null	null	Valencia CF	
+525	Jonas	Valencia CF	null	null	SL Benfica	
+524	Adil Rami	Valencia CF	AC Milan	null	Sevilla FC	
+523	Aly Cissokho	Valencia CF	null	null	null	
+522	Diego Alves	Valencia CF	null	null	null	
+521	Luiz Gustavo	FC Bayern München	null	null	VfL Wolfsburg	
+520	Thomas Müller	FC Bayern München	FC Bayern München	FC Bayern München	FC Bayern München	
+519	Mario Mandžukić	FC Bayern München	FC Bayern München	Club Atlético de Madrid	Juventus	
+518	Toni Kroos	FC Bayern München	FC Bayern München	Real Madrid CF	Real Madrid CF	
+517	Bastian Schweinsteiger	FC Bayern München	FC Bayern München	null	null	
+516	Holger Badstuber	FC Bayern München	null	FC Bayern München	FC Bayern München	
+515	Philipp Lahm	FC Bayern München	FC Bayern München	FC Bayern München	FC Bayern München	
+514	Jérôme Boateng	FC Bayern München	FC Bayern München	FC Bayern München	FC Bayern München	
+513	Claudio Pizarro	FC Bayern München	FC Bayern München	FC Bayern München	null	
+512	Arjen Robben	FC Bayern München	FC Bayern München	FC Bayern München	FC Bayern München	
+511	Javi Martínez	FC Bayern München	FC Bayern München	FC Bayern München	FC Bayern München	
+510	Franck Ribéry	FC Bayern München	FC Bayern München	FC Bayern München	FC Bayern München	
+509	Dante	FC Bayern München	FC Bayern München	FC Bayern München	VfL Wolfsburg	
+508	Manuel Neuer	FC Bayern München	FC Bayern München	FC Bayern München	FC Bayern München	
+507	Andreas Laudrup	FC Nordsjælland	null	null	null	
+506	Morten Nordstrand	FC Nordsjælland	null	null	null	
+505	Anders Christiansen	FC Nordsjælland	null	null	null	
+504	Ivan Runje	FC Nordsjælland	null	null	null	
+503	Kasper Lorentzen	FC Nordsjælland	null	null	null	
+502	Michael Parkhurst	FC Nordsjælland	null	null	null	
+501	Søren Christensen	FC Nordsjælland	null	null	null	
+500	Joshua John	FC Nordsjælland	null	null	null	
+499	Mikkel Beckmann	FC Nordsjælland	null	null	null	
+498	Patrick Mtiliga	FC Nordsjælland	null	null	null	
+497	Nicolai Stokholm	FC Nordsjælland	null	null	null	
+496	Enoch Adu	FC Nordsjælland	null	Malmö FF	null	
+495	Jores Okore	FC Nordsjælland	null	null	null	
+494	Jesper Hansen	FC Nordsjælland	null	null	null	
+493	Alex Teixeira	FC Shakhtar Donetsk	FC Shakhtar Donetsk	FC Shakhtar Donetsk	FC Shakhtar Donetsk	
+492	Douglas Costa	FC Shakhtar Donetsk	FC Shakhtar Donetsk	FC Shakhtar Donetsk	FC Bayern München	
+491	Marko Dević	FC Shakhtar Donetsk	null	null	null	
+490	Ilsinho	FC Shakhtar Donetsk	FC Shakhtar Donetsk	FC Shakhtar Donetsk	null	
+489	Yaroslav Rakitskiy	FC Shakhtar Donetsk	FC Shakhtar Donetsk	FC Shakhtar Donetsk	FC Shakhtar Donetsk	
+488	Darijo Srna	FC Shakhtar Donetsk	FC Shakhtar Donetsk	FC Shakhtar Donetsk	FC Shakhtar Donetsk	
+487	Răzvan Raţ	FC Shakhtar Donetsk	null	null	null	
+486	Henrik Mkhitaryan	FC Shakhtar Donetsk	null	null	null	
+485	Willian	FC Shakhtar Donetsk	Chelsea FC	Chelsea FC	Chelsea FC	
+484	Luiz Adriano	FC Shakhtar Donetsk	FC Shakhtar Donetsk	FC Shakhtar Donetsk	null	
+483	Fernandinho	FC Shakhtar Donetsk	Manchester City FC	Manchester City FC	Manchester City FC	
+482	Olexandr Kucher	FC Shakhtar Donetsk	FC Shakhtar Donetsk	FC Shakhtar Donetsk	FC Shakhtar Donetsk	
+481	Tomáš Hübschman	FC Shakhtar Donetsk	FC Shakhtar Donetsk	null	null	
+480	Andriy Pyatov	FC Shakhtar Donetsk	FC Shakhtar Donetsk	FC Shakhtar Donetsk	FC Shakhtar Donetsk	
+479	Mauricio Isla	Juventus	Juventus	null	null	
+478	Alessandro Matri	Juventus	AC Milan	Juventus	null	
+477	Fabio Quagliarella	Juventus	Juventus	null	null	
+476	Stephan Lichtsteiner	Juventus	Juventus	Juventus	Juventus	
+475	Arturo Vidal	Juventus	Juventus	Juventus	FC Bayern München	
+474	Kwadwo Asamoah	Juventus	Juventus	Juventus	null	
+473	Andrea Pirlo	Juventus	Juventus	Juventus	null	
+472	Leonardo Bonucci	Juventus	Juventus	Juventus	Juventus	
+471	Andrea Barzagli	Juventus	Juventus	Juventus	Juventus	
+470	Sebastian Giovinco	Juventus	Juventus	Juventus	null	
+469	Mirko Vučinić	Juventus	Juventus	null	null	
+468	Claudio Marchisio	Juventus	Juventus	Juventus	Juventus	
+467	Giorgio Chiellini	Juventus	Juventus	Juventus	Juventus	
+466	Gianluigi Buffon	Juventus	Juventus	Juventus	Juventus	
+465	Ryan Bertrand	Chelsea FC	null	null	null	
+464	Juan Mata	Chelsea FC	Chelsea FC	null	Manchester United FC	
+463	John Terry	Chelsea FC	Chelsea FC	Chelsea FC	Chelsea FC	
+462	Eden Hazard	Chelsea FC	Chelsea FC	Chelsea FC	Chelsea FC	
+461	John Obi Mikel	Chelsea FC	Chelsea FC	Chelsea FC	Chelsea FC	
+460	Oscar	Chelsea FC	Chelsea FC	Chelsea FC	Chelsea FC	
+459	Fernando Torres	Chelsea FC	Chelsea FC	Club Atlético de Madrid	Club Atlético de Madrid	
+458	Frank Lampard	Chelsea FC	Chelsea FC	Manchester City FC	null	
+457	Ramires	Chelsea FC	Chelsea FC	Chelsea FC	Chelsea FC	
+456	David Luiz	Chelsea FC	Chelsea FC	Paris Saint-Germain	Paris Saint-Germain	
+455	Ashley Cole	Chelsea FC	Chelsea FC	AS Roma	null	
+454	Branislav Ivanović	Chelsea FC	Chelsea FC	Chelsea FC	Chelsea FC	
+453	Petr Čech	Chelsea FC	Chelsea FC	Chelsea FC	Arsenal FC	
+452	Aleksandar Kolarov	Manchester City FC	Manchester City FC	Manchester City FC	Manchester City FC	
+451	Edin Džeko	Manchester City FC	Manchester City FC	Manchester City FC	AS Roma	
+450	Pablo Zabaleta	Manchester City FC	Manchester City FC	Manchester City FC	Manchester City FC	
+449	Yaya Touré	Manchester City FC	Manchester City FC	Manchester City FC	Manchester City FC	
+448	Matija Nastasić	Manchester City FC	Manchester City FC	FC Schalke 04	null	
+447	Carlos Tévez	Manchester City FC	Juventus	Juventus	null	
+446	Gaël Clichy	Manchester City FC	Manchester City FC	Manchester City FC	Manchester City FC	
+445	David Silva	Manchester City FC	Manchester City FC	Manchester City FC	Manchester City FC	
+444	Gareth Barry	Manchester City FC	null	null	null	
+443	Javi García	Manchester City FC	Manchester City FC	FC Zenit	FC Zenit	
+442	Samir Nasri	Manchester City FC	Manchester City FC	Manchester City FC	Manchester City FC	
+441	Vincent Kompany	Manchester City FC	Manchester City FC	Manchester City FC	Manchester City FC	
+440	Maicon	Manchester City FC	null	null	null	
+439	Joe Hart	Manchester City FC	Manchester City FC	Manchester City FC	Manchester City FC	
+438	Luka Modrić	Real Madrid CF	Real Madrid CF	Real Madrid CF	Real Madrid CF	
+437	Mesut Özil	Real Madrid CF	Arsenal FC	Arsenal FC	Arsenal FC	
+436	Karim Benzema	Real Madrid CF	Real Madrid CF	Real Madrid CF	Real Madrid CF	
+435	Ángel Di María	Real Madrid CF	Real Madrid CF	null	Paris Saint-Germain	
+434	Gonzalo Higuaín	Real Madrid CF	SSC Napoli	SSC Napoli	null	
+433	Álvaro Arbeloa	Real Madrid CF	Real Madrid CF	Real Madrid CF	Real Madrid CF	
+432	Michael Essien	Real Madrid CF	AC Milan	null	null	
+431	Xabi Alonso	Real Madrid CF	Real Madrid CF	FC Bayern München	FC Bayern München	
+430	Marcelo	Real Madrid CF	Real Madrid CF	Real Madrid CF	Real Madrid CF	
+429	Cristiano Ronaldo	Real Madrid CF	Real Madrid CF	Real Madrid CF	Real Madrid CF	
+428	Sami Khedira	Real Madrid CF	Real Madrid CF	Real Madrid CF	Juventus	
+427	Pepe	Real Madrid CF	Real Madrid CF	Real Madrid CF	Real Madrid CF	
+426	Raphaël Varane	Real Madrid CF	Real Madrid CF	Real Madrid CF	Real Madrid CF	
+425	Iker Casillas	Real Madrid CF	Real Madrid CF	Real Madrid CF	FC Porto	
+424	Lasse Schøne	AFC Ajax	AFC Ajax	null	null	
+423	Miralem Sulejmani	AFC Ajax	SL Benfica	null	null	
+422	Ryan Babel	AFC Ajax	null	null	null	
+421	Ricardo van Rhijn	AFC Ajax	AFC Ajax	AFC Ajax	null	
+420	Derk Boerrigter	AFC Ajax	Celtic FC	Celtic FC	null	
+419	Tobias Sana	AFC Ajax	null	null	Malmö FF	
+418	Daley Blind	AFC Ajax	AFC Ajax	null	Manchester United FC	
+417	Siem de Jong	AFC Ajax	AFC Ajax	null	null	
+416	Christian Eriksen	AFC Ajax	null	null	null	
+415	Christian Poulsen	AFC Ajax	AFC Ajax	null	null	
+414	Niklas Moisander	AFC Ajax	AFC Ajax	AFC Ajax	null	
+413	Toby Alderweireld	AFC Ajax	Club Atlético de Madrid	null	null	
+412	Kenneth Vermeer	AFC Ajax	AFC Ajax	null	null	
+411	Ivan Perišić	Borussia Dortmund	null	null	null	
+410	Julian Schieber	Borussia Dortmund	Borussia Dortmund	null	null	
+409	Moritz Leitner	Borussia Dortmund	null	null	null	
+408	Marcel Schmelzer	Borussia Dortmund	Borussia Dortmund	Borussia Dortmund	null	
+407	Łukasz Piszczek	Borussia Dortmund	Borussia Dortmund	Borussia Dortmund	null	
+406	Jakub Błaszczykowski	Borussia Dortmund	Borussia Dortmund	Borussia Dortmund	null	
+405	Mats Hummels	Borussia Dortmund	Borussia Dortmund	Borussia Dortmund	null	
+404	Marco Reus	Borussia Dortmund	Borussia Dortmund	Borussia Dortmund	null	
+403	Mario Götze	Borussia Dortmund	FC Bayern München	FC Bayern München	FC Bayern München	
+402	Robert Lewandowski	Borussia Dortmund	Borussia Dortmund	FC Bayern München	FC Bayern München	
+401	İlkay Gündoğan	Borussia Dortmund	null	Borussia Dortmund	null	
+400	Sebastian Kehl	Borussia Dortmund	Borussia Dortmund	Borussia Dortmund	null	
+399	Neven Subotić	Borussia Dortmund	Borussia Dortmund	Borussia Dortmund	null	
+398	Roman Weidenfeller	Borussia Dortmund	Borussia Dortmund	Borussia Dortmund	null	
+397	Dennis Praet	RSC Anderlecht	RSC Anderlecht	RSC Anderlecht	null	
+396	Bram Nuytinck	RSC Anderlecht	RSC Anderlecht	RSC Anderlecht	null	
+395	Stephan El Shaarawy	AC Milan	AC Milan	null	AS Roma	
+394	Mario Yepes	AC Milan	null	null	null	
+393	Kévin Constant	AC Milan	AC Milan	null	null	
+392	Luca Antonini	AC Milan	null	null	null	
+391	Nigel de Jong	AC Milan	AC Milan	null	null	
+390	Urby Emanuelson	AC Milan	AC Milan	null	null	
+389	Daniele Bonera	AC Milan	AC Milan	null	null	
+388	Mathieu Flamini	AC Milan	Arsenal FC	Arsenal FC	Arsenal FC	
+387	Giampaolo Pazzini	AC Milan	AC Milan	null	null	
+386	Kevin-Prince Boateng	AC Milan	FC Schalke 04	FC Schalke 04	null	
+385	Antonio Nocerino	AC Milan	AC Milan	null	null	
+384	Philippe Mexès	AC Milan	AC Milan	null	null	
+383	Mattia De Sciglio	AC Milan	AC Milan	null	null	
+382	Christian Abbiati	AC Milan	AC Milan	null	null	
+381	Michael Lumb	FC Zenit	null	null	null	
+380	Luka Djordjević	FC Zenit	null	null	null	
+379	Vladimir Bystrov	FC Zenit	FC Zenit	null	null	
+378	Hulk	FC Zenit	FC Zenit	FC Zenit	FC Zenit	
+377	Igor Denisov	FC Zenit	null	null	null	
+376	Aleksandar Luković	FC Zenit	null	null	null	
+375	Viktor Fayzulin	FC Zenit	FC Zenit	FC Zenit	FC Zenit	
+374	Konstantin Zyryanov	FC Zenit	FC Zenit	null	null	
+373	Roman Shirokov	FC Zenit	FC Zenit	null	null	
+372	Aleksandr Kerzhakov	FC Zenit	FC Zenit	FC Zenit	null	
+371	Nicolas Lombaerts	FC Zenit	FC Zenit	FC Zenit	FC Zenit	
+370	Bruno Alves	FC Zenit	Fenerbahçe SK	null	null	
+369	Aleksandr Anyukov	FC Zenit	FC Zenit	FC Zenit	FC Zenit	
+368	Vyacheslav Malafeev	FC Zenit	FC Zenit	null	null	
+367	Roque Santa Cruz	Málaga CF	null	null	null	
+366	Manuel Iturra	Málaga CF	null	null	null	
+365	Francisco Portillo	Málaga CF	null	null	null	
+364	Javier Saviola	Málaga CF	Olympiacos FC	null	null	
+363	Willy Caballero	Málaga CF	null	null	Manchester City FC	
+362	Julian Draxler	FC Schalke 04	FC Schalke 04	FC Schalke 04	VfL Wolfsburg	
+361	Marco Höger	FC Schalke 04	FC Schalke 04	FC Schalke 04	null	
+360	Ibrahim Afellay	FC Schalke 04	null	Olympiacos FC	null	
+359	Roman Neustädter	FC Schalke 04	FC Schalke 04	FC Schalke 04	null	
+358	Joel Matip	FC Schalke 04	FC Schalke 04	FC Schalke 04	null	
+357	Tranquillo Barnetta	FC Schalke 04	null	FC Schalke 04	null	
+356	Klaas-Jan Huntelaar	FC Schalke 04	FC Schalke 04	FC Schalke 04	null	
+355	Christian Fuchs	FC Schalke 04	FC Schalke 04	FC Schalke 04	null	
+354	Jefferson Farfán	FC Schalke 04	FC Schalke 04	null	null	
+353	Kyriakos Papadopoulos	FC Schalke 04	FC Schalke 04	null	null	
+352	Jermaine Jones	FC Schalke 04	FC Schalke 04	null	null	
+351	Lewis Holtby	FC Schalke 04	null	null	null	
+350	Benedikt Höwedes	FC Schalke 04	FC Schalke 04	FC Schalke 04	null	
+349	Lars Unnerstall	FC Schalke 04	null	null	null	
+348	Leandro Greco	Olympiacos FC	null	null	null	
+347	Kostas Mitroglou	Olympiacos FC	Olympiacos FC	Olympiacos FC	SL Benfica	
+346	Ariel Ibagaza	Olympiacos FC	null	null	null	
+345	Djamel Abdoun	Olympiacos FC	null	null	null	
+344	Vassilis Torossidis	Olympiacos FC	null	AS Roma	null	
+343	Kostas Manolas	Olympiacos FC	Olympiacos FC	AS Roma	AS Roma	
+342	José Holebas	Olympiacos FC	Olympiacos FC	AS Roma	null	
+341	David Fuster	Olympiacos FC	Olympiacos FC	Olympiacos FC	null	
+340	Pablo Contreras	Olympiacos FC	null	null	null	
+339	Rafik Djebbour	Olympiacos FC	null	APOEL FC	null	
+338	Paulo Machado	Olympiacos FC	Olympiacos FC	null	GNK Dinamo Zagreb	
+337	François Modesto	Olympiacos FC	null	null	null	
+336	Giannis Maniatis	Olympiacos FC	Olympiacos FC	Olympiacos FC	null	
+335	Balázs Megyeri	Olympiacos FC	null	null	null	
+334	Francis Coquelin	Arsenal FC	null	Arsenal FC	Arsenal FC	
+333	Aaron Ramsey	Arsenal FC	Arsenal FC	Arsenal FC	Arsenal FC	
+332	Theo Walcott	Arsenal FC	Arsenal FC	Arsenal FC	Arsenal FC	
+331	Kieran Gibbs	Arsenal FC	Arsenal FC	Arsenal FC	Arsenal FC	
+330	Gervinho	Arsenal FC	null	AS Roma	AS Roma	
+329	Carl Jenkinson	Arsenal FC	Arsenal FC	null	null	
+328	Santi Cazorla	Arsenal FC	Arsenal FC	Arsenal FC	Arsenal FC	
+327	Olivier Giroud	Arsenal FC	Arsenal FC	Arsenal FC	Arsenal FC	
+326	Lukas Podolski	Arsenal FC	Arsenal FC	Arsenal FC	null	
+325	Mikel Arteta	Arsenal FC	Arsenal FC	Arsenal FC	Arsenal FC	
+324	Thomas Vermaelen	Arsenal FC	Arsenal FC	null	FC Barcelona	
+323	Per Mertesacker	Arsenal FC	Arsenal FC	Arsenal FC	Arsenal FC	
+322	Abou Diaby	Arsenal FC	null	null	null	
+321	Vito Mannone	Arsenal FC	null	null	null	
+320	Benjamin Stambouli	Montpellier Hérault SC	null	null	Paris Saint-Germain	
+319	Karim Aït-Fana	Montpellier Hérault SC	null	null	null	
+318	Emanuel Herrera	Montpellier Hérault SC	null	null	null	
+317	Jamel Saihi	Montpellier Hérault SC	null	null	null	
+316	Rémi Cabella	Montpellier Hérault SC	null	null	null	
+315	Suleyman Camara	Montpellier Hérault SC	null	null	null	
+314	Marco Estrada	Montpellier Hérault SC	null	null	null	
+313	Younés Belhanda	Montpellier Hérault SC	null	null	null	
+312	Anthony Mounier	Montpellier Hérault SC	null	null	null	
+311	Henri Bedimo	Montpellier Hérault SC	Olympique Lyonnais	null	Olympique Lyonnais	
+310	Hilton	Montpellier Hérault SC	null	null	null	
+309	Mapou Yanga-Mbiwa	Montpellier Hérault SC	null	AS Roma	Olympique Lyonnais	
+308	Garry Bocaly	Montpellier Hérault SC	null	null	null	
+307	Geoffrey Jourdren	Montpellier Hérault SC	null	null	null	
+306	Oleh Gusev	FC Dynamo Kyiv	null	null	FC Dynamo Kyiv	
+305	Ognjen Vukojević	FC Dynamo Kyiv	null	null	null	
+304	Betão	FC Dynamo Kyiv	null	null	null	
+303	Raffael	FC Dynamo Kyiv	null	null	VfL Borussia Mönchengladbach	
+302	Yevhen Khacheridi	FC Dynamo Kyiv	null	null	FC Dynamo Kyiv	
+301	Taye Taiwo	FC Dynamo Kyiv	null	null	null	
+300	Niko Kranjčar	FC Dynamo Kyiv	null	null	null	
+299	Denys Garmash	FC Dynamo Kyiv	null	null	FC Dynamo Kyiv	
+298	Taras Mikhalik	FC Dynamo Kyiv	null	null	null	
+297	Ideye Brown	FC Dynamo Kyiv	null	null	Olympiacos FC	
+296	Andriy Yarmolenko	FC Dynamo Kyiv	null	null	FC Dynamo Kyiv	
+295	Miguel Veloso	FC Dynamo Kyiv	null	null	FC Dynamo Kyiv	
+294	Danilo Silva	FC Dynamo Kyiv	null	null	FC Dynamo Kyiv	
+293	Maxym Koval	FC Dynamo Kyiv	null	null	null	
+292	Ezequiel Lavezzi	Paris Saint-Germain	Paris Saint-Germain	Paris Saint-Germain	Paris Saint-Germain	
+291	Nenê	Paris Saint-Germain	null	null	null	
+290	Zoumana Camara	Paris Saint-Germain	Paris Saint-Germain	null	null	
+289	Javier Pastore	Paris Saint-Germain	Paris Saint-Germain	Paris Saint-Germain	Paris Saint-Germain	
+288	Christophe Jallet	Paris Saint-Germain	Paris Saint-Germain	null	Olympique Lyonnais	
+287	Marco Verratti	Paris Saint-Germain	Paris Saint-Germain	Paris Saint-Germain	Paris Saint-Germain	
+286	Clément Chantôme	Paris Saint-Germain	null	Paris Saint-Germain	null	
+285	Zlatan Ibrahimović	Paris Saint-Germain	Paris Saint-Germain	Paris Saint-Germain	Paris Saint-Germain	
+284	Maxwell	Paris Saint-Germain	Paris Saint-Germain	Paris Saint-Germain	Paris Saint-Germain	
+283	Blaise Matuidi	Paris Saint-Germain	Paris Saint-Germain	Paris Saint-Germain	Paris Saint-Germain	
+282	Alex	Paris Saint-Germain	null	null	null	
+281	Jérémy Ménez	Paris Saint-Germain	Paris Saint-Germain	null	null	
+280	Thiago Silva	Paris Saint-Germain	Paris Saint-Germain	Paris Saint-Germain	Paris Saint-Germain	
+279	Salvatore Sirigu	Paris Saint-Germain	Paris Saint-Germain	Paris Saint-Germain	null	
+278	Christian Atsu	FC Porto	null	null	null	
+277	Eliaquim Mangala	FC Porto	FC Porto	Manchester City FC	Manchester City FC	
+276	Kléber	FC Porto	null	null	null	
+275	Steven Defour	FC Porto	FC Porto	RSC Anderlecht	null	
+274	Nicolás Otamendi	FC Porto	FC Porto	null	Manchester City FC	
+273	Alex Sandro	FC Porto	FC Porto	FC Porto	Juventus	
+272	Silvestre Varela	FC Porto	FC Porto	null	null	
+271	Miguel Lopes	FC Porto	Olympique Lyonnais	null	null	
+270	James Rodríguez	FC Porto	null	Real Madrid CF	Real Madrid CF	
+269	Jackson Martinez	FC Porto	null	null	null	
+268	João Moutinho	FC Porto	null	AS Monaco	null	
+267	Maicon	FC Porto	FC Porto	AS Roma	AS Roma	
+266	Lucho González	FC Porto	FC Porto	null	null	
+265	Helton	FC Porto	FC Porto	null	null	
+264	Bryan Carrasco	GNK Dinamo Zagreb	null	null	null	
+263	Mateo Kovačić	GNK Dinamo Zagreb	null	null	Real Madrid CF	
+262	Marcelo Brozović	GNK Dinamo Zagreb	GNK Dinamo Zagreb	null	null	
+261	Ante Rukavina	GNK Dinamo Zagreb	GNK Dinamo Zagreb	null	null	
+260	Diniyar Bilyaletdinov	FC Spartak Moskva	null	null	null	
+259	Artem Dzyuba	FC Spartak Moskva	null	null	FC Zenit	
+258	Rafael Carioca	FC Spartak Moskva	null	null	null	
+257	Romulo	FC Spartak Moskva	null	null	null	
+256	Evgeni Makeev	FC Spartak Moskva	null	null	null	
+255	Emmanuel Emenike	FC Spartak Moskva	Fenerbahçe SK	null	null	
+254	Dmitri Kombarov	FC Spartak Moskva	null	null	null	
+253	Demy de Zeeuw	FC Spartak Moskva	RSC Anderlecht	null	null	
+252	Marek Suchý	FC Spartak Moskva	null	FC Basel 1893	FC Basel 1893	
+251	Ari	FC Spartak Moskva	null	null	null	
+250	Aiden McGeady	FC Spartak Moskva	null	null	null	
+249	Kirill Kombarov	FC Spartak Moskva	null	null	null	
+248	Juan Insaurralde	FC Spartak Moskva	null	null	null	
+247	Andriy Dykan	FC Spartak Moskva	null	null	null	
+246	Cristian	Fenerbahçe SK	Fenerbahçe SK	null	null	
+245	Alex	Fenerbahçe SK	Paris Saint-Germain	null	null	
+244	Miroslav Stoch	Fenerbahçe SK	PAOK FC	null	null	
+243	Gökhan Gönül	Fenerbahçe SK	Fenerbahçe SK	null	null	
+242	Mehmet Topuz	Fenerbahçe SK	Fenerbahçe SK	null	null	
+241	Miloš Krasić	Fenerbahçe SK	null	null	null	
+240	Selçuk Şahin	Fenerbahçe SK	Fenerbahçe SK	null	null	
+239	Dirk Kuyt	Fenerbahçe SK	Fenerbahçe SK	null	null	
+238	Moussa Sow	Fenerbahçe SK	Fenerbahçe SK	null	null	
+237	Joseph Yobo	Fenerbahçe SK	Fenerbahçe SK	null	null	
+236	Mehmet Topal	Fenerbahçe SK	Fenerbahçe SK	null	null	
+235	Hasan Ali Kaldırım	Fenerbahçe SK	null	null	null	
+234	Egemen Korkmaz	Fenerbahçe SK	Fenerbahçe SK	null	null	
+233	Mert Günok	Fenerbahçe SK	null	null	null	
+232	Jacques Zoua	FC Basel 1893	null	null	null	
+231	Stephan Andrist	FC Basel 1893	null	null	null	
+230	Fabian Schär	FC Basel 1893	FC Basel 1893	FC Basel 1893	null	
+229	Markus Steinhöfer	FC Basel 1893	null	null	null	
+228	Gastón Sauro	FC Basel 1893	FC Basel 1893	null	null	
+227	Cabral	FC Basel 1893	null	null	null	
+226	Marcelo Díaz	FC Basel 1893	FC Basel 1893	FC Basel 1893	null	
+225	Fabian Frei	FC Basel 1893	FC Basel 1893	FC Basel 1893	null	
+224	Alexander Frei	FC Basel 1893	null	null	null	
+223	Marco Streller	FC Basel 1893	FC Basel 1893	FC Basel 1893	null	
+222	David Degen	FC Basel 1893	FC Basel 1893	null	null	
+221	Aleksandar Dragovic	FC Basel 1893	null	null	FC Dynamo Kyiv	
+220	Park Joo Ho	FC Basel 1893	null	null	null	
+219	Yann Sommer	FC Basel 1893	FC Basel 1893	null	VfL Borussia Mönchengladbach	
+218	Rui Pedro	CFR 1907 Cluj	null	null	null	
+217	Nicolas Godemèche	CFR 1907 Cluj	null	null	null	
+216	Viorel Nicoară	CFR 1907 Cluj	null	null	null	
+215	Modou Sougou	CFR 1907 Cluj	null	null	null	
+214	Camora	CFR 1907 Cluj	null	null	null	
+213	Ionuţ Rada	CFR 1907 Cluj	null	null	null	
+212	Cadú	CFR 1907 Cluj	null	null	null	
+211	Rafael Bastos	CFR 1907 Cluj	null	null	null	
+210	Diogo Valente	CFR 1907 Cluj	null	null	null	
+209	Pantelis Kapetanos	CFR 1907 Cluj	FC Steaua Bucureşti	null	null	
+208	Gabriel Mureşan	CFR 1907 Cluj	null	null	null	
+207	Bakary Sare	CFR 1907 Cluj	null	null	null	
+206	Ivo Pinto	CFR 1907 Cluj	GNK Dinamo Zagreb	null	GNK Dinamo Zagreb	
+205	Mário Felgueiras	CFR 1907 Cluj	null	null	null	
+204	Andreas Cornelius	FC København	null	null	null	
+203	Thomas Delaney	FC København	FC København	null	null	
+202	Igor Vetokele	FC København	FC København	null	null	
+201	Christián Bolaños	FC København	FC København	null	null	
+200	Bryan Oviedo	FC København	null	null	null	
+199	Nicolai Jørgensen	FC København	FC København	null	null	
+198	Ragnar Sigurdsson	FC København	FC København	null	null	
+197	Thomas Kristensen	FC København	FC København	null	null	
+196	César Santin	FC København	null	null	null	
+195	Claudemir	FC København	FC København	null	Club Brugge KV	
+194	Kris Stadsgaard	FC København	null	null	null	
+193	Pierre Bengtsson	FC København	FC København	null	null	
+192	Lars Jacobsen	FC København	FC København	null	null	
+191	Johan Wiland	FC København	FC København	null	Malmö FF	
+190	Nolan Roux	LOSC Lille	null	LOSC Lille	null	
+189	Benoît Pedretti	LOSC Lille	null	null	null	
+188	Idrissa Gueye	LOSC Lille	null	LOSC Lille	null	
+187	Marko Baša	LOSC Lille	null	LOSC Lille	null	
+186	Rio Mavuba	LOSC Lille	null	LOSC Lille	null	
+185	Aurélien Chedjou	LOSC Lille	null	null	null	
+184	Franck Béria	LOSC Lille	null	LOSC Lille	null	
+183	Marvin Martin	LOSC Lille	null	null	null	
+182	Túlio De Melo	LOSC Lille	null	null	null	
+181	Salomon Kalou	LOSC Lille	null	LOSC Lille	null	
+180	Dimitri Payet	LOSC Lille	Olympique de Marseille	null	null	
+179	Florent Balmont	LOSC Lille	null	LOSC Lille	null	
+178	Lucas Digne	LOSC Lille	Paris Saint-Germain	Paris Saint-Germain	AS Roma	
+177	Mickaël Landreau	LOSC Lille	null	null	null	
+176	David Accam	Helsingborgs IF	null	null	null	
+175	Mattias Lindström	Helsingborgs IF	null	null	null	
+174	Daniel Nordmark	Helsingborgs IF	null	null	null	
+173	Jere Uronen	Helsingborgs IF	null	null	null	
+172	Erik Wahlstedt	Helsingborgs IF	null	null	null	
+171	Christoffer Andersson	Helsingborgs IF	null	null	null	
+170	Alejandro Bedoya	Helsingborgs IF	null	null	null	
+169	Nikola Djurdic	Helsingborgs IF	null	null	null	
+168	Joseph Baffo	Helsingborgs IF	null	null	null	
+167	Thomas Sørum	Helsingborgs IF	null	null	null	
+166	Ardian Gashi	Helsingborgs IF	null	null	null	
+165	May Mahlangu	Helsingborgs IF	null	null	null	
+164	Walid Atta	Helsingborgs IF	null	null	null	
+163	Pär Hansson	Helsingborgs IF	null	null	null	
+162	Anthony Watt	Celtic FC	null	null	null	
+161	Mikael Lustig	Celtic FC	Celtic FC	Celtic FC	Celtic FC	
+160	Paddy McCourt	Celtic FC	null	null	null	
+159	Gary Hooper	Celtic FC	null	null	null	
+158	Victor Wanyama	Celtic FC	null	null	null	
+157	James Forrest	Celtic FC	Celtic FC	null	Celtic FC	
+156	Charlie Mulgrew	Celtic FC	Celtic FC	Celtic FC	Celtic FC	
+155	Kris Commons	Celtic FC	Celtic FC	Celtic FC	Celtic FC	
+154	Giorgos Samaras	Celtic FC	Celtic FC	null	null	
+153	Scott Brown	Celtic FC	Celtic FC	null	Celtic FC	
+152	Kelvin Wilson	Celtic FC	null	null	null	
+151	Emilio Izaguirre	Celtic FC	Celtic FC	Celtic FC	Celtic FC	
+150	Adam Matthews	Celtic FC	Celtic FC	Celtic FC	null	
+149	Fraser Forster	Celtic FC	Celtic FC	null	null	
+148	Edgar Olekhnovich	FC BATE Borisov	null	FC BATE Borisov	null	
+147	Aleksandr Yurevich	FC BATE Borisov	null	null	null	
+146	Adi Elisha	Hapoel Kiryat Shmona FC	null	null	null	
+145	Sintayehu Sallalich	Hapoel Kiryat Shmona FC	null	NK Maribor	null	
+144	Éder	SC Braga	null	null	null	
+143	Paulo César	SC Braga	null	null	null	
+142	Ivan Krstanović	GNK Dinamo Zagreb	null	null	null	
+141	Jerko Leko	GNK Dinamo Zagreb	GNK Dinamo Zagreb	null	null	
+140	Adrián Calello	GNK Dinamo Zagreb	null	null	null	
+139	Duje Čop	GNK Dinamo Zagreb	GNK Dinamo Zagreb	null	null	
+138	Domagoj Vida	GNK Dinamo Zagreb	null	null	FC Dynamo Kyiv	
+137	Fatos Beqiraj	GNK Dinamo Zagreb	null	null	null	
+136	Josip Pivarić	GNK Dinamo Zagreb	GNK Dinamo Zagreb	null	GNK Dinamo Zagreb	
+135	Milan Badelj	GNK Dinamo Zagreb	null	null	null	
+134	Tonel	GNK Dinamo Zagreb	null	null	null	
+133	Sammir	GNK Dinamo Zagreb	GNK Dinamo Zagreb	null	null	
+132	Arijan Ademi	GNK Dinamo Zagreb	GNK Dinamo Zagreb	null	GNK Dinamo Zagreb	
+131	Josip Šimunić	GNK Dinamo Zagreb	GNK Dinamo Zagreb	null	null	
+130	Luis Ibáñez	GNK Dinamo Zagreb	null	null	null	
+129	Ivan Kelava	GNK Dinamo Zagreb	null	null	null	
+128	Nikola Komazec	NK Maribor	null	null	null	
+127	Dejan Mezga	NK Maribor	null	null	null	
+126	Aleš Mertelj	NK Maribor	NK Maribor	NK Maribor	null	
+125	Arghus	NK Maribor	NK Maribor	NK Maribor	null	
+124	Robert Berić	NK Maribor	null	null	SK Rapid Wien	
+123	Aleksander Rajčevič	NK Maribor	NK Maribor	NK Maribor	null	
+122	Goran Cvijanovič	NK Maribor	NK Maribor	null	null	
+121	Agim Ibraimi	NK Maribor	NK Maribor	NK Maribor	null	
+120	Tavares	NK Maribor	NK Maribor	NK Maribor	null	
+119	Aleš Mejač	NK Maribor	NK Maribor	NK Maribor	null	
+118	Martin Milec	NK Maribor	NK Maribor	null	null	
+117	Željko Filipovič	NK Maribor	NK Maribor	null	null	
+116	Jasmin Handanovič	NK Maribor	NK Maribor	NK Maribor	null	
+115	Maykon	AEL Limassol FC	null	null	null	
+114	Monteiro	AEL Limassol FC	null	null	null	
+113	Massimo Bruno	RSC Anderlecht	RSC Anderlecht	FC Salzburg	null	
+112	Roland Juhász	RSC Anderlecht	null	null	null	
+111	Tom De Sutter	RSC Anderlecht	null	null	Club Brugge KV	
+110	Olivier Deschacht	RSC Anderlecht	RSC Anderlecht	RSC Anderlecht	null	
+109	Lior Levi	Hapoel Kiryat Shmona FC	null	null	null	
+108	Barak Badash	Hapoel Kiryat Shmona FC	null	null	null	
+107	Ahmed Abed	Hapoel Kiryat Shmona FC	null	null	null	
+106	Dušan Matović	Hapoel Kiryat Shmona FC	null	null	null	
+105	László Lencse	Hapoel Kiryat Shmona FC	null	null	null	
+104	Adrian Rochet	Hapoel Kiryat Shmona FC	null	null	null	
+103	Darko Tasevski	Hapoel Kiryat Shmona FC	null	null	null	
+102	Shimon Abihazira	Hapoel Kiryat Shmona FC	null	null	null	
+101	Salah Hasarma	Hapoel Kiryat Shmona FC	null	null	null	
+100	El'ad Gabai	Hapoel Kiryat Shmona FC	null	null	null	
+99	Ravid Gazal	Hapoel Kiryat Shmona FC	null	null	null	
+98	Shir Tzedek	Hapoel Kiryat Shmona FC	null	null	null	
+97	Ben Vahaba	Hapoel Kiryat Shmona FC	null	null	null	
+96	Daniel Amos	Hapoel Kiryat Shmona FC	null	null	null	
+95	Roman Vasilyuk	FC BATE Borisov	null	null	null	
+94	Mikhail Sivakov	FC BATE Borisov	null	null	null	
+93	Aleksandr Pavlov	FC BATE Borisov	null	null	null	
+92	Denis Polyakov	FC BATE Borisov	null	FC BATE Borisov	FC BATE Borisov	
+91	Marko Simić	FC BATE Borisov	null	null	null	
+90	Vitali Rodionov	FC BATE Borisov	null	FC BATE Borisov	FC BATE Borisov	
+89	Maksim Bordachev	FC BATE Borisov	null	null	null	
+88	Aleksandr Hleb	FC BATE Borisov	null	null	FC BATE Borisov	
+87	Artem Radkov	FC BATE Borisov	null	null	null	
+86	Dmitri Mozolevski	FC BATE Borisov	null	null	FC BATE Borisov	
+85	Renan Bressan	FC BATE Borisov	null	null	null	
+84	Aleksandr Volodko	FC BATE Borisov	null	FC BATE Borisov	FC BATE Borisov	
+83	Dmitri Likhtarovich	FC BATE Borisov	null	FC BATE Borisov	null	
+82	Andrei Gorbunov	FC BATE Borisov	null	null	null	
+81	Olexandr Yakovenko	RSC Anderlecht	null	null	FC Dynamo Kyiv	
+80	Guillaume Gillet	RSC Anderlecht	RSC Anderlecht	null	null	
+79	Marcin Wasilewski	RSC Anderlecht	null	null	null	
+78	Dieudonné Mbokani	RSC Anderlecht	null	null	null	
+77	Behrang Safari	RSC Anderlecht	FC Basel 1893	FC Basel 1893	FC Basel 1893	
+76	Sacha Kljestan	RSC Anderlecht	RSC Anderlecht	RSC Anderlecht	null	
+75	Cheikhou Kouyaté	RSC Anderlecht	RSC Anderlecht	null	null	
+74	Milan Jovanović	RSC Anderlecht	null	null	null	
+73	Kanu	RSC Anderlecht	null	null	null	
+72	Denis Odoi	RSC Anderlecht	null	null	null	
+71	Lucas Biglia	RSC Anderlecht	null	null	null	
+70	Silvio Proto	RSC Anderlecht	RSC Anderlecht	RSC Anderlecht	null	
+69	Chris Dickson	AEL Limassol FC	null	null	null	
+68	Gilberto	AEL Limassol FC	null	null	null	
+67	Rui Miguel	AEL Limassol FC	FC Paços de Ferreira	null	null	
+66	Vouho	AEL Limassol FC	null	null	null	
+65	Dédé	AEL Limassol FC	null	null	null	
+64	Edwin Ouon	AEL Limassol FC	null	null	null	
+63	Carlitos	AEL Limassol FC	null	null	null	
+62	Marcos Airosa	AEL Limassol FC	null	null	null	
+61	Luciano Bebê	AEL Limassol FC	null	null	null	
+60	Paulo Sérgio	AEL Limassol FC	null	null	null	
+59	Marios Nikolaou	AEL Limassol FC	null	null	null	
+58	Edmar	AEL Limassol FC	null	null	null	
+57	Dosa Júnior	AEL Limassol FC	null	null	null	
+56	Matias Degra	AEL Limassol FC	FC Paços de Ferreira	null	null	
+55	Lazaros Christodoulopoulos	Panathinaikos FC	null	null	null	
+54	Toché	Panathinaikos FC	null	null	null	
+53	André Pinto	Panathinaikos FC	null	null	null	
+52	José Manuel Velázquez	Panathinaikos FC	null	null	null	
+51	Nikos Spyropoulos	Panathinaikos FC	null	null	null	
+50	Kostas Katsouranis	Panathinaikos FC	PAOK FC	null	null	
+49	Loukas Vyntra	Panathinaikos FC	null	null	null	
+48	Zeca	Panathinaikos FC	null	null	null	
+47	Bruno Fornaroli	Panathinaikos FC	null	null	null	
+46	Charis Mavrias	Panathinaikos FC	null	null	null	
+45	Vitolo	Panathinaikos FC	null	null	Sevilla FC	
+44	Jean-Alain Boumsong	Panathinaikos FC	null	null	null	
+43	Ibrahim Sissoko	Panathinaikos FC	null	null	null	
+42	Orestis Karnezis	Panathinaikos FC	null	null	null	
+41	Diego Buonanotte	Málaga CF	null	null	null	
+40	Duda	Málaga CF	null	null	null	
+39	Ignacio Camacho	Málaga CF	null	null	null	
+38	Fabrice	Málaga CF	null	null	null	
+37	Isco	Málaga CF	Real Madrid CF	Real Madrid CF	Real Madrid CF	
+36	Eliseu	Málaga CF	null	SL Benfica	SL Benfica	
+35	Enzo Maresca	Málaga CF	null	null	null	
+34	Nacho Monreal	Málaga CF	Arsenal FC	Arsenal FC	Arsenal FC	
+33	Jérémy Toulalan	Málaga CF	null	AS Monaco	AS Monaco	
+32	Joaquín	Málaga CF	null	null	null	
+31	Martín Demichelis	Málaga CF	Manchester City FC	Manchester City FC	Manchester City FC	
+30	Weligton	Málaga CF	null	null	null	
+29	Jesús Gámez	Málaga CF	null	Club Atlético de Madrid	null	
+28	Willy	Málaga CF	null	null	null	
+27	Maicosuel	Udinese Calcio	null	null	null	
+26	Giovanni Pasquale	Udinese Calcio	null	null	null	
+25	Emmanuel Badu	Udinese Calcio	null	null	null	
+24	Willians	Udinese Calcio	null	null	null	
+23	Giampiero Pinzi	Udinese Calcio	null	null	null	
+22	Roberto Pereyra	Udinese Calcio	null	Juventus	Juventus	
+21	Diego Fabbrini	Udinese Calcio	null	null	null	
+20	Pablo Armero	Udinese Calcio	SSC Napoli	null	null	
+19	Mehdi Benatia	Udinese Calcio	null	FC Bayern München	null	
+18	Maurizio Domizzi	Udinese Calcio	null	null	null	
+17	Antonio Di Natale	Udinese Calcio	null	null	null	
+16	Dušan Basta	Udinese Calcio	null	null	null	
+15	Danilo	Udinese Calcio	FC Porto	FC Porto	Real Madrid CF	
+14	Željko Brkić	Udinese Calcio	null	null	null	
+13	José Luís	SC Braga	null	null	null	
+12	Rúben Micael	SC Braga	null	null	null	
+11	Ruben Amorim	SC Braga	null	null	null	
+10	Hugo Viana	SC Braga	null	null	null	
+9	Douglão	SC Braga	null	null	null	
+8	Alan	SC Braga	null	FC Salzburg	null	
+7	Custódio	SC Braga	null	null	null	
+6	Paulo Vinícius	SC Braga	null	null	null	
+5	Leandro Salino	SC Braga	Olympiacos FC	null	Olympiacos FC	
+4	Ismaily	SC Braga	null	null	FC Shakhtar Donetsk	
+3	Lima	SC Braga	SL Benfica	SL Benfica	null	
+2	Hélder Barbosa	SC Braga	null	null	null	
+1	Mossoró	SC Braga	null	null	null	
+0	Beto	SC Braga	null	null	null	
+1290	Erik Durm	null	Borussia Dortmund	Borussia Dortmund	null	
+1289	Yohan Cabaye	null	Paris Saint-Germain	Paris Saint-Germain	null	
+1288	Miloš Jojić	null	Borussia Dortmund	Borussia Dortmund	null	
+1287	Nikos Vergos	null	Olympiacos FC	null	null	
+1286	Anthony Annan	null	FC Schalke 04	null	null	
+1285	Kaan Ayhan	null	FC Schalke 04	FC Schalke 04	null	
+1284	Diego	null	Club Atlético de Madrid	null	null	
+1283	José Sosa	null	Club Atlético de Madrid	null	null	
+1282	Filipe Luís	null	Club Atlético de Madrid	Chelsea FC	Club Atlético de Madrid	
+1281	Jesé	null	Real Madrid CF	Real Madrid CF	Real Madrid CF	
+1280	Iván Marcano	null	Olympiacos FC	FC Porto	FC Porto	
+1279	Hernán Peréz	null	Olympiacos FC	null	null	
+1278	Manuel Friedrich	null	Borussia Dortmund	null	null	
+1277	José Rondón	null	FC Zenit	FC Zenit	null	
+1276	Adel Taarabt	null	AC Milan	null	null	
+1275	Jean Marie Dongou	null	FC Barcelona	null	null	
+1274	Javi Manquillo	null	Club Atlético de Madrid	Liverpool FC	null	
+1273	Daniel Aranzubia	null	Club Atlético de Madrid	null	null	
+1272	Rafael Cabral	null	SSC Napoli	SSC Napoli	null	
+1271	Marian Sarr	null	Borussia Dortmund	null	null	
+1270	Paul Pîrvulescu	null	FC Steaua Bucureşti	FC Steaua Bucureşti	null	
+1269	Mark Schwarzer	null	Chelsea FC	null	null	
+1268	Vyacheslav Karavaev	null	PFC CSKA Moskva	null	null	
+1267	Alan Dzagoev	null	PFC CSKA Moskva	PFC CSKA Moskva	PFC CSKA Moskva	
+1266	Andy Najar	null	RSC Anderlecht	RSC Anderlecht	null	
+1265	Kalifa Traoré	null	Paris Saint-Germain	null	null	
+1264	Casemiro	null	Real Madrid CF	FC Porto	Real Madrid CF	
+1263	Christoffer Remmer	null	FC København	null	null	
+1262	Adnan Januzaj	null	Manchester United FC	null	Manchester United FC	
+1261	Julian Green	null	FC Bayern München	null	FC Bayern München	
+1260	Danny Amankwaa	null	FC København	null	null	
+1259	Marvin Pourie	null	FC København	null	null	
+1258	Javier Ros	null	Real Sociedad de Fútbol	null	null	
+1257	Jon Ansotegi	null	Real Sociedad de Fútbol	null	null	
+1256	Adama Traoré	null	FC Barcelona	null	null	
+1255	Patric Gabarron	null	FC Barcelona	null	null	
+1254	Danny Hoesen	null	AFC Ajax	null	null	
+1253	Tom Rogic	null	Celtic FC	null	null	
+1252	Emiliano Insua	null	Club Atlético de Madrid	null	null	
+1251	Ricardo	null	FC Porto	null	null	
+1250	Ralf Fährmann	null	FC Schalke 04	FC Schalke 04	null	
+1249	Ionuţ Neagu	null	FC Steaua Bucureşti	null	null	
+1248	Davy Klaassen	null	AFC Ajax	AFC Ajax	null	
+1247	Tomas Šimkovič	null	FK Austria Wien	null	null	
+1246	Josuha Guilavogui	null	Club Atlético de Madrid	null	VfL Wolfsburg	
+1245	Blerim Dzemaili	null	SSC Napoli	null	null	
+1244	Alexandru Chipciu	null	FC Steaua Bucureşti	FC Steaua Bucureşti	null	
+1243	Kevin De Bruyne	null	Chelsea FC	null	Manchester City FC	
+1242	Mitchell Weiser	null	FC Bayern München	FC Bayern München	null	
+1241	Costel Pantilimon	null	Manchester City FC	null	null	
+1240	Sílvio	null	SL Benfica	null	SL Benfica	
+1239	Anthony Vanden Borre	null	RSC Anderlecht	RSC Anderlecht	null	
+1238	Seydou Doumbia	null	PFC CSKA Moskva	PFC CSKA Moskva	PFC CSKA Moskva	
+1237	Ivan Cavaleiro	null	SL Benfica	null	AS Monaco	
+1236	Fernando Llorente	null	Juventus	Juventus	Sevilla FC	
+1235	Gareth Bale	null	Real Madrid CF	Real Madrid CF	Real Madrid CF	
+1234	Jöel Veltman	null	AFC Ajax	null	null	
+1233	Amido Baldé	null	Celtic FC	null	null	
+1232	Emiliano Insúa	null	Club Atlético de Madrid	null	null	
+1231	Diego Costa	null	Club Atlético de Madrid	Chelsea FC	Chelsea FC	
+1230	Srdan Spiridonovic	null	FK Austria Wien	null	null	
+1229	Emir Dilaver	null	FK Austria Wien	null	null	
+1228	Kassim Abdallah	null	Olympique de Marseille	null	null	
+1227	Souleymane Diawara	null	Olympique de Marseille	null	null	
+1226	Benoît Cheyrou	null	Olympique de Marseille	null	null	
+1225	Serey Die	null	FC Basel 1893	null	null	
+1224	Martin Pospíšil	null	FC Viktoria Plzeň	null	null	
+1223	Mark González	null	PFC CSKA Moskva	null	null	
+1222	Rasmus Elm	null	PFC CSKA Moskva	null	null	
+1221	Aleksei Berezutski	null	PFC CSKA Moskva	PFC CSKA Moskva	PFC CSKA Moskva	
+1220	Jan Kirchhoff	null	FC Bayern München	FC Schalke 04	null	
+1219	Michael Olaitan	null	Olympiacos FC	null	null	
+1218	Delvin N'Dinga	null	Olympiacos FC	Olympiacos FC	null	
+1217	Youri Tielemans	null	RSC Anderlecht	RSC Anderlecht	null	
+1216	Thomas Kaminski	null	RSC Anderlecht	null	null	
+1215	Jesé Rodríguez	null	Real Madrid CF	null	null	
+1214	Asier Illarramendi	null	Real Madrid CF	Real Madrid CF	null	
+1213	Daniel Carvajal	null	Real Madrid CF	null	null	
+1212	Facundo Ferreyra	null	FC Shakhtar Donetsk	null	FC Shakhtar Donetsk	
+1211	Lasse Schöne	null	AFC Ajax	AFC Ajax	null	
+1210	Lucas Andersen	null	AFC Ajax	AFC Ajax	null	
+1209	Lesley de Sa	null	AFC Ajax	null	null	
+1208	Jasper Cillessen	null	AFC Ajax	AFC Ajax	null	
+1207	Giorgios Samaras	null	Celtic FC	null	null	
+1206	Christian Ramsebner	null	FK Austria Wien	null	null	
+1205	Óliver Torres	null	Club Atlético de Madrid	FC Porto	Club Atlético de Madrid	
+1204	Tiago	null	Club Atlético de Madrid	SL Benfica	Club Atlético de Madrid	
+1203	Nabil Ghilas	null	FC Porto	null	null	
+1202	Mario Lemina	null	Olympique de Marseille	null	Juventus	
+1201	Benjamin Mendy	null	Olympique de Marseille	null	null	
+1200	Sokratis Papastathopoulos	null	Borussia Dortmund	Borussia Dortmund	null	
+1199	Eriс Durm	null	Borussia Dortmund	null	null	
+1198	Duván Zapata	null	SSC Napoli	SSC Napoli	null	
+1197	Federico Fernández	null	SSC Napoli	null	null	
+1196	André Schürrle	null	Chelsea FC	Chelsea FC	VfL Wolfsburg	
+1195	Fernando Varela	null	FC Steaua Bucureşti	FC Steaua Bucureşti	null	
+1194	Tim Hoogland	null	FC Schalke 04	null	null	
+1193	Nir Biton	null	Celtic FC	Celtic FC	null	
+1192	Cristian Zaccardo	null	AC Milan	null	null	
+1191	Valter Birsa	null	AC Milan	null	null	
+1190	Thulani Serero	null	AFC Ajax	AFC Ajax	null	
+1189	Mike van der Hoorn	null	AFC Ajax	AFC Ajax	null	
+1188	Stefano Denswil	null	AFC Ajax	AFC Ajax	null	
+1187	Nicolai Boilesen	null	AFC Ajax	AFC Ajax	null	
+1186	Kolbeinn Sigthórsson	null	AFC Ajax	AFC Ajax	null	
+1185	Lerin Duarte	null	AFC Ajax	null	null	
+1184	Neymar	null	FC Barcelona	FC Barcelona	FC Barcelona	
+1183	Hector Herrera	null	FC Porto	FC Porto	FC Porto	
+1182	Juan Quintero	null	FC Porto	FC Porto	null	
+1181	Licá	null	FC Porto	null	null	
+1180	Josué	null	FC Porto	null	null	
+1179	Tomas Simkovic	null	FK Austria Wien	null	null	
+1178	Oleg Shatov	null	FC Zenit	FC Zenit	FC Zenit	
+1177	Cristian Ansaldi	null	FC Zenit	Club Atlético de Madrid	null	
+1176	Léo Baptistão	null	Club Atlético de Madrid	null	null	
+1175	Cristian Rodríguez	null	Club Atlético de Madrid	Club Atlético de Madrid	null	
+1174	Raúl García	null	Club Atlético de Madrid	Club Atlético de Madrid	null	
+1173	Miranda	null	Club Atlético de Madrid	Club Atlético de Madrid	null	
+1172	Juanfran	null	Club Atlético de Madrid	Club Atlético de Madrid	Club Atlético de Madrid	
+1171	Gabi	null	Club Atlético de Madrid	Club Atlético de Madrid	Club Atlético de Madrid	
+1170	Arda Turan	null	Club Atlético de Madrid	Club Atlético de Madrid	FC Barcelona	
+1169	Adrián López	null	Club Atlético de Madrid	FC Porto	null	
+1168	Koke	null	Club Atlético de Madrid	Club Atlético de Madrid	Club Atlético de Madrid	
+1167	Mario Suárez	null	Club Atlético de Madrid	Club Atlético de Madrid	null	
+1166	Filipe Luis	null	Club Atlético de Madrid	null	null	
+1165	Diego Godín	null	Club Atlético de Madrid	Club Atlético de Madrid	Club Atlético de Madrid	
+1164	Thibaut Courtois	null	Club Atlético de Madrid	Chelsea FC	Chelsea FC	
+1163	Pierre-Emerick Aubameyang	null	Borussia Dortmund	Borussia Dortmund	null	
+1162	Jonas Hofmann	null	Borussia Dortmund	null	null	
+1161	Mitchell Langerak	null	Borussia Dortmund	Borussia Dortmund	null	
+1160	Goran Pandev	null	SSC Napoli	null	null	
+1159	Giandomenico Mesto	null	SSC Napoli	null	null	
+1158	Dries Mertens	null	SSC Napoli	SSC Napoli	null	
+1157	Gökhan Inler	null	SSC Napoli	null	null	
+1156	Valon Behrami	null	SSC Napoli	null	null	
+1155	Lorenzo Insigne	null	SSC Napoli	SSC Napoli	null	
+1154	Camilo Zúñiga	null	SSC Napoli	null	null	
+1153	Marek Hamšík	null	SSC Napoli	SSC Napoli	null	
+1152	Christian Maggio	null	SSC Napoli	SSC Napoli	null	
+1151	Miguel Britos	null	SSC Napoli	SSC Napoli	null	
+1150	Pepe Reina	null	SSC Napoli	null	null	
+1149	Saber Khalifa	null	Olympique de Marseille	null	null	
+1148	Florian Thauvin	null	Olympique de Marseille	null	null	
+1147	Jordan Ayew	null	Olympique de Marseille	null	null	
+1146	Mathieu Valbuena	null	Olympique de Marseille	null	Olympique Lyonnais	
+1145	Giannelli Imbula	null	Olympique de Marseille	null	FC Porto	
+1144	Rod Fanni	null	Olympique de Marseille	null	null	
+1143	Alaixys Romao	null	Olympique de Marseille	null	null	
+1142	Jérémy Morel	null	Olympique de Marseille	null	Olympique Lyonnais	
+1141	André Ayew	null	Olympique de Marseille	null	null	
+1140	André-Pierre Gignac	null	Olympique de Marseille	null	null	
+1139	Lucas Mendes	null	Olympique de Marseille	null	null	
+1138	Nicolas N'Koulou	null	Olympique de Marseille	null	null	
+1137	Steve Mandanda	null	Olympique de Marseille	null	null	
+1136	Mihai Pintilii	null	FC Steaua Bucureşti	null	null	
+1135	Dennis Aogo	null	FC Schalke 04	FC Schalke 04	null	
+1134	Ivan Ivanov	null	FC Basel 1893	null	null	
+1133	Demba Ba	null	Chelsea FC	Beşiktaş JK	null	
+1132	Samuel Eto'o	null	Chelsea FC	null	null	
+1131	Marco van Ginkel	null	Chelsea FC	null	PSV Eindhoven	
+1130	Álvaro Negredo	null	Manchester City FC	null	Valencia CF	
+1129	Jesús Navas	null	Manchester City FC	Manchester City FC	Manchester City FC	
+1128	Roman Hubník	null	FC Viktoria Plzeň	null	null	
+1127	Marek Bakoš	null	FC Viktoria Plzeň	null	null	
+1126	Lukáš Hejda	null	FC Viktoria Plzeň	null	null	
+1125	Konstantin Bazelyuk	null	PFC CSKA Moskva	null	null	
+1124	Georgi Milanov	null	PFC CSKA Moskva	PFC CSKA Moskva	PFC CSKA Moskva	
+1123	Zoran Tošić	null	PFC CSKA Moskva	PFC CSKA Moskva	PFC CSKA Moskva	
+1122	Georgi Schennikov	null	PFC CSKA Moskva	PFC CSKA Moskva	PFC CSKA Moskva	
+1121	Vitinho	null	PFC CSKA Moskva	null	null	
+1120	Vasili Berezutski	null	PFC CSKA Moskva	PFC CSKA Moskva	PFC CSKA Moskva	
+1119	Aleksandrs Cauņa	null	PFC CSKA Moskva	PFC CSKA Moskva	PFC CSKA Moskva	
+1118	Ahmed Musa	null	PFC CSKA Moskva	PFC CSKA Moskva	PFC CSKA Moskva	
+1117	Kirill Nababkin	null	PFC CSKA Moskva	PFC CSKA Moskva	PFC CSKA Moskva	
+1116	Steven Zuber	null	PFC CSKA Moskva	null	null	
+1115	Keisuke Honda	null	PFC CSKA Moskva	null	null	
+1114	Sergei Ignashevich	null	PFC CSKA Moskva	PFC CSKA Moskva	PFC CSKA Moskva	
+1113	Pontus Wernbloom	null	PFC CSKA Moskva	PFC CSKA Moskva	PFC CSKA Moskva	
+1112	Igor Akinfeev	null	PFC CSKA Moskva	PFC CSKA Moskva	PFC CSKA Moskva	
+1111	Edinson Cavani	null	Paris Saint-Germain	Paris Saint-Germain	Paris Saint-Germain	
+1110	Marquinhos	null	Paris Saint-Germain	Paris Saint-Germain	Paris Saint-Germain	
+1109	Sambou Yatabaré	null	Olympiacos FC	null	null	
+1108	Joel Campbell	null	Olympiacos FC	Arsenal FC	Arsenal FC	
+1107	Gaëtan Bong	null	Olympiacos FC	null	null	
+1106	Vladimír Weiss	null	Olympiacos FC	null	null	
+1105	Alejandro Domínguez	null	Olympiacos FC	Olympiacos FC	Olympiacos FC	
+1104	Carl Medjani	null	Olympiacos FC	null	null	
+1103	Andreas Samaris	null	Olympiacos FC	SL Benfica	SL Benfica	
+1102	Roberto	null	Olympiacos FC	Olympiacos FC	Olympiacos FC	
+1101	Frank Acheampong	null	RSC Anderlecht	RSC Anderlecht	null	
+1100	Cyriac	null	RSC Anderlecht	RSC Anderlecht	null	
+1099	Aleksandar Mitrović	null	RSC Anderlecht	RSC Anderlecht	null	
+1098	Chancel Mbemba	null	RSC Anderlecht	RSC Anderlecht	null	
+1097	Matías Suárez	null	RSC Anderlecht	RSC Anderlecht	null	
+1096	Luka Milivojević	null	RSC Anderlecht	Olympiacos FC	Olympiacos FC	
+1095	Fabrice N'Sakala	null	RSC Anderlecht	RSC Anderlecht	null	
+1094	Lazar Marković	null	SL Benfica	Liverpool FC	null	
+1093	Enzo Pérez	null	SL Benfica	SL Benfica	Valencia CF	
+1092	Guilherme Siqueira	null	SL Benfica	Club Atlético de Madrid	Club Atlético de Madrid	
+1091	Filip Djuričić	null	SL Benfica	null	null	
+1090	Angelo Ogbonna	null	Juventus	Juventus	null	
+1089	Youssef Toutouh	null	FC København	null	null	
+1088	Rúrik Gíslason	null	FC København	null	null	
+1087	Georg Margreitter	null	FC København	null	null	
+1086	Daniel Braaten	null	FC København	null	null	
+1085	Fanendo Adi	null	FC København	null	null	
+1084	Olof Mellberg	null	FC København	null	null	
+1083	Bernard	null	FC Shakhtar Donetsk	FC Shakhtar Donetsk	FC Shakhtar Donetsk	
+1082	Fred	null	FC Shakhtar Donetsk	FC Shakhtar Donetsk	FC Shakhtar Donetsk	
+1081	Vyacheslav Shevchuk	null	FC Shakhtar Donetsk	FC Shakhtar Donetsk	FC Shakhtar Donetsk	
+1080	Imanol Agirretxe	null	Real Sociedad de Fútbol	null	null	
+1079	Alberto de la Bella	null	Real Sociedad de Fútbol	null	null	
+1078	Dani Estrada	null	Real Sociedad de Fútbol	null	null	
+1077	Mikel González	null	Real Sociedad de Fútbol	null	null	
+1076	Robbie Kruse	null	FC Bayer 04 Leverkusen	null	null	
+1075	Eren Derdiyok	null	FC Bayer 04 Leverkusen	null	null	
+1074	Lars Bender	null	FC Bayer 04 Leverkusen	FC Bayer 04 Leverkusen	null	
+1073	Giulio Donati	null	FC Bayer 04 Leverkusen	FC Bayer 04 Leverkusen	null	
+1072	Ömer Toprak	null	FC Bayer 04 Leverkusen	FC Bayer 04 Leverkusen	null	
+1071	Sidney Sam	null	FC Bayer 04 Leverkusen	FC Schalke 04	null	
+1070	Sebastian Boenisch	null	FC Bayer 04 Leverkusen	FC Bayer 04 Leverkusen	null	
+1069	Stefan Kiessling	null	FC Bayer 04 Leverkusen	FC Bayer 04 Leverkusen	null	
+1068	Emre Can	null	FC Bayer 04 Leverkusen	Liverpool FC	null	
+1067	Son Heung-Min	null	FC Bayer 04 Leverkusen	FC Bayer 04 Leverkusen	null	
+1066	Simon Rolfes	null	FC Bayer 04 Leverkusen	null	null	
+1065	Emir Spahić	null	FC Bayer 04 Leverkusen	FC Bayer 04 Leverkusen	null	
+1064	Stefan Reinartz	null	FC Bayer 04 Leverkusen	FC Bayer 04 Leverkusen	null	
+1063	Bernd Leno	null	FC Bayer 04 Leverkusen	FC Bayer 04 Leverkusen	null	
+1062	Marouane Fellaini	null	Manchester United FC	null	Manchester United FC	
+1061	Nabil Fekir	null	Olympique Lyonnais	null	null	
+1060	Jordan Ferri	null	Olympique Lyonnais	null	Olympique Lyonnais	
+1059	Samuel Umtiti	null	Olympique Lyonnais	null	Olympique Lyonnais	
+1058	Bakary Koné	null	Olympique Lyonnais	null	Olympique Lyonnais	
+1057	Chori Castro	null	Real Sociedad de Fútbol	null	null	
+1056	Gorka Elustondo	null	Real Sociedad de Fútbol	null	null	
+1055	Daniel Estrada	null	Real Sociedad de Fútbol	null	null	
+1054	Ion Ansotegi	null	Real Sociedad de Fútbol	null	null	
+1053	Xabi Prieto	null	Real Sociedad de Fútbol	null	null	
+1052	Ola Toivonen	null	PSV Eindhoven	null	null	
+1051	Daniel Kolář	null	FC Viktoria Plzeň	null	null	
+1050	Nusmir Fajić	null	NK Maribor	null	null	
+1049	Rui Caetano	null	FC Paços de Ferreira	null	null	
+1048	Hélder Lopes	null	FC Paços de Ferreira	null	null	
+1047	Grégory	null	FC Paços de Ferreira	null	null	
+1046	Luís Neto	null	FC Zenit	FC Zenit	FC Zenit	
+1045	Anthony Stokes	null	Celtic FC	Celtic FC	null	
+1044	Tomáš Necid	null	PAOK FC	null	null	
+1043	Giorgos Georgiadis	null	PAOK FC	null	null	
+1042	Giannis Skondras	null	PAOK FC	null	null	
+1041	Leandro Tatu	null	FC Steaua Bucureşti	null	null	
+1040	Lucian Filip	null	FC Steaua Bucureşti	FC Steaua Bucureşti	null	
+1039	Patryk Mikita	null	Legia Warszawa	null	null	
+1038	Henrik Ojamaa	null	Legia Warszawa	null	null	
+1037	Bartosz Bereszyński	null	Legia Warszawa	null	null	
+1036	Vitinha	null	PFC Ludogorets 1945	null	null	
+1035	Fábio Espinho	null	PFC Ludogorets 1945	PFC Ludogorets 1945	null	
+1034	Mihail Aleksandrov	null	PFC Ludogorets 1945	PFC Ludogorets 1945	null	
+1033	Choco	null	PFC Ludogorets 1945	null	null	
+1032	Tero Mäntylä	null	PFC Ludogorets 1945	null	null	
+1031	Philipp Degen	null	FC Basel 1893	FC Basel 1893	FC Basel 1893	
+1030	Fatos Bećiraj	null	GNK Dinamo Zagreb	null	null	
+1029	Domagoj Antolić	null	GNK Dinamo Zagreb	null	GNK Dinamo Zagreb	
+1028	Grzegorz Sandomierski	null	GNK Dinamo Zagreb	null	null	
+1027	Roman Kienast	null	FK Austria Wien	null	null	
+1026	Markus Suttner	null	FK Austria Wien	null	null	
+1025	Marko Stankovic	null	FK Austria Wien	null	null	
+1024	Caner Erkin	null	Fenerbahçe SK	null	null	
+1023	Ryo Miyaichi	null	Arsenal FC	null	null	
+1022	Yaya Sanogo	null	Arsenal FC	Arsenal FC	null	
+1021	Michał Żyro	null	Legia Warszawa	null	null	
+1020	Łukasz Broź	null	Legia Warszawa	null	null	
+1019	Vladimer Dvalishvili	null	Legia Warszawa	null	null	
+1018	Dominik Furman	null	Legia Warszawa	null	null	
+1017	Miroslav Radović	null	Legia Warszawa	null	null	
+1016	Jakub Rzeźniczak	null	Legia Warszawa	null	null	
+1015	Ivica Vrdoljak	null	Legia Warszawa	null	null	
+1014	Jakub Kosecki	null	Legia Warszawa	null	null	
+1013	Michał Kucharczyk	null	Legia Warszawa	null	null	
+1012	Jakub Wawrzyniak	null	Legia Warszawa	null	null	
+1011	Marek Saganowski	null	Legia Warszawa	null	null	
+1010	Tomasz Jodłowiec	null	Legia Warszawa	null	null	
+1009	Dossa Júnior	null	Legia Warszawa	null	null	
+1008	Dušan Kuciak	null	Legia Warszawa	null	null	
+1007	Gabriel Iancu	null	FC Steaua Bucureşti	FC Steaua Bucureşti	null	
+1006	Adrian Cristea	null	FC Steaua Bucureşti	null	null	
+1005	Andrei Prepeliţă	null	FC Steaua Bucureşti	FC Steaua Bucureşti	null	
+1004	Adrian Popa	null	FC Steaua Bucureşti	FC Steaua Bucureşti	null	
+1003	Alexandru Bourceanu	null	FC Steaua Bucureşti	null	null	
+1002	Federico Piovaccari	null	FC Steaua Bucureşti	null	null	
+1001	Nicolae Stanciu	null	FC Steaua Bucureşti	FC Steaua Bucureşti	null	
+1000	Daniel Georgievski	null	FC Steaua Bucureşti	null	null	
+999	Iasmin Latovlevici	null	FC Steaua Bucureşti	FC Steaua Bucureşti	null	
+998	Cristian Tănase	null	FC Steaua Bucureşti	FC Steaua Bucureşti	null	
+997	Florin Gardoş	null	FC Steaua Bucureşti	null	null	
+996	Mihai Doru Pintilii	null	FC Steaua Bucureşti	null	null	
+995	Łukasz Szukała	null	FC Steaua Bucureşti	FC Steaua Bucureşti	null	
+994	Ciprian Tătăruşanu	null	FC Steaua Bucureşti	null	null	
+993	Taulant Xhaka	null	FC Basel 1893	FC Basel 1893	null	
+992	Matías Delgado	null	FC Basel 1893	FC Basel 1893	FC Basel 1893	
+991	Mohamed Elneny	null	FC Basel 1893	FC Basel 1893	Arsenal FC	
+990	Giovanni Sio	null	FC Basel 1893	FC Basel 1893	null	
+989	Mohamed Salah	null	FC Basel 1893	Chelsea FC	AS Roma	
+988	Kay Voser	null	FC Basel 1893	null	null	
+987	Valentin Stocker	null	FC Basel 1893	null	null	
+986	Arlind Ajeti	null	FC Basel 1893	FC Basel 1893	null	
+985	Michel	null	PFC Ludogorets 1945	null	null	
+984	Virgil Misidjan	null	PFC Ludogorets 1945	PFC Ludogorets 1945	null	
+983	Fábio	null	PFC Ludogorets 1945	null	null	
+982	Marcelinho	null	PFC Ludogorets 1945	PFC Ludogorets 1945	null	
+981	Júnior Caiçara	null	PFC Ludogorets 1945	PFC Ludogorets 1945	null	
+980	Ivan Stoyanov	null	PFC Ludogorets 1945	null	null	
+979	Cosmin Moţi	null	PFC Ludogorets 1945	PFC Ludogorets 1945	null	
+978	Yordan Minev	null	PFC Ludogorets 1945	PFC Ludogorets 1945	null	
+977	Hristo Zlatinski	null	PFC Ludogorets 1945	PFC Ludogorets 1945	null	
+976	Svetoslav Dyakov	null	PFC Ludogorets 1945	PFC Ludogorets 1945	null	
+975	Dani Abalo	null	PFC Ludogorets 1945	PFC Ludogorets 1945	null	
+974	Roman Bezjak	null	PFC Ludogorets 1945	PFC Ludogorets 1945	null	
+973	Alexandre Barthe	null	PFC Ludogorets 1945	null	null	
+972	Vladislav Stoyanov	null	PFC Ludogorets 1945	PFC Ludogorets 1945	null	
+971	Alper Potuk	null	Fenerbahçe SK	null	null	
+970	Emre Belözoğlu	null	Fenerbahçe SK	null	null	
+969	Michal Kadlec	null	Fenerbahçe SK	null	null	
+968	Raul Meireles	null	Fenerbahçe SK	null	null	
+967	Pierre Webó	null	Fenerbahçe SK	null	null	
+966	Bekir İrtegün	null	Fenerbahçe SK	null	null	
+965	Volkan Demirel	null	Fenerbahçe SK	null	null	
+964	Sekou Oliseh	null	PAOK FC	null	null	
+963	Stefanos Athanasiadis	null	PAOK FC	null	null	
+962	Ergys Kace	null	PAOK FC	null	null	
+961	Stelios Kitsiou	null	PAOK FC	null	null	
+960	Costin Lazăr	null	PAOK FC	null	null	
+959	Liam Lawrence	null	PAOK FC	null	null	
+958	Lino	null	PAOK FC	null	null	
+957	Miguel Vítor	null	PAOK FC	null	null	
+956	Dimitris Salpingidis	null	PAOK FC	null	null	
+955	Alexandros Tziolis	null	PAOK FC	null	null	
+954	Jacobo	null	PAOK FC	null	null	
+953	Christian Clemens	null	FC Schalke 04	FC Schalke 04	null	
+952	Leon Goretzka	null	FC Schalke 04	FC Schalke 04	null	
+951	Ádám Szalai	null	FC Schalke 04	null	null	
+950	Max Meyer	null	FC Schalke 04	FC Schalke 04	null	
+949	Thomas Murg	null	FK Austria Wien	null	null	
+948	Alexander Grünwald	null	FK Austria Wien	null	null	
+947	Rubin Okotie	null	FK Austria Wien	null	null	
+946	Fabian Koch	null	FK Austria Wien	null	null	
+945	Daniel Royer	null	FK Austria Wien	null	null	
+944	James Holland	null	FK Austria Wien	null	null	
+943	Marin Leovac	null	FK Austria Wien	null	null	
+942	Marko Stanković	null	FK Austria Wien	null	null	
+941	Florian Mader	null	FK Austria Wien	null	null	
+940	Philipp Hosiner	null	FK Austria Wien	null	null	
+939	Manuel Ortlechner	null	FK Austria Wien	null	null	
+938	Tomáš Jun	null	FK Austria Wien	null	null	
+937	Kaja Rogulj	null	FK Austria Wien	null	null	
+936	Heinz Lindner	null	FK Austria Wien	null	null	
+935	Zvonko Pamić	null	GNK Dinamo Zagreb	null	null	
+934	Said Husejinović	null	GNK Dinamo Zagreb	null	null	
+933	Lee Addy	null	GNK Dinamo Zagreb	null	null	
+932	Junior Fernándes	null	GNK Dinamo Zagreb	null	null	
+931	El Arbi Hilal Soudani	null	GNK Dinamo Zagreb	null	null	
+930	Oliver Zelenika	null	GNK Dinamo Zagreb	null	null	
+929	Baldé	null	Celtic FC	null	null	
+928	Steven Mouyokolo	null	Celtic FC	null	null	
+927	Virgil van Dijk	null	Celtic FC	Celtic FC	null	
+926	Igor Zenkovich	null	FC Shakhter Karagandy	null	null	
+925	Sergei Khizhnichenko	null	FC Shakhter Karagandy	null	null	
+924	Roger Cañas	null	FC Shakhter Karagandy	null	FC Astana	
+923	Aleksandar Simčević	null	FC Shakhter Karagandy	null	null	
+922	Gevorg Ghazaryan	null	FC Shakhter Karagandy	null	null	
+921	Sergei Maliy	null	FC Shakhter Karagandy	null	null	
+920	Aldin Džidić	null	FC Shakhter Karagandy	null	null	
+919	Andrei Poryvaev	null	FC Shakhter Karagandy	null	null	
+918	Andrei Finonchenko	null	FC Shakhter Karagandy	null	null	
+917	Nikola Vasiljević	null	FC Shakhter Karagandy	null	null	
+916	Gediminas Vičius	null	FC Shakhter Karagandy	null	null	
+915	Aleksandr Mokin	null	FC Shakhter Karagandy	null	null	
+914	Andrea Poli	null	AC Milan	null	null	
+913	Oscar Hiljemark	null	PSV Eindhoven	null	null	
+912	Florian Jozefzoon	null	PSV Eindhoven	null	null	
+911	Jürgen Locadia	null	PSV Eindhoven	null	PSV Eindhoven	
+910	Park Ji-Sung	null	PSV Eindhoven	null	null	
+909	Joshua Brenet	null	PSV Eindhoven	null	PSV Eindhoven	
+908	Memphis Depay	null	PSV Eindhoven	null	Manchester United FC	
+907	Jetro Willems	null	PSV Eindhoven	null	PSV Eindhoven	
+906	Georginio Wijnaldum	null	PSV Eindhoven	null	null	
+905	Tim Matavž	null	PSV Eindhoven	null	null	
+904	Stijn Schaars	null	PSV Eindhoven	null	PSV Eindhoven	
+903	Adam Maher	null	PSV Eindhoven	null	PSV Eindhoven	
+902	Jeffrey Bruma	null	PSV Eindhoven	null	PSV Eindhoven	
+901	Karim Rekik	null	PSV Eindhoven	null	null	
+900	Jeroen Zoet	null	PSV Eindhoven	null	PSV Eindhoven	
+899	Amir Derviševič	null	NK Maribor	NK Maribor	null	
+898	Jean Philippe Mendy	null	NK Maribor	null	null	
+897	Damjan Bohar	null	NK Maribor	NK Maribor	null	
+896	Mitja Viler	null	NK Maribor	NK Maribor	null	
+895	Nejc Potokar	null	NK Maribor	null	null	
+894	František Rajtoral	null	FC Viktoria Plzeň	null	null	
+893	Michal Ďuriš	null	FC Viktoria Plzeň	null	null	
+892	Stanislav Tecl	null	FC Viktoria Plzeň	null	null	
+891	Marián Čišovský	null	FC Viktoria Plzeň	null	null	
+890	Václav Procházka	null	FC Viktoria Plzeň	null	null	
+889	Jan Kovařík	null	FC Viktoria Plzeň	null	null	
+888	Vladimír Darida	null	FC Viktoria Plzeň	null	null	
+887	Tomáš Wágner	null	FC Viktoria Plzeň	null	null	
+886	Radim Řezník	null	FC Viktoria Plzeň	null	null	
+885	Milan Petržela	null	FC Viktoria Plzeň	null	null	
+884	Pavel Horváth	null	FC Viktoria Plzeň	null	null	
+883	David Limberský	null	FC Viktoria Plzeň	null	null	
+882	Tomáš Hořava	null	FC Viktoria Plzeň	null	null	
+881	Matúš Kozáčik	null	FC Viktoria Plzeň	null	null	
+880	Esteban Granero	null	Real Sociedad de Fútbol	null	null	
+879	Gonzalo Castro	null	Real Sociedad de Fútbol	FC Bayer 04 Leverkusen	null	
+878	Rubén Pardo	null	Real Sociedad de Fútbol	null	null	
+877	Alberto De La Bella	null	Real Sociedad de Fútbol	null	null	
+876	Liassine Cadamuro	null	Real Sociedad de Fútbol	null	null	
+875	David Zurutuza	null	Real Sociedad de Fútbol	null	null	
+874	Carlos Vela	null	Real Sociedad de Fútbol	null	null	
+873	Xabier Prieto	null	Real Sociedad de Fútbol	null	null	
+872	Haris Seferovic	null	Real Sociedad de Fútbol	null	null	
+871	Antoine Griezmann	null	Real Sociedad de Fútbol	Club Atlético de Madrid	Club Atlético de Madrid	
+870	Iñigo Martínez	null	Real Sociedad de Fútbol	null	null	
+869	Markel Bergara	null	Real Sociedad de Fútbol	null	null	
+868	Carlos Martínez	null	Real Sociedad de Fútbol	null	null	
+867	Claudio Bravo	null	Real Sociedad de Fútbol	null	null	
+866	Fares Bahlouli	null	Olympique Lyonnais	null	AS Monaco	
+865	Gaël Danic	null	Olympique Lyonnais	null	null	
+864	Yassine Benzia	null	Olympique Lyonnais	null	null	
+863	Maxime Gonalons	null	Olympique Lyonnais	null	Olympique Lyonnais	
+862	Steed Malbranque	null	Olympique Lyonnais	null	Olympique Lyonnais	
+861	Alexandre Lacazette	null	Olympique Lyonnais	null	Olympique Lyonnais	
+860	Yoann Gourcuff	null	Olympique Lyonnais	null	null	
+859	Clément Grenier	null	Olympique Lyonnais	null	Olympique Lyonnais	
+858	Gueïda Fofana	null	Olympique Lyonnais	null	null	
+857	Milan Biševac	null	Olympique Lyonnais	null	Olympique Lyonnais	
+856	Anthony Lopes	null	Olympique Lyonnais	null	Olympique Lyonnais	
+855	Pavel Mogilevets	null	FC Zenit	FC Zenit	null	
+854	Igor Smolnikov	null	FC Zenit	FC Zenit	FC Zenit	
+853	Yuri Lodygin	null	FC Zenit	FC Zenit	FC Zenit	
+852	Manuel José	null	FC Paços de Ferreira	null	null	
+851	Vítor	null	FC Paços de Ferreira	null	null	
+850	Filipe Anunciação	null	FC Paços de Ferreira	null	null	
+849	Rodrigo Antônio	null	FC Paços de Ferreira	null	null	
+848	Sérgio Oliveira	null	FC Paços de Ferreira	null	null	
+847	Ricardo	null	FC Paços de Ferreira	FC Porto	null	
+846	Nuno Santos	null	FC Paços de Ferreira	null	null	
+845	Paolo Hurtado	null	FC Paços de Ferreira	null	null	
+844	Christian Irobiso	null	FC Paços de Ferreira	null	null	
+843	André Leão	null	FC Paços de Ferreira	null	null	
+842	Marcos Romeu	null	FC Paços de Ferreira	null	null	
+1681	Hernâni	null	null	FC Porto	Olympiacos FC	
+1680	Matheus Carvalho	null	null	AS Monaco	null	
+1679	Stefano Sturaro	null	null	Juventus	Juventus	
+1678	Simone Pepe	null	null	Juventus	null	
+1677	Kevin Kampl	null	null	Borussia Dortmund	null	
+1676	Leroy Sané	null	null	FC Schalke 04	null	
+1675	Davide Callà	null	null	FC Basel 1893	null	
+1674	Yōichirō Kakitani	null	null	FC Basel 1893	null	
+1673	Derlis González	null	null	FC Basel 1893	FC Dynamo Kyiv	
+1672	Almamy Tourè	null	null	AS Monaco	null	
+1671	David Ospina	null	null	Arsenal FC	Arsenal FC	
+1670	Papastathopoulos	null	null	Borussia Dortmund	null	
+1669	Kingsley Coman	null	null	Juventus	FC Bayern München	
+1668	Wilfried Bony	null	null	Manchester City FC	Manchester City FC	
+1667	Lucas Silva	null	null	Real Madrid CF	null	
+1666	Dani Carvajal	null	null	Real Madrid CF	Real Madrid CF	
+1665	Felix Platte	null	null	FC Schalke 04	null	
+1664	Timon Wellenreuther	null	null	FC Schalke 04	null	
+1663	Wellington Nem	null	null	FC Shakhtar Donetsk	null	
+1662	Juan Cuadrado	null	null	Chelsea FC	Juventus	
+1661	Artem Soroko	null	null	FC BATE Borisov	null	
+1660	Serhiy Kryvtsov	null	null	FC Shakhtar Donetsk	FC Shakhtar Donetsk	
+1659	Kelvin	null	null	FC Porto	null	
+1658	Andrés Fernández	null	null	FC Porto	null	
+1657	Marvin Friedrich	null	null	FC Schalke 04	null	
+1656	Ricardo Esgaio	null	null	Sporting Clube de Portugal	null	
+1655	Ruben Loftus-Cheek	null	null	Chelsea FC	null	
+1654	Pieros Sotiriou	null	null	APOEL FC	APOEL FC	
+1653	Kostakis Artymatas	null	null	APOEL FC	null	
+1652	Richairo Zivkovic	null	null	AFC Ajax	null	
+1651	Gianluca Gaudino	null	null	FC Bayern München	null	
+1650	Michael Heylen	null	null	RSC Anderlecht	null	
+1649	Tiémoué Bakayoko	null	null	AS Monaco	null	
+1648	Aymen Abdennour	null	null	AS Monaco	Valencia CF	
+1647	Álvaro Medrán	null	null	Real Madrid CF	null	
+1646	Jorge Benitez	null	null	Olympiacos FC	null	
+1645	Aubameyang	null	null	Borussia Dortmund	null	
+1644	Júnior Quixadá	null	null	PFC Ludogorets 1945	null	
+1643	Keylor Navas	null	null	Real Madrid CF	Real Madrid CF	
+1642	Andreas Bouchalakis	null	null	Olympiacos FC	null	
+1641	Raúl Jiménez	null	null	Club Atlético de Madrid	SL Benfica	
+1640	José María Giménez	null	null	Club Atlético de Madrid	Club Atlético de Madrid	
+1639	Petar Stojanović	null	null	NK Maribor	null	
+1638	Aleksander Rajčević	null	null	NK Maribor	null	
+1637	Luka Zahović	null	null	NK Maribor	null	
+1636	Jasmin Handanović	null	null	NK Maribor	null	
+1635	Kevin Strootman	null	null	AS Roma	null	
+1634	Schweinsteiger	null	null	FC Bayern München	Manchester United FC	
+1633	Ivan Ordets	null	null	FC Shakhtar Donetsk	FC Shakhtar Donetsk	
+1632	Borja Viguera	null	null	Athletic Club	null	
+1631	Choupo-Moting	null	null	FC Schalke 04	null	
+1630	Oriol Rosell	null	null	Sporting Clube de Portugal	null	
+1629	Nicholas Ioannou	null	null	APOEL FC	null	
+1628	Bahebeck	null	null	Paris Saint-Germain	null	
+1627	Luis Suárez	null	null	FC Barcelona	FC Barcelona	
+1626	ter Stegen	null	null	FC Barcelona	FC Barcelona	
+1625	Mattia Destro	null	null	AS Roma	null	
+1624	Pierre Højbjerg	null	null	FC Bayern München	null	
+1623	Sebastian Rode	null	null	FC Bayern München	FC Bayern München	
+1622	Andy Kawaya	null	null	RSC Anderlecht	null	
+1621	Oxlade-Chamberlain	null	null	Arsenal FC	Arsenal FC	
+1620	Lacina Traoré	null	null	AS Monaco	null	
+1619	Ferreira-Carrasco	null	null	AS Monaco	null	
+1618	Bryan Cristante	null	null	SL Benfica	SL Benfica	
+1617	Júlio César	null	null	SL Benfica	SL Benfica	
+1616	Kolo Touré	null	null	Liverpool FC	null	
+1615	Aleksandrov	null	null	PFC Ludogorets 1945	null	
+1614	Brayan Angulo	null	null	PFC Ludogorets 1945	null	
+1613	Shkelzen Gashi	null	null	FC Basel 1893	FC Basel 1893	
+1612	Emiliano Martínez	null	null	Arsenal FC	null	
+1611	Leander Dendoncker	null	null	RSC Anderlecht	null	
+1610	César	null	null	SL Benfica	null	
+1609	Lisandro López	null	null	SL Benfica	SL Benfica	
+1608	Anthony Martial	null	null	AS Monaco	Manchester United FC	
+1607	Naser Aliji	null	null	FC Basel 1893	null	
+1606	Joe Allen	null	null	Liverpool FC	null	
+1605	Glen Johnson	null	null	Liverpool FC	null	
+1604	Simon Thern	null	null	Malmö FF	null	
+1603	Enock Adu	null	null	Malmö FF	null	
+1602	Vitali Gayduchik	null	null	FC BATE Borisov	null	
+1601	Nemanja Tubić	null	null	FC BATE Borisov	null	
+1600	Xabier Etxeita	null	null	Athletic Club	null	
+1599	Dominic Solanke	null	null	Chelsea FC	null	
+1598	Nathan Aké	null	null	Chelsea FC	null	
+1597	Kurt Zouma	null	null	Chelsea FC	Chelsea FC	
+1596	John Arne Riise	null	null	APOEL FC	null	
+1595	Arkadiusz Milik	null	null	AFC Ajax	null	
+1594	Jairo Riedewald	null	null	AFC Ajax	null	
+1593	Daniele De Rossi	null	null	AS Roma	AS Roma	
+1592	Nathan Kabasele	null	null	RSC Anderlecht	null	
+1591	Ibrahima Conté	null	null	RSC Anderlecht	null	
+1590	Valère Germain	null	null	AS Monaco	null	
+1589	Tiemoué Bakayoko	null	null	AS Monaco	null	
+1588	Mihail Alexandrov	null	null	PFC Ludogorets 1945	null	
+1587	Rickie Lambert	null	null	Liverpool FC	null	
+1586	Martin Škrtel	null	null	Liverpool FC	null	
+1585	José Enrique	null	null	Liverpool FC	null	
+1584	Davide Calla	null	null	FC Basel 1893	null	
+1583	Ahmed Hamoudi	null	null	FC Basel 1893	null	
+1582	Geoffroy Serey Die	null	null	FC Basel 1893	null	
+1581	Dimitris Diamantakos	null	null	Olympiacos FC	null	
+1580	Jimmy Durmaz	null	null	Olympiacos FC	null	
+1579	Isaac Kiese Thelin	null	null	Malmö FF	null	
+1578	Miguel Ángel Moyà	null	null	Club Atlético de Madrid	null	
+1577	Gaizka Toquero	null	null	Athletic Club	null	
+1576	Andoni Iraola	null	null	Athletic Club	null	
+1575	Maksim Volodko	null	null	FC BATE Borisov	FC BATE Borisov	
+1574	Evgeni Yablonski	null	null	FC BATE Borisov	FC BATE Borisov	
+1573	Welle Ndiaye	null	null	NK Maribor	null	
+1572	Paulo Oliveira	null	null	Sporting Clube de Portugal	Sporting Clube de Portugal	
+1571	Diego Capel	null	null	Sporting Clube de Portugal	null	
+1570	Jonathan Silva	null	null	Sporting Clube de Portugal	Sporting Clube de Portugal	
+1569	Ricardo Kishna	null	null	AFC Ajax	null	
+1568	Ivan Rakitić	null	null	FC Barcelona	FC Barcelona	
+1567	Jean-Christophe Bahebeck	null	null	Paris Saint-Germain	null	
+1566	Vasilis Torosidis	null	null	AS Roma	AS Roma	
+1565	Łukasz Skorupski	null	null	AS Roma	null	
+1564	Stevan Jovetić	null	null	Manchester City FC	null	
+1563	Olexandr Gladkiy	null	null	FC Shakhtar Donetsk	FC Shakhtar Donetsk	
+1562	Marlos	null	null	FC Shakhtar Donetsk	FC Shakhtar Donetsk	
+1561	Márcio Azevedo	null	null	FC Shakhtar Donetsk	FC Shakhtar Donetsk	
+1560	Ager Aqueche	null	null	Athletic Club	null	
+1559	Guillermo Fernández	null	null	Athletic Club	null	
+1558	Vincent Aboubakar	null	null	FC Porto	FC Porto	
+1557	Carlos Mané	null	null	Sporting Clube de Portugal	Sporting Clube de Portugal	
+1556	João Mário	null	null	Sporting Clube de Portugal	Sporting Clube de Portugal	
+1555	Fredy Montero	null	null	Sporting Clube de Portugal	Sporting Clube de Portugal	
+1554	Cédric	null	null	Sporting Clube de Portugal	null	
+1553	Naby Sarr	null	null	Sporting Clube de Portugal	null	
+1552	Adrien Silva	null	null	Sporting Clube de Portugal	Sporting Clube de Portugal	
+1551	André Carrillo	null	null	Sporting Clube de Portugal	Sporting Clube de Portugal	
+1550	William Carvalho	null	null	Sporting Clube de Portugal	null	
+1549	Islam Slimani	null	null	Sporting Clube de Portugal	Sporting Clube de Portugal	
+1548	André Martins	null	null	Sporting Clube de Portugal	null	
+1547	Jefferson	null	null	Sporting Clube de Portugal	Sporting Clube de Portugal	
+1546	Maurício	null	null	Sporting Clube de Portugal	FC Zenit	
+1545	Rui Patrício	null	null	Sporting Clube de Portugal	Sporting Clube de Portugal	
+1544	Luka Zahovič	null	null	NK Maribor	null	
+1543	Eric Maxim Choupo-Moting	null	null	FC Schalke 04	null	
+1542	Loïc Rémy	null	null	Chelsea FC	Chelsea FC	
+1541	Didier Drogba	null	null	Chelsea FC	null	
+1540	Sandro Ramírez	null	null	FC Barcelona	FC Barcelona	
+1539	Munir El Haddadi	null	null	FC Barcelona	FC Barcelona	
+1538	Sergi Samper	null	null	FC Barcelona	FC Barcelona	
+1537	Marc-André ter Stegen	null	null	FC Barcelona	null	
+1536	Niki Zimling	null	null	AFC Ajax	null	
+1535	Anwar El Ghazi	null	null	AFC Ajax	null	
+1534	Arek Milik	null	null	AFC Ajax	null	
+1533	Nick Viergever	null	null	AFC Ajax	null	
+1532	Joël Veltman	null	null	AFC Ajax	null	
+1531	Dmitri Efremov	null	null	PFC CSKA Moskva	null	
+1530	Kirill Panchenko	null	null	PFC CSKA Moskva	PFC CSKA Moskva	
+1529	Bebras Natcho	null	null	PFC CSKA Moskva	null	
+1528	Roman Eremenko	null	null	PFC CSKA Moskva	PFC CSKA Moskva	
+1527	Mário Fernandes	null	null	PFC CSKA Moskva	PFC CSKA Moskva	
+1526	Alessandro Florenzi	null	null	AS Roma	AS Roma	
+1525	Adem Ljajić	null	null	AS Roma	null	
+1524	Davide Astori	null	null	AS Roma	null	
+1523	Seydou Keita	null	null	AS Roma	AS Roma	
+1522	Miralem Pjanić	null	null	AS Roma	AS Roma	
+1521	Francesco Totti	null	null	AS Roma	AS Roma	
+1520	Juan Manuel Iturbe	null	null	AS Roma	AS Roma	
+1519	Radja Nainggolan	null	null	AS Roma	AS Roma	
+1518	Morgan De Sanctis	null	null	AS Roma	AS Roma	
+1517	Juan Bernat	null	null	FC Bayern München	FC Bayern München	
+1516	Medhi Benatia	null	null	FC Bayern München	FC Bayern München	
+1515	Héctor Bellerín	null	null	Arsenal FC	Arsenal FC	
+1514	Matthias Ginter	null	null	Borussia Dortmund	null	
+1513	Adrián Ramos	null	null	Borussia Dortmund	null	
+1512	Ciro Immobile	null	null	Borussia Dortmund	Sevilla FC	
+1511	Josip Drmic	null	null	FC Bayer 04 Leverkusen	VfL Borussia Mönchengladbach	
+1510	Karim Bellarabi	null	null	FC Bayer 04 Leverkusen	null	
+1509	Tin Jedvaj	null	null	FC Bayer 04 Leverkusen	null	
+1508	Hakan Çalhanoğlu	null	null	FC Bayer 04 Leverkusen	null	
+1507	Bernardo Silva	null	null	AS Monaco	AS Monaco	
+1506	Wallace	null	null	AS Monaco	AS Monaco	
+1505	Nabil Dirar	null	null	AS Monaco	AS Monaco	
+1504	Andrea Raggi	null	null	AS Monaco	AS Monaco	
+1503	Geoffrey Kondogbia	null	null	AS Monaco	null	
+1502	Yannick Ferreira-Carrasco	null	null	AS Monaco	null	
+1501	Lucas Ocampos	null	null	AS Monaco	null	
+1500	Dimitar Berbatov	null	null	AS Monaco	null	
+1499	Layvin Kurzawa	null	null	AS Monaco	Paris Saint-Germain	
+1498	Fabinho	null	null	AS Monaco	AS Monaco	
+1497	Danijel Subašić	null	null	AS Monaco	AS Monaco	
+1496	Derley	null	null	SL Benfica	null	
+1495	Paulo Lopes	null	null	SL Benfica	null	
+1494	Talisca	null	null	SL Benfica	SL Benfica	
+1493	Breel Embolo	null	null	FC Basel 1893	FC Basel 1893	
+1492	Yoichiro Kakitani	null	null	FC Basel 1893	null	
+1491	Derlis Gonzalez	null	null	FC Basel 1893	null	
+1490	Luca Zuffi	null	null	FC Basel 1893	FC Basel 1893	
+1489	Walter Samuel	null	null	FC Basel 1893	null	
+1488	Tomáš Vaclík	null	null	FC Basel 1893	FC Basel 1893	
+1487	Aleksandar Aleksandrov	null	null	PFC Ludogorets 1945	null	
+1486	Anicet Abel	null	null	PFC Ludogorets 1945	null	
+1485	Milan Borjan	null	null	PFC Ludogorets 1945	null	
+1484	Fabio Borini	null	null	Liverpool FC	null	
+1483	Raheem Sterling	null	null	Liverpool FC	Manchester City FC	
+1482	Adam Lallana	null	null	Liverpool FC	null	
+1481	Alberto Moreno	null	null	Liverpool FC	null	
+1480	Jordan Henderson	null	null	Liverpool FC	null	
+1479	Coutinho	null	null	Liverpool FC	null	
+1478	Steven Gerrard	null	null	Liverpool FC	null	
+1477	Dejan Lovren	null	null	Liverpool FC	null	
+1476	Simon Mignolet	null	null	Liverpool FC	null	
+1475	Alessio Cerci	null	null	Club Atlético de Madrid	null	
+1474	Saúl Ñíguez	null	null	Club Atlético de Madrid	Club Atlético de Madrid	
+1473	Jan Oblak	null	null	Club Atlético de Madrid	Club Atlético de Madrid	
+1472	Kostas Giannoulis	null	null	Olympiacos FC	null	
+1471	Arthur Masuaku	null	null	Olympiacos FC	Olympiacos FC	
+1470	Éric Abidal	null	null	Olympiacos FC	null	
+1469	Omar Elabdellaoui	null	null	Olympiacos FC	Olympiacos FC	
+1468	Pajtim Kasami	null	null	Olympiacos FC	Olympiacos FC	
+1467	Alberto Botía	null	null	Olympiacos FC	Olympiacos FC	
+1466	Erdal Rakip	null	null	Malmö FF	Malmö FF	
+1465	Rômulo	null	null	Juventus	null	
+1464	Younes Hamza	null	null	PFC Ludogorets 1945	null	
+1463	Wanderson	null	null	PFC Ludogorets 1945	null	
+1462	Valentino Lazaro	null	null	FC Salzburg	null	
+1461	Peter Ankersen	null	null	FC Salzburg	null	
+1460	Martin Hinteregger	null	null	FC Salzburg	null	
+1459	Agon Mehmeti	null	null	Malmö FF	Malmö FF	
+1458	Pa Konate	null	null	Malmö FF	Malmö FF	
+1457	Faouzi Ghoulam	null	null	SSC Napoli	null	
+1456	Unai Lopez	null	null	Athletic Club	null	
+1455	Atiba Hutchinson	null	null	Beşiktaş JK	null	
+1454	Lester Peltier	null	null	ŠK Slovan Bratislava	null	
+1453	Kristián Kolčák	null	null	ŠK Slovan Bratislava	null	
+1452	Andriy Yakovlev	null	null	FC BATE Borisov	null	
+1451	Ilya Aleksievich	null	null	FC BATE Borisov	FC BATE Borisov	
+1450	Donny Gorter	null	null	Aalborg BK	null	
+1449	Frederik Børsting	null	null	Aalborg BK	null	
+1448	Thomas Enevoldsen	null	null	Aalborg BK	null	
+1447	Stathis Aloneftis	null	null	APOEL FC	null	
+1446	George Efrem	null	null	APOEL FC	APOEL FC	
+1445	Astrit Ajdarević	null	null	R. Standard de Liège	null	
+1444	Yuji Ono	null	null	R. Standard de Liège	null	
+1443	Adrien Trebel	null	null	R. Standard de Liège	null	
+1442	Jonathan Delaplace	null	null	LOSC Lille	null	
+1441	Diego Reyes	null	null	FC Porto	null	
+1440	Ivan Solovyev	null	null	FC Zenit	null	
+1439	Aleksandr Ryazantsev	null	null	FC Zenit	FC Zenit	
+1438	Geoffrey Mujangi Bia	null	null	R. Standard de Liège	null	
+1437	Yanis Mbombo	null	null	R. Standard de Liège	null	
+1436	Tortol Lumanza	null	null	R. Standard de Liège	null	
+1435	Paul-José Mpoku	null	null	R. Standard de Liège	null	
+1434	Jelle Van Damme	null	null	R. Standard de Liège	null	
+1433	Dino Arslanagic	null	null	R. Standard de Liège	null	
+1432	Jeff Louis	null	null	R. Standard de Liège	null	
+1431	Igor De Camargo	null	null	R. Standard de Liège	null	
+1430	Laurent Ciman	null	null	R. Standard de Liège	null	
+1429	Jorge Teixeira	null	null	R. Standard de Liège	null	
+1428	Ricardo Faty	null	null	R. Standard de Liège	null	
+1427	Eiji Kawashima	null	null	R. Standard de Liège	null	
+1426	Nikolai Signevich	null	null	FC BATE Borisov	FC BATE Borisov	
+1425	Aleksandr Karnitski	null	null	FC BATE Borisov	FC BATE Borisov	
+1424	Mikhail Gordeychuk	null	null	FC BATE Borisov	null	
+1423	Filip Mladenović	null	null	FC BATE Borisov	FC BATE Borisov	
+1422	Egor Filipenko	null	null	FC BATE Borisov	null	
+1421	Anri Khagush	null	null	FC BATE Borisov	null	
+1420	Sergei Krivets	null	null	FC BATE Borisov	null	
+1419	Sergei Chernik	null	null	FC BATE Borisov	FC BATE Borisov	
+1418	Richard Lásik	null	null	ŠK Slovan Bratislava	null	
+1417	Róbert Vittek	null	null	ŠK Slovan Bratislava	null	
+1416	Juraj Halenár	null	null	ŠK Slovan Bratislava	null	
+1415	Dávid Hudák	null	null	ŠK Slovan Bratislava	null	
+1414	Seydouba Soumah	null	null	ŠK Slovan Bratislava	null	
+1413	Samuel Štefánik	null	null	ŠK Slovan Bratislava	null	
+1412	Nicolas Gorosito	null	null	ŠK Slovan Bratislava	null	
+1411	Tomáš Jablonský	null	null	ŠK Slovan Bratislava	null	
+1410	Marko Milinković	null	null	ŠK Slovan Bratislava	null	
+1409	Igor Žofčák	null	null	ŠK Slovan Bratislava	null	
+1408	Erik Grendel	null	null	ŠK Slovan Bratislava	null	
+1407	Pavel Fořt	null	null	ŠK Slovan Bratislava	null	
+1406	Erik Čikoš	null	null	ŠK Slovan Bratislava	null	
+1405	Dušan Perniš	null	null	ŠK Slovan Bratislava	null	
+1404	Leigh Griffiths	null	null	Celtic FC	Celtic FC	
+1403	Callum McGregor	null	null	Celtic FC	null	
+1402	Stefan Johansen	null	null	Celtic FC	Celtic FC	
+1401	Jason Denayer	null	null	Celtic FC	null	
+1400	Jo Inge Berget	null	null	Celtic FC	Malmö FF	
+1399	Craig Gordon	null	null	Celtic FC	Celtic FC	
+1398	Jean-Philippe Mendy	null	null	NK Maribor	null	
+1397	Petar Stojanovič	null	null	NK Maribor	null	
+1396	Dare Vršič	null	null	NK Maribor	null	
+1395	Željko Filipović	null	null	NK Maribor	null	
+1394	Marko Šuler	null	null	NK Maribor	null	
+1393	Evandro	null	null	FC Porto	FC Porto	
+1392	Ricardo Quaresma	null	null	FC Porto	null	
+1391	Rúben Neves	null	null	FC Porto	FC Porto	
+1390	Yacine Brahimi	null	null	FC Porto	FC Porto	
+1389	Bruno Martins Indi	null	null	FC Porto	FC Porto	
+1388	Fabiano	null	null	FC Porto	null	
+1387	Marcos Lopes	null	null	LOSC Lille	null	
+1386	Divock Origi	null	null	LOSC Lille	null	
+1385	Pape Souaré	null	null	LOSC Lille	null	
+1384	Simon Kjær	null	null	LOSC Lille	null	
+1383	Sébastien Corchia	null	null	LOSC Lille	null	
+1382	Vincent Enyeama	null	null	LOSC Lille	null	
+1381	Tasos Papazoglou	null	null	APOEL FC	null	
+1380	Gustavo Manduca	null	null	APOEL FC	null	
+1379	Nektarios Alexandrou	null	null	APOEL FC	APOEL FC	
+1378	Tomás De Vincenti	null	null	APOEL FC	APOEL FC	
+1377	Mário Sérgio	null	null	APOEL FC	APOEL FC	
+1376	Nuno Morais	null	null	APOEL FC	APOEL FC	
+1375	Vinicius	null	null	APOEL FC	null	
+1374	Marios Antoniades	null	null	APOEL FC	APOEL FC	
+1373	Constantinos Charalambides	null	null	APOEL FC	null	
+1372	Cillian Sheridan	null	null	APOEL FC	null	
+1371	Tiago Gomes	null	null	APOEL FC	null	
+1370	João Guilherme	null	null	APOEL FC	APOEL FC	
+1369	Urko Pardo	null	null	APOEL FC	null	
+1368	Viktor Ahlmann	null	null	Aalborg BK	null	
+1367	Henrik Dalsgaard	null	null	Aalborg BK	null	
+1366	Mathias Thrane	null	null	Aalborg BK	null	
+1365	Jakob Blaabjerg	null	null	Aalborg BK	null	
+1364	Rasmus Thelander	null	null	Aalborg BK	null	
+1363	Nicolaj Thomsen	null	null	Aalborg BK	null	
+1362	Kasper Risgård	null	null	Aalborg BK	null	
+1361	Anders K. Jacobsen	null	null	Aalborg BK	null	
+1360	Mathias Wichmann	null	null	Aalborg BK	null	
+1359	Nicklas Helenius	null	null	Aalborg BK	null	
+1358	Rasmus Würtz	null	null	Aalborg BK	null	
+1357	Kenneth Emil Petersen	null	null	Aalborg BK	null	
+1356	Patrick Kristensen	null	null	Aalborg BK	null	
+1355	Nicolai Larsen	null	null	Aalborg BK	null	
+1354	Anicet	null	null	PFC Ludogorets 1945	null	
+1353	Hamza Younes	null	null	PFC Ludogorets 1945	null	
+1352	Georgi Terziev	null	null	PFC Ludogorets 1945	null	
+1351	Claudiu Keșerü	null	null	FC Steaua Bucureşti	null	
+1350	Nicandro Breeveld	null	null	FC Steaua Bucureşti	null	
+1349	Lucian Sânmărtean	null	null	FC Steaua Bucureşti	null	
+1348	Cornel Râpă	null	null	FC Steaua Bucureşti	null	
+1347	Giedrius Arlauskis	null	null	FC Steaua Bucureşti	null	
+1346	Calum Chambers	null	null	Arsenal FC	Arsenal FC	
+1345	Cenk Tosun	null	null	Beşiktaş JK	null	
+1344	Kerim Koyunlu	null	null	Beşiktaş JK	null	
+1343	Gökhan Töre	null	null	Beşiktaş JK	null	
+1342	Ramon Motta	null	null	Beşiktaş JK	null	
+1341	Ersan Gülüm	null	null	Beşiktaş JK	null	
+1340	Necip Uysal	null	null	Beşiktaş JK	null	
+1339	Pedro Franco	null	null	Beşiktaş JK	null	
+1338	Oğuzhan Özyakup	null	null	Beşiktaş JK	null	
+1337	Mustafa Pektemek	null	null	Beşiktaş JK	null	
+1336	Olcay Şahan	null	null	Beşiktaş JK	null	
+1335	Veli Kavlak	null	null	Beşiktaş JK	null	
+1334	İsmail Köybaşı	null	null	Beşiktaş JK	null	
+1333	Tolga Zengin	null	null	Beşiktaş JK	null	
+1332	Pawel Cibicki	null	null	Malmö FF	null	
+1331	Magnus Eriksson	null	null	Malmö FF	null	
+1330	Emil Forsberg	null	null	Malmö FF	null	
+1329	Isaac Thelin	null	null	Malmö FF	null	
+1328	Erik Johansson	null	null	Malmö FF	null	
+1327	Ricardinho	null	null	Malmö FF	null	
+1326	Simon Kroon	null	null	Malmö FF	Malmö FF	
+1325	Markus Rosenberg	null	null	Malmö FF	Malmö FF	
+1324	Markus Halsti	null	null	Malmö FF	null	
+1323	Filip Helander	null	null	Malmö FF	null	
+1322	Anton Tinnerholm	null	null	Malmö FF	Malmö FF	
+1321	Robin Olsen	null	null	Malmö FF	null	
+1320	Naby Keita	null	null	FC Salzburg	null	
+1319	Kevin Kampl	null	null	FC Salzburg	null	
+1318	Jonatan Soriano	null	null	FC Salzburg	null	
+1317	Christoph Leitgeb	null	null	FC Salzburg	null	
+1316	Andreas Ulmer	null	null	FC Salzburg	null	
+1315	Franz Schiemer	null	null	FC Salzburg	null	
+1314	Stefan Ilsanker	null	null	FC Salzburg	null	
+1313	Sadio Mané	null	null	FC Salzburg	null	
+1312	Marcel Sabitzer	null	null	FC Salzburg	null	
+1311	Christian Schwegler	null	null	FC Salzburg	null	
+1310	André Ramalho	null	null	FC Salzburg	null	
+1309	Péter Gulácsi	null	null	FC Salzburg	null	
+1308	Ibai Gómez	null	null	Athletic Club	null	
+1307	Mikel San José	null	null	Athletic Club	null	
+1306	Erik Morán	null	null	Athletic Club	null	
+1305	Mikel Balenziaga	null	null	Athletic Club	null	
+1304	Aritz Aduriz	null	null	Athletic Club	null	
+1303	Iker Muniain	null	null	Athletic Club	null	
+1302	Carlos Gurpegi	null	null	Athletic Club	null	
+1301	Mikel Rico	null	null	Athletic Club	null	
+1300	Markel Susaeta	null	null	Athletic Club	null	
+1299	Óscar de Marcos	null	null	Athletic Club	null	
+1298	Ander Iturraspe	null	null	Athletic Club	null	
+1297	Beñat	null	null	Athletic Club	null	
+1296	Aymeric Laporte	null	null	Athletic Club	null	
+1295	Gorka Iraizoz	null	null	Athletic Club	null	
+1294	Michu	null	null	SSC Napoli	null	
+1293	Walter Gargano	null	null	SSC Napoli	null	
+1292	Kalidou Koulibaly	null	null	SSC Napoli	null	
+1291	Jorginho	null	null	SSC Napoli	null	
+2031	Luka Jović	null	null	null	SL Benfica	
+2030	Bruno Henrique	null	null	null	VfL Wolfsburg	
+2029	Thomas Partey	null	null	null	Club Atlético de Madrid	
+2028	Lucas Hernández	null	null	null	Club Atlético de Madrid	
+2027	Matías Kranevitter	null	null	null	Club Atlético de Madrid	
+2026	Augusto Fernández	null	null	null	Club Atlético de Madrid	
+2025	Ederson	null	null	null	SL Benfica	
+2024	Bertrand Traoré	null	null	null	Chelsea FC	
+2023	Rami Gershon	null	null	null	KAA Gent	
+2022	Ervin Zukanovic	null	null	null	AS Roma	
+2021	Kelechi Iheanacho	null	null	null	Manchester City FC	
+2020	Yevhen Makarenko	null	null	null	FC Dynamo Kyiv	
+2019	Diego Perotti	null	null	null	AS Roma	
+2018	Leandro Putaro	null	null	null	VfL Wolfsburg	
+2017	Robin Knoche	null	null	null	VfL Wolfsburg	
+2016	Koen Casteels	null	null	null	VfL Wolfsburg	
+2015	Yuri Zhirkov	null	null	null	FC Zenit	
+2014	Aleksandr Kokorin	null	null	null	FC Zenit	
+2013	Victor Lindelöf	null	null	null	SL Benfica	
+2012	Pavel Dolgov	null	null	null	FC Zenit	
+2011	Konstantin Troyanov	null	null	null	FC Zenit	
+2010	Dmitri Bogaev	null	null	null	FC Zenit	
+2009	Sven Ulreich	null	null	null	FC Bayern München	
+2008	Domagoj Pavičić	null	null	null	GNK Dinamo Zagreb	
+2007	Carcela-González	null	null	null	SL Benfica	
+2006	Borthwick-Jackson	null	null	null	Manchester United FC	
+2005	Guillermo Varela	null	null	null	Manchester United FC	
+2004	Steven Bergwijn	null	null	null	PSV Eindhoven	
+2003	Christopher Nkunku	null	null	null	Paris Saint-Germain	
+2002	Nico Elvedi	null	null	null	VfL Borussia Mönchengladbach	
+2001	Marvin Schulz	null	null	null	VfL Borussia Mönchengladbach	
+2000	Renato Sanches	null	null	null	SL Benfica	
+1999	Patrick Twumasi	null	null	null	FC Astana	
+1998	Marcel Schäfer	null	null	null	VfL Wolfsburg	
+1997	Viktor Vasin	null	null	null	PFC CSKA Moskva	
+1996	Kiko Casilla	null	null	null	Real Madrid CF	
+1995	Vasyl Kobin	null	null	null	FC Shakhtar Donetsk	
+1994	Jean-Kévin Augustin	null	null	null	Paris Saint-Germain	
+1993	Franz Brorsson	null	null	null	Malmö FF	
+1992	Rafael Mir	null	null	null	Valencia CF	
+1991	Aleksei Evseev	null	null	null	FC Zenit	
+1990	Łukasz Teodorczyk	null	null	null	FC Dynamo Kyiv	
+1989	Salih Uçan	null	null	null	AS Roma	
+1988	Abdul Baba Rahman	null	null	null	Chelsea FC	
+1987	Mario Musa	null	null	null	GNK Dinamo Zagreb	
+1986	Alex Iwobi	null	null	null	Arsenal FC	
+1985	Fabian Delph	null	null	null	Manchester City FC	
+1984	Timm Klose	null	null	null	VfL Wolfsburg	
+1983	Nicolas Isimat-Mirin	null	null	null	PSV Eindhoven	
+1982	Aleksandr Golovin	null	null	null	PFC CSKA Moskva	
+1981	Anton Kanibolotskiy	null	null	null	FC Shakhtar Donetsk	
+1980	Mariano Ferreira	null	null	null	Sevilla FC	
+1979	Birzhan Kulbekov	null	null	null	FC Astana	
+1978	Zhakyp Kozhamberdy	null	null	null	FC Astana	
+1977	Igor Pikalkin	null	null	null	FC Astana	
+1976	Yeldos Akhmetov	null	null	null	FC Astana	
+1975	Yannick Carrasco	null	null	null	Club Atlético de Madrid	
+1974	Stefan Savić	null	null	null	Club Atlético de Madrid	
+1973	Jesse Lingard	null	null	null	Manchester United FC	
+1972	Jordy De Wijs	null	null	null	PSV Eindhoven	
+1971	Vieirinha	null	null	null	VfL Wolfsburg	
+1970	Maxwel Cornet	null	null	null	Olympique Lyonnais	
+1969	Santi Mina	null	null	null	Valencia CF	
+1968	Santos	null	null	null	Valencia CF	
+1967	Serhiy Sydorchuk	null	null	null	FC Dynamo Kyiv	
+1966	Gerard Gumbau	null	null	null	FC Barcelona	
+1965	Dani Alves	null	null	null	FC Barcelona	
+1964	Vitali Gaiduchik	null	null	null	FC BATE Borisov	
+1963	Granit Xhaka	null	null	null	VfL Borussia Mönchengladbach	
+1962	Fabian Johnson	null	null	null	VfL Borussia Mönchengladbach	
+1961	Álvaro Domínguez	null	null	null	VfL Borussia Mönchengladbach	
+1960	Patrick Herrmann	null	null	null	VfL Borussia Mönchengladbach	
+1959	Andreas Christensen	null	null	null	VfL Borussia Mönchengladbach	
+1958	Juan Muñoz	null	null	null	Sevilla FC	
+1957	Vicente Iborra	null	null	null	Sevilla FC	
+1956	Daniele Rugani	null	null	null	Juventus	
+1955	Simone Zaza	null	null	null	Juventus	
+1954	Luciano Vietto	null	null	null	Club Atlético de Madrid	
+1953	Ángel Correa	null	null	null	Club Atlético de Madrid	
+1952	Rai Vloet	null	null	null	PSV Eindhoven	
+1951	Simon Poulsen	null	null	null	PSV Eindhoven	
+1950	Gastón Pereiro	null	null	null	PSV Eindhoven	
+1949	Sebastian Jung	null	null	null	VfL Wolfsburg	
+1948	Andreas Pereira	null	null	null	Manchester United FC	
+1947	Serge Aurier	null	null	null	Paris Saint-Germain	
+1946	Dentinho	null	null	null	FC Shakhtar Donetsk	
+1945	Denis Cheryshev	null	null	null	Real Madrid CF	
+1944	Lucas Vázquez	null	null	null	Real Madrid CF	
+1943	Magnus Wolff Eikrem	null	null	null	Malmö FF	
+1942	Nicklas Pedersen	null	null	null	KAA Gent	
+1941	Kalifa Coulibaly	null	null	null	KAA Gent	
+1940	Kenneth Saief	null	null	null	KAA Gent	
+1939	Artur Yusupov	null	null	null	FC Zenit	
+1938	Mikhail Kerzhakov	null	null	null	FC Zenit	
+1937	Aderlan Santos	null	null	null	Valencia CF	
+1936	Lucas Orbán	null	null	null	Valencia CF	
+1935	Rachid Ghezzal	null	null	null	Olympique Lyonnais	
+1934	Sergi Darder	null	null	null	Olympique Lyonnais	
+1933	Kenedy	null	null	null	Chelsea FC	
+1932	Asmir Begović	null	null	null	Chelsea FC	
+1931	Ángelo Henríquez	null	null	null	GNK Dinamo Zagreb	
+1930	Alexandru Măţel	null	null	null	GNK Dinamo Zagreb	
+1929	Praxitelis Vouros	null	null	null	Olympiacos FC	
+1928	Alfred Finnbogason	null	null	null	Olympiacos FC	
+1927	Edoardo Soleri	null	null	null	AS Roma	
+1926	William Vainqueur	null	null	null	AS Roma	
+1925	Nemanja Nikolić	null	null	null	FC BATE Borisov	
+1924	Kaspars Dubra	null	null	null	FC BATE Borisov	
+1923	João Cancelo	null	null	null	Valencia CF	
+1922	Jaume Doménech	null	null	null	Valencia CF	
+1921	Aldo Kalulu	null	null	null	Olympique Lyonnais	
+1920	Claudio Beauvue	null	null	null	Olympique Lyonnais	
+1919	Corentin Tolisso	null	null	null	Olympique Lyonnais	
+1918	Benito Raman	null	null	null	KAA Gent	
+1917	Thomas Matton	null	null	null	KAA Gent	
+1916	Danijel Milicevic	null	null	null	KAA Gent	
+1915	Thomas Foket	null	null	null	KAA Gent	
+1914	Moses Simon	null	null	null	KAA Gent	
+1913	Lasse Nielsen	null	null	null	KAA Gent	
+1912	Nana Asare	null	null	null	KAA Gent	
+1911	Brecht Dejaegere	null	null	null	KAA Gent	
+1910	Sven Kums	null	null	null	KAA Gent	
+1909	Stefan Mitrović	null	null	null	KAA Gent	
+1908	Renato Neto	null	null	null	KAA Gent	
+1907	Laurent Depoitre	null	null	null	KAA Gent	
+1906	Matz Sels	null	null	null	KAA Gent	
+1905	Jesús Corona	null	null	null	FC Porto	
+1904	Pablo Osvaldo	null	null	null	FC Porto	
+1903	Miguel Layún	null	null	null	FC Porto	
+1902	André André	null	null	null	FC Porto	
+1901	Vitaliy Buyalskiy	null	null	null	FC Dynamo Kyiv	
+1900	Artem Kravets	null	null	null	FC Dynamo Kyiv	
+1899	Serhiy Rybalka	null	null	null	FC Dynamo Kyiv	
+1898	Júnior Moraes	null	null	null	FC Dynamo Kyiv	
+1897	Olexandr Rybka	null	null	null	FC Dynamo Kyiv	
+1896	Joshua Kimmich	null	null	null	FC Bayern München	
+1895	Sebá	null	null	null	Olympiacos FC	
+1894	Kostas Fortounis	null	null	null	Olympiacos FC	
+1893	Esteban Cambiasso	null	null	null	Olympiacos FC	
+1892	Felipe Pardo	null	null	null	Olympiacos FC	
+1891	Manuel da Costa	null	null	null	Olympiacos FC	
+1890	Gabriel	null	null	null	Arsenal FC	
+1889	Filip Benković	null	null	null	GNK Dinamo Zagreb	
+1888	Iago Falqué	null	null	null	AS Roma	
+1887	Antonio Rüdiger	null	null	null	AS Roma	
+1886	Nico Schulz	null	null	null	VfL Borussia Mönchengladbach	
+1885	Mahmoud Dahoud	null	null	null	VfL Borussia Mönchengladbach	
+1884	André Hahn	null	null	null	VfL Borussia Mönchengladbach	
+1883	Julian Korb	null	null	null	VfL Borussia Mönchengladbach	
+1882	Tony Jantschke	null	null	null	VfL Borussia Mönchengladbach	
+1881	Oscar Wendt	null	null	null	VfL Borussia Mönchengladbach	
+1880	Ibrahima Traoré	null	null	null	VfL Borussia Mönchengladbach	
+1879	Lars Stindl	null	null	null	VfL Borussia Mönchengladbach	
+1878	Thorgan Hazard	null	null	null	VfL Borussia Mönchengladbach	
+1877	Håvard Nordtveit	null	null	null	VfL Borussia Mönchengladbach	
+1876	Roel Brouwers	null	null	null	VfL Borussia Mönchengladbach	
+1875	Yevhen Konoplyanka	null	null	null	Sevilla FC	
+1874	Michael Krohn-Dehli	null	null	null	Sevilla FC	
+1873	Coke	null	null	null	Sevilla FC	
+1872	Marco Andreolli	null	null	null	Sevilla FC	
+1871	Steven N'Zonzi	null	null	null	Sevilla FC	
+1870	José Antonio Reyes	null	null	null	Sevilla FC	
+1869	Kolodziejczak	null	null	null	Sevilla FC	
+1868	Grzegorz Krychowiak	null	null	null	Sevilla FC	
+1867	Benoît Trémoulinas	null	null	null	Sevilla FC	
+1866	Sergio Rico	null	null	null	Sevilla FC	
+1865	Paulo Dybala	null	null	null	Juventus	
+1864	Hernanes	null	null	null	Juventus	
+1863	Denys Dedechko	null	null	null	FC Astana	
+1862	Aleksei Schetkin	null	null	null	FC Astana	
+1861	Branko Ilić	null	null	null	FC Astana	
+1860	Georgi Zhukov	null	null	null	FC Astana	
+1859	Pizzi	null	null	null	SL Benfica	
+1858	Nélson Semedo	null	null	null	SL Benfica	
+1857	Gonçalo Guedes	null	null	null	SL Benfica	
+1856	Maximilian Arnold	null	null	null	VfL Wolfsburg	
+1855	Ricardo Rodriguez	null	null	null	VfL Wolfsburg	
+1854	Naldo	null	null	null	VfL Wolfsburg	
+1853	Christian Träsch	null	null	null	VfL Wolfsburg	
+1852	Bas Dost	null	null	null	VfL Wolfsburg	
+1851	Max Kruse	null	null	null	VfL Wolfsburg	
+1850	Daniel Caligiuri	null	null	null	VfL Wolfsburg	
+1849	Diego Benaglio	null	null	null	VfL Wolfsburg	
+1848	Marcos Rojo	null	null	null	Manchester United FC	
+1847	Jorrit Hendrix	null	null	null	PSV Eindhoven	
+1846	Maxime Lestienne	null	null	null	PSV Eindhoven	
+1845	Luciano Narsingh	null	null	null	PSV Eindhoven	
+1844	Luuk de Jong	null	null	null	PSV Eindhoven	
+1843	Davy Pröpper	null	null	null	PSV Eindhoven	
+1842	Santiago Arias	null	null	null	PSV Eindhoven	
+1841	Héctor Moreno	null	null	null	PSV Eindhoven	
+1840	Viktor Kovalenko	null	null	null	FC Shakhtar Donetsk	
+1839	Kevin Trapp	null	null	null	Paris Saint-Germain	
+1838	Alexey Schetkin	null	null	null	FC Astana	
+1837	Charalambides	null	null	null	APOEL FC	
+1836	Vander	null	null	null	APOEL FC	
+1835	Aleksei Rios	null	null	null	FC BATE Borisov	
+1834	Ivan Šaponjić	null	null	null	FK Partizan	
+1833	Saša Lukić	null	null	null	FK Partizan	
+1832	Ander Herrera	null	null	null	Manchester United FC	
+1831	Castelletto	null	null	null	Club Brugge KV	
+1830	Davy De fauw	null	null	null	Club Brugge KV	
+1829	Sinan Bolat	null	null	null	Club Brugge KV	
+1828	Stefan Schwab	null	null	null	SK Rapid Wien	
+1827	Danilo Barbosa	null	null	null	Valencia CF	
+1826	Thomas Lemar	null	null	null	AS Monaco	
+1825	Guido Carrillo	null	null	null	AS Monaco	
+1824	Saidy Janko	null	null	null	Celtic FC	
+1823	Nikola Djurdjić	null	null	null	Malmö FF	
+1822	Enoch Kofi Adu	null	null	null	Malmö FF	
+1821	Peter Olayinka	null	null	null	KF Skënderbeu	
+1820	Ventsislav Hristov	null	null	null	KF Skënderbeu	
+1819	Renato Arapi	null	null	null	KF Skënderbeu	
+1818	Mario Pašalić	null	null	null	AS Monaco	
+1817	Javi Fuego	null	null	null	Valencia CF	
+1816	Rodrigo De Paul	null	null	null	Valencia CF	
+1815	José Gayà	null	null	null	Valencia CF	
+1814	Paco Alcácer	null	null	null	Valencia CF	
+1813	Shkodran Mustafi	null	null	null	Valencia CF	
+1812	Rúben Vezo	null	null	null	Valencia CF	
+1811	Mathew Ryan	null	null	null	Valencia CF	
+1810	Ante Ćorić	null	null	null	GNK Dinamo Zagreb	
+1809	Junior Fernandes	null	null	null	GNK Dinamo Zagreb	
+1808	Jérémy Taravel	null	null	null	GNK Dinamo Zagreb	
+1807	Marko Rog	null	null	null	GNK Dinamo Zagreb	
+1806	Leonardo Sigali	null	null	null	GNK Dinamo Zagreb	
+1805	Marko Pjaca	null	null	null	GNK Dinamo Zagreb	
+1804	Armin Hodžić	null	null	null	GNK Dinamo Zagreb	
+1803	Gonçalo Santos	null	null	null	GNK Dinamo Zagreb	
+1802	Soudani	null	null	null	GNK Dinamo Zagreb	
+1801	Ademir	null	null	null	KF Skënderbeu	
+1800	Leonit Abazi	null	null	null	KF Skënderbeu	
+1799	Gerhard Progni	null	null	null	KF Skënderbeu	
+1798	Sabien Lilaj	null	null	null	KF Skënderbeu	
+1797	Marko Radaš	null	null	null	KF Skënderbeu	
+1796	Kristi Vangjeli	null	null	null	KF Skënderbeu	
+1795	Esquerdinha	null	null	null	KF Skënderbeu	
+1794	Liridon Latifi	null	null	null	KF Skënderbeu	
+1793	Bernard Berisha	null	null	null	KF Skënderbeu	
+1792	Hamdi Salihi	null	null	null	KF Skënderbeu	
+1791	Bledi Shkëmbi	null	null	null	KF Skënderbeu	
+1790	Bakary Nimaga	null	null	null	KF Skënderbeu	
+1789	Bajram Jashanica	null	null	null	KF Skënderbeu	
+1788	Orges Shehi	null	null	null	KF Skënderbeu	
+1787	Maksym Malyshev	null	null	null	FC Shakhtar Donetsk	
+1786	Philipp Prosenik	null	null	null	SK Rapid Wien	
+1785	Deni Alar	null	null	null	SK Rapid Wien	
+1784	Schobesberger	null	null	null	SK Rapid Wien	
+1783	Stephan Auer	null	null	null	SK Rapid Wien	
+1782	Mario Pavelic	null	null	null	SK Rapid Wien	
+1781	Christopher Dibon	null	null	null	SK Rapid Wien	
+1780	Srdjan Grahovac	null	null	null	SK Rapid Wien	
+1779	Florian Kainz	null	null	null	SK Rapid Wien	
+1778	Steffen Hofmann	null	null	null	SK Rapid Wien	
+1777	Louis Schaub	null	null	null	SK Rapid Wien	
+1776	Mario Sonnleitner	null	null	null	SK Rapid Wien	
+1775	Thanos Petsos	null	null	null	SK Rapid Wien	
+1774	Ján Novota	null	null	null	SK Rapid Wien	
+1773	Dor Peretz	null	null	null	Maccabi Tel-Aviv FC	
+1772	Nikola Mitrović	null	null	null	Maccabi Tel-Aviv FC	
+1771	Doe Miha	null	null	null	Maccabi Tel-Aviv FC	
+1770	Nosakhare Igiebor	null	null	null	Maccabi Tel-Aviv FC	
+1769	Tal Ben Haim I	null	null	null	Maccabi Tel-Aviv FC	
+1768	Avraham Rikan	null	null	null	Maccabi Tel-Aviv FC	
+1767	Omri Ben Harush	null	null	null	Maccabi Tel-Aviv FC	
+1766	Eytan Tibi	null	null	null	Maccabi Tel-Aviv FC	
+1765	Tal Ben Haim II	null	null	null	Maccabi Tel-Aviv FC	
+1764	Eden Ben Basat	null	null	null	Maccabi Tel-Aviv FC	
+1763	Eran Zahavi	null	null	null	Maccabi Tel-Aviv FC	
+1762	Gal Alberman	null	null	null	Maccabi Tel-Aviv FC	
+1761	Yuval Shpungin	null	null	null	Maccabi Tel-Aviv FC	
+1760	Juan Pablo	null	null	null	Maccabi Tel-Aviv FC	
+1759	Jean-Paul Boëtius	null	null	null	FC Basel 1893	
+1758	Daniel Høegh	null	null	null	FC Basel 1893	
+1757	Marc Janko	null	null	null	FC Basel 1893	
+1756	Birkir Bjarnason	null	null	null	FC Basel 1893	
+1755	Michael Lang	null	null	null	FC Basel 1893	
+1754	Felipe Carvalho	null	null	null	Malmö FF	
+1753	Nikola Djurdić	null	null	null	Malmö FF	
+1752	Kári Árnason	null	null	null	Malmö FF	
+1751	Vladimir Rodić	null	null	null	Malmö FF	
+1750	Magnus Eikrem	null	null	null	Malmö FF	
+1749	Rasmus Bengtsson	null	null	null	Malmö FF	
+1748	Yoshimar Yotún	null	null	null	Malmö FF	
+1747	Oscar Lewicki	null	null	null	Malmö FF	
+1746	Gary Mackay-Steven	null	null	null	Celtic FC	
+1745	Nadir Çiftçi	null	null	null	Celtic FC	
+1744	Dedryck Boyata	null	null	null	Celtic FC	
+1743	Stuart Armstrong	null	null	null	Celtic FC	
+1742	Nir Bitton	null	null	null	Celtic FC	
+1741	Virgil Van Dijk	null	null	null	Celtic FC	
+1740	Mateusz Piątkowski	null	null	null	APOEL FC	
+1739	Semir Štilić	null	null	null	APOEL FC	
+1738	Iñaki Astiz	null	null	null	APOEL FC	
+1737	Makridis	null	null	null	APOEL FC	
+1736	Luís Leal	null	null	null	APOEL FC	
+1735	Boy Waterman	null	null	null	APOEL FC	
+1734	Junior Kabananga	null	null	null	FC Astana	
+1733	Abzal Beysebekov	null	null	null	FC Astana	
+1732	Serikzhan Muzhikov	null	null	null	FC Astana	
+1731	Dmitri Shomko	null	null	null	FC Astana	
+1730	Evgeni Postnikov	null	null	null	FC Astana	
+1729	Branko Ilič	null	null	null	FC Astana	
+1728	Baurzhan Dzholchiyev	null	null	null	FC Astana	
+1727	Tanat Nuserbayev	null	null	null	FC Astana	
+1726	Foxi Kéthévoama	null	null	null	FC Astana	
+1725	Georgy Zhukov	null	null	null	FC Astana	
+1724	Nemanja Maksimović	null	null	null	FC Astana	
+1723	Marin Aničić	null	null	null	FC Astana	
+1722	Nenad Erić	null	null	null	FC Astana	
+1721	Nikola Trujić	null	null	null	FK Partizan	
+1720	Saša Ilić	null	null	null	FK Partizan	
+1719	Valeri Bozhinov	null	null	null	FK Partizan	
+1718	Fabrício	null	null	null	FK Partizan	
+1717	Marko Jevtović	null	null	null	FK Partizan	
+1716	Andrija Živković	null	null	null	FK Partizan	
+1715	Abubakar Oumaru	null	null	null	FK Partizan	
+1714	Stefan Babović	null	null	null	FK Partizan	
+1713	Darko Brašanac	null	null	null	FK Partizan	
+1712	Gregor Balažic	null	null	null	FK Partizan	
+1711	Nemanja Petrović	null	null	null	FK Partizan	
+1710	Miroslav Vulićević	null	null	null	FK Partizan	
+1709	Živko Živković	null	null	null	FK Partizan	
+1708	Igor Stasevich	null	null	null	FC BATE Borisov	
+1707	Mikhail Gordeichuk	null	null	null	FC BATE Borisov	
+1706	Nemanja Milunović	null	null	null	FC BATE Borisov	
+1705	Maksim Zhavnerchik	null	null	null	FC BATE Borisov	
+1704	Bibras Natcho	null	null	null	PFC CSKA Moskva	
+1703	Gelson Martins	null	null	null	Sporting Clube de Portugal	
+1702	Alberto Aquilani	null	null	null	Sporting Clube de Portugal	
+1701	Naldo	null	null	null	Sporting Clube de Portugal	
+1700	Bryan Ruiz	null	null	null	Sporting Clube de Portugal	
+1699	Teófilo Gutiérrez	null	null	null	Sporting Clube de Portugal	
+1698	Obbi Oulare	null	null	null	Club Brugge KV	
+1697	Hans Vanaken	null	null	null	Club Brugge KV	
+1696	Bolingoli Mbombo	null	null	null	Club Brugge KV	
+1695	Tuur Dierckx	null	null	null	Club Brugge KV	
+1694	Brandon Mechele	null	null	null	Club Brugge KV	
+1693	Laurens De Bock	null	null	null	Club Brugge KV	
+1692	Ruud Vormer	null	null	null	Club Brugge KV	
+1691	Dion Cools	null	null	null	Club Brugge KV	
+1690	Abdoulay Diaby	null	null	null	Club Brugge KV	
+1689	Víctor Vázquez	null	null	null	Club Brugge KV	
+1688	Oscar Duarte	null	null	null	Club Brugge KV	
+1687	Timmy Simons	null	null	null	Club Brugge KV	
+1686	Sébastien Bruzzese	null	null	null	Club Brugge KV	
+1685	Matteo Darmian	null	null	null	Manchester United FC	
+1684	Morgan Schneiderlin	null	null	null	Manchester United FC	
+1683	Luke Shaw	null	null	null	Manchester United FC	
+1682	Sergio Romero	null	null	null	Manchester United FC	
