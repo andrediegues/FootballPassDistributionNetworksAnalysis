@@ -8,7 +8,6 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.LinkedList;
 import java.util.Scanner;
 
 public class GetData {
@@ -40,32 +39,12 @@ public class GetData {
 			parseToTableNotation(s);
 			parseToGML(s);
 		}
-		createTranfersFile(allSeasons);
-		System.out.println("nr.Seasons: " + Season.totalSeasons + ", nr.Teams: " + Team.totalTeams + ", nr.Players: " + Player.totalPlayers);
+		String[][] matrix = getPlayersPlayedForTeam(allSeasons);
+		createTranfersFile(matrix, allSeasons);
 	}
-	private static void createTranfersFile(Season[] allSeasons) throws IOException {
-		// TODO Auto-generated method stub
-		File file = new File("/home/andre/workspace/IIC/tranfers.txt");
-		BufferedWriter bw = new BufferedWriter(new FileWriter(file));
-		bw.write("ID\tName\t2013\t2014\t2015\t2016");
-		bw.append('\n');
-		boolean[] alreadySeen = new boolean[Player.totalPlayers];
-		for(int i = 0; i < allSeasons.length; i++){
-			Season s = allSeasons[i];
-			for(int j = 0; j < s.players.size(); j++){
-				Player p = s.players.get(j);
-				if(alreadySeen[p.id] == false){
-					alreadySeen[p.id] = true;
-					bw.write(p.id + "\t" + p.name + "\t");
-					for(int k = 0; k < allSeasons.length; k++){
-						bw.write(p.find(allSeasons[k]) + "\t");
-					}
-					bw.append('\n');
-				}
-			}
-		}
-		bw.close();
-	}
+	
+	
+
 	private static void collectData(File file, Season s, Season[] allSeasons) throws FileNotFoundException {
 		Scanner in = new Scanner(file);
 		
@@ -365,5 +344,47 @@ public class GetData {
 			bwEdges.close();
 		}
 	}
+	private static String[][] getPlayersPlayedForTeam(Season[] allSeasons) {
+		String[][] alreadySeen = new String[Player.totalPlayers][allSeasons.length];
+		
+		for(int i = 0; i < allSeasons.length; i++){
+			Season s = allSeasons[i];
+			for(int j = 0; j < s.players.size(); j++){
+				Player p = s.players.get(j);
+				if(alreadySeen[p.id][i] == null){
+					alreadySeen[p.id][i] = p.team.name;
+				}
+			}
+		}
+		return alreadySeen;
+	}
 
+	private static void createTranfersFile(String[][] matrix, Season allSeasons[]) throws IOException {
+		File file = new File("/home/andre/workspace/IIC/tranfers.txt");
+		BufferedWriter bw = new BufferedWriter(new FileWriter(file));
+		bw.write("ID\tName\t2013\t2014\t2015\t2016");
+		bw.append('\n');
+		for(int i = 0; i < Player.totalPlayers; i++){
+			String playerName = getPlayerName(i, allSeasons);
+			bw.write(i + "\t" + playerName + "\t");
+			for(int j = 0; j < Season.totalSeasons; j++){
+				 bw.write(matrix[i][j] + "\t");
+			}
+			bw.append('\n');
+		}
+		
+		bw.close();
+	}
+	private static String getPlayerName(int id, Season[] allSeasons) {
+		for(int i = 0; i < allSeasons.length; i++){
+			Season s = allSeasons[i];
+			for(int j = 0; j < s.players.size(); j++){
+				Player p = s.players.get(j);
+				if(p.id == id){
+					return p.name;
+				}
+			}
+		}
+		return null;
+	}	
 }

@@ -10,7 +10,6 @@ public class Player {
 	int totalTimePlayed = 0;
 	Season season;
 	LinkedList<Pass> passes;
-	boolean[][] playedFor = new boolean[Team.totalTeams][Season.totalSeasons];
 	static int totalPlayers = 0;
 	
 	Player(Team t, Season s, int tn, String n, int ttp){
@@ -20,7 +19,6 @@ public class Player {
 		totalTimePlayed += ttp;
 		season = s;
 		passes = new LinkedList<Pass>();
-		playedFor[t.id][s.index] = true;
 	}
 	
 	public String toString(){
@@ -39,16 +37,5 @@ public class Player {
 		if(!alreadyHaveConnection){
 			passes.add(new Pass(this, p, numberOfPassesBetween));
 		}
-	}
-
-	public String find(Season s) {
-		// TODO Auto-generated method stub
-		for(int i = 0; i < s.players.size(); i++){
-			Player p = s.players.get(i);
-			if(this.id == p.id){
-				return p.team.name;
-			}
-		}
-		return null;
 	}
 }
