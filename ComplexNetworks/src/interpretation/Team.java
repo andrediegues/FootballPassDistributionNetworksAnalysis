@@ -3,9 +3,8 @@ package interpretation;
 import java.util.LinkedList;
 
 public class Team {
-	int id = -1;
+	static int id = -1;
 	String name;
-	String country;
 	Season season;
 	LinkedList<Match> matches;
 	LinkedList<Player> players;

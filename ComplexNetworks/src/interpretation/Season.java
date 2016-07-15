@@ -29,6 +29,6 @@ public class Season {
 	}
 	
 	public String toString(){
-		return year + "\n";
+		return (year-1)+ "/" +year;
 	}
 }

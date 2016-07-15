@@ -21,6 +21,10 @@ public class GetData {
 		String line;
 		BufferedReader br;
 		Season[] allSeasons = new Season[n_max - n_min];
+		File stats = new File("/home/andre/workspace/IIC/stats.txt"); 
+		FileWriter fw = new FileWriter(stats);
+		BufferedWriter bw = new BufferedWriter(fw);
+		bw.write("Season\tTeam Name\tWins(%)\tLosses(%)\tDraws(%)\tAverage Passes Per Team\tAverage Passes in Wins\tAverage Passes in Losses\tAverage Passes in Draws\tPasses per Goal");
 		for(int i = n_min; i < n_max; i++){
 			Season s = new Season(i);
 			allSeasons[i - n_min] = s;
@@ -38,11 +42,72 @@ public class GetData {
 			allSeasons[s.index] = s;
 			parseToTableNotation(s);
 			parseToGML(s);
+			
+			float passesPerMatchPerSeason = 0;
+			for(int k = 0; k < s.teams.size(); k++){
+				Team t = s.teams.get(k);
+				int wins = 0;
+				int winPasses = 0;
+				int draws = 0;
+				int drawPasses = 0;
+				int losses = 0;
+				int lossPasses = 0;
+				int totalGoals = 0;
+				if(t.name.equals("Arsenal FC")){
+					System.out.println("Season: " + s.toString() + "\tTeam: " + t.name + "\nSource\tTarget\tWeight");
+					for(int l = 0; l < t.players.size(); l++){
+						Player p = t.players.get(l);
+						for(int m = 0; m < p.passes.size(); m++){
+							if(p.passes.get(m).numberOfPasses != 0)
+							System.out.println(p.name + "\t" + p.passes.get(m).destiny.name + "\t" + p.passes.get(m).numberOfPasses);
+						}
+					}
+				}
+				for(int l = 0; l < t.matches.size(); l++){
+					Match m = t.matches.get(l);
+					totalGoals += m.score.homeScore + m.score.awayScore;
+					if(m.home.equals(t)){
+						if(m.score.homeScore > m.score.awayScore){
+							wins++;
+							winPasses += m.numberOfPassesHomeTeam;
+						}
+						else if(m.score.homeScore == m.score.awayScore){
+							draws++;
+							drawPasses += m.numberOfPassesHomeTeam;
+						}
+						else{
+							losses++;
+							lossPasses += m.numberOfPassesHomeTeam;
+						}
+					}
+					else{
+						if(m.score.awayScore > m.score.homeScore){
+							wins++;
+							winPasses += m.numberOfPassesAwayTeam;
+						}
+						else if(m.score.awayScore == m.score.homeScore){
+							draws++;
+							drawPasses += m.numberOfPassesAwayTeam;
+						}
+						else{
+							losses++;
+							lossPasses += m.numberOfPassesAwayTeam;
+						}
+					}
+					
+				}
+				bw.write("\n" + t.season + "\t" + t.name + "\t" + (float)wins/t.matches.size()*100 + "\t" + (float) losses/t.matches.size()*100 + "\t" + (float)draws/t.matches.size()*100 + "\t" + (float)(winPasses+lossPasses+drawPasses)/(wins+losses+draws) + "\t" + (float)winPasses/wins + "\t" + (float) lossPasses/losses + "\t" + (float)drawPasses/draws + "\t" + (float)(winPasses+lossPasses+drawPasses)/totalGoals);
+				
+			}
+			passesPerMatchPerSeason = (float) Pass.totalPasses/Match.totalMatches;
+			System.out.println(s.toString() + "\t" + passesPerMatchPerSeason);
 		}
+		bw.close();
+		
 		String[][] matrix = getPlayersPlayedForTeam(allSeasons);
 		createTranfersFile(matrix, allSeasons);
+		
 	}
-	
 	
 
 	private static void collectData(File file, Season s, Season[] allSeasons) throws FileNotFoundException {
@@ -94,9 +159,10 @@ public class GetData {
 				}
 			}
 			if(ht.id == -1){
-				ht.id = Team.totalTeams++;
+				ht.id = Team.id++;
 			}
 			s.addTeamToSeason(ht);
+			Team.totalTeams++;
 		}
 		if(!awayTeamExists){
 			at = new Team(awayTeamName, s);
@@ -110,15 +176,17 @@ public class GetData {
 				}
 			}
 			if(at.id == -1){
-				at.id = Team.totalTeams++;
+				at.id = Team.id++;
 			}
 			s.addTeamToSeason(at);
+			Team.totalTeams++;
 		}
 		
 		MatchScore matchScore;
 		int homeScore = in.nextInt();
 		int awayScore = in.nextInt();
 		matchScore = new MatchScore(homeScore, awayScore);
+		MatchScore.totalGoalsScored += homeScore + awayScore;
 	
 		//home team
 		
@@ -239,8 +307,9 @@ public class GetData {
 					}
 				}
 				if(homeTeamPlayers[i].id == -1)
-					homeTeamPlayers[i].id = Player.totalPlayers++;
+					homeTeamPlayers[i].id = Player.id++;
 				ht.players.addLast(homeTeamPlayers[i]);
+				Player.totalPlayers++;
 				s.addPlayerToSeason(homeTeamPlayers[i]);
 			}
 		}
@@ -268,8 +337,9 @@ public class GetData {
 					}
 				}
 				if(awayTeamPlayers[i].id == -1)
-					awayTeamPlayers[i].id = Player.totalPlayers++;
+					awayTeamPlayers[i].id = Player.id++;
 				at.players.addLast(awayTeamPlayers[i]);
+				Player.totalPlayers++;
 				s.addPlayerToSeason(awayTeamPlayers[i]);
 			}
 		}
