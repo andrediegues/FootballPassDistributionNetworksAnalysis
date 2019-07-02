@@ -1,4 +1,4 @@
-# WebScrapingResearch
+# FootballPassDistributionNetworksAnalysis
 
 This is a project from the Initiation to Scientific Research course and it's a data analysis to network distributions of passes in football matches.
 
